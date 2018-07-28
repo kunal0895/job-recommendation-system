@@ -1,0 +1,261 @@
+
+
+
+
+job application for big data engineer at jornaya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+big data engineer
+
+        at jornaya
+      
+(view all jobs)
+
+        conshohocken, pa
+      
+
+
+who is jornaya?
+at jornaya, we believe in using innovative technology and data that empowers companies to connect with their customers and prospects at the right time and in the most meaningful way.  we take pride in helping our clients understand and apply our solutions and data to improve their digital marketing strategies in new and creative ways. when our clients win, we win.
+ 
+position overview
+we are looking for data engineers at all levels to join our engineering organization and contribute to the development of our cutting edge products. these products rely on and produce the data that drives our business and our customer’s business. as a member of our team you will work on collecting, storing, processing and analyzing huge sets of data using technologies such as hadoop, spark and aws glue.
+cultural attributes
+
+you are clever, self motivated, and not happy unless you’re getting things done.
+you understand the appropriate architectural and design issues involved in building scalable, reliable, high-performing software solutions for web, mobile and other cutting-edge delivery channels. 
+you excel in a collaborative environment where your co-workers rely on your contributions to help guide the team to success.
+you have experience in working with agile/lean approaches and you understand the difference between being agile/lean and doing agile/lean.
+you are excited by the prospect of working in a dynamic, diverse, collaborative, transparent, non-hierarchical, and ego-free culture and you are excited by the prospect of proactively helping this culture evolve.
+you are committed to helping your team be as high performing as possible. 
+you will not compromise your belief that software best practices, like tdd, automated testing, and continuous integration are essential to delivering quality software.
+you know that work life balance is important and act accordingly.
+you don't object to writing minimally sufficient documentation or doing whatever else is needed to ensure delivery of a complete product. 
+you are not happy unless you understand and can see how your efforts directly impact your customers.
+
+your qualifications
+
+bachelor’s degree in computer science/engineering preferred.
+proficiency building data processing systems with hadoop, mapreduce and hdfs using python and java.
+experience using querying tools such as pig and hive.
+experience building stream data processing systems using apache spark and pyspark.
+experience administering, optimizing and troubleshooting nosql databases such as mongodb or dynamodb.
+demonstrable experience utilizing agile (scrum/kanban) and creating an effective agile culture as well as implementing the appropriate agile practices.
+
+nice to have qualifications (if you do not have them, we will teach you!) 
+
+experience using aws services related to data processing..
+experience with different programming or scripting languages like java, linux, c++, php, ruby, python and r.
+experience developing adtech or martech applications and solutions.
+
+ 
+we just moved to conshohocken, pa! we are very excited and proud of our newly constructed, state of the art office complete with our own fleet of bicycles for the schuylkill river trail located directly out of our back door. our new office is specially designed to accommodate agile teams. our new office is also within walking distance of the train station and many local restaurants.
+jornaya offers usage of new mac laptops, casual dress, coffee, snacks, weekly catered lunches and a brand new office within a building and community laden with history.  each employment package includes competitive salary, stock options, 401(k), medical, dental and vision coverage and an unlimited vacation policy.
+please note, employment is contingent upon a successful background check.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+
+decision resources group - jobs: data engineer, analytics - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer, analytics
+
+data engineer, analytics
+boston, massachusetts, united states · data & analytics
+
+descriptionthe advanced analytics team at decision resources group (drg) provides custom and semi-custom data and analytical solutions to some of the largest biopharmaceutical and medical technology companies in the world. the advanced analytics team is composed of data scientists, social scientists, and software engineers. our work involves adapting computational sociology, data science, and product design to serve our clients’ needs. combining these methodologies we assist healthcare companies with their marketing, sales, and human resources objectives. with access to one of the largest healthcare datasets in the world and a rapidly growing market of clients, we’re helping transform healthcare. responsibilities  design      pipelines that extract data from health claims, ehr and other databases,      transform/clean them via complex algorithms, integrate them with other      data sets, and store them. write      and edit automated and semi-automated scripts for data analysis and      manipulation. model      semi-hierarchal healthcare data at multiple levels with formal knowledge      modeling and entity schemes perform      hybrid qualitative-quantitative work to evaluate data sources, data      pipelines, knowledge modeling schemes, and to recommend next steps collaborate      with team members to build project plans and timelines. transform      vague directives into concrete, actionable tasks, procedures, and outputs. help      supervise training of junior team members. requirements required qualifications  background      and experience in… software engineering – 3-5 years of       software development experience data engineering – 1-2 year of experience       developing software for data science purposes   team      and project skills around… project self-management; proven ability       to execute complex, open-ended projects with little supervision. teamwork, working with a close-knit group       of other data scientists and developers.   computer      science proficiency including in… software development, with accompanying       proficiency in a language - options include python or scala or       java or c/c++ or c# or objective c or ruby. general-purpose scripting, with       accompanying proficiency in a language - options include python or perl or ruby or bash. analytics/statistics scripting, with       accompanying proficiency in a language - options include python or r or stata or sas. os-level shell, with accompanying       proficiency in the shell language - options include bash or c-shell or       z-shell or powershell. sql - options include sql server or mysql or postgressql. software development best practices in       analytic settings, including accompanying tools such as task tracking and       version control systems.    desired qualifications  moderate      proficiency with… distributing computing frameworks -       options include spark or hadoop mapreduce.  cloud computing infrastructure - options       include aws w/s3 or azure. distributed data storage/database tools -       options include hbase or hdfs or cassandra or hive       or pig. comprehensive text editor environments       such as emacs. unix systems   background working with medical claims, electronic      health records, or other healthcare data sets. benefits decision resources group offers a competitive compensation package and medical, dental, vision and life insurance programs from first day of employment. we also offer a 401(k) retirement plan after two complete months of employment. we are an equal opportunity employer.#li-md1
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+decision resources group website
+
+powered by
+workable
+
+
+
+
+

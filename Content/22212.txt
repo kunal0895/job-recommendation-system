@@ -1,0 +1,38 @@
+senior data scientist at swipesensesenior data scientistchicago, ilfull-timeengineeringjob openingssenior data scientist%button_apply_to_position% apply using linkedinwho we are: swipesense is building an operating system for the hospital of the future, today. our mission is to eliminate hospital acquired infections, a leading cause of death in the united states, through several products built on top of our connected hospital platform - a combination of sensor networks, wearable technologies, and big data insights. our platform saves a life every two days, but we're just getting started. if you want to solve problems big and small, experiment relentlessly, and execute ruthlessly to help us save a life a day: welcome.
+swipesense is a high-growth venture backed company headquartered in chicago, il
+
+
+who we need: swipesense handles large-scale distributed iot hardware networks that produce massive amounts of real-time sensor data. we’re looking for someone who is excited about designing and building with the future of big data solutions in-mind. we are looking for an experienced engineer who relishes putting the latest advances in algorithms and machine learning to use, to make sense of multi-sensor data streams. 
+
+primary role: 
+responsible for the development and implementation of algorithms and machine learning methods to convert multiple sensor data streams, originating from a distributed sensor network, into accurate activity predictions. 
+
+key responsibilities: 
+
+develop distributed streaming algorithms to analyze and process high-volume sensor data in real time.
+optimize decision making algorithms to provide high-accuracy location and movement decisions using signal strength and other sensor data from a mesh network of low energy bluetooth devices.
+develop methods to analyze algorithm performance and grant insights into edge case and failure scenarios.
+oversee development of scoring scripts to guide algorithm improvements.
+create real-time performance metrics to accelerate iteration cycles and allow rapid prototyping.
+collaborate with embedded team on new sensor development to ensure sensor output meets algorithmic needs.
+collaborate with data engineers team to implement algorithms in production environment.
+
+
+key skills: 
+
+strong modern algorithm fundamentals: pattern recognition, machine learning, multi-sensor fusion, image processing, probabilistic modelling, etc.
+strong physics fundamentals, understanding of rf systems
+signal processing & information theory
+experience with cloud based distributed computing platforms like hadoop or spark
+knowledge of distributed data storage with hadoop, cassandra, or equivalent
+knowledge of data streaming technologies such as kafka or amazon kinesis
+deep understanding of big o notation and algorithm complexity analysis
+comfort with linux, bash, and open source tools.
+
+requirements: 
+
+ms or phd in computer science, computer engineering, electrical engineering or related field.
+no higher degree must be compensated by previous work experience.
+
+please note: position is full-time, at our chicago headquarters. must be legally authorized to work in the usa.  swipesense offers competitive compensation, stock options and excellent medical and dental benefits. m/f/d/v
+%button_apply_to_position%%footer_powered_by%breezy

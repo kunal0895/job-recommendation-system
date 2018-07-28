@@ -1,0 +1,270 @@
+
+
+
+
+job application for senior software engineer at ibotta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+senior software engineer
+
+        at ibotta
+      
+(view all jobs)
+
+        denver
+      
+
+
+ibotta is looking for a senior software engineer to come build something great with us. as part of the engineering team, you will work on the platform that powers our app that is used by millions of consumers. we're looking for a self-motivated engineer who has a real passion for building and scaling infrastructure using technologies such as ruby on rails, spark with scala, aws lambda with javascript, redis, dynamodb, and machine learning. every engineer has input into our product process and will have a real impact as part of a small, nimble team.
+here is what you’ll be doing:
+
+work with a cross-functional team to design and develop new features that will be used by millions of users
+use amazon’s aws infrastructure and advanced services daily
+identify and fix performance bottlenecks
+work with big data sets (hundreds of millions of rows)
+write tests and perform code reviews to ensure that we're shipping reliable, readable, and reusable code
+ship production code daily
+implement serverless architectures
+research and implement technology solutions for reliable, scalable, high-performing services
+
+here is what we’re looking for:
+
+bachelor’s degree in computer science, engineering or a related field and 5+ years of experience in software development
+strong experience across relevant technologies including ruby, java, javascript, scala, php, python, etc.
+strong knowledge of mysql, postgres, or other rdbms
+working knowledge of unix/linux
+working knowledge of source control systems including git
+knowledge of object-oriented software design, development, and architectural principles
+
+nice to have:
+
+ruby on rails
+building apis for internal or external applications
+experience with aws technologies such as dynamodb, kinesis, elastic mapreduce, or lambda
+big data technologies such as spark, hadoop, etc.
+machine learning
+automated testing using tools such as rspec or junit
+scrum/agile development
+
+about us:
+headquartered in denver, co, ibotta (“i bought a...“) is transforming the shopping experience by making it easy for consumers to earn cash back on everyday purchases through a single smartphone app. the company partners with leading brands and retailers to offer rebates on groceries, electronics, clothing, gifts, home and office supplies, restaurant dining, and more. ibotta is the premier destination for rewarded shopping on mobile and has paid out more than $250 million in cash back to its users. launched in 2012, ibotta has 23 million downloads and is one of the five most frequently used shopping apps in the united states.
+additional details:
+
+this position is located in denver, co and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity.
+ibotta provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics.
+applicants must be currently authorized to work in the united states on a full-time basis.
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this position? if referred by a current ibotta employee, please include their name. *
+
+
+
+
+
+
+are you authorized to work lawfully in the united states for ibotta? *
+
+
+
+
+
+
+will you now or in the future require ibotta to commence ("sponsor") an immigration case in order to employ you (for example, h-1b or other employment-based immigration case)? this is sometimes called "sponsorship" for an employment-based visa status. *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

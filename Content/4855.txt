@@ -1,0 +1,266 @@
+ 
+
+
+
+
+
+
+
+
+
+software engineer #0034 job at p2binvestor in denver, co, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+development | denver, co | full time
+
+
+
+
+
+
+job description
+
+
+software engineer 
+p2binvestor is looking for an experienced (minimum of 3-5 years) full stack developer who’s interested in building the next generation of lending software. we value creative thinking that respects the business needs of today while respecting where we need to be in the future. we’re looking for someone that can help inform, build and expand our existing infrastructure to move fast now and move fast later. 
+you will be responsible for building, developing, deploying and supporting features. you will also help brainstorm, vision, and implement the architectural needs as our code base grows and evolves. while we use ruby/rails, javascript, and postgres today, we're a fast-growing company with needs that change over time. we value people that can think and solve problems. we believe in using the right tools for the right job. 
+as we’re a technology enabled lending platform, our problems will only get more interesting. to give you a taste, you’ll have a hand building or supporting rich feature development (external & internal), data collection and analysis, automating pricing/credit risk models, banking, treasury management, and much more. 
+ 
+why work at p2binvestor? 
+p2bi is a marketplace lender who provides technology-enabled, multi-million dollar lines of credit to growing businesses. we were named a colorado company to watch and one of denver business journal's fastest growing companies in 2017. we are solving a big problem for other growing businesses and we're doing it in a new way through innovative banking partnerships, technology, and crowdfunding. our people, our process, and our technology all combine to deliver world-class financing to businesses. 
+we’re passionate about making more businesses, banks, and private investors become more successful while helping to mitigate financial risks for all. our mission is to become the largest most respected marketplace lender in the world. our core values are that we are bold in our approach. we are respectful to everyone. we are transparent with our stakeholders. and we care about being part of a diverse team. by joining our team, you have the opportunity to play an important role in a colorado startup success story. 
+ 
+our values: 
+
+
+engineers spend most of their day writing code. 
+
+
+pair when necessary. sometimes you need to solo, sometimes you need to pair. sometimes someone else needs that, so help them. 
+
+
+mentor our peers to enable everyone to achieve their goals. 
+
+
+the team, not individuals, are responsible for our platform. share the burden of mistakes, no blaming. 
+
+
+work/life balance. we believe diminishing returns are real, and after a while you’re doing more harm than good. go home, rest up, come back ready to work the next day. rarely does anyone stay past 5. 
+
+
+
+
+be proud of our software. we don’t ship code that is half-baked or we are not confident in. we’re dealing with serious money here and things must be right. 
+
+
+constant learning. 
+
+
+desired skills/experience: 
+
+
+competent in both frontend and backend development. 
+
+
+competent in modern deployment infrastructure and devops. 
+
+
+
+
+experience or interest in testing and agile methodologies. 
+
+
+experience leading projects, teams, and mentoring other engineers. 
+
+
+3-5 years of experience 
+
+
+preferred experience/interest: 
+
+
+finance/accounting 
+
+
+
+
+financial engineering 
+
+
+aws 
+
+
+machine learning & data science 
+
+
+data pipeline engineering 
+
+
+ 
+what we offer:  
+
+
+excellent benefits package. 
+
+
+diverse group of employees. 
+
+
+eligible for employee stock option plan. 
+
+
+competitive and encouraged pto. 
+
+
+
+
+awesome near downtown denver location with garage parking, onsite gym and café. 
+
+
+unlimited snacks, coffee, and tea. 
+
+
+weekly team breakfast and happy hour. 
+
+
+positive and collaborative environment. 
+
+
+ 
+all your information will be kept confidential according to eeo guidelines. 
+please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. duties, responsibilities and activities may change at any time with or without notice. 
+ 
+ 
+
+
+
+
+
+return to p2binvestor
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to p2binvestor
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

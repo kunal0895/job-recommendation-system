@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1961251
+												
+
+
+job title
+												
+
+systems engineer (computational photography) 
+
+
+
+
+post date
+													
+
+12/11/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	cdma technology
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - systems                           
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+our goal: 
+to design practical computational imaging algorithms that drive new camera features
+to bring these algorithms to life by proto-typing them and then implementing them on snapdragon
+to improve algorithms in the camera pipeline and finding new way of doing old things that improves performance
+take advantage of machine learning techniques and cnn when it is warranted  
+
+here is a list of some of the algorithms that we have developed and commercialized:
+ https://goo.gl/c2nzqn
+https://goo.gl/n1mot4
+https://goo.gl/nvwphl
+https://www.qualcomm.com/node/32729
+this link is internal to qc : 
+https://confluence.qualcomm.com/confluence/display/comp/computational%20photography
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+3 + yrs. industry experience in following areas: optimization  techniques, linear algebra, calculus, and statisticsc++ programming tensorflow and machine learning techniquescomputer vision and image processing
+
+
+
+preferred qualifications
+													
+
+
+
+experience in the following areas:
+software optimization techniques for memory, runtime, and power
+android ndk / sdk
+opencv / opengl
+git 
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: master's, computer engineering and/or computer science and/or electrical engineeringpreferred: doctorate, computer engineering and/or computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

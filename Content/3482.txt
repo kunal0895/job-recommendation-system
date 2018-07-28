@@ -1,0 +1,525 @@
+
+
+
+
+
+infrastructure developer - configuration monitoring  in  houston, tx | jpmorgan chase & co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+referral sponsor portal
+sign up now!
+login 
+
+
+
+
+
+
+divisions
+locations
+programs
+why us
+
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+divisions
+locations
+programs
+why us
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+menu
+
+
+referral portal
+
+
+
+
+
+
+
+
+
+careers / job search / job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+infrastructure developer - configuration monitoring
+
+req #: 170100627_2
+location:
+
+
+houston, 
+		tx,
+                us
+
+job category: technology
+potential referral amount: 5000 us dollar (usd)
+
+as an experienced infrastructure
+development professional, your love of technology will have a direct impact on
+the future of the business. as a senior member of a high-performance team,
+you’ll be immersed in all the elements of software development lifecycles-
+design, development, integration, operation, support and testing of
+infrastructure services. you’ll ensure team goals are met and best practices,
+architectural design standards, data, risk and security management policies are
+adhered to. you’ll be instrumental in designing, developing and testing code,
+solving more difficult technical issues, developing integration elements,
+building data models, apis, and open 3rd-party sdks. you’ll see your ideas come
+to life as part of a small, success-driven team. and as part of jpmorgan chase
+& co.’s global technology community, you’ll also have the ability to
+collaborate with peers around the world to tackle big challenges.
+this role requires a wide variety of
+strengths and capabilities, including:
+•significant
+experience in both systems engineering and software development
+•proficiency
+in at least one of these disciplines:
+ointernals
+of distributed operating system (unix/linux, windows, z/os) 
+osystems
+programming
+onetwork
+programming
+•experience
+using large scale software development in one of these languages: (java,
+python, .net,
+c++, etc.) ideally java and perl
+•experience
+using system and software security and entitlements such as sso, windows,
+kerberos, ldap, windows ad
+•experience
+with new and emerging technologies such as cloud and virtualization
+the candidate 
+will work with a new product called evolven and help the firm meet 
+several programs around configuration monitoring. the ideal candidate 
+will provide a unified technology solution for configuration collection,
+ reporting, and analytics across distributed systems and applications to
+
+detect drift and understand when there is change from the golden baseline or reference environment
+manage consistency and have confidence with system configurations
+detecting and alerting unauthorized changes
+creating a robust reporting of all of 
+the system configurations to provide a single point of view for all 
+changes, comparisons, and consolidated views to increase operational 
+efficiencies in analysis and remediation efforts along the lines of 
+patching, security vulnerabilities, and consistent configurations
+as part of the configuration 
+management and automation services (cmas) team you will help deliver the
+ next generation of automation frameworks to be adopted by all 
+technology teams that transforms how jp morgan chase approaches 
+resiliency, operational efficiencies, and adoption of modern devops 
+practices.
+
+
+configuration monitoring of the unix and windows platforms
+developing solutions to monitor drift and detect unauthorized changes across 140,000 servers
+developing solutions to automate a full application failover with no human involvement
+identifying operational inefficiencies and creating automated solutions to reduce manual work
+analyzing, designing, and writing applications
+developing tests and test-automation
+collaborate cross functionality with infrastructure developers, support teams, and other software engineering teams
+working with a team of software 
+engineers and infrastructure developers to deliver automation frameworks
+ that will be adopted by all technologists
+provide recommendations for continuous improvementsstrategic
+
+able to understand the existing processes, and issues with each
+able to articulate how the evolven product fits into these processes
+able to develop runbooks which incorporate automation into the existing process (or define new ones)
+able to define interfaces (dashboards, alerts, reports, etc.) meaningful to end users and management
+able to develop metrics/kpi's which can be used to demonstrate success (baseline vs. current)
+possess strong communication skills to liaison between business people and technical tasks
+has leverage needed for this, to ensure continued product usage, and to escalate when necessary
+able to assess when data is not valuable to the end users and/or their management
+able to define workflows for tactical tasks, and manage they are being performed
+able to manage the service (it is available and working properly at all times) and ensure it meets the sla
+tactical
+
+has strong admin, troubleshooting, and light programming (scripting) skills
+familiarity with regex, vbscript, windows batch/unix shell, javascript, perl, and java
+able to escalate and manage tickets with vendor support team
+able to follow daily/weekly/monthly/ad-hoc procedures defined
+able to quickly learn product features and stay current on capabilities from vendor
+able to work with change control and deploy patches and upgrades as necessary
+work with teams to perform backups/restores/failovers 
+able to perform tasks as defined, such as
+recurring (daily/weekly/monthly) tasks, such as
+
+reviewing reports, and following up on errors/disconnected systems/failing collections, and resolving
+monitoring database usage and configuring purging
+monitoring system up and performance
+on-demand tasks, such as
+creating/importing user
+
+creating dashboards/reports/alerts
+onboarding applications (discovery/collections/rules)
+adjusting data collections (e.g. removing noise)our corporate technology team relies on
+smart, driven people like you to develop applications and provide tech support
+for all our corporate functions across our network. your efforts will touch
+lives all over the financial spectrum and across all our divisions: global
+finance, corporate treasury, risk management, human resources, compliance,
+legal, and within the corporate administrative office. you’ll be part of a team
+specifically built to meet and exceed our evolving technology needs, as well as
+our technology controls agenda
+when
+you work at jpmorgan chase & company, you're not just working at a global
+financial institution. you're an integral part of one of the world's biggest
+tech companies. in 14 technology hubs worldwide, our team of 40,000+
+technologists design, build and deploy everything from enterprise technology
+initiatives to big data and mobile solutions, as well as innovations in
+electronic payments, cybersecurity, machine learning, and cloud
+development.  our $9.5b+ annual investment in technology enables us to
+hire people to create innovative solutions that will not only transform the
+financial services industry, but also change the world.
+at
+jpmorgan chase & company, we value the unique skills of every employee, and
+we're building a technology organization that thrives on diversity.  we
+encourage professional growth and career development, and offer competitive
+benefits and compensation. if you're looking to build your career as part of a
+global technology team tackling big challenges that impact the lives of people
+and companies all around the world, we want to meet you. 
+
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our talent community
+not ready to apply? leave your information with us and we will keep you up to date with new career opportunities.
+join now
+
+
+
+things to note
+sign in to our application system to continue your job search or update your profile.
+current employees sign in here.  contractors sign in here.
+any information you provide is confidential and will only be viewed by our recruiters in an effort to fill open positions. in addition, the information you provide is subject to our privacy policy practices.
+please note that j.p. morgan will not accept unsolicited approaches or speculative cvs, nor will j.p. morgan be responsible for any related fees, from third party firms who are not preferred suppliers.
+the firm invites all interested and qualified candidates to apply for employment opportunities.
+need disability related assistance?
+if you are a us or canadian applicant with a disability who is unable to use our online tools to search and apply for jobs, please click here.
+important links
+click here to view the "eeo is the law" poster.
+click here to view the "eeo is the law" supplemental poster.
+click here to view our u.s. pay transparency policy.
+jpmorgan chase is an equal opportunity and affirmative action employer disability/veteran.
+
+
+
+
+
+
+
+your career. your way.
+
+privacy & security
+terms of use
+cookies policy
+
+
+equal opportunities
+site map
+
+
+
+
+
+
+
+
+
+
+corporate twitter links
+
+
+
+
+jpmorgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+
+jpmorgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+jpmorganchase.com
+jpmorgan.com
+chase.com
+
+
+
+
+
+corporate twitter links
+
+
+
+j.p. morgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+j.p. morgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 jpmorgan chase & co. all rights reserved. powered by smashfly
+
+
+
+
+
+
+
+
+
+
+

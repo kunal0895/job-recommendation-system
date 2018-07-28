@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+engineering | docker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is docker?
+product
+get dockerfor desktops
+mac
+windows
+for cloud providers
+aws
+azure
+for servers
+windows server
+centos
+debian
+fedora
+oracle linux
+rhel
+sles
+ubuntu
+
+docs
+community
+
+create docker id
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+create docker id
+sign in
+
+
+search form
+
+search 
+
+
+
+
+
+
+
+
+what is docker?
+product
+get dockerfor desktops
+mac
+windows
+for cloud providers
+aws
+azure
+for servers
+windows server
+centos
+debian
+fedora
+oracle linux
+rhel
+sles
+ubuntu
+
+docs
+community
+ 
+
+
+
+
+
+
+
+engineering “we are designing and building tools of mass innovation." 
+
+
+
+
+careers
+engineering
+software engineer in test
+
+
+
+software engineer in test
+
+
+raleigh, nc
+
+
+
+apply now
+
+
+
+
+docker is seeking experienced software engineers to join our test automation team. you will build unified test automation infrastructure and tooling to ensure efficient end-to-end test coverage. your work will span the entirety of our complex product ecosystem, and will be highly visible across all of engineering.
+responsibilities:
+
+
+create test plans and identify automation opportunities
+
+build the testing framework to simulate end-to-end scenarios using various platforms and technologies
+
+build and maintain functional automated test suites
+
+
+educate docker team members on automation framework and principles
+
+
+constantly evaluate the test automation strategy and approach to identify areas of improvement
+
+build and automate tracking systems for quality metrics
+
+qualifications:
+
+5+ years of production experience building test automation frameworks
+
+you must be passionate about test automation and understand that test automation is a software project and is subject to the same discipline of execution as any other projects (tracking, design, branching, testing deployment etc.)
+
+
+bs degree in computer science or a related field
+
+
+experience with the docker platform
+
+
+proven track record of designing and implementing performance and scalability test suites for complex backend systems
+
+
+fluency in one compiled language such as: golang, java, or c++
+
+
+extensive experience building automated test cases is a must
+
+
+comfortable diving into new technical environments
+
+
+experience with jenkins and continuous integration systems  is a plus
+
+
+strong communication and organizational skills
+
+
+start-up experience a plus
+
+
+
+
+ 
+docker, inc. is the company behind the docker open source platform and is the chief sponsor of the docker ecosystem. docker is an open platform for developers and system administrators to build, ship and run distributed applications. with docker, it organizations shrink application delivery from months to minutes, frictionlessly move workloads between data centers and the cloud and can achieve up to 20x greater efficiency in their use of computing resources. inspired by an active community and by transparent, open source innovation, docker containers have been downloaded more than 6 billion times and docker is used by millions of developers across thousands of the world’s most innovative organizations, including adp, ge, the bbc, goldman sachs, groupon, ing, yelp, and spotify. docker’s rapid adoption has catalyzed an active ecosystem, resulting in hundreds of thousands of “dockerized” applications, hundreds of docker-related startups and integration partnerships with aws, alibaba, canonical, google, ibm, microsoft, and vmware.
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is docker
+what is a container
+customers
+for government
+for it pros
+find a partner
+become a partner
+about docker
+management
+press & news
+careers
+
+
+
+product
+pricing
+community edition
+enterprise edition 
+docker cloud
+docker store
+
+
+
+
+documentation
+blog
+rss feed
+training
+knowledge base
+resources
+
+
+
+events
+community
+open source
+forums
+docker captains
+scholarships
+community news
+
+
+
+
+
+status
+security
+legal
+contact
+ 
+
+
+
+
+
+					copyright © 2017 docker inc. all rights reserved.				
+
+
+twitter
+youtube
+google
+github
+linkedin
+facebook
+reddit
+slideshare
+
+
+
+
+
+
+
+
+
+
+
+
+
+

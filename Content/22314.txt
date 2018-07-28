@@ -1,0 +1,430 @@
+
+
+
+machine learning phd internship - summer 2018 - dropbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+machine learning phd internship - summer 2018
+
+    san francisco, ca
+
+
+
+company description
+dropbox supports hundreds of millions of creators and innovators around the world. our mission is to simplify the way people work together. dropbox business is trusted by over 200,000 companies to safeguard their most important information. as we continue to build the best place to create, share, and work with others, there’s a perfect spot for you to grow with us.
+team description
+new graduates and interns at dropbox work alongside industry leaders, architecting the growing family of products that handle over a billion files a day for people and businesses around the world. from day one, you’ll have the responsibility and the support you need to make a difference on a massive scale.
+role description
+dropbox’s machine learning (ml) group develops high impact solutions that touch millions of people and lots of data. from images to documents in every language, the dropbox ml team delivers solutions using a full range of ml techniques from computer vision to supervised learning to deep learning to online learning. while some of our algorithms run on mobile devices, others require large clusters on our infrastructure. 
+we are looking for machine learning interns pursuing a phd with an academic or practical background in machine learning, ideally with experience in natural language understanding, information retrieval, knowledge extraction, or deep learning.
+please include your expected graduation date on your resume.
+responsibilities 
+you will work to design, code, train, test, deploy and iterate on large scale machine learning systems. you will build delightful products and experiences for millions, working alongside a cross-functional team spanning engineering, product and design. you will apply your expertise in your area of research to practical problems faced by dropbox.
+requirements
+you are pursuing a phd in machine learning or a related field (e.g. nlp, information retrieval, computer vision), with expected graduation date by the end of 2019.you have publications in top-tier conferences or journals in your field.you have solid software engineering skills, including experience with python or c++.you have experience with machine learning software packages (e.g., scikit-learn, tensorflow, caffe, theano, torch) you have experience with one or more of the following: natural language processing, deep learning, bayesian reasoning, recommendation systems, learning for search, speech processing, learning from semistructured data, reinforcement or active learning, ml software systems, ml on mobile devices.
+benefits and perks
+100% company paid individual medical, dental, & vision insurance coverage401k + company matchmarket competitive total compensation packagefree dropbox space for your friends and familywellness reimbursementgenerous vacation policy10 company paid holidaysvolunteer time off company sponsored tech talks (technology and other relevant professional topics)
+
+
+    dropbox is an equal opportunity employer. we are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. a big part of that effort is our support for members and allies of internal groups like asians at dropbox, blackdropboxers, latinx, pridebox (lgbtq), vets at dropbox, women at dropbox, atx diversity (based in austin, texas) and the dropbox empowerment network (based in dublin, ireland).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+other open positions
+there are no open positions right now. check back soon—we're growing fast!
+
+
+
+
+
+
+demand planning engineer
+san francisco, hq
+
+
+
+
+director of engineering development infrastructure
+san francisco, hq
+
+
+
+
+engineering manager, infrastructure
+san francisco, ca
+
+
+
+
+engineering manager, infrastructure engineering
+new york, ny
+
+
+
+
+manager, supply chain
+san francisco, ca
+
+
+
+
+mysql dba engineer
+san francisco, ca
+
+
+
+
+security engineer
+san francisco, ca
+
+
+
+
+site reliability engineer
+san francisco, ca
+
+
+
+
+software engineer - desktop platform
+seattle, wa
+
+
+
+
+software engineer - infrastructure
+seattle, wa
+
+
+
+
+software engineer - infrastructure
+san francisco, ca
+
+
+
+
+software engineer - mobile platform (ios)
+san francisco, ca
+
+
+
+
+software engineer intern - summer 2018 
+san francisco, ca; seattle, wa; new york, ny
+
+
+
+
+software engineer, accessibility
+san francisco, ca
+
+
+
+
+
+
+
+
+
+
+
+dropbox
+
+
+plus
+
+business
+
+enterprise
+
+paper
+
+plans
+
+
+
+
+using dropbox
+
+
+help center
+
+security
+
+productivity
+
+apps and integrations
+
+
+
+
+company
+
+
+about us
+
+contact
+
+blog
+
+
+
+
+downloads
+
+
+desktop app
+
+mobile apps
+
+
+
+
+legal
+
+
+privacy
+
+terms
+
+
+
+
+
+
+
+
+
+
+choose a language
+
+
+
+bahasa indonesia
+
+
+bahasa malaysia
+
+
+dansk
+
+
+deutsch
+
+
+english (united kingdom)
+
+
+english (united states)
+
+
+español (españa)
+
+
+español (latinoamérica)
+
+
+français
+
+
+italiano
+
+
+nederlands
+
+
+norsk (bokmål)
+
+
+polski
+
+
+português (brasil)
+
+
+pусский
+
+
+svenska
+
+
+українська
+
+
+ไทย
+
+
+中文（简体）
+
+
+中文（繁體）
+
+
+日本語
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    english (united states)
+                    
+
+
+
+
+
+
+
+
+
+

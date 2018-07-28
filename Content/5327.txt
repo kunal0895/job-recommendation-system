@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+data scientist
+
+
+				apply
+			
+
+
+
+job number:
+								12972
+						
+
+position title:
+
+
+external description:
+equifax empowers businesses and consumers with information they can trust. with a strong heritage of innovation and leadership, we leverage our unique data, advanced analytics and proprietary technology to enrich the performance of businesses and the lives of consumers.qualified candidates will have algorithm development and/or modeling background, data science, machine learning, and distributed computing. the ideal candidate will combine the skills to create new prototypes with the creativity and thoroughness to ask and answer the deepest questions about the data, and to push the boundaries of what is possible with big data analytics/modeling.  experience in credit risk scoring and associated methods is highly beneficial.responsibilities:data scientist is an integral part of the data science innovation team that works closely with internal clients in all phases of the prototype development.integrate diverse data sources, data types and data structures into solutionsdevelop analytical approaches to meet business requirements; this involves translating requests into use cases, test cases, preparation of training data sets and iterative algorithm developmentwork with key stakeholders and understand their needs to develop advanced solutions or improve existing solutions around data and analytics.work in a cross-functional, matrix organization, at times under ambiguous circumstances.partner in development of scalable solutions using large datasets with other data scientists on the teamresearch innovative data solutions to solve real market problems.conceptualize, analyze and develop actionable recommendations for strategic challenges facing the organization.manage data analysis to develop fact-based recommendations for innovation projects.mine big data and other unstructured data to tap untouched data sources and deliver insight into new and emerging solutions.work with cross-functional teams to develop ideas and execute business plans.remain current on new developments in data analytics, big data, predictive analytics, and technology.qualifications:master's degree or higher in computer science or a closely related engineering field. ph.d. highly preferred. people with relevant experience will be considered at a senior level.mastery in at least one programming languages such as python, scala, java, perl or similar language is a must.excellent problem solving skills with the ability to design algorithms, which may include data cleaning, data mining, data clustering and pattern recognition methodologiesexperience working with very large datasets, knowledge of distributed computing tools (spark, mapreduce, hive, apache mahout etc.) a plusfamiliarity with agile development including scrum and other lean techniques is a plus.strong sql skills in big data environment (hive, impala etc.) a plusproven experience of developing risk and marketing models using sas or a similar statistical tool is a plus.ability to work cross-functionally in a highly matrix driven organization, at times under ambiguous circumstancespersonal qualities desired: perseverance, creativity, tenacity, curiosity, and passion for deep technical excellence.primary location:usa-atlanta-one-atlantic-centerusa-atlanta jv whitefunction:function - data and analyticsschedule:full time
+						
+					
+						
+city:
+								atlanta
+						
+
+location_formattedlocationlong:
+								atlanta, georgia  us
+						
+
+state:
+								georgia
+						
+
+community / marketing title:
+								data scientist
+						
+
+company profile:
+
+
+requisition number:
+								j00055303
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+statistical analyst
+
+las condes, cl-rm
+
+model risk management consultant
+
+madrid - castellana, es-m
+
+data and analytics consultant
+
+london, uk-gl
+
+consultor de marketing analytics
+
+madrid - castellana, es-m
+
+human capital & talent analytics director
+
+atlanta, ga
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

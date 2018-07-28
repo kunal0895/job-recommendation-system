@@ -1,0 +1,465 @@
+
+
+
+
+job application for systems engineer at the marketing arm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+systems engineer
+
+        at the marketing arm
+      
+(view all jobs)
+
+        dallas
+      
+
+
+our focus? make brands mean something to consumers no matter how they come in contact.
+which is why we have deep expertise across multiple disciplines. this creates an integrated solution of the critical marketing capabilities our clients need. not to mention less overhead and more cohesive thinking.
+it works! over 100 top brands agree.
+founded in 1993, the marketing arm has a distinctive culture that aims to inspire the best people to improve daily, think bigger, and maximize fun.
+we have 750+ employees across 15 offices in 10 countries, and are a part of the das group of companies, a division of omnicom group inc.
+if you care about awards, we’ve got those too: “most awarded agency,” “most creative agency,” “best places to work,” lions, pencils, clios, reggies … you name it.
+our culture is unbeatable, and we're growing in size and capability every day. we have fun, take pride in our work, and welcome talented people who want to do the same.
+be anywhere. do anything. start here.
+ 
+job overview:
+we are expanding our it team! we are looking for an innovative and forward-thinking team player that will install, deploy, and maintain different engineering initiatives within the organization. this engineer will work directly with implementation, testing, deployment, and integration of network systems, providing high-level support and technical expertise, including vms, mpls, and lan/wan hardware.
+responsibilities:
+
+establishes networking environment by designing system configuration; directing system installation; defining, documenting, and enforcing system standards.
+maximizes network performance by monitoring performance; troubleshooting network problems and outages; scheduling upgrades; collaborating with network architects on network optimization.
+secures network system by establishing and enforcing policies; defining and monitoring access.
+updates job knowledge by participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.
+reporting network operational status by gathering, prioritizing information; managing projects.
+design and implement multi-site windows active directory infrastructures.
+strong mac skillset for large creative base to accommodate wan deployments, back end scripting pushes, ad integration, and monitoring\data collection.
+support linux and windows file services utilizing smb and afp.
+linux, osx command line, and proprietary system support.
+deploy and manage server infrastructure including active directory, group policies, patching, security, and compliance, etc.
+deploy and manage it operations management infrastructure tools
+script routine tasks to run in an automated fashion
+provide consulting services and support for release package testing, installation, deployment and operation
+plan, install, build, manage, support, configure and test server infrastructure components and connectivity.
+identify physical facility requirements needed to operate server infrastructure components
+provide primary system administration, configuration, and troubleshooting of the windows servers environment and performance issues
+analyze windows systems, check processes and log files, and retrieve and review information contained within logs for troubleshooting. apply os patches and upgrades on a regular basis, and upgrade administrative tools and utilities. configure/add new services as necessary.
+monitor and troubleshoot backups, scheduled jobs, and can monitor systems and processes and take proactive action
+provide troubleshooting and technical support services for server infrastructure and applications
+install new / rebuild existing servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with standards and project/operational requirements. perform system changes following existing change management processes.
+perform proactive capacity planning, including short term and long-term trend analysis, ensuring all server infrastructure devices are monitored for capacity and stability
+demonstrate the ability to time-manage and prioritize, take a proactive approach to improving services, and have an innovative and keen interest in learning new technologies.
+analyze user requirements and statistics to identify trends and resolve performance issues
+define and integrate current best practices (technical, security, process) in server infrastructure solution analysis and definition.
+interface directly with end users, c level management, and other it groups/vendors to coordinate and implement company wide solutions.
+
+qualifications:
+
+ccna certification required
+project management and problem-solving skills
+lan knowledge
+networking knowledge
+network design and implementation experience
+network troubleshooting
+network hardware configuration
+network performance tuning
+people management
+windows server
+linux, osx, basic sql
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile* *
+
+
+
+
+
+
+personal website*
+    
+
+
+
+
+
+how did you hear about this job?* *
+
+
+
+
+
+
+
+  linkedin
+
+
+
+  career page
+
+
+
+  glassdoor
+
+
+
+  indeed
+
+
+
+  career fair
+
+
+
+  employee referral
+
+
+
+  facebook
+
+
+
+  instagram
+
+
+
+  twitter
+
+
+
+  other
+
+
+
+
+if referred by an employee, who?*
+    
+please list first and last name of referring employee so they can get credit for you.
+
+
+
+
+
+please indicate your highest level of education completed.* *
+
+
+
+please selecthigh school diploma / ged
+currently attending
+college/university
+completed associate degree
+completed bachelor's degree
+completed master's degree
+completed doctoral degree
+other
+
+
+what are your base salary expectations?* *
+
+please indicate the general salary range you are interested in that aligns with your experience.
+
+
+please select$30,000 - $35,000
+$35,000 - $40,000
+$40,000 - $45,000
+$45,000 - $50,000
+$50,000 - $55,000
+$55,000 - $60,000
+$60,000 - $65,000
+$65,000 - $70,000
+$70,000 - $75,000
+$75,000 - $80,000
+$80,000 - $85,000
+$85,000 - $90,000
+$90,000 - $95,000
+$95,000 - $100,000
+$100,000 - $110,000
+$110,000 - $120,000
+$120,000 - $130,000
+$130,000 - $140,000
+$140,000 - $150,000
+$150,000 +
+
+
+are you subject to any confidentiality, non-solicitation or non-compete agreements?* *
+
+
+
+--
+yes
+no
+
+
+are you legally authorized to work in the united states?* *
+
+
+
+--
+yes
+no
+
+
+will you require our company to file an application for a visa based upon your employment to begin or continue your employment with us? if you currently have a non-immigrant statues, for example j-1, f-1 or h-1, your answer to this question should be 'yes'.* *
+
+
+
+--
+yes
+no
+
+
+have you interviewed with tma in the past? if so, when and with whom?* *
+
+
+
+
+
+
+are you willing to relocate? if so, where to?* *
+
+
+
+
+
+
+
+  chicago, il
+
+
+
+  dallas, tx
+
+
+
+  darien, ct
+
+
+
+  irvine, ca
+
+
+
+  los angeles, ca
+
+
+
+  new york, ny
+
+
+
+  other
+
+
+
+  n/a
+
+
+
+
+when are you available to start?* *
+
+
+
+
+
+
+i understand that this application requires a thorough pre-employment background investigation. this investigation is limited to only that information required determining fitness for employment and may include, but is not limited to: employment history verification, job performance, and disciplinary record. by signing this document, i agree to hold harmless any previous employer, agent of that corporation, or any individual organization providing information pursuant to this authorization.* *
+
+your e-signature required to complete your application.
+
+
+please selecti have read the above statement and accept it.
+i do not accept the above statement.
+
+
+fcra; as a part of this profile, you are asked to acknowledge your understanding of the fair credit reporting act in the following government form. please read this statement carefully and register your acknowledgement below. this is to inform you that as a part of our procedure for processing your employment application, we may obtain a consumer report and/or an investigative consumer report which includes information as to your character, general reputation, personal characteristics and mode of living.  if an investigative report is requested, you have the right to make a written request within a reasonable period of time for a complete and accurate disclosure of additional information concerning the nature and scope of the investigation. by agreeing below, you acknowledge receipt of a copy of the foregoing notice.* *
+
+a summary of your rights under the fair credit reporting act
+article 23-a of new york correction law
+
+
+please selecti agree: i have read the above statement and authorize the marketing arm to obtain a consumer investigative report.
+i do not agree: i have read the above statement and i do not authorize the marketing arm to obtain a consumer investigative report.
+
+
+as a part of this profile, you are asked to register your acceptance of the following statement. please read the following section carefully: the marketing arm is an equal opportunity employer. this policy prohibits discrimination based on race, color, sex, age, religion, ancestry, national origin, sexual orientation, or disability. all employment decisions shall be consistent with the principles of equal employment opportunity. by submitting this application, i agree to the following:  a) i understand that the receipt of this application does not imply that i will be employed.  b) the statements and information furnished by me in this application are true and complete. i understand that i will be subject to immediate dismissal or refusal to hire if at any time the company discovers any material falsifications, mission, or misrepresentation of fact in this application.  c) i authorize the company to conduct a background inquiry to verify the statements and information on this application. i authorize all previous employers to release such information to the company. i hereby release any individual, agency, and the company from all claims or liabilities whatever that may arise from the disclosure of such information.  d) i understand that i may be required, depending upon my position, to sign a non-compete, confidentiality, and/or business ethics agreement as a condition of my employment.  e) i understand that all employees of the company are employees-at-will. if hired, i will be free to resign at any time. likewise, the company will have the right to terminate my employment at any time with our without any reason or notice, regardless of the date of payment of my wages or salary.  f) i agree to conform to the rules, regulations and procedures of the company, which i acknowledge are subject to change at any time at the sole discretion of the company. g) this application is not considered valid unless signed and dated.* *
+
+
+
+please selecti accept; i have read the above statement and accept it.
+i do not accept; i do not accept the above statement.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

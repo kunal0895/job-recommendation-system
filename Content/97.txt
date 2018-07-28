@@ -1,0 +1,241 @@
+
+
+
+
+job application for data engineer at vice u.s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at vice u.s.
+      
+(view all jobs)
+
+        vice bk
+      
+
+
+about the role:
+we are seeking a data engineer to join our team, helping to build and maintain a new business intelligence platform that supports data analysis, exploration, and aggregation of data across multiple source systems. in this role you will get to work with large amounts of data coming from structured, semi-structured and unstructured data sources to create a hub for analysis and reporting.
+ 
+responsibilities 
+
+develop reliable data pipelines that convert data into powerful reports.
+design real time and batch data processing pipelines for different systems to consume
+develop tools to monitor, debug, and analyze data pipelines
+design and implement data schemas and models that can scale
+collaborate closely with product team to build new features and infrastructure
+
+ 
+required skills & experience 
+
+2+ years of experience in etl work
+2+ years of experience in oltp and olap
+2+ years of experience in programming in any of python / java / scala / sql
+2+ years of experience on linux o/s with automation experience
+experience with data pipelines in any luigi, talend, aws glue and/or data pipeline is a plus.
+aws kinesis, emr, redshift and/or bigquery is a plus.
+google api, youtube api, facebook api, twitter api and/or oauth is a plus.
+strong experience in improving performance of queries and data jobs and scaling the system for exponential growth in data.
+strong analytical skills and query writing.
+expert debugging skills and emphasis on automated tests to build high quality systems
+bs in computer science, statistics, mathematics or related technical discipline
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+desired compensation
+    
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

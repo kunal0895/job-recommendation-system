@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+data analyst
+
+
+
+
+site
+
+
+dallas, tx
+
+
+
+
+employment duration
+
+
+part-time/casual
+
+
+
+
+job category
+
+
+business analytics
+
+
+
+
+apply now
+
+job brief
+we are actively seeking several motivated data analyst at our dallas, tx location!
+
+analytical mechanics associates, inc., (ama) is proud of our customer relationships, our diverse and dynamic work environment, and our employees' career satisfaction. ama is a small business specializing in aerospace engineering, business analytics, information technology, and visualization solutions. ama combines the best of engineering and mathematics capabilities with the latest in information technologies and visualization to build creative solutions. headquartered in hampton, va, ama has operations in huntsville, al; dallas and houston, tx; denver, co; santa clara and mountain view, ca; new orleans, la; and hancock county, ms. we offer a competitive salary and attractive benefits package. our website describes our corporate values and how they apply to the professional success and growth of our employees.
+job description
+analytical mechanics associates, inc. (ama) is actively seeking several motivated data analyst at our plano, tx location. project duration is 6-12 months with possible extensions. projected hours are 40 per week. key responsibilities include:
+
+develop an understanding of the business context of financial services data and the business process that generated related data.
+re-factor current data process to improve the aggregation and analysis of data based on assigned task.
+develop and own the intent related to data processes supporting the financial services business function.
+co-ordinate with multiple stakeholders and customers to refine business requirements, escalate data issues, backlog review and prioritization and accountable executive sign-offs on data requests.
+translate knowledge of the business context and business process into suitable data sanity and validation checks
+
+education and qualifications
+
+candidates should possess a m.s. in an analytical field (math, computer science, engineering), or equivalent with 2+ years of professional experience.
+
+experience should include:
+
+2+ years of experience in data analyst role in mortgage domain (default/servicing area)
+2+ years sql experience (teradata preferred), must be hands-on with sql
+strong desire and experience with data in various forms (data warehouses/sql, unstructured data environments/pig,hive, impala)
+working knowledge of at least one analytics programming language – sas, r, python, java, vba
+enterprise applications and reporting (tableau, cognos, business objects, etc.)
+experience leading projects to deliver complex data management solutions; working with internal and external partners
+2+ years of experience working within process management and improvement methodologies – lean, six sigma, etc.
+2+ years of experience delivering data governance and data quality management concepts and practices within the financial services industry
+2+ years of experience working with agile development methodologies
+experience with git hub, subversion, or similar version control software
+unix experience is a plus
+
+ama is an equal opportunity employer.
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

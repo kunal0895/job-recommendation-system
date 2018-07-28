@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ bank of america job - sr. quantitative financial analyst - quantitative financial analyst - counterparty model risk management , charlotte, nc, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+menu
+
+
+
+
+
+navigation
+
+home 
+our company
+
+our business
+
+
+working here
+
+culture, inclusion, people
+military & veterans
+benefits & advantages
+career development & learning
+recruitment tips
+
+
+locations
+career areas
+
+search jobs
+events
+applicants with disabilities
+
+united states
+change location
+
+argentina
+australia
+bahamas
+bahrain
+belgium
+brazil
+canada
+cayman islands
+chile
+china
+colombia
+costa rica 
+france
+germany
+greece
+hong kong
+india
+indonesia
+ireland
+isle of man
+israel
+italy
+japan
+jersey
+lebanon
+luxembourg
+malaysia
+mexico
+monaco
+netherlands
+norway
+panama
+peru
+philippines 
+poland
+portugal
+russia
+saudi arabia
+singapore
+south africa
+south korea
+spain
+sweden
+switzerland
+taiwan 
+thailand
+turkey
+united arab emirates
+united kingdom
+united states
+uruguay
+venezuela
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+sr. quantitative financial analyst - quantitative financial analyst - counterparty model risk management
+charlotte, nc, united states
+job number: 17070269
+back to job search results
+
+
+apply now for this job >
+
+
+
+job description
+
+job description:responsible for validating xva models developed by front office model developers and imm/ccr models developed by global risk analytics, covering all asset classes. validator is to perform independent testing to identify/quantify model risk, and prepare validation report and technical documents, working closely with business, market risk, finance/pvg and other control functions. validator is to maintain a sub-portfolio of model inventory and perform annual model reviews, on-going monitoring reviews, and required action items closure.business overview:bank of america - merrill lynch is looking for a quantitative finance analyst in the counterparty model risk management team. the group is a multi-national team within enterprise model risk management primarily based in new york and london. it covers all aspects of model validation and model risk of front office credit/funding value adjustment (xva) models, margin models, and counterparty credit risk (ccr) models including counterparty internal method models (imm). the team covers cross asset classes of over-the-counter derivatives for xva/ccr/imm calculation ranging from interest rates, fx, commodity, inflation, equity, credit and collateral modeling.candidate will work closely with front office and global risk analytics model developers, as well as finance/pvg and other risk management groups•validate xva system models and feeder models of bank’s counterparty systems developed by quantitative strategy group and global risk analytics, including all asset classes: ir (interest rates), fx (foreign exchange), inflation, equity, commodity, credit, mortgage, as well as collateral exposure modelling.•candidate is expected to play a lead role in validation of fva, mva and kva models•review the underlying assumptions, theory, derivation, empirical evidence, implementation and limitations of the model being validated•perform independently testing to identify/quantify model risk associated with the model being validated•prepare validation report and technical documents for the model being validated•work closely with the model stakeholders (business, market risk, finance/pvg and other control functions) with respect to compensating controls of the models and communication of validation outcomes•maintain a sub-portfolio of model inventory and perform annual model reviews, on-going monitoring reviews, and required actions items closure.requirements:•phd or master degree in quantitative fields such as mathematics, statistics, physics or equivalent•in depth understanding of financial mathematics including stochastic calculus and probability theory, as well as derivative pricing and risk models including interest rates and credit risk modelling.•exceptional knowledge of financial derivatives, otc trading and hedging, collateral management, capital management, bank’s operations and regulatory requirements•knowledge of fva, mva and/or kva models, including collateral and discounting under different csa, is essential.•strong coding ability in c++, python or r is a plus•5+ years’ work experience is required in quantitative modelling and/or validation in cva/ccr or derivative pricing models. experience on fva/kva models is a plus.•being critical thinking, intellectually curious, detailed-oriented, well-organized, quick learning and a team player with good communication skills (both written and verbal)
+
+
+posting date: 10/16/2017 
+location: charlotte, nc, one bank of america center, 150 n college st,  - united states 
+
+travel: yes, 5% of the time 
+
+
+full / part-time: full time 
+hours per week: 40 
+shift: 1st shift  
+
+
+
+
+already have a candidate profile? log in to access and update your current profile to access and update your current profile.  
+assistance for applicants with disabilities
+bank of america is committed to ensuring that our online application process provides an equal employment opportunity to all job seekers, including individuals with disabilities. if you believe you need a reasonable accommodation in order to search for a job opening or to submit an application, please visit the applicants with disabilities page. 
+diversity & inclusion
+at bank of america, our commitment to diversity and inclusion is helping us to create not only a great place to work, but also an environment where our employees, our customers and our communities around the world can reach their goals and connect with each other. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
+frequently asked questions 
+need to know how to apply online, view a list of your submitted job applications or reset your password? visit our faq section for answers to these questions and more.
+
+bank of america employees
+bank of america employees should access the internal jobs database.
+
+
+
+
+
+
+return to top
+
+
+faq | 
+events | 
+campus | 
+about us | 
+returning job seekers | 
+pay transparency | 
+privacy policy | 
+eeo statement | 
+site map 
+
+
+© bank of america, n.a. member fdic. equal housing lender. © 2014 bank of america corporation. all rights reserved.
+
+follow us:
+
+go to twitter page
+
+twitter page :  bofa_careers
+twitter page :  ml_careers
+
+
+go to facebook page
+go to linkedin page
+
+linkedin page :  bank of america
+linkedin page :  merrill lynch 
+
+
+
+
+
+
+life's better when we're connected 
+
+
+
+
+
+
+
+
+thanks for your interest in this job
+we're updating our website and regret that we cannot accept your job application right now. please try again after 1 a.m. gmt monday, 12 december. 
+thank you for your patience!
+life’s better when we’re connected ®
+
+
+
+
+
+
+
+
+
+
+

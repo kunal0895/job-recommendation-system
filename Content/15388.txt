@@ -1,0 +1,60 @@
+
+
+
+
+pingup - jobs: full stack software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+full stack software engineer
+
+full stack software engineer
+boston, massachusetts, united states
+
+descriptionthe best way to predict the future is to create it.at pingup, we are creating the future of transactions for local service businesses. we connect local businesses to consumers via buttons, links and bots in frictionless and profitable interactions.teamhow we work together sets us apart – energetic about challenging the status quo, supportive of each other and passionate about making a difference in all we do.our team is experienced, accomplished and engaged. it includes book authors, marathon runners, a leading tech non-profit founder, ex-techno dj and concert organizer, avid fishermen, and the 80th person to sign-up for facebook with one of the longest dormant profiles on record.we have an open, collaborative culture. our pace is fast and every team member makes a meaningful impact.positionyour position will be full stack software engineer, specializing in node.js and client-side javascript, and reporting to the cto.you'll be expected to jump into our technology stack and start shipping code immediately, with a direct impact on the direction of the product, team, and company. this role requires working closely with stakeholders including the ceo and management team to support the company vision and product roadmap. in this position you will develop both the front-end and back-end components of web apps and api integrations.requirementsapplicants should be able to demonstrate proficiency with popular node libraries such as express, bluebird, async, as well as browser-side libraries such as jquery and backbone.familiarity with promise-based design patterns and asynchronous event-loop programming are required, as well as proficiency with both sql (specifically mysql) and nosql (specifically mongodb) databases and redis are required. some experience with linux administration and nginx is preferred.  to apply, please send a link to any public projects you have developed on github and/or published on npm.benefitspingup is located on the cutting edge of boston’s innovation district in south boston. walking distance to castle island, team members enjoy walks and jogs on the beach, free parking and a monthly uber allowance for downtown runs.we have our eye on a big prize and are working hard to get it - fresh snacks, kegerator and unlimited vacation keep the team energized.prospective employees will be offered a combination of salary, equity, 401k and health/dental/vision benefits, as well as stipends for transportation, education, communication and wellness that exceed market rates.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+pingup website
+
+powered by
+workable
+
+
+
+
+

@@ -1,0 +1,302 @@
+
+
+
+
+job application for associate data scientist/sr. analyst at ibotta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+associate data scientist/sr. analyst
+
+        at ibotta
+      
+(view all jobs)
+
+        denver
+      
+
+
+are you tired of the same routine? want to play an integral role in building something bigger? ibotta is seeking a associate data scientist who will help build out innovative new analytical capabilities. as an associate data scientist/sr. analyst you will be responsible for serving as a technical analytics lead to help deliver against our business objectives.
+here is what you’ll be doing:
+
+design, develop and manage large scale, big data-driven machine learning models that are integrated with key product features. some examples of potential projects include:
+
+recommendation system that leverages robust, granular customer data sets and various modeling approaches to ensure the most relevant content is shown to each user
+real-time user-specific pricing optimization 
+look-alike modeling algorithms that determine a user’s propensity to take an action in the future 
+multivariate testing framework that empirically evaluates the efficacy of product enhancements as quickly as possible
+
+collaborate with engineering and advanced analytics leads to establish analytic standards and platforms that scale and can be leveraged in various initiatives throughout the organization
+ensure that testing and validation is a pervasive component of data science solutions
+deliver world class data-driven products in partnership with cross functional teams (product managers, data engineers, software engineers, etc.)
+communicate complex data science solutions, concepts and the results of analyses in a clear and effective manner to business stakeholders and technology leaders to maximize the effectiveness of data science initiatives
+
+here is what we’re looking for:
+
+ms in statistics, math, computer science (or related field) and/or 2+ years of professional experience as a data analyst.
+experience using a data science toolkit like: python (strongly preferred), spark ml or r.
+comfort extracting data from both structured and unstructured sources using tools like: sql and spark. 
+the ability to think critically, leverage domain expertise and translate high-level business objectives into tangible data science solutions.
+a passionate desire to learn from a team of world-class data scientists.
+
+strongly preferred:
+
+experience working with distributed big-data tools like: spark, hive or presto.
+strong knowledge of core computer science principles, including: algorithms, data structures and oop.
+comfort working within a cloud-based infrastructure, ideally aws.
+
+about us:
+headquartered in denver, co, ibotta (“i bought a...“) is transforming the shopping experience by making it easy for consumers to earn cash back on everyday purchases through a single smartphone app. the company partners with leading brands and retailers to offer rebates on groceries, electronics, clothing, gifts, home and office supplies, restaurant dining, and more. ibotta is the premier destination for rewarded shopping on mobile and has paid out more than $250 million in cash back to its users. launched in 2012, ibotta has 23 million downloads and is one of the five most frequently used shopping apps in the united states.
+additional details:
+
+this position is located in denver, co and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity.
+ibotta provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics.
+applicants must be currently authorized to work in the united states on a full-time basis.
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+how did you hear about this position? if referred by a current ibotta employee, please include their name. *
+
+
+
+
+
+
+what are your compensation requirements? *
+
+
+
+
+
+
+which of the following types of projects do you have experience with?  *
+
+
+
+
+
+
+
+  recommendation systems
+
+
+
+  real-time bidding optimization
+
+
+
+  lookalike modeling
+
+
+
+  data projection
+
+
+
+  none of the above
+
+
+
+
+are you authorized to work lawfully in the united states for ibotta? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require ibotta to commence ("sponsor") an immigration case in order to employ you (for example, h-1b or other employment-based immigration case)? this is sometimes called "sponsorship" for an employment-based visa status. *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

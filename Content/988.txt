@@ -1,0 +1,404 @@
+
+
+
+
+job application for backend engineer at simple finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend engineer
+
+        at simple finance
+      
+
+        portland, or or remote
+      
+
+
+
+ 
+the company:
+we’re a tech company that’s changing how people bank and think about their finances. we value empathy, curiosity, craft and efficacy. our mission is to help people feel confident with their money. we do that by bringing humanity, elegance and ease to the consumer banking experience. and we make banking beautiful.
+the job:
+simple is built upon a rest-based service-oriented architecture. we’re looking for an engineer to join the team that builds and maintains this architecture.
+we value design skills, programming ability, and teamwork. you'll be helping design and implement high-performing distributed systems that integrate with our partners and provide the backbone for our awesome features. for the most part you’d be working in scala, with a bit of java. most of our data is stored in postgresql, we use kafka and rabbitmq, and we're hosted in aws. we don't require experience in our exact stack, but experience with the technologies we use is a plus.
+about you:
+you value open, active collaboration and work well with others, helping teammates who need it, and asking for the help you need in turn. you’re excited to pick up new skills, techniques, and technologies, and love to share what you’ve learned. you enjoy solving difficult problems such as occur in distributed systems, care about metrics, monitoring, and testing. you’re excited about working closely with people across the organization, from your direct teammates to members of ops, and customer service. you want to be a part of building something beautiful and meaningful, even if user interface isn’t your specialty.
+details:
+we recognize the dire lack of diversity in our industry, and we’re not okay with it. we actively seek to address it with our hiring and retention processes, as well as our office culture. if you’re on the fence about whether you’re a fit, we say go for it, and apply!
+why simple’s a great place to work
+
+based in portland, oregon-- a beautiful place to live and work (or just see in the background if you work remotely).
+competitive salary and benefits package.
+a supportive and nurturing place to work. we actively consider how we can improve employees’ quality of life--both inside and outside the office.
+committed to hiring quality human beings. simple is a place where others will watch out for you and help you learn. we actually like and respect each other.
+we give a damn about what we do, both as individual contributors and as a company on a mission to change banking. we’re passionate and nerdy about our work; in fact we’re kind of that way about things outside of work, too.
+
+in compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the united states and to complete the required employment eligibility verification document form upon hire. email our team at careers@simple.com if you need an accommodation in the application process.
+a background check will be required for this opportunity.
+simple provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability,​ or genetics. in addition to federal law requirements, ​simple ​complies with all ​applicable state and local laws governing nondiscrimination in employment in every location in which the company has ​employees. this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+by submitting this application, you certify that the facts contained in your application are true and complete to the best of your knowledge. if you are employed, false statements on your application will be grounds for termination.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you legally authorized to work in the united states? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require sponsorship for employment visa status (e.g., h-1b or f-1 visa status)? *
+
+
+
+--
+yes
+no
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at simple finance are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

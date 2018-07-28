@@ -1,0 +1,70 @@
+junior engineer at conduceemployeesjunior engineerst louis, mofull-timejob openingsjunior engineer%button_apply_to_position% apply using linkedinwe are growing, and we need more great developers who have creative problem solving skills, love inventing new things and solving hard problems.  
+ 
+the position:
+we are hiring junior engineers who seek the opportunity to write code that makes a direct impact on our business.
+ 
+as a junior engineer, you will work with mentors & senior engineers to improve our systems, deploy code to customer environments, process data, and implement new visualizations.
+ 
+qualifications:
+
+
+bs in cs or ce or equivalent experience
+
+
+0-5 years work experience
+
+
+ 
+we prioritize applicants who are:
+
+
+self-motivated to build products
+
+
+excited about having a direct impact on customers
+
+
+proven developers who are excited about implementing great code
+
+
+creative problem solvers
+
+
+good communicators
+
+
+ 
+bonus for applicant who:
+
+
+has experience with python, js, go, webgl, react, salt, terraform, jenkins, aws, azure, google cloud platform, vagrant, docker, lxc
+
+
+has used web mapping software like mapbox, arcgis to accomplish something
+
+
+has learned a new language on their own.
+
+
+has implemented algorithms from white paper descriptions
+
+
+has used web apis and pulled data from big data systems like hadoop
+
+
+has scraped data off of web pages
+
+
+has deployed apps to a mobile app store
+
+
+has contributed to public github projects
+
+
+has done data science work
+
+
+demonstrates competence with statistics, has used big data to tell a story
+
+
+%button_apply_to_position%%footer_powered_by%breezy

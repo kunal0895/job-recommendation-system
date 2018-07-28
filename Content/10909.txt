@@ -1,0 +1,358 @@
+
+
+
+
+jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+sign in
+sign up
+
+ help 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career portal
+
+
+
+
+
+
+
+
+
+failure message
+
+
+
+
+ 
+
+
+
+
+
+
+
+cannot parse, seems some issue with the profile, please create the profile manually
+
+
+alert message
+
+
+
+  job post has been updated successfully
+
+
+
+
+position title - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job share
+ 
+
+ 
+
+
+
+recipient email
+
+
+
+
+
+
+share
+cancel
+
+
+ 
+
+
+
+
+
+
+
+
+  
+
+
+ apply without registration
+ apply
+
+
+
+
+
+data scientist
+ san francisco, california - united states                                
+                                posted date - 10/16/17                                
+primary skillsimproving,•	deploying best-in-class / rapid delivery capability for mobile solutions. •	simplifying,and standardizing business work management processes for mobile needs. •	delivering high value analytics across all lines of businesses.  •	rapid delivery of web applications.overviewrole: data scientist 
+location: san francisco, ca 
+duration: 6+ months 
+
+team overview: 
+the digital catalyst team is a new enterprise team that is responsible for working collaboratively with the lines of business to implement consumer grade mobile and analytical solutions across various user groups (e.g., field users, office workers, etc.). this includes, but is not limited to: 
+
+deploying best-in-class / rapid delivery capability for mobile solutions.
+simplifying, improving, and standardizing business work management processes for mobile needs.
+delivering high value analytics across all lines of businesses. 
+rapid delivery of web applications. 
+
+ 
+digital catalyst consists of a staff of highly skilled professionals working together to produce mobile solutions following an agile methodology and design thinking. we are a “start-up” department within it and building driven and creative mobile development team. we take the time to understand our partners’ needs and translate those into solutions that delight our users. our goal is to deliver products with intuitive user experience that will improve employees’ and customer’s safety, productivity and overall well-being.
+ 
+position summary:
+ we are seeking an experienced data scientist in the digital catalyst team who will provide strong execution and delivery of data science. working as a part of the product team, this data scientist will translate business needs into advanced analytics and machine learning models. the successful candidate will be responsible for model selection and identification of appropriate training data sets; building, training, and evaluating models; and delivering results to the business on a regular cadence. this role is part of a fully agile scrum team, so the data scientist will work alongside a product owner, technical lead, and team of developers and data engineers to support delivery of high-value analytics and software products.
+ 
+position responsibilities: 
+
+leads development of high complexity models and training sets
+provides hands-on execution and implementation of data science models 
+translates business analysis needs into well-defined data science problems, and selecting appropriate models and algorithms and communicates model evaluation and implications of results back to stakeholders 
+recognizes and prioritizes the most important work related to data science models to achieve highest operational impact for analytics in the business 
+balances tradeoffs among analytics value, model development methods and design and technologies used to implement data science models with a bias toward action
+performs collaborative work on data science problems and mentor junior data scientists 
+creates shared process models, business objects, activity diagrams and process documentation to effectively articulate multiple views of the business solutions that support technical architecture.
+manages development of quantitative models and tools. 
+collaborates with leaders, other lobs, and business partners to work on issues, projects or activities.
+develops new or revises complex models to predict business demand trends, and volume and expenditures forecasts capacity analysis, and various other metrics to identify potential opportunities. 
+assesses business implications associated with modeling assumptions, inputs, methodologies, technical implementation, analytic procedures and processes, and advanced data analysis.
+partners with leaders to drive high performance in their lines of business. 
+develop deep understanding of business drivers and financial levers to provide strategic decision support.
+oversees resolution of complex projects and programs.
+develops and maintains up-to-date detailed project schedules and work plans.
+performs analysis on complex data models requiring customized reports and data and presents recommendations.
+
+ 
+minimum education/skills:
+
+bachelor’s degree in econometrics, economics, engineering, mathematics, applied sciences, statistics or job-related discipline or equivalent experience
+job-related experience, 8 years, or master’s degree and job-related experience, 6 years, or doctorate degree and job-related experience, 3 years
+experience in data modeling, 5yrs
+
+ 
+desired education / skills: 
+
+phd in engineering or a related field (computer science, natural sciences, mathematics)
+experience with python, r, scala, sql
+experience developing solutions with pandas/scikit-learn, spark or comparable technologies
+experience data science notebooks (jupyter, zeppelin or other)
+experience with aws, azure, cloud computing technologies
+scrum team experience
+energy industry experience
+experience designing efficient data science workflows and database architecture for data science purposes
+experience with forecasting, bayesian networks, and graph analytics
+strong statistics experience
+
+
+experience with software development methodologies and software engineering principles
+knowledge of program management theories, concepts, methods, best practices, and techniques as needed to perform at the job level
+knowledge of relevant programming languages - for example visual basic, ladder logic,
+programmable logic controller, c, sharepoint, html, java, adobe – as needed to perform at the job level
+competency in knowing the most effective and efficient processes to get things done, with a focus on continuous improvement
+knowledge of principles, techniques, and procedures used for production and design of technology based equipment and systems as needed to perform at the job level
+knowledge of statistical theories, concepts, methods, best practices, and analyses as needed to perform at the job level
+ability to develop reports, models, and simulations as needed to perform at the job level
+competency in developing and delivering multi-mode communications that convey a clear
+understanding of the unique needs of different audiences 
+knowledge of data model design philosophies and methodologies for data warehouse and oltp systems 
+
+
+
+
+
+
+
+
+
+
+
+
+job codejpsc-6409experience8 yearsrequired documentsresume 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+please wait...
+please fill the details 
+
+ 
+email
+
+first name
+
+middle name
+
+last name
+
+contact no
+
+current location
+
+work authorization
+
+select
+h1-b
+l1-b
+l1-a
+l2-ead
+b1
+us citizen
+gc
+gc-ead
+opt-ead
+tn visa
+canadian citizen
+need h1b
+h4
+indian citizen
+h1-b transfer
+h4 ead
+e3 visa
+green card holder
+current employer only
+us authorized
+employment auth. document
+need h1 visa
+sponsorship required
+have h1 visa
+h1b work permit
+gc ead
+opt ead
+tn ead
+l2 ead
+security clearance
+tn permit holder
+need h1b - other visa
+cpt ead
+eu eligible
+need h1b - no visa
+need h1b - b1/b2
+can work for current employer
+not specified
+employment authorization document
+seeking work authorization
+can work for any employer
+euay
+
+job title
+
+resume
+
+this field is required.
+cover letter
+
+other attachment
+
+
+
+
+
+
+cancel
+
+ 
+
+
+
+
+
+
+powered by 
+
+
+
+
+
+
+
+

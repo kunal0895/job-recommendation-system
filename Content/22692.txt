@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1960865
+												
+
+
+job title
+												
+
+automotive systems software engineer – autonomy & adas 
+
+
+
+
+post date
+													
+
+12/05/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	cdma technology
+																
+															
+
+
+
+
+
+
+
+job area
+												
+
+
+													engineering - software                          
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+qualcomm is building on its core strengths in wireless and compute technologies, and is in the middle of the biggest technology revolution in the automotive space. while we have pioneered connected car technologies for over a decade, we are now playing a critical role in the evolution of automotive infotainment, telematics, adas/autonomous driving & its supporting technologies. we are investing in several bleeding edge technologies such 5g, cellular v2x, computer vision, ai/deep learning etc., and are working closely with global automakers/tier-1s, standards bodies, consortiums and operators on pushing the boundaries.
+
+we are inviting smart, energetic and passionate software engineers who are looking to make a difference on the many technology forefronts in automotive, to join our growing multisite engineering organization. as a key contributor to automotive systems software team, you will be designing and developing software frameworks and tools for autonomous and adas systems, exercising the full capability of the qualcomm snapdragon automotive platform in a way that it can work efficiently and reliably with various sensors, high-bandwidth interfaces and across distributed compute cores. 
+
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+ 5+ years of relevant software engineering experience in the fields/skills below:   one or more sensor domains including camera, radar, lidar, gps, can, imu etc., with breadth spanning across the technology, hardware, software, calibration/tools etc. real time acquisition and processing of sensor data (camera, radar etc.)  including device drivers, higher-level software frameworks, sdks, integrating with frameworks for computer vision, machine-learning etc. embedded linux platforms  including low-level firmware, kernel and user-space components. system software programming - including parallel processing, threading, synchronization etc. to realize complex middleware and applications. design and development of software for heterogeneous compute platforms consisting of arms, gpus, dsps, and specialized hardware accelerators in an embedded soc. c/c++/scripting languages. hsw/he debuggers, code revision systems (git, perforce), ides and build tools.
+
+
+
+preferred qualifications
+													
+
+
+
+ motivated self-starter with excellent verbal and written communication skills, demonstrated ability to work with engineers/partners/customers across different geographies.
+ good understanding of hypervisor and virtualization technologies.
+ solid software engineering skills with a track record of designing and developing scalable and re-usable software components.
+ overall top-down and bottom-up understanding of complex hardware/software systems.
+ working knowledge or experience with embedded socs in areas such as arm cpu, mmu/smmu, virtualization extensions, cryptography extensions, high-bandwidth interfaces (eg. pcie, ethernet, ccix). 
+ working knowledge in one or more of the following: vision and compute frameworks (e.g. openvx, opencl), distributed frameworks (e.g. ros/dds), automotive specific frameworks (eg. such as autosar, adtf).
+ exposure to autonomous driving algorithms and applications based on deep learning and computer vision.
+ knowledge of fault tolerant architectures and designing in accordance to industry standard safety specifications (i.e. iso26262 asil). experience developing auto-grade asil-qualified sw - including safety concepts definition and realization in software, asil decomposition understanding across different hw/sw components etc.
+ familiarity with aspice/cmmi development process requirements.
+ working knowledge of systems and algorithms for sensor fusion, localization, mapping, path-planning, motion control etc. with application to the automotive or robotics domains.
+ knowledge of qualcomm snapdragon architecture or similar complex socs.
+ os scheduler, rtoss (such as greenhills integrity, qnx etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: bachelor's, computer science and/or electrical engineeringpreferred: master's, computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+													adas, autonomous driving, software architecture, software framework, multiprocessor systems, embedded systems, sensor fusion, camera, radar, computer vision, deep-learning
+												
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

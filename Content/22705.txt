@@ -1,0 +1,302 @@
+
+
+
+
+
+
+software test engineer- senior in pittsburgh, pa - upmc enterprises
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+working here
+
+opportunities
+
+
+
+upmc enterprises
+
+
+curavi health
+
+
+ovation
+
+
+
+pensiamo
+
+
+prodigo solutions
+
+
+via oncology
+
+
+cavulus
+
+
+evolent health
+
+
+health catalyst
+
+
+health fidelity
+
+
+lantern
+
+
+medcpu
+
+
+rxante
+
+
+vivify health
+
+
+xealth
+
+
+
+
+upmc enterprises main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data analytics
+
+
+
+
+
+product
+
+
+
+
+
+engineering
+
+
+
+
+
+leadership & operations
+
+
+
+
+
+students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software test engineer- senior
+
+
+description  purpose:the primary role of the senior software test engineer is to verify and validate requirements for given features within a project to ensure compliance with quality standards and customer needs. this individual will take ownership of their projects testing strategy, review requirements and specifications for clarity, plan the testing approach, design test cases, and execute tests in an agile/scrum based software development model. the role will require a broad background in computer science, the application of many different programming languages, a complete set of programming/debugging skills, ability to adapt and change, and an aptitude for continuous learning.responsibilities:
+
+assess and suggest department-wide initiatives for improving the efficiency of software testing.
+assists management with staffing needs
+assists/consults/guides development staff in the creation of unit and integration testing
+assure traceability of requirements between test cases and product features
+conduct qa code reviews and perform code inspections leading to optimizations.
+coordinate testing activities with other analysts within or external to his/her project
+coordinates and delegates tasks to team members towards a common goal
+create defect reports with detailed steps, environmental conditions, and other details as needed to reliably reproduce the issue
+creates test strategies, plans, and cases for the applications under his/her control
+ensures compliance with departmental standards
+experience working in an agile/scrum environment
+helps guide and improve process initiatives
+identifies gaps in testing and works diligently at filling those gaps
+maintains skill set and awareness of test automation industry standards
+may conduct process audits of other teams
+mentors, motivates, and inspires team members
+owns the design, creation, implementation and maintenance of test automation framework and departmental tools
+perform manual testing and other duties as required
+proactively seeks to improve product testability
+propose, define and implement processes and standards for test automation.
+provide technical leadership for challenging issues
+provides feedback for staff evaluations
+provides strategic vision and focus for the automation framework and tool development
+works closely with the leadership across functional domains to provide communication to all team members of relevant information, including schedules, process, organizational issues, etc.
+qualifications  
+bachelors degree in computer science, computer engineering, or a related field from an accredited university is required or has acquired core software test engineering skills and knowledge via practical experience 
+typically has 4+ years experience in a software test engineer role as part of a software development organization; and 4+ years of writing test automation scripts with deep knowledge in one or more languages doing functional and api testing (javascript, java, ruby) 
+expert knowledge of automated testing frameworks and coding standards/best practices 
+experience writing performance automation scripts 
+expert at manual testing concepts, techniques and best practices 
+deep knowledge of sql 
+excellent written and verbal communication skills 
+team player with the ability to work collaboratively as well as individually demonstrates mastery of the fundamental tools and concepts of software quality assurance 
+preferences: experience working with protractor / supertest / selenium webdriver 
+experience working with cucumber / capybara / rspec jasmine / mocha git version control system mocking api calls and test data 
+performance / load testing experience 
+experience with container technologies such as docker and kubernetes 
+experience working with cloud computing services such as awslicensure, certifications, and clearances:upmc is an equal opportunity employer. minority/females/veterans/individuals with disabilities
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+location: pittsburgh, pa, united states
+job id: 620252
+										
+
+upmc is an equal opportunity employer.
+minority / females / veterans / individuals with disabilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+upmc enterprises main
+view your application
+eoe
+contact us
+privacy policy
+terms of use
+
+
+
+
+
+upmc enterprises, bakery square suite 200, 6425 penn avenue, pittsburgh, pa 15206 | 412-864-4942
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

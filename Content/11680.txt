@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+data scientist - solaria labs at liberty mutual group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+personal insurance
+business insurance
+
+about liberty mutual
+
+our company
+international
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menuliberty mutual insurancehome
+
+
+
+closeliberty mutual insurance
+
+
+
+home
+
+working here
+
+
+at liberty mutual
+our approach
+your development
+capabilities & expectations
+benefits
+diversity & inclusion
+
+
+corporate philanthropy
+about liberty mutual
+
+
+
+
+opportunities & locations
+
+
+opportunities
+actuarial
+analytics
+claims
+customer service
+digital customer experience
+finance & accounting
+human resources
+
+
+opportunities cont.
+internal audit
+investments
+legal
+marketing
+nursing
+product management
+risk control
+
+
+opportunities cont.
+sales
+strategy & planning
+technology
+underwriting
+locations map
+
+
+
+
+students & graduates
+
+
+undergraduates
+undergraduate development programs
+undergraduate internships
+undergraduate profiles & stories
+undergraduate tips
+
+
+graduates
+graduate opportunities
+graduate internships
+graduate profiles & stories
+
+
+
+
+search jobs
+
+
+experienced hires
+undergrads & grads
+current employees
+
+
+
+
+
+personal insurance
+business insurance
+our company
+international
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pursue a career that’s more true to you. at liberty mutual, we empower you to raise your voice, think outside your job title, and make a real impact — not just within our global, fast-growing company, but in everyday lives.
+search our jobs
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+go
+
+
+
+
+
+
+
+
+data scientist - solaria labs
+apply
+apply later
+job id 90657 job location boston, massachusetts
+the economy
+is transforming: self-driving cars, the internet of things, the sharing and gig
+economies, and an ever-changing set of lean start-ups are major contributors to
+the disruption of classic business models. to adapt, liberty mutual has
+established solaria labs, an innovation center dedicated to testing new ideas, building
+products, and launching new companies.the teamsolaria
+labs is a rapid prototyping and ‘build’ arm within liberty innovation,
+partnering and co-developing with startups, universities like mit, and data-rich
+“smart cities” like boston, chicago, and singapore.  we are looking for technical leaders who are
+entrepreneurial, passionate about impacting change, and willing to test and
+learn.  does building a new future for a
+fortune 100 company like liberty mutual excite you? if so, join our team!the challengeto thrive
+in tomorrow’s economy, we must launch into fields beyond our core insurance
+practice to diversify our business and revenue streams.  we are looking for fresh and modern
+perspectives on our 100 years of data and expertise.  can our models of storm and fire risks help you
+choose which home to buy, or where homes on the market are undervalued?  can gps samples from our fleet of cars
+determine which neighborhoods are safe to walk and bike, or can we plan a route
+to minimize your risk while driving to work? 
+at solaria, we are rapidly launching new data-driven products where
+public interest and markets are merely a new perspective on our core models.the roleyou will
+support research and development efforts in a diverse set of challenges as we
+rapidly prototype and build new products.  many of the concepts we develop require novel
+use of liberty mutual and partner data, and the application of current and
+emerging machine learning techniques.  you
+will interact with product and engineering teams to implement your solutions
+within internal and customer facing software products.  responsibilities include:translate
+product ideas into well-posed data science challenges, and solve themfind new
+markets and novel applications for our core internal datadesign and
+deploy machine learning (ml) systems backing our productstranslate
+and champion our ml capabilities for non-technical audiencesparticipate
+in the broader ml community to stay current with the latest techniques and
+softwareengage
+with staff within and beyond the innovation team, training and advocating for
+the use of ml techniques in other business areasqualificationscompetencies
+typically acquired through a ph.d. degree (in engineering, computer science, mathematics, or other scientific field
+of study) and 0-1 years
+of relevant experience, a master’s degree (scientific field of study) and 3-4
+years of relevant experience or may be acquired through a bachelor’s
+degree(scientific field of study) and 4+ years of relevant experience.extensive
+experience analyzing data and a broad understanding of core statistical and ml
+techniquesexpertise
+with python, java, c, or similar language, along with standard machine learning
+librariesproven
+track record of rapid prototyping and development, leveraging open source or
+commercial frameworks (e.g., tensorflow, hadoop, aws)computer
+science background, comfortable working with both technical and non-technical
+staff to translate concepts and algorithms into working prototypesability
+to thrive in a fast-paced environment with significant uncertaintypossess
+strong analytical, strategic, project management, decision-making and
+problem-solving skillsbenefits:we recognize that talented people are attracted to companies that provide competitive pay, comprehensive benefits packages and outstanding advancement opportunities. for this reason we offer a comprehensive benefits plan that includes the following:401k and company paid pension planmedical coveragedental coveragepaid time-offpay-for-performancediscounts on automobile and homeowner's insurancediscount fitness membershipsflexible spending accountstuition reimbursementvision care coveragework/life resourcescredit union membershipemployee and dependent life insurancedisability insuranceaccidental death & dismemberment insuranceoverview:at liberty mutual, we give motivated, accomplished professionals the opportunity to help us redefine what insurance means; to work for a global leader with a deep sense of humanity and a focus on improving and protecting everyday lives.  we create an inspired, collaborative environment, where people can take ownership of their work; push breakthrough ideas; and feel confident that their contributions will be valued and their growth championed.we’re dedicated to doing the right thing for our employees, because we know that their fulfillment and success leads us to great places. life. happiness. innovation. impact. advancement. whatever their pursuit, talented people find their path at liberty mutual.job:  
+                                    analytics
+                                 primary location: united states-massachusetts-bostonschedule: full-timesalary: $90,301-$128,800education level: bachelor's degree (±16 years)travel: yes, 10 % of the time
+apply
+apply later
+
+
+
+
+connect with careers
+
+facebook
+twitter
+linkedin
+glassdoor
+
+
+
+sign up for job alerts
+your email addressinterested inenter category and/or location, then click add. you must have at least one alert in the list below in order to subscribe.categorylocationaddanalytics, boston, massachusetts, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+notices
+
+philadelphia fair chance law
+los angeles fair chance ordinance
+
+
+
+
+
+
+    get job listings that match your linkedin profile
+
+
+
+
+
+
+
+related content
+
+
+
+
+
+
+tech in the news
+technology at liberty mutual in the news.
+
+
+
+
+
+
+
+leading a digital transformation
+how we're thinking differently at liberty mutual.
+
+
+
+
+
+
+
+the top-four benefits of flexible work
+chief talent & enterprise services officer melanie foley wrote an article for describing the benefits of workplace flexibility.
+
+
+
+
+
+
+
+
+give us your feedback
+
+
+
+
+
+
+
+
+
+
+about liberty mutual
+
+
+culture and values
+international
+careers
+
+2016 annual review
+contact us
+
+
+
+
+liberty mutual news
+
+
+investor relations
+
+
+philanthropy
+
+
+personal insurance
+
+
+ business insurance
+
+
+
+resources
+
+retiree portal
+1099 tax faq
+supplier information
+
+
+
+
+connect with liberty mutual
+
+facebook
+twitter
+linkedin
+google+
+youtube
+
+
+
+
+about liberty mutual
+liberty mutual news
+investor relations
+philanthropy
+resources
+personal insurance
+business insurance
+
+
+
+
+
+member information
+web accessibility policy
+privacy policy
+security policy
+terms & conditions
+fraud protection
+site map
+workers compensation
+
+©  liberty mutual insurance, 175 berkeley street, boston, ma 02116 | an equal opportunity employer  and an equal housing insurer | 36 usc 220506
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+myriad genetics data warehouse engineer | smartrecruiters
+
+data warehouse engineersalt lake city, ut, usafull-timecompany descriptionthe regional medical specialist (rms) will be responsible for educating across the continuum of healthcare providers on assurex health's pharmacogenomic product lines and relevant therapeutic areas. the rms will develop and maintain internal and external relationships in assigned geographic areas, maintain a high level of customer service, and demonstrate accountability for their part in the corporate growth. this position will report to the regional medical affairs manager.job descriptiona data warehouse engineer partners with business leaders to understand information needs and provide access to data needed to guide strategic business decisions. interacts with all components of the data warehouse, including: writing and troubleshooting etl, creating data models, reporting, dashboards, administering and supporting the hardware and software, and integration between systems. develops overall architecture and high level design, utilizing expertise with star schemas, dimensional models, and data marts. performs coding and interacts professionally with a diverse team comprised of both technical and business personnel. accurately communicates status and issues within the data warehouse environment (verbal and written). prepares documentation, devises testing strategies and analyzes existing systems to present the data in effective ways to business users.
+ qualifications 
+responsibilities
+working closely with the rest of the informatics data warehouse team, this candidate will have responsibilities over the following areas:
+
+work with business users to define data flow models and flush out the measures (facts) and dimensions
+designs and plans for the integration for all data warehouse technical components
+technical implementation of the data warehouse, including data extracts/transforms (etl)
+hardware/ software configuration
+creates management reports that will be delivered to all levels within the company
+develops and modifies the data warehouse components to meet applicable security standards
+serve as a subject-matter expert for available data elements and analytic capabilities
+develops support plans
+provides on-call support
+
+ 
+requirements
+
+professional experience with core business intelligence tools (eg. reporting and dashboards, etl, oracle, mysql, vertica, linux, sql, jsojn, xml, and html)
+candidate should have a minimum of 7 years' experience in business intelligence arena using industry standard etl and reporting tools
+candidates should know linux, databases, sql tools, data warehouse concepts and bi reporting tools.
+this position is often the “face to the internal customer” when presenting enabling technologies and concepts to the business for the first time. as such, the candidate must be dynamic, personable, able to communicate clearly both verbally and in written form, and have an ability to convey complex it concepts at a business level.
+experience in relational database concepts with a solid knowledge of database code and scripts
+
+ 
+ 
+preferred:
+
+experience with microstrategy and sap data services
+experience with web architecture design and web services
+experience automating tasks with a workflow engine
+understands multiple type of databases (i.e. vertica, oracle, mysql, etc)
+understanding of data warehouse development lifecycle and process methodologies, including agile experience
+ability to communicate with business customers and translate business needs to technical solutions
+understands dimensional modeling and data architecture
+ability to work with supporting technologies (e.g. source / version control, jira, and confluence)
+
+ 
+ 
+the physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. while performing the duties of this job, the employee is frequently required to sit; talk; or hear. the employee is occasionally required to stand; walk; use hands to finger, handle, or feel; reach with hands and arms; and stoop; kneel; or crouch the employee must occasionally lift and/or move up to 25 pounds. specific vision abilities required by this job include close vision, distance vision and depth perception.
+ 
+ apply here: http://www.click2apply.net/5cysdsmzbypkj5snpi99781676additional informationall your information will be kept confidential according to eeo guidelines.i'm interestedi'm interestedrefer a friendshare this jobpowered by

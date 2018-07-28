@@ -1,0 +1,273 @@
+
+
+
+
+
+software engineer - java - charlotte north carolina 28202
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                toggle navigation
+            
+ menu
+
+
+
+
+
+
+
+
+
+search        
+
+
+
+      
+my account        
+
+
+           
+                    saved jobs (0)
+                
+
+
+
+sign in            
+
+
+
+
+
+
+
+
+
+job details                
+
+
+
+
+
+
+
+
+
+
+
+software engineer - java
+ 
+
+
+
+
+
+
+
+
+job id #:
+
+
+jr15842
+ 
+
+
+functional area:
+
+
+information technology
+ 
+
+
+position type:
+
+
+full-time regular
+ 
+
+
+relocation provided:
+
+
+no
+ 
+
+
+travel percentage:
+
+
+0
+ 
+
+
+
+
+
+
+primary location:
+
+
+us-north carolina-charlotte 210 e trade st, ste c-444-4005
+ 
+
+
+secondary location(s):
+
+
+us-georgia-norcross 3150 holcomb bridge rd-f088
+ 
+
+
+ 
+
+
+ 
+
+
+department:
+
+
+ 
+
+
+education desired:
+
+
+bachelors degree or equivalent
+ 
+
+
+experience desired:
+
+
+7 to 9 yrs
+ 
+
+
+
+
+
+email a friend
+
+
+save
+
+save
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+position responsibilities\requirements:
+
+software engineer specialistnorcross, ga or charlotte, nc the software engineer specialist participates in customer implementation projects using fis products and is involved in the elaboration, construction and transition project phases. the software engineer specialist acts as a solutions architect to our customer and as an expert technical resource to the project team staff in the development, testing and implementation processes. general duties and responsibilities:expertise with j2ee development (ejb, mvc frameworks, spring framework)expertise with hibernateexpertise with designing and building applications using a service oriented architecture and/or enterprise service bus (esb) architectureexpertise with jms, mq seriesexpertise with xml, xpathstrong experience with application servers such as ibm websphere, oracle weblogic, jboss asstrong experience with relational database. oracle database preferredstrong experience with implementing (and not just consuming) web services (soap, rest)experience with bpm engine using bpel or bpmn notationsexperience with agile project methodology, test driven approachexperience with distributed teams across multiple international locationsinteracts with product managers and/or users to define system requirements and/or necessary modifications.participates in software design meetings and analyzes user needs to determine technical requirements.write technical specifications based on conceptual design and stated business requirements.writes code, completes programming, and performs testing and debugging of applications using current programming languages and technologies.lead a software development team up to 10 developerscompletes documentation and procedures for installation and maintenance.may be responsible to develop or execute project plans, budgets, and schedules and for documenting work and results.may deliver informational and decision-seeking presentations to technical and business groups to internal and/or external audiences.performs additional related duties as assigned. requirements:a bachelor’s degree in computer engineering, computer science or other related discipline; or equivalent combination of education and experience that is required for the specific job level. travel:travel is a required element of this position and is anticipated to average 25%-35% per month.  however, there may be periods of time when the travel exceeds this estimate. general knowledge, skills and abilities:knowledge of financial services industry is preferredknowledge of end-to-end systems development life cycles (e.g., waterfall, iterative and other modern approaches to software development)knowledge of standards relevant to the software industry (e.g., iso, cmm, six sigma)knowledge of banking practices, regulations and operations within assigned line(s) of businessin-depth understanding of design patterns and their applicationfluency in developing and understanding sequence diagrams, class models, etc.proficiency in solutions design and requirements definition disciplines leveraging model driven design based tools and techniques including conceptual solution component models, business process models, use cases, etc.outstanding verbal and written communication skills to technical and non-technical audiences of various levels in the organization (e.g., executive, management, individual contributors), with the ability to provide concise summarization of design conceptsexcellent analytical, decision-making, problem-solving, team, and time management skillsability to persuade and influence others on the best approach to takeability to estimate work effort for project sub-plans or small projects and ensure the project is successfully completedability to work with a cross functional group of technical and functional team memberspositive outlook, strong work ethic, and responsive to internal and external clients and contactswillingly and successfully fulfills the role of teacher, mentor and coachmay require in-depth knowledge of networking, computing platform, storage, database, security, middleware, network and systems management, and related infrastructure technologies and practices expert/lead role. has team leadership duties, including instructing, assigning and checking the work of other software engineers. assists in planning, organizing and controlling the activities of the team. coordinates the activities of the team with other it teams and the product management team. specialized depth and/or breadth of skills, experience and proficiency. acts as expert technical resource to software engineering staff in the development, testing and implementation processes. frequently acts as a project leader. receives general direction from management. assists in all levels of supervision and may perform management functions in the absence of the manager or may act as project manager for major projects. does not have hire, fire, performance coaching/development authority. typically requires seven or more years of software engineering experience or an equivalent combination of education and experience. progression to this level is typically restricted on the basis of business requirements.   
+
+
+
+fis™ is the world's largest global provider dedicated to financial technology solutions. fis empowers the financial world with software, services, consulting and outsourcing solutions focused on retail and institutional banking, payments, asset and wealth management, risk and compliance, trade enablement, transaction processing and record-keeping. fis’ more than 55,000 worldwide employees are passionate about moving our clients’ business forward. headquartered in jacksonville, florida, fis serves more than 20,000 clients in over 130 countries, and our technology powers billions of transactions annually that move over $9 trillion around the globe. fis is a fortune 500 company and is a member of standard & poor’s 500® index.
+ 
+
+
+
+.                
+
+
+
+&nbsp                
+
+
+
+                    fis is an equal opportunity employer. we evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, marital status, genetic information, national origin, disability, veteran status, and other protected characteristics. the eeo is the law poster is available here: www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf and here:www.dol.gov/ofccp/regs/compliance/posters/pdf/ofccp_eeo_supplement_final_jrf_qa_508c.pdffor positions located in the us, the conditions below apply.
+ 
+if you are made a conditional offer of employment, you will be required to undergo a drug test and background check (including criminal record check)
+ 
+ada disclaimer: in developing this job description care was taken to include all competencies needed to successfully perform in this position. however, for americans with disabilities act (ada) purposes, the essential functions of the job may or may not have been described for purposes of ada reasonable accommodation. all reasonable accommodation requests will be reviewed and evaluated on a case-by-case basis.
+
+
+
+
+as part of the selection process this role may require an assessment to determine suitability 
+
+
+
+recruitment at fis works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. fis does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+jobdetails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

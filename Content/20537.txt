@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+web developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ menuoverviewjobsoverviewjobsweb developerclick here toapply onlinexjob descriptionbig yam is seeking an experienced front-end web developer to work closely with our team of designers to create user-friendly, responsive websites for our clients. you will be responsible for building and maintaining both internal and clients’ websites, as well as creating email templates and assisting with content population. this role requires you to be detail-oriented, work cross-departmentally, and be able to manage your time across multiple projects in a fast-paced environment.responsibilities:convert photoshop mockups to functional html, css/sass, and javascriptcreate custom wordpress themes from scratch and modify existing themestest front-end code on a variety of different browsers, screen resolutions, and devicestroubleshoot and fix bugscreate and test custom html email templatesintegrate email templates into mailchimp and handle newsletter deploymentswork closely with designers to accurately execute their creative visionwork closely with back-end developers to integrate front-end code into a cmswrite and maintain documentation for both internal and client useprovide cms and mailchimp training to clientsassist with cms content populationqualifications:2+ years of professional experience in front-end developmentdemonstrated proficiency with html, css/sass, and javascriptexperience with git, npm, and gulpexperience working in adobe photoshopexperience creating custom themes and plugins for wordpressunderstanding of best practices for ux, responsive web design, seo, performance, and accessibilityunderstanding of best practices for html email developmentexperience working with mailchimp and email testing tools, such as litmus or email on acidexcellent communication skills with both technical and non-technical audiencesability to collaborate with designers, back-end developers, digital media specialists, and account managersability to thrive in a fast-paced, multi-project environment with tight deadlinesclick here toapply onlinexclick here toapply onlinexshare this jobxshare this pageweb developershare link. copy this url: email directrecipient's email address*your email address*additional note (optional)your email has been sent!send another message | close this windowview mapposted: 11/21/2017job status: full timecareer sites by recruiting.com
+
+
+
+
+
+
+\r');
+      } else {
+        var script = document.createelement('script');
+        script.src = src;
+        script.async = false;
+        document.head.appendchild(script);
+      }
+    });
+  }([
+    
+    'https://maps.googleapis.com/maps/api/js?key=aizasyayc0juubxmlbqdvf4cb3jiektwfwobxbe',
+    
+    
+    'https://d2i2zd9axwkr7h.cloudfront.net/career-sites/9070b4736fea1716e880b839cdaac7cdd808329b/index_bundle.js'
+  ]));
+
+
+  
+

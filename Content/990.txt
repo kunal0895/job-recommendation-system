@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior software developer: data pipeline job in portland, or for webmd | technology
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+visit our corporate site
+|
+applicant login
+|
+search current jobs
+|
+share this on
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+about us
+
+
+working here
+
+
+career areas
+
+
+search jobs
+
+
+
+
+
+
+home
+
+
+who we are
+the webmd health network
+meet our team
+
+
+life at webmd
+
+
+account management (1 job)
+accounting and finance (3 jobs)
+client services (2 jobs)
+clinical / medical / cme (5 jobs)
+creative / design (4 jobs)
+editorial (10 jobs)
+market research & analytics (5 jobs)
+marketing (2 jobs)
+media / publishing (1 job)
+not defined (3 jobs)
+other (3 jobs)
+product management (3 jobs)
+project management (1 job)
+sales (1 job)
+sales planning (3 jobs)
+strategy (2 jobs)
+technology (8 jobs)
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+					site navigation
+				
+
+
+ home
+
+ about us +
+
+who we are
+the webmd health network
+meet our team
+
+
+ working here +
+
+life at webmd
+
+
+ career areas
+
+ search jobs
+
+ connect with us
+
+ tell a friend
+
+ visit our corporate site
+
+
+
+
+ home
+
+ search jobs
+
+ connect with us
+
+ tell a friend
+
+ visit our corporate site
+
+ about us
+
+
+who we are
+the webmd health network
+meet our team
+
+
+ working here
+
+
+life at webmd
+
+
+ career areas
+
+
+account management (1 job)accounting and finance (3 jobs)client services (2 jobs)clinical / medical / cme (5 jobs)creative / design (4 jobs)editorial (10 jobs)market research & analytics (5 jobs)marketing (2 jobs)media / publishing (1 job)not defined (3 jobs)other (3 jobs)product management (3 jobs)project management (1 job)sales (1 job)sales planning (3 jobs)strategy (2 jobs)technology (8 jobs) 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+								job attributes
+								
+
+
+req id
+13246
+location
+portland, or
+category
+technology
+business unit
+webmd health services
+
+
+
+
+senior software developer: data pipeline
+
+apply
+
+new search
+
+
+in portland, or
+
+job description
+webmd’s health services business enables employers and health plans to provide their employees and plan members with access to personalized health and benefit information, decision support technology that helps them make informed benefit, provider and treatment choices and provides telephonic health coaching services. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status  job responsibilities
+we are looking for an experienced, courageous data pipeline developer to play a key role in re-inventing the data landscape at webmd health services. as our incoming data volumes grow and their sources become more disparate we must evolve our technology to scale. this must be accomplished without interrupting service to our existing customer-base or increasing our operational burden. we must also consider an open-ended architecture that allows for additional capabilities in the future. you will join an enthusiastic team of software craftspeople (architects, developers, qa engineers) responsible for building out the core services that will provide the backbone for our product offering. an ideal candidate for this position can jump in to our on-going projects and come up to speed quickly, exercising independent judgment to make the best use of his or her time. we expect excellent knowledge of data systems, data modeling patterns, refactoring strategies, and agile practices.this key role will work with the team to:fully participate in the team’s agile process that drives work contribute green-field implementations of new solutionsintegrate 3rd party solutionsrefactor existing implementationsdocument solutions and practices *as a member of webmd health services, you may have access to confidential information that will require you to follow additional protocols to ensure the security of our data. as a core requirement, you must implement and act in accordance with the organization’s information security policies; protect assets from unauthorized access, disclosure, modification, destruction or interference; execute security processes or activities; and report security events or potential events or other security risks to the appropriate parties within the organization.  job qualifications
+bs/ms in computer science or related field, or equivalent work experience2+ years experience in data pipeline developmentstrong experience and excellent knowledge of data processing and persistence technologies including relational and non-relational technologies. hdfs, hive, hbase and associated apache technologies (zookeeper, atlas, ranger, e.g.) strongly favored.experience in modeling high-throughput, high-availability data ingestion solutions. familiarity with spark strongly preferredexperience developing in both windows and linux environmentsfull fluency in java and strong .net competencyexperience leveraging message broker / queueing such as rabbitmq or kafkaexpertise in modern, industry-standard data design patterns and best practicesfamiliarity implementing security, privacy, and compliance requirementsstrong experience working on a scrum or agile teamstrong interpersonal skills, written and verbal communicationindependent time management skills5+ years’ software development experience desiredworking knowledge of tools like jira, confluence and bitbucketdevelopment on cloud-based platforms. azure or aws preferredfamiliarity with hortonworks hdp and hdf productsexposure to compliance frameworks such as hipaa, hitrust, or similarfamiliarity with health data file formats such as hl7ci/cd experience such as the gitflow pattern  
+apply
+apply
+
+not ready to apply? upload your resume to be considered for future opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+hear from our team members
+		"i feel a positivity about the company, a willingness to embrace and own change and a real desire to lead in making healthcare better."
+					
+
+
+
+
+hear from our team members
+		"i feel a positivity about the company, a willingness to embrace and own change and a real desire to lead in making healthcare better."
+					
+
+
+
+	connect witha recruiter
+
+
+
+	tell a friend
+
+
+
+latest jobs: next prev 
+
+
+
+
+
+
+
+
+
+	search all jobs
+
+
+
+
+hear from our team members
+		"webmd is a great place to work. i work with a team of very smart, innovative people that make it fun and exciting. i always feel challenged but at the same time i feel well supported and comfortable in my role."
+					
+
+
+
+
+hear from our team members
+		"webmd is a great place to work. i work with a team of very smart, innovative people that make it fun and exciting. i always feel challenged but at the same time i feel well supported and comfortable in my role."
+					
+
+
+
+	connect witha recruiter
+
+
+
+	tell a friend
+ 
+
+
+
+
+
+
+navigation
+home
+about us
+working here
+search jobs
+connect with us
+tell a friend
+visit our corporate site
+
+career areas
+account management (1 job)accounting and finance (3 jobs)client services (2 jobs)clinical / medical / cme (5 jobs)creative / design (4 jobs)editorial (10 jobs)market research & analytics (5 jobs)marketing (2 jobs)media / publishing (1 job)not defined (3 jobs)other (3 jobs)product management (3 jobs)project management (1 job)sales (1 job)sales planning (3 jobs)strategy (2 jobs)technology (8 jobs) 
+follow us
+
+
+
+
+
+
+
+
+
+navigation
+home
+about us
+working here
+job search
+connect with us
+tell a friend
+visit our corporate site
+
+career areas
+account management (1 job)accounting and finance (3 jobs)client services (2 jobs)clinical / medical / cme (5 jobs)creative / design (4 jobs)editorial (10 jobs)market research & analytics (5 jobs)marketing (2 jobs)media / publishing (1 job)not defined (3 jobs)other (3 jobs)product management (3 jobs)project management (1 job)sales (1 job)sales planning (3 jobs)strategy (2 jobs)technology (8 jobs)
+
+follow us
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ © 2017 webmd all rights reserved   |   privacy policywebmd is an equal opportunity/affirmative action employer and does not discriminate on the basis of race, gender, ancestry, color, religion, sex, age, marital status, sexual orientation, gender identity, national origin, medical condition, disability, veterans status, or any other basis protected by law.
+
+visit webmd.com
+
+
+ 
+
+
+
+
+ 

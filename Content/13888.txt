@@ -1,0 +1,142 @@
+
+
+
+job details - fortinet technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome
+
+
+
+
+
+view jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job details
+
+login now
+
+
+
+
+
+
+
+
+
+
+
+back
+
+
+
+
+
+
+
+
+
+are you interested in this opportunity? click on apply and your application will be submitted. if you know of someone else who might be interested, send this opportunity to a friend.
+
+
+
+apply now!
+
+
+
+tell a friend
+
+
+
+
+
+organization overview
+fortinet (nasdaq: ftnt) protects the most valuable assets of some of the largest enterprise, service provider and government organizations across the globe. the company's fast, secure and global cyber security solutions provide broad, high-performance protection against dynamic security threats while simplifying the it infrastructure. they are strengthened by the industry's highest level of threat research, intelligence and analytics. unlike pure-play network security providers, fortinet can solve organizations' most important security challenges, whether in networked, application or mobile environments - be it virtualized/cloud or physical. more than 310,000 customers worldwide, including some of the largest and most complex organizations, trust fortinet to protect their brands. learn more at http://www.fortinet.com, the fortinet blog  http://blog.fortinet.com/  or fortiguard labs http://www.fortiguard.com/.
+
+
+city
+sunnyvale
+
+
+city
+sunnyvale
+
+
+state/province
+california [ca]
+
+
+country
+united states [us]
+
+
+title
+junior software development engineer (amrd2014)
+
+
+req #
+amrd2014
+
+
+job status
+full time regular
+
+
+functional area
+r&d
+
+
+position overview
+  junior software development engineer- amrd2014 department overview: the burn-in test development department develops burn-in test programs to support burn-in test/qc test, which supports all products ready for release and shipping. this department also develops test programs for npi (new product introduction) test, which is used for testing new platform designs, prior to production.  responsibilities:  writing scripts and programs to support qc test task at company levelwriting test framework to satisfy various test case, make it consistent and flexible.setting up environment to do product testing, bug reproducing and verificationworking closely with product developers to ensure defects are correctly identified/reproduced and fixeddesigning and writing test checklist, test specification, bug reports, etc for new device modelproviding product technical support for both internal and external users as well.  requirements: good knowledge of tcp/ip, routing and switching protocolsstrong troubleshooting and problem solving skills communicate effectively, both verbal and writtenfamiliarity with perl/python/shell script programming skills, python is preferredfluency with linux administrationwith hardworking spirit and teamwork skill  education:   b.s. in ee/cs/ce #li-el1#gd*ftnt*
+
+
+eeoc / aap
+accommodation: if you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact fortinet, inc at (408) 235-7700 of accommodations@fortinet.com for assistance. eeo: all qualified applicants will receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, or on the basis of disability.
+
+
+apply now!   tell a friend
+
+
+
+
+
+
+
+
+
+

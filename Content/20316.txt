@@ -1,0 +1,244 @@
+
+
+	ui developer #458401 us-ga-alpharetta
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+company web site
+
+
+
+
+
+
+
+
+
+
+
+
+
+view all jobs
+ui developer
+
+
+
+
+
+
+
+
+×
+email this job
+
+
+
+
+
+
+your first name
+
+
+
+your last name
+
+
+
+
+your e-mail address
+
+
+
+e-mail address to share with
+
+subject
+
+message
+
+
+
+
+
+
+
+
+
+
+ send e-mail
+close
+
+
+
+
+
+
+ us-ga-alpharetta
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+employee referral
+
+
+
+
+
+tell us who you are
+
+
+first name
+last name
+e-mail address
+
+
+
+                                please complete all 3 fields.
+                            
+
+
+
+
+how do you want to share?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+company information
+
+
+job description
+
+would you like to be a part of the organization where high energy meets intellect? if you get excited by solving puzzles and working in a collaborative environment, then aptean wants to work with you!! 
+ 
+about aptean
+aptean is a leading global provider of industry-focused mission critical enterprise software solutions. our solutions help nearly 6,500 organizations stay at the forefront of their industries by satisfying their customers and continuing to operate more efficiently. headquartered in alpharetta, ga, aptean has offices in north america, europe, and india, as well as an extensive partner channel. our customers are located in 74 countries across europe, latin america, and north america.      
+ aptean is focused on providing products and solutions to customers in specific verticals. our products are rich in feature and functionality and delivered on premise, saas and hybrid delivery models. aptean’s products deliver value at lowest total cost of ownership and scale with needs of our customers. most of our products and solutions are leaders in the vertical market segments they serve. 
+aptean uses its core values of drive for results, win together, foster innovation, and be courageous to guide its employee community to serve every customer in every geography and market.
+ 
+job description
+the experienced user interface engineer will be responsible for development tasks like designing, coding, testing and debugging of complex user interfaces using standard concepts & principles for various products in multiple vertical markets. works as a fully contributing team member, under broad guidance. they should be able to apply own judgment and independently determine a course of action to execute it, post review. 
+ 
+responsibilities
+
+to participate as an active member of an agile team, being involved in release and iteration planning
+work in collaboration with development and managers to create user stories and define development tasks
+work with the ux designers to provide feasibility and guidance on technology capabilities 
+develop user interfaces / applications for several product lines across various vertical markets
+develop automated unit, link, acceptance tests
+develop technical proof of concept prototypes, assimilate the results, draw conclusions and feedback the findings or incorporate them into your code
+to follow, apply and enhance standards, processes, metrics, procedures, etc., to ensure the quality and reliability of application software developed
+
+ 
+education / experience
+typically requires a minimum of 3 years of related experience with a bachelor’s degree; or 2 years and a master’s degree; or a phd with 1 years’ experience; or equivalent experience. typical range of experience is 2-5 years.
+-  solid understanding of java script, it’s not enough to just have written some script they need to understand the complex concepts
+-  solid understanding of oo concepts
+-  solid understanding of mvc / mvvm design patterns
+-  solid understanding of spa design patterns
+-  solid understanding of css / sass
+-  solid understanding of soa design patterns
+- good understanding of html 5 / dom
+- good understanding of responsive design
+- good experience and knowledge of working on n-tier mobile or web applications using one or more web and ui frameworks.
+- good understanding of web server technologies, non-functional requirements like scalability, performance, and security
+- nice to have / not essential… sencha, progress open edge
+- nice to have device development (ios / android)
+- nice to have web app / web service development (.net / java)
+ 
+if you are determined to give your best every day and you are seeking an opportunity to work with an amazing group of people, then apply online today!
+aptean, inc., is an equal employment opportunity employer. in accordance with applicable federal, state and local laws no applicant for employment with aptean shall be subjected to discrimination because of race, color, sex, national origin, religion, disability, age, covered military veteran status, reprisal for engaging in anti-discrimination activities, protected genetic information, sexual orientation or parental status.
+skills & requirements
+
+qualifications
+
+
+
+
+
+
+ 
+ 
+
+powered by hirebridge
+
+
+
+
+
+
+
+
+
+
+

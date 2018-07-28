@@ -1,0 +1,448 @@
+
+
+machine learning engineer | cambridge consultants careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+visit our main sitevisit our main site
+
+
+
+
+
+
+
+cambridge consultants careers
+
+
+
+
+
+
+menushow/hide navigation
+
+
+life @ ccmeet our peoplevariety and opportunitydevelop your careerculture and valuesgraduates and internsapplying to work at ccfind a job
+machine learning engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+machine learning engineer
+job ref: 200
+
+
+
+we are looking for talented machine learning engineers at all levels with experience in developing and applying cutting edge machine learning techniques such as deep learning, reinforcement learning and nlp to join our growing team in boston.  this is a role that perfect for those that crave variety, have a creative mind and are looking for the opportunity to develop solutions in a wide range of applications and industries that are at the cutting edge of machine learning.
+as a machine learning engineer you will have a strong background in machine learning theory as well as a track record of applying that theory to practical problems using state-of-the-art machine learning frameworks and accelerators such as gpus and fpgas.
+cambridge consultants is a fantastic place to work and our wireless and digital services division is home to world class teams of engineers, scientists and designers working together to create innovative solutions built cutting edge machine learning systems.
+
+
+
+
+
+full detailsdetails
+
+main purpose of the job
+you will design and develop machine learning systems for a range of clients from industries as diverse as warehouse automation to the internet of things. you work will encompass everything from first-principles thinking through to the development and deployment of live systems and you will collaborate closely with other disciplines on the project team to ensure successful delivery of a system that meets the clients needs.
+type of work undertaken
+we are pioneering the concept of the digital greenhouse in which models are rapidly trained and evaluated to converge on solutions that meet our clients’ requirements.  we utilize cutting edge gpu technology along with machine learning frameworks such as tensorflow, torch and caffe in order to develop systems for small to large scale deployments.
+as machine learning is rarely a product in its own right, we work closely with our user experience and software teams to ensure a tight integration with the complete product offering.
+specific responsibilities
+this position involves taking roles within projects with exposure to all aspects of development from brainstorming to final delivery. on a daily basis you will be:
+the design, development, training, verification and deployment of systems using machine learning
+the design of interfaces between your code and that of other components in the complete system
+contributing to ip development to expand and promote group capabilities
+delivering high quality software design, documentation and implementation that meet defined requirements
+collaborating with team members across multiple software teams
+for more senior roles your responsibilities will include leading project delivery teams and contributing technical input to project bid teams.
+minimum requirements
+you must have at least 2 years of industry experience in hands-on development of machine learning systems.
+we are looking for someone who is adaptable, self-motivated, and able to work under pressure. we will expect you to be able to work collaboratively as part of a team, but also have the initiative to work independently. you should have excellent interpersonal, communication, and presentation skills.
+you must be eligible to work in the us without sponsorship.
+your skill set must include:
+a minimum of a bachelor’s degree in engineering, computer science or mathematics
+practical experience of developing machine learning systems
+strong software skills in python/r/c++
+experience in using a machine learning framework such as tensorflow, torch and caffe
+excellent math skills
+good communication skills
+a strong desire to learn and investigate new technologies
+additional skills of interest include:
+phd or master’s degree in a machine learning discipline
+accelerating simulations using gpus
+designing and training deep neural networks
+computer vision and imaging
+experienced candidates seeking a more senior role will be able to demonstrate technical leadership and have a track record of deploying machine learning systems in a commercial environment.
+future prospects
+cambridge consultants is committed to developing its employees’ careers and has a flexible policy for individuals’ capabilities and preferences. in addition to providing you with a stream of challenging development opportunities for a variety of clients in a spectrum of market sectors, this position could lead to more senior opportunities including group leadership, project management, and business development.
+cambridge consultants is a growing company and promotion is linked to merit.
+
+benefitsexpand or collapse me
+
+choice of medical dental and vision plans
+flexible spending accounts
+18 vacation days for full time employees
+competitive base salary
+pay for performance
+profit share bonus plan based on company and individual performance
+401k with discretionary company match
+life insurance
+relocation assistance, if applicable
+cambridge consultants is an equal opportunity/affirmative action employer; m/f/d/v
+
+
+
+locationexpand or collapse me
+
+
+
+
+
+
+
+
+
+print job details
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+shortlist
+back
+
+
+
+
+
+
+
+location×
+
+42.350294
+-71.057129
+
+
+
+
+
+related jobs
+
+
+
+
+
+software engineer
+
+
+
+job ref: 208|job in detailjob in detail
+
+
+
+
+we are looking for enthusiastic, motivated software engineers across a wide range of areas.
+
+
+
+
+
+
+
+mid-level embedded software engineer
+
+
+
+job ref: 207|job in detailjob in detail
+
+
+
+
+as an embedded software engineer at cambridge consultants you will get to design and develop software to solve interesting (and difficult) problems for many different companies, in many different industries.
+
+
+
+
+
+
+
+signal processing engineer
+
+
+
+job ref: 201|job in detailjob in detail
+
+
+
+
+our growing boston team is looking for talented signal processing engineers at all levels with experience in designing and implementing wireless communications systems. 
+
+
+
+
+
+
+
+senior embedded software engineer
+
+
+
+job ref: 193|job in detailjob in detail
+
+
+
+
+why restrict yourself to working for one company, when you can enjoy the variety and experience of working with many?  in this role, you will develop mission-critical software that serves a meaningful purpose.
+
+
+
+
+
+
+
+principal embedded software engineer
+
+
+
+job ref: 192|job in detailjob in detail
+
+
+
+
+if you enjoy being part of from-scratch product and technology developments, and you are passionate about developing robust, mission-critical software that serves a meaningful purpose, then this role could be for you.
+
+
+
+
+
+
+
+senior medical software engineer - embedded
+
+
+
+job ref: 158|job in detailjob in detail
+
+
+
+
+do you want to apply your software development skills to the entire product development lifecycle of intelligent, automated and connected medical devices?  if so, this is the position for you....
+
+
+
+
+
+
+
+principal medical software architect
+
+
+
+job ref: 151|job in detailjob in detail
+
+
+
+
+this position offers the rare opportunity to take a leadership role in the medical technology business and help shape the future of intelligent, connected medical devices. if you are excited about solving complex, multivariate technical and systems challenges in the medical domain, are passionate about developing robust, safety-critical software that serves a meaningful purpose, and have excellent interpersonal and leadership skills, then this role could be for you. you will work with our clients and lead the creation of innovative multidisciplinary products and technologies in the medical space.
+
+
+
+
+
+
+
+
+
+
+
+shortlisted jobs
+your selection
+
+
+
+
+
+
+
+
+
+
+benefitsview our company benefits
+
+
+
+choice of medical dental and vision plans
+flexible spending accounts
+18 vacation days for full time employees
+competitive base salary
+pay for performance
+profit share bonus plan based on company and individual performance
+401k with discretionary company match
+life insurance
+relocation assistance, if applicable
+
+cambridge consultants is an equal opportunity/affirmative action employer; m/f/d/v
+
+
+
+
+
+
+
+
+where we are
+			united states
+
+
+
+
+
+
+
+alert me to new jobs
+sign up now
+alert me
+
+
+
+
+
+
+
+ latest news                        	corporate news from cc
+
+
+
+
+
+
+
+contact us
+
+
++1 617 532 4700
+
+
+send an email
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+linkedin
+twitter
+facebook
+vimeo
+
+
+
+
+
+© 2017 cambridge consultants ltd & cambridge consultants inc
+
+
+
+part of the altran group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

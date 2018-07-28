@@ -1,0 +1,389 @@
+
+
+
+
+data scientist :: oci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+site map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+servicessoftware engineeringopen source solutionsindustrial internet of things (iiot)analytics and data engineeringweb application developmentblockchain consultingindustriesdefenseenergyfinancehealthcaremanufacturingcommercetelecommunicationsproductsgrailstaoaceopenddsjbossliquibookquickfastmfastjfastmpcsupporttrainingcatalogschedulefaqslab rentalresourcespublicationslocal user groupseventsaboutclientspartnerscareersnews 
+
+
+
+
+
+
+
+data scientist 
+
+
+
+
+
+homeaboutcareersdata scientist 
+
+
+
+
+
+
+
+if you are motivated by the challenge of building elegant solutions for very complex projects, we really want to meet you! 
+
+
+
+
+
+
+
+data scientist
+ 
+we are growing our development team in st louis, mo, and we are searching for an experienced data scientist who cares deeply about quality and craftsmanship.
+ 
+key responsibilities:
+
+apply basic computer science principles (e.g., search, retrieval, concurrency, recursion, matching, databases) and if necessary, build apis and/or web applications as appropriate to scrape data and build exploratory models which showcase and integrate research into existing pipelines.
+be able to perform appropriate statistical analyses and derive keen insights using experimental design technique on datasets of any size; truly embrace and understand how to apply the “science” part of data science to domains of all shapes and kinds of data, whether image, gps, clickstream, text, financial, etc.
+comfortably apply your command of mathematics (linear algebra, markov models, calculus), your understanding of bayesian and frequentist probability philosophies, and a variety of data visualization methods to derive and convey your hypotheses.
+be able to apply regression methods, classification algorithms, clustering algorithms, etc, to varying machine learning (feature learning, supervised and unsupervised methods) situations.
+be able to effectively convey your hypotheses/ideas to client business leaders, or at least be able to allow an oci decision-maker to sell your idea to a client.
+
+ 
+skills & requirements must haves:
+
+masters degree, with 2+ years statistics / machine learning
+2+ concurrent years of software development experience
+proven data wrangling/munging experience
+work portfolio (public github repository, home website, blog posts) and referrals
+technical skills: 
+
+programming/maths/statistics
+
+python
+r
+java variant
+c++
+scala
+torch7
+julia
+
+if r, julia, torch7: must be able to make/help your algorithms scale up.
+
+
+
+
+databases
+
+any basic nosql or sql variant (mysql, postgres, mongodb, sqlite, neo4j, apache giraph, hadoop (or any other distributed platform)
+
+
+systematic experimental design knowledge (e.g., a/b testing, controlling variables, control and test group selection, hypothesis testing, smart experiments)
+experience in an agile environment
+
+preferably working with scrum and pods 
+
+
+
+
+
+nice to haves:
+
+phd degree
+experience using matrix manipulations
+ability to explain the significance of eigenvalues and eigenvectors
+ai and neural net experience
+reinforcement learning knowledge (e.g., q-learning, td-learning, genetic algorithms)
+presentation building and delivery skills
+experience in a fast-paced environment, such as a startup
+ 
+
+
+
+
+
+
+
+
+please send resumes to aaron@objectcomputing.com 
+
+
+
+
+
+
+
+
+
+let's connect.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+join our mailing list
+
+
+
+
+
+
+
+
+
+
+
+                    what are your interests?
+
+
+
+
+
+
+                        software engineering
+                    
+
+
+
+
+                        open source support
+                    
+
+
+
+
+                        groovy and grails
+                    
+
+
+
+
+                        analytics
+                    
+
+
+
+
+                        internet of things
+                    
+
+
+
+
+                        technology training
+                    
+
+please select an option
+
+
+
+this is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+newsnews
+
+
+
+
+webinar: modern javascript tooling for 2018
+
+
+vim jump start – december 2017 sett article
+
+
+webinar: designing a distributed app using dds qos
+
+
+black friday discount on web dev with grails 3
+
+
+stampedecon ai summit recap: learning about machine learning
+
+
+webinar: 5 critical components of blockchain applications
+
+
+
+all news 
+
+
+
+eventsevents
+
+
+
+dec 13
+jug meetup: bootiful testing
+
+
+dec 14
+grails and react
+
+
+dec 18
+eos blockchain: an introduction
+
+
+jan 11
+modern javascript tooling
+
+
+jan 17
+webinar: designing a distributed application using dds qos
+
+
+jan 24
+webinar: modern javascript tooling for 2018
+
+
+feb 21
+devnexus 2018
+
+
+mar 15
+greach 2018
+
+
+all events 
+
+
+
+contact
+
+
+
++1 (314) 579.0066
+
+
+
+
+info@objectcomputing.com
+
+ 
+
+
+email us
+
+ 
+
+
+12140 woodcrestexecutive dr.,ste 250st. louis, mo 63141
+
+ 
+
+
+
+
+
+
+
+
+
+
+© 2017 oci
+
+ 
+
+terms | privacy | media kit 
+
+
+
+
+secret
+
+
+
+

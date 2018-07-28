@@ -1,0 +1,282 @@
+
+
+
+
+
+sr. developer description at tribridge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+menu ☰
+search for careers
+about tribridge
+life at tribridge
+benefits
+professionals
+students
+
+
+
+
+
+
+
+        expertise for where you're headed
+    
+
+
+
+
+
+
+search for careers
+
+
+keyword
+
+
+
+category
+category
+.net development
+azure engineering & development
+business development
+campus
+dynamics ax
+dynamics crm
+dynamics nav
+dynamics sl
+erp consulting
+featured jobs
+human capital management
+netsuite
+opensource development
+program management
+project management
+sales
+software development
+students & new professionals
+
+
+
+country
+country
+spain
+sweden
+united kingdom
+united states
+
+
+
+city
+city
+albuquerque
+atlanta
+austin
+boston
+charlotte
+chicago
+columbus
+dallas
+denver
+detroit
+houston
+indianapolis
+las vegas
+london
+los angeles
+miami
+minneapolis
+nashville
+new orleans
+new york
+oakland
+oklahoma city
+omaha
+orlando
+phoenix
+pittsburgh
+reston
+sacramento
+san antonio
+san diego
+san jose
+seattle
+st. louis
+tampa
+washington
+
+
+
+state
+state
+arizona
+california
+colorado
+district of columbia
+england
+florida
+georgia
+illinois
+indiana
+louisiana
+madrid
+massachusetts
+michigan
+minnesota
+missouri
+nebraska
+nevada
+new mexico
+new york
+north carolina
+ohio
+oklahoma
+pennsylvania
+stockholm
+tennessee
+texas
+virginia
+washington
+
+
+
+search
+see all
+
+
+
+
+
+
+
+sr. developer
+apply now
+apply later
+job id 6146304 date posted 11/01/2017
+location: houston, texas
+descriptionsummary of position:• will be part of one or multiple teams that will use problem solving and deep technical skills to develop and implement database driven business applications for tribridge customers utilizing tribridge application development methodology. • the majority of time will be spent executing tasks related to customer solution delivery. • will be focused on design and development of custom applications built with application development tools. • will be partnered with a peer for coaching and receive significant training in the use of applicable tribridge methodology phases, activities and tasks to deliver quality work products for clearly defined projects in one of the following areas – analysis, design, testing, implementation, support and maintenance as well as product specific technical training. • ensures that all activities are carried out in an efficient, cost-effective manner. • acts as a bridge between all departments within tribridge, including sales, customer support, and partners.  • serves as an internal subject matter expert and supports all company activities including but not limited to system implementations, integrations, and process consultations. the technical consultant iii will be expected to participate in team building and to develop team and customer relationships. • will proactively look for ways to keep all time productive and will use non-customer time for personal training, internal projects and administrative tasks. • will be expected to be a peer partner to newly hired team members. • reports to the practice manager or a senior team member.key responsibilities: functional• utilize applicable tribridge application development methodology phases, activities and tasks to deliver quality work products for clearly defined projects in one of the following areas – analysis, design, testing, implementation, and support. • understands customer needs.   analyze ‘as-is’ information, and work with customer to envision a cost-effective ‘future state’.• understands documentation standards, and be able to create all standard project documentation.• responds promptly and professionally to customer requests or inquiries seeking guidance from project or practice management as appropriate• qa’s project efforts and documentation to ensure project decisions/deliverables are sound • trains users on new processes and software• provides excellent service to internal and external customers. keeps customers up-to-date on the progress of the service they are receiving and changes that may affect them. • prioritizes customer issues and addresses most pressing concerns• utilizes both formal and informal channels to facilitate the progress of work. interprets and integrates multifaceted information from varied sources on a range of complex issues. • actively establishes relationships with all levels within the customer organization• maintains continuous, open, consistent professional communication with customers, peers and management. openly listens to others and checks understanding. • continues to acquire and apply new knowledge and learning• may be expected to perform project management duties on smaller, less complex projects (develop project plans, manage budget/actual and scope of work, approval of project-related t&e)• business development – assists in the scoping of new client engagements, writes sows, and coordinates estimates for inclusion in sows.technicalmust be familiar with agile methodology implementation• implements solutions using technical specifications provided to develop desktop, web, mobile, service, and reporting applications.• demonstrates proficiency in practice technology. understands business process and relates knowledge to software development capabilities.• defines business requirements for technical solutions or alternatives. can identify and help design customizations, workarounds, and enhancements required to meet customer needs.• develop data conversion and testing strategies.• may be expected to perform technical lead duties on smaller, less complex projects (technical design, delegation of tasks to other team members, quality control reviews, etc.)minimum requirements – education, skill & abilities:associate’s degree in business, mis, computer science or equivalent combination of education and experienceminimum 3 years in the following technologies:visual studio, team foundation server, git client-side ui framework (angular, react, and/or knockout).net framework, c#mvc, html5, javascript, jquery, cssrest, json, web api 2azure paas offeringstsql, winformsobject oriented development, service oriented architecture, design patternsunderstands the basic patterns of integration processes (extract, map, validate, transform)understands and can utilize various source control technologiesproven project experienceminimum 1 year consulting experience required                                        2 years of related experience that includes experience in all required technical skills minimum 1 year experience working in a virtual environmentproficient in microsoft office applications excellent communication and relationship building skillsexcellent problem solving and analytical skillsstrong time management and organizational skillsvalid driver’s license required  preferred requirements– education, skill & abilities:• bachelor’s degree in business, mis, computer science, or equivalent combination of education and experience• minimum 4 years consulting organization experience preferred• proven experience with all listed technologies, with demonstrated expertise in 5 or more                                                                                     • microsoft certified – any development-related track working environment:• office/home environment or customer site• up to 15% travel dependent on practice and geography of project assignment.  may include overnight or additional driving time. 100% travel can be expected in smaller defined timeframes. 
+apply now
+apply later
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+
+
+sign up for tribridge job alerts and communications
+email addressselect interestschoose a category and/or location from the auto-suggestions and click "add".categorylocationaddfeatured jobs, houston, texas, united statesremove.net development, houston, texas, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sitemap
+
+expertise
+business applications
+industry solutions
+industries
+events
+customer care
+
+
+
+sitemap
+
+about
+blogs
+news 
+careers
+contact
+
+
+
+services
+
+cloud computing
+erp
+crm
+hcm 
+portals & collaboration
+custom software 
+network infrastructure
+it security
+
+
+
+
+expertise for where you're headed
+tribridge is a technology services firm specializing in business applications and cloud solutions. we help mid-market and enterprise customers solve their business challenges through a complete range of services, including cloud computing, erp, crm, custom software development, portals & collaboration, security & infrastructure and human capital management (hcm).
+
+social links
+
+facebook
+twitter
+linkedin
+youtube
+rss
+
+
+
+
+© 2015 tribridge. all rights reserved. terms & conditions privacy statement
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ip developer (c++, rtl, hls) - 6372
+
+
+
+
+work location
+
+
+us - or, wilsonville
+
+
+
+
+req id
+
+
+6372
+
+
+
+
+job category
+
+
+r&d/hardware engineering
+
+
+
+
+apply now
+company: mentor graphics
+job title: ip developer (c++, rtl, hls) - 6372
+job location: us – or - wilsonville
+job category: r&d/hardware engineering
+ 
+job duties:
+the catapult high-level synthesis tool is the leading tool for synthesizing c++ algorithms into rtl hardware. in this position you will be developing intellectual property (ip) in c++ and/or system c for use in a number of industry applications including software acceleration, image/video processing and machine learning among others. this will require understanding of the algorithms as well as the expected result in hardware. you will be working with a team of developers to create, test and document this ip.
+ 
+job qualifications:
+• a master’s degree in electrical or computer engineering.
+• solid understanding of digital electronics, digital signal/image processing and numerical analysis
+• experience in c++ and software engineering (scripting in perl/python/tcl).
+• familiarity with hardware descriptions languages (vhdl/verilog/systemverilog) and system-on-chip design a plus.
+ 
+all qualified applicants will receive consideration for employment without regard to race, sex, sexual orientation, gender expression or identity, color, religion, national origin, disability or protected veteran status.
+ 
+ 
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

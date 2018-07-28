@@ -1,0 +1,356 @@
+
+
+
+        ui developer - contract -        barefoot networks, inc. -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at barefoot, we believe that the network should be blazing fast and fully programmable. we envision a world where programmable networks outperform fixed-function networks. we believe that programming the network should be as easy as programming a server and we have invented technology that provides the necessary hardware and software to achieve all of these goals. we are a team of visionaries, experienced technologists and engineers who have created a blueprint for designing and operating the world’s fastest and most programmable networks. our team is driven by deep engineering skills and a love of cutting-edge projects.  we are transforming the networking industry and ensuring that it will enjoy the same explosion of innovation as we have seen in compute and storage.  if you’re ambitious, passionate and thrive on solving tough, real-world problems with a smart, motivated team, you want to work here!  
+
+
+
+ui developer - contract
+
+
+santa clara, ca                    
+
+contracted                
+
+engineering - software                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+barefoot networks is a team of visionaries, experienced technologists and engineers who have created a blueprint for designing and operating the world’s fastest and most programmable networks.  our team is driven by deep engineering skills and a love of cutting-edge projects.  we are building the world’s fastest switches that are also fully programmable, ensuring the network can adapt to meet the emerging needs of applications and empower users to write solutions rapidly, and to innovate broadly.  we believe that when the network is fully programmable—that is, both the control plane and data plane are under the control of the end user— the networking industry will enjoy the same innovative explosion as we have seen in software.
+
+programmable data planes enable a whole new ecosystem of advanced networking applications, and the field of possibility is mind-bogglingly wide. it ranges from advanced network monitoring, analysis, and diagnostics, to building a large-scale data analysis platform, to embedding some middle-box functions in switches/routers, and to jointly designing a network and the apps running on the network. at the core of this revolution are the technologies that barefoot is building: languages, compilers, and tools co-designed with fully programmable hardware. we're just starting to scratch the surface of this novel and exciting area, and we're looking for passionate engineers who can join this amazing journey with us!
+this is a (approximately) 3 month contract with full time potential at the end of contract.
+primary responsibilities:
+
+own the front-end for barefoot's client facing web application. this application visualizes the unique data that barefoot collects on a network
+take designs from mock-up to implemented product. optionally you can assist in design if interested
+implement unique data visualizations
+
+ 
+requirements/qualifications:
+
+3+ years of front-end engineering
+experience with reactjs
+experience with data visualization, ideally using d3
+preferably experience with scss or another css preprocessor
+the current front-end stack is reactjs, redux, scss, webpack, and nodejs with express.familiarity with these or similar technologies is important
+
+ 
+what we offer
+
+work in the silicon valley with legendary pioneers
+work with exceptionally passionate, talented and inspiring colleagues
+high-energy atmosphere of a bold, young company disrupting the networking industry
+competitive compensation package with strong benefits plan and equity
+lots of freedom for creativity and personal growth
+excellent opportunity to be a part of ground-breaking innovation and make a lasting impact!
+
+ 
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+who referred you to this position?
+
+
+
+are you willing to relocate?
+no answeryesno 
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+what's your highest level of education completed?
+no answerged or equivalenthigh schoolsome collegecollege - associatescollege - bachelor of artscollege - bachelor of fine artscollege - bachelor of sciencecollege - master of artscollege - master of sciencecollege - master of fine artscollege - master of business administrationcollege - doctoratemedical doctorother 
+
+college or university
+
+
+
+gpa
+
+
+
+linkedin profile url:
+
+
+
+twitter
+
+
+
+website, blog or portfolio:
+
+
+
+desired salary
+
+
+
+earliest start date?
+
+
+
+have you ever been convicted of a felony?*
+no answernoyes 
+
+if “yes”, you have been convicted of a felony, please explain the circumstances around the conviction:
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!
+
+150
+
+
+references: please enter names and contact information:
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

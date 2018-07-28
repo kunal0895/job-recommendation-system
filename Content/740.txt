@@ -1,0 +1,202 @@
+
+
+
+
+
+data engineer description at aruba networks inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+careers home
+
+
+
+
+
+search
+search jobs
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+&nbsp
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+share
+
+facebook
+linkedin
+twitter
+email
+
+
+
+
+apply
+data engineer
+date posted 12/02/2017
+location santa clara, california
+aruba, a hewlett packard enterprise company, is a leading provider of next-generation networking solutions for the mobile enterprise: http://www.arubanetworks.com/company/about-us.the company designs and delivers mobility-defined networks that empower it departments and #genmobile, a new generation of tech-savvy users who rely on their mobile devices for every aspect of work and personal communication. to create a mobility experience that #genmobile and it can rely upon, aruba mobility-defined networks™ automate infrastructure-wide performance optimization and trigger security actions that used to require manual it intervention. the results are dramatically improved productivity and lower operational costs.we are looking for a data engineer who is responsible for designing and implementing data pipelines at big data scale.your responsibilities implement parsers and validators for new log sourcesimplement etl transformers to reformat and enhance the dataimplement etl correlators to update the data from multiple data sourceswork on tools and apis to visualize the backend datatroubleshoot performance and data related problemswork with the analytics team in defining the schema for new data sourcesour minimum requirements for this role are4+ years java and/or python development experienceexperience working with hadoop or big data (hdfs, parquet, hbase)experience working with large scale databases like cassandraexperience working with map reduce or spark, elasticsearch, kafkaexperience working with databases like postgres, sqleducation bachelor's or master's degree in computer science, or equivalent and typically 4-6 years’ experience.benefits you’ll enjoyat aruba, a hewlett packard enterprise company, we offer an exciting and fun work culture, driving innovation, collaboration, and growth. we place our customers first, deliver some of the most innovative technologies to the market, and have fun doing it all! come join our team and be part of an exciting organization poised for success!thanks for taking the time to review our job, if you think it is a match to your experience and interests please apply today — we are eager to learn more about you!  we have dozens of openings, so encourage your friends to apply as well!#arubanetworks #genmobile #arubanetworksjobs #hpe #hewlettpackardenterpriseplease note the above statements describe the general nature and level of work only. they are not a complete list of all required responsibilities, duties and skills. other duties may be added, or this description amended at any time.
+apply
+
+
+
+
+similar job openings
+
+
+senior data engineer
+santa clara, california
+12/12/2017
+
+
+
+technical marketing engineer
+santa clara, california
+12/09/2017
+
+
+
+sr. technical marketing engineer
+santa clara, california
+12/09/2017
+
+
+
+manager, test engineering
+santa clara, california
+12/09/2017
+
+
+
+
+
+
+
+
+
+
+
+
+email alerts
+sign up for email alerts announcing job opportunities based on your preferences.
+emailinterested insearch for a category and select one from the list of suggestions. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.categorylocationaddengineering, santa clara, california, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+the brightest minds. the most intelligent technologies.
+
+
+
+
+learn more about how we’re lifting mobile barriers, freeing businesses to do what’s never been possible before. join us and become a mobile hero.
+
+
+
+
+
+
+
+
+follow us
+
+twitter
+facebook
+linkedin
+google+
+
+
+
+privacy policy
+terms of service
+legal
+sitemap
+
+
+
+
+back to top
+careers home
+
+
+copyright © 2017 aruba, a hewlett packard enterprise company.
+all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

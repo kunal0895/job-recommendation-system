@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+research scientist | careers at airbnb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      skip to content
+    
+
+
+
+
+become a hosthelpsign uplog in
+
+
+
+
+
+
+
+
+
+
+  
+      we’re sorry, some parts of the airbnb website don’t work properly without javascript enabled.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+           welcome
+        
+
+
+
+           departments
+        
+
+
+
+           locations
+        
+
+
+
+           engineers
+        
+
+
+
+           university
+        
+
+
+
+
+
+
+
+
+
+
+
+
+          research scientist
+        
+
+          san francisco, united states 
+        
+
+
+
+
+
+
+
+about the position
+we are looking for research scientists & applied researchers to join our growing team. in this role, you’ll have the opportunity to work on challenging data problems, including:
+
+building a conversational interface to create a far more interactive booking flow
+natural language processing to understand text content on airbnb platform, including reviews, descriptions and interactions between users on our marketplace.
+determining the optimal pricing strategies to help our hosts effectively manage their listings and achieve their revenue goals.
+identifying real-time optimal pricing + supply & demand strategies for hosts
+
+we are looking for engineers with:
+
+5+ years of industry experience or a phd + 2 years industry experience
+solid engineering and coding skills. ability to write high performance production quality code. experience in java, c++, python, scala and other equivalent languages is a plus.
+industry experience building and productionizing innovative end-to-end machine learning systems.
+good understanding of common families of models, feature engineering, feature selection and other practical machine learning issues, such as overfitting.
+experience with mapreduce, spark and hive a plus.
+experience with productizing research/publications a plus.
+experience with computer vision, image detection/recognition, nlp/nlu, deep learning a plus.
+
+benefits
+
+stock
+competitive salaries
+quarterly employee travel coupon
+paid time off
+medical, dental, & vision insurance
+life insurance and disability benefits
+fitness discounts
+401k
+flexible spending accounts
+apple equipment
+commuter subsidies
+community involvement (4 hours per month to give back to the community)
+company sponsored tech talks and happy hours
+much more...
+
+
+            apply now
+          
+
+
+
+
+
+
+tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+termsprivacysite mapairbnbmag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

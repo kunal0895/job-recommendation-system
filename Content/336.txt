@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+			  
+			  
+			  titlesoftware engineerlocationphiladelphiadepartment namedescriptionmagento business intelligence builds software that aggregates, stores, transforms and visualizes data to deliver actionable insights to business users. our hosted end-to-end solution allows marketers, product managers, analysts and executives to be data-driven without leaning on engineers or other specialists to provide data or run analyses.what you'll doour product and engineering team practices iterative development and continuous deployment. we work in small teams, deploy dozens of times a day, and keep our projects short and focused. engineers rotate between projects and areas of the product to learn and take on new challenges. as a member of the magento business intelligence engineering team, you can expect to.
+build and maintain features in our platform ranging from distributed data processing systems to in-browser data visualization tools.work with teammates to identify challenging product and engineering problems and then dream up elegant solutions.recognize weaknesses in our technology and organization and frequently tell us what we are doing wrong and why.
+what you'll need(we use the following in various capacities and expect that you've worked with some, but probably not all of these)
+clojure, php, ruby, java, pythonmysql, postgres, redis, mongodb, apache, node.js, hadoopangularjs, javascript, coffeescriptaws, git, jenkins, virtualbox, chef
+to be eligible for our software engineer opening, you should...
+have at least 1-3 years of experience, in addition to a bachelor's degree or equivalent experience in computer sciencehave a track record of solving technical challenges and owning critical systemsrecognize weaknesses in our technology and organization, and frequently tell us what we are doing wrong and whybe knowledgeable of fundamental computer science concepts.be passionate about building technology and products. 
+who we areat magento, we inspire and empower data-driven people with powerful hosted software. hundreds of high-growth e-commerce companies use our analytics platform to collaborate and make smarter decisions using data.
+ 
+
+
+

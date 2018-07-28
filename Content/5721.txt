@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+apply for american express senior engineer i - hr data warehouse & analytics job - digital commerce, technology - phoenix, arizona
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+american express
+
+
+
+
+
+
+life at american express
+our company
+career areas
+student opportunities
+
+
+
+
+
+careers home
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+american express careers
+
+
+
+
+
+
+
+get future jobs matching this search.
+
+
+
+
+
+
+
+ get alerts 
+
+
+
+
+ please enter a valid email.
+ unfortunately, our network is not responding. please try again later.
+ your job alert was successfully created.
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior engineer i - hr data warehouse & analytics
+
+
+locations:
+phoenix, arizona
+
+
+
+
+categories: digital commerce
+
+
+categories: technology
+
+
+
+
+
+apply
+
+
+get referred
+
+
+
+how get referred works
+
+how get referred works
+
+how get referred works
+
+
+
+
+job description
+
+
+
+description
+ 
+american express is embarking on an exciting transformation driven by an energetic new team of high performers. this group is nimble and creative with the power to shape our technology and product roadmap. if you have the talent and desire to deliver innovative payment products and services at a rapid pace, serving our customers seamlessly across physical, digital, mobile, and social media, join our transformation team! be part of an enthusiastic, high performing technology team driving execution on a multi-year hr data strategy that will leverage state of the art technologies/capabilities such as predictive analytics, data visualization, iot, chat-bots, machine learning, and api’s in developing solutions for the hr data warehouse, hr data services, hr analytics and employee solutions platforms. 
+ 
+our solutions leverage some of the industry’s best in class hr platforms and reporting/analytics frameworks (such as oracle obiee, informatica, tableau, and postgresql), and are growing in the space.  
+ 
+we are seeking an innovative senior engineer with strong etl, real-time data integrations experience and to help shape our technology solutions and product roadmap and drive the quality delivery of applications and infrastructure components. 
+ 
+the role will collaborate closely with business partners, project managers, technical architects and leadership as a subject matter expert, to ensure completeness and efficiency of solutions while ensuring adherence to technical standards. the position will also play a critical role partnering with other development teams, testing and quality, and production support, to meet implementation dates and allow smooth transition throughout the development life-cycle.
+ 
+this is a delivery role that requires hands on experience in the data services workspace (i.e. restful apis and hr domain experience) and frequent interaction with our business partners through the life cycle of the project. 
+ 
+ 
+
+serving as a core member of the hr data services, hr data warehouse & analytics agile delivery team that designs and develops software applications
+develop applications that will drive employee digital experience while increasing productivity 
+perform hands-on architecture, design, development, and testing, including conducting code reviews and testing in ongoing sprints 
+utilize best-of-breed technologies to build applications that will provide value 
+be highly motivated and maintain a positive, “can-do” attitude in a fast moving environment 
+foster the spirit of collaboration across multiple internal teams 
+identify exciting opportunities for adopting new technology to solve existing needs and anticipating future challenges qualificationsrequired skills/qualifications
+
+bs or ms degree in computer science, computer engineering, or 7+ years of equivalent work experience in related disciplines preferred
+demonstrated hands-on expertise in design, development, and automated testing, preferably in an agile environment.
+solid etl experience
+informatica power centertool experience
+thorough understanding of xml, json, web services technologies and data structure fundamentals
+experience conducting etl processes on large xml, flat files and database table data sources
+proven hands on experience with using and creating web-based restful apis. 
+proven hands-on experience with object-oriented design and coding skills across a variety of platforms and languages including java, c#, asp.net, etc.
+good understanding of html, css3, and javascript
+excellent interpersonal and organizational skills 
+a proven hunger to learn new technologies and translate them into working software
+ability to effectively communicate with internal and external business partners
+
+demonstrated technical capabilities and ability to work collaboratively and effectively with a range of stakeholders 
+hands-on ability to build quick prototype / visuals to assist with high level product concepts, capabilities, and epic stories
+experience with automated release management using tools, technologies, and frameworks like maven, subversion, git, jenkins and xl release.
+experience with distributed (multi-tiered) systems, algorithms, and relational databases
+demonstrated experience on rdbms (oracle, ms sql server) and nosql/big data technologies (e.g. mongodb, neo4j, cassandra, postgresql, etc.)
+knowledge and experience with using unit testing frameworks such as junit
+building of applications in a cloud environment is a plus.reqid: 17014493schedule (full-time/part-time): full-time
+
+
+
+
+
+
+apply
+
+
+get referred
+
+
+
+how get referred works
+
+how get referred works
+
+how get referred works
+
+
+
+
+ 
+
+
+
+
+contact us
+manage your profile
+manage your profile (students)
+employees
+
+
+
+
+
+
+
+
+
+
+
+adchoices
+privacy statement
+terms of service
+
+
+
+
+american express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other status protected by law.
+us candidates/employees: click here to view the “eeo is the law” poster and supplement and the pay transparency policy statement.
+
+all users of our online services subject to privacy statement and agree to be bound by terms of service. please review.
+© 2017 american express company. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

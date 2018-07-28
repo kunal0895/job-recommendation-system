@@ -1,0 +1,430 @@
+
+
+
+software engineer - infrastructure - dropbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - infrastructure
+
+    seattle, wa
+
+
+
+company description
+dropbox supports hundreds of millions of creators and innovators around the world. our mission is to simplify the way people work together. dropbox business is trusted by over 200,000 companies to safeguard their most important information. as we continue to build the best place to create, share, and work with others, there’s a perfect spot for you to grow with us.
+team description
+our engineering team is working to simplify the way people work together. they’re building a family of products that handle over a billion files a day for people around the world. with our broad mission and massive scale, there are countless opportunities to make an impact.
+
+role description
+the dropbox infrastructure engineering team is passionate about building awesome products at massive scale. we've developed a set of values that enable us to do this. specifically, we write great software and sweat the details, relentlessly focus on impact, and create an enduring culture. creating elegant products begins with lots of hacking and iteration to explore the problem space. it culminates in careful attention to edge cases and error handling, polished code, and great tests to ensure that we ship reliable code that never compromises data integrity or security. every dropbox software release improves millions of lives, and you'll find high petabyte-to-engineer and gbps-to-engineer ratios here. we're aggressive about shipping high-leverage projects, even if they're risky or novel. we care deeply about collaboration, feedback, and iteration. trust and respect are deeply rooted in our engineering culture.
+ 
+dropbox seattle is a small but rapidly expanding engineering office currently working across infrastructure, android, desktop, payments, and photos. join our founding team and help us shape the future!
+
+responsibilities
+
+build storage and caching infrastructure to manage metadata for hundreds of billions of files, hundreds of petabytes of user data, and millions of concurrent connections.scale traffic infrastructure (network layers 4–7) to connect dropbox’s worldwide base with low latency and high security.continuously make dropbox faster by building instrumentation and profiling tools, analyzing performance, and making full-stack optimizations.
+
+requirements
+
+3+ years of work related industry experiencewe're looking for brilliant engineers who are hungry to take dropbox even further. if these large-scale projects resonate and you would like to strongly influence the direction and culture of our seattle office, and you have industry experience building and owning mission-critical distributed systems, we'd love to learn more about you and find out if we can work together.
+benefits and perks
+100% company paid individual medical, dental, & vision insurance coverage401k + company matchmarket competitive total compensation packagefree dropbox space for your friends and familywellness reimbursementgenerous vacation policy10 company paid holidaysvolunteer time off company sponsored tech talks (technology and other relevant professional topics)
+
+
+
+    dropbox is an equal opportunity employer. we are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. a big part of that effort is our support for members and allies of internal groups like asians at dropbox, blackdropboxers, latinx, pridebox (lgbtq), vets at dropbox, women at dropbox, atx diversity (based in austin, texas) and the dropbox empowerment network (based in dublin, ireland).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+other open positions
+there are no open positions right now. check back soon—we're growing fast!
+
+
+
+
+
+
+demand planning engineer
+san francisco, hq
+
+
+
+
+director of engineering development infrastructure
+san francisco, hq
+
+
+
+
+engineering manager, infrastructure
+san francisco, ca
+
+
+
+
+engineering manager, infrastructure engineering
+new york, ny
+
+
+
+
+machine learning phd internship - summer 2018
+san francisco, ca
+
+
+
+
+manager, supply chain
+san francisco, ca
+
+
+
+
+mysql dba engineer
+san francisco, ca
+
+
+
+
+security engineer
+san francisco, ca
+
+
+
+
+site reliability engineer
+san francisco, ca
+
+
+
+
+software engineer - desktop platform
+seattle, wa
+
+
+
+
+software engineer - infrastructure
+san francisco, ca
+
+
+
+
+software engineer - mobile platform (ios)
+san francisco, ca
+
+
+
+
+software engineer, accessibility
+san francisco, ca
+
+
+
+
+
+
+
+
+
+
+
+dropbox
+
+
+plus
+
+business
+
+enterprise
+
+paper
+
+plans
+
+
+
+
+using dropbox
+
+
+help center
+
+security
+
+productivity
+
+apps and integrations
+
+
+
+
+company
+
+
+about us
+
+contact
+
+blog
+
+
+
+
+downloads
+
+
+desktop app
+
+mobile apps
+
+
+
+
+legal
+
+
+privacy
+
+terms
+
+
+
+
+
+
+
+
+
+
+choose a language
+
+
+
+bahasa indonesia
+
+
+bahasa malaysia
+
+
+dansk
+
+
+deutsch
+
+
+english (united kingdom)
+
+
+english (united states)
+
+
+español (españa)
+
+
+español (latinoamérica)
+
+
+français
+
+
+italiano
+
+
+nederlands
+
+
+norsk (bokmål)
+
+
+polski
+
+
+português (brasil)
+
+
+pусский
+
+
+svenska
+
+
+українська
+
+
+ไทย
+
+
+中文（简体）
+
+
+中文（繁體）
+
+
+日本語
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    english (united states)
+                    
+
+
+
+
+
+
+
+
+
+

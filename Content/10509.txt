@@ -1,0 +1,142 @@
+
+
+
+
+infogix careers - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    infogix careers                                            
+
+
+
+
+
+
+
+                data scientist
+    
+    
+
+                            professional services            
+                    naperville,
+                            illinois
+                
+                        
+
+
+
+        apply
+    
+
+
+
+position overviewyour primary focus will be in applying data mining techniques, performing statistical analysis, and building enterprise grade prediction systems as part of an overall infogix solution.  you should be able to create, configure, and monitor predictive data models and perform quantitative analyses to create valuable insights from data. the role requires hands–on experience with all phases of design, development, and deployment of analytics-centered solutions. job responsibilities design and develop solutions based on the crisp-dm model, focused on predictive analytics.develop analytical solutions for loosely defined business problems by leveraging pattern detection over potentially large datasets (billion+ rows).quickly develop prototypes for full-service analytics value chain and able to scale on request.apply and explain traditional, machine-learning, and deep-learning algorithms such as logistic regression, gradient boosted trees, random forest, and neural nets.write and interpret complex data mining and modelling queries for standard as well as ad-hoc purposes, using strong programming skills in r, python, sas, or scala.effectively communicate and help organization understand the principles and the math behind the process to drive organizational buy-in.performs other related duties as assigned. experience required 7-8 years of overall experience, including at least 4+ years of quantitative data mining and analysisdeployment of 3+ projects demonstrating excellent understanding of data science algorithms such as boosted trees, ann, cnn, k-mean clustering, nlp, and text -mining.deployment of 2+ projects demonstrating data mining solution development in big-data and distributed computing environments, including experience with hadoop and spark.5+ years hands-on experience in developing and deploying predictive analytics projects using one of the following tools: python, r, java, scala.ms in computer science, mathematics, or related field.exposure to healthcare or insurance is preferred. technical skill set required:proficiency with one or more common data science toolkits such as sql, r, python, java, scala or sas.exposure to common data science libraries such as numpy, pandas, h2o, tensor flow, keras, and mxnet.proficiency in excel and powerpoint/visio.excellent communication and interpersonal skills.moderate project management experience is preferred.join our winning team and unique, team-spirited company culture. we offer numerous benefits for your contributions and teamwork. these include:comprehensive medical, dental and vision insurancepre-tax flexible spending plan for healthcare and childcarefifteen personal days the first year of employmenteight paid holidays and up to two floating holidays per yeara 401(k) with excellent company matchcompany-provided life and accidental death and dismemberment insurancecompany-provided short- and long-term disability insurancetraining and certification opportunities  infogix, inc. and its subsidiaries are equal opportunity employers. minority/female/disabled/veteran.for additional product information and company overview, please visit our website at www.infogix.com. 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

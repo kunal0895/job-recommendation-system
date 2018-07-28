@@ -1,0 +1,204 @@
+ 
+
+
+
+
+2pirad.com - openings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+openings
+who we are
+how we do
+what we do
+home
+
+
+
+
+
+
+
+openings
+
+
+
+our clients value us for our technology solutions, creativity, passion, dependability and our ability to work as a team.
+these are the core qualities inherent in the 2pirad family.
+
+if the above resonates with you and inspires you, mail us your resume at:2b@2pirad.com by nov 15, 2017
+
+
+
+chicago office openings
+
+technology lead (positions open: 1)
+qualification: bachelor's degree in computer science, information systems technology, or a related field 
+experience: 3-4 yrs relevant work experience
+skill set requirements:
+
+strong object-oriented concepts 
+solid understanding of core java and java ee 
+gather detail business requirements on java technology platform and the underlying web application framework to design software applications 
+interact with the client to develop and implement application requirements, transform the requirements into technical and formal software requirement specifications, and design the proper software architecture 
+work with subsystem engineers and vendors to integrate business requirements into the messaging middleware 
+act as the primary interface with the software architect/design team during the software application design phase 
+ensure the application design ideas are being executed to meet client requirements 
+develop and design software code structures for critical components of the system and evaluate new features to be incorporated 
+document software design, develop web-based software applications, and perform system testing to build poc (proof-of-concept) for client demonstrations 
+strong database and sql skills 
+exposure to source code control tools 
+
+
+
+
+houston office openings
+
+senior software engineer (positions open: 1)
+qualification: bachelor's degree in computer science, information systems technology or a related field 
+experience: 2-3 yrs relevant work experience 
+skill set requirements: 
+
+strong object-oriented concepts 
+solid understanding of core java and java ee 
+develop prototype applications utilizing apache ofbiz 
+serve as a member of the overall development team and participate in the programs coding and modules development utilizing front-end technologies including ajax driven development, object oriented javascript, jquery, and html display tool css 3 
+implement and deploy software applications, conduct rca (root cause analysis) for system applications, and carry out end-user meetings to identify problems utilizing agile programming methodology 
+participate in product demonstration exercises, providing technical support, and using junit and selenium for application regression testing 
+interact with the client to develop and implement application requirements, transform these requirements into technical and formal software requirement specifications, and design the proper software architecture 
+document software design, develop we-based software applications, and perform system testing to build poc for client demonstrations 
+strong database and sql skills 
+exposure to source code control tools 
+
+
+
+software engineer: mdm  (positions open: 2)
+qualification: bachelor's degree in computer science, information systems technology 
+experience: 1-2 yrs relevant programming experience 
+skill set requirements: 
+
+well versed with master data management tools (mdm), etl tools 
+knowledge of reltio and snaplogic is a significant advantage 
+good understanding of core java and java ee 
+strong software development skill utilizing ajax driven development, object oriented javascript, jquery, and css 3 
+implement and deploy software applications, conduct rca (root cause analysis) for system applications 
+carry out end-user meetings to identify requirements and prepare relevant documentation 
+identify problems utilizing agile programming methodology 
+ability to undertake product demonstration exercises, provide technical support, and use junit and selenium for regression testing 
+willingness to work as an active team member of the development team, under the guidance of senior architect 
+good database and sql skills 
+exposure to source code control tools 
+
+
+
+
+india office openings
+
+senior developer
+qualification: bachelor's degree in computer science, information systems technology 
+experience: 2-5 yrs relevant programming experience 
+skill set requirements: 
+
+strong object-oriented concepts
+familiar with design patterns
+solid understanding of core java and java ee
+worked with ioc frameworks and orm libraries
+strong database and sql skills
+exposure to source code control tools
+
+
+
+web engineer
+qualification: bachelor's degree in computer science, information systems technology 
+experience: 1-3 yrs relevant programming experience 
+skill set requirements: 
+
+good command over in at least one web framework in any of java/ruby/php 
+strong in object oriented javascript and jquery
+knowledge of html5 and css3
+strong database and sql skills
+exposure to source code control tools
+
+
+
+
+ 
+
+
+
+twopiradian infotech private limited
+
+
+bippl, building - c, 2nd floor, 
+sector v, kolkata,
+				700091
+ india
+
+
+t:
+				    +91-33-4006-5568  
+
+e:
+				info@2pirad.com
+
+
+
+  home    |   what we do   |   how we do   |   who we are   |   openings   |   contact us  
+
+
+
+
+
+
+			© 2006-2017 twopiradian infotech private limited. all rights reserved.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,829 @@
+
+
+
+
+
+
+		web developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+web developer
+technology – raleigh, north carolina
+
+
+apply for this job
+
+
+
+
+department
+technology
+
+
+employment type
+full time
+
+
+minimum experience
+mid-level
+
+
+
+
+
+
+
+
+
+
+work with a small team in a dynamic startup-like environment to develop, deliver, and support a suite of enterprise web applications. our team's aim is to deliver a best-in-class web 2.0 experience to users across a variety of industries, with a focus on consistent and appealing design. developers will gain a detailed understanding of core business processes used throughout the oil and gas, chemical, utilities, mining, and manufacturing industries and build a wealth of experience in a variety of software development technologies through on the job training. the team implements a product ownership model, following all software from initial concept to development, implementation, and long-term maintenance, with a strong focus on new product development. 
+daily responsibilities of a web developer include:
+
+debug software and configuration issues discovered in development, qa, deployment, and live implementations, including remote debugging in customer environments
+work with teammates in daily scrums and weekly code reviews to prioritize development items, share information, and build individual skills
+work with customer support representatives to resolve any customer issues that require developer intervention
+implement new features and corrections for java/javascript/html based web applications and service backends
+collaborate with prometheus group quality assurance engineers, field services consultants, and customer user acceptance teams to assure successful release and delivery of quality software
+maintain a record of changes in the issue tracking system (redmine) and in source control (svn)
+supervise development interns and associate developers
+represent the company in a polite and professional fashion when interacting with customers by email, telephone, or in person
+travel to customer sites to assist in requirements gathering or implementations when necessary
+
+education
+• b.s. in computer science or equivalent degreework history
+• an appropriate amount of experience at the associate web developer level (or equivalent)
+required
+
+2-5 years of experience with enterprise web applications
+proficiency in object-oriented programming concepts and methods
+extensive knowledge of web standards (http, jsp, html5, css3, js)
+familiarity with principles of service oriented architectures, both for restful architectures and soap web-services
+experience using javascript front-end development frameworks (ie. react, angularjs, backbone, dojo, extjs, jquery, yui)
+experience with relational database storage and sql as well as jpa or other orm technology
+familiarity with the inversion of control/dependency injection paradigm 
+• ability to apply software design patterns (ie. gang of four) in practice
+• individual time management skills
+• ability to break down complex development tasks into actionable steps
+• excellent oral and written communication skills
+• ability and eagerness to learn new technologies
+
+preferred 
+
+java servlets
+maven or similar build management systems (ie. gradle)
+eclipse ide or similar
+spring framework or other java-based ioc container
+extjs
+
+career tracks
+as a web developer, your options open a bit as there are multiple paths you can go. to continue forward as pure development, a further understanding of your trade is necessary, whereas, with architecture, the job will be slightly more academic. without going into management afterward, senior developer is a terminal spot, organizationally, for anyone not looking for management responsibilities. the indicated skills and the growth thereof should be the main focus of periodic reviews with your manager, whether bi-weekly or semi-annually.senior developer
+• expertise with object-oriented languages• advanced sap usage in core modules• internal project management• customer interaction (written, verbal, in-person)
+architect
+• expertise with object-oriented languages• proficiency with popular design patterns and best practices• proficiency with enterprise architecture
+associate qa engineer, qa engineer
+• software engineering practices, including agile-like testing modules• black-box learning how the full-stack of a team’s software works• basic sap usage in core modules• technical writing
+why prometheus group?
+we are a fun-loving, hard-working group of people who enjoy winning as a team!  we create enterprise application software that improves the usability and user adoption of sap plant maintenance.  we listen to our customers and actually develop our tools alongside them to make sure we have products that make their lives better.  our certified software solutions “live” inside of sap and enable companies to increase productivity, reduce costs and improve reporting.
+
+located in downtown raleigh
+triangle business journal 50 fastest growing private companies winner the past five years
+generous benefits package: 
+
+                            company paid medical/dental/vision/life benefits
+                            paid time off
+                            paid holidays
+                            401k with company match
+                            short-term disability
+                            flexible spending account
+                            employee referral bonus
+
+casual, fun, fast-paced environment
+office socials, company parties, holiday celebrations
+wellness programs with gym membership, ultimate frisbee, basketball, soccer, and volleyball teams
+
+all your information will be kept confidential according to eeo guidelines.
+to qualify, applicants must be legally authorized to work in the united states and should not require now, or in the future, sponsorship for employment visa status.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+references (name, company, and contact info)
+
+
+
+
+
+
+
+
+
+are you authorized to work lawfully in the united states?
+
+
+
+
+
+
+
+will you now or in the future require  us to “sponsor” an immigration case in order to employ you?
+
+
+
+
+
+
+
+have you been convicted, pleaded guilty or no contest to a crime, or are criminal charges pending against you?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+raleigh, north carolina
+
+
+department
+technology
+
+
+employment type
+full time
+
+
+minimum experience
+mid-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

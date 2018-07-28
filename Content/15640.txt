@@ -1,0 +1,240 @@
+
+
+
+
+
+
+software engineer - atlanta, ga - vesta corporation jobs
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+jobs
+
+
+
+
+software engineer - atlanta, ga
+
+toggle navigation
+
+
+
+
+
+
+
+
+software engineer 
+
+career opportunitieslogin 
+
+
+
+
+
+
+
+
+
+
+
+ engineering atlanta, ga, usa full time 
+
+
+
+email me similar jobs email me this job
+
+
+
+software engineer
+position summary: 
+in this role, you will be responsible for developing software to drive vesta's real-time transaction operating environment.
+essential functions:
+
+analyzes requirements to determine feasibility of design and estimate effort for various real-time transaction processing components
+works on a scrum team to develop and test product features
+provides technical specifications and documentation
+develops and performs unit and basic integration tests
+browser authentication using ad, ldap, etc.
+browser encryption using ssl and client server certificates
+encoding, digesting and encryptions (md5, sha1, sha256, salt digesting, public key encryption)
+
+knowledge, skills and experience:
+
+3+ years working with java developing well-designed, testable, efficient code
+3+ years payments industry experience
+ba/bs degree in computer science, engineering or equivalent experience
+strong development skills with java technologies and a deep understanding of apis and web services
+a background in test automation using tools such as junit, jmeter, webdriver, and soapui ng pro
+background in large enterprise software as a service (saas) projects (typically in industries such as payments, finance, insurance, banking, e-commerce/e-business)
+experience with various web browsers and web hosting solutions
+experience with root cause analysis, including deep log scans, sql profiler and application server logging
+experience with tomcat (trust-store and key-store setup and configurations, server.xml, context and web.xml, and jdbc connections pooling)
+experience with databases (transact sql 2012+, windows authentication mode, management studio or enterprise manager)
+an understanding of the software development life cycle (sdlc)
+experience with the atlassian tool suite (jira, bamboo, bitbucket, confluence, etc.) 
+high level of proficiency with ms office tools
+excellent verbal and written communication, interpersonal, organizational, and customer service skills
+self-starter and a team player that will thrive in a fast-paced environment
+
+
+vesta corporation
+https://vestajobs.applicantpool.com
+
+
+
+
+
+
+apply now
+
+
+
+you have javascript disabled on your browser. you will not be able to apply for this position without enabling javascript. if you need assistance with enabling javascript, please click here for assistance.
+
+
+
+
+
+ 
+
+* fields are required
+
+
+
+
+what is your full name?
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+
+
+how can we contact you?
+
+
+email
+
+
+
+
+
+phone number
+
+
+
+number type
+
+home
+cell
+work
+
+
+
+
+
+
+
+apply for this position
+apply for this position
+
+
+
+
+
+
+
+sign up for job alerts!
+
+
+
+
+
+
+
+
+resources
+
+
+company page 
+
+
+share this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+maintained by applicantpool - © 2017
+
+
+
+refresh
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

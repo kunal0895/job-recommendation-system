@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+java application developer - ecommerce ~
+
+
+location:
+costco corporate office
+
+
+order number:
+2199
+
+
+# of openings:
+1
+
+
+
+description
+description of position
+costco team is looking for a dedicated and experienced developer to join its development team. s/he will participate
+in and lead design sessions, and code new features for various projects to support and expand costco’s international
+e-commerce platform. the right candidate will be asked to play the role of development lead on projects, to ensure
+delivery of high quality artifacts, to adhere and follow costco’s sdlc. this is an excellent opportunity to work on a
+global e-commerce application for a well-known fortune 50 company.
+ 
+tasks and responsibilities 
+
+
+development of features for a global e-commerce website.
+
+
+creation of conceptual and detailed technical design documents.
+
+
+provide accurate and timely estimates (work breakdown schedules).
+
+
+design and develop relational database applications.
+
+
+document and execute unit and integration tests.
+
+
+define and implement standards and best practices for software development.
+
+
+participate in code review sessions as a coordinator, owner, reader, recorder or observer.
+
+
+support the needs and requirements of other i.s. departments.
+
+
+provide 3rd-level application support for production installed components.
+
+
+assists in other areas of the department and company as necessary.
+
+
+ 
+required skills, abilities, and certifications
+
+
+minimum 4 years experience with web and ui development using html, javascript, and css.
+
+
+minimum 4 years experience developing in a distributed application environment.
+
+
+minimum 2 years experience as a development lead on major projects.
+
+
+must have experience programming with j2ee development stack, preferably on ibm websphere commerce platform.
+
+
+must have working knowledge of java, ejb, jms, jsp, web services, soap, and xml technologies.
+
+
+experience programming in one major database: db2, ms sql, or oracle.
+
+
+strong knowledge of object oriented concepts and applied uml experience.
+
+
+must have experience leading at least one project through a formal software development lifecycle.
+
+
+must have strong communication skills, both oral and written. 
+
+
+ability to work with all management levels.
+
+
+must have high integrity, accountability, a positive attitude, and be willing to do what it takes to make the team successful.
+
+
+must have proven ability to manage priorities and timelines.
+
+
+must have proven ability to provide project estimates and work-breakdown schedules.
+
+
+must be extremely responsive, able to work under pressure in crisis with a strong sense of urgency.
+
+
+responsible, conscientious, organized, self-motivated and able to work with limited supervision.
+
+
+must be detail-oriented and possess strong problem-solving skills and ability to analyze for potential future issues.
+
+
+24/7 on call responsibilities on a rotational basis.
+
+
+ 
+recommended skills, abilities, and certifications
+
+
+experience programming in db2 and/or ms sql server is highly desirable.
+
+
+knowledge and experience with ibm development tools preferred.
+
+
+previous e-commerce experience preferred.
+
+
+previous experience working in a service oriented (soa) environment preferred.
+
+
+
+ 
+to apply: use the link below to upload all required documents to 
+https://chm.tbe.taleo.net/chm02/ats/careers/requisition.jsp?org=costco&cws=1&rid=2199
+applicants and employees for this position will not be sponsored for work authorization, including, but not limited to h1-b visas.  if hired, you will be required to provide proof of authorization to work in the united states.  apart from any religious or disability considerations, open availability is needed to meet the needs of the business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

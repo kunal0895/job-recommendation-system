@@ -1,0 +1,8 @@
+react developer at thirteen23company websitereact developeraustin, txfull-timejob openingsreact developer%button_apply_to_position% apply using linkedinthirteen23 is looking for a seasoned react developer to become an important part of our team. the ideal candidate will have a passion for application development, a strong work-ethic, and the ability to work independently as well as collaboratively in a team environment. in this position, you will have the opportunity to work on client-facing projects as well as in-house labs and applications.
+our ideal candidate is a developer with a solid computer science foundation, good communication skills, and a passion for creating great experiences.
+this is an ideal position for someone who is comfortable with a smaller, agile environment and is used to working on multiple projects simultaneously.
+must have a deep understanding of react and redux. we use redux-saga as well.must have the ability to create beautiful, responsive interfaces with minimal html and css.should be able to test up and down the pyramid.should have a command of modern tooling: webpack, babel, yarn, sass.additional experience with d3 and mapboxgl is ideal.experience with or interest in learning functional programming is a big plus.solid understanding of computer science fundamentalsstrong problem solving and communication skills
+
+
+what you can expect:
+an amazing office where you can do your best worka good work-life balance (regular hours & flexible schedule)medical / retirement / life / 401k24/7 parking in downtown austinteam lunches every friday%button_apply_to_position%%footer_powered_by%breezy

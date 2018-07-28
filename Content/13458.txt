@@ -1,0 +1,230 @@
+
+
+
+search for jobs -software engineer i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer i
+
+
+location
+
+us-pa-king of prussia
+
+
+
+
+
+job id
+
+2017-48647
+
+
+# of openings remaining
+
+1
+
+
+category
+
+engineering
+
+
+residency status
+
+u.s. citizenship required
+
+
+clearance
+
+top secret/sci w/poly
+
+
+employee type
+
+regular
+
+
+time type
+
+full time
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+vencore is a proven provider of information solutions, engineering and analytics for the u.s. government. with more than 40 years of experience working in the defense, civilian and intelligence communities, vencore designs, develops and delivers high impact, mission-critical services and solutions to overcome its customers most complex problems. headquartered in chantilly, virginia, vencore employs 3,800 engineers, analysts, it specialists and other professionals who strive to be the best at everything they do. vencore is an aa/eeo employer - minorities/women/veterans/disabled
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+conducts research in design, development, testing and utilization of electronic data processing software. designs, develops, documents, tests and debugs applications software and systems that contain logical and mathematical solutions. conducts multidisciplinary research and collaborates with equipment designers and/or hardware engineers in the planning, design, development, and utilization of electronic data processing systems for product and commercial software. determines computer user needs; analyzes system capabilities to resolve problems on program intent, output requirements, input data acquisition, programming techniques and controls; prepares operating instructions; designs and develops compilers and assemblers, utility programs, and operating systems. ensures software standards are met. analyzes user needs and software requirements to determine feasibility of design within time and cost constraints. confers with systems analysts, engineers, programmers and others to design system and to obtain information on project limitations and capabilities, performance requirements and interfaces. designs, develops and modifies software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design. coordinates software system installations and monitors equipment functioning to ensure specifications are met. specific job description:vencore’s multi-int analysis center is forming an advanced computational environment to support predictive analysis of complex systems. the combined engineering and software team will innovate and integrate relational data flows and complex engineering models to explore multi-int architecture methods and performance. the successful candidate will be part of the software team responsible for delivering models of engineering designs, analyzing the output of those models, and enhancing/maintaining those models. on-going efforts will also include incorporating new methodologies and improving software performance as the program evolves. specific task responsibilities include:perform multiple technical tasks in software design, implementation, and integration projectsindependently perform complex software development tasksensure efficient delivery of capabilities using industry standards and repeatable processesanalyze detailed software requirements and specifications for the architecturesupport systems engineering technical exchanges and meetingssupport the development of database infrastructures required to ingest, store and manipulate input datamanage product deliverable schedules to meet customer requirementsdetermine and assess system processing and storage requirementsscope, design and develop integrated applications to enable efficient data mining and analysisdevelop and maintain supporting data dictionariessupport team in query development and optimization and respond to ad-hoc requests for data
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+bs/ms in computer science, engineering, mathematics, information systems or related technical field0-2 years’ experience in developing software applications and data architectures supporting systems engineering/development effortexposure/experience with the following:c# (.net), java, c/c++, or similarms excel, sas, perl, python, matlabdata modeling, relational database rdbms (e.g ms sql server or similar), sql, database administration, database orm (e.g. hibernate, entity framework)nosql graph databasecomputational scaling, distributed application technologies, and software performance optimizationdata mining, analysis, performance analysis, predictive analytics and reporting using numerous methods and toolssystem modeling and simulation techniquesexcellent oral presentation and writing skillsfamiliarity with user interface development and data visualization (desired)ts/sci poly clearance must be obtainable.
+
+
+
+
+
+options
+
+apply for this job onlineapplysharesubmit employee referralrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+create your talent network profile
+
+
+
+
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+
+
+share
+|
+
+
+
+
+
+
+
+
+vencore is an equal opportunity/affirmative action employer
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

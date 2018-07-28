@@ -1,0 +1,175 @@
+ 
+
+unit4 careers - in business for people
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unit4
+
+
+
+
+
+contact us
+unit4.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share this job
+facebook
+twitter
+google+
+linkedin
+
+software engineer
+
+
+country:
+united states
+
+
+office:
+st louis, mo
+
+
+business area:
+research & development
+
+
+as a software engineer you are responsible for delivering high quality code and contributing to the design and architectural decisions of the unit4 education software solution.
+as a software engineer you are an integral part of the agile/scrum team and continuously deliver software based on user stories. you will contribute to the quality of the user stories focusing on the need for clean and maintainable software. you will be an active participant in daily stand-ups and iteration planning meetings.
+as a software engineer you deeply care about the customers and the quality of the code that you write, providing with comprehensive unit tests that ensure continuous quality development.
+what you will do 
+
+participate in planning, estimation, demonstration and retrospective activities as member of the agile/scrum team;
+develop software components that are reusable, scalable, and extensible for future changes/enhancements;
+mentor by following and championing development best practices and reviewing peers’ work product;
+translate functional requirements represented as user stories into sound technical solutions;
+create and maintain development environment for efficient testing and integration;
+ensure that the software developed has been tested at a modular and integration level.
+
+we ask 
+
+outstanding oral and written communication with peers, stakeholders and supervisor;
+advanced experience of the microsoft development stack
+advanced sql/database programming microsoft sql server (t-sql)
+strong problem solving and analytical skills
+ability to produce high quality, maintainable software
+ability to work in a fast-paced, highly collaborative environment
+experience in agile software development practices such as scrum
+minimum of 7 years experience in full lifecycle software development;
+minimum of 5 years experience in design and development of cloud-based applications in c#, asp.net, mvc4;
+experience with xml, html, javascript, ajax, jquery;
+experience with unit testing frameworks such as nunit, ms test, xunit.net, etc.;
+experience with iis;
+experience with source control packages such as tfs, git, and subversion;
+experience with continuous integration packages such as jenkins, hudson, tfs ci, etc.
+
+ your approach
+
+flexibility and the ability to work in a continually changing, client-focused environment;
+ability to balance multiple high-priority deliverables;
+strong analytical skills;
+strong oral, written and interpersonal communications skills;
+self-managed and motivated;
+ability to work effectively both independently and in a team environment
+ability to follow through tasks to completion;
+very organized and detail oriented;
+customer-friendly attitude.
+
+ we offer
+
+ a challenging international working environment;
+enthusiastic colleagues who are eager to learn from you;
+a flexible and solution-oriented work place where you work hard but also play hard;
+a chance to further develop your leadership skills;
+we support you in developing your own skills and grow your own career. 
+
+unit4 does not accept resumes from recruitment agencies.
+
+
+
+
+
+
+
+
+unit4
+
+twitter
+facebook
+linkedin
+google+
+youtube
+glassdoor
+
+
+
+footer navigation
+
+© 2017 unit4
+disclaimer
+cookie policy
+privacy statement
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

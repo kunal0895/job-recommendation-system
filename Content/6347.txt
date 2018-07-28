@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+algorithm developer - external careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+            or
+        register
+
+nuvasive career site
+
+ 
+
+
+
+
+
+
+
+
+
+algorithm developer
+us, us, ca - san diego
+minimum level of education required: masters degree
+percentage of travel: no travel required
+location: ca - san diego
+ref#: 16527
+
+share with: linkedin
+google plus
+facebook
+twitter
+
+
+apply now
+
+
+
+job description
+this is an exciting opportunity for a talented algorithm developer to join our nvm5 dev team as you engage in new development on new features, as well as maintenance of the existing code base.  as a seasoned algorithm developer, you’ll  tap into your software development expertise as you tackle complex issues utilizing multi-threaded components taking design, requirements and standards into account.       you are a scientist at heart, who loves the challenges of algorithm development as you design, code and unit test your code.  because you take pride in your work, you understand the importance of code standards as you develop quality, sustainable code with a solid design.  hitting milestones and deadlines are part of your nature, so you enjoy collaborating with teams to ensure on-time delivery. with an eye on continual improvement, you possess a great can-do attitude and openly share ideas to help the dev team improve the software development process and overall development environment.
+basic qualifications
+advanced degree (ms or phd) or equivalent experience in a quantitative field with strong focus on image processing, computer vision, statistical estimation, or similar.strong experience in software development using image processing algorithms (registration, enhancement, segmentation, object classification/recognition)proficient in either matlab or python (for algorithm prototyping), and c++ (for production code)collaborative approach with strong communication skills to troubleshoot, plan, and prioritize with an interdisciplinary teamexperience with and ability to thrive in a fast-paced development environment with evolving priorities and requirements
+preferred qualifications
+experience with image processing and machine learning libraries and tools (opencl, opengl, vtk, dnn frameworks, etc.)experience with thorough performance testing of prototype algorithms, including laboratory and benchtop testing, simulations, and statistical performance testingexperience in optimizing image-processing algorithms for real-time operation using cuda / gpuimage-processing and algorithm development for computer-assisted surgery (spatial navigation, close-range photogrammetry, multimodal registration)solid understanding of c# and .net developmentagile software development methodologies and tddstatistical performance estimation techniques (roc curves, detection theory, parameter estimation)familiarity with medical imaging modalities used in surgical applications (x-ray, ct scan, mri)
+nuvasive is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability. the “eeo is the law” poster options are available here.about nuvasivenuvasive, inc. (nasdaq: nuva) is the leader in spine technology innovation, focused on transforming spine surgery and beyond with minimally invasive, procedurally-integrated solutions designed to deliver reproducible and clinically-proven surgical outcomes.the company’s portfolio includes access instruments, implantable hardware, biologics, software systems for surgical planning, navigation and imaging solutions, magnetically adjustable implant systems for spine and orthopedics, and intraoperative monitoring service offerings. with $962 million in revenues (2016), nuvasive has an approximate 2,300 person workforce in more than 40 countries serving surgeons, hospitals and patients. for more information, please visit www.nuvasive.com.
+
+
+
+apply now
+share with: linkedin
+google plus
+facebook
+twitter
+
+
+< back to job list
+
+
+
+
+
+
+
+
+
+
+
+©2015 nuvasive®, inc.
+privacy
+terms and conditions
+
+nuvasive is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability. the “eeo is the law” poster options are available here.
+                        
+                        nuvasive is committed to working with and providing reasonable accommodation to individuals with disabilities. if you are an individual with a disability who requires reasonable accommodation to complete any part of our application process, including the use of this website, please contact us at careers@nuvasive.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

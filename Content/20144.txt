@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+back
+ 
+
+
+
+apply
+
+
+
+
+
+job title
+full stack developer
+
+location
+sacramento, ca
+
+job type
+contract full-time
+
+position id
+204052
+
+job description
+connectpoint search group is looking for a full stack web developer for a contract opportunity in the sacramento area. the ideal candidate has prior hands on experience with react.js and restful api's using agile methodology. experience with ruby on rails is a huge plus.core duties and responsibilities include:
+
+ strong analytical skills and the ability to pay careful attention to detail
+ strategic thinking and ability to communicate on every level
+ ability to work with minimal supervision
+ translation of designer mock-ups and wireframes into front-end code
+ building reusable components and front-end libraries for future use
+ participate in agile ceremonies
+ review work produced by team members
+
+required skills and qualifications:
+
+ 4+ years of web development experience
+ 2+ years of coding experience using react.js 
+ 2+ years of development experience using an agile methodology
+ 2+ years of development experience using restful apis
+ 1+ years of experience doing test-driven development (tdd) with automated test tools for react.js and/or ruby on rails (e.g., karma, jasmine, jest, rspec, capybara)
+ experience with ruby on rails is highly desirable
+
+compensation:the annual salary range for the full stack web developer position is competitive based on experience application instructions:for immediate consideration, please apply online. should you have any questions about the full stack web developer position or your candidacy, please contact jon davis or your connectpoint search group recruiter at (916) 239-3700.  confidentiality guarantee:all inquiries, applications and referrals are held in strict confidence. to protect your anonymity, you may submit your resume without information regarding your current employer. alternatively, you may contact us by phone to confidentially discuss our process and your interest in the full stack web developer position.about connectpoint search group:wouldn't it be great if you knew someone on the inside? someone who could take away your stress and instantly put you at ease. someone you could trust to help you reach your goals. that's connectpoint search group. we've brought more professionals together with the sacramento businesses who need them (and love them) than any other locally-owned firm. why? like you, we live here and we work here. our team is exceptionally experienced in the sacramento market; we have the skills, passion and the connections to produce great results. we provide direct placement, contract staffing, and unbundled recruiting solutions.get to know us. get connected now. www.cpsg.com
+
+web posting date
+11/10/2017
+
+
+
+linkedin
+apply
+
+
+
+www.cpsg.com
+

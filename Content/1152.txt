@@ -1,0 +1,392 @@
+
+
+
+
+job application for data engineer at marqeta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at marqeta
+      
+(view all jobs)
+
+        oakland, california
+      
+
+
+we are seeking a data engineer that wakes up every morning thinking about how to make data use and data solutions more efficient, thrives on leveraging open source tools and enjoys working in a team environment. the right person for this role has a passion for all things data, and has begun to develop the technical skills to follow that passion. a data engineer in the data insights, visualization and analytics team is expected to be a problem solver for marqeta’s growing data needs, be able to contribute to projects in a timely manner while juggling multiple priorities, and proactively ideate with the broader team.
+ 
+responsibilities:
+help develop a data environment consistent with industry best practices and cutting edge approaches. develop, maintain and support a nimble data access solution able to both provide ready access to existing data features and incorporate new features in a timely manner. operate in time-sensitive environment with competing deadlines, by appropriately prioritizing the short and long term paths based on an agile development process.
+ 
+our ideal candidate has:
+
+2+ years experience designing, implementing and maintaining relational / data warehousing environments (custom or structured etl, preferably working directly with large data environments)
+familiarity with data warehousing concepts (e.g. dimensional data modeling) and schema design (e.g. star, snowflake, etc.)
+experience building and launching efficient & reliable data pipelines to move data (both large and small amounts) throughout data warehouse.
+experience in redshift sql(postgresql) or mysql, with ability to optimize queries for high volume environments
+experience in building large-scale, distributed systems using python, java or scala.
+experience with git, github, and the pull request workflow
+experience with shell scripting/crontab
+positive outlook towards work, strong work ethic and ability to work in a team environment
+
+ 
+bonus points for:
+
+experience in big data frameworks (such as hadoop, hive, kafka, spark is a plus)
+experience in data modeling for complicated business problems, designing etl / data pipeline solutions (such as talend/python preferred), and working in columnar databases (amazon redshift preferred)
+experience in payments (good domain knowledge on financial services industry)
+previous work with nosql dbs such as dynamodb, cassandra, mongodb, hbase
+
+ 
+perks:
+
+be an early member of a team driven data usage and analytics in a create startup
+leverage modern tools and languages to further your career growth
+competitive salary and benefits package with meaningful equity
+great oakland location close to public transportation
+casual work environment
+a ready supply of drinks and snacks (cold brew coffee on tap!!)
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at marqeta are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

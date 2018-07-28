@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+        data scientist - icl - 1558 - georgia tech research institute
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist - icl - 1558
+
+
+
+
+
+
+job number:
+
+
+1558
+
+
+
+
+
+job classification:
+
+
+research faculty
+
+
+
+
+areas of expertise:
+
+
+data science
+
+
+
+
+functional roles:
+
+
+researcher
+
+
+
+
+degree:
+
+
+master's; phd
+
+
+
+
+level of experience:
+
+
+junior; mid level
+
+
+
+
+field of study:
+
+
+computer science
+
+
+
+
+rank:
+
+
+research engineer i (rei); research engineer ii  (reii); research scientist i  (rsi); research scientist ii  (rsii)
+
+
+
+
+
+location:
+
+
+atlanta, ga
+
+
+
+
+
+
+job type:
+
+
+all
+
+
+
+
+
+
+close date:
+
+
+03/05/2018
+
+
+
+
+
+
+labs/support units:
+
+
+information and communications laboratory (icl)
+
+
+
+
+
+
+
+
+
+description:
+
+
+the high performance computing and data analytics branch is seeking qualified individuals with skills relevant to the field of data science.  in particular we are seeking individuals with a strong background in performing independent research and working on research project teams.  the technical skills required include but are not limited to data science skills such as statistical analysis, regression, time-series forecasting, machine learning, and deep learning as well as experience working in teams programming in one or more languages such as r, python, java, scala, and/or c/c++.  experience with data science libraries such as glm, scikit-learn, spark mllib, pandas, etc. are preferred.
+the position responsibilities will include working on one or more projects within the group with a particular focus on industry collaboration on economic forecasting and machine learning and predictive analytics.  the researcher will be responsible for developing software, performing analysis, writing reports, interacting with sponsors, and working with fellow researchers to achieve project goals.  furthermore, the candidate will have opportunities to get involved with other research areas such as healthcare analytics, internet of things research, and computational social science research.
+research scientist i
+
+bachelor's in cs, machine learning or related degree and who will be performing on a professional level.
+
+research scientist ii
+
+master’s in cs, machine learning or related degree and three (3) years of relevant full-time experience after completion of that degree,
+a doctoral in cs, machine learning or related degree.
+
+experience requirement
+
+background in independent research projects
+experience in data science skills including but not limited to: statistical analysis, regression, time-series forecasting, machine learning, and deep learning
+programming experience working in teams with one or more languages such as r, python, java, scala, and/or c/c++
+strong written and verbal communication skills.
+
+preferred experience
+
+experience with devops best practices including version control systems (git) and containerization (e.g. docker), unit and regression testing systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

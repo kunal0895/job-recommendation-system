@@ -1,0 +1,568 @@
+
+
+
+
+job application for front end engineer at linode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+front end engineer
+
+        at linode
+      
+
+        philadelphia, pa
+      
+
+
+linode is looking for front end engineers to help us build our open source web app!
+as a front end engineer at linode you will work on our open source single page app used by customers like dark sky, the onion and hundreds of thousands of developers like you around the world. these systems are used to manage hundreds of thousands of linodes running on thousands of servers in our global datacenter network.
+not only will your work be showcased publicly, but you’ll get the opportunity to interact with the community of open source contributors and have your work used by friends and colleagues. 
+if that sounds exciting to you, then linode may be the place for you! 
+our work environment fosters innovative solutions, rapid development cycles and open communication. because our core technologies are linux based, familiarity with linux is a big plus.
+we're a closely knit team with a focus on agile development and innovative solutions. we encourage and reward curiosity, ingenuity, and technical excellence. if you enjoy working on ambitious projects that have a big impact, you'll enjoy working at linode!
+technologies
+you don’t have to have experience with all of these, but you should have experience with some of them and an interest to learn others
+
+javascript, react, redux, mocha, chai, karma, enzyme
+html5, css3, sass, bootstrap
+python, perl, bash
+debian, linux virtualization and containers
+git, jenkins, salt, nginx
+
+must haves:
+
+3+ years experience in software development
+experience with javascript, react and redux
+experience with html5, css3 and sass
+educated views on technology and software design to bring to the table
+excellent communication and interpersonal skills
+ability to work in an agile organization
+a love for linux
+
+nice to haves:
+
+bachelor's degree in computer science or related field 
+contributions to open source projects as well as your own projects
+systems architecture and design skills
+api design experience
+comfort maintaining live production systems
+build and deployment automation experience
+experience with browser automation
+experience with server side languages such as python
+experience in a hosting environment or other cloud-based iaas or saas provider
+
+work with us
+
+philadelphia office: we’ll be moving our hq to one of the coolest tech buildings in philly in q1 2018; join us on n3rd street! (https://www.linode.com/press/linode-buys-real-world-bank-for-phila-office)
+flexible work hours: we have flexible start times and a very generous paid time off package.
+unbelievable benefits: we provide comprehensive health insurance, 401(k) contributions, a profit- sharing program, and pension plans.
+monthly wellness reimbursements: up to $100 towards gym memberships, diet plans, massages, etc.
+a macbook pro: to use around the office and at home.
+free hosting service: take advantage of some linode service - we’ll pick up the tab.
+linode lunch: what goes better with technology than food? nothing.  we bring in a catered lunch every week.
+competitive salary: it all begins with fair compensation. we believe in paying people well and rewarding those who go the extra mile.
+
+founded in 2003, linode is a leading cloud hosting provider with 600,000 customers worldwide served out of eight global data centers. linode invests heavily in its people and has set the bar for excellence in the cloud hosting industry. our customer service, development, ops, hardware, marketing, and documentation teams are all part of making linode the most simple, powerful and reliable hosting provider. this industry moves fast, but we’re committed to hiring the kind of people who can stay a step ahead and keep us - and themselves - at the top.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what position are you applying for? *
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+github profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+if you don't have a website, please list a couple work samples' urls. 
+    
+
+
+
+
+
+
+or attach work samples here
+    
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach file
+dropbox
+google drive
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+what is the highest level of education you have completed? *
+
+
+
+please selecthigh school
+technical school
+some college
+2 year college or associates degree
+bachelors degree
+masters degree
+doctorate
+other
+
+
+if you received a degree, what was your major? if you selected 'other' please explain.
+    
+
+
+
+
+
+
+if not within commuting distance, are you willing to relocate? *
+
+
+
+--
+yes
+no
+
+
+how many relevant years of experience do you have? *
+
+
+
+
+
+
+what makes you want to work for linode? *
+
+
+
+
+
+
+
+why did you leave your last employer or why do you want to leave your current employer? *
+
+
+
+
+
+
+
+what is/are your preferred language(s)? *
+
+
+
+
+
+
+please briefly describe your experience with the technologies required for this position. *
+
+
+
+
+
+
+
+describe one of your most technically interesting accomplishments, either personally or professionally.  *
+
+
+
+
+
+
+
+what is your desired salary range? *
+
+
+
+
+
+
+are you legally authorized to work in the united states? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require sponsorship for employment visa status (e.g. h-1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at linode are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,313 @@
+﻿
+
+
+
+
+data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+how were you referred to us? 
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+data engineer
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-01308
+
+location: 
+santa clara, california
+
+position type:contract
+
+
+
+
+	description
+are you a fan of data and enthusiastic about applying data (big and small) to real product? can you help to make significant contributions in an innovative application project with cutting edge client, data science and ai skill? does it sound exciting to you to improve billions of people's daily life and convenience?
+if these describe you, we would love to hear from you!
+duties and responsibilities (including essential functions)
+¿ help to evolve large scale big data platform and tools in all aspects, from data collection to data processing, exploration, visualization and modeling.
+¿ create and implement large scale solutions.
+¿ apply client algorithms and solution in real business engagements.
+¿ help create and demonstrate significant business values.
+job specifications
+education/knowledge:
+¿ major/discipline: computer science/statistics/math/ee or related.
+¿ degree requirement: master's degree with a minimum of 3 years of experience.
+skills & abilities (technical or general):
+requirements:
+¿ knowledge of basic data analysis techniques (probability, statistics, machine learning).
+¿ experience in building analytics platform for big data and cloud application;
+¿ experience in data pre-processing, data cleansing and access;
+¿ scale up from prototypes to production solution in big data and cloud environment.
+¿ experience in implementing and validating data algorithms and models with solid programming skills (such as python, r, java or other) and machine learning libraries(such as tensorflow, keras, mllib, scikit-learn or other)
+¿ familiar with big data tools such as hadoop, spark and flink.
+¿ strong communication skills and ability to work well as part of a team.
+	
+
+
+
+apply by creating/using  account
+
+
+
+
+for all w2 contract positions, no c2c is allowed.  please respond only if you are applying for position yourself and can be a direct employee of intellipro group inc.  *no recruiters or c2c*
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

@@ -1,0 +1,125 @@
+
+
+
+
+spacex careers - full stack software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    spacex careers                                            
+
+
+
+
+
+
+
+                full stack software engineer
+    
+    
+
+                            information technology - applications development            
+                    redmond,
+                            washington
+                
+                        
+
+
+        apply
+    
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+spacex was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. today spacex is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on mars.full stack enterprise software engineerthe eis (enterprise information systems) team writes the software that builds rockets and powers spacex. we are responsible for all of the software on the factory floor, the warehouses, the financial systems, the restaurant, and even the public home page. elon has called us the "nervous system" of spacex because we connect all of the other teams at spacex to ensure that the entire rocket building process runs smoothly.responsibilities:we are seeking developers with demonstrable experience in: asp.net, c#, sql server, and angularjs. we are a fast-paced, highly iterative team that has to adapt quickly as our factory grows. we need people who are comfortable tackling new problems, innovating solutions, and interacting with every facet of the company on a daily basis. creative, motivated, able to take responsibility and support the applications you create. help us get rockets out the door faster!basic qualifications:bachelor's degree in computer science, engineering, physics, mathematics, or similar technical discipline.3+ years of experience developing across a full-stack:  web server, relational database, and client-side (html/javascript/css).preferred skills and experience:database - understanding of sql. ability to write performant sql. ability to diagnose queries, and work with dbas.server - knowledge of how web servers operate on a low-level. web protocols. designing apis. how to scale web sites. increase performance and diagnose problems.ui - demonstrated ability creating rich web interfaces using a modern client side framework. good judgment in ux/ui design.  understands the finer points of html, css, and javascript - know which tools to use when and why.system architecture - knowledge of how to structure a database, web site, and rich client side application from scratch.quality - demonstrated usage of different testing patterns, continuous integration processes, build deployment systems. continuous monitoring.current - up to date with current trends, patterns, goings on in the world of web development as it changes rapidly. strong knowledge of computer science fundamentals and applying them in the real-world.itar requirements:to conform to u.s. government space technology export regulations, applicant must be a u.s. citizen, lawful permanent resident of the u.s., protected individual as defined by 8 u.s.c. 1324b(a)(3), or eligible to obtain the required authorizations from the u.s. department of state. learn more about itar here.spacex is an equal opportunity employer; employment with spacex is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.applicants wishing to view a copy of spacex’s affirmative action plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the human resources department at (310) 363-6000.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+

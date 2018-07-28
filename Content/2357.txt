@@ -1,0 +1,60 @@
+
+
+
+
+dialexa - jobs: data scientist / engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data scientist / engineer
+
+data scientist / engineer
+dallas, texas, united states
+
+descriptiondialexa is expanding its data science practice and is looking for great talent to join us building intelligent, next generation platforms.   are you tired of just pushing out ones and zeros and you yearn to solve hard problems? do you want to work on an awesome team of designers and developers in a full agile process? do you want your creative technical ideas to be listened to, heard, and implemented? do you want to create applications that people love?we develop for a wide array of technology platforms and frameworks including mobile, web, internet of things (iot), wearables, and embedded devices. we have an awesome culture that includes perks such as fun quarterly team outings, startup swag, healthcare benefits, 401k, pto, discounts for gym, travel, and mobile carrier, and relocation package (if you have to move to dallas). to learn more about dialexa, please visit www.dialexa.comresponsibilities designing and building high-level petabyte-scale architectures tailored to clients' needs write and monitor etl processes using distributed computing techniques collaborate with designers, managers, product owners, and other engineers to deliver business outcomes design and train machine learning models and deploy them to real time analytics systems analyze, explore, and visualize data to produce actionable information expectations (the more the better - we want great talent!) bachelor of science in computer science or related major portfolio of applications that clearly demonstrates coding proficiency, an eye for quality, understanding of security, and attention to performance knowledge of common data science languages (python, scala, java, r, etc.) experience with... cloud infrastructure and services (aws, azure, google cloud) big data storage tools (hadoop hdfs, aws s3, azure blob) training machine learning models (scikit-learn, tensorflow, torch) sql and nosql databases (mysql, postgresql, cassandra, mongodb) searching and caching storage (elasticsearch, solr, redis) messaging platforms (kafka, rabbitmq, kinesis) distributed querying (prestodb, hive, pig) distributed processing (spark, mapr, storm, flink)   
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+dialexa website
+
+powered by
+workable
+
+
+
+
+

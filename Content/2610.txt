@@ -1,0 +1,204 @@
+
+
+
+careers center - sql developer, intermediate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+sql developer, intermediate
+
+
+
+
+posted date
+
+2 months ago
+
+
+
+job id
+
+2017-3017
+
+
+# of openings
+
+1
+
+
+category
+
+it
+
+
+type
+
+full time regular
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+matrix medical network it delivers capabilities using cutting edge technologies, including mobile tablet, geo-spatial analysis, database solutions using sql and nosql, business intelligence and custom business solutions. looking for enthusiastic, action oriented team members who will thrive in our fast paced and dynamic environment.  the intermediate developer is a technical person providing oversight and delivery of technical projects. this role implements architecture-centric solutions in addition to delivering solutions that adhere to and meets the strategic objectives set by the architect and it leadership. 
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+participates in all phases of sdlc, from system analysis and design thru development and test to deployment and support.participates in designing and developing complex systems by writing design specifications description of framework, interfaces, services, reports, business components, and interaction between the components.responsible for ensuring quality delivery of code through static and dynamic testing techniquesis able to troubleshoot any complex issues as well as provide support to production.keep abreast of the current technologies and technological trends. ability to learn and prototype new technologies, and recommend their use in the company products.ensures adherence to standards for self as well as team.other duties as assigned
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+ minimum 3  years of experience as a developerknowledge of advanced sql programming concepts like cte (common table expressions) minimum 3 years of experience with transact-sql, microsoft sql reporting services and microsoft sql server(2014 or later preferred)minimum 3 years of experience with microsoft sql server integration services (ssis)knowledge of advanced ssis concepts to handle complex tasks like importing large files, loading data in a transactional database etc.proven ability to analyze, document, and reverse engineer any type of sql based applications and processes.make recommendation on how to rewrite, modify, redesign sql based application and processes based on analysis.excellent written and verbal communication skills demonstrated abilities to successfully document and communicate software designs of complex systems.has proven record of successfully motivating and leading a software development team. proven history of developing and unit testing complex software components.ability to be flexible, set priorities and meet deadlines in a changing environment.must have decision-making skills for problem identification and solution recommendation. ability to work independently and as part of a team while demonstrating initiative and using good business judgment demonstrated ability to drive process improvement and improve the process efficiencydemonstrated ability to reduce and/or prevent production defects based on the continuous root cause analysis and process improvementability to maintain effective working relationships across teams and with a diverse workforce able to represent the company in a positive and professional manner. preferred experience:experience with nosql databasesexperience in programming in java is a plusexperience in big data analytics is a big pluseducational requirements: bachelor's degree in computer science or related field or equivalent combination of education and experience.  supervisory responsibilities: nonetravel requirements: ability to travel up to 15%.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+get job recommendations
+
+
+
+
+tell us a little about yourself, and we’ll recommend jobs that match your interests and experience.
+
+click here to get started.
+
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

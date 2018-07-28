@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+web developer (chc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ follow us on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+overview
+our culture
+veterans
+living in houston
+nursing careers
+all jobs 
+
+ menu
+
+
+
+
+
+overview
+our culture
+veterans
+living in houston
+nursing careers
+all jobs 
+
+
+
+
+web developer (chc)click here to apply onlinejob descriptionabout uscommunity health choice, inc. (community) is a non-profit health maintenance organization (hmo) licensed by the texas department of insurance. through its network of more than 10,000 providers and 70 hospitals, community serves over 260,000 members with the following programs:• medicaid state of texas access reform (star) program for low-income children and pregnant women• children’s health insurance program (chip) for the children of low-income parents, which includes chip perinatal benefits for unborn children of pregnant women who do not qualify for medicaid star• health insurance marketplace plans that offer individual health coverage that includes preventive care, emergency services, prescription drugs, and hospitalization available to all, regardless of pre-existing conditions.improving members' experiences is at the heart of every community position. we strive every day to make sure that our members have access to the high-quality health care they need and deserve.community is accredited by urac for its health plan operations. we offer care management programs for asthma, diabetes, and high-risk pregnancy. an affiliate of the harris health system (harris health), community is financially self-sufficient and receives no financial support from harris health or from harris county taxpayers.job profilejob summary:  the ideal candidate will have 4+ years of web programming experience, including developing client/server and web based applications using asp.  must have experience in designing user interfaces using dynamic html and javascript. candidate must have experience with relational databases, preferably microsoft sql server.  this position requires that the candidate develop, maintain, and support the company¿s external and internal web sites.  knowledge of as400 platform and healthcare industry are a plus.minimum qualifications: bs degree in computer science, mis or related field 4+ years in web programming experience.  healthcare industry knowledge is a plus.additional requirements:experience with user authentication using secure sockets layer (ssl)experience in installing digital certificates on web serverability to work both independently and as a part of a teamability to effectively communicate ideas and conceptscomplex problem solving and documentation skillsfluent in english language - good written and verbal skillspassion for technology and commitment to qualitythe following experiences are desirable:experience in flash and action scriptingexperience with vbscript, java, com/dcom objectsexperience with msft iis web serverexperience with user authenticationunderstanding the software development life cycle, design and use of software requirements, design and testing documentsspecial requirements: communication skills:above average verbal (heavy public contact): writing /composing (correspondence /reports )  other requirements: some late nights and weekends required for special projects.benefits and eeoccommunity employees’ benefits are provided by harris health. these benefits are designed to provide you with flexibility and choices in meeting your specific needs.community is an equal opportunity employer.job categoryall jobsapplication instructionsplease click on the link below to apply for this position. a new window will open and direct you to apply at our corporate careers page. we look forward to hearing from you! apply onlineclick here to apply onlineshare this jobxshare this pageweb developer (chc)share link. copy this url: email directrecipient's email address*your email address*additional note (optional)your email has been sent!send another message | close this windowview mapposted: 12/1/2017job status: full timejob reference #: 140689
+
+
+
+
+
+the hiring process at harris health system may include completion of an online application, interview, written test, or job demonstration. if you are an individual with a disability and require assistance during the hiring process, this
+                can be requested by sending an email to talentacquisition@harrishealth.org.
+
+
+
+
+
+
+
+don't see a job for you?
+join our talent community to be considered for future roles.
+join now ›
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career sites by recruiting.com
+
+
+
+
+
+
+
+
+\r');
+      } else {
+        var script = document.createelement('script');
+        script.src = src;
+        script.async = false;
+        document.head.appendchild(script);
+      }
+    });
+  }([
+    
+    'https://maps.googleapis.com/maps/api/js?key=aizasyayc0juubxmlbqdvf4cb3jiektwfwobxbe',
+    
+    
+    'https://d2i2zd9axwkr7h.cloudfront.net/career-sites/9070b4736fea1716e880b839cdaac7cdd808329b/index_bundle.js'
+  ]));
+
+
+  
+

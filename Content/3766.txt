@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+schrödinger | leader in developing state-of-the-art chemical simulation software for use in pharmaceutical and biotechnology research.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+            schrödinger          
+ 
+
+
+
+home
+products & services
+
+small-molecule drug discovery suite
+biologics suite
+materials science suite
+discovery informatics suite
+pymol
+all software applications
+discovery services and collaborations
+it services
+request trial license
+request sales quote
+
+
+
+science
+
+biologics design
+catalysis and chemical reactivity
+dft-based pka prediction
+docking and scoring
+force field
+free energy methods (fep)
+machine learning & qspr for materials
+organic electronics
+shape-based screening
+water thermodynamics
+publications
+
+
+
+support
+
+contact support
+license information
+seminars
+training
+knowledge base
+documentation
+scripts
+python api
+known issues
+supported platforms
+
+
+
+downloads
+
+product suites downloads
+knime workflows
+free maestro
+
+
+
+about
+
+overview
+leadership
+careers
+news
+events
+newsletter
+partners
+schrodinger k.k.
+contact us
+
+
+
+
+
+search 
+
+
+>> search by topic
+
+search by topic:(select one or more) > back to keyword search
+topics 
+
+biologics 
+
+
+data analysis and visualization 
+
+
+lbdd 
+
+
+lead optimization 
+
+
+materials science 
+
+
+protein structure prediction 
+
+
+sbdd 
+
+
+target id and validation 
+
+
+virtual screening 
+
+
+
+>
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+machine learning infrastructure engineer
+
+
+location:
+new york
+
+
+job code:
+329
+
+
+# of openings:
+3
+
+
+
+description
+schrödinger, a technology leader specializing in software solutions for life science research and development, is seeking a data infrastructure engineer to help lead the development of deep learning based methods for drug discovery.  the ideal candidate is an experienced software developer who has worked with large datasets, unix environments, and distributed computing.  the candidate should have demonstrated excellent programing skills, and must have a strong interest in machine learning. 
+
+required qualifications include:
+-ability to prototype and scale pipelines for ingesting data and training models
+-expert in unix/linux
+-experience in parallel and distributed programming
+-excellent communication skills, both written and verbal
+-experience in software engineering and software architecture
+-expertise in functional and objected oriented python programming
+-ability to integrate complex software systems
+-ability to implement new approaches from papers
+
+pluses:
+-b.s., m.s. or ph.d. in computer science, software engineering, or related field
+-experience with data mining or etl technologies (eg. hadoop/spark/kafka)
+-experience with machine learning and statistical methods
+-general understanding of the physics underlying protein-ligand binding
+-experience in statistical biophysics, including protein-ligand binding and molecular dynamics simulation analysis
+-experience with tensorflow or deepchem
+-experience with cuda
+-peer-reviewed publications in computational chemistry or computer science
+
+schrödinger is an equal opportunity employer.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get our newsletter 
+
+
+ 
+
+
+
+schrodinger. leader in computational chemistry, providing software solutions and services for life sciences and materials research.  
+
+
+
+copyright © 2005-2016 schrödinger, llc 
+
+
+
+privacy policies
+terms of use
+fcoi policy
+log in
+eula
+ 
+
+
+
+twittergoogle pluslinked inyoutube 
+
+
+
+

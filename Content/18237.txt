@@ -1,0 +1,385 @@
+
+
+
+        front end web developer -        medthink communications -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for visiting our job board. please review our open positions and apply to the positions that match your qualifications. 
+
+
+
+front end web developer
+
+
+cary, nc                    
+
+full time                
+
+development                    
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position summary:
+fueled by the power of discovery, a front-end web developer is sought to join our growing team to build appealing, usable, and visible responsive websites for our clients in the pharmaceutical industry. front-end developers are consulted for estimates during project planning and responsible for building out functionality during development. ideal candidates, in addition to being proficient in the relevant languages and techniques, will be innovative problem solvers who can help bring new ideas to our niche through modern digital solutions. this position works closely with the digital strategy, creative, scientific, and project management teams to help our clients and their brands be great.
+ 
+our thinker values
+take ownership
+help colleagues do their best
+infuse optimism and fun
+nurture innovation
+keep an open mind
+exceed expectations
+respect others
+ 
+position responsibilities:
+demonstrates behavior expected of a professional member of the organization, including but not limited to:
+
+coding in html5, css3, and javascript, and the ability to learn and implement new programming languages as needed.
+collaborate with digital strategists, and creative/designers to develop user-friendly web sites and applications
+provide detailed documentation covering architecture and design of products for both internal and external customer use.
+maintain and enhance existing web applications
+communicate with a wide variety of technical and business experts in both individual and group settings
+investigate and recommend new technologies
+provide detailed documentation covering architecture and design of products for both internal and customer use
+
+skills:
+
+experience with javascript libraries and frameworks
+experience with creating responsive websites utilizing a grid system
+understanding of how the front-end and back-end communicate
+foundational knowledge of html5, css3 and javascript
+experience building responsive emails
+experience with version control
+
+pluses:
+
+experience with server side languages (node/c#/asp.net)
+experience with client side frameworks (angular/react)
+database experience
+experience with task runners and pre-processors (grunt, gulp, scss/pug)
+aws/azure platforms
+experience working with 3rd party api’s
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+are you willing to relocate?*
+no answeryesno 
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+linkedin profile url:*
+
+
+
+website, blog or portfolio:*
+
+
+
+desired salary*
+
+
+
+earliest start date?*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+what is/are your favorite text editor(s)?
+ 
+
+in the context of css styling can you explain what does display: inline-block stand for?*
+ 
+
+what is the difference between get and post when specifying an ajax request?*
+ 
+
+what will this function do?
+
+$(document).ready(function(){
+                $('.button').on('click', function(e){
+                                e.preventdefault();
+                                $('.modal').slidetoggle();
+                });
+});*
+ 
+
+if you get stuck in development, where would you go for help?*
+ 
+
+how do you insert comments to html?*
+ 
+
+in your own words, explain css heirarchy.
+ 
+
+please name two new tags included in html5.*
+ 
+
+have you ever built, responsive/designed emails?*
+ 
+
+are you familiar with popular front-end frameworks such as foundation or bootstrap? if so, which do you prefer, and why?*
+ 
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

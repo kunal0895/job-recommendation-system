@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+javascript developer
+
+
+
+
+location
+
+
+st. louis, mo (asynchrony labs)
+
+
+
+
+job code
+
+
+6173
+
+
+
+
+# of openings
+
+
+2
+
+
+
+
+apply now
+ 
+asynchrony labs, a subsidiary of world wide technology, inc. has opportunities for javascript developers.  candidates will be responsible for the analysis of business, engineering, and scientific problems, and the documentation and development of well-defined methods, procedures, and programs in the delivery of practical systems solutions. should have experience with hands-on javascript development on both the client and server-side platforms. this includes detailed software design, developing code with unit tests to implement the design, correcting flaws based on requirements testing, and integrating the applications.­­
+the following knowledge skills and attributes are required:
+
+a minimum of 2 years of professional experience using javascript.
+
+
+bs in computer science or equivalent experience.
+proven node.js development experience creating restful apis that can deliver json or xml content.
+proven development experience using one of the following: react.js, reactnative, angular 1/2 or ember.js.
+experience with the automated build process (continuous integration) and source code version control tools (git and/or svn).
+hands-on experience in at least one of the following javascript testing frameworks: protractor, jasmine, jest, mocha, chai, or sinon.
+detailed knowledge of javascript concepts such as callbacks, closures, and promises.
+experience using software development processes such as tdd, pair programming and other xp practices.
+experience with multiple operating systems including linux, mac os x, and windows. 
+ability to work in an agile environment.
+critical thinker with the ability to breakdown complex technical requirements. 
+familiar with data sources such as mongodb, redis, mysql or sql server.
+
+ 
+the following knowledge skills and attributes are preferred:
+
+experience with other development languages.
+experience with service oriented architecture technologies and/or implementations.
+experience with html and dom manipulation using javascript or single page applications.
+
+   the world is changing - fast. to keep pace, companies must find new ways to get to market faster, disrupt the status quo, optimize operational models, and create experiences their employees and consumers desire. companies know they must embrace digital, but too often they start the process at the end - with prescriptive technology. we start with the customer. 
+asynchrony labs identifies business needs - then designs, develops, and integrates custom software solutions for clients across the department of defense, health care, financial services, retail, and every industry in-between. our flexible methodologies and multi-disciplined delivery teams promote intuitive experiences, unparalleled quality, regular analysis of metrics, and iterative product testing.
+backed by world wide technology (wwt) - a $9b global technology integrator with expertise across supply chain, networking, collaboration, and security - we form a unique nucleus of end-to-end creative and technology capabilities needed to help transform our clients' businesses at scale. our teams are deeply connected and bring their shared insights across industries, disciplines, and markets to every engagement.
+based in st. louis, we work closely with industry leaders such as cisco, hp, emc, netapp, citrix, vmware and dell, focusing on three market segments: fortune 500 companies, service providers and the public sector. wwt employs more than 3,800 people and operates more than 2 million square feet of state-of-the-art warehousing, distribution and integration space strategically located throughout the world.  wwt is proud to announce that it has been named on the fortune “100 best places to work for®” list for the fifth consecutive year. 
+worksite locations:
+900 spruce street – suite 500, st. louis, mo 63102
+world wide technology, inc. offers excellent benefits and competitive compensation. visit our company web page at     www.wwt.com    for more information.
+equal opportunity employer minorities/women/veterans/disabled
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

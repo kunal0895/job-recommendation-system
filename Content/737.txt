@@ -1,0 +1,147 @@
+
+
+
+
+zscaler careers - big data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+                                                    zscaler careers                                            
+
+
+
+
+
+
+
+                big data engineer
+    
+    
+
+                            engineering            
+                                                san jose,
+                                        california
+                                                
+                                        atlanta,
+                                        georgia
+                            
+                        
+
+
+
+        apply
+    
+
+
+description
+
+zscaler is revolutionizing internet security with the industry’s first security as a service platform. as the most innovative firm in the $35 billion security market, zscaler is used by more than 5,000 leading organizations, including 50 of the fortune 500. zscaler ensures that more than 13 million users worldwide are protected against cyber attacks and data breaches while staying aligned with corporate policies.zscaler is growing quickly and recently raised over $100m from tpg and google capital to accelerate growth. this provides an incredible career path and growth opportunities for visionary people that strive for excellence. if you’re looking to work in a fun and rapidly-changing environment that rewards out-of-the-box thought and execution, then zscaler could be a great opportunity. up for the challenge?as big data engineer, you will work on building the next generation of zscaler's security analytics platform. you will play a crucial role in building a platform to collect and ingest several billion (and growing) log events from zscaler's globally distributed security infrastructure and provide actionable insights to customers and zscaler's security researchers.responsibilities:you will design and create multi-tenant systems capable of loading and transforming a large volume of structured and semi-structured fast moving databuild robust and scalable data infrastructure (both batch processing and real-time) to support needs from internal and external usersrequired:2+ years of experience in java developmentfamiliarity with implementing services following rest modelexcellent interpersonal, technical and communication skillsability to learn, evaluate and adopt new technologiesbachelor's degree in computer science or equivalent experiencehighly desirable:familiarity with hadoop and other data processing frameworks such as spark, kafka, storm and elastic searchexperience working with data processing infrastructureexperience with data serialization techniques and data stores for persisting events 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,220 @@
+
+
+donnelley financial solutions careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+show navigation
+hide navigation
+
+work@dfs 
+
+benefits
+
+
+why work for us?
+
+
+employment listings 
+
+search current openings
+
+
+update your profile
+
+
+create a job agent
+
+
+about usfaqs
+
+
+
+
+
+
+
+
+ 
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					associate software engineer
+				
+
+
+						tracking code
+					
+
+						611-304 
+					
+
+						job description
+					
+
+donnelley financial solutions (nyse: dfin) provides software and services that enable clients to communicate with confidence in a complex regulatory environment. with 3,500 employees in 61 locations across 18 countries, we provide thousands of clients globally with innovative tools for content creation, management and distribution, as well as data analytics and multi-lingual translations services. leveraging advanced technology, deep-domain expertise and 24/7 support, we deliver cost-effective solutions to meet the evolving needs of our clients. we believe that building a great software team requires diverse people with a common goal.  you will be part of that team.
+ 
+position summary
+ 
+as a member of our team, you will be focused on helping us create software that is reliable, maintainable, secure, and creates a framework for innovative solutions. you will tackle complex problems and identify whether they require innovations, decisions, or routine tasks.  whiteboards will be often used by you and the team.  through agile processes, you will work on a variety of projects including multiple azure services (service fabric, web jobs, message queues, etc.) as well as both relational (azure sql) and non-relational (cosmos) data sources.  we seek to make the action of writing code as efficient as possible in order to allow for a focus on clean architecture designs and continuous education.  we aim to build a team with highly motivated individuals who share in a craftsman type approach to software.
+ 
+
+
+						required skills
+					
+
+
+familiar with asp.net mvc (routing, model binding, razor views)
+understanding of rest api structure and asp.net webapi
+experience with dependency injection
+application security (encryption, secure messaging)
+data access orm (dapper and entity framework)
+solid principles
+comfortable with agile processes
+proficiency with javascript and html5
+experience with javascript frameworks (angular 2 or 4, react)
+professional, precise communication skills
+extensive knowledge of css and js methods for providing performant visual effects
+2+ years in web application development
+bachelor degree in discipline related to functional work or role or demonstrated ability to meet the job requirements through a comparable number of years of applicable work experience.
+
+ 
+ 
+
+
+						job location
+					
+
+						chicago, illinois, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+employee referral bonus eligible
+yes
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+site map  
+©2017  donnelley financial solutions. all rights reserved.
+
+
+
+
+
+
+
+
+
+

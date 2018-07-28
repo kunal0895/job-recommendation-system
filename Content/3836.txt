@@ -1,0 +1,301 @@
+
+
+
+        data scientist -        amplero -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you interested in being a part of the machine learning revolution?  do you want to join a startup company financially backed by the top firms in the venture capital and saas industries?  would you like to be part of a company that prides itself on being a meritocracy, where passion, innovation, leadership and customer empathy are at the heart of all that we do?  do you want to help make the impossible possible?  if yes, then start looking for your next career opportunity! 
+
+
+
+data scientist
+
+
+seattle, wa                    
+
+full time                
+
+data science                    
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you interested in being a part of an artificial intelligence marketing (aim) company that is transforming how b2c enterprises engage with their customers; improving customer experience, marketing throughput and for the first time directly optimizing key business kpis? do you want to join a startup company backed by the top firms in the venture capital and saas industries? would you like to be part of a company that prides itself on being a meritocracy, where passion, innovation, integrity, and our customers are at the heart of all that we do?
+then, consider joining us at amplero, an artificial intelligence marketing company that leverages machine learning and multi-armed bandit experimentation to dynamically test thousands of permutations to adaptively optimize every customer interaction and maximize customer lifetime value and loyalty.
+to do this, we collaborate closely with our customers to learn about their business challenges, to help develop strategic marketing approaches for solving them, and enable them to deploy these strategies using the amplero ai marketing platform at beyond human scale. we are growing our customer base and are looking for a customer insights data scientist to work closely with key enterprise clients and our own engagement teams to best leverage the scientific capabilities within the amplero product for marketing optimization and insights.
+as an amplero data scientist you would:
+
+interface with clients to understand business questions, and perform analytical “deep dives” to develop relevant and interpretive insights in support of our engagement models
+maximize the analytics benefit that can be derived from the amplero product to help clients successfully adopt amplero
+smartly leverage appropriate technologies to answer tough questions or understand root causes of statistical anomalies and unexpected outcomes
+feature generation and selection from a wide variety of raw data types including time series and graphs
+train client teams in the best practices for experimental design, measurement and reporting metrics on the amplero product
+develop and improve engagement best practices for broad consumption by amplero and qualified partner teams around the world
+develop new processes for producing standard analytical insights that can be applied across industries.
+work closely with the amplero product team to provide ongoing feedback to the features and priorities most aligned with our clients’ current and future needs to include helping align the product roadmap, and testing product hypothesis as well as helping to plan the product lifecycle
+collaborate on pipelines focused on the productization of data science
+
+we’d love to hear from you if:
+
+you’re an expert with data analysis and visualization tools such as python (including numpy, scipy, pandas, scikit-learn) ,tableau, r, and other packages that enable data science and machine learning
+you’re experienced with relational database technologies and sql
+you’re familiar with areas of marketing data science where beyond-human scale, advanced experimentation and machine learning capabilities are used for achieving marketing performance, for example, dmp’s in display advertising, multivariate testing, statistical significance evaluation
+you’ve got excellent written and verbal communication skills for customer interactions and team – specifically, you’re a genius at communicating the value of complex technical solutions to a non-technical audience.
+you have 5+ years related work experience and proven track record in high tech, consulting, or digital marketing agency, with demonstrable experience delivering sophisticated analytical capabilities to customers
+you have a proven track record of applying data science to solve difficult real-world business problems.
+you’ve got a bachelor’s or graduate degree in a technical discipline (engineering, applied mathematics, statistics, computer science, business, or other quantitative majors)
+
+amplero is an equal opportunity employer and we value diversity. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+*local candidates preferred.
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

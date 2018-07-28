@@ -1,0 +1,60 @@
+
+
+
+
+komodo health - jobs: data scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data scientist
+
+data scientist
+new york, united states · engineering
+
+descriptionkomodo health is transforming predictive analytics in enterprise healthcare with its proprietary data cloud and streaming data platform. our real-time healthcare intelligence engine provides business leaders with the tools to modernize and improve the way they serve the medical community. the result is a more transparent, efficient and productive healthcare ecosystem.  we value our culture of encouraging growth, collaboration, and constructive debate as well as delivering innovative solutions that “wow” our customers.we are looking for a data scientist to help push the boundaries in a space that is ripe for data driven decision making.  we’re tackling real problems in the real world - so creativity and problem-solving in addition to a background in advanced analytics is paramount.this is an opportunity to join a growing team of folks accomplished in analytics, machine learning, and data engineering; focused on using the best of what lies at the forefront of technology and data science to address complex, real-world problems in the healthcare and life science space.  this team forms the tip of the spear, driving towards the most effective ways to deliver more value.  help build the technology to ensure that komodo can deliver important insights about healthcare trends that ultimately impact how our customers support providers and patients.responsibilities analyze and understand the disparate sources of industry data apply data-mining and machine learning techniques to large structured and unstructured datasets iterate to push the boundaries on what problems can be solved through data analytics scaling from ad-hoc advanced analytics prototypes to large-scale learning solutions in live systems clearly communicate analysis methods and results to komodo and client team support pre-sales and post-sales analytics needs collaborate closely with the product team and other engineers to translate business objectives into new features and products requirementsqualifications bs, ms, or phd in computer science, engineering or related field 2+ years experience with python, scala, or java and distributed frameworks (hadoop, spark, etc.) experience with… rapid prototyping and advanced analytics (e.g. r, matlab, pandas, scipy) sql and relational databases   possess a strong blend of technology and analytical skill demonstrable successes in delivering analytical projects, including structuring and conducting analyses to generate business insights and recommendations solution/delivery-oriented team player willing to go above and beyond ability to work beyond familiar algorithms - to get out of one’s comfort zone and earnestly seek to integrate the best solutions to business challenges high motivation, work ethic, and self-discipline to organize and complete tasks sincere interest in working at a startup and scaling with the company as we grow nice to have experience with applied machine learning or algorithm development experience or interest in the life sciences industry track record of delivering analytical solutions to poorly scoped problems prior client-side analytical experience serving marketing, sales, medical affairs, or clinical development, or, vendor-side analytical experience working with life sciences clients experience working with proprietary secondary data including medical / pharmacy claims, prescription data, sales data, and longitudinal patient-level data benefits competitive salary and equity compensation full medical, dental, and vision benefits 401k plan with employer match your choice of equipment set-up (computer, monitor, and accessories) flexible hours and unlimited vacation days policy opportunities to attend industry conferences and events awesome team and culture great office location(s) in sf/soma and ny/west soho and more… 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+komodo health website
+
+powered by
+workable
+
+
+
+
+

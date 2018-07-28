@@ -1,0 +1,398 @@
+
+
+
+
+job application for junior full stack software engineer, back end focus at strongarm technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+junior full stack software engineer, back end focus
+
+        at strongarm technologies
+      
+(view all jobs)
+
+        new lab
+      
+
+
+company overview:
+strongarm is the world’s leading safety science company, capturing, analyzing and delivering actionable insights that drive worker safety and enterprise value.  utilizing complex smart sensors and machine learning strongarm can effectively develop, manufacture and deploy the next generation of industrial safety equipment.  ensuring the backbone of our economy - the industrial athlete - is proud, protected and productive.
+position overview:
+as a software engineer, you will design and bring to reality the technologies and products impacting millions of industrial workers across the world. we are looking for driven and adaptable engineers with back-end software development experience across different use cases and platforms.
+you must be able to thrive in a fast-past design culture and enjoy holding responsibilities solving challenging problems. you will wear multiple hats from building out a full-scale iot product platform including wearable sensor devices, smart gateways, backend infrastructure, database structures, algorithm development, and data analysis.
+essential functions:
+as a full stack engineer with a back-end focus you will be ultimately be responsible for:
+- building a highly scalable system for ingesting, transforming and enhancing data at large scale for trillions of data points data in the field into meaningful insights with responsive visualizations
+- develop a web services based platform that scales with the business needs
+- working with members of the full product development team and customers to develop systems that yield creative and efficient solutions
+- reporting directly to the chief information officer building new product capabilities.
+ 
+key requirements / qualifications:
+- bachelor's degree in computer science or related field
+- you should have at least 1+ years of professional development experience
+- understand devops and an appreciation for continuous integration/deployment
+- a passion for qa and an understanding that testing is not someone else’s responsibility
+- knowledge of javascript frameworks, specifically angular, and javascript testing frameworks
+- object-oriented programming and design skills
+- experience with git version control in a production environment
+- strength in event driven programming
+- understanding of structure and usage of restful web services
+- strong passion for technology and building great systems
+- experience with flask, fabric and popular python libraries.
+- understanding of sql and nosql database technologies
+- creation of apis for use by front-end components
+ 
+soft skills:
+- you are looking to work on a hyper-motivated team to take on a real challenge that creates real value and impact to industrial workers who suffer from the lack of tools to enhance their health and safety.
+- you are looking to be part of a team with a players, where you will grow both personally and professionally while working on challenging problems.
+- ability to think with an eye on high level architecture and the ability to execute on the steps towards those goals
+- strong ability to work and problem-solve independently, collaboratively, and creatively
+- strong organizational, communication, and presentation skills
+- adaptable and flexible to changing business needs
+ 
+preferred skills:
+we value these qualities, but they’re not required for this role :
+- experience with mqtt or other streaming data technologies (zmq, kafka)
+- experience with orchestration systems like saltstack and ansible.
+- docker, mesos and marathon
+- react, redux, immutable.js, rx.js, node.js or equivalent
+- nosql solutions: cassandra, hdfs and/or elasticsearch
+- distributed data processors such as spark, flink, kafka streams, hadoop
+- machine learning tools, including common machine learning services.
+- gitflow
+- experience as an open source contributor
+benefits
+- equity
+- health, dental and vision coverage
+- discount fitness memberships
+- commuter benefits
+- more benefits to come as the company grows
+ 
+strongarm technologies is an equal opportunity employer
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ add another
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        school name
+      
+
+
+
+
+
+        degree
+      
+
+high school
+associate's degree
+bachelor's degree
+master's degree
+master of business administration (m.b.a.)
+juris doctor (j.d.)
+doctor of medicine (m.d.)
+doctor of philosophy (ph.d.)
+engineer's degree
+other
+
+
+
+        discipline
+      
+
+accounting
+african studies
+agriculture
+anthropology
+applied health services
+architecture
+art
+asian studies
+biology
+business
+business administration
+chemistry
+classical languages
+communications & film
+computer science
+dentistry
+developing nations
+discipline unknown
+earth sciences
+economics
+education
+electronics
+engineering
+english studies
+environmental studies
+european studies
+fashion
+finance
+fine arts
+general studies
+health services
+history
+human resources management
+humanities
+industrial arts & carpentry
+information systems
+international relations
+journalism
+languages
+latin american studies
+law
+linguistics
+manufacturing & mechanics
+mathematics
+medicine
+middle eastern studies
+naval science
+north american studies
+nuclear technics
+operations research & strategy
+organizational theory
+philosophy
+physical education
+physical sciences
+physics
+political science
+psychology
+public policy
+public service
+religious studies
+russian & soviet studies
+scandinavian studies
+science
+slavic studies
+social science
+social sciences
+sociology
+speech
+statistics & decision theory
+urban studies
+veterinary medicine
+
+
+
+        start date
+      
+
+
+
+
+
+        end date
+      
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

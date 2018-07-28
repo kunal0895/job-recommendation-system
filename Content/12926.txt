@@ -1,0 +1,142 @@
+
+
+
+
+qeexo careers - machine learning intern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    qeexo careers                                            
+
+
+
+
+
+
+
+                machine learning intern
+    
+    
+
+                            engineering            
+                    pittsburgh,
+                            pennsylvania
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+job description: research intern, machine learning this internship is 12 weeks long, full-time, over the summer of 2018 and is located in pittsburgh, pa. our company, qeexo, brings together a unique combination of expertise in machine learning, human computer interaction, and hardware integration to create revolutionary lightweight machine learning solutions.we are looking for a machine learning intern who loves working with sensor data, loves developing novel algorithms, is not afraid of challenging, open-ended problems, and wants to help us shape the future of lightweight machine learning. you will be supervised by a highly capable team of machine learning engineers and will have the opportunity to make a meaningful impact on the growth of a burgeoning startup. as a machine learning research intern, your responsibilities will include:bring in fresh ideas into our machine learning products and platformdesigning experiments to advance our machine learning understanding and techniquesrunning experiments to improve the core algorithms of qeexo products on consumer devicesmodeling performance of qeexo products on new hardware, sensor, and interaction platformsdeveloping new algorithms to improve our engine calibration process, data analysis, and automation pipelinedeveloping algorithms for new qeexo solutions ideal candidatepursuing ms or phd in computer science/ee/ece and a proven track record of academic and/or industry experience in fields related to machine learning and signal processingdeep knowledge of statistical and machine learning approaches and problem domains acquired by courses, course projects, assignments, or research workstrong coding ability and familiarity with java/c++ and other oop approaches of coding.  strong coding ability in python environment. (you may not be doing production-level coding but you will need to build prototypes/tools for experiments and analysis.)proven success with multiple ml/ai/classification projects (research papers, kaggle, open source implementations, etc.)expertise in one or more specific areas of research: neural nets, deep learning, signal processing, digital imaging, ensemble learning and system identificationresearch-minded, ability to run experiments independently and present results to leadershipcomfortable working in a terminal environment, writing scripts (bash/python) to process data and implement algorithmsother requirements:u.s. work authorization required
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,950 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior software engineer ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+avala marketing group
+
+
+
+
+
+
+services
+
+
+industries
+
+
+work
+
+
+resources
+
+
+about us
+
+
+contact
+
+
+blog
+
+
+news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+about us
+
+
+ 
+
+
+
+
+
+
+
+
+home  // 
+about us  // 
+senior software engineer ii
+
+
+
+
+   
+	
+senior software engineer ii
+11.3.2017
+
+
+
+
+the role:
+
+as a software engineer, your role will be working on our critical production applications and infrastructure. you will be involved with technology solutions that are new and engaging for our software as a service platform named aimbase™. you will be in the thick of solving complex issues, architecting solutions, and developing applications.
+ 
+ 
+
+
+the responsibilities:
+research, design and implement cloud solutions using azure services
+creating robust high-volume scalable production applications
+writing server-side code for web-based applications
+working closely with other developers to design architectures and implement designed user interfaces
+building web and/or mobile interactive applications using various languages
+write unit / integration tests.
+enhance existing continuous integration and build process
+taking part in reviews of your own and other developer’s code
+working closely with the project manager to define requirements
+finding ways to solve difficult problems using initiative and creativity
+identifying ways to continually improve and refine processes
+contributing wherever necessary to help the team reach its goals
+participate in agile development using scrum and kanban
+research new technologies and determine how to use them to improve the product
+ 
+the qualifications:
+5+ years of relevant work experience
+excellent problem solver
+extensive programming experience in asp.net mvc and c#
+strong object-oriented skills and design pattern methodologies
+proficiency in relational databases and data schema design
+high level of expertise in client scripting technologies, web services, and use of ajax
+ 
+the benefits:
+salary is negotiable and based on experience
+sign on bonus
+401k with employer match and profit sharing plan
+full benefits package, and paid pto and holidays
+casual dress code, dog-friendly office
+developer account for microsoft services azure with monthly allowances
+pluralsight subscription
+ability to attend developer / process / technology conferences
+ 
+the technical:
+microsoft .net framework 3.5, 4.0, or 4.5 experience (c# preferred)
+microsoft entity framework and linq
+asp.net mvc
+jquery, angular and other client scripting packages
+microsoft sql server 2012 and newer
+t-sql, common table expressions, table variables, functions
+experience with powershell is a plus
+experience with teamcity is a plus
+experience with octopus deploy is a plus
+experience with azure or other cloud driven solutions a plus
+experience with mobile development a plus (native platforms, react, cordova or xamarin)
+wcf web services, or web api
+front-end development using responsive design patterns
+
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+careers
+
+
+
+let's talk!>
+
+
+
+
+submitting...
+
+
+
+
+ 
+
+
+let's talk
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+country*
+united states
+canada
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+ascension island
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bosnia-herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling) islands
+colombia
+comoros
+congo, democratic republic of the
+congo, republic of
+cook islands
+costa rica
+cote d'ivoire
+croatia
+cuba
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands
+faroe islands
+fiji
+finland
+foreign
+france
+french guiana
+french polynesia
+french southern territories
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+holy see (vatican city state)
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia, federal state of
+moldova, republic of
+monaco
+mongolia
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+north korea
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territories
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn island
+poland
+portugal
+puerto rico
+qatar
+reunion island
+romania
+russian federation
+rwanda
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+serbia & montenegro
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south korea
+spain
+sri lanka
+st. helena
+st. lucia
+st. pierre & miquelon
+st. vincent & the grenadines
+sudan
+suriname
+svalbard and jan mayen islands
+swaziland
+sweden
+switzerland
+syrian arab republic
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tristan da cunha
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+venezuela
+vietnam
+virgin islands (british)
+virgin islands (usa)
+wallis and futuna islands
+western sahara
+western samoa
+yemen
+yugoslavia
+zambia
+zimbabwe
+montenegro
+saint martin
+saint barth
+
+
+
+
+area of interest*
+general inquiry
+digital & strategic marketing
+web & application development
+aimbase marketing automation
+employment opportunities
+vendor inquiry
+other
+
+
+
+
+*by submitting your contact information, you may be contacted by avala marketing group
+
+
+
+
+
+*i agree to receive news and promotional emails about avala marketing products and services. 
+                                        you can unsubscribe at any time. please refer to our privacy policy for more details
+
+
+
+send it
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+lifecycle marketing tips
+
+news and insights for marketers of high consideration goods and services.
+
+sign-up
+
+
+
+
+                    x
+                
+
+
+submitting...
+
+
+
+
+
+ 
+
+
+sign up
+
+
+ 
+
+
+customer lifecycle marketing tips
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+country*
+united states
+canada
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+ascension island
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bosnia-herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling) islands
+colombia
+comoros
+congo, democratic republic of the
+congo, republic of
+cook islands
+costa rica
+cote d'ivoire
+croatia
+cuba
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands
+faroe islands
+fiji
+finland
+foreign
+france
+french guiana
+french polynesia
+french southern territories
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+holy see (vatican city state)
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia, federal state of
+moldova, republic of
+monaco
+mongolia
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+north korea
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territories
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn island
+poland
+portugal
+puerto rico
+qatar
+reunion island
+romania
+russian federation
+rwanda
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+serbia & montenegro
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south korea
+spain
+sri lanka
+st. helena
+st. lucia
+st. pierre & miquelon
+st. vincent & the grenadines
+sudan
+suriname
+svalbard and jan mayen islands
+swaziland
+sweden
+switzerland
+syrian arab republic
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tristan da cunha
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+venezuela
+vietnam
+virgin islands (british)
+virgin islands (usa)
+wallis and futuna islands
+western sahara
+western samoa
+yemen
+yugoslavia
+zambia
+zimbabwe
+montenegro
+saint martin
+saint barth
+
+
+
+
+*by submitting your contact information, you may be contacted by avala marketing group
+
+
+
+
+
+*i agree to receive news and promotional emails about avala marketing products and services. 
+                                        you can unsubscribe at any time. please refer to our privacy policy for more details
+
+
+
+sign-up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+services
+industries
+work
+resources
+blog
+about
+contact
+careers
+privacy
+terms
+
+
+avala marketing group helps brands selling high consideration goods and services through dealer networks, drive more revenue throughout the entire customer lifecycle.
+
+
+
+
+
+
+1078 headquarters park dr. | st. louis, missouri 63026 | 636.343.9988
+
+
+
+
+
+
+
+
+
+
+
+

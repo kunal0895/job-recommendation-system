@@ -1,0 +1,233 @@
+
+
+
+
+job application for senior backend engineer at truemotion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+senior backend engineer
+
+        at truemotion
+      
+(view all jobs)
+
+        boston 
+      
+
+
+truemotion's mobile applications are helping to make driving more affordable and safer for everyone.  as senior backend engineer, you'll design, develop and maintain python based iot applications hosted in an aws environment that processes and analyzes large amounts of data coming from over a million smartphones. the backend code is being co-developed with data science engineers who own the machine learning module that identifies and recognizes driving behavior. self sustaining scrum teams deliver code to production without external dependencies, which requires close collaboration with mobile developers, data scientists, and qa engineers. thus the ideal candidate will have experience building scalable, maintainable, secure backend code, also understanding fundamental concepts of unit testing, automation, and continuous delivery. 
+responsibilities
+
+design, develop, validate, maintain, release, and operate truemotion backend application
+organize and participate in code reviews
+proactively tackle and solve very hard problems with high success rate
+seeks to obtain necessary training required to complete assigned tasks
+demonstrate an ability to mentor other engineers in developing technical or domain expertise
+participate in scrum team planning, and technical meetings
+support and continuously improve release and deployment pipeline.
+
+desired skills & experience
+
+5+ years in backend engineering roles
+experience designing and documenting systems, including writing and reviewing code and automating away problems within your team's domain
+strong coding skills in at least one programming language, with the desire to pick up more. we work primarily in python, with smatterings of shell script, and go
+in depth understanding of aws services and experience using ec2, sqs, lambda, dynamo, rds (postgres), s3, kinesis, ecs, and iam
+in depth knowledge and experience working with linux (we use a mix of ubuntu and amazon linux), as well as docker, ngiиx, postgresql and consul
+experience deploying or managing large scale distributed linux environments
+willingness to partake in an on-call rotation alongside the engineers who build our production backends
+comfortable with large scale production systems and technologies, for example load balancing, monitoring, distributed systems, and/or configuration management
+database (rdbms & nosql) schema design
+
+preferred qualifications
+
+expert level linux admin skills
+experience managing cassandra clusters
+experience in developing systems architecture
+
+about us:
+at truemotion we’re motivated by three things: working with great people who make it fun to come to work every day, solving hard problems, and making driving safer and more affordable. if you’re a positive, organized self starter, then truemotion may be for you!  our patented technology precisely determines driver risk via data from a driver's smartphone. insurance companies draw insights from this data, which is then used to help people become safer drivers and save money on car insurance.
+truemotion is backed by general catalyst, bain capital ventures and lakestar.  we are an equal opportunity employer and value diversity. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+note: local candidates are highly preferred for this role. we are also unable to provide visa sponsorships at this time.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

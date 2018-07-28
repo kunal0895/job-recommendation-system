@@ -1,0 +1,206 @@
+
+
+
+careers center - principal software engineer - machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+principal software engineer - machine learning
+
+
+
+
+posted date
+
+2 months ago
+
+
+
+
+city
+
+
+salt lake city
+
+
+position id
+
+position-16222
+
+
+
+state/province
+
+
+utah
+
+
+
+country
+
+
+united states
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+tdw’s pipeline integrity services division makes inline inspection tools that perform a magnetic and mechanical inspection of pipeline integrity. our software engineering team develops graphical software to visualize this data for our expert analysts and customers. we have a stable long term outlook and we are looking for a computer vision / machine learning expert to join our team in salt lake city.we desire candidates with a scientific or engineering background to help us automate the identification measurement of different types of defects in large data sets collected by our automate inspection tools. this candidate will work with electrical, mechanical, and software engineers to understand our tools' signals and robotic functions.  regular interactions with our data analysts will be required in order to provide them with automated software solutions that will improve the efficacy of their workflow.  
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+prepare data using signal processing techniques to enhance signaluse image analysis and computer vision techniques for data analysisuse machine learning tools to automate human processescombine guis with algorithms to enable automated analysis of pipeline data (understanding the intricacies of our pipeline inspection data is part of the initial training)work with analysts, technicians, scientists and engineers to create innovative industrial production-level software solutionsmentor junior level scientists and engineers
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+bachelor's degree in a software development-related field with 5 or more years of experiencean advanced degree in computer science, mathematics, or related field with 5 or more years of experience preferred3 or more years of experience with image and/or signal processing, computer vision, neural networks, logistic regression, statistics, and/or machine learning algorithm development for the detection, classification and measurement of objects of interestexperience with c++, c#, and/or javaexperience with python, numpy/scipy, or other mathematical languages (r/matlab)scientific backgroundexcellent communication skills
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+join our talent network!
+
+
+
+
+we're always looking for great people to join our team. if you didn't see a position that catches your interest please join our talent network. this will allow you to self identify your expertise and areas of interest.
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

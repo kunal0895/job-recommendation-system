@@ -1,0 +1,139 @@
+
+
+
+
+dmv.org careers - front end developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    dmv.org careers                                            
+
+
+
+
+
+
+
+                front end developer
+    
+    
+
+                            web content development            
+                    encinitas,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+the role of a dmv.org front end developer (75% code, 25% design)we need your help designing, developing, and testing the web media that service our company’s partners. our ideal fit for this role is a team player who’s an excellent thinking partner, project contributor, and full cycle designer. we need someone who’s keen on the “cause and effects” of user activity to drive testing variations and design options. core duties & responsibilitiescollaborationas a member of the product and creative teams, you will design and develop products and user-centric designs.support a member of the site optimization and conversion team by designing and developing onsite optimization tests aimed at improving user experience (ux) and conversion.collaborate with partner management, business development, and product teams to review and prioritize tests within the testing queue.work with the product team to integrate ad unit specifications for new product launches.articulate, mock-up, defend, and prototype ux and revenue decisions.work directly with the technology and qa teams to ensure front-end interface works and looks as designed and specified.development & designbuild new media for current and new partners to improve traffic conversion.optimize existing partner media by collaborating with our partner management team.help identify and resolve media tracking issues and bugs.develop partner media from concept to design to html/css.develop optimizely tests within jquery for testing.implement html/javascript media into advertpro and update css in github.support the design and development of other owned and operated sites.support design and development needs within the organization.qualifications & backgroundmust have:deep understanding of web media (marketing copy, call to actions etc.).experience creating graphical assets and implementing them in code.expertise creating clean code from your designs using html/css and javascript.advanced, object-oriented javascript and jquery development.demonstrable logic and reasoning behind designs.understanding of website architecture and lamp technologies.multiple years experience writing custom html, css, and javascript.practical understanding of design geared toward ux and human interaction. ability to propose, inform, and collaborate on design changes.ideal:knowledge of software engineering processes, including agile processes like scrum.understanding of the concepts of progressive enhancement, mobile-first, and future friendly design. does the shoe fit?  let’s talk!
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

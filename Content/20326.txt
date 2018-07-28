@@ -1,0 +1,308 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+about 
+
+clients
+faq
+global reach
+news
+team
+
+
+
+services 
+
+science and health
+information management
+management consulting
+bioinformatics
+
+
+
+capabilities 
+
+science and health
+information management
+management consulting
+bioinformatics
+global reach
+
+
+contracts
+careers
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+web javascript developer
+
+
+
+
+location
+
+
+ga - atlanta
+
+
+
+
+refid
+
+
+1
+
+
+
+
+apply now
+job title: web javascript developer (part-time)
+position number:  1707-mts-web-js
+position location: atlanta, ga
+anticipated start date: september 4, 2017
+applications accepted until: august 11, may close earlier if filled
+travel:  none
+ihrc, inc. provides scientific, information management, management consulting, bioinformatics, and administrative program support to the centers for disease control and prevention (cdc) and other federal and private sector clients.  the successful candidate will be a part-time employee of ihrc, inc., and will be assigned to the ihrc facility in dunwoody (atlanta), ga to support a 3-month project that ihrc is performing, for up to 20 hours/week.
+scope of work
+the web javascript developer will design and develop relatively complex web applications involving new javascript technologies, methods, concepts, and approaches.
+major duties and responsibilities
+
+design and develop relatively complex web applications involving new javascript technologies, methods, concepts, or approaches.
+based on functional and conceptual design specifications, develop user interfaces (ui) using your expertise in user experience (ux) design, implementing secure web applications, and integrating with back-end rest web services using json for data exchange.
+independently review and analyze system output for validity and accuracy.
+use web development methods such as responsive web design, single-page design, serverless computing, css, javascript, html5, jquery, and json.
+integrate web page components with back end rest web services (apis) for all web application functionality using json data exchange.
+create accessible web ui that are federal section 508 compliant and conform to established security, and other web standards.
+debug and test web applications.
+produce high-quality documentation for code, design specifications, and test plans.
+
+ 
+minimum qualifications
+education and experience:
+
+bachelor’s degree plus 3 years of relevant web development experience, or
+associate’s degree plus 5 years of relevant web development experience
+
+ 
+required:
+
+3-5 years of java web development experience
+2 years of angular.js development experience
+experience in latest web development methods such as responsive web design, single-page design, serverless computing, css, javascript, html5, jquery, json, etc.
+experience integrating web page components with backend rest web services (apis) for all web application functionality using json data exchange
+ability to properly document code and follow existing coding standards
+background creating accessible web sites that are federal section 508 compliant and conform to established security, and other web standards
+experience debugging and testing web applications
+experience working closely with a devops / agile development team
+required to work onsite at ihrc office in atlanta georgia
+
+desirable:
+
+portfolio demonstrating advanced design skills, creativity, data visualization and a mix of low fidelity and high fidelity ux design deliverables
+experience applying brand visual design and content guidelines consistently across several products
+experience migrating a angular.js 1.0 web application into angular.js 2.0
+experience with haml, sass, and coffeescript web development tools
+experience creating web site graphic art
+experience planning and facilitating user research and usability tests
+experience with automated web application test tools
+experience working closely with an agile development team
+
+language skills:
+
+the candidate must possess excellent oral and written communication skills in english   
+
+requirement:
+
+must be united states citizen or permanent resident or have authorization for employment in the united states
+
+salary:  commensurate with qualifications and experience
+to apply for this position:
+
+if you are viewing this position on the ihrc career center, please click on the "apply now" button.  
+if you are viewing this position on a site other than the ihrc career center, you may use the “click to apply” link, or you may apply by visiting our career center and searching for the position number listed at the top of this position description.  
+to view all of our open positions, and to apply to those positions in which you may be interested, please visit our career center, which can also be reached by visiting www.ihrc.com/careers and clicking on the “view opportunities” link.
+
+ 
+ihrc, inc. is an equal opportunity and affirmative action employer.  it is the policy of ihrc, inc. to provide equal employment opportunities without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, and veteran or disability status and to take affirmative action in accordance with applicable laws and executive orders.
+ 
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+ about ihrc
+
+ihrc, inc. is an international consulting and professional services corporation, located in atlanta, georgia, usa. ihrc is a minority woman-owned small business and participates in the 8(a) business development program of the u.s. small business administration.
+
+8(a) certified 
+duns#: 793513867
+ihrc, inc is an equal opportunity employer
+
+
+
++ read more
+
+
+
+ get in touch
+
+address : 2 ravinia drive, suite 1200
+atlanta, ga, 30346
+
+phone : 678-615-3220
+fax : 770-559-6352
+email : resume@ihrc.com
+ 
+
+
+
+
+
+
+
+ recent news
+
+ 
+
+
+ news from ihrc, inc.
+our news page contains updates about us.+ read more
+
+
+ copyright 2016 ihrc, incorporated. all rights reserved.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

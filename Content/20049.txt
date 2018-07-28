@@ -1,0 +1,60 @@
+
+
+
+
+boomr - jobs: software engineering, full-stack/ruby on rails - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+software engineering, full-stack/ruby on rails
+
+software engineering, full-stack/ruby on rails
+sacramento, california, united states · software engineering
+
+descriptionas a full-stack developer at boomr you’ll work closely with our cto to develop and maintain a world-class saas application for a growing customer base that includes thousands of daily active users.  you’ll also work alongside a great team of developers in a positive culture of innovation, creativity and continuous improvement.  on a day-to-day basis we tackle new features as well as improving our app’s scalability and performance, developing integrations with other saas platforms (like gusto, quickbooks online, adp and more), and exploring creative ways to streamline user experience for our customers and their employees. the boomr development team is one where developers thrive and really enjoy themselves! our team has a strong focus on process-based agile development.  key components of our workflow and process include tdd, code coverage, linting, continuous integration, continuous deployment, peer code reviews and sometimes pair programming.  we live and work every day by our core values, and foster a culture where we help each other and contribute to each other’s success.  we have high expectations of ourselves and never stop seeking to improve. within the boomr development team each developer not only has the tools to excel but also the freedom to create.  we are an open minded team that strives to stay on the cutting edge.  we know that to achieve this we need the input, creativity and unique thinking process of each member. key responsibilities: develop new features including:realtime and offline database integrationnew api integrations with channel partners as well as vendorsdevelop customer-facing apis to allow potential integration partners to connect with usimprove patterns and processes within our existing productincrease code coverage percentage in our web product from 45% (current) to 85% (target)leverage data from performance monitoring tools to fine-tune performancework with the rest of the dev team to upgrade the product from rails 4.x to rails 5process occasional error reports reported by our automated error handling system and respond by fixing bugs and building tests to lock in fixesparticipate in daily team stand-up meetingsrequirementsenglish-speaking proficiency and good communication skills previous experience in api connectivity understanding of full-stack application architecture ruby on rails (4+ years experience) test-driven development using rspec continuous integration and continuous deploymentrestful web services (both json and xml) real time communication via websockets strong understanding and applied knowledge of both sql and nosql database systemsresponsive web layout concepts (especially bootstrap framework) scalable application architectures team-based git workflowsbenefitsyour time at boomr will be some of the most important work you ever do. it has the potential to change the course of your career in an exciting and unreplicable way. join our rocketship! we can’t wait to meet you.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+boomr website
+
+powered by
+workable
+
+
+
+
+

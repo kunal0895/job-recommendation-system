@@ -1,0 +1,320 @@
+﻿
+
+
+
+
+full stack developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+full stack developer
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-00162
+
+location: 
+philadelphia, pennsylvania
+
+position type:contract
+start date: 08/15/2017
+
+
+
+
+role
+as a full stack engineer, you will be responsible for writing web application and react native code.  you will participate in technical design decisions including work break-down sessions.  you will work independently and in groups as you implement parts of a complete system. 
+you will conduct peer code reviews on pull requests submitted and participate in design reviews.  you will follow the documented software engineering practices, which include git branching, code style guidelines, and unit testing with code coverage requirements.
+ 
+this role reports into the senior manager of application development.
+responsibilities
+
+participate in agile story technical break-down sessions
+discuss the story and technical implications
+consider existing frameworks, techniques, and reusable code
+work as part of a team in technical discussions toward solution resolution
+work on user stories providing technical solutions captured in code and documentation
+burn down story tasks, log hours, and keep within the estimated time frame for delivery
+maintain documentation both inside the code and in the confluence wiki
+explain implementation approach and rationale
+be on-site in the abs philadelphia office for daily stand-ups and team discussions
+
+requirements
+
+at least 3 year's experience writing professional-quality javascript code
+experience with es6, linting, transpiling
+understand json and jwt
+experience with html and css
+qualifiable experience with the http protocol
+understand response codes and their correct usage
+knowledge of advanced protocols, such as spdy and html/2
+experience with other languages, such as
+php, ruby, python
+qualifiable experience with reactjs, redux, and sequelize
+experience with relational databases, such as mysql and postgresql
+an understanding of sql principals and terminology
+able to read and write sql query expressions
+qualifiable experience with restful services
+understand the concepts behind rest and the differences in response codes
+good written and oral communication skills,  technical documentation
+
+
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

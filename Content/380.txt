@@ -1,0 +1,143 @@
+
+
+
+
+healthverity careers - full stack software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    healthverity careers                                            
+
+
+
+
+
+
+
+                full stack software engineer
+    
+    
+
+                            engineering            
+                    philadelphia,
+                            pennsylvania
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+healthverity, headquartered in philadelphia, is a venture-backed software company leveraging state-of-the-art technologies to empower healthcare organizations to discover, license and link traditional and emerging data for advanced analytics. by applying novel modern solutions to longstanding problems, we see a significant opportunity to improve the way our clients engage with patients. this is a unique opportunity to join an experienced and entrepreneurial management team to address a large unmet need and build the industry’s most flexible and scalable cloud platform for large-scale healthcare data.our company challengesempowering clients with highly rewarding data discovery and licensing toolsingesting and managing billions of healthcare records from a wide variety of partnersstandardizing on common data models across data typesorchestrating an industry-leading hipaa privacy layerinnovating our proprietary de-identification and data science algorithmsbuilding a culture that supports rapid iteration and new possibilitiesthe infrastructure and culture we are building will provide an environment that cultivates innovation. we want to move fast knowing we can fix anything we break along the way. if a new need arises, we want to turn around a solution quickly. we want to solve our challenges in ways that create even more possibilities. we’re creating a platform that lets us discover what else we might do.how you will helpworking with our product and data science teams, you will own and be responsible for developing key components of our overall system that enables our customers to bring new insights to their own businesses. you’ll use the best tools for the job, whether modern and revolutionary or time tested and proven, to deliver elegant, scalable solutions that meet business and technical needs. your team will support you and you the same. peer review of solutions and implementations is expected. you will play an integral part in building the foundation of everything to come. what you will doimplement client side solutions using javascript frameworks that engage customers and facilitate a remarkable experiencetranslate ui/ux design to technical implementation while working with design and development teams to bring innovative platform features to lifebuild the application infrastructure to support our end users’ interactions with our productswork with a team of developers to execute strategies, implement solutions and produce peer reviewed quality softwaresolve complex data work flow problems related to the interactions of numerous data providers with a varied set of requirements and needsdevelop software to facilitate rapid etl of large and varied data setssolve problems related to the real-time discovery of large data about youyou are...knowledgeable across the full stack, and while you may not specialize in all aspects, you have command of how it all fits togetherable to visualize data and know how to produce reporting of real value to customerscomfortable on the command line and consider it an essential toolconfident in sql, you know it, write smart queries, it’s no big dealexperienced in writing scalable applications on distributed architecturesdata driven, testing and measuring as much as you canexperienced with distributed version control like git and are eager to both review peer code and have your code reviewed desired skills and experience3+ years of experience in programming in a client-server environment, data analysis and experience with object-oriented development environments is preferredexpert knowledge of security requirements, web services, service-oriented architecture, design patterns, multi-threaded systems, and automated unit testing python, scala, javascript or similar languagesember, angular, or other js frameworksexperience with data munging and analyticsworking knowledge of healthcare it standards such as hl7 hqmf, hl7 cda-based standards, and fhir we have big planswe are building a platform that will scale to support an ever-growing array of data providers and innovative products. you must be able to think big while still delivering on near-term requirements.healthverity is an equal opportunity employer.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

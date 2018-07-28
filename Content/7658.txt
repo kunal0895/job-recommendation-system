@@ -1,0 +1,398 @@
+
+
+
+
+job application for data analyst at brandless
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data analyst
+
+        at brandless
+      
+
+        san francisco
+      
+
+
+ 
+brandless overview:
+brandless is reinventing modern consumption by making better stuff at fairer prices available to everyone. we're starting with our everyday essentials collection: better-for-you versions of the things you use all the time, from snacks to soap to spoons. all for just $3. we created and curated products that match your values and requirements, from organic to gluten-free to paraben-free. plus, with every order placed on brandless.com, a meal is donated to people facing hunger through feeding america.team overview: 
+the data team plays a crucial role in the growth of brandless as we partner with engineering, product, marketing, operations and other teams to lead data-driven decisions. we are excited to reinvent modern consumption and we are the data experts behind our mission.
+ 
+brandless has data from a variety of sources (think web, support, merchandising, logistics) and our goal is to ensure it gets utilized by inspiring and driving strategic decisions. one day we will be parsing raw data for our logistics team and the next day we may be developing a new metric for customer retention.
+ 
+the team is growing quickly and each member will greatly shape the future of our impact on brandless. you will have the opportunity to both learn from existing members and mentor your future colleagues.
+this position is located in our hq in san francisco.essential responsibilities:
+
+perform deep-dive analysis into business problems and provide actionable insights for multiple teams.
+develop metrics across brandless to track performance and improvement over time.
+build ad hoc and automated reports and dashboards to drive consistent data-driven insights.
+design and build the brandless data model to make common analytics tasks more efficient.
+evangelize data-driven decision making across the organization.
+identify and act on optimization opportunities using data, such as hypothesis testing or forecasting.
+independently and creatively mine brandless data to develop product improvements and strategy recommendations.
+
+
+minimum qualifications:
+ 
+
+bs in statistics, mathematics, economics, computer science or similar technical field of study.
+at least 1-2 years of experience in a data analyst role with multiple completed projects to speak towards.
+strong experience with sql and database design.
+working knowledge of a scripting language such as r or python.
+experience building dashboards and reports to drive business insights for a variety of consumers. 
+strong business intuition and ability to make actionable suggestions based on analysis.
+working proficiency and communication skills in verbal and written english.
+
+ 
+preferred qualifications:
+ 
+
+ms in a technical field of study.
+proficiency in a scripting language such as r or python.
+experience with statistical hypothesis testing.
+experience with time series forecasting.
+experience with ecommerce analytics.
+
+brandless provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. in addition to federal law requirements, brandless follows applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities. this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile *
+
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at brandless are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

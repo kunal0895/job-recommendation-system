@@ -1,0 +1,444 @@
+
+
+
+software engineer university grad - 2018 - dropbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer university grad - 2018
+
+    san francisco, ca; seattle, wa; new york, ny
+
+
+
+company description
+dropbox supports hundreds of millions of creators and innovators around the world. our mission is to simplify the way people work together. dropbox business is trusted by over 200,000 companies to safeguard their most important information. as we continue to build the best place to create, share, and work with others, there’s a perfect spot for you to grow with us.
+team description
+new graduates and interns at dropbox work alongside industry leaders, architecting the growing family of products that handle over a billion files a day for people and businesses around the world. from day one, you’ll have the responsibility and the support you need to make a difference on a massive scale.
+role description
+we have new grad openings in san francisco, seattle and new york! apply to this role if you're interested in any of these offices, and we'll work together to identify the best team for you.
+the new grad engineering position at dropbox is a role that blends learning with impact. you will take ownership of impactful projects from day one - yes you’ll commit code on your first day, and the learning never ceases. whether you’re learning during our on-boarding program, working with your assigned mentor, lead and other experienced engineers on your team or attending company-wide developmental events & programs, you’re sure to gain knowledge and experience that will set you up for success.
+have you always been the type of person who wonders how things work? do you continue to look for a better, more efficient way to build things? creating elegant products begins with lots of prototyping and iteration to explore the problem space. we care deeply about collaboration, feedback, and supporting you during the iterative development process. it culminates in careful attention to edge cases and error handling, polished code, and great tests to ensure that we ship a reliable product that never compromises data integrity or security. every dropbox software release reaches hundreds of millions of people, and the user-to-engineer and petabyte-to-engineer ratio are very high here.
+as a new grad, there are many different types of roles and teams that you can have an impact on. here are some of the things you might do:
+product engineering - build delightful full-stack user experiences that solve real customer needs and drive tons of $$ for dropbox - across backend, api, desktop, mobile and web.infrastructure engineering - craft the building blocks that let us scale dropbox to handle millions of concurrent connections, hundreds of billions of files and hundreds of petabytes of data.analytics engineering - measure, optimize and build one of the industry’s most advanced analytics platforms to derive meanings from vast amounts of data. our analytics platform processes more data than many other analytics companies combined.mobile engineering - you are an objective-c, swift, java and c++ wizard - this team knows the ins and outs of ios and android sdk and can weave and bend the api’s to their will to craft the dropbox client experience on mobile devices. they also build the backend systems that power the mobile experiences and optimize the protocol between client and server for reliability, efficiency and speed.web engineering - you’re responsible for our website - dropbox.com and paper.dropbox.com. our web developers do everything product engineers do, but they’re deeply focused and interested in building a fast, scalable, and responsive dropbox experience for the modern web, using cutting-edge tools like typescript, react, and redux.security engineering - people trust dropbox to keep their data secure, and at dropbox we rely on our security engineers to make our products safe. you’re a software engineer with a deep interest in building software that is secure yet easy to use. by the way, interest in the shadowy computer underworld is a definite plus. security engineers consult with product teams to secure our software, production infrastructure, website, desktop and mobile apps and our corporate infrastructure and devices.
+requirements
+computer science (or similar) students graduating in 2018 from undergraduate, master’s or ph.d. programs.if you have experience writing or shipping software as part of internships, personal projects, coding competitions or research and the work we do at dropbox resonates with you, we’d love to learn more about you.
+benefits and perks
+your comfort and well-being matter. below are some programs and offerings that you can opt into:
+100% company paid individual medical, dental, & vision insurance coverage401k + company matchgenerous compensation packagemonthly wellness allowanceamazing vacation policy10 company paid holidayspaid time off to volunteerfree dropbox storage space for your friends and familycompany sponsored tech talks (technology and other relevant professional topics) 
+below please include a personal email address rather than a school email address so that dropbox may communicate effectively with you.
+
+
+    dropbox is an equal opportunity employer. we are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. a big part of that effort is our support for members and allies of internal groups like asians at dropbox, blackdropboxers, latinx, pridebox (lgbtq), vets at dropbox, women at dropbox, atx diversity (based in austin, texas) and the dropbox empowerment network (based in dublin, ireland).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+other open positions
+there are no open positions right now. check back soon—we're growing fast!
+
+
+
+
+
+
+director, engineering services
+san francisco, ca
+
+
+
+
+epd ops program manager 
+san francisco, ca
+
+
+
+
+engineering manager
+san francisco, ca
+
+
+
+
+engineering manager - product engineering
+new york, ny
+
+
+
+
+product designer university grad - 2018
+san francisco, ca
+
+
+
+
+senior software engineer
+san francisco, ca; new york, ny; seattle, wa
+
+
+
+
+software engineer
+san francisco, ca
+
+
+
+
+software engineer - full stack
+herzliya, israel
+
+
+
+
+software engineer - seattle
+seattle, wa
+
+
+
+
+software engineer - ui
+san francisco, ca
+
+
+
+
+software engineer intern - summer 2018 
+san francisco, ca; seattle, wa; new york, ny
+
+
+
+
+software engineer, android
+new york, ny
+
+
+
+
+sr. quality assurance engineer
+san francisco, ca
+
+
+
+
+technical program manager- paper
+san francisco, ca
+
+
+
+
+technical program manager- product engineering
+san francisco, ca
+
+
+
+
+web developer
+san francisco, ca
+
+
+
+
+
+
+
+
+
+
+
+dropbox
+
+
+plus
+
+business
+
+enterprise
+
+paper
+
+plans
+
+
+
+
+using dropbox
+
+
+help center
+
+security
+
+productivity
+
+apps and integrations
+
+
+
+
+company
+
+
+about us
+
+contact
+
+blog
+
+
+
+
+downloads
+
+
+desktop app
+
+mobile apps
+
+
+
+
+legal
+
+
+privacy
+
+terms
+
+
+
+
+
+
+
+
+
+
+choose a language
+
+
+
+bahasa indonesia
+
+
+bahasa malaysia
+
+
+dansk
+
+
+deutsch
+
+
+english (united kingdom)
+
+
+english (united states)
+
+
+español (españa)
+
+
+español (latinoamérica)
+
+
+français
+
+
+italiano
+
+
+nederlands
+
+
+norsk (bokmål)
+
+
+polski
+
+
+português (brasil)
+
+
+pусский
+
+
+svenska
+
+
+українська
+
+
+ไทย
+
+
+中文（简体）
+
+
+中文（繁體）
+
+
+日本語
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    english (united states)
+                    
+
+
+
+
+
+
+
+
+
+

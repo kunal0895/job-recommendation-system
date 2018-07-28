@@ -1,0 +1,491 @@
+
+
+
+
+
+mcafee labs devops engineer jobs in hillsboro, or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+life at mcafee  
+
+join us
+
+
+
+
+
+
+
+
+
+
+
+
+work with mcafee.
+amazing works here and we want more of it.
+join our talent network
+
+
+
+
+
+
+
+ home
+› mcafee labs devops engineer  hillsboro, or
+
+
+
+
+
+
+
+mcafee labs devops engineer
+
+ share this job: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+
+location:
+hillsboro, or us
+other location(s):
+
+
+job id:jr0008944
+job category:information technology
+
+
+job descriptionthe role:devops engineerwork location:hillsboro, orbusiness introduction:with the mission of capturing the biggest market share in the area of cyber security, network security, endpoint security, threat research, malware research, cloud security, we work together for a common goal of shaping the company’s future by designing and building the best in class robust and scalable security products for consumer and enterprise customers. as industry’s top performers, we aim to develop optimized high performance system software solutions with high availability and reliability.this is where you come in. we are looking for a new team member who defined by his/her unique and innovative skills, style or point of view. you can be an architect, scientist, threat researcher, or a coder as long as you design things that matters.we are currently seeking a devops engineer to join our growing devops team within mcafee's labs division. our team supports the design, maintenance, upkeep, and improvement of our critical business systems. we support mission critical systems that are central to mcafee's success and have a direct impact on the abilities of our products to keep our customers secure.design, implement, document and constantly improve tools and automation to deploy and promote code, configuration, and security across the different tiers of the operational environmentaid in design and deployment of service monitoring, reporting, and alerting to industry standard.evaluate process effectiveness by tracking and monitoring metrics. participate in identifying and evaluating tools and solutions needed to address areas for improvement in operational deployment pipeline and automation realm.collaborate with stakeholders to identify constraints and solve problems rigorously. collaborate with qa to ensure high quality of released software. collaborate with corporate it to ensure applications and services are on the appropriate platforms.evangelize, promote and aid the transition to devops as a best practice to existing engineering & operations teams. be a part of an on-call rotationas a devops engineer a typical day might include the following:you will work with developers, qa teams, devops teams, and program managers to design and implement repeatable processes and practices. you will be responsible for day to day upkeep and maintenance of our core business systems, deploying/developing an orchestration pipeline, further developing our automation, and troubleshooting systems/services as needed.qualificationsto excel in this position:•	you must be passionate about quality, security, and be prepared to advocate on behalf of good process and industry best practices.•	you are an adept problem solver and thrive in a fast-paced entrepreneurial environment offering rich learning opportunities.your skill set will include:•	linux (redhat/centos) at an experienced level•	a proven history designing and delivering data driven environments•	working within vmware tools•	basic coding/scripting skills•	familiarity with configuration management software•	great troubleshooting skills•	great communications skillsother skills that will help you along:•	microsoft system administration skills•	basic networking skills•	mongodb, hadoop, and mysql•	splunk•	puppet•	jenkins•	active directoryour mission:to relentlessly protect all that matters through leading edge cyber security, from your workplace to your home and everywhere in between.our vision:to enable a world where cyber security is so consistent, reliable and  effective that it becomes a trusted foundation in our lives – like clean air and water. our technology enables the world to fully realize the  transformative power of the digital age, by protecting all that matters. by doing our job well, we drive limitless innovation, securely.our values:we live our values day in and day out, do you think you can live our values with us? if you can, don’t think, just connect with us. together is power.•	we achieve excellence with speed and agility•	we play to win or don’t play•	we innovate without fear•	we practice inclusivecandor and transparency•	we put the customer at the corejoin our talent community:  http://careers.mcafee.com/mcafee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+corporate headquarters
+2821 mission college blvd.
+santa clara, ca 95054 usa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+
+about mcafee
+newsroom
+website feedback
+contact us
+
+
+
+
+
+
+
+
+privacy
+legal notices
+legal contracts and terms
+
+copyright © 2017. mcafee llc.
+
+
+
+
+
+
+
+powered by smashfly
+
+
+
+
+back to top
+share this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share this page.
+
+
+
+
+
+
+
+http://careers.mcafee.com
+
+share us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sitemap
+region
+
+
+
+
+
+
+
+
+
+
+
+
+
+solutions
+
+
+
+                                                                            by offering
+                                                                            
+data  center & cloud defense
+dynamic endpoint threat defense
+pervasive data protection
+intelligent security operations
+
+
+
+                                                                            by technology
+                                                                            
+embedded security
+data exchange layer
+
+
+
+
+our customers
+
+
+
+
+services
+
+
+security consulting
+product consulting
+education services
+
+
+
+
+
+
+products
+
+
+advanced threat analysis
+data protection & encryption
+database security
+endpoint protection
+network security
+security management
+server security
+siem
+web security
+
+
+products a-z
+shop online
+renew products
+
+
+
+
+
+
+support
+
+
+security updates
+product downloads
+free trials
+free tools
+
+
+
+
+partners
+
+
+resellers
+managed service providers
+security innovation alliance
+global strategic alliances
+oem & embedded alliances
+partner portal  login
+find a reseller or distributor
+
+
+
+
+
+
+threat center
+
+
+mcafee labs
+advanced threat research
+threat technologies
+security awareness
+security updates
+mcafee labs data submission
+
+
+
+
+community
+
+
+blogs
+events
+webinars
+
+
+
+
+about us
+
+
+newsroom
+
+
+
+
+
+
+
+
+
+
+north america
+
+
+canada / english / french
+united states / english
+
+
+
+
+latin america
+
+
+amã©rica latina / spanish
+brasil / portuguese
+mã©xico / spanish
+
+
+
+
+
+
+asia pacific
+
+
+australia / english
+ä¸­å›½ / chinese
+hong kong / english
+india / english
+æ—¥æœ¬ / japanese
+í•œêµ­ / korean
+singapore / english
+å°ç£ / chinese
+
+
+
+
+
+
+europe, middle east, africa
+
+
+äœeskã¡ republika / czech
+danmark / danish
+suomi / finnish
+france / french
+deutschland / german
+italia / italian
+òšð°ð·ð°ò›ññ‚ð°ð½ / russian
+ø§ù„ø´ø±ù‚ ø§ù„ø£ùˆø³ø· / arabic
+nederland / dutch
+norge / norwegian
+
+
+polska / polish
+portugal / portuguese
+ð ð¾ññð¸ñ / russian
+espaã±a / spanish
+sverige / swedish
+tã¼rkiye / turkish
+ð£ðºñ€ð°ñ—ð½ð° / russian
+south africa / english
+united kingdom / english
+
+
+
+
+
+
+
+
+
+
+ready to get started?
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

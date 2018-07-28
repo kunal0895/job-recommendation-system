@@ -1,0 +1,155 @@
+
+
+
+
+frontier airlines, inc  - careers
+
+
+
+
+
+
+
+
+browse open jobs
+search open jobs
+edit your profile
+
+
+
+
+job details
+
+
+
+apply online
+
+
+send this job to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition number
+17-0288
+
+
+post date
+11/6/2017
+
+
+title
+it applications support analyst i
+
+
+city
+denver
+
+
+state
+co
+
+
+description
+
+frontier airlines is committed to offering ‘low fares done right’ to more than 60 destinations in the united states, dominican republic and mexico on about 300 daily flights. headquartered in denver, frontier’s hard-working aviation professionals pride themselves
+ in delivering the company’s signature rocky mountain hospitality to customers. frontier airlines is the proud recipient of the federal aviation administration’s 2016 diamond award for maintenance excellence and was recently named the industry’s most fuel-efficient
+ airline by the international council on clean transportation (icct) as a result of superior technology and operational efficiencies.
+responsible for support and implementation of projects related to enterprise applications. this position leads, implements or assists on department projects. this position will also implement enhancements, bug fixes or new projects, as well as support production
+ issues to the satisfaction of customers. in addition, this position will analyze existing applications and recommend improvements to streamline and optimize systems and processes.
+essential functions: 
+
+provide production support including a 7x24 on call rotation for existing applications and ensure timely communication to interested parties.
+lead or assist in all necessary project phases for system implementations, enhancements to existing applications, and system upgrades—including functional requirements gathering, fit/gap analysis, functional design specifications, development/configuration
+ activities, and execution of appropriate unit test scenarios and assist with issue resolution during user acceptance testing.
+implement new vendor, or custom software releases and/or patches and documentation for configuration management, infrastructure, and support services.
+collaborate with other technical staff to research, evaluate, develop, test, and implement new and/or currently unused functional and technical solutions to enhance the value of business systems.  evaluate current and future leveragability of new functionality
+ in anticipation of changing/evolving business needs and direction. perform full life cycle software development activities.  these duties include requirements definition, analysis, software design, software development, testing, implementation and documentation.
+assist quality assurance with documentation of test scripts for unit testing and system testing.
+provide functional expertise and direction specific to application functionality and business processes.
+provide technical leadership and cross-train staff/business as needed on existing and new technologies.
+provide regular status updates to management regarding ongoing projects, maintenance and systems support.
+assist with it-related compliance requirements including control assessments and system documentation requirements.
+facilitate and/or participate in functional and technical solution reviews with management, developers, architects, and business representatives.
+coordinate the corresponding system software changes with configuration management.
+analyze and document business processes, business requirements, use cases, technical designs, test cases and other project lifecycle deliverables as required.
+collaborate and communicate across a wide variety of audiences within the technical organization and business end-user community.
+other duties, dependent on department needs 
+
+
+
+requirements
+
+
+bachelor’s degree in technical discipline or equivalent experience required 5+ years of application support and development experience required 2+ years of experience in programing languages such as python, javascript, & ruby
+5+ years of experience working in a windows desktop and server environment experience creating and implementing designs and analyzing source data experience with mq preferred experience with c#, .net preferred sharepoint administration experience preferred ms sql server experience and/or training preferred experience creating and generating reports (microsoft reporting services, etc.) preferred
+oracle/pervasive sql experience is preferred experience with airline soc is beneficial, but not required experience with vendor management experience in both server and desktop application support knowledge or background with airline internal and external systems preferred 
+knowledge, skills and abilities: 
+
+knowledge of database design, utilization, and configuration preferred outstanding analytical, design, and technical writing skills proficient written and verbal communication skills and strong interpersonal skills
+outstanding troubleshooting and problem-solving abilities proficient in xml, html ability to work within a structured development environment that includes agile development methodology, version control, unit testing, creating builds/implementation plans, writing appropriate technical documentation, design/peer reviews, and other structured
+ development practices ability to manage multiple and competing priorities and deliver on project commitments
+ability to estimate and plan development work, track and report on task progress, and deliver work on schedule and within budget
+demonstrated ability to lead and participate in system architecture conversations with the team and the project architect
+ability to solve a variety of problems in situations where only limited standardization or knowledge exists
+
+ability to improve existing systems
+disclaimer: the above statements are intended only to describe the general nature and level of work required of the referenced position; they are not intended to be an exhaustive list of all responsibilities, duties, and skills required of individuals
+ in this position.  please be advised that duties and expectations of this position may be subject to change.
+
+frontier airlines, inc. is an equal opportunity employer and, as such, is committed to providing equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, national origin, age, marital status, veteran status,
+ sexual orientation, gender identity or expression, disability status, pregnancy, genetic information, citizenship status or any other basis protected by federal, state, or local laws. this policy applies to all terms and conditions of employment, including:
+ recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+frontier airlines, inc. is a zero tolerance drug-free workplace.  all prospective employees are subject to pre-employment testing for the following drugs and their metabolites: marijuana (thc), cocaine, amphetamines (including methamphetamines and mdma),
+ opiates (including codeine, heroine, 6-am, and morphine) and phencyclidine (pcp).  further, any applicant who is found to have tested positive on any required drug or alcohol test at a former employer will be considered ineligible for employment with frontier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply online
+
+
+send this job to a friend
+
+
+
+
+
+
+
+

@@ -1,0 +1,252 @@
+
+
+job information: wind energy data scientist- job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share
+
+
+
+
+
+
+												email opening
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title
+wind energy data scientist- 
+
+ 
+about the organization	
+sentient science, founded in 2000, has distinguished itself by building a suite of services that predict future life and performance of roller bearing centric machines without physical testing or using historical data. to accomplish this, the company has assembled the country's top scientists in material science, tribology and advanced mathematics. initially concentrating on federal and state government (darpa, dod, doe, nyserda and nsf) funded projects in predictive behavior.  
+
+sentient science's modeling efforts initially focused on bearing friction and bearing centric devices such as fighter jets, helicopters, uav's, nuclear submarines, tanks, wind turbines and medical devices. due to continuing success with sbir awards & nasa validation, the company is now commercializing digitalclone.  
+
+	 
+
+
+description	
+to apply, please click here.
+at sentient science, it's not just that our toys are cool, which they are, it's that our tech can benefit the environment and can change the world we work in. it's that the work you'll do here is unbelievably unique and incredibly rewarding. we make the unpredictable, predictable and we do it by bringing data, materials science, physics, and software together.
+we build physics-based, digitalclone models that predict and improve the lifespan of rotating machine parts from wind turbines to helicopters to the rail tracks. our models reduce costs through prognostics.
+the opportunity
+we're looking for a wind energy data scientist to expand our engineering data analytics team. ideal candidate is someone with subject-matter expertise related to wind turbines or similar industrial devices and solid experience as a data scientist to (a) curate, analyze and extract features from large repositories of quality-controlled wind turbine operational data time-series and event logs and, (b) develop and implement ml/ai algorithms using such features to help improve our physics-based predictive models. the ideal candidate should be humble and passionate and very comfortable working with smart and driven data scientists and mechanical engineers to collaboratively build cutting-edge tools.
+reporting to vijayant kumar, director of wind engineering and analytics, we're looking for a wind energy data scientist to join our engineering data analytics team. someone with subject-matter expertise related to wind turbines or similar industrial devices and solid experience as a data scientist. a data scientist or wind turbine sme to curate, analyze and extract features from large repositories of quality-controlled wind turbine operational data time-series and event logs. an sme to develop and implement ml/ai algorithms using such features to help improve our physics-based predictive models. someone who can work with other data scientists and mechanical engineers to collaboratively build cutting-edge tools.
+what's in it for you
+a rare opportunity. we solve problems in the real world. joining us now, you will be building solutions that will increase the efficiency and accuracy of our gearbox failure predictions. with one of the largest portfolios for wind engineering in the world, you will gain access to an incredible amount of data and see your work come alive.
+exposure. you are looking for an opportunity to make a measurable impact in a field the white house takes an interest in. you want to join an award-winning company recognized for innovation. this is an opportunity to work with leading edge machine learning technology and industrial data assets at an elite company. you will work with the largest operators of wind turbines in the world and receive validation and feedback on your modeling.
+team membership. you will be part of a team of problem solvers who know how to get things done. academics who can apply their knowledge. people who will drop what they are doing to excitedly work on a challenge together.
+superpowers. not really. but our head office in buffalo does bear a striking resemblance to the x-men mansion.
+so, how do we know that's you? you have:
+
+
+a data science background. you love to work with large sets of messy data. you have 5+ years of experience working with:
+
+
+time-series data and logs from scada systems.
+
+
+wind power meteorology datasets.
+
+
+scada/hmi historians (e.g. pi) and other scada aggregation databases. experience working with scada data stored in relational and/or big data platforms and familiarity with related technologies is a plus.
+
+
+deep-learning techniques (e.g. ann, lstm, sdae).
+
+
+
+
+proven expertise related to performance and reliability of wind turbines or other similar industrial internet platforms. you have direct experience optimizing and implementing a variety of machine learning methods for feature extraction, training, prediction and validation.
+
+
+coding: you can write efficient code while leveraging analytics/visualization/ml libraries. preferred tools of the trade include (in order of preference): python, matlab/octave, r. bonus skills include:
+
+
+experience with sql programming and data warehousing systems in an enterprise setting.
+
+
+experience with shell scripts (bash, csh, etc.) in a linux cloud environment.
+
+
+
+
+clear communication skills. you are comfortable presenting complex data, mathematical findings and business solutions to a range of inter-disciplinary stakeholders.
+
+
+a hunger for new information. you are a life-long learner, seeking new information. you can humbly learn from your mistakes and thrive in pursuit of solutions.
+
+
+need any more reasons to join us?
+not very many companies can say their first project was a life and death situation. sentient science corporation started out over ten years ago working on a model to predict when the rotating motors on american armed forces helicopters would give out. from there, we took our theories, our processes and our solutions and applied them to wind turbines and clean energy. whatever our next stop is, we guarantee it will be just as momentous!
+recognized by the white house in 2014 with the tibbetts award and bloomberg new energy finance pioneers award in 2016, we are far from sitting back and enjoying our success. sentient science engages more than a dozen phds as part of our well-funded r&d team. to date, one of our greatest accomplishments is being the first company to map the material genome. our competition is years behind us and we are moving at a pace that suggests they aren't going to catch us any time soon.
+sentient science is a company that credits our collaborative, innovative and frankly brilliant teams with our success. we are the kind of company where your work makes a difference and serves a purpose bigger than ourselves. right now, the work we are doing is helping make the world a better place. it's technology with a purpose. if you want to be part of that, you are passionate and you think you might have the skills to contribute to our progress, send us your qualifications here and we promise to consider them. to keep up with what's going on at sentient, follow us on linkedin.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or status as an individual with a disability.
+to apply, please click here.
+	 
+
+
+eoe statement	
+we are an equal employment opportunity employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.	 
+
+
+position requirements	
+	 
+
+
+full-time/part-time	
+	 
+
+
+location	
+san francisco 	 
+
+            this position is currently accepting applications.  apply now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we also recommend
+
+
+other jobs within same category
+
+
+
+ lead aerospace research engineer in buffalo , nyposted on: 11/21/2017[apply now]lead, wind engineering analytics- in buffalo , nyposted on: 10/31/2017[apply now]senior automation engineer  in cambridge, maposted on: 10/31/2017[apply now]lead, wind engineering analytics- in chicago , ilposted on: 10/31/2017[apply now]wind energy data scientist- in toronto, ontarioposted on: 10/31/2017[apply now]
+
+
+
+other jobs within 60 miles
+
+
+
+
+ -- none found
+ -- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+appone.comtm   copyright©1999-2017 hr services, inc.click here for technical assistance.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1960808
+												
+
+
+job title
+												
+
+embedded software application engineer – telephony/ril
+
+
+
+
+post date
+													
+
+11/28/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	cdma technology
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - software                          
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+we are looking for a talented, motivated and experienced software engineer with expertise to resolve/debug integration, testing and performance optimization issues of android ril, telephony and interface to modem in asics for smart phone/tablet products. responsible for guiding customers in designing, porting, and integration of data protocols on different platform/environments such as android, linux and etc. the role requires interfacing with handset developers, base-station inter-operability testing partners and wireless carriers worldwide.
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+0 - 7 years experience in the following:experience in c/c++/java programming and debugging skillsembedded software debugging skills and hlos(linux/windows) knowledge.os concepts use of threads/mailbox/semaphore/mutex, linux internals, android internals (socket programming, process synchronization).
+
+
+
+preferred qualifications
+													
+
+
+
+strong experience in android telephony and/or android ril for voice/uim/sms/ims volte/vt/mutil sim
+strong knowledge on 3gpp nas protocols, multimode call control is plus 
+experience working on any wireless technologies (umts, cdma 1x, evdo,ehrpd) is desirable
+strong communication skills are preferred
+
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: bachelor's, computer engineering and/or computer science and/or electrical engineeringpreferred: master's, computer engineering and/or computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,253 @@
+
+
+job information: senior data center engineer job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share
+
+
+
+
+
+
+												email opening
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title
+senior data center engineer 
+
+ 
+req number	
+eng-17-00025	 
+
+
+location	
+phoenix	 
+
+
+category	
+engineering - data center                                                                           	 
+
+
+full-time/part-time	
+full-time	 
+
+
+exempt/non-exempt	
+exempt	 
+
+
+shift	
+days	 
+
+
+travel requirements	
+	 
+
+
+position	
+senior data center engineer	 
+
+
+about the organization	
+compunet, inc a leading northwest value added reseller (var), founded in 1998 on the unique 'by engineers, for engineers' business model to deliver the best technology practices for software-defined data centers, optimal collaboration, next generation network security, and managed services.  compunet invents the possibility, advances innovation, and exceeds expectations.	 
+
+
+description	
+at compunet, engineering isn't just something we do, engineering is who we are.  we are seriously passionate about technology but how to best translate that passion in to measurable business outcomes and results for our clients is what gets us most excited.  compunet partners with industry leading technology providers such as cisco, emc, vce, netapp vmware, citrix, f5 and many more to develop and provide integrated solutions that deliver maximum reliability, security, performance and scale to accelerate our clients' success.
+the compunet senior data center systems engineer is a vital role in our organization and will provide value for our clients in both pre-sales design -and- post-sales implementation as well as strategic input as to technology and solutions within our data center and cloud practices.the senior data center engineer is expected to develop and execute data center designs based on enterprise architectural design principals (known as the compunet enterprise architectural framework) to support client business systems both today and in to their future.  as a senior member of our team it is imperative you have the ability and are able to perform the necessary tasks to fully support our client's projects and initiatives as well as a desire to mentor and provide support to others on the team. to be considered for this position it is essential that you have well developed communication skills and can demonstrate, from your past experience, both the technical ability and problem solving skills to very high levels for our clients.  our senior dc-se must have extensive knowledge and experience with one or more of our key manufacturer partnerships as listed above.
+responsibilities:
+
+must be able to work independently to gather requirements and translate those into solutions for our clients
+take ownership of key strategic accounts and drive new opportunities
+collaborate with the sales team to build a winning strategy for our clients
+perform necessary pre-sales technical functions to create systems designs
+effective whiteboard storytelling to be able to communicate designs and strategies with a client and team members
+build bill of materials (bom), create illustrations and diagrams and provide statements of work (sow)
+relay technical information to both technical and non-technical staff
+post-sales implementation of systems designed
+produce post implementation project documentation
+client end-user systems administration training (post implementation) of compunet installed solutions
+develop strategic relationships with our key manufacturer partner se's
+provide subject matter expert (sme) level expertise to our clients on one or more distinct data center functional areas - this includes; compute hardware and operating systems, storage and storage area networks, server - storage - network virtualization (sddc), workload and data center automation, private - public - hybrid cloud, data center networking,  application load balancing/delivery, data center security, backup & recovery, business continuity and end-user computing (euc)
+participate in occasional speaking engagements to provide  architectural and technical expertise to marketing or other events
+
+key expectations of this role:
+
+to learn the compunet enterprise architectural framework
+to listen and address customer technical challenges and design the right solution that scales and integrates to their desired points with compunet enterprise architectural framework approach and mindset
+to relay technical information to both technical and non-technical staff
+to  create bill of materials, statements of work, technical proposal components
+to provide both the pre-sales designs and post-sales implementation for client project opportunities
+to accept mentorship from compunet distinguished systems engineers (dsc's), consulting systems engineers (cse's) and possibly other senior systems engineer's (sr. se's) on the team
+to mentor other data center systems engineer's (se's) on the team
+to be an active leader in the larger compunet data center/cloud practice
+to be an active participant in the larger technology community as a whole
+to be subject matter expert in a given functional area within the data center/cloud practice mentioned above
+to maintain existing certifications and grow to new areas with certification
+to participate in all team functions including calls, meetings, events, etc.
+some travel may be required from time to time
+
+	 
+
+
+position requirements	
+ minimum 10 years of professional it infrastructure and departmental experience minimum 8 years experience designing and implementing storage and san solutions 8+ years experience in related field experience with one or more of our key vendors' products - cisco, emc, netapp vmware, citrix, f5 minimum 5 years experience administrating microsoft and linux systems at least 4 years experience designing data center system implementations at least 4 years networking design and implementation experience at least 4 years it operational experience coordinating and overseeing the work of others minimum 2 years experience designing and implementing active directory and exchange solutions operational experience with converged infrastructure demonstrated understanding of data center security and pci experience architecting and orchestrating the movement of data center equipment and business systems experience building out data centers from the ground up (greenfield) experience in the automation and orchestration of key it function and/or processes provide better than a base level understanding of 1 or more cloud automation stacks (vmware sddc, openstack, cloudstack, etc) provide better than base level understanding of application development and its respective environments demonstrated ability to work independently and bring order to ambiguous situations ability to work on different projects in a simultaneous fashion (ie. multiple customer projects in the same time period) able to relay technical information to both technical and non-technical staff exceptional problem solving and organizational skills high level certifications from our key vendors listed is a plus experience within a devops environment is a plus must possess excellent time management and independent work skills excellent verbal and written communication skills are required the person in this role must also demonstrate the utmost professionalism	 
+
+
+eoe statement	
+we are an equal employment opportunity employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.	 
+
+            this position is currently accepting applications.  apply now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we also recommend
+
+
+other jobs within same category
+
+
+
+data center engineer - euc focus in meridian, idahoposted on: 12/13/2017[apply now]senior data center engineer in bozeman, montanaposted on: 12/11/2017[apply now]cloud architect in cottonwood heights, utahposted on: 11/7/2017[apply now]cloud architect in lake oswego, oregonposted on: 11/7/2017[apply now]cloud architect in meridian, idahoposted on: 11/7/2017[apply now]
+
+
+
+other jobs within 60 miles
+
+
+
+
+system collaboration engineer in phoenix, arizonaposted on: 6/9/2017[apply now]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+
+
+see who works here:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+appone.comtm   ©1999-2017 hr services, inc.click here for technical assistance.
+
+
+
+
+
+
+
+
+
+

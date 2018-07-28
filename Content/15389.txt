@@ -1,0 +1,64 @@
+
+
+
+
+corvus insurance - jobs: full stack software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+full stack software engineer
+
+full stack software engineer
+boston, massachusetts, united states · technology
+
+descriptionlooking for a company that embraces new technology? are you interested in elixir, the erlang vm, and the internet of things?full stack engineer rolecorvus insurance seeks a talented full stack software engineer to join our very early stage technology team. we are a dynamic team of entrepreneurial professionals with backgrounds in insurance and technology creating a commercial insurance company that combines the latest technology with traditional insurance. you will be instrumental in building software systems that create actionable data for our users. you will report to the cto.responsibilities you will design and develop digital experiences that delight our end users (insurance brokers, insurance buyers, and corvus staff). you will help build the systems infrastructure and integrations with to manage insurance products you will integrate and display data from a variety of different resources, including sensors and iot (internet of things) you will be an active, creative, agile team member that pushes new features and code every iteration requirements experience developing and deploying advanced web based applications and services into staging and production environments desire to immerse yourself in a functional framework: elixir and phoenix programming experience with high level programming languages such as ruby on rails, python, etc experience with javascript and related frameworks: react, elm, ember, backbone, node, etc. mobile app development a plus. relational database experience such as postgres, mysql, redshift you write readable, quality code and make sure your tests are green before merging into master; you provide code reviews for your fellow team members you appreciate devops (ansible, puppet, docker, etc) and the massive scalability provided by cloud computing and amazon ec2 you're comfortable working at an early stage startup and are ready to build a greenfield system (no legacy codebase) you collaborate well with others and are dedicated to the company's success corvus believes in building a diverse team, and we strive to make our office a welcoming space for everyone. we encourage talented people from all backgrounds to apply.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+corvus insurance
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+corvus insurance website
+
+powered by
+workable
+
+
+
+
+

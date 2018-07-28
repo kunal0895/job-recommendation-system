@@ -1,0 +1,64 @@
+
+
+
+
+accesso - jobs: principal software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+principal software engineer
+
+principal software engineer
+san diego, california, united states · te2, the experience engine
+
+descriptionte2, the experience engine, a division of accesso, provides consumer-facing enterprises an engine to drive personalization, recommendations and commerce for the physical world, in real-time. we believe every consumer facing business with physical locations will benefit from a machine-learning based platform that provides deep insights and recommendations for how consumers interact and ultimately spend with global brands.position overview:as a principal software engineer at te2, you will be a lead engineer on a core engineering team that is designing and developing key components of the te2 platform that drives personalization, recommendations and commerce for the physical world, in real-time. some of what you will be working on: enabling personalized guest experiences based on specific location using location-based technologies (ble beacons, gps, and wifi position triangulation) perfecting turn-by-turn navigation and indoor wayfinding enabling augmented reality mapping global places and venues developing software to revolutionize the integrations between eos and a wide variety of customer systems of record building frameworks which will enable rapid deployment of new customers and real-time monitoring of the environment integrating with payment platforms to reduce the friction and allow easier access to personalized experiences exposing our customers' product catalogs through mobile apps tightly integrated with location services providing analytics on user browse, search, and purchasing activity that drive personalized recommendations enabling redemption of experiences through integrations with barcode scanners, ticketing systems, and wearable devices implementing the latest in service-based authentication security protocols and solutions capturing, storing, and protecting profile data in order to build an overall snapshot of a consumer mapping and determining relationships amongst various user identities whether it be individually, between people, or groups of people (identity management)  technical challenges you may tackle include: contributing to our platform architectural transformation into a modern, scalable microservices foundation assisting in the design and implementation of a secure, restful api gateway with routing to platform micro-services helping to design and implement a distributed trace logging for all eos micro-services contributing to data modeling and migration from single-tenant couchbase databases into a multi-tenant cluster implementing complex domain-model mappings between our client-facing apis and customer systems of record implementing our product suite in ways that provide simple, usable common functionality, while allowing customer-specific added functionality continuously deploying our software into a cloud-based platform using tools such as jenkins, docker, and kubernetes building reusable, multi-tenant software components that integrate with content management systems, commerce systems, and other industry-specific platforms  some of the technologies you will be working with: java 8 aws, cloud elastic architectures multiple apache projects, including: servicemix, cxf (jax-rs), activemq spring boot microservice technologies: eureka, ribbon, hystrix restful / json web api service layercouchbase (nosql) data persistence and cache layer continuous delivery integration through jenkins pipelines  your background: 8+ years of related work experience experience leading small development teams ba/bs in computer science or a related technical field (preferred, but not necessary) experience in java or similar oo language (c#, c++) strong grasp of oo programming principles experience with rest apis willingness and ability to embrace an agile development methodology what we offer:competitive salary based on experiencethe opportunity to earn an annual company discretionary bonus with the potential for stock options.a flexible work schedule around our core business hoursgenerous pto planhealth insurance plans, including employer-contributed hsa, as well as employer paid disability and life insurance.matching 401kother considerations:we are an e-verify organization. eligible candidates must be authorized to work in the us without requiring visa sponsorship. accesso is a drug free and smoke free company, meaning employees may not smoke or use illegal drugs while at work or away from work. this is a full-time position. no contractors please. if you are interested in joining a team who values passion, commitment, teamwork, innovation and integrity and what we’ve described above is you, then apply today and let’s talk! 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+accesso
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+accesso website
+
+powered by
+workable
+
+
+
+
+

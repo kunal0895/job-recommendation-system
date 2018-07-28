@@ -1,0 +1,329 @@
+﻿
+
+
+
+
+front end engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+
+ 
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+			     
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+front end engineer
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-00588
+
+location: 
+charlotte, north carolina
+
+
+
+
+
+ position summary:
+we are currently seeking talented front-end engineers. successful candidates will be able to manage multiple projects at once in a progressive agile development environment. while 70% of your time will be spent developing code, another 30% will be spent problem solving, mentoring junior developers and performing code reviews. 
+
+required skills:
+
+minimum of 5+ years developing css3/html5/javascript with a focus on modern techniques and approaches. 
+uses and evangelizes mobile first development methodologies
+experience with sass/less
+experience with es6/es 2015
+can manipulate the dom with standard javascript
+ui build frameworks – npm, grunt, gulp
+js testing frameworks – mocha, jasmine
+experience consuming rest api using async methods in partnership with back end development teams
+expert in user interface development, engineering cross-browser, cross device compliant code
+	writes high quality, semantic, testable, maintainable, and well-documented code
+clear communication, both written and spoken, across teams and during user experience reviews. 
+ability to work in a team
+ability to collaborate with wider groups on standards and best practices
+must be able to help communicate ideas to junior developers
+experience performing code reviews
+experience with node.js
+driven to learn new technologies and is a personally motivated self-starter
+familiar with css methodologies like bem, oocss, smacss
+familiar with functional and object-oriented approaches to javascript
+
+
+desired skills:
+
+agile development workflow
+7+ years developing css/html/javascript
+experience with a modern javascript component framework such as react, vue, or polymer
+experience working in a large corporate it environment with software tools used for design, build, test & debug. 
+experience with ada compliance
+enterprise exposure in defect resolution up and down ui chain, (examples: http headers to ajax failures, to os browser anomalies)
+
+
+
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

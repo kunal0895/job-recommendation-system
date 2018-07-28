@@ -1,0 +1,464 @@
+
+
+
+
+job application for data scientist, process simulation  at uptake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist, process simulation 
+
+        at uptake
+      
+(view all jobs)
+
+        600 w chicago ave, chicago, il 60654 ste 775
+      
+
+
+ 
+what we do
+uptake is a chicago-based predictive analytics saas platform provider that empowers major industry leaders to optimize performance, reduce asset failures and enhance safety. we work across industries that power the world, from planes and trains to healthcare and agriculture. our leading platform for industrial data leverages machine learning, advanced data science and state-of-the-art security combined with the expertise of our industrial partners.  the result is a powerful platform that identifies problems before they occur, saving time, money, and lives. 
+what you’ll do
+​the data scientist (process simulation) will help develop process simulations and optimization to uncover business value in any of the verticals that uptake does business (i.e. rail, aviation, energy, manufacturing, etc.). this role will require working with other members of the data science team to collaborate on large-scale, data-driven process simulation models. these models will be built in a scalable, modular fashion so that they can easily be deployed for many different customers.
+responsibilities
+
+collect and organize data from disparate sources
+write scripts that can automate the process of collecting and organizing data for scalability
+build and maintain large-scale discrete event simulation (des) models
+brainstorm and help to develop solutions to logic puzzles
+look for insights that provide business value to our partners
+provide regular updates to team members
+be flexible to take on new assignments and roles that arise within a start-up culture
+
+qualifications
+
+required:
+
+bachelor’s degree in engineering, computer science, operations research, or related data-centric, computational fields
+ability to discuss your active role in 1+ practical des related project(s) outside of a classroom setting
+strong ability to capture real-world operations into des logic
+previous experience with simio (most desirable), flexsim, promodel, anylogic, arena, simpy or similar
+knowledge of r (most desirable) or python for pre- and post-processing simulation data
+some knowledge of machine learning and predictive analytics concepts and ability to construct a basic solution strategy in r or python
+familiarity with process improvement and exploratory techniques (e.g. design of experiments and optimization)
+interest in game design, solving coding puzzles and logic riddles, hacking code to quickly illustrate solutions
+driven, self-starter
+curious, innovative mindset
+team player
+
+preferred:
+
+master’s degree or ph.d. in related field
+significant experience with large-scale des projects in an industrial setting
+previous experience with machine learning and predictive analytics algorithms
+previous experience developing a simulation engine
+
+
+why work here
+we build and deliver, then explore to build more. curiosity and flexibility enable everything we do, and we get stronger as we make each new industry smarter. as a team, we bring our diverse backgrounds, beliefs and experiences to solve problems no one has yet to solve, at a speed no one has yet to experience. we support and challenge one another to bring out a new best in each of us, and we might have a little fun along the way.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+will you now or in the future require sponsorship for an employment visa (e.g. h1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+what is your kaggle ranking?
+    
+
+
+
+
+
+do you contribute to open source projects?
+    
+if so, please explain or link to your contributions.
+
+
+
+
+
+
+please provide your github account
+    
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about uptake?
+    
+
+
+
+
+
+1871
+blue1647
+built in chicago
+bunker labs
+campus event
+chicagoinno
+chicago innovation awards
+chipma
+data fellows
+girl develop it
+ita
+technori
+techstars
+the starter league
+uptake-hosted event
+uxs chicago
+other
+
+
+if you heard about us some other way, please share how!
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at uptake are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

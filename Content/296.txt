@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+database engineer at capital one - us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+usa
+united kingdom
+canada
+
+
+
+
+
+
+
+
+menu
+        
+
+
+
+
+
+teams & roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+life at capital one
+
+overview
+benefits
+inclusion
+military
+
+
+campus careers
+
+
+
+saved jobs
+
+
+
+
+
+
+
+
+
+
+
+
+database engineer
+apply now
+save
+job id r34375 updated date 09/07/2017
+location seattle, washington
+wright brothers (51050), united states of america, seattle, washingtonat capital one, we’re building a leading information-based technology company. still founder-led by chairman and chief executive officer richard fairbank, capital one is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. we measure our efforts by the success our customers enjoy and the advocacy they exhibit. we are succeeding because they are succeeding.                                               guided by our shared values, we thrive in an environment where collaboration and openness are valued. we believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. we elevate each other and obsess about doing the right thing. our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. together, we are on a quest to change banking for good.database engineerwe are passionate about data! as a database engineer at capital one, you'll be responsible for administration of procedures and practices regarding data access and upkeep across multiple database technologies. this includes working with project teams to determine changes needed to both the database and models, and then implementing those changes. our database professionals support ongoing project efforts and day-to-day support activities for the database platform. responsibilities:- responsible for the design, development and administration of transactional and analytical data constructs/structures.- included within those responsibilities are the areas of data access and delivery technologies. includes, sql server, postgresql, mysql and potentially nosql solutions suchs as mongodb or couchbase.  - duties include performance tuning, monitoring, software installs and upgrades, scripting, and physical and logical database design.  - familiarity with aws services and scripting. - familiarity with web applications and service oriented architecture- hands on experience with setting up amazon rds instances and supporting rds instances- hands on experience with microsoft windows and linux  - hands on experience with microsoft office word and excel.basic qualifications:- high school diploma, ged, equivalent certification or military experience - at least 3 years of experience in configuring, managing, and troubleshooting sql server - at least 3 years of experience with database backup and recovery, including implementing disaster recovery standards- at least 3 years of experience with database design, optimization, and tuning.- at least 1 year of experience in cloud computing platform.preferred qualifications:- bachelor's degree in computer science- 3+ years of financial services experience- 1+ years of experience in aws cloud computing platform migrating databases (oracle, postgresql, sql server etc…) to amazon rdsat this time, capital one will not sponsor a new applicant for employment authorization for this position.no agencies please.capital one is an equal opportunity employer committed to diversity in the workplace. capital one promotes a drug-free workplace.all qualified applicants will receive consideration for employment without regard to gender, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status protected by applicable national, federal, state or local law.capital one will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, article 23-a of the new york correction law; san francisco, california police code article 49, sections 4901-4920; newark, new jersey ordinance 12-1630; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.no agencies please.  capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. capital one promotes a drug-free workplace.  capital one will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, article 23-a of the new york correction law; san francisco, california police code article 49, sections 4901-4920; new york city’s fair chance act; philadelphia’s fair criminal records screening act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at 1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.for technical support or questions about capital one's recruiting process, please send an email to careers@capitalone.comcapital one does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.capital one financial is made up of several different entities. please note that any position posted in canada is for capital one canada, any position posted in the united kingdom is for capital one europe and any position posted in the philippines is for capital one philippines service corp. (copssc).
+apply now
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+
+our location
+
+
+
+
+
+job alerts
+sign up here for job alerts and other communications from capital one.
+email addressinterested inselect a job category from the list of options. select a location from the list of options. finally, click “add” to create your job alert.job category*select a job categoryanalyticsbrand/marketingbusiness bankingcafécafé ambassadorcafé coachcampus opportunitiescommercial bankingcompany builderscustomer advocatescustomer caredata engineeringdata sciencedesigndevopsengineeringfinanceinformation technologyinvestinglegalmachine learningmarket leadmclean data engineeringmclean devopsmclean engineeringmclean machine learningmclean softwareoperationspeople & workplacepersonal bankingproduct innovatorsproduct managementproject/process managementrisk management/auditsalessoftware engineeringstrategytechnology explorerstechnology operationsstate*select locationalabama, united statesarizona, united statescalabarzon, philippinescalifornia, united statescolorado, united statesconnecticut, united statesdelaware, united statesdistrict of columbia, united statesengland, united kingdomflorida, united statesgeorgia, united statesillinois, united statesindiana, united stateskansas, united stateslouisiana, united statesmaryland, united statesmassachusetts, united statesmichigan, united statesminnesota, united statesmississippi, united statesmissouri, united statesnebraska, united statesnevada, united statesnew jersey, united statesnew york, united statesnorth carolina, united statesohio, united statesoklahoma, united statesontario, canadaoregon, united statespennsylvania, united statesquebec, canadasouth carolina, united statestennessee, united statestexas, united statesutah, united statesvirginia, united stateswashington, united stateswisconsin, united statesaddinformation technology, seattle, washington, united statesremovetechnology operations, seattle, washington, united statesremovetechnology explorers, seattle, washington, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+*required field
+
+
+
+
+similar jobs
+
+
+senior software engineer
+seattle, washington
+
+
+senior software engineer
+seattle, washington
+
+
+data science engineer
+seattle, washington
+
+
+
+
+
+
+
+
+
+keywords
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+match jobs to your linkedin profile.
+
+welcome back, login
+
+
+
+
+
+
+
+
+more than just a bank
+
+
+
+
+
+
+
+our take on interviews
+
+
+
+
+
+
+
+investing in communities
+
+
+
+
+
+
+
+
+
+facebook
+linkedin
+instagram
+twitter
+youtube
+glassdoor
+
+
+
+legal
+
+privacy
+security
+terms & conditions
+patriot act cert. *
+service members civil
+relief act
+
+member fdicequal housing lender
+
+
+capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. capital one promotes a drug-free workplace.
+all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, sexual orientation, gender identity, protected veteran status, disability or other protected status.
+if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at  1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+capital one is a federally registered service mark. all rights reserved. blank check® is a registered trademark of capital one services, llc. capital one does not provide, endorse, nor guarantee and is not liable for third party products, services, educational tools, or other information available through this site.
+fortune and fortune 100 best companies to work for are registered trademarks of time inc. and are used under license. from fortune magazine, march 15, 2017 ©2017 time inc. used under license. fortune and time inc. are not affiliated with, and do not endorse products or services of, capital one financial corporation.
+*plugins required [adobe®reader®]
+e-verify® is a registered trademark of the u.s. department of homeland security 
+
+
+this link opens in new tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

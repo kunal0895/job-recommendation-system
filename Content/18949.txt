@@ -1,0 +1,242 @@
+
+
+
+
+job application for fullstack engineer, workspaces at udacity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+fullstack engineer, workspaces
+
+        at udacity
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+
+udacity's mission is to democratize education. we're an online learning platform offering groundbreaking education in fields such as artificial intelligence, machine learning, robotics, virtual reality, and more. focused on self-empowerment through learning, udacity is making innovative technologies such as self-driving cars available to a global community of aspiring technologists, while also enabling learners at all levels to skill up with essentials like programming, web and app development. udacity is looking for people to join our engineering team. if you love a challenge, and truly want to make a difference in the world, read on!
+ 
+we're looking for a full stack developer to join our workspaces team. as an engineer focusing on our interactive student learning environments and ide’s, you’ll be building systems that propel students of all levels forward in their learning efforts.
+
+
+responsibilities:
+
+
+
+you will own the full-stack development of one or more of our products and collaborate with designers and other engineers to launch new products, iterate on existing features, and support integration into the entire udacity student experience.
+we use what we teach (and we teach the latest tools and techniques).  some cool projects you might work on: (1) create a docker-based + wysiwyg tool set to configure workspaces for specific courses and types of content (2) implement an interactive debugger for students to use and learn with (3) develop a learning environment to leverage interactive 3d simulations in the browser, for topics such as robotics and self driving cars
+some technical challenges you’ll encounter include: (1) securely authenticating sessions across multiple domains/geo-regions, including dealing with cross origin security policies (2) debugging network and application failures across proxies or intermediate services (3) architecting safe concurrency strategies for synchronizing and sharing workspace state between users
+if the above examples and challenges sound thrilling, let’s chat!
+
+
+
+
+
+requirements:
+
+
+
+2+ years general programming experience + semantic html and css. 
+solid experience building backend and front-end systems in tandem with a clean, secure separation of concerns and load.
+experience with back-end, federated systems in node is required.  you ideally have deployed global cloud-based services and are aware of the challenges.
+command-line applications, source control, and testing frameworks are part of your daily work already
+experience with a popular front-end framework (e.g. react), front-end debugging tools (chrome dev tools, etc.) and build tools (babel, webpack, yarn, etc)
+java programming experience is a big plus.
+
+
+
+
+
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

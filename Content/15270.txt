@@ -1,0 +1,141 @@
+
+
+
+
+golden frog careers - backend developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+                                                    golden frog careers                                            
+
+
+
+
+
+
+
+                backend developer
+    
+    
+
+                            software development            
+                    austin,
+                            texas
+                
+                        
+
+
+
+        apply
+    
+
+
+
+we are looking for a mid-level to senior-level software developer. the position is on one of the most important teams in our company: our billing and database team. the team is responsible for our in-house billing and provisioning systems including integration with third party systems as needed.we don't care if you have a college degree; you must be able to show a thorough understanding of object oriented design and concepts. if you do, you could very well join us here soon.the primary languages we use are scala and perl. experience in these languages is preferred, but not required. other technologies we use include: mysql, linux, mercurial, git, jira, confluence. we work at scales of 100s of gbps of traffic, petabytes of storage, and thousands of servers. we fulfill customer expectations of no downtime and the best performance.our team primarily utilizes scrum with some small, support work following a kanban model.at golden frog, we respect our customers. we care about the internet, and we need you to help us create superior software and services. join our team and have a hand in making an impact!responsibilities:enhance and add new features to existing applicationstranslate functional requirements into conceptual and detailed designprovide story point estimates for development effortwork with extended engineering resources and design teamsrequirements:knowledge of scala or perl is a plus, but fluency in any object-oriented or functional language with an interest in learning scala and perl is great tooability to learn new languages quicklywillingness and eagerness to learn from mentors, and other software engineersbasic knowledge of sql and relational databasesan understanding of object oriented design and conceptsmust have a positive “can-do” attitudewho we are:golden frog was founded in response to room 641a, an infamous room in san francisco where the nsa was conducting surveillance on at&t's networks. we filed papers with the fcc to bring this alarming activity to their attention, but were ignored. instead of waiting around for the government to protect internet users, our response was to found golden frog to build tools that help preserve an open and secure internet experience while respecting user privacy. since our founding, we have encrypted millions of internet connections across the world and continue to rapidly expand to satisfy a growing worldwide need for privacy and security.you will join technically talented teams, working on a variety of challenging projects. standard business hours that allow for an enjoyable work/life balance. and, the ability to contribute! this position also offers a generous 401k profit-sharing plan, medical/dental insurance, vision discount plan, and generous paid time off.products by golden frog:vyprvpn (www.goldenfrog.com/vyprvpn) is a secure personal vpn service. vyprvpn provides secure, encrypted connections to the internet to protect user privacy and security. with users in 195+ countries, vyprvpn offers worldwide server locations, 700+ servers, and 200,000+ ips so connections are always available. golden frog writes 100% of its vpn server software, manages its own network, and owns the hardware enabling it to deliver the fastest vpn speeds in the world. vyprvpn has applications for windows, mac, ios and android.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

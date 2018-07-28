@@ -1,0 +1,768 @@
+
+
+
+
+
+
+		software developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+software developer
+r&d – austin, texas
+
+
+apply for this job
+
+
+
+
+department
+r&d
+
+
+employment type
+full time
+
+
+minimum experience
+entry-level
+
+
+
+
+
+
+
+
+
+
+please note: you must be currently authorized to work full-time in the united states on a permanent basis. iodine does not sponsor for visa status.
+iodine software equips healthcare teams with the most innovative tools to solve some of their toughest problems in clinical documentation. by leveraging groundbreaking technologies like natural language processing, machine learning, and artificial intelligence, our platform drives significant improvements in how hospitals document patient health conditions, in turn positively influencing team performance and patient outcomes.
+our client base is growing rapidly, and we need talented, dedicated individuals to join our engineering team. our software developer will be responsible for building and maintaining the web applications and services in the iodine platform. if you are passionate about problem solving, focused on driving results, thrive on improving productivity, and love development, this position may be right for you.
+what you’ll do
+
+design and implement highly performing and highly scalable applications
+analyze user requirements based on input from technical services and support team, and propose potential design solutions
+research, design, and develop software systems
+develop level-of-effort estimates for enhancements and new features
+work with other team members to develop a complete and integrated solution; and deliver quality software and required documentation on time
+understand and comply with development standards to ensure consistency across the larger development team
+conduct in-depth technical and performance analyses in support of production issue troubleshooting
+monitor and maintain production systems
+
+
+ what you’ll need
+
+bs in computer science or related area, with a strong record of academic achievement
+5+ years of professional experience writing java code; experience with spring, postgresql, and/or vaadin a plus
+comfort working in a linux environment
+demonstrated expertise in successful large project/build management and execution
+demonstrated ability to manage multiple work streams simultaneously and efficiently
+team player dna with a desire to solve for the interests of our internal clients and of our business
+positive, self-starter attitude with desire to exceed expectations and ability to work extended hours when necessary
+attention to detail, highly organized, with an absolute focus on quality of work
+
+what you’ll get
+this is a unique opportunity to join a close-knit, rapidly growing team and help us improve a key piece of the organization. you will be learning the latest technologies that are pushing the boundaries of our industry and impacting the way medical teams document patient health conditions. you will be creating custom solutions, solving challenging business problems, and directly influencing client support. you will join a passionate and ambitious team, with a proven record of success building multiple companies. learn more about us at www.iodinesoftware.com.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+are you legally authorized to work in the us on a full-time basis?
+
+
+
+
+
+
+
+will you now or in the future require sponsorship for employment visa status (h1-b, tn, etc.)?
+
+
+
+
+
+
+
+are you an f-1 student?
+
+
+
+
+
+
+
+how did you hear about this opportunity?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+austin, texas
+
+
+department
+r&d
+
+
+employment type
+full time
+
+
+minimum experience
+entry-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

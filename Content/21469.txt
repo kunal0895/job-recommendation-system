@@ -1,0 +1,64 @@
+
+
+
+
+accesso - jobs: senior front-end engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+senior front-end engineer
+
+senior front-end engineer
+san diego, california, united states · te2, the experience engine
+
+descriptionte2, the experience engine, a division of accesso, provides consumer-facing enterprises an engine to drive personalization, recommendations and commerce for the physical world, in real-time. we believe every consumer facing business with physical locations will benefit from a machine-learning based platform that provides deep insights and recommendations for how consumers interact and ultimately spend with global brands.position overview:we are hiring for a front-end software engineer whose technical abilities are matched by their attention to design and detail. we are building state of the art web technologies that will empower brands to customer relations in ways never seen before. imagine building a game for marketers where their goal is to maximize customer satisfaction and profit - this is one of the many exciting challenges you will face as a te2 developer. you will work extremely close with ui/ux designers, taking visual concepts and making them dynamic components that are well tested and ready to be combined into a customer facing product.some of what you will be working on: developing new user-facing features  building reusable code and libraries for future use ensuring the technical feasibility of ui/ux designs optimizing application for maximum speed and scalability building advanced self service eos tools using the latest google maps apis, drag and drop file upload, and charting libraries. working with embedded ux engineers to bring their vision to life by creating pixel-perfect uis. securing our platform and services by implementing modern authorization flows with oauth2, or better yet, help us invent our own flow. say goodbye to ie 9 and other obsolete browsers and only develop for evergreen browsers. technical challenges you may tackle: implementing self-service tools that must communicate with multiple client platforms running multiple versions of the platform. consuming and aggregating data from multiple source, including custom rest apis, elasticsearch, and 3rd party cmss. designing modular and extensible components implementing robust uis for viewing and modifying complicated domain objects some of the technologies you will be working with: angular-ui sass gulp karma jasmine mongodb jira, github, jenkins, apiary, postman elasticsearch requirements: 4+ years of software development experience ba/bs in computer science or a related technical field (preferred, but not necessary) knowledge of new web components specification, including shadow dom & custom elements. good understanding of reactjs, angularjs & other component frameworks is a plus. basic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. familiarity with tools such as as gimp or photoshop is a plus. proficient understanding of cross-browser compatibility issues and ways to work around them. familiarity with module bundlers and task runners like gulp or webpack what we offer:competitive salary based on experiencethe opportunity to earn an annual company discretionary bonus with the potential for stock options.a flexible work schedule around our core business hoursgenerous pto planhealth insurance plans, including employer-contributed hsa, as well as employer paid disability and life insurance.matching 401kother considerations:we are an e-verify organization. eligible candidates must be authorized to work in the us without requiring visa sponsorship. accesso is a drug free and smoke free company, meaning employees may not smoke or use illegal drugs while at work or away from work. this is a full-time position. no contractors please. if you are interested in joining a team who values passion, commitment, teamwork, innovation and integrity and what we’ve described above is you, then apply today and let’s talk! 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+accesso
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+accesso website
+
+powered by
+workable
+
+
+
+
+

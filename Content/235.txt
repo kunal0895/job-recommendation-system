@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer
+
+
+location:
+redmond, wa
+
+
+job code:
+862
+
+
+# of openings:
+1
+
+
+
+description
+title: data engineer
+duration: long term, 12-18 months
+location: redmond, wa
+job description:
+
+responsibilities:
+
+manipulate and analyze complex, high-volume, high-dimensionality data from varying sources using a variety of tools and data analysis techniques
+apply statistical concepts and techniques to analyze experiments and user behavior
+use and promote data-exploration techniques to discover new or previously unasked questions sql programming (bi focused preferably skilled with ssis, ssas, mdx, dax, data mining)
+define metrics and methodology that accurately quantify the value of improvements
+present findings and recommendations to development partners and key decision makers at various management levels 
+influence stakeholders to make product improvements that yield business value by effectively making compelling cases through story-telling, visualizations, and other influencing tools
+deliver on ambiguous projects with multiple stakeholders, unclear requirements and incomplete data provide input to software engineering teams on new analytical capabilities needed
+
+qualifications:
+
+required skills:
+
+big data -- microsoft cosmos / azure data lake (or equivalent experience with hadoop/hive)
+scope / u-sql programming (or equivalent experience with hadoop/hive) 
+c# / .net stack (or equivalent programming language/stack), exhibiting strong algorithmic, design, coding, and documentation abilities) 
+sql programming (bi focused preferably skilled with ssis, ssas, mdx, dax, data mining)
+
+optional skills:
+
+powershell (or any other scripting language)
+stats and data analysis experience working with advanced tools like r, sas, jmp, advanced excel (pivot tables, power bi) 
+experience with microsoft internal tools like azureml, tlc, vizfx, scopeml, power bi, xflow/sangam etc. is a plus
+experience with web programming to build data visualization web portal is a plus​
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+

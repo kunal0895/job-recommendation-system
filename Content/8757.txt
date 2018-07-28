@@ -1,0 +1,153 @@
+
+
+career
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+solutions
+products
+news & events
+about us
+testimonials
+contact
+job openings
+
+
+
+
+solutions overview
+life sciences
+hospitals
+manufacturing & distribution
+
+
+harness riscc
+harness riim
+harness checkpoint
+
+
+services overview
+integration services
+rfid design & development
+implementation
+project management
+education
+support
+teaming opportunities
+
+
+press releases 
+upcoming events 
+current newsletter
+newsletter signup
+
+
+text01
+text02
+text03
+
+
+
+
+
+ 
+
+
+back to jobs,  scientific data analyst2, harn1079, atlanta ga
+
+job description:
+we are currently seeking a data analyst to plan, analyze, design and construct information systems on an enterprise-wide basis or across a major sector of the enterprise applying an enterprise-wide set of disciplines.
+ 
+qualifications
+ 
+key responsibilities:
+
+provides high-level expertise in information modeling, requirement analysis and facilitation using methodologies such as integrated definition (idef) or related techniques.
+performs analysis to develop fully attributed logical and physical information (data) and business process models following idef methodologies.
+gathers requirements using facilitation techniques in order to collect and define data.
+processes requirements necessary to support complex large scale and/or decision support systems.
+uses modeling tools and repositories to effectively and efficiently define and manage the gathering/dissemination of data and business process requirements.
+uses information gathered to develop database specifications.
+designs relational database schemas to support large-scale, mid-tier clients/server, or web-based applications.
+provides technical guidance in software engineering techniques and automated support tools.
+provide expert level knowledge of:
+
+microsoft sql server
+erwin data modeller, microsoft visio
+orion rhapsody
+extract, transform and load (etl) processes
+sas
+idef or equivalent data modeling notations
+jira
+
+
+
+basic qualifications:
+
+must have a bachelor's degree in computer science or related field
+must have a minimum 5+ years' experience as a mid to senior-level data modeler
+
+
+professional skills:
+
+excellent verbal, interpersonal and written communication skills
+strong analytical, problem-solving and decision making capabilities
+team player with the ability to work in a fast-paced environment
+ability to multi-task in a fast-paced environment
+demonstrated outstanding level of professionalism in providing administrative support, including ability to exercise good judgment, discretion, tact, and diplomacy
+sound business ethics, including the protection of proprietary and confidential information
+ability to apply detailed knowledge of organizational procedures to make independent decisions and serve as a credible resource for a senior management team
+ability to work with all levels of internal staff, as well as outside clients and vendors
+excellent problem solving skills with ability to analyze situations, identify existing or potential problems and recommend solutions
+strong oral and written communication skills
+superior interpersonal skills including courtesy, professionalism, and a cooperative attitude
+ability to be flexible to handle multiple priorities and to work limited overtime as necessary
+
+eligible candidates please email your resume to 
+priscilla.edwards@harnesssolutions.com or call 484.514.1861 extension 1022
+
+
+ 
+
+ 
+
+
+privacy policy  | terms of use
+
+
+
+
+
+â© 2014 harness solutions, inc.
+
+
+ 
+
+
+
+
+
+
+
+

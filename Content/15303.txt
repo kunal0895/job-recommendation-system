@@ -1,0 +1,464 @@
+
+
+
+
+job application for backend engineer at panjiva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend engineer
+
+        at panjiva
+      
+(view all jobs)
+
+        engineering
+      
+
+
+solve important and challenging problems
+as a data engineer on our team, you will play a key role in developing our next- generation data mining and search platform for global trade data. you’ll design and implement abstractions, data schemas, and apis while working closely with our product engineers, product designers, and data scientists on new panjiva products. you’ll help scale our data infrastructure to seamlessly integrate an order-of-magnitude-more data sources by building systems to automate and optimize large scale distributed computing jobs. your solutions will leverage distributed computing technologies to enable machine learning and nlp algorithms to be run on large scale data. as a data engineer at panjiva, you will work with panjiva’s world-class data scientists, product designers, and engineers to create products that solve important real-world business problems in a collaborative, fast-paced, and fun startup environment.
+join us in building the next generation of products as we continue  to deliver valuable and actionable insights to decision makers in the $15 trillion global trade industry.
+ 
+at panjiva, you’ll work on:
+
+
+building and managing highly reliable distributed data pipelines with high throughput
+
+
+working with our data scientists to turn large scale messy and diverse unstructured data into structured, normalized data
+
+
+maintaining data integrity across various data sources
+
+
+optimizing slow running database queries and data pipelines
+
+
+helping enhance our search engine, capable of running sophisticated user queries quickly and efficiently
+
+
+building internal tools and backend services to enable our data scientists and product engineers to improve efficiency
+
+
+ 
+requirements
+
+
+bs, ms, or phd in computer science or related field, or equivalent work experience
+
+
+3+ years of experience in working with large scale data in a production environment
+
+
+significant performance engineering experience (e.g., profiling slow code, understanding complicated query plans, etc.)
+
+
+experience with monitoring and profiling tools such as nagios, perf, htop, etc.
+
+
+advanced database skills
+
+
+deep knowledge of at least one dynamic programming language (python, ruby)
+
+
+experience with scripting languages (bash, python, ruby)
+
+
+experience developing software on linux-based oses
+
+
+experience with distributed version control systems
+
+
+ 
+nice-to-haves
+
+
+statistics knowledge
+
+
+familiarity with column store databases
+
+
+familiarity with database internals, especially postgresql
+
+
+familiarity with large-scale, distributed data processing systems, such as mapreduce pipelines, mesos, spark, etc.
+
+
+contributions to open-source software
+
+startup experience
+
+ 
+perks and benefits
+
+
+competitive salary and stock options
+
+
+build or buy your dream computer
+
+
+kendall square office twenty-five feet from the red line t stop
+
+
+nineteen days of paid time off (pto) and 10 paid holidays annually
+
+
+weekly tech talks
+
+
+health, dental, and vision insurance
+
+
+401(k) plan
+
+
+hacker continuing education wednesdays i.e., craft beer tasting, ping pong lessons
+
+
+regular off-site retreats where everybody helps to set company direction and strategy
+
+work with a talented, focused, driven team in a growing company with opportunity for advancement and career development
+
+about panjiva
+panjiva's technology creates insight from messy global trade data to provide powerful search, analysis, and visualizations of more than a billion shipping records from nearly every country in the world. our platform is used by more than 3,000 customers—fortune 500 companies, startups, government agencies, hedge funds, among others—in over 100 countries to find new suppliers and customers, monitor supply chains, make investment decisions, and much more. better insight into global trade means better decision making and stronger connections between companies and governments around the world.
+join our team as we revolutionize a key and fascinating part of the world economy!
+note: panjiva is an eoaa. panjiva takes affirmative action to employ and advance in employment qualified individuals with disabilities. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity or physical or mental disabilities.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ add another
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+security clearance *
+
+
+
+please selectno clearance
+active confidential
+active secret
+active top secret
+active top secret sci
+inactive confidential
+inactive secret
+inactive top secret
+inactive top secret sci
+
+
+work authorization
+    
+
+
+please selectunited states citizen or permanent resident
+us work visa holder
+no visa: seeking work authorization
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        school name
+      
+
+
+
+
+
+        degree
+      
+
+high school
+associate's degree
+bachelor's degree
+master's degree
+master of business administration (m.b.a.)
+juris doctor (j.d.)
+doctor of medicine (m.d.)
+doctor of philosophy (ph.d.)
+engineer's degree
+other
+
+
+
+        discipline
+      
+
+accounting
+african studies
+agriculture
+anthropology
+applied health services
+architecture
+art
+asian studies
+biology
+business
+business administration
+chemistry
+classical languages
+communications & film
+computer science
+dentistry
+developing nations
+discipline unknown
+earth sciences
+economics
+education
+electronics
+engineering
+english studies
+environmental studies
+european studies
+fashion
+finance
+fine arts
+general studies
+health services
+history
+human resources management
+humanities
+industrial arts & carpentry
+information systems
+international relations
+journalism
+languages
+latin american studies
+law
+linguistics
+manufacturing & mechanics
+mathematics
+medicine
+middle eastern studies
+naval science
+north american studies
+nuclear technics
+operations research & strategy
+organizational theory
+philosophy
+physical education
+physical sciences
+physics
+political science
+psychology
+public policy
+public service
+religious studies
+russian & soviet studies
+scandinavian studies
+science
+slavic studies
+social science
+social sciences
+sociology
+speech
+statistics & decision theory
+urban studies
+veterinary medicine
+
+
+
+        start date
+      
+
+
+
+
+
+        end date
+      
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

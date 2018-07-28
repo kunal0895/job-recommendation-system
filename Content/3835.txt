@@ -1,0 +1,221 @@
+
+
+stem careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+homeall stem opportunities
+
+
+
+
+ 
+
+all stem opportunitiessearch current openingsupdate your profilecreate a job agentupdate job agentrecruiting agency login
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					back end software engineer
+				
+
+
+						tracking code
+					
+
+						pd 12 seattle 
+					
+
+						job description
+					
+
+is this your story?
+you like the creative process of developing software, work with the latest greatest technology or perhaps even contributed to it... you have a great education and already some years of experience under your belt at one of those high-profile technology companies.
+still you feel something is missing and you are not part of a story that gets you truly excited. the words cloud, big data or machine learning are in your resume, but more than anything else, you want it to show you are part of something that will make a lasting impact.
+you may be interested in stem! we develop the brains to store and use renewable energy. we obviously are passionate about being part of the clean energy wave... but we are not followers... we have created self-learning software that knows when it is the most economical time to store renewable energy and when to release it again.
+we are excited about renewable energy and help reducing the world’s carbon footprint, but at the same time we have created a commercially successful business with hundreds of organizations, including many fortune 500 companies. our customers are great organizations that try to be responsible with their energy usage. and by using stem, they gain economic benefits at the same time.
+here at stem, we have a great team of software developers; some of us are building a scalable and secure cloud, others enjoy programming iot devices and make them do magic tricks. we also have a team of data scientists who design machine learning software that lets our service make autonomous decisions about storing, releasing and trading energy.
+do you have a story that we should hear, and you feel what we do here at stem is something that will make you passionate too? we are looking forward to meet you and learn if there is an opportunity to have you join our team!
+ 
+about stem
+ 
+stem creates innovative technology services that transform the way energy is distributed and consumed. stem’s mission is to build and operate the largest digitally-connected energy storage network for our customers. 
+our world-class analytics will optimize the value of customer’s energy assets and facilitate their participation in energy markets, yielding economic and societal benefits while decarbonizing the grid. we create automated, price-responsive systems that enable c&i customers to predict and control electricity costs and capture savings in a rapidly-evolving utility landscape. the stem system combines predictive analytics and advanced energy storage with a high-fidelity software user interface. by buffering spikes in energy usage, stem also reduces the impact of the c&i customer on the utility grid and enables better grid citizenship. through innovation in technology and financing, our goal is to optimize the relationships between energy providers and consumers.
+ 
+what is the job?
+as a back-end software engineer at stem, you will be part of the software team that develops cloud based software to:
+
+process large amounts of telemetry data
+operate our energy storage network
+enable integration with our partners
+provide the foundation layers of our cloud stack
+
+
+
+						required skills
+					
+
+
+well-organized and detail oriented personality
+advanced proficiency in python, c++, java or any other modern language that is commonly used in back-end services
+experience writing apis or restful endpoints
+demonstrated competency with sql and nosql data constructs (e.g. dynamodb, hive, presto, mongodb, cassandra)
+experience with distributed message brokers (such as rabbitmq, kinesis, kafka, zeromq) and amqp
+hands-on development in a linux environment
+hands-on experience with agile methodology and working in agile teams.
+working knowledge with popular frameworks: django, ror, spring
+bonus points: experience in designing and implementing micro-services
+bonus points: working knowledge of stream processing frameworks (such as storm) or micro-batch frameworks (such as spark)
+bonus points: familiar with ai or machine learning
+
+
+
+						required experience
+					
+
+
+at least a bachelor’s degree (masters preferred)
+a minimum of 3 years of relevant software development experience
+professional interest in energy and clean technologies
+must be comfortable operating in a fast moving environment where learning must be done quickly
+
+
+
+						job location
+					
+
+						seattle, washington, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+
+
+copyright © 2017 stem, inc. 
+|
+privacy policy
+|
+terms of use
+
+
+
+
+
+
+
+
+
+

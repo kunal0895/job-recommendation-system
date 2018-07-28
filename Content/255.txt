@@ -1,0 +1,144 @@
+
+
+
+
+big fish games careers - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+                                                    big fish games careers                                            
+
+
+
+
+
+
+
+                data engineer
+    
+    
+
+                            business intelligence/analytics            
+                    seattle,
+                            washington
+                
+                        
+
+
+        apply
+        
+
+
+
+
+
+come play!since its founding in 2002, big fish has been the world’s largest producer and distributor of casual games. our titles continuously land us at the top of app store charts. we’re bounding into the mid-core space, exploring new and exciting forms of gameplay, and producing more fun than ever! big fish is home to six individual studios, each with its unique style of gameplay. we’re united under a common goal: to produce and develop the very best in mobile gaming, and bring fun and entertainment to our millions of customers across the globe! the big fish business intelligence engineering team is committed to continuous improvement, both personal and professional. we use agile practices and principles to improve our team and ensure we provide business value while maintaining an excellent work/life balance. we’re excited to be working in the big-data space, and we’re constantly learning new ways of processing and analyzing terabytes of information. to successfully pull this off, we focus on having a culture that is both fun and promotes learning so our team can meet new challenges and have a good time doing it. we want our team members to enjoy what they do from the achievement of acquiring a new set of skills all the way to the satisfaction of completing a project.the missionbig fish is a data-driven company. we’re looking for skilled, passionate and curious individuals who want to have an impact on the way we work. we are seeking a data engineer who can work across a range of technologies and interact with stakeholders and partners across the company. the perfect candidate can apply a breadth of knowledge, deep technical skills, and strategic thinking to build custom data pipelines and business intelligence systems using massively parallel processing technologies.  data engineers at big fish work on a variety of platforms including netezza, sql server, hadoop, and tableau to solve our company’s most significant data challenges and accomplish key strategic business initiatives. we’re looking for effective communicators that like to work in a collaborative team environment. you’ll have the opportunity to play multiple roles, learn lots of new technologies, have direct access to customers, and have a major influence on the business. what we dodesign, implement and maintain our data pipeline - last year we built a real-time streaming pipeline that uses spark to read data from kafka, transform it and write it to hdfswrite elt code to transfer data from hdfs to relational databases to support business analysiscollaborate with our team to build systems on which the business reliescreate automation using scripting technologies to make your job easieruse third-party apis to enrich our in-house datacreate proof of concept applications to demonstrate how our new technologies can add value to the businessyou might be a good fit ifyou’re curious, motivated, comfortable with ambiguity, play well with others and can pick up new technologies quickly. you have experience with or interest in: data warehousing concepts including architecture, infrastructure, etl development and designadvanced sql and query optimizationdesigning and building scalable, maintainable etl for netezza and sql serverwriting code using c# and powershelldata modelingscripting for etl development and automationsupporting self-service tableau reportsdriving up the quality of your team’s code through reviews and feedbacksharing your knowledge with the rest of the teamgetting things done using scrumlearning, learning, and learning
+
+
+
+
+        apply
+        
+
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

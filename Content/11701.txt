@@ -1,0 +1,191 @@
+
+
+
+careers center - ml data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+ml data scientist
+
+
+career locations
+
+us-ma-boston
+
+
+
+
+
+career id
+
+2017-3780
+
+
+career category
+
+qpid
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+qpid health, an evicore company, leverages our deep evidence based knowledge and technology to deliver services and software solutions so healthcare payers and providers can deliver the best quality care. qpid’s natural language processing (nlp) platform coupled with large proprietary healthcare datasets and strategic vision of transforming decision making in healthcare require a state of the art machine learning platform.   we are seeking highly creative and motivated post graduate and/or postdoctoral data scientists with exceptional skills who will complement our growing team.   
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+as a machine learning (ml) data scientist, you will:design, develop, and prototype machine learning and statistical analysis techniques to automate clinical decision making to extract insights at scale from structured and unstructured electronic health record data and other healthcare data sources.design and apply statistical techniques to evaluate and monitor the outcomes of automated clinical decision making at scalehelp evolve qpid’s nlp platform, combining input from clinicians and other domain experts with state of the art nlp techniquesbuild data driven software to translate data into intelligence and help transform the work of clinical decision making and a variety of strategic business problems in healthcare.assists business with causal inferences & observations providing data-driven business insights. 
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+ “can do” attitude; you are biased towards action and ready to speak your mindsignificant machine learning expertise. experience with natural language processing algorithms and tools a plus.experience with a diverse set of computing technologies: python, linux, bash, sql. high proficiency in python and its data science libraries (pandas, scikit-learn etc.) a strong plus. experience in a production software environment a strong plus.experience with big data frameworks (hadoop, spark, etc.) and/or nosql databases a plusexperience with healthcare data a plusexcellent organizational and communication skills 
+
+
+
+
+
+options
+
+apply for this position onlineapplyshareemail this position to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+connect with us!
+
+
+
+
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+evicore healthcare is an equal opportunity employer
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

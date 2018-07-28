@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+app/software developer 3
+
+
+
+
+location
+
+
+or - portland
+
+
+
+
+job code
+
+
+2028
+
+
+
+
+# of openings
+
+
+1
+
+
+
+
+apply now
+talent table is looking for a  app/software developer 3 to work at our client's site in portland, or. this is a 4 months contract position. you must be authorized to work in the united states without sponsorship, no h1b.
+what will you do?
+you will spend every day working with some of the most talented developers in the country to solve some very challenging business problems in our industry. as a part of the ui applications team, your focus will be to develop and deliver business applications for enterprise customers. your fellow team members will be doing the same in other cross-functional project teams, but you will all come together in support of maintaining and maturing our applications and the platform they are built on. and finally, quality is highly important to us so you will embrace a commitment to constantly improving it through the use of code reviews, unit tests, automation, extreme programming, and by working alongside qa.
+what do you need to bring to us?
+• bs degree in computer science or equivalent experience
+• 4+ years experience in advanced javascript developing rich, interactive web applications over rest
+or websockets
+• 3+ years experience in nodejs. ruby or .net are a bonus
+• 3+ years experience using one or more js framework; react, backbone & underscore, angular, or
+similar mvc
+• advanced understanding of html, css (including sass) and an in-depth knowledge of the dom
+• experience with public github or github enterprise
+• enjoy working in an agile development environment with aggressive release schedules
+• excellent communication skills and the ability to work well in a team
+ 
+what we will be extra impressed by
+ 
+• experience in building and deployment of software using jenkins, artifactory, and rundeck
+• strong design skills, attention to pixel-perfect detail, and the ability to turn concepts and sketches into
+beautiful designs
+• embrace a test-first development approach, leveraging unit test tools such as nunit
+• advocate of agile practices and methodologies
+• a personal interest in web technology and a drive for team leadership
+other job information
+this is an individual contributor position working for the manager of application and ui development. this position operates in a high-rise in downtown portland or downtown seattle. travel requirements will be minimal. we offer an exceptional working environment, salary commensurate with experience and an incredible benefits package. candidate must pass a background check.
+must be currently authorized to work in the united states for an indefinite period of time.
+oracle is an equal opportunity/affirmative action employer supporting workforce diversity. all qualified
+applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

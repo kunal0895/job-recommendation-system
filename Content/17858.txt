@@ -1,0 +1,775 @@
+
+
+
+
+
+
+		jr. wordpress & php developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+jr. wordpress & php developer
+consultants – chicago, illinois
+
+
+apply for this job
+
+
+
+
+department
+consultants
+
+
+employment type
+full-time
+
+
+minimum experience
+entry-level
+
+
+
+
+
+
+
+
+
+
+why ccg?
+growth. collaboration. appreciation. at catalyst consulting group, inc. we are pleased to maintain a diverse team of technologists and creatives, and though each member of our team fills a role, any of us are happy to tell you we are not defined by our job titles. working in small groups offers each of us the opportunity to branch out and take on multiple responsibilities. it also allows for us to consistently learn, grow and expand our own skill sets. bouncing ideas off one another and learning from each other is something that happens in the catalyst office every day. and while developing authentic connections with our clients is the foundation of our business, we would not be the company we are today without the strong connections we have built internally.
+we offer great benefits including medical, dental and vision; 401k, short and long term disability, and life insurance; paid vacation, sick pay and paid holidays; company events.
+role specifics
+we have an immediate opening for a jr. wordpress & php developer to join our dev team that builds and maintains client websites. the ideal candidate has a strong analytical sense and attention to detail, as well as a strong work ethic. he or she should be organized and able to follow directions, problem-solve, and work in a fun team environment.  
+you will research, design, build, test, deploy and maintain the company's customer facing production websites. your knowledge of web development combined with programming skill to assist in optimizing the company's current sites, implementing new features and fixing bugs. 
+key responsibilities
+
+use front-end coding (html / css / javascript) to replicate provided website design comps, with close attention to detail 
+managing client websites and keeping them up-to-date
+respond to client requests for website features and support 
+innovate new ideas with our team 
+
+ position requirements:
+
+wordpress general concepts and structure
+good understanding of php frameworks
+experience using jira (or similar project tracking software)
+experience with html, css (sass knowledge is a plus)
+familiarity with managing dns and web hosting
+2+ years css, css3, html, html5, javascript
+using developer tools in the browser
+media queries and responsive design
+general concepts and structures of grid systems
+how to research and solve css puzzles
+
+ bonus skills
+
+wordpress theme and plugin development 
+familiarity with the linux command line
+experience working with aws
+
+knowledge of the following a plus:
+
+jira administration
+linux systems administration skills
+source control (cvs, subversion, git)
+agile/scrum development
+mysql / other databases
+sql
+adobe creative suite
+
+*us citizens and those authorized to work in the u.s. are encouraged to apply. we are unable to sponsor at this time.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+are you 18 years of age or older?
+
+
+
+
+
+
+
+can you present evidence of your legal right to live and work in the u.s.?
+
+
+
+
+
+
+
+have you ever been convicted of a felony? if yes, please state details.
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+chicago, illinois
+
+
+department
+consultants
+
+
+employment type
+full-time
+
+
+minimum experience
+entry-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

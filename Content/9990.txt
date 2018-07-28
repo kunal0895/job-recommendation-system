@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+business intelligence analyst ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ follow us on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+overview
+our culture
+veterans
+living in houston
+nursing careers
+all jobs 
+
+ menu
+
+
+
+
+
+overview
+our culture
+veterans
+living in houston
+nursing careers
+all jobs 
+
+
+
+
+business intelligence analyst iiclick here to apply onlinejob descriptionabout usharris health is a nationally recognized health system comprising three teaching hospitals and an extensive network of ambulatory care centers serving the people of harris county, texas, since 1966.  staffed by the faculty, fellows and residents from two nationally ranked medical schools, baylor college of medicine and the university of texas health science center at houston (uthealth), harris health is the first healthcare system in houston to receive the prestigious national committee for quality assurance (ncqa) designation for its network of patient-centered medical homes.each year, harris health provides more than 1.8 million total outpatient visits through its more than 40 ambulatory care facilities.  additionally, harris health sees more than 177,000 emergency visits at its level 1 and level 3 trauma centers and 35,000 hospital admissions through its three hospitals: ben taub, lbj and quentin mease.established by voter referendum to enhance the level of charity care available in the community, harris health system has often received national recognition for serving those in need and for its achievements in operational excellence, such as being named to the 2011, 2012, 2013 and 2014 most wired hospitals lists by the american hospital association’s hospitals & health networks magazine.additionally, harris health system is pleased that each of its three hospitals — ben taub, lyndon b. johnson and quentin mease — achieved pathway to excellence™ designation by the american nurses credentialing center.job profilejob summary: the business intelligence analyst ii supports system-level analytics activities of a large integrated delivery system. work product directly impacts information delivered to the harris health sytem's board of trustees and commissioners court as-well-as the state of texas and cms (centers for medicare & medicaid services).participates in complex projects and initiatives across the system, which significantly impact business results, and require a large degree of cross-functional participation/coordination.the position supports the implementation of finance information system and works in close collaboration with it business intelligence supporting many of the same or similar projects and deliverables.in concert with it, the position actively contributes, on the finance side, to organizational initiatives in the development of business intelligence (bi) tools.minimum qualifications: education/specialized training/licensure:  bachelor's degree in it, accounting, finance, or related discipline preferred; or four (4) years of business intelligence work-related experience required in lieu of degree.work experience (years and area):  three (3) years' of experience in a senior business analyst capacity.- analysis, design and development of enterprise-class software- experience with data mapping in a data warehousing environment- experience in analyzing source systems and performing data mapping between disparate databases / data sources.  in addition, working experience in performing gap analysis of the production data to validate business requirements.- healthcare experience.management experience (years and area): n/aequipment operated:  knowledge of emr/epic, clarity, sap business object tools (business intelligence), oracle sql, allscripts epsi enterprise analyst and decision support suite, peoplesoft.special requirements: communication skills:above average verbal (heavy public contact)exceptional verbal (e.g., public speaking)writing /composing: correspondence / reportsother skills:analytical, design, mathematics, medical terms, research, statistical deployment, p.c., ms word, ms excel, ms access, project mgmt., prod. support, developmentadvanced education:bachelor's degree major:  bachelor's degree in it, accounting, finance, or related discipline preferred; or four (4) years of business intelligence work-related experience required in lieu of degree.work schedule:  flexibleother requirements: knowledge of state, medicare/ medicaid, and other external regulatory agencies, reimbursement regulations and methodologies.knowledge of decision sciences, cost accounting, finance, benchmark analysis, productivity reporting and delivery of healthcare services.demonstrated detailed understanding of data and processing of data.knowledge of the generally accepted coding standards and technical architectures.ability to understand clinical and operational needs from a technical and financial perspective.ability to motivate/lead teams to produce quality materials within tight timeframes and simultaneously manage several projects. expert at facilitating group meetings.demonstrated organizational and time management skills.ability to analyze, report, and develop recommendations.excellent verbal and written communication skills, to include presentation skills to upper management.attention to detail. problem solving skills.customer service skills.proficient in all ms office applications; demonstrated advanced functionality of excel, access, and sql-based repositories.benefits and eeocharris health system benefits program is designed to provide you with more flexibility and choices in meeting your specific needs.  harris health system benefits program allows you to protect your income in case of illness, death and disability, and to help you save for retirement.it is the policy of harris health system to provide equal opportunity for all applicants for employment regardless political affiliation, race, color, national origin, age, sex, religious creed or disability.  applicants may request any reasonable accommodation(s) to participate in the application process.  job categoryinformation technologyapplication instructionsplease click on the link below to apply for this position. a new window will open and direct you to apply at our corporate careers page. we look forward to hearing from you! apply onlineclick here to apply onlineshare this jobxshare this pagebusiness intelligence analyst iishare link. copy this url: email directrecipient's email address*your email address*additional note (optional)your email has been sent!send another message | close this windowview mapposted: 12/1/2017job status: full timejob reference #: 140382
+
+
+
+
+
+the hiring process at harris health system may include completion of an online application, interview, written test, or job demonstration. if you are an individual with a disability and require assistance during the hiring process, this
+                can be requested by sending an email to talentacquisition@harrishealth.org.
+
+
+
+
+
+
+
+don't see a job for you?
+join our talent community to be considered for future roles.
+join now ›
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career sites by recruiting.com
+
+
+
+
+
+
+
+
+\r');
+      } else {
+        var script = document.createelement('script');
+        script.src = src;
+        script.async = false;
+        document.head.appendchild(script);
+      }
+    });
+  }([
+    
+    'https://maps.googleapis.com/maps/api/js?key=aizasyayc0juubxmlbqdvf4cb3jiektwfwobxbe',
+    
+    
+    'https://d2i2zd9axwkr7h.cloudfront.net/career-sites/9070b4736fea1716e880b839cdaac7cdd808329b/index_bundle.js'
+  ]));
+
+
+  
+

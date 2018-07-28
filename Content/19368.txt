@@ -1,0 +1,23 @@
+javascript web developer at nagrastarjavascript web developerenglewood, cofull-timeux teamjob openingsjavascript web developer%button_apply_to_position% apply using linkedinwho we are
+nagrastar llc is a joint venture between dish network and kudelski sa. nagrastar’s main focus is delivering security solutions for satellite-based television systems, as well as supporting those systems.
+the ux team at nagrastar is a specialized group which primarily focuses on building interactive applications for use on televisions. our ux team is responsible for improving and maintaining the user experience for pay tv customers, from end (server) to end (client). the goal for the team is to provide high-quality single-page applications utilizing javascript in an agile environment. we build new applications from the ground up, implement new features for existing applications as necessary, all while keeping both security and performance of the applications at the forefront.
+your impact
+as a member of the nagrastar ux team, you will contribute by building new single-page applications and features, and fixing any defects within those applications alongside our team of developers and qa engineers. you will have the opportunity to solve challenging technical issues, contribute to the architecture and success of new systems and processes, and hone your coding skills as you collaborate with the development team.
+basic requirements
+
+design, implement, test, and ship features that will reach hundreds of thousands of daily users
+have a passion for quality and writing clean, solid, readable code that performs well
+adopt, embrace, and promote agile practices within the team
+participate and promote architectural initiatives, balancing long-term value with short-term needs
+perform code reviews, follow the development team's development process (or suggest new processes!), and assist development and qa engineers as necessary
+posses an ownership mentality for the projects being developed and a team-first attitude
+
+preferred requirements
+
+bachelor's degree in computer science, engineering, or a related technical field
+at least (3) years of general front-end development experience
+at least (2) years of single-page application development experience using javascript (react or backbone is a plus)
+experience building keyboard or remote control driven interfaces
+experience building 10-foot user interfaces
+
+%button_apply_to_position%%footer_powered_by%breezy

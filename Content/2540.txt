@@ -1,0 +1,815 @@
+
+
+
+
+
+data and document collaboration engineer - vp at citi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+citigroup.com
+alumni
+
+language
+
+english
+español
+francais du canada
+português
+polski
+русский
+繁體中文
+日本語
+magyar
+简体中文
+
+
+
+
+
+
+open main navigation menu
+
+search & apply
+working here
+
+our people
+our locations
+diversity
+innovation
+our brands
+
+
+university programs
+
+find a program
+events
+
+
+resources
+
+faq
+career advice
+featured news
+banking basics
+mobile app
+
+
+create/manage profile
+
+careers/recent graduate profile
+university programs profile
+
+
+
+
+
+your journey with citi begins here
+
+
+
+
+
+
+advanced search
+
+search jobs
+
+
+
+
+
+
+
+category
+select
+accounting
+administration
+analyst
+anti money laundering
+application development
+architect
+audit
+banker
+banking
+bilingual
+branch manager
+bus strategy, planning & admin
+business analysis
+business banking
+business management
+business management and admin
+capital markets origination
+citibank
+citifinancial
+citigold
+commercial and business sales
+commercial banking
+commodities
+comms & external relations
+communications, community relations & investor relations
+compliance and control
+compliance, risk, audit & legal
+consumer banking
+consumer sales
+controller
+corporate banking
+corporate services
+credit
+cross-functional management
+customer service
+decision management
+diversity
+documentation and information management
+equities
+expense management
+facilities
+finance
+financial reporting
+global transaction services
+home lending
+human resources
+implementation
+incident management
+institutional banking
+institutional client service
+institutional sales
+investment banking
+investment consultant
+investment management
+learning and development
+legal
+management development programs
+marketing
+markets and securities services
+mortgage
+operations
+operations - core
+operations - services
+operations credit ops
+operations customer service
+operations-collection defaults
+personal banking
+private banking
+private client coverage
+private client product mgmt
+private client sales
+procurement
+product management
+program/project management
+programming
+project and program management
+quantitative analysis
+relationship management
+research
+retention
+risk management
+sales
+security
+specialized programs
+technology
+teller
+trading
+transaction processing
+treasury and trade solutions
+underwriter
+wealth management
+
+
+
+world region
+select
+asia pacific
+europe, middle east, and africa
+latin america
+north america
+
+
+
+country
+select
+algeria
+australia
+austria
+bahamas
+bahrain
+bangladesh
+brazil
+cameroon
+canada
+china
+colombia
+costa rica
+czech republic
+denmark
+dominican republic
+ecuador
+el salvador
+france
+germany
+guatemala
+haiti
+honduras
+hong kong
+hungary
+india
+indonesia
+ireland
+israel
+ivory coast
+japan
+jersey
+jordan
+malaysia
+mexico
+morocco
+netherlands
+nigeria
+norway
+pakistan
+panama
+peru
+philippines
+poland
+puerto rico
+qatar
+romania
+saudi arabia
+singapore
+south africa
+south korea
+sweden
+switzerland
+taiwan
+thailand
+turkey
+united arab emirates
+united kingdom
+united states
+uruguay
+venezuela
+vietnam
+
+
+
+state/province
+select
+abu dhabi
+aguascalientes
+ar riyāḑ
+arizona
+baja california sur
+baladīyat ad dawḩah
+bangkok
+beijing shi
+bogota d.c.
+bucurești
+budapest főváros
+california
+capital region
+central java
+central luzon
+central singapore
+chihuahua
+colima
+colorado
+connecticut
+daerah khusus ibukota jakarta
+delaware
+departamento de francisco morazán
+departamento de guatemala
+departamento de san salvador
+district of columbia
+dubai
+england
+estado de baja california
+federal district
+florida
+gauteng
+geneva
+georgia
+guanajuato
+guangdong sheng
+guerrero
+gujarat
+haryana
+hesse
+hidalgo
+hlavní město praha
+ho chi minh city
+idaho
+île-de-france
+illinois
+indiana
+istanbul
+jalisco
+johor
+karnataka
+kentucky
+kuala lumpur
+lagos
+lagunes
+leinster
+lesser poland voivodeship
+liaoning sheng
+lima
+littoral
+łódź voivodeship
+lublin voivodeship
+maharashtra
+manama
+maryland
+masovian voivodeship
+massachusetts
+michigan
+missouri
+nacional
+national capital region
+nct
+new jersey
+new south wales
+new york
+north carolina
+north holland
+northern ireland
+nuevo león
+ohio
+ontario
+oslo county
+penang
+pomeranian voivodeship
+provincia de heredia
+provincia de pichincha
+provincia de san josé
+puebla
+quebec
+queensland
+querétaro
+région du grand casablanca
+são paulo
+selangor
+seoul
+shanghai shi
+sichuan sheng
+silesian voivodeship
+sinaloa
+sindh
+sonora
+south carolina
+south dakota
+state of jharkhand
+stockholm
+taipei
+tamaulipas
+tamil nadu
+tel aviv
+tennessee
+texas
+tỉnh hà nam
+utah
+uttar pradesh
+victoria
+virginia
+warmian-masurian voivodeship
+washington
+west bengal
+western australia
+wilaya d’ alger
+zhejiang sheng
+zurich
+
+
+
+city
+select
+abidjan
+abu dhabi
+agoura hills
+ahmedabad
+alameda
+algiers
+amsterdam
+anaheim
+arlington
+atlanta
+austin
+baja california
+bay shore
+beijing
+belfast
+bengaluru
+benito juarez
+bethesda
+beverly hills
+binghamton
+boca raton
+bogotá
+bogota d.c., colombia
+boise
+boston
+boynton beach
+brisbane
+bronx
+brooklyn
+bucharest
+budapest
+buffalo
+burbank
+burlingame
+calcutta
+carmichael
+casablanca
+castro valley
+central islip
+chatswood
+chengdu
+chennai
+chicago
+chihuahua
+chino hills
+chula vista
+city of industry
+columbus
+copenhagen
+costa mesa
+covina
+cuauhtémoc
+culiacán
+cupertino
+dalianwan
+dallas
+daly city
+danville
+darien
+deerfield beach
+delhi
+denver
+doha
+douala
+downey
+dubai
+dublin
+el monte
+elk grove village
+elmhurst
+encino
+ensenada
+escondido
+evanston
+fairfield
+faridabad
+federal district, mexico
+federal district, mexico
+floral park
+florence
+flushing
+fontana
+forest hills
+fort lauderdale
+fort lee
+fort mill
+fountain valley
+frankfurt am main
+fremont
+fresno
+garden city
+gdańsk
+geneva
+george town
+glendora
+glenview
+gray
+guangdong sheng, china
+guangzhou
+guatemala city
+gurgaon
+hà nội
+hagerstown
+hangzhou
+hastings-on-hudson
+hayward
+heredia
+hermosa beach
+hermosillo
+highland park
+ho chi minh city
+hoboken
+hollywood
+houston
+huntington beach
+huntington park
+igualapa
+indianapolis
+inglewood
+irving
+istanbul
+jacksonville
+jakarta
+jersey city
+johannesburg
+johor bahru
+kanpur
+kansas city
+karachi
+katowice
+krakow
+la cañada flintridge
+la jolla
+la paz
+lagos de moreno
+laguna niguel
+león
+lindenhurst
+london
+long beach
+long beach
+long island city
+los angeles
+mamaroneck
+manama
+manila
+manzanillo
+marina del rey
+melbourne
+melville
+mexico city
+miami
+miami beach
+miguel hidalgo
+milpitas
+mineola
+miramar
+mission viejo
+mississauga
+modesto
+monterrey
+morgan hill
+mountain view
+mumbai
+napa
+naperville
+new castle
+new york
+newark
+newark
+newark
+noida
+north hills
+north hollywood
+northridge
+oakbrook terrace
+oakland
+ocotlán
+o'fallon
+o'fallon township
+orlando
+oslo
+pachuca
+pacific palisades
+palm beach
+palo alto
+paramus
+paris
+perth
+port hueneme
+poway
+poznań
+prague
+puebla
+pune
+quebec, canada
+queens
+querétaro, mexico
+quito
+ranchi
+redlands
+redwood city
+richmond
+riverside
+riyadh
+roanoke
+rockville
+rockville centre
+roy
+rutherford
+sacramento
+san antonio
+san carlos
+san diego
+san fernando
+san francisco
+san gabriel
+san isidro
+san jose
+san josé
+san marcos
+san mateo
+san pedro
+san rafael
+san salvador
+santa clara
+santa monica
+santo domingo
+são paulo
+schaumburg
+semarang
+seoul
+shah alam
+shanghai
+sherman oaks
+simi valley
+singapore
+sioux falls
+skokie
+somers
+south gate
+stamford
+staten island
+stockholm
+sunnyvale
+sydney
+tacoma
+taipei
+tampa
+tampico
+tegucigalpita
+tel aviv
+tijuana
+tinley park
+toronto
+tucson
+tujunga
+tustin
+union city
+uniondale
+van buren township
+van nuys
+warmian-masurian voivodeship, poland
+warren township
+warsaw
+washington
+west bengal, india
+westbury
+westchester
+weston
+westport
+white plains
+wilmington
+woodland hills
+zurich
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+match your skills
+let us search jobs for you based on the skills and experience listed in your linkedin™ profile.
+
+
+start matching
+
+
+
+career opportunity
+apply now
+data and document collaboration engineer - vp
+
+
+
+primary location: united states,texas,irvingeducation: bachelor's degreejob function: technologyschedule: full-timeshift: day jobemployee status: regulartravel time: yes, 10 % of the timejob id: 17079541descriptioncontribute to cate citiuser strategic efforts on enterprise collaboration platform product evaluations, certifications and/or production implementation projects and tasks as assigned. own product spaces as assigned including creation/maintenance of technology development life cycle (tdlc) deliverables on new and/or existing product spaces assigned; project management and support relevant to this spaces such as, organization and communication of project plans, efforts/engagements/tasks relating to product evaluations, testing, certifications, issue resolution, systems implementations and delivery of supporting and/or required documentation as applicable. these efforts often involve partnerships with internal and external (e.g. vendor) stakeholders, cti operations (cross functional teams) and thus requires leading these parties towards business and engineering goals for the product space as directed by stakeholders and management. qualifications5 years plus of expertise in sharepoint, jive, ibm connections, intralinks, and cloud/hybrid collaboration architectures and integrations with aws, google and microsoft. • 5 years expertise in power shell and vb scripting • in depth knowledge of enterprise data center services and architectures (e.g. networking load balancers, enterprise backups, anti-virus platforms, active directory/ldap, etc.) • in depth knowledge of client-server architectures (e.g. abililty to troubleshoot and/or design and implement client side solutions for communicating with and/or leveraging server side file storage, share and collaboration services including mobile clients; with expert knowledge of security and communication/encryption protocols used) 
+
+
+
+apply now
+
+
+
+
+
+
+
+connect with us
+
+
+
+
+connect with us on facebook
+
+
+
+
+connect with us on twitter
+
+
+
+
+connect with us on instagram
+
+
+
+
+connect with us on youtube
+
+
+
+
+connect with us on linkedin
+
+
+
+
+connect with us on glassdoor
+
+
+
+
+connect with us on our mobile app
+
+
+
+
+
+
+
+
+terms of use
+careers at citi privacy policy
+additional terms
+accessibility
+sitemap
+
+
+
+
+ citi is an equal opportunity and affirmative action employer. minority/female/veteran/individuals with disabilities/sexual orientation/gender identity.
+citigroup inc. and its subsidiaries ("citi”) invite all qualified interested applicants to apply for career opportunities. if you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity - click here.
+to view the "eeo is the law" poster, click here. to view the eeo is the law supplement, click here.to view the eeo policy statement, click here.to view the pay transparency posting, click here.
+
+
+follow us:
+
+follow us on rss
+follow us on facebook
+follow us on twitter
+follow us on youtube
+follow us on linkedin
+follow us on google+
+follow us on instagram
+
+© 2017 citigroup inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,751 @@
+
+
+
+
+      career
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+features
+
+
+pricing
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+sign up
+
+
+login
+
+
+
+
+
+
+
+
+
+
+features
+
+
+premium
+
+
+pro
+
+
+pricing
+
+
+contact
+
+
+
+
+
+
+      your information saved successfully.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            open positions
+          
+
+            engineering
+          
+
+
+
+              software engineer (san francisco)
+              
+
+
+
+              ios engineer (san francisco)
+              
+
+
+
+              android engineer (san francisco)
+              
+
+
+
+              telephony/network engineer (san francisco)
+              
+
+
+
+              interaction designer (san francisco)
+              
+
+
+
+            product
+          
+
+
+
+              product manager, business, analytics, and metrics (san francisco)
+              
+
+
+
+            restaurant & community relations
+          
+
+
+
+              platform evangelist / community manager (san francisco)
+              
+
+
+
+              platform evangelist / community manager (new york)
+              
+
+
+
+              platform evangelist / community manager (boston)
+              
+
+
+
+              platform evangelist / community manager (dallas/austin)
+              
+
+
+
+              platform evangelist / community manager (chicago)
+              
+
+
+
+              platform evangelist / community manager (seattle)
+              
+
+
+
+              platform evangelist / community manager (miami)
+              
+
+
+
+              platform evangelist / community manager (los angeles)
+              
+
+
+
+            other
+          
+
+
+
+              manager, business development (san francisco)
+              
+
+
+
+              inside sales (any location)
+              
+
+
+
+
+
+
+
+
+            nosh is changing the way in which restaurants operate their dining rooms and interact
+            with their diners.
+            
+            we're a small team obsessed with using big data to improve
+            operational efficiencies, drive revenues, and elevate the dining experience in the
+            most cost effective way possible. at our core we are a passionate above all else
+            about what we do. we love our restaurant partners and they love the industry
+            defining ways in which we are innovating the restaurant technology space.
+            think of nosh like an iceberg, what you see is only 10% of what we've got
+            going on. so if you're interested in the problems our products are already
+            solving, you're going to love what we've got planned. interested? check out
+            the open positions below and send us a note. we'd love to hear from you.
+          
+
+
+
+
+            perks
+          
+
+
+              flexible vacation policy
+            
+
+              complete medical/dental benefits
+            
+
+              choose your setup (monitor, laptop, etc.)
+            
+
+              ipad for all new employees
+            
+
+
+
+        softwareengineer
+        
+
+
+
+
+
+            software engineer
+          
+
+            we're looking for awesome software engineers who want to build the future of restaurant technology. we 
+            have to work to do across the system: frontend web design in css/js/html; web backend in python 
+            on appengine; mobile apps for ios and android; and telephony backend in c, c++ and python. we're 
+            looking for engineers who are excited to help with each of those, whether they're fresh out of school and 
+            looking to learn, a long-time veteran, or somewhere in between. our engineers play a key role in product
+            development, from concept to launch, so be ready to bring your creative ideas to the table.
+            
+            here's what we're looking for:
+          
+
+
+              a solid foundation in computer science, with strong competencies in data structures, algorithms, 
+              and software design
+            
+
+              discipline to build things the right way, and test them
+            
+
+              always looking for feedback on how to work better
+            
+
+              able to communicate cross-discipline: you can help a designer or product person understand the technical trade-offs of your work
+            
+
+              highly effective without a lot of direct supervision and handholding
+            
+
+              gets stuff done: smart, hardworking, self-motivated, the usual
+            
+
+              as a bonus, we love to see open source contributions or side projects you've built on your own
+            
+
+
+          apply
+          
+
+          iosengineer
+          
+
+
+
+            ios engineer
+          
+
+            nosh is seeking an experienced ios developer to join our mobile engineering team. our ios developers 
+            are responsible for keeping our products simple and making our users faster and smarter by giving them 
+            seamless experiences. at nosh we value design, user experience, and accuracy. if it's not beautiful, 
+            reliable, and magical, we won't ship it. we're looking for people who share our values, particularly if 
+            you have the passion to simplify the world of mobile. in addition to the software engineer requirements 
+            above, you have:
+          
+
+
+              experience releasing at least one application into the app store
+            
+
+              experience building applications in memory- and network-constrained scenarios
+            
+
+              fluency with objective-c and cocoa
+            
+
+              knowledge of cutting-edge ios technologies
+            
+
+
+          apply
+          
+
+          androidengineer
+          
+
+
+
+            android engineer
+          
+
+            want to help us build the next generation of our android applications? nosh is hiring passionate android 
+            developers to re-invent the world of mobile. as part of nosh's mobile engineering team you will help 
+            architect, build, iterate and manage our broad set of mobile application and website products. we value 
+            design, user experience, and accuracy. if it's not beautiful, reliable, and magical, we won't ship it. in 
+            addition to the software engineer requirements above, you have:
+          
+
+
+              experience releasing at least one application into the android market
+            
+
+              experience building applications in memory- and network-constrained scenarios
+            
+
+              solid understanding of the intricacies of the android platform
+            
+
+              knowledge of java language and related frameworks
+            
+
+
+          apply
+          
+
+          telephonyoperations
+          
+
+
+
+            telephony/network engineer
+          
+
+            looking for a telephony / network engineer who loves troubleshooting complex issues involving multiple 
+            protocols, languages and processes. must have super sharp analytical skills and an ability to learn on the 
+            fly. logical reasoning is key in this role. here's what we're looking for:
+          
+
+
+              linux shell
+            
+
+              voip protocols
+            
+
+              general networking
+            
+
+              sql
+            
+
+              scripting languages
+            
+
+              general system administration
+            
+
+              log analysis
+            
+
+              open source voip platforms
+            
+
+
+          apply
+          
+
+          interactiondesigner
+          
+
+
+
+            interaction designer
+          
+
+            we are looking for highly motivated and skilled interaction designers to join our team. we are tackling 
+            a big problem and are looking for someone with a history of architecting intuitive and effective user 
+            experiences and flows. we care deeply about design and are looking for someone who shares our 
+            obsession with elegant interfaces and delightful user experiences.
+            
+            here's what we're looking for:
+          
+
+
+              experience designing user interactions for complex, interactive web/mobile applications.
+            
+
+              fluency in best practices for web/mobile information architecture and design.
+            
+
+              experience using analytics and data to inform design decisions and improve products iteratively.
+            
+
+              experience working closely with product managers, visual designers, and engineering teams.
+            
+
+              experience managing multiple projects, and thriving in fast-paced, startup environments.
+            
+
+              ability to rapidly visualize/prototype concepts.
+            
+
+              exceptional creativity and willingness to push the boundaries of interaction design.
+            
+
+              must possess an online portfolio with a range of interactive samples (sites, mobile apps, etc).
+            
+
+
+          apply
+          
+
+          productmanager
+          
+
+
+
+            product manager, business, analytics, and metrics
+          
+
+            like big data? in this role, you will work with a team of top notch engineers to make sense of user data, 
+            empower our salesforce, and extend our platform through partnerships. with millions of diners seated and 
+            thousands of restaurants we generate a ton of data. in this role, you will build systems to make this data 
+            more useful and accessible for reporting, analysis, and monitoring. you will also work with our business 
+            development and sales teams to figure out ways to make their efforts more effective and productive by 
+            refining their tools and surfacing key metrics. here's what we're looking for:
+          
+
+
+              cs or similar degree so you can effectively communicate with our engineering team.
+            
+
+              cognitive ability to figure out complex problems and constantly think about how to refine 
+              processes.
+            
+
+              significant experience building beautiful app/sites/products that are as much intuitive as they are 
+              beneficial to the end user.
+            
+
+
+          apply
+          
+
+          platformevangelist
+          
+
+
+
+            platform evangelist / community manager
+          
+
+            are you a foodie? do you know all about the hottest local restaurants? when you walk into a restaurant, 
+            do you engage with the staff beyond the basic "hello" or "table for three"? do you love meeting new 
+            people? do you hate too many questions? noshlist is the industry leading free ipad waitlist app that 
+            text and calls diners when their table is ready using proprietary telephony technology. if you've ever 
+            used google voice (aka the most prominent voip service in the world) you're already familiar with our 
+            work. officially launched in february 2012, noshlist has been implemented in thousands of restaurants 
+            and seated millions of diners in it's short tenure. additionally we have a consumer facing application 
+            nosh, which is pre-loaded with over 18 million menu items for finding "what's good here" everywhere 
+            you go, rating, reviewing, and sharing what you eat with your friends. to date we have over 2 million unique
+            dish-level reviews too. currently we are looking for restaurant-centric people to help cultivate 
+            major markets across the country, identify key restaurants for noshlist, and establish connections with 
+            diners to promote the use of our consumer application, nosh. this includes meeting with restaurateurs, 
+            throwing nosh-ups (parties) for fellow foodies at noshlist restaurants, and being the catalyst in making 
+            paper wait-lists obsolete and nosh the most prominent front-of-house technology platform in the country. 
+            if you're interested in helping to bring the nosh platform to your city and representing the nosh product 
+            suite in your city, we'd love to talk. did we mention our apps are free? here's what we're looking for:
+          
+
+
+              someone passion about the restaurant industry and tied in with influencers within your local 
+              restaurant community; experience working in a full-service restaurant is a must. no exceptions.
+            
+
+              must have the ability to identify decision makers within applicable restaurants establishing a 
+              pipeline of restaurant partners (i.e. high traffic, full service, non-to-light reservation based).
+            
+
+              meet standard weekly download goals as well as individual quotas, manage the entire process 
+              planning and scheduling face-to-face demonstrations and helping to onboard new accounts.
+            
+
+              influence and build relationships as a representative of nosh at applicable industry events.
+            
+
+
+          apply
+          
+
+          manager
+          
+
+
+
+            manager, business development
+          
+
+            like in any industry, relationships in the restaurant industry hold the keys to success. as a manager 
+            within the business development function of nosh, you will be responsible for cultivating and nurturing 
+            the relationships that drive the success of our product and future of the company. in this role you will work 
+            directly with the executive team to identify key contacts and develop key strategic initiatives to secure 
+            future partnerships. here's what we're looking for:
+          
+
+
+              4+ years in business/corporate development with a proven track record of establishing 
+              relationships, closing deals, and expanding partnerships.
+            
+
+              comfort and past success penetrating medium to large restaurant groups.
+            
+
+              proven history of success in complex negotiations, establishing relationships with various new 
+              partners.
+            
+
+              abnormally strong interpersonal skills, a desire to build something, and passion for the restaurant 
+              industry above all else.
+            
+
+              background, experience, and deep knowledge of the full-service restaurant industry. no exceptions.
+            
+
+
+          apply
+          
+
+          inside sales
+          
+
+
+
+            inside sales (any location)
+          
+
+            restaurants love noshlist, however, getting the message out isn't always easy. as an inside
+            sale representative, it's your job to put noshlist on the map. inside sales reps
+            must possess keen sales, account management, and problem-solving qualities.
+            a track record of success selling into smbs and excellent communication skills
+            are absolutely essential. here's what we're looking for:
+          
+
+
+              ability to plan and schedule meetings and demonstrations with restaurant decision makers
+            
+
+              no fear selling attitude capable of cold calling restaurants and identifying key decision makers
+            
+
+              experience in managing the entire sales process
+            
+
+              at least 2 years of experience selling to restaurants or similar industries
+            
+
+              track record of consistently meeting or exceeding sales goals
+            
+
+              strong sales and negotiating skills
+            
+
+              excellent written and verbal communication skills
+            
+
+              ability to work independently
+            
+
+              affinity for working in active and constantly evolving environments
+            
+
+              ability to cultivate strong relationships with restaurant owners/chefs/gms
+            
+
+              passion for the restaurant industry, technology, and helping business owners run better businesses
+            
+
+              bachelor's degree or equivalent
+            
+
+
+          apply
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the simplest waitlist app. ever.
+
+
+
+
+company
+
+
+features
+pricing
+about
+
+
+
+
+apps
+
+
+ipad & iphone
+android
+web
+
+
+
+
+
+
+
+
+
+help
+
+
+faq
+contact
+terms
+privacy
+
+
+
+
+news
+
+
+press
+blog
+twitter
+facebook
+
+
+
+
+
+
+
+&copy waitlist me, inc. 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

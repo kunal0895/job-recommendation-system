@@ -1,0 +1,489 @@
+
+
+
+        web application developer (remote/az) -        omnitec solutions, inc. -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        thank you very much for taking time to review our employment opportunities. we are in search of motivated & passionate people who love what they do and desire challenging work!as our company has grown, so have the people who have chosen to continue their careers with omnitec. over 42% of our employees have chosen to stay with us for more than five years. this high percentage speaks volumes about employee satisfaction, especially in an environment where recruiters regularly reach out to skilled experts like ours.for more information about omnitec solutions, inc., please visit our web site via the "view our website" link at the top right of this page or https://www.omnitecinc.com. omnitec solutions, inc., is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, disability, gender, gender identity, marital status, national origin, race, religion, sexual orientation, veteran status or any other characteristic protected by law.    
+
+
+
+web application developer (remote/az)
+
+
+phoenix, az                    
+
+full time                
+
+dma                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web application developer
+alternate job title: web developer
+work location: telecommute/remote, but must reside local to phoenix metro area.
+help support some of the most visible web sites in the world!
+job description
+omnitec solutions, inc., ( http://www.omnitecinc.com ) provides a variety of robust web solutions to the federal government and the department of defense. 
+we’re looking for someone passionate about web development, specifically using asp.net, c#, and sql, while also skilled in client-side development, using html, css, javascript, and bootstrap.
+quick note #1: this position requires us citizenship and an active secret clearance or the ability to immediately obtain an interim secret. if you are a us citizen and clearable, this is a great opportunity to be sponsored for your clearance!
+quick note #2: we can only consider candidates currently living in the phoenix, az metro area who can telecommute and make regular team meetings held in the phoenix, az area (85382). 
+you will be part of a dynamic team providing application development for some of the most visible web sites in the world, including:
+http://www.af.mil;
+http://www.navy.mil;
+http://www.defense.gov;
+http://www.marines.mil, and
+http://www.usace.army.mil/.
+duties and responsibilities
+omnitec solutions has supported this client for 12+ years. this is a long-term contract with substantial opportunity for growth and stability. the scope of this contract is an end-to-end, or "turn-key" solution, meaning all development and infrastructure support is provided and managed by omnitec solutions.
+this provides our developers, system engineers & administrators, and technical support professionals a level of flexibility, impact, career development not available when these services are separated by different contractors.
+required skills
+
+bachelor’s degree in computer science or a related degree. a passion for cutting-edge technology;
+3+ years of professional software development experience;
+strong communications skills;
+computer science fundamentals in object-oriented design, data structures, algorithm design, problem solving, etc;
+proficiency in asp.net using c# and microsoft sql server;
+us citizenship and either an active secret clearance or the ability to immediately obtain an interim secret.
+
+helpful skills
+
+sharp analytical abilities;
+knowledge of agile methodologies, coding standards, source control management, build processes, and testing;
+experience building web applications, widgets, or other interactive experiences;
+experience with css, html5, json, ajax, jquery, and bootstrap;
+experience using a content management system;
+experience with dotnetnuke;
+experience with git/github.
+comptia security+.
+
+please apply directly via this job posting or visit "careers" on our web site: http://www.omnitecinc.com
+omnitec solutions, inc., is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, disability, gender, gender identity, marital status, national origin, race, religion, sexual orientation, veteran status or any other characteristic protected by law.
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+who referred you to this position?
+
+
+
+linkedin profile url:
+
+
+
+website, blog or portfolio:
+
+
+
+earliest start date?*
+
+
+
+please verify you currently reside in/around the phoenix, az area, can work remotely, and also make occasional team meetings in the local phoenix area.*
+-- no answer --yes i reside in/around the phoenix, az area, can work remotely, and also make occasional team meetings in the local phoenix areano, i do not reside near phoenix, az, and i'm looking to work remote from another area 
+
+this contract requires a us citizenship and either an active security clearance (secret) or the ability to pass the background investigation to obtain a clearance. please select the most relevant answer:*
+-- no answer --i am a us citizen with an active security clearancei am a us citizen with an expired clearance within the last 24 monthsi am a us citizen with an expired clearance, but the ability to pass the background investigation to re-obtain a clearancei am a us citizen able to pass a background check to obtain a clearancei am a us citizen, but i am not sure if i am eligible for a security clearancei am not a us citizen 
+
+if you were to make a job change, when can you accept & start a new job?*
+ 
+
+what is the main reason you would leave or have left your current position?*
+ 
+
+are you comptia "security+" certified?*
+-- no answer --yesno 
+
+in 3-4 brief comments, how would you highlight your development capabilities with .net, c#, and sql server?*
+ 
+
+if applicable, please provide a few comments highlighting your experience providing application development support for web based solutions with rich multi-media and/or content management/knowledge management tools (please enter "none" if applicable):*
+ 
+
+please provide a few comments highlighting how your web development/programming experience and capabilities align to the required skills and job duties outlined in the position description.*
+ 
+
+upon request, can you provide work or code samples?*
+-- no answer --yesno 
+
+to help our project team best determine your level of suitability to this specific position, we would appreciate it if you would verify your current/most recent annual salary or hourly rate:*
+ 
+
+we would also appreciate it if you would verify the annual salary or hourly rate you will consider for this opportunity:*
+ 
+
+the following questions are entirely optional.
+
+                        to comply with government equal employment opportunity / affirmative action reporting regulations, we are requesting (but not requiring) that you enter this personal data. this information will not be used in connection with any employment decisions, and will be used solely as permitted by state and federal law. your voluntary cooperation would be appreciated. learn more.
+                    
+
+
+
+gender
+
+decline to answerfemalemale
+
+ 
+
+
+race/ethnicity
+
+decline to answerwhite (not hispanic)african american/black (not hispanic)hispanic/latinoasianpacific islanderamerican indiannative alaskannative hawaiianmulti-racial
+
+ 
+
+
+
+invitation for job applicants to self-identify as a u.s. veteran
+
+
+a “disabled veteran” is one of the following:
+                                        
+a veteran of the u.s. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the secretary of veterans affairs; or
+a person who was discharged or released from active duty because of a service-connected disability.
+
+
+a “recently separated veteran” means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the u.s. military, ground, naval, or air service.
+an “active duty wartime or campaign badge veteran” means a veteran who served on active duty in the u.s. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the department of defense.
+an “armed forces service medal veteran” means a veteran who, while serving on active duty in the u.s. military, ground, naval or air service, participated in a united states military operation for which an armed forces service medal was awarded pursuant to executive order 12985.
+
+
+
+
+veteran status
+
+ i identify as one or more of the classifications of protected veteran listed above i am not a protected veteran i don’t wish to answer
+		
+
+
+
+voluntary self-identification of disability
+
+                                voluntary self-identification of disability form cc-305
+                                omb control number 1250-0005
+                                expires 1/31/2020
+                            
+
+why are you being asked to complete this form?
+
+because we do business with the government, we must reach out to, hire, and provide equal opportunity to qualified people with disabilities.i to help us measure how well we are doing, we are asking you to tell us if
+                                    you have a disability or if you ever had a disability. completing this form is voluntary, but we hope that you will choose to fill it out. if you are applying for a job, any answer you give will be kept private and will not be used against you in any way.
+if you already work for us, your answer will not be used against you in any way. because a person may become disabled at any time, we are required to ask all of our employees to update their information every five years. you may voluntarily self-identify as having a disability on this form without fear of any punishment because you did not identify as having a disability earlier.
+
+
+how do i know if i have a disability?
+
+
+you are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+
+please check one of the boxes below:
+
+
+
+
+                                                yes, i have a disability (or previously had a disability)                                            
+
+
+                                                no, i don’t have a disability                                            
+
+
+                                                i don’t wish to answer                                            
+
+
+
+
+you must enter your name and date
+
+
+
+
+
+
+
+your name
+today's date
+
+
+
+
+
+reasonable accommodation notice
+
+
+federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. please tell us if you require a reasonable accommodation to apply for a job or to perform your job. examples of reasonable accommodation include making a change to the application process or work procedures,
+                                    providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+
+isection 503 of the rehabilitation act of 1973, as amended. for more information about this form or the equal employment obligations of federal contractors, visit the u.s. department of labor's office of federal contract compliance programs (ofccp) website at www.dol.gov/ofccp. 
+
+public burden statement: according to the paperwork reduction act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

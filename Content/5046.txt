@@ -1,0 +1,245 @@
+
+
+rocket software careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+homecareersabout rocket softwarehelpful hints for applicants
+
+
+
+ 
+
+
+search current openingsupdate your profilecreate a job agentupdate job agent
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					machine learning intern (summer 2018)
+				
+
+
+						tracking code
+					
+
+						1081-509 
+					
+
+						job description
+					
+
+the emerging technology research team at rocket is looking for a passionate machine learning engineer to help us implement and deploy advanced analytic models that enable the intelligence for an enterprise scale real-time cognitive feedback engine.  you will work on building, publishing and measuring machine learning models for enterprise it to analyze, predict faults, recommend mitigation strategies based on trade-off analytics, and predict user behavior for a better more intuitive experience. you will be involved in a team that is solving some of the hardest problems for our fortune 500 customers.
+ 
+join our team and take on this unique opportunity to reinvent it operations as we know it. if you are a developer who is passionate about data science and analytics, we want to talk to you!
+ 
+ 
+what you'll be doing?
+
+bring together a combination of mathematical rigor and innovative algorithm design to create recipes that extract relevant insights from millions of rows of data to meaningfully improve enterprise it operations.
+learn, develop, and apply new techniques in the intersection of math, probability, and optimization.       
+translate unstructured, complex business problems into an abstract mathematical framework, making intelligent approximations when needed to put your algorithm to work at scale.
+deploy, maintain and tweak scoring models based on feedback loops and real-time performance.
+work closely with various product development engineering teams to solve key prediction, mitigation, recommendation and discovery problems in the field of it operations.
+explore, investigate and prototype innovative machine learning concepts.
+
+
+
+						required skills
+					
+
+what you'll bring?
+
+you are passionate about building software that matters.
+you believe in reimagining and redefining the world through software that is elegant and simple.
+you have an obsession about discovering and solving customer issues.
+you can work independently and drive results.
+you are open to new challenges, and willing to learn.
+you have a strong background in analyzing and discovering patterns in seemingly disparate data.
+you are a strong java or scala programmer who loves apache spark.
+the intersection of mathematical models and algorithm design excites you.
+
+ 
+bonus
+
+you are familiar with the ibm z systems platform.
+you are familiar with the operational aspects of an enterprise relational database like ibm db2 for z/os.
+you have experience with r or other such data science tools.
+
+ 
+why join us?
+ 
+the internship experience will provide an insider view of how a fast moving, innovative, and entrepreneurial company operates through an exciting and challenging work experience. our interns will operate as a team to design and build, from the ground up, brand new and innovative applications related to statistical analysis, and supervised machine learning.
+ 
+the “rocketship” is also designed to give you multiple opportunities to interact with members of rocket software’s executive team, an invaluable chance to showcase your skills and start building a network of professionals for future internships or post-graduate work.
+ 
+our program includes participation in a professional development program together with other interns with a goal to develop and deliver an executive level presentation to senior members of rocket software’s executive team at the end of the summer.
+ 
+rocket software inc. is committed to creating a diverse environment and is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. rocket software inc. is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+ 
+rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities.  if you need special assistance or an accommodation while seeking employment, please call: 781-577-4321 or send an email to hr@rocketsoftware.com.  we will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+
+						job location
+					
+
+						austin, texas, united states
+					
+
+						position type
+					
+
+						intern
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								connect
+							
+
+
+							who do you know at
+							
+rocket software
+
+ 
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+
+ contact us site map legal privacy policy 
+
+ rocket software develops, licenses, and supports enterprise infrastructure software and solutions.    rocket services customers in all geographies through our worldwide sales force, support team, and r&d labs.    our customers deploy our products in these strategic infrastructure domains: application development, application modernization, business intelligence, compliance and security, consumer productivity, database servers, database tools, file transfer, mainframe productivity, network management, publishing and search, soa and integration, storage management, terminal emulation,   and text mining. 
+ © 2012 rocket software, inc. all rights reserved.     rocket and the rocket software logos are registered trademarks of rocket software, inc.     other product and service names might be trademarks of rocket software or other companies. 
+
+  
+
+rocket software
+ 77 fourth avenue 
+    waltham, ma 02451-1468 
+t +1 781 577 4321 
+    w www.rocketsoftware.com 
+    e info@rocketsoftware.com
+ privacy policy | legal
+
+
+
+
+
+
+
+
+
+
+
+
+

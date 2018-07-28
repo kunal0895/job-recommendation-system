@@ -1,0 +1,227 @@
+
+
+
+
+software engineer - gnostech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+about
+news
+contact
+careers
+
+
+
+
+
+
+
+
+☰
+
+
+capabilities
+defense
+
+maritime
+maritime
+
+
+safeharbor
+vulnx
+export compliance
+maritime blog
+
+
+solutions
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+my accountjob openings >> software engineersoftware engineersummarytitle:software engineerid:1009location:san diego, cadescriptiongnostech, a growing technology solutions company, has an opening to support our growing engineering business. this position requires a motivated individual who seeks to work in a team environment where creative solutions are encouraged and technical challenges are the norm.
+
+a software engineer is needed to support various software development tasks. the applicant will work as part of a team responsible for learning to design or modify new and existing software applications - both external and internal to our organization. the applicant will also be tasked to interact with other personnel from the software development team, as well as software test and cybersecurity team members to design, develop, document, and test applications and software. 
+overview
+location
+
+san diego, ca
+
+job title
+
+software engineer
+
+salary
+
+commensurate with industry position, depending on experience
+
+shift
+
+m-f, days
+
+travel
+
+
+support for travel up to 5%
+
+
+position responsibilities
+
+
+contribute to the design, development and on time delivery of applications, components and/or systems
+
+
+participate in design reviews to provide input on functional requirements, product designs, schedules, or potential problems
+
+
+implement application enhancements and architectural improvements for existing products
+
+
+create technical documents as required
+
+
+follow and execute test plans, scenarios, scripts, and procedures. 
+
+
+document test procedures to ensure repeatability and compliance with standards
+
+
+document software defects using a bug tracking system, and report defects to software lead
+
+
+maintain source code in a version control system
+
+
+understand and follow secure coding standards
+
+work productively with other team members on small to large scale projects
+	 
+
+required qualifications and skills
+
+proficiency in software design, development and testing
+experience with some or all of the following programming languages: java, c#, c/c++, javascript, mysql/mariadb
+experience using source control solutions such as git
+
+experience with virtualization, vmware preferred
+
+
+ability to identify, define and resolve problems, collect data, establish facts and draw valid conclusions
+
+
+mobile app development (windows 10, android and ios)
+
+
+comfortable working in a fast-paced, emerging growth environment
+
+strong oral, written communication skills
+
+education and training required 
+
+bachelor degree (in engineering, computer science, math, physics, or related field) or equivalent related work experience
+
+additional desired qualifications, skills, certifications
+
+
+experience with virtualization, vmware preferred
+
+
+ability to identify, define and resolve problems, collect data, establish facts and draw valid conclusions
+
+mobile app development (windows 10, android and ios)
+comfortable working in a fast-paced, emerging growth environment
+strong oral, written communication skills
+
+education and training required 
+
+bachelor degree (in engineering, computer science, math, physics, or related field) or equivalent related work experience
+
+minimum years of experience
+
+1+ years
+
+minimum security clearance
+
+
+must have active government security clearance (secret or above).
+===============================================================
+gnostech, inc is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, or disability status. for more information, please visit www.eeoc.gov.
+if this position requires a government clearance, the applicants selected will be subject to a government security investigation and must meet eligibility requirements for accessing classified information. 
+
+
+ 
+  apply now     refer to a friend  
+
+
+
+
+copyright 2017 gnostech. all rights reserved. powered by applicantstack™ applicant tracking system
+
+
+
+

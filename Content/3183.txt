@@ -1,0 +1,270 @@
+
+
+
+
+job application for senior whsops engineer for big data at sony interactive entertainment playstation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+senior whsops engineer for big data
+
+        at sony interactive entertainment playstation
+      
+
+        san diego, ca
+      
+
+
+recognized as a global leader in interactive and digital entertainment, sony interactive entertainment (sie) is responsible for the playstation® brand and family of products and services. playstation has delivered innovation to the market since the launch of the original playstation in japan in 1994. the playstation family of products and services include playstation®4, playstation®vr, playstation®vita, playstation®3, playstation®store, playstation®plus, playstation™video, playstation™music, playstation™now, playstation™vue, playstation®original and acclaimed playstation software titles from sie worldwide studios. headquartered in san mateo, california, sie is a wholly-owned subsidiary of sony corporation and has global functions and regional headquarters in california, london and tokyo. 
+why work when you can play?
+https://www.youtube.com/watch?v=sdl9enxepew
+sie's data platform team has an opportunity for a senior devops engineer with strong linux/unix skills and scripting experience supporting our next generation data platform built around the hadoop ecosystem and other new generation data technologies.
+this position will join the data platform operations team to support current and next generation data warehouse platform technologies like hadoop, hbase, kafka, and nosql technologies to deliver best-in-class scalable, highly available operational warehouse platform to enable our customers and our fast-growing business.
+responsibilities:
+
+develop, maintain and optimize automated deployment infrastructure for big data data pipeline and analytics in the cloud as well as on-premise.
+operationalize and optimize all aspects of the operations, ci, release and deployment processes using cloud, container and virtualization techniques (aws ec2, s3, ecs, docker and kubernetes).
+work with cloud platform team colleagues to design and build cloud integrations into aws.
+monitor, analyze and improve performance of operations and build ci/cd processes.
+support and migrate existing production infrastructure to cloud.
+ability to mentor or serve as an sme on cloud data devops.
+
+experience and requirements:
+
+3+ years of deep experience working in a cloud environment like aws handling data environments.
+3+ years of experience in sizeable big data environments including but not limited to relational/nosql technologies (oracle, hbase or cassandra) and etl tools ( informatica/talend) as part of migration to cloud.
+experience with automated deployment technologies using infrastructure as code (ansbile/terraform/cloud formation) and build tools for cicd.
+experience with automated provisioning of aws cloud hadoop environments (emr/cloudera/hortonworks/mapr).
+deep experience designing and implementing automated configuration management and deployment processes.
+experience working with product development teams in an agile software development environment.
+expert troubleshooting skills on linux based environments.
+ability to work and thrive in a fast-paced environment, learn rapidly and master diverse technologies and techniques quickly. 
+
+desirable:
+
+experience working in python/java/scala based projects using maven/gradle.
+experience w/ containerization technologies: docker, kubernetes, mesos, or yarn.
+aws, hadoop or spark certification.
+bachelors degree in computer science or related disciplines.
+
+sony is an equal opportunity employer. all persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the u.s. uniformed services, sexual orientation, gender identity, marital status, genetic information or membership in any other legally protected category. 
+we strive to create an inclusive environment, empower employees and embrace diversity. we encourage everyone to respond. 
+we sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in playstation.
+ 
+#gm-li1
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+without telling us which one, are you any of the following: a united states citizen, a united states permanent resident, a temporary resident through amnesty, a refugee or an asylee? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require sponsorship for employment visa status (e.g. h-1b visa status)? *
+
+
+
+please selectyes
+no
+
+
+this role is located in san diego, ca.  please provide your motivation/ability to relocate to san diego if you are not currently living in the area:
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

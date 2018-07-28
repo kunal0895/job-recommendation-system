@@ -1,0 +1,242 @@
+
+
+
+
+
+
+
+data scientist – linc global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+ 
+
+
+
+linc global
+transform one-time retail ecommerce purchasers into lifetime customers with retail chatbots, ecommerce tracking and returns/exchanges
+
+home platform about us blog resources 
+get a tour
+
+
+
+
+
+home platform about us blog resources 
+
+
+
+
+data scientist
+
+
+
+
+
+
+
+
+
+
+why you should join:
+join us in building the best ecommerce saas platform to revolutionize how retailers and brand engage with shoppers for post-purchase activities and more. linc is looking for data scientists who are passionate about applying ai to revolutionize the customer care industry, who thrive on challenges and who believe in success through collaboration – people who would complement our existing team of world class developers!  we offer a fun, dynamic and result-driven environment. if scale and complexity in a high growth startup excite you, linc is the right place to be.
+
+about linc:
+linc is an ai-powered customer care automation platform that transforms one time purchasers into lifetime customers through a better than amazon experience around tracking, returns, exchanges, and reordering. we also allow retailers to re-target and offer cross sells and upsells based on purchase history rather than browser history. we make this available to e-retailer or brand client via a number of channels including; web, email, text, and the emerging channels of facebook messenger and voice. the end result is higher shopper retention rates and a higher lifetime value with those clients.
+as a fast growing startup, linc has delighted tens millions of shoppers, and customer list includes world-class brands like carter’s, p&g, crocs, gopro, hugo boss, ebags, and l’oreal. learn more at letslinc.com.
+
+responsibility:
+
+
+responsible for one or more ml related application areas: natural language understanding, dialog system, statistical nlp, contextual understanding, probabilistic inferencing/reasoning, reinforcement learning, product recommendation
+
+
+
+develops and demonstrates viability of novel solution in the context of linc’s platform and data to deliver business results as well as best of breed user experience. 
+
+
+
+be a part of an engineering team with total responsibility of both algorithms, modeling, engineering and production scaling and support – full soup to nuts ownership and empowerment! 
+
+
+key qualifications:
+
+
+phd program in computer science, mathematics or a related field with demonstrated academic excellence 
+academic background in deep learning, natural language processing, machine learning
+5+ years of programming experience, proficiency in python, java, scala or r
+strong knowledge in general software design, data structures, and relational database  
+strong written and oral communication skills
+strong analytical skills, data driven mindset
+
+
+desired:
+
+huge plus with experience in spoken dialog system, chatbot and reinforcement learning 
+2+ years of hands-on cloud platform experience: aws or azure 
+previous experience working in a start-up environment 
+experience with ecommerce space, knowledge of product taxonomy building
+experience with nlp toolkits such as nltk, opennlp, stanford corenlp etc. 
+experience with open source machine learning toolkits: tensorflow, cntk, scikit-learn, pandas, numpy, libsvm, keras
+
+
+perks
+
+we will sponsor visas
+full medical and dental coverage
+company provided lunches and close to downtown sunnyvale
+knowledge sharing sessions with some of silicon valley’s best minds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get the latest ebook 
+get the pdf here
+
+navigationhome
+platform
+about us
+blog
+resources
+careers
+contact usoffices100 mathilda pl #150 (hq),
+sunnyvale, ca 
+94086
+
+77 geary st
+san francisco, ca 
+94108
+
+777 hornby st #610,
+vancouver, bc 
+v6z 2h7emailsales@letslinc.comfind us on:facebooktwitterlinkedinmail
+
+
+
+
+
+
+
+
+
+
+
+							©2017 linc global, inc.
+						
+
+
+
+
+privacy policy   |   terms of service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

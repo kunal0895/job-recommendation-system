@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+careers - search --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										international sites
+										
+
+
+
+   select a country:      australia    indonesia    south africa      austria    ireland    sweden      brazil    japan    switzerland      canada    korea    taiwan      china    malaysia    thailand      france    netherlands    united arab emirates      germany    new zealand    united kingdom      hong kong    philippines    united states      india    singapore   
+
+
+
+
+
+
+										about macquarie
+										
+
+
+about macquarie group
+investor relations
+careers
+related sites
+contact
+site map
+
+
+
+
+
+
+
+
+macquarie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers search
+
+
+
+enter a keyword or job number...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+applicant login
+agency login
+
+refine search
+work type
+
+full time 1
+locations
+americas
+houston 1
+categories
+groups
+corporate operations group 1skill types
+information technology 1
+
+
+
+
+back to search result
+
+
+
+
+
+
+java developer
+
+
+apply now
+job no: cog-936897
+work type: full time
+location: houston
+
+group: corporate operations group
+division: technology
+recruiter: stewart mitchell
+
+
+the corporate operations group (cog) brings together specialist support services including workplace, human resources, market operations and technology. cog's purpose is to drive operational excellence through business-aligned services with a focus on quality, cost and risk. cog comprises the following divisions: business improvement and strategy, business services, human resources, market operations, and technology.
+join a team of enthusiastic and driven it professionals who strive to deliver the highest quality and innovative technological solutions.
+about our team:
+commodity markets and finance (cmf) division provides clients with risk and capital solutions across physical and financial markets, providing financing, financial hedging, physical execution and access to market pricing for clients exposed to commodities and financial markets. technology account team are key partners with our cmf business.
+our small team of technologists means you will have an immediate impact on the production system, as well as being able to offer a variety of opportunities for our team members.
+the close relationship to the business provides agile process means you can get the quick satisfaction from a job well done. our flexible, open workspace encourages collaboration and supports working with the people who can best help you get the job done.
+key responsibilities:
+
+deliver high quality software that is fast and efficient.
+provide maintenance and enhancements to the existing applications.
+work with technology stakeholders to devise solutions that will fulfil business requirements and meet organizational strategic goals
+foster strong working & collaborative relationships with the business & technology stakeholders across multiple locations
+contribute to process improvement initiatives.
+
+ about you:
+you will be degree qualified in computer science or similar with proven development experience in java language and frameworks.
+specific technical skills:
+
+expertise with the java language, including multi-threading.
+experience with web development
+good database knowledge and sql skills
+experience with basic shell scripting
+high performance code and performance tuning
+knowledge of messaging, python, perl.
+knowledge of big data & aws 
+
+non-technical skills:
+
+agile sdlc - enjoy high pace team environment with strong, self-driven, sdlc disciplines
+strong communication skills
+adaptable, accountable, solution orientated and possesses excellent analytical & problem solving skills
+strong documentation skills
+collaborate effectively within a global it environment across multiple locations
+2-4 years of experience in software development
+
+ find out more about macquarie careers at www.macquarie.com/careers 
+ all qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, colour, religion, sex, sexual orientation, national origin, age, disability, protected veteran status, genetic information, marital status, gender identity or any other impermissible criterion or circumstance. macquarie also takes affirmative action in support of its policy to hire and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
+ 
+
+
+advertised: 20 nov 2017  central standard time
+applications close:
+ print application form
+back to search results apply now refer a friend
+
+
+share this:
+
+
+
+
+
+|
+more
+
+
+
+
+
+send me jobs like these
+
+
+we will email you new jobs that match this search.
+
+email address
+
+
+thank you for subscribing to job alerts. we will send you similar jobs when they become available.
+the email address was invalid, please check for errors.
+you must agree to the privacy statement
+subscribe
+
+
+
+
+
+
+
+
+search results
+
+
+
+position
+location
+closes
+
+
+
+
+
+java developer
+
+
+houston
+
+
+
+
+
+commodity markets and finance (cmf) division provides clients with risk and capital solutions across physical and financial markets, providing financing, financial hedging, physical execution and access to market pricing for clients exposed to commodities and financial markets. technology account team are key partners with our cmf business. 
+
+our small team of technologists means you will have an immediate impact on the production system, as well as being able to offer a variety of opportunities for our team members. 
+
+the close relationship to the business provides agile process means you can get the quick satisfaction from a job well done. our flexible, open workspace encourages collaboration and supports working with the people who can best help you get the job done.
+
+
+
+
+
+
+
+campaigns
+loading...
+
+
+
+current opportunities
+
+
+
+position
+location
+closes
+
+
+
+
+
+java developer
+
+
+houston
+
+
+
+
+
+commodity markets and finance (cmf) division provides clients with risk and capital solutions across physical and financial markets, providing financing, financial hedging, physical execution and access to market pricing for clients exposed to commodities and financial markets. technology account team are key partners with our cmf business. 
+
+our small team of technologists means you will have an immediate impact on the production system, as well as being able to offer a variety of opportunities for our team members. 
+
+the close relationship to the business provides agile process means you can get the quick satisfaction from a job well done. our flexible, open workspace encourages collaboration and supports working with the people who can best help you get the job done.
+
+
+
+
+powered by pageup
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers privacy policy
+
+
+
+
+       by submitting an application or registering interest for employment with macquarie group you will supply us with personal information that is subject to data protection legislation in australia and in the country in which you are based.
+    
+
+       because of the nature of macquarie group, it is common for personal information collected by the prospective employing entity to be disclosed to other entities in macquarie group. the purpose of that disclosure is in connection with your application for employment and for those entities to assist in providing administrative and human resources support services, risk management and for the overall management of macquarie group.
+    
+
+       these entities may be located in another jurisdiction, and personal information may be transferred to other jurisdictions with different data protection laws.  each of the macquarie employing entities is responsible for the shared use of personal information within  macquarie group and endeavours to ensure that access to and use of the personal information is appropriately limited to prevent its misuse or unlawful disclosure.  
+    
+
+       you should be aware that:
+    
+
+       once submitted we will use your personal information for the following purposes:
+    
+
+
+        to assess and administer your application for employment in accordance with our standard recruitment practices, including conducting psychometric testing and reference checks
+      
+
+        to communicate with you in relation to your application
+      
+
+        to monitor and review our recruitment practices.
+      
+
+
+       if your application is unsuccessful we may retain your information on file in case a more appropriate opportunity becomes available. you are free to contact us if you do not wish us to retain your information.
+    
+
+       you can contact us by phone, fax, mail or email and request access to your personal information. in normal circumstances, we will give you full access to your personal information, however there may be some legal or administrative reason to deny you access - in which case we will tell you our reason.
+    
+
+       you may request amendments, corrections or deletions if your personal information is inaccurate, outdated or incomplete.
+    
+
+       you are not required by law to disclose your personal information to us, but we may not be able to accept or process your application for employment if you do not supply this information.
+    
+
+       you can contact us by phoning +61 2 8232 3333, faxing us at +61 2 8237 4544, writing to macquarie careers, gpo box 4294 sydney nsw 1164 australia, or emailing careers@macquarie.com.
+    
+
+       you can obtain a copy of the macquarie group privacy policy online or by requesting it from us.
+    
+
+
+
+
+
+
+
+
+
+macquarie
+
+
+
+
+
+terms of use
+
+
+important information
+
+
+regulatory disclosures
+
+
+privacy and cookies
+
+
+
+
+
+
+
+
+
+							© macquarie group limited
+						
+
+
+
+
+
+
+
+

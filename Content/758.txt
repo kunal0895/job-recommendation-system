@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer - sql / big data / java - palo alto, ca | denodo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+about us our companynewsroomin the mediapress releasesnewslettersawardsdenodo officescareers overviewvacanciesservices overviewprofessional serviceseducationsupportcommunitypartners overviewpartner programfind a partnerpartner portal login 
+
+
+
+
+
+
+
+ 
+
+
+ englishdeutschespañol 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data virtualization overviewdv in the enterprisehow it worksbenefitsceo and business leaderscdo and enterprise architecturedata architects and developerswhy denodo?denodo platform overviewdenodo platform for awsdenodo platform for azuredenodo expresswhy denodo platformsolutions overviewhorizontal solutionsagile bibig datadata governancedata serviceslogical data lakeslogical data warehousemaster data managementweb automationvertical solutionsfinancial servicesgovernment, defense intel and non-profitshealth insurance and healthcare providersinformation and cloud servicesinsurance companiesoil and gas companiespharma, life sciences and medical devicesretail and manufacturingtelecommunications and mediacustomerseventsresources overviewbrochurescase studiesdatasheetsdemose-bookspodcastssolutions briefswebinar serieswebinarswhitepapersdenodo expressblog
+
+contact us 
+
+ 
+
+
+
+
+
+
+
+
+you are herehome / company / careers / vacancies / data engineer - sql / big data / java 
+
+
+
+
+
+
+data engineer - sql / big data / java 
+
+
+
+
+
+
+
+
+apply here 
+
+
+job description
+your opportunitydenodo is always looking for technical, passionate people to join our services engineering team. we want a professional who will travel, consult, develop, train and troubleshoot to enhance our clients’ journey around data virtualization.your mission: to help people realize their full potential through accelerated adoption and productive use of denodo solutions.in this role you will successfully employ a combination of high technical expertise and client management skills to conduct on-site and off-site consulting, product implementation and solutions development in either short or long-term engagements being critical point of contact for getting things done among denodo, partners and client teams.duties & responsibilitiesobtain and maintain strong knowledge of the denodo platform, be able to deliver a superb technical pitch, including overview of our key and advanced features and benefits, services offerings, differentiation, and competitive positioning.constantly learn new things and maintain an overview of modern technologies.be able to address a majority of technical questions concerning customization, integration, enterprise architecture and general feature / functionality of our product.capable of building and/or leading the development of custom deployments based and beyond client’s requirements.provide timely, prioritized and complete customer-based feedback to product management, sales, support and/or development regarding client’s business cases, requirements and issues.train and engage clients in the product architecture, configuration, and use of the denodo platform.promote knowledge and best practices while managing deliverables and client expectations.manage client expectations, establish credibility at all levels within the client and build problem-solving partnerships with the client, partners and colleagues.provide technical consulting, training and support.develop white papers, presentations, training materials or documentation on related topics.
+location
+palo alto, ca
+function
+engineering
+
+qualifications
+required skillsbs or higher degree in computer science.solid understanding of sql and good grasp of relational and analytical database management theory and practice.knowledge in java software development, especially in the database field.good knowledge of jdbc, xml and web services apis.excellent verbal and written communication skills to be able to interact with technical and business counterparts.active listener.strong analytical and problem solving abilities.lots of curiosity. you never stop learning new things.creativity. we love to be surprised with innovative solutions.willingness to travel around 50%.be a team worker with positive attitude.we valueexperience working with java frameworks.experience working with git or other version control systems.experience working with bigdata and/or nosql environments like hadoop, mongodb, ...experience working with caching approaches and technologies such as jcs.experience in windows & linux (and unix) operating systems in server environments.business software implementation and integration projects (e.g. etl/data warehouse architectures, cep, bpm).integration with packaged applications (e.g. relational databases, sap, siebel, oracle financials, business intelligence tools, …).industry experience in supporting mission critical software components.experience in attending customer meetings and writing technical documentation.foreign language skills are a plus.
+
+
+
+ employment practices
+we are committed to equal employment opportunity. we respect, value and welcome diversity in our workforce.
+we do not accept resumes from headhunters or suppliers that have not signed a formal fee agreement. therefore, any resume received from an unapproved supplier will be considered unsolicited, and we will not be obligated to pay a referral fee.  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+autodesk uses denodo platform as logical data warehouse
+
+
+ 
+
+
+
+
+
+
+
+vizient cuts costs and improves member services using denodo data virtualization
+
+
+ 
+
+
+
+
+
+
+
+denodo platform 6.0 data sheet
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+     
+
+email *
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+data virtualization
+customers
+events
+denodo express
+
+
+denodo offices
+terms of use
+privacy & cookies policy
+© 2017 denodo technologies  palo alto, ca, usa(+1) 650 566 8833info@denodo.com 
+
+
+
+
+
+
+
+
+
+   
+
+
+

@@ -1,0 +1,540 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: infrastructure engineer (14041) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: infrastructure engineer (14041)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+req id 14041 - posted 11/30/2017 - biobridge global - san antonio, tx - information technology - information systems
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+
+our organization is unique in that we are a nonprofit community resource that saves lives by working with volunteer donors to provide the highest quality blood & tissue components to patients. by using cutting-edge technology, our team of dedicated professionals has helped save hundreds of thousands of lives for more than 35 years. over 200,000 components of life-saving blood and tissue from volunteers throughout south texas are collected and tested each year. we are internationally recognized for the quality of our services and research. donors are essential because patients are in constant need of blood. blood components, and/or tissue. it's about life! share our excitement and join our team! 
+biobridge global (bbg) is a non-profit company that oversees and supports south texas blood & tissue center (stbtc), qualtex laboratories, gencure, and the blood and tissue center foundation.  for over 40 years, our team of dedicated professionals has made life-saving connections.  our diverse services bridge critical medical industry needs with innovative solutions.
+
+ 
+ 
+ 
+
+
+
+
+
+general summary
+responsible for the design, implementation, maintenance and repair of biobridge global and its subsidiaries’ infrastructure (infrastructure refers to both network and server roles on the infrastructure team). this role combines elements of the network and server responsibilities on the enterprise.  the role includes the development and design of infrastructure strategies, network devices, san, vmware, virtual file system, hp and cisco systems hardware, blade servers, microsoft clustering, active directory, vdi, and others.  this role includes, monitoring and improving infrastructure performance and capacity, and planning for future expansion requirements.
+commit to and abide by the character of biobridge global’s core values of accountability, stewardship, integrity, respect and excellence (aspire).
+provide world class customer service by capturing and being responsive to the voice of the customer (including donors) through established feedback channels in order to resolve issues and drive satisfaction in accordance with the bbg customer engagement, feedback, and complaint processes.
+
+ 
+major duties and responsibilities
+ 
+essential tasks
+ 
+develop, design, analyze, modify, implement, document, enhance and maintain corporate infrastructure connecting a minimum of 9 locations across an mpls based wan.
+serve as the technical lead on active directory design and maintenance. serve as technical lead on systems disaster recovery and backup solutions.
+proactively identify and correct systems issues, performance, storage, backup and recovery. upgrade hardware and software as needed.
+serve as the technical lead on all infrastructure related topics and be a mentor and teach other members of its as necessary.
+resolve production issues minimizing system down time, and ensuring that the infrastructure is operational. proactively identify and correct infrastructure issues, bandwidth bottlenecks, and upgrade both ios and hardware as needed.
+mentor infrastructure team on best practices and provide technical guidance. recommend enhancements for corporate infrastructure design and components. develop infrastructure reports on the health and status of the infrastructure.
+document the infrastructure and updates documentation whenever changes are performed (change management).
+performs other duties as assigned.
+
+ 
+non-essential tasks
+perform and assume duties and responsibilities of the information technology director as assigned.
+
+
+ 
+
+ 
+
+education
+requires a high school diploma or general equivalency diploma.
+bachelor degree preferred
+ 
+licenses and/or certifications
+cisco professional level certification preferred (ccnp, cdp)
+microsoft certified systems engineer preferred
+vmware vcp preferred
+texas operators driver’s license
+
+experience
+requires six or more years of infrastructure administration experience.
+requires four or more years of senior level experience in infrastructure.
+infrastructure security and solar winds orion experience.
+prefer project management experience.
+
+knowledge
+must be proficient in the following: cisco routers and switches (6500, 4500, 3750, and 2800), controller based wireless (4400), security (asa, tipping point). technologies include mpls, l3 switching, qos, multicast, ospf and bgp.  must have knowledge of lan, wan, and qos.
+knowledge of microsoft operating systems, microsoft server 2003 and above, clustering technologies, active directory design, server virtualization (vmware) citrix farms version 5.0 and above, san design, high availability, sccm, scom.
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+must maintain knowledge of and perform according to standard operating procedures (sops) and policies.
+ 
+skills
+must have excellent analytical skills to determine root cause and risk elements while considering alternative courses of action.
+must possess strong organizational, customer service, and troubleshooting skills. must have excellent problem solving and interpersonal skills.
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+must have excellent project management skills.
+ 
+abilities
+must be able to document work following best practices. must be able to keep information confidential.
+must be neat in appearance and well groomed.
+must be professional, organized, detail oriented, communicative, and have the ability to greet the public in a friendly and courteous manner.
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+must have the ability to design, implement, maintain, repair, and perform infrastructure performance monitoring procedures.
+
+
+ 
+ 
+
+working environment
+works in a well-lighted, air conditioned and heated office. may be exposed to electrical and chemical hazards and other conditions common to an office environment. may be required to work at any time of the day, evening or night during the week or weekend. ability to use personal motor vehicle for company business required.  occupational exposure assignment - category ii
+physical requirements
+must be able to drive on behalf of the organization. will sit, stand, walk, and bend during working hours.
+requires manual and finger dexterity and eye-hand coordination. required to lift and carry relatively light materials.
+requires normal or corrected vision and hearing corrected to a normal range.
+
+
+
+
+
+ 
+ 
+ 
+we invest in our people by offering competitive compensation, excellent benefits, and the opportunity to work with the first blood center in america to receive the iso 9002 accreditation!
+all full time positions qualify for an affordable and competitive benefits package to include:
+
+
+
+
+• competitive salary
+
+
+• 100% employer paid long-term disability plan
+
+
+
+
+• variable compensation plan
+
+
+• 100% employer paid ad&d
+
+
+
+
+• paid time off (pto)
+
+
+• 100% employer paid employee assistance program
+
+
+
+
+• extended illness benefits (eib)
+
+
+• group health medical plan w/prescription coverage
+
+
+
+
+• shift differentials
+
+
+• variety of voluntary supplemental insurances
+
+
+
+
+• paid holidays
+
+
+• voluntary dental coverage
+
+
+
+
+• leaves of absence
+
+
+• voluntary vision
+
+
+
+
+• educational assistance program
+
+
+• 100% employer paid pension plan
+
+
+
+
+• 100% employer paid life insurance
+
+
+ 
+
+
+
+
+ 
+biobridge global and its subsidiaries are proud to be an equal opportunity employer committed to providing employment opportunities to minorities, females, veterans, and disabled individuals.  all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, genetic data, sexual orientation, gender identity, or any other legally protected characteristics. for more information about your eeo rights as an applicant under the law, please click here. biobridge global maintains a tobacco & drug-free workplace
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+
+
+
+
+
+

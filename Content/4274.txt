@@ -1,0 +1,577 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+countries & language
+
+
+
+
+
+english
+中文
+français
+deutsch
+português
+
+
+
+jobs @ voith
+
+
+
+
+
+
+home
+
+
+featured jobs
+
+
+locations
+
+
+not finding a job?
+
+
+login
+
+
+
+
+high school students
+students
+graduates
+professionals
+engineering jobs
+commercial jobs
+service, repair, maintenance jobs
+all jobs
+
+
+
+
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email similar jobs to me
+please enable javascript to subscribe.
+
+
+
+
+
+
+
+
+
+join with linkedin
+
+
+
+
+
+
+
+join with facebook
+
+
+
+
+
+
+
+join now
+
+
+
+
+
+email  
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+apply now »
+
+apply now 
+
+
+
+
+start apply with linkedin
+
+
+
+
+
+
+
+start apply with facebook
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+email  
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+date: 
+nov 24, 2017
+                
+
+
+location: 
+raleigh, north carolina, us
+
+
+company: 
+voith gmbh
+
+
+ 
+
+ 
+for 150 years, voith’s technologies have been inspiring customers, business partners and employees around the world.
+sustainable management is an important part of our history and is always reflected in our thoughts and actions.
+ 
+for the voith digital solutions, department engineering, we are looking for you as a
+ 
+
+data scientist 
+raleigh, nc 
+ 
+
+
+
+
+
+
+you will analyze large scale data collected from industrial environments (e.g. data of many systems) using data analytics/machine learning algorithms in the cloud.
+you will develop ideas and concepts in collaboration with the domain experts having the data, with the strategic design team and the product management team of voith digital solutions
+you will enable ideas by experimenting with different big data techniques to evaluate the most suitable one; if a solution exists and if the business case is validated, it will be further developed into a product together with a cross-functional and multi-cultural team
+you will constantly develop yourself by e.g. keeping up-to-date with recent machine learning techniques and current trends on big data architectures as well as exchanging innovative approaches with your team members.
+
+
+
+
+working in a fast paced environment with focus on test driven development and ci/cd/devops
+ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists
+basic knowledge and experience in the area of machine learning in the cloud
+strong desire to learn a variety of technologies and processes with a "can do" attitude
+ability to own a complete toolchain/functional area - from development approach to complete support / going alongside the fast pace of new technological development
+willingness to travel internationally
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+you have an academic degree in a quantitative field (e.g. computer science, mathematics, physics or engineering) or equivalent.
+domain knowledge of voith’s paper, hydro and/or turbo branch is a plus.
+you have solid programming skills (in any language, scala/java would be a plus) and a solid knowledge of big data architectures
+
+
+experience with the cloudera stack and/or commercial distributions of hdfs is a plus
+ you have a strong data understanding (e.g. statistics, numerics, databases, simulations etc.) and good communication skills.
+you have solid knowledge in the area of data analytics/machine learning, preferably on distributed/big data systems.
+you have experience in data analytics/machine learning projects and/or research, a basic understanding of research papers is a plus.
+
+ 
+
+
+
+fluent in english is a must. german or other additional languages are beneficial
+
+
+global travel is part of the role but expected to be less than 10% of the time
+able to work in network structures and cross-functional, multi-cultural teams
+outgoing, open, transparent, and communicative
+open minded to new ideas and concepts
+self-organized, structured and organized
+you have solid programming skills (in any language, scala/java would be a plus) and a solid knowledge of big data architectures
+
+
+
+
+
+ 
+why join voith? 
+qualified, motivated and loyal employees are the engine for our innovative capability and competitiveness. the willingness to think ahead and an enthusiasm for technology is what all voithians have in common. for our group division voith digital solutions we search for employees that are respectful team players and as diverse as our markets. use your chance – at voith. 
+ 
+voith gmbh is an eeo/aa/vevraa compliant federal contractor and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, or any other classification protected by federal, state, or local law.
+ 
+sounds like you? apply now and become a voithian! 
+if you are interested in this position, please send us your application using the link at the bottom of this page. for further questions please contact: 
+ 
+please apply on voith career website and below is the link to use:
+ 
+https://jobs.voith.com
+ 
+ 
+
+
+
+nearest major market: raleigh
+                    
+                
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+start apply with linkedin
+
+
+
+
+
+
+
+start apply with facebook
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+email  
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+professionals,
+professional,
+all jobs
+
+
+
+
+
+sign in
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*  not you?
+password* 
+forgot password?
+* required field
+submit cancel
+
+
+
+account verification
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+
+
+                                        the "reset password" link will open in a new browser window. return to this page to enter your new password.
+                                    
+
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+
+
+
+submit cancel
+
+
+
+account verification
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+confirm
+
+
+
+already a member
+you are already a user of this site. please sign in.
+
+
+email*  not you?
+
+password* 
+forgot password?
+* required field
+sign in cancel
+
+
+
+start your application
+
+
+
+existing users
+
+
+email*
+
+password*
+
+forgot password?
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+
+
+
+sign in 
+
+create
+
+
+* required field
+
+
+create profile
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+careers home
+voith.com
+top job searches
+view all jobs
+socialmatchermobile
+
+
+privacy policy
+
+
+facebook
+twitter
+linkedin
+youtube
+xing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

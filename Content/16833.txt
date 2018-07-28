@@ -1,0 +1,89 @@
+
+
+promedia interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+promedia careers
+
+
+
+
+
+
+	    software engineer 
+	  
+ job id:  2204
+ location:  san diego, ca
+ category: 
+
+
+job description:  promedia is hiring engineers to be part of our team supporting a global technology development client based in san diego.
+
+this job does not allow subcontracting or corp to corp arrangements
+
+scope of assignment:
+ this position will require working as part of a small team developing data analytics software for the engineering services group. this group currently has several applications that load and process data for our customers, we are in need of engineers to help move projects forward. several languages and technologies are in use for the various projects, they include but are not limited to: -python (3.6, flask, web service development) -cloud development -mysql (stored procedures) -java -data warehouse (i.e. netezza, teradata, etc) -rabbitmq -reddis -mongo db -.net (c#, vb.net experience a plus) -mvvm -experience in asp.net web forms is a plus -source control this engineer will be responsible for learning current systems, developing clean code as well as unit tests.
+
+required skills:
+ • bachelor's degree in computer science or a related field.
+ • strong background in linux software development, windows gui development, experience with git/github, sql query experience for use in application development.
+ • ability to debug and troubleshoot code and queries, experience developing unit tests. 
+ • must have excellent written/verbal skills.
+ • this position will require presenting to small to medium size audiences.
+
+preferred qualifications:
+ • experience solving problems with a scripting language (e.g. bash, python) in a linux environment, use of continuous integration servers like jenkins, sql query experience and optimization: postgresql, netezza, mysql. 
+ • 3-5+ years or equivalent experience.
+
+education requirements:
+ • required: bachelor's, computer science.
+
+duration:
+•1 year+
+
+
+
+
+
+
+
+already a user ? apply now
+new user?
+
+
+
+
+
+
+
+
+
+© 2009-2010 promedia telecom, inc. all rights reserved.
+
+

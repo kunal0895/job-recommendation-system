@@ -1,0 +1,142 @@
+
+
+
+
+teletracking technologies careers - big data architect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    teletracking technologies careers                                            
+
+
+
+
+
+
+
+                big data architect
+    
+    
+
+                            software engineering            
+                    pittsburgh,
+                            pennsylvania
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+ “to ensure that no one will ever wait for care” big data architectwho we arefor every hour patients wait for care, they face objectively worse outcomes. teletracking believes it is unacceptable that patients are not able to access the care they need, when they need it, due to operating inefficiencies and unnecessary cost barriers. our mission is simple, to ensure no one waits for the care they need. named one of becker's "great places to work" and a pittsburgh business times “corporate citizenship award” winner, teletracking delivers extraordinary outcomes that have been the subject of study by the rand corporation, and is the perennial klas patient flow category leader.teletracking guiding principles      we take pride in our mission and are grateful for the opportunity to do noble work      we value honesty and treat others with respect      we innovate to solve problems and create elegantly simple offerings      we hold ourselves and one another accountable      we relentlessly pursue continuous improvement and challenge the status quo      we contribute positively to meaningful outcomes for our partners and for healthcare      we make sound decisions and operate efficiently in order to sustain employment and grow the business job summarythe big data architect leads the architecture and design of teletracking’s data platform in alignment with teletracking’s vision of providing a unified data solution: aggregating customer and healthcare operational data, and providing easy access to powerful insights. as such, this position will be responsible for the technical and security architecture of the software applications, as well as the supporting infrastructure. this position will help drive quality, reliable, secure applications, using industry standard best practices.primary duties and responsibilitieslead a development team of big data designers, developers, data scientists, and devopsimplement a big data enterprise warehouse, bi and analytics system using hive, spark, redshift, emr (hadoop), and s3develop and maintain processes to acquire, analyze, store, cleanse, and transform large datasets using tools like spark, kafka, sqoop, hive, nifi, and minifiprovide recommendations, technical direction and leadership for the selection and incorporation of new technologies into the hadoop ecosystemparticipate in regular status meetings to track progress, resolve issues, mitigate risks and escalate concerns in a timely mannercontribute to the development, review, and maintenance of product requirements documents, technical design documents, and functional specificationshelp design innovative, customer-centric solutions based on deep knowledge of large-scale, data-driven technology and the healthcare industryhelp develop and maintain enterprise data standards, best practices, security policies and governance processes for the hadoop ecosystemeducationbachelor’s in computer information technology, computer science, management systems or related discipline required; master’s preferredexperiencefour-year degree in computer science/software engineering or related degree program, or equivalent application development, implementation and operations experience. advanced study or degrees such as master’s degree in business (mba), masters, phd., in computer science/software engineering or a related scientific degree program is preferredminimum 5+ years of experience in large systems analysis and development, addressing unique issues of architecture and data management. has the experience to work at the highest technical level of all phases of systems analysis and development activity, across the full scope of system development cycle4+ years related experience on data warehousing and business intelligence projects3+ years implementation or development experience with the hadoop ecosystemworking knowledge of the entire big data development stackexperience handling very large data sets (10’s of terabytes and up preferred)experience with secure restful web serviceshighly proficient with java/scala application developmentexpert in apache spark infrastructure and developmentexperience with sqoop, spark, hive, kafka, and hadoopexperience with automated testing for big data platformsexperience with best practices for data integration, transformation, governance and data qualityexperience with developing, designing and coding, completing programming and documentation, and performing testing for complex etl applications (spark & scala preferred)experience with agile software development process and development best practicesexperience with big data text mining and big data analytics preferredunderstanding of big data architecture along with tools being used on hadoop ecosystemability to lead tool suite selection and lead proofs of conceptsability to share ideas among a collaborative team and drive the team based on technical expertise and sharing best practices from past experience skillsstrong understanding and experience executing several software development methodologies and life cycles. ability to understand and translate business requirements into technical specifications.ability to negotiate with and influence senior management. ability to lead and influence across departments and across levels of leaderships both internally and with customers.proven ability to organize/manage multiple priorities coupled with the flexibility to quickly adapt to ever-changing business needs.excellent written and oral communication skills. adept and presenting complex topics, influencing and executing with timely / actionable follow-through.strong analytical and problem-solving skills with the ability to convert information into practical training deliverables. uses rigorous logic and methods to solve difficult problems. work environment and travelthe work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions. the term "qualified individual with a disability" means an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of the position.  while performing the duties of this job, the employee is regularly required to communicate professionally in person, over the telephone, through email and other electronic means, move about the office, handle various types of media and equipment, and visually or otherwise identify, observe and assess. the employee is occasionally required to lift up to 10 pounds unless otherwise specified in the job description. teletracking is committed to providing equal employment opportunity to all people in all aspects of the employment relationship, without discrimination because of race, age, sex, color, religion, national origin, disability or status as a vietnam era or special disabled veteran or any other unlawful basis, as defined by applicable law, and fostering a workplace free of unlawful discrimination and retaliation. this policy affects decisions including, but not limited to, hiring, compensation, benefits, terms and conditions of employment, opportunities for promotion, transfer, layoffs, return from a layoff, training and development, and other privileges of employment. an integral part of teletracking’s commitment is to comply with all applicable federal, state and local laws concerning equal employment and affirmative action.  
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

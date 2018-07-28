@@ -1,0 +1,274 @@
+
+
+
+
+job application for full stack web engineer at cloudflare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+full stack web engineer
+
+        at cloudflare
+      
+(view all jobs)
+
+        austin, tx
+      
+
+
+about us
+at cloudflare, we have our eyes set on an ambitious goal: to help build a better internet. today, cloudflare runs one of the world’s largest distributed networks that powers more than 1.5 trillion pageviews each month across 5 million internet properties. more than 10 percent of all global internet requests flow through cloudflare’s network. cloudflare protects and accelerates any internet application online without adding hardware, installing software, or changing a line of code.
+our customers range from fortune 500 companies and nonprofits to small businesses and budding entrepreneurs. every day, about 12,000 new customers sign up. we’re working to create a faster, more secure, and more reliable experience for anyone online and given the scale at which we operate, our mission is big. our team is hard at work shaping the future of the internet by solving some of its toughest challenges. come join us.
+about the department
+cloudflare’s engineering team builds and runs the software that handles about 10% of http requests on the internet today. we also build and run the internal tools that builds and runs our software. the engineering team is split into two groups: one handles product development and the other handles operations. product development covers both new features and functionality and scaling our existing software to meet the challenges of a massively growing customer base. the operations team handles one of the world’s largest networks with data centers in 102 cities worldwide.
+responsibilities
+we are looking for an experienced full stack developer to join our team. the ideal candidate will have at least 3 years of experience building large-scale javascript applications and a deep understanding of the apis that power them. your ability to visualize the flow of data through a complex application is critical to your success, and to the team’s.
+caring deeply about the customer experience is a must. our ui is powered from our public apis, so attention to detail and semantics are important at every level. we have a small and agile front-end team right now, so we’re looking for highly motivated individuals who can help drive the next generation of our web application.
+we believe that great design is at the heart of any successful product and you will work closely with our design/ux team and be comfortable seeking feedback from non-technical sources. we work iteratively and deploy often (can be several times a day). we use backbone and marionette as our front-end application framework (and are beginning a migration to react), run our own private npm server to share common components, and build/package with browserify. other technologies on our web application stack include sass (and compass), php (api layer), and postgres for the data store.
+requirements
+
+
+expert knowledge of html, css, and javascript
+
+
+experience designing restful apis
+
+
+track record of building great applications with the user experience in mind
+
+
+excellent debugging and optimization skills
+
+
+unit/integration testing experience
+
+
+ability to work in cross-functional teams
+
+
+php knowledge
+
+
+bonus
+
+
+experience with backbone and react.js
+
+
+experience with redux (or other flux implementations)
+
+
+pixel perfectionist
+
+
+interest in visualizing complex/large amounts of data (d3)
+
+
+what makes us special
+we’re not just a highly ambitious, large-scale technology company. we’re a highly ambitious, large-scale technology company with a soul. fundamental to our mission to help build a better internet is protecting the free and open internet. in 2014, we launched project galileo, an initiative through which we partner with global ngos to identify websites at risk of attack and provide the same state-of-the-art mitigation technology already used by cloudflare’s enterprise customers--at no cost. project galileo equips politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work.
+additionally, in 2016, we announced our partnership with path forward, a nonprofit organization that works with companies to create 18-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one. with the lofty goal of shaping the future of the internet, we’re focused on recruiting the best and the brightest, no matter what.
+cloudflare is a security company. a successful background check is required for employment.
+cloudflare hires the best people based on an evaluation of their abilities and effectiveness.  we don't discriminate against employees on the basis of any other personal characteristic or any classification protected by federal, state or local law.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github account link
+    
+
+
+
+
+
+linkedin profile (optional)
+    
+
+
+
+
+
+personal website or blog (optional)
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

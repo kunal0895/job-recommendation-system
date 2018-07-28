@@ -1,0 +1,370 @@
+
+
+
+
+
+java developer/software engineer at monsanto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we hire
+working at monsanto
+inclusion & diversity
+student opportunities
+our benefits
+monsanto.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search our jobs  
+search our jobs
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+select radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+discover matches to jobs using your linkedin profile  »
+
+
+
+
+
+
+java developer/software engineer
+
+apply now
+apply later
+req id 01mi2 date posted 11/18/2017
+twenty years from now, the earth’s population will need 55% more food than it can produce now.  today, monsanto is working with farmers around the world to do something about it.  in over 60 countries, monsanto has established industry-leading products because we give professionals the freedom to make real decisions.  monsanto is an employer of choice with an outstanding professional development program and a history of building careers.   make an impact by joining the team that is working to solve one of mankind’s greatest challenges.monsanto is seeking a highly motivated java developer/software engineer to join the cross-functional labos team responsible for the design and deployment of biotech’s lims goals.  the software engineer is responsible for the integration of datasets from laboratory lims into foundational enterprise data architecture. this individual will play a key role gathering requirements from biotech production individuals, developing data pipelines to connect and integrate datasets, and building services to automate data-driven decisions. responsibilities include:create and implement web based user interfaces across our multiple genotyping labs design and deploy biotech data solutions into next generation it infrastructure (cloud foundry, aws, graph database, etc.) enable data science and automated workflow decisions through the creation of open, accessible, discoverable datasetsparticipate in and lead best practice coding standards and guidelines for it systems required education and skills/experience:
+
+minimum of a bachelor’s degree in computer science, information systems or other related field or equivalent combination of education and experience
+extensive programming experience in java and oracle databases 
+proven experience building and maintaining customer facing apis in modern rest frameworks such as akka http, spray and/or play!
+a level of comfort with unit testing and test driven development methodologies 
+experience leveraging large scale databases, either relational or nosql
+a proven ability to utilize a major cloud platform (aws, azure, and/or gcp) to implement scalable and resilient software solutions supporting business requirements
+demonstrated ability to solve complex problems
+experience with stream processing using apache kafka
+familiarity with creating and maintaining containerized application deployments with a platform like docker
+ 
+desired education and skills/experience:
+
+experience with developing and supporting labware and other lims
+prior experience working for a global organization
+agile and devops experience
+ 
+who is monsanto? 
+monsanto is an agriculture company with more than 20,000 employees focused on making a balanced meal accessible to everyone. we work to help farmers produce food in a more sustainable way. we think about how our food is grown so farmers have the tools they need to have better harvests.
+ 
+we believe that bringing diverse perspectives together is the most effective way to develop creative solutions to some of the world’s biggest challenges. career opportunities at monsanto range from farming, plant breeding, chemistry and engineering to marketing, environmental science, it and many other areas. we’re always looking for exceptional professionals interested in developing a strong career while collaborating to develop solutions for sustainable agriculture. sound like a job for you?
+ 
+why work with us?
+
+life at monsanto means collaborating with dedicated professionals in a stimulating environment
+our people demonstrate our winning culture through positive and meaningful relationships
+you will work with market leading brand products in a global organization
+we provide competitive salaries, excellent benefits, and some of the best career development opportunities in the industry
+monsanto is named great place to work in many countries around the world
+ 
+join our global team where your contribution will make a real difference!
+apply now
+apply later
+
+
+
+
+map
+st. louis
+view the area
+
+
+
+share
+
+facebook
+google+
+twitter
+linkedin
+email
+
+
+
+
+related jobs
+
+
+materials testing laboratory chemist
+st. louis, missouri
+
+
+biodirect production research associate
+st. louis, missouri
+
+
+pathology and discovery breeding co-op
+st. louis, missouri
+
+
+data scientist
+st. louis, missouri
+
+
+procurement supervisor
+santa fe, federal district
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get job news and event updates
+first namelast namephone numberemail addressinterested insearch for a category / location, select a term from the suggestions, and click “add.”categorylocationaddresearch & development, st. louis, missouri, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        		800 n. lindbergh boulevard
+        		
+        		st. louis, mo 63167
+        	
+
+facebook
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|
+legal notice|privacy policy|
+contact us
+
+
+
+
+
+
+
+news & stories
+
+
+conversation
+
+
+news releases
+
+
+
+
+innovation
+
+
+products
+
+
+our brands
+
+
+seeds
+
+
+agricultural biologicals
+
+
+crop protection
+
+
+safety information
+
+
+
+
+
+
+company
+
+
+investors
+
+
+careers
+
+
+contact us
+
+
+more
+
+
+america's farmers
+
+
+modern agriculture
+
+
+monsanto fund
+
+
+
+
+
+sign up for our email newsletter
+
+        				the monsanto newsletter brings you the latest modern agriculture news each month.
+        			
+
+
+first name *
+
+last name
+
+email *
+
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|terms & conditions|privacy policy|contact us
+
+
+
+
+
+
+
+
+
+
+
+

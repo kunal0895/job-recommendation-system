@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+careers - lending club
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lending club
+utilities
+
+
+
+
+personal loans
+
+
+business loans
+
+
+patient solutions
+
+
+investing
+
+
+how it works
+
+
+about us
+
+
+
+
+
+sign in
+
+
+help
+
+
+
+                        personal loans
+                    
+
+
+business loans
+
+
+patient solutions
+
+
+investing
+
+
+how it works
+
+
+view full site
+
+
+
+
+
+
+
+
+
+
+
+
+sr data engineer
+
+
+location:
+san francisco, ca (headquarters)
+
+
+category:
+all technology
+
+
+req id:
+r0000452
+
+
+
+description
+lending club (nyse: lc) opened in 2007 with one simple mission: create a more efficient, transparent and customer-friendly alternative to the traditional banking system that offers creditworthy borrowers lower interest rates and investors better returns. today, we’re the world’s largest online credit marketplace, and we’re radically changing the way lending operates. we’re proud of the recognition we’ve received, including being named a world economic forum technology pioneer, a cnbc disruptor 50, and one of the world’s 10 most innovative companies in finance by fast company. we’re conveniently located in downtown san francisco, california.
+ 
+the role:
+lending club reinvented the way consumers borrow and now we are reinventing the way we utilize data! as a talented senior data engineer, you will join our growing data technology team to help drive business decisions. lending club’s business is data driven and you will build solutions to help the company make decisions about marketing, pricing, credit, funding, and many other business aspects.
+ 
+you are:
+
+a scrum team-player who loves to use data to analyze the past and to predict the future.
+a passionate engineer who enjoys challenging and interesting problems – big data volume, scale, performance, integration, and many others.
+a seasoned professional with 5+ years of relevant experience who is excited to apply their current skills and to grow their knowledge base.
+
+ 
+required skills:
+
+you are experienced in data analysis, mapping, and modeling
+you have developed high performance sql/hive queries and data transformation jobs
+you have strong relational database skills - design, scalability
+you are experienced with bigdata challenges and nosql technologies (like hbase, hadoop, hive, oozie, mongodb)
+you have used unix/linux, as well as scripted using either shell, perl, python, etc.
+you have designed/architected solutions that are performant and of quality standards
+you are familiar with the agile methodology, test-driven development, source control management, and automated testing.
+you have a track record in finding solutions to problems
+you are an excellent communicator
+java experience is a big advantage
+exposure to aws is a plus
+
+ 
+#li-bm1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+follow us:
+
+
+
+
+
+
+
+
+
+71 stevenson street, suite 300
+san francisco, ca 94105, usa
+
+
+
+
+
+
+
+home
+about us
+careers
+
+
+
+
+privacy
+affiliates
+risks
+developers
+agreements
+prospectus
+terms of use
+sec filings
+statistics
+
+
+
+
+
+© copyright 2006-2014. all rights reserved.  equal housing lender
+
+
+
+
+
+

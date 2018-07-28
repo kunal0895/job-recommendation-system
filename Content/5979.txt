@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 16-00869
+
+
+
+
+research engineer - sr. research engineer - rf systems
+16-00869
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+design, develop, test, document and deploy innovative embedded radio frequency solutions for problems in electronic warfare, radio communications, geolocation and remote sensing; design and develop software-defined radios; create dynamically modifiable realtime signal processing components and high performance implementations for heterogeneous processing resources such as socs, fpgas, dsps, gpus and gpps; architect and develop robust, reusable and reconfigurable software modules from own designs or detailed designs prepared by co-workers with expertise in areas such as dsp, machine learning, autonomy, visualization, and embedded command and control; interface with swri senior engineering staff and client representatives to solve engineering issues related to embedded system designs; issues include architectures, component abstraction, resource utilization, energy management, timing, synchronization, signal processing, decision engines, and bandwidth optimization; contribute to the architecture of application-specific schemas, networking techniques, and hosting for multi-processor distributed radio implementations; lead the development of services, components and interfaces; prepare, present, and deliver engineering design development workflow documentation such as requirements documents, design descriptions, major design reviews, test plans, test reports and user documents; support technical proposal writing and business development; identify, lead, and pursue new business opportunities based on knowledge of client needs.
+
+                    education/experience:
+				
+requires a bs degree in in electrical or computer engineering or engineering sciences w/focus in electrical engineering or ms degree in electrical or computer engineering or computer science or with at least a 3.3 gpa and 2 – 5 years of experience.  must have excellent verbal, written and presentation skills; must be able to work on the bench within an integrated hardware, software and rf instrumentation development environment; must be proficient in linux, c, c++, hdl/vhdl, rtos, matlab; must be proficient in hardware and software configuration management and version control; must be organized, methodical, able to address complex technology development objectives and divide the work into logical sub-tasks with defined entry and exit criteria; must be able to create charts, diagrams and illustrations to communicate complex technical solutions and discuss trade-offs; must be knowledgeable of standards and architectures such as gnuradio, redhawk, vita-49, openvpx, opencpi and opencl; must be knowledgeable of emerging technology trends in embedded electronics and rf components; must be experienced with processor optimization in resource-constrained systems; must be experienced implementing systems utilizing high-throughput data interfaces; must be knowledgeable of government clients and comms/sigint/ew capability gaps and emergent needs.  a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d16/d16home.htm" target="_blank">defense & intelligence solutions</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+research engineer - sr. research engineer - rf systems
+
+16-00869
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

@@ -1,0 +1,640 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search careers | about verizon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wireless
+residential
+business
+about verizon
+
+contact us 
+
+
+
+
+
+
+
+
+ 
+
+
+ toggle navigation  
+about verizon
+search results
+job description 
+
+
+
+
+
+
+enter a search term 
+
+
+
+
+
+
+
+
+
+
+our company
+
+who we are
+
+diversity & inclusion
+history & timeline
+
+
+what we do
+wireless network
+broadband & fiber
+video & advertising
+internet of things
+managed security
+innovation programs
+
+
+how we operate
+
+code of conduct
+supplier diversity
+
+supplier faqs
+
+
+public policy & regulatory
+state government affairs
+company policies
+retirees
+
+
+leadership
+
+awards
+
+
+
+responsibility
+
+verizon innovative learning
+
+
+app challenge
+tech immersion
+digitizing schools
+design thinking
+innovative learning labs
+
+
+domestic violence prevention
+
+
+get involved
+grants and partnerships
+faqs
+
+
+sustainability
+
+
+product responsibility
+
+accessibility
+online safety
+cybersecurity
+frauds and scams
+
+
+reporting
+
+corporate responsibility report
+
+
+giving and grants
+
+grant requirements
+
+
+
+
+news
+
+stories
+
+personal tech
+enterprise tech
+community
+people
+
+
+media center
+
+news releases
+media resources
+media contacts
+rss feeds
+
+
+
+
+investors
+
+financial reporting
+
+sec filings
+annual reports
+quarterly earnings
+stock information
+dividend history
+fixed income
+
+
+news & events
+
+investor news
+investor webcasts
+investor calendar
+
+
+corporate governance
+
+board of directors
+
+
+shareowner services
+
+cost basis
+shareowner faqs
+
+
+contact investor relations
+
+
+careers
+
+career areas
+
+stores
+sales
+
+retail sales
+inside sales
+enterprise sales
+b2b sales
+
+
+customer service
+
+call center
+in-store
+
+
+technology
+
+software engineering
+network engineering
+information technology
+research & development
+
+
+corporate
+
+
+working here
+
+what to expect
+our people
+benefits
+
+working parents
+tuition assistance
+
+
+
+
+college students
+
+from campus to career
+internships & co-ops
+entry-level
+leadership development programs
+partnerships
+
+
+military
+
+military skills matcher
+contact a military recruiter
+military faqs
+
+
+locations
+
+we are global
+
+
+events
+
+calendar
+
+
+faqs
+search jobs
+
+search jobs
+
+
+
+
+
+
+
+
+go to
+
+verizon wireless
+verizon business
+verizon residential
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+career areas
+
+stores
+sales
+
+retail sales
+inside sales
+enterprise sales
+b2b sales
+
+
+customer service
+
+call center
+in-store
+
+
+technology
+
+software engineering
+network engineering
+information technology
+research & development
+
+
+corporate
+
+
+working here
+
+benefits
+
+working parents
+tuition assistance
+
+
+
+
+college students
+
+
+military
+
+military skills matcher
+contact a military recruiter
+military faqs
+
+
+locations
+
+
+events
+
+
+faqs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+search careers
+portland, or
+full-time technology
+software engineer-mapping for airspace
+
+
+
+software engineer-mapping for airspace
+
+
+portland, or, united states
+
+
+
+
+full-time technology
+job # 468727
+date posted - 2017-11-16
+
+
+apply
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what you’ll be doing...  you will be passionate about technology, drones, aviation, 2d mapping, 3d mapping, ideally all of the above. you are experienced as a full stack engineer in enterprise software, with a focus on geospatial applications, mapping data transformations, and mapping visualizations. as an airspace engineer you will implement java services around ingest and normalization of data into postgresql/postgis and build out front end visualization on top of airspace and other geospatial api’s. you will have experience with automatic extraction and parsing of structured and semi-structured datasets including xml, json, etc. you will work with established visualization technologies like leaflet and d3 while participating in skyward’s growth in three dimensional visualization of airspace and integration of rules based decision making technologies with geospatial technologies. you will participate, as part of our agile process, in analyzing user requirements, envisioning design approaches, and grooming backlog. particularly, you will function as a subject matter expert code contributor embedded with one or more agile feature teams. you will take active part in the design and development of map-based user interfaces to ensure skyward’s customers have a great experience using the platform as they run their drone businesses around the world. you will also perform software maintenance duties including debugging and defect resolution as well as production support while continuing to extend the functionality of the platform.responsibilities and duties●function as a subject matter expert and mapping-tech mentor within one or more feature teams implementing new features within skyward’s platform.●participate in product specifications through rapid iterative prototyping and ui simulations in code with live data.●use java services (spring boot) and postgresql/postgis to create scalable web services using rest/json or other formats (e.g. protocol buffers).●embrace our scrum process, and thrive as an individual contributor in a team-based environment through cooperation on deliverables, coordination of schedules, and contribution in team planning and retrospectives.●use skyward’s architectural patterns to ensure scalable, reusable, reliable implementations.●collaborate with platform architect and other subject matter experts and technical leaders to improve architectural patterns and reduce tech debt.●create testable, clean code and documentation; troubleshoot; participate in code reviews; and optimize front- and back-end performance.●recommend system solutions for user requirements by comparing advantages and disadvantages; provide estimates and on-going status leveraging relative sizing, velocity, burn-downs and stand-ups.●keep abreast of technology trends and best practices. investigate new technologies in the space (cesium, mapboxgl, etc.)what we’re looking for...  required●bachelor’s degree in computer science or similar●4+ years of full-time professional java development experience●4+ years experience with front end visualization; leaflet, d3, etc. math and algorithms background to solve problems in this space; matrix transformations of data sets, understanding of performance implications of geospatial algorithms, understanding of coordinate reference systems and transforms.●java, web programming skills, web user interface design, software requirements, software development process, object-oriented design (ood), software debugging●ability to work in a highly collaborative agile team●demonstrated aptitude and desire to learn new skills●excellent written and verbal communication skills●ability to work in a fast-paced team environment●ability to embrace change and work in an iterative development environment●ability to develop a deep understanding of the commercial uas marketplace and customers’ needs.●familiarity with postgresql, the postgis extension, and the full suite of geospatial transform and analysis tools within postgis.●familiarity with command line manipulation of psql to perform operations on postgresql installs.●familiarity with gis platforms such as qgis and arcgis, for the purpose of source data analysis and troubleshooting.●familiarity with bash scripting to automate use of command line tools, including manipulation of bash scripts via java applications.●ability to perform time-cost and complexity analysis on high-volume data processing applications.●ability to tweak existing computational geometry applications for better performance. willingness to learn time-cost and complexity analysis for creating new computational geometry applications.preferred●experience working in a startup environmentwhen you join verizon...  you’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. beyond powering america’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, internet of things and innovating in areas such as, video entertainment. of course, we will offer you great pay and benefits, but we’re about more than that. verizon is a place where you can craft your own path to greatness. whether you think in code, words, pictures or numbers, find your future at verizon.equal employment opportunity  we're proud to be an equal opportunity employer- and celebrate our employees' differences, regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status. different makes us better. 
+
+
+apply
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+ back to search results 
+
+
+
+learn more
+learn more about technology jobs
+your careers account
+create / update your career account
+
+
+related careers
+
+              technology jobs in portland, or
+            
+
+
+senior network engineering manager - portland, or, united states  
+
+full stack lead engineer - react- angular - portland, or, united states  
+
+embedded innovation software engineer - portland, or, united states  
+
+senior embedded innovation software engineer - portland, or, united states  
+
+
+show all...
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow verizon careers
+stay up-to-date with the latest news stories from verizon.
+ follow us on twitterfollow us on linkedin 
+see all verizon social channels  
+
+
+
+
+
+
+follow the verizon foundation
+ follow us on twitterfollow us on facebookfollow us on google plusfollow us on youtube 
+
+
+follow verizon news
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on youtubefollow us on instagram 
+
+
+follow verizon wireless
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on google plusfollow us on youtube 
+
+
+follow verizon fios
+ follow us on twitterfollow us on facebookfollow us on google plusfollow us on youtube 
+
+
+follow verizon enterprise
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on youtube 
+
+
+
+
+
+
+
+
+
+
+
+our company
+responsibility
+news
+media center
+investors
+careers
+
+
+
+
+
+wireless
+residential
+business
+
+
+
+verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
+
+
+©2017 verizon
+ bbb accredited business 
+
+
+
+
+
+
+privacy policy
+terms & conditions
+accessibility
+important wireless issues
+contact us
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

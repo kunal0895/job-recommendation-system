@@ -1,0 +1,470 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1958946
+												
+
+
+job title
+												
+
+autonomy - lead dsp and machine learning real time optimization
+
+
+
+
+post date
+													
+
+12/06/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	cdma technology
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - systems                           
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+qualcomm autonomous driver assistance systems (adas) 
+
+qualcomm is utilizing its traditional strengths in digital wireless technologies to play a central role in the evolution of automotive infotainment and autonomous driving. we are investing in several supporting technologies including 4g, 5g, adas, and deep learning. the qualcomm adas systems team will optimize dsp, computer vision and machine learning algorithms for the qualcomm adas systems architecture.
+
+we welcome smart, energetic systems engineers with a passion for adas algorithms (both traditional computer vision and machine learning), real-time systems design, implementation, and optimization to join our growing, multi-site development team. this position will be a hands-on technical lead role in analyzing our next generation adas system, implementing computer vision, multi-sensor fusion, and machine learning algorithms for adas as well as optimizing them exercising the full capability of the qualcomm snapdragon platform. work assignments require theoretical and practical knowledge of computer vision, machine learning, dsp programming (including deep optimizations for memory and cycles), and embedded systems architecture. the candidate should also be strong in c / c++ programming and programming of hardware accelerators for computer vision and/or machine learning. 
+
+
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+10+ years of experience in the following:  developing algorithms on a dsp, gpu or any vision accelerator like ceva developing high-performance low-bandwidth algorithms on programmable hardware architectures. software systems design for multi-threaded processors and heterogeneous processor socs including ipc, shared memory
+
+
+
+preferred qualifications
+													
+
+
+
+ experience developing and optimizing algorithms on fixed point processors with limited power and memory.
+ experience in developing and optimizing vision or image based algorithms (image stitching, lane  detection, pedestrian detection using hog/svm etc.)
+ experience developing vision libraries on embedded processors for applications involving image processing, feature extraction, object detection, 3d reconstruction, and clustering 
+excellent knowledge of compiler-based optimization tricks for dsps, vliw and simd processors.
+ experience working with real time processing of camera and sensor data
+ familiarity with dl frameworks such as caffe, tensorflow and theano. 
+ experience developing or porting neural network layers into an embedded processor or a gpu using opencl is a plus
+ candidates should be able to optimize nn layers & signal processing algorithms for both bandwidth and performance
+ experience developing math libraries like gemm/blas on an embedded processor or a simd processor would be a plus
+ experience in inference optimization on a simd embedded processor is a plus
+ familiarity with state of the art dl approaches for vehicle/pedestrian detection using ssd/rcnn/yolo etc
+ excellent knowledge of computer architecture  including simd, vliw and risc processors. 
+ ability to understand and articulate the impact of specific algorithms on system wide parameters like ddr traffic, system bandwidth, processing latency.
+ ability to analyze existing algorithms, clearly identify bottle-necks and provide recommendations for next-generation hw.
+ experience in performance analysis on heterogeneous compute platforms such as snapdragon socs is a plus.
+ experience in working with large software systems designed to layered, modular software architecture.
+ experience in working with profiling tools and software debuggers.
+
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: bachelor's, computer science and/or electrical engineeringpreferred: master's, computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+													automotive driver assistance systems, computer vision, machine learning, dsp optimization, embedded systems, sensor fusion 
+												
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

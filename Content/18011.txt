@@ -1,0 +1,488 @@
+
+
+
+
+
+sherpa - jobs
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+products
+
+sherpa stream
+sherpa stream for office 365
+
+
+news
+contact
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+redwood city â· full time
+
+
+                              marketing manager
+                            
+weâre looking for a marketing manager, who can quickly roll up their sleeves and dive in! this individual will be the marketing department to start, doing all the various core execution marketing functions. overtime, will have the opportunity to lead the department, and to hire specialists as we grow.
+
+responsibilities
+
+help shape our brand personality, competitive positioning, and usp
+develop and execute lead generation across the sales cycle to generate new inquiries, qualify existing prospects, drive sales meetings, and grow the sales pipeline
+define and deploy multiple marketing tactics: web content, landing pages, analyst relations, partnership communications, field campaigns
+prioritize marketing efforts to hit aggressive lead-gen goals
+create aggressive growth goals, measure all marketing efforts, and double down on those that are delivering
+                              build the marketing team over time
+
+
+                              core execution functions
+                            
+
+content marketing: promote sherpa as a thought leader through high quality content marketing (blog, ebooks, whitepapers, case studies, videos)
+social media: add value to the conversation on social media channels
+offline: leverage offline events, such as meetups and conferences
+webinars & virtual events: understand our customersâ use cases and host webinars, as well as other virtual events, that allows them to extract the most value out of our product
+product marketing
+
+
+                              skills
+                            
+
+proven success at creating and executing campaigns
+strong project management skills, accustomed to working to a budget and within strict deadlines.
+independent with demonstrated capability to work in fast-paced, dynamic marketing environment.
+engaging and prolific writer, perhaps with your own blog to share
+strong analytical skills, and an understanding of how to use data to drive decisions
+
+
+                              experience
+                            
+
+minimum 3 years in enterprise software or saas marketing
+experience leading 
+ba required
+
+apply
+
+
+
+
+
+redwood city â· full time
+
+front-end developer
+we are looking for a javascript developer with a focus on the vue.js framework to join our design team. this role will be focused on writing production code for all user interactions for our product, as well as connecting the front-end ui to our back-end data and api based services. secondary tasks will include html/css work and collaborating with the team on general ui design initiatives.
+
+skillset in order of importance
+
+high proficiency in javascript 
+
+experience with the vue.js framework
+ability to build complex interactions
+experience building extensive single-page-apps (spa)
+
+
+html/css
+
+comfortable writing production level html/css
+ability to work within an extensive custom css library
+scss/sass experience a bonus
+
+
+design 
+
+good understanding of user flows
+strong sense of visual layouts and design for ui/web
+keen eye for aesthetics and typography
+
+
+
+experience
+
+1-4 years in the web app development field
+
+apply
+
+
+
+
+
+redwood city â· full time
+
+ios developer
+we are looking for an ios developer with swift coding experience. ideally, candidate will also have additional experience in web development.
+
+skillset
+
+required skills
+
+the desire to take on a project and make it your own â have an eye for product design.
+swift 3
+networking
+ios libraries (corelocation avassets, etc)
+implementation of web content within ios app environment
+
+
+additional desired skills
+
+html/css (scss a plus)
+javascript (experience with libraries such as vue.js and react a plus)
+
+
+
+experience
+
+2+ years of coding experience; ideally in swift or objective c
+ideally, you've written both an iphone app and the back-end for it so you understand how these pieces interactâ â 
+
+apply
+
+
+
+
+
+redwood city â· full time
+
+back-end developer / software engineer
+we are currently is looking for a software developer that is comfortable with full stack development, and interested in helping us build our engineering culture. we believe in a polyglot approach to development, and consider ourselves problem solvers above any stack.
+                              interested candidates need a strong understanding of object oriented programming, design pattern usage, unit testing (ideally tdd), continuous integration, and rest fundamentals. any exposure to domain driven design will be a plus.
+we have an immediate project that has heavy emphasis on client-side development and restful api integration. beyond this project, the role will move into a full stack development position helping us develop and maintain our enterprise video platform product.
+do you have any open source or personal projects that you would like to share? include links to your github repo for us to take a look at.
+
+skills and requirements
+
+.net 4.5 (bonus points for experience with .net core 1.0)
+c# 5.0 and up
+asp.net web api, mvc
+git 
+aws
+azure
+sql server
+iis
+
+experience
+
+1-4 years in the above technologies
+
+apply
+
+
+
+
+
+redwood city â· full time
+
+sales account executive
+we are currently looking for a high-energy and driven sales account executives focused on developing and closing new business. you will work with fortune 500 enterprises identifying new sales opportunities, positioning our solutions and growing revenue. business-to-business experience and sales/pipeline management is a plus.
+
+responsibilities
+
+develop, identify and close new growth opportunities within assigned territory
+develop and manage relationships within territory or named accountsâ 
+prepare business case for new opportunities, engage internal sherpa teams to scope services and manage all customer contact to present and close opportunities
+interact with prospects during the sales cycle to close new customer acquisition opportunities.
+evangelize sherpa solutions and products across territory or named accounts
+maintain and track progress of sales pipeline
+qualify leads and ensure that the right people are involved in the sales process
+lead internal sales process for deals â work closely with systems engineering and customer
+success organization teams to present end to end solutio
+manage end-to-end deal process â price negotiation, contract closing, transition to deployment
+understand customer organizations and structures, continuously maintain and update customer organization charts and contact lists
+
+skills and requirements
+
+sales to business users in marketing and communications where it may be in a supporting role
+track record of consistently over-achieving quotaâ 
+experience managing and closing complex dealsâ 
+strong written and verbal presentation skills: should be able to quickly construct compelling presentation materials
+skilled at âwalking the corridorsâ to engage accounts and create a group of sherpa enthusiastâs
+strong collaboration skills: will be required to coordinate closely with multiple teams cross-functionally
+ability to work in fast-paced environment and stay on top of multiple activities. comfortable working in a small company environment that requires working independently and being self-motivated.â you like to win and have a real go getter attitude but balance that with a respectful approach and high integrity.â 
+
+experience
+
+2+ years of quota carrying enterprise applications to business users, knowledge of saas and supply chain channels a plus
+creating opportunities and closing deals
+
+apply
+
+
+
+
+
+redwood city â· full time
+
+sales development representative 
+we are currently looking for a positive and driven sales development representative (sdr) responsible for prospecting to generate leads and opportunities for account executives. this is a great opportunity to join sherpa's sales organization and begin the path towards becoming an account executive. you'll be trained to sell sherpa stream, our next gen secure video platform built to manage today's enterprise video complexity. you will work with fortune 500 enterprises identifying new sales opportunities, positioning our solutions and growing revenue. business-to-business experience and sales/pipeline management is a plus.
+
+responsibilities
+
+meet and exceed monthly, quarterly and annual quota
+uncover, qualify, nurture, and build the sales opportunity pipeline for sales
+call companies (outbound) to schedule meetings and demo product features
+build and maintain knowledge base to become an expert on sherpa stream
+utilize crm to maintain and track progress of sales pipeline
+understand customer organizations and structures, continuously maintain and update customer organization charts and contact lists
+
+skills and requirements
+
+track record of consistently over-achieving quota
+excellent verbal and written communication skills, strong listening skills and presentation skills
+should be able to quickly construct compelling presentation mate
+skilled at prospecting for new business by discovering need for sherpa stream
+comfortable with detailed conversations both at a business and a technical level
+strong capacity to develop relationships quickly over the phone
+                                strong organizational and time management skills
+ability to work in fast-paced environment and stay on top of multiple activities
+comfortable working in a small company environment that requires working independently and being self-motivated
+a self-starter who can effectively work within a team culture
+                                time management skills â able to manage multiple priorities effectively
+
+experience
+
+1+ years of technology experience or related background preferred
+1+ years of quota carrying enterprise applications to business users, knowledge of saas and supply chain channels a plus.
+creating opportunities
+bachelorâs degree
+
+apply
+
+
+
+
+
+
+redwood city â· full time
+
+internet security developer / security engineer
+
+responsibilities
+
+provide technical leadership in architecting and deploying full stack security solutions in aws and ad
+create policies and implement procedures and technologies to achieve and maintain security compliance
+work with cross-functional teams to incrementally improve network and application security.
+periodically assess all security monitoring requirements and implement enhancements to meet changing business needs
+proactively review, recommend, and implement changes to the live infrastructure after ensuring the right validation has been carried out
+
+skills and requirements
+
+strong knowledge of saml & active directory & ldap
+strong knowledge of vulnerability assessment, scanning and tools
+strong knowledge in firewall configuration, management, and hardening
+experience in cyber threat and vulnerability analysis and remediation
+software development experience
+good verbal and written communication skills
+
+bonus skills
+
+backend development skills
+the ability to put on multiple hats
+desire to teach and learn
+sense of humor
+
+experience
+
+2+ years of experience in securing cloud infrastructures in aws
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
+request a demo
+a sherpa team member will contact you shortly to schedule your demo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ reload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about sherpa
+sherpa builds game-changing video solutions for the current avalanche of digital media in business. our sherpa stream video platform securely manages, measures, and automates video interactions with customers, prospects, and employees. many of the worldâs premier global enterprises trust sherpa with their digital media programs. sherpa is backed by premier silicon valley venture investors and individuals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+
+sherpa bay area headquarters
+
+509 seaport court  redwood city, california 94063
+
++1-866-989-7794
+open positions
+
+
+
+
+
+ 
+
+sherpa digital media uk
+london, england
++44-7990-563971
+
+send us a message
+
+
+
+
+
+
+
+
+
+
+
+© copyright 2017 sherpa digital media, inc.
+
+
+
+î­º
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+

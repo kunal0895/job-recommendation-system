@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career portals
+
+
+
+
+
+
+
+
+
+job search
+
+en (us)
+
+fr (ca)
+
+
+login / register
+
+
+
+
+we are now hiring
+req #1871
+software engineer
+
+sc back office
+salary
+ft
+thursday, november 30, 2017
+
+
+
+
+
+
+ 
+
+kapsch trafficcom is a global leader in the its (intelligent transportation systems) industry, focused on connected vehicles, highway traffic management, electronic tolling, and smart city solutions. 
+
+ 
+
+ 
+
+ 
+
+learn what keeps kapsch “always one step ahead” in people and technology by visiting our website https://www.kapsch.net/us/ktc
+
+ 
+ 
+
+kapsch trafficcom is seeking a software engineer for our office located in austin, tx.
+
+   
+
+the software engineer, as part of our back office solution center, focuses on execution of the entire sdlc for transportation back office solution projects as well as core platform development. kapsch’s transportation back office platform and subsequent project implementations are mission-critical transaction processing systems, similar in nature to a clearinghouse-style banking application, but that processes transportation transactions instead of traditional banking transactions. the system both connects the data layer to the consumers/produces of the data through services, as well as manages the lifecycle and revenue flow. the system has modules for customer relationship management, operations, finance, asset management, and interoperability.
+
+   
+
+we do deadline-focused, project-based work using a generic core that is customized/extended for individual customers.  as part of the team, you’re the face of the technical part of the system, working closely with the project team to ensure client satisfaction. 
+
+   
+
+the software engineer will be responsible for the following: 
+
+   
+
+implementing/coding given design solution within the defined guidelines and architecture and provide estimates for new functionality desire to learn new skills and improve existing ones unit testing/white box testing and peer reviewing code presenting innovative solutions & ideas for system overall improvements troubleshooting issues and workaround quickly on potential production scenarios owning their area of expertise and delivering successfully we have a well-defined development approach, utilize source control, a documented build process, design and implementation specifications, a dedicated test team and robust testing process. we have up-t0-date plans and schedules, centered around an agile for enterprise approach that works well for both core development and delivery of projects to our clients. our offices are comfortable and modern. 
+
+   
+
+qualified candidates should possess a university degree in computer science or related field along with at least 2 years of experience developing & supporting complex distributed solutions in different technology stacks. 
+
+   
+
+experience in transactional, financial, and/or transportation systems is advantageous but not required.  
+
+   
+
+candidates should have experience with some combination of the following: microsoft .net;  tml5/css/javascript/angular; oracle pl/sql, sql-server; mongodb, linux, xml, soa. visio, ms-project; office; atlassian suite. experience with cloud based solutions is a plus.
+
+   
+
+candidate must be able to travel up to 20%, including international. #zr
+
+   
+ 
+
+the kapsch portfolio of advanced traffic management (atm) services includes over 40 systems that integrate atms, scada (supervisory control and data acquisition), and automation for collecting real-time traffic and facilities-related data from highways, managed lanes, bridges, and tunnels. this information is delivered to a traffic management center where it is processed for actionable use by road operators, government authorities, and road users.
+	
+
+	our tolling solutions span all-electronic toll collection in free-flow traffic, automated payment at conventional toll plazas, and city tolling. our solutions comprise radio communication via micro waves, vehicle tracking via gnss (global navigation satellite systems), alpr (automatic license plate recognition) video tolling, and vehicle classification via video and laser sensors lvdc (laser vehicle detection and classification). our systems can manage operations for areas ranging from individual roads to entire regions, and can be modified for distance-based or time-based charging.   
+
+ 
+
+our combined intelligent mobility solutions are used to aid traffic management personnel in making critical decisions during emergency response situations, as well as for providing real-time traffic information to road users from the highway to the city. 
+
+ 
+
+kapsch trafficcom is a leading global provider of intelligent transportation systems (its) and offers  solutions  across  our  customers’  entire  value  chain  –  from  single  products  and components, to fully integrated turnkey systems and solutions in the applications of electronic toll collection, commercial vehicle operations, and highway traffic management. the company is headquartered in vienna, austria with north american headquarters in mclean, virginia and offices throughout the united states (virginia, georgia, new york, new jersey, texas, california), canada (mississauga) and mexico (mexico city).
+	
+
+
+	 kapsch trafficcom is an equal opportunity employer.  all qualified applicants will receive consideration for employment without regard to age, race, creed, color, national origin, ancestry, marital status or sexual orientation, gender identity or expression, disability, nationality or sex. 
+
+ 
+
+kapsch trafficcom is a drug-free workplace. 
+
+ 
+
+
+
+sc back office
+salary
+yes
+20
+bachelor’s degree
+austin, tx, usa
+
+
+
+
+
+
+
+
+
+ 
+
+apply now
+see all jobs
+
+
+
+
+
+
+privacy policy © 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,640 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search careers | about verizon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wireless
+residential
+business
+about verizon
+
+contact us 
+
+
+
+
+
+
+
+
+ 
+
+
+ toggle navigation  
+about verizon
+search results
+job description 
+
+
+
+
+
+
+enter a search term 
+
+
+
+
+
+
+
+
+
+
+our company
+
+who we are
+
+diversity & inclusion
+history & timeline
+
+
+what we do
+wireless network
+broadband & fiber
+video & advertising
+internet of things
+managed security
+innovation programs
+
+
+how we operate
+
+code of conduct
+supplier diversity
+
+supplier faqs
+
+
+public policy & regulatory
+state government affairs
+company policies
+retirees
+
+
+leadership
+
+awards
+
+
+
+responsibility
+
+verizon innovative learning
+
+
+app challenge
+tech immersion
+digitizing schools
+design thinking
+innovative learning labs
+
+
+domestic violence prevention
+
+
+get involved
+grants and partnerships
+faqs
+
+
+sustainability
+
+
+product responsibility
+
+accessibility
+online safety
+cybersecurity
+frauds and scams
+
+
+reporting
+
+corporate responsibility report
+
+
+giving and grants
+
+grant requirements
+
+
+
+
+news
+
+stories
+
+personal tech
+enterprise tech
+community
+people
+
+
+media center
+
+news releases
+media resources
+media contacts
+rss feeds
+
+
+
+
+investors
+
+financial reporting
+
+sec filings
+annual reports
+quarterly earnings
+stock information
+dividend history
+fixed income
+
+
+news & events
+
+investor news
+investor webcasts
+investor calendar
+
+
+corporate governance
+
+board of directors
+
+
+shareowner services
+
+cost basis
+shareowner faqs
+
+
+contact investor relations
+
+
+careers
+
+career areas
+
+stores
+sales
+
+retail sales
+inside sales
+enterprise sales
+b2b sales
+
+
+customer service
+
+call center
+in-store
+
+
+technology
+
+software engineering
+network engineering
+information technology
+research & development
+
+
+corporate
+
+
+working here
+
+what to expect
+our people
+benefits
+
+working parents
+tuition assistance
+
+
+
+
+college students
+
+from campus to career
+internships & co-ops
+entry-level
+leadership development programs
+partnerships
+
+
+military
+
+military skills matcher
+contact a military recruiter
+military faqs
+
+
+locations
+
+we are global
+
+
+events
+
+calendar
+
+
+faqs
+search jobs
+
+search jobs
+
+
+
+
+
+
+
+
+go to
+
+verizon wireless
+verizon business
+verizon residential
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+career areas
+
+stores
+sales
+
+retail sales
+inside sales
+enterprise sales
+b2b sales
+
+
+customer service
+
+call center
+in-store
+
+
+technology
+
+software engineering
+network engineering
+information technology
+research & development
+
+
+corporate
+
+
+working here
+
+benefits
+
+working parents
+tuition assistance
+
+
+
+
+college students
+
+
+military
+
+military skills matcher
+contact a military recruiter
+military faqs
+
+
+locations
+
+
+events
+
+
+faqs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+search careers
+portland, or
+full-time technology
+embedded innovation software engineer
+
+
+
+embedded innovation software engineer
+
+
+portland, or, united states
+
+
+
+
+full-time technology
+job # 465875
+date posted - 2017-11-22
+
+
+apply
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what you’ll be doing...  about skywardskyward provides the best operations management platform for commercial drone operators all over the world. our mission is to help uav pioneers build successful, safe, efficient ops, whether they’re a small business or working within a major enterprise.skyward innovation and r&d organization is mandated to envision and implement the disruptive solutions and applications made possible by the advancement in drone/uas technologies to solve real-world problems of our customers and the industries and to achieve it safely, securely and reliably.about youyou thrive in a fast paced challenging environment. possess attitude to “succeed fast, adjust or move on” or close variation of it! you’re a driven self-starter with interest in unmanned aerial systems (drones) and their commercial applications. you possess powerful inquisitive mind and drive to explore the disruptive opportunities possible with drones that can transform our lives and the overall society.what you’ll be doingas innovation software engineer, you will be at the forefront of the latest developments in drone technologies, regulations, ecosystem and competitive landscape technical analysis and commercial applications. you will be expected to push the boundaries of what exists today and what’s possible. you will work with internal teams and external vendors for executing on innovative solutions for r&d purposes that directionally influences the product roadmap of the skyward.•embrace the critical importance of safety and reliability in the realm of aviation and how it is applicable to commercial drone activities.•be able to quickly prototype solutions using combination of robotics and sensor technologies, cloud computing, ai and machine learning, gnss, mobile os and more. have a good understanding of interface programming like uart, i2c; wireless communication protocols such as bt, wifi, lte, 5g and networking topics such as ipv6, rdap, firewalls.•already familiar or willing to quickly learn about terms such as slam, sense and avoid, lidar, point cloud, photogrammetry, part 107, flight controller, pixhawk, ros.•ability to converge different ideas and concepts to quickly weave together innovative technical solution and implementation for real world customer problems.•expert level programming experience in developing highly reliable and scalable systems using one or more programming and scripting languages such as python, javascript.•solid mobile application development experience with android and ios. advanced understanding ui/ux design paradigms for customer ease of use.•have a clear understanding of exposing and consume rest api, creating and utilizing mobile sdk, websockets, mqtt, integration with various backends.•familiar with hosting and developing solutions in aws, azure or other cloud environments.•solid understanding of security and authentication protocols such as oauth2.0 and more.•excellent understanding of algorithm design, data structures and computer science concepts.•perform system design, write technical requirements, create flow and sequence diagram, analysis and troubleshooting, write rfi/rfp, vendor management, and testing.•solid skills for debugging and troubleshooting of small and large integrated solutions involving hardware, software, sensors and other disparate systems.what we’re looking for...  you’ll need to have:•bachelor’s degree in ee or cs engineering. masters degree preferred.•3-5 years of work experience in developing large and complex systems.required•ability to work in a highly collaborative team.•excellent written and verbal communication skills.•ability to work in a fast-paced team environment.•ability to embrace change and work in an iterative development environment.•ability to develop a deep understanding of the commercial uas marketplace and customers’ needs.when you join verizon...  you’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. beyond powering america’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, internet of things and innovating in areas such as, video entertainment. of course, we will offer you great pay and benefits, but we’re about more than that. verizon is a place where you can craft your own path to greatness. whether you think in code, words, pictures or numbers, find your future at verizon.equal employment opportunity  we're proud to be an equal opportunity employer- and celebrate our employees' differences, regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status. different makes us better. 
+
+
+apply
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+ back to search results 
+
+
+
+learn more
+learn more about technology jobs
+your careers account
+create / update your career account
+
+
+related careers
+
+              technology jobs in portland, or
+            
+
+
+senior network engineering manager - portland, or, united states  
+
+software engineer-mapping for airspace - portland, or, united states  
+
+full stack lead engineer - react- angular - portland, or, united states  
+
+senior embedded innovation software engineer - portland, or, united states  
+
+
+show all...
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow verizon careers
+stay up-to-date with the latest news stories from verizon.
+ follow us on twitterfollow us on linkedin 
+see all verizon social channels  
+
+
+
+
+
+
+follow the verizon foundation
+ follow us on twitterfollow us on facebookfollow us on google plusfollow us on youtube 
+
+
+follow verizon news
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on youtubefollow us on instagram 
+
+
+follow verizon wireless
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on google plusfollow us on youtube 
+
+
+follow verizon fios
+ follow us on twitterfollow us on facebookfollow us on google plusfollow us on youtube 
+
+
+follow verizon enterprise
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on youtube 
+
+
+
+
+
+
+
+
+
+
+
+our company
+responsibility
+news
+media center
+investors
+careers
+
+
+
+
+
+wireless
+residential
+business
+
+
+
+verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
+
+
+©2017 verizon
+ bbb accredited business 
+
+
+
+
+
+
+privacy policy
+terms & conditions
+accessibility
+important wireless issues
+contact us
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

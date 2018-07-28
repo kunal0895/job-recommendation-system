@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+careers | senior data engineer, business intelligence | slack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+why slack?
+pricing
+about us
+find your workspace
+create workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why slack?
+pricing
+about us
+
+
+find your workspace
+|
+create workspace
+
+download slack
+
+
+
+
+
+
+
+
+				all listings
+			
+
+san francisco
+
+					apply
+				
+
+
+
+
+
+
+
+
+				apply
+			
+
+senior data engineer, business intelligence
+
+									slack is looking for expert data engineers to join our data engineering - business intelligence team. in this role, you will be working cross-functionally with business domain experts, analytics, and engineering teams to design and implement our data warehouse model. you will design, implement and scale data pipelines that transform billions of records into actionable data models that enable data insights.  
+you will lead initiatives to formalize data governance and management practices, rationalize our information lifecycle and key company metrics. you will provide mentorship and hands-on technical support to build trusted and reliable domain-specific datasets and metrics.
+the candidate will have deep technical skills, be comfortable contributing to a nascent data ecosystem, and building a strong data foundation for the company. they will be a self-starter, detail and quality oriented, and passionate about having a huge impact at slack.
+responsibilities
+
+translate business requirements into data models that are easy to understand and used by different disciplines across the company. design, implement and build pipelines that deliver data with measurable quality under the sla
+partner with business domain experts, data analysts and engineering teams to build foundational data sets that are trusted, well understood, aligned with business strategy and enable self-service
+be a champion of the overall strategy for data governance, security, privacy, quality and retention that will satisfy business policies and requirements 
+own and document foundational company metrics with a clear definition and data lineage
+identify, document and promote best practices
+
+requirements
+
+bachelor's degree in computer science, engineering or related field, or equivalent training, fellowship, or work experience
+5+ years of experience working in data architecture, data modeling, master data management, metadata management
+a consistent track record of close collaboration with business partners and crafting data solutions to meet their needs
+very strong experience in scaling and optimizing schemas, performance tuning sql and etl pipelines in the oltp, olap and data warehouse environments
+deep understanding of relational as well as nosql data stores, methods and approaches  (logging, columnar, star and snowflake, dimensional modeling)
+proficiency with object-oriented and/or functional programming languages is a big plus (e.g. java, scala, python, go)
+hands-on experience with big data technologies (e.g hadoop, hive, spark)
+excellent written and verbal communication and interpersonal skills, able to effectively collaborate with technical and business partners 
+excellent understanding of trade-offs
+demonstrated ability to navigate between big-picture and implementation details
+ 
+slack is where work happens. it connects you with the people and apps you work with every day, no matter where you are or what you do. we believe everyone deserves to work in a welcoming, respectful, and empathetic culture. we live by our values and hire accordingly.
+launched in february 2014, slack is the fastest growing business application ever and is used by thousands of teams and millions of users every day. slack's investors include many of the best-recognized firms in the world, including accel partners, andreessen horowitz, social+capital, kpcb, google ventures, horizons ventures, ivp, spark growth, dst, and index ventures. we currently have eight offices worldwide, in san francisco, vancouver, dublin, melbourne, new york, london, tokyo, and toronto.
+ensuring a diverse and inclusive workplace where we learn from each other is core to slack's values. we welcome people of different backgrounds, experiences, abilities and perspectives. we are an equal opportunity employer and a fun place to work. come do the best work of your life here at slack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company
+
+about us
+careers
+blog
+press brand guidelines
+
+
+
+product
+
+why slack?
+enterprise
+customer stories
+pricing
+security
+
+
+
+resources
+
+download
+help center
+guides
+partners
+events
+app directory
+api
+gartner report 
+
+
+extras
+
+podcast
+slack shop
+slack at work
+slack fund
+
+
+
+
+
+
+
+
+status
+privacy & terms
+contact us
+
+
+
+
+deutsch
+english (us)
+español
+français
+日本語
+
+english (us)
+
+deutsch
+            
+
+
+english (us)
+            
+
+
+español
+            
+
+
+français
+            
+
+
+日本語
+            
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

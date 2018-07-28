@@ -1,0 +1,630 @@
+
+
+
+
+
+
+
+
+
+
+job openings | jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        for full functionality of this page it is necessary to enable javascript. 
+        here are the 
+        instructions how to enable javascript in your web browser
+
+
+
+data analyst senior, homeless systems | jobs page has loaded. 
+
+data analyst senior, homeless systems | jobs page has loaded. 
+
+
+
+
+
+
+
+
+  click here or press any key to continue.
+
+
+
+
+
+
+                        we updated our privacy policy and terms of use, effective december 12, 2017. view privacy policy and terms of use
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+                close menu
+            
+
+
+
+
+
+
+
+
+
+
+                        jobs
+                    
+
+
+
+
+ 
+
+
+
+
+jobs home
+                                        
+
+
+
+job openings
+                                        
+
+
+
+internal job openings
+                                        
+
+
+
+internships
+                                        
+
+
+
+about us
+                                        
+
+
+
+how to apply
+                                        
+
+
+
+veterans
+                                        
+
+
+
+job alerts
+                                        
+
+
+
+class specifications
+                                        
+
+
+
+help & support
+                            
+
+
+
+legal & privacy
+                            
+
+
+
+
+social
+
+
+
+
+facebook
+
+
+
+
+
+twitter
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+                don't have an account?
+                create one.
+            
+
+                already have an account?
+                sign in.
+            
+
+
+
+
+
+
+
+
+username
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                applications
+                
+
+
+
+
+
+                inbox
+                
+
+
+
+
+
+                profile
+            
+
+
+
+
+                account
+            
+
+
+
+
+                sign out
+                after clicking on this link you will be logged out and the page will be reloaded.
+
+
+
+
+
+
+
+
+
+
+welcome!
+thanks for creating an account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+
+
+
+powered by
+neogov
+®
+
+
+
+
+
+
+
+
+
+
+
+
+                data analyst senior, homeless systems
+            
+
+
+
+print
+
+
+
+
+
+
+
+
+
+                    apply
+                
+
+
+
+
+
+
+
+data analyst senior, homeless systems
+
+
+
+
+
+                            salary
+                            
+
+
+
+
+$66,168.72 - $81,348.48 annually
+
+
+
+
+
+                        location
+                        
+
+
+
+
+downtown portland, or
+
+
+
+
+
+
+job type
+
+
+full-time regular
+
+
+
+
+department
+
+
+nd - joint office of homeless services
+
+
+
+
+
+
+job number
+
+
+6456-25
+
+
+
+
+
+
+
+
+
+closing
+
+
+
+                1/1/2018 11:59 pm pacific
+            
+
+
+
+
+
+
+description
+
+
+benefits
+
+
+questions
+
+
+
+
+
+
+overview
+multnomah county's joint office of homeless services invites applications for a homeless systems data analyst senior. the eligible list created from this recruitment may be used to fill future regular, limited duration, full or part-time, temporary, or on-call positions.a year-and-a-half ago, the city of portland and multnomah county doubled down on their efforts to end homelessness in multnomah county through the creation of the joint office of homeless services (johs). at the johs, we subcontract with dozens of community-based nonprofits to deliver a wide range of emergency shelter, housing, and services that help thousands of multnomah county's most vulnerable residents to avoid becoming homeless or to help them quickly back into housing if they do. we also support a home for everyone, the broad, community-based process that helps to plan, monitor, and evaluate our collective response to homelessness. in this work, we have a lot of data, most collected through our local homeless management information system (hmis), but also through data systems in aligned sectors like the health and justice systems. this position will provide key leadership within our office to help us turn all of that data into useful information that we can use to monitor and evaluate our work and to shape policy and practice in our community's collective response to homelessness. specifically, the position will provide a variety of advanced level professional data analyses through conceptualization, creation and execution of data extraction, complex report writing, ad hoc statistical analyses and data visualization. among other important work, your analytical skills will help us to continue to quantify racial disparities in homelessness and point toward and evaluate solutions to achieve racial equity and justice.primary responsibilities include: maintain complex databases focused on homeless services delivery, primarily within the local homeless management information system (hmis), a vendor-hosted database called servicepoint. design, write, and test queries using vendor-supported reporting tools including qlik sense and servicepoint's advanced reporting tool, and (as needed) other programming languages to access the databases. collect, compile, extract, and organize complex data from multiple systems and sources into a variety of summary and detailed executive management reports and/or presentations. develop tools to present data in useful static (e.g. pdf, powerpoint) and dynamic (e.g. tableau public, qlik sense) formats to meet business needs, including internally- and externally-facing data visualization, dashboards, and reports that align program- and system-level monitoring and evaluation. make data-driven recommendations to senior/executive management within the johs and in support of ahfe, which may include elected multnomah county and city of portland officials as well as external policy/program officials, including the ahfe coordinating board and its executive committee. perform difficult ad hoc statistical or analytical studies involving complex data and records using mathematical modeling, matrix algebra or (occasionally) linear, multiple, and logarithmic regression. serve as liaison with collaborating outside agencies and senior/executive management on data analysis, reporting issues, and needs, with particular focus on ongoing collaboration with hmis staff at the portland housing bureau and department of county human services.diversity and inclusion: at multnomah county, we don't just accept difference; we value it and support it to create a culture of dignity and respect for our employees. we are proud to be an equal opportunity employer.
+to qualify
+we will consider any combination of relevant work experience, volunteering, education, and transferable skills as qualifying unless an item or section is labeled required. please be clear and specific about how your background is relevant. for details about how we typically screen applications, review our overview of the selection process page. minimum qualifications/transferable skills*: bachelor's degree or equivalent practical experience. 5 years of increasingly responsible professional work performing data extraction and analysis; database design, maintenance and administration; and/or data visualization and communication of analytical findings to a diverse audience.	 at least 1 of these years must be with a government or social services agency supporting homeless systems of care.   experience extracting or managing data in complex relational databases, ideally homeless management information systems (hmis), and particularly servicepoint and its associated reporting tools (advanced reporting tool and qlik sense). thorough knowledge of software for database query, data analysis, and data visualization, such as tableau, qlik sense, and excel. must pass a criminal background check (note that not all convictions are disqualifying).*transferable skills: your transferable skills are any skills you have gained through education, work experience (including the military) or life experience that are relevant for this position. be sure to describe any transferable skills on your application and clearly explain how they apply to this position. 
+screening and evaluation
+the application packet: (attachments will not be reviewed unless specifically requested.) a completed online application responses to the supplemental questionsthe selection process: for details about how we typically screen applications, review our overview of the selection process page. we expect to evaluate candidates for this recruitment as follows: initial review of minimum qualifications review for most qualified phone screen consideration of top candidates background and reference checksveterans' preference: under oregon law, qualifying veterans may apply for veterans' preference for this recruitment. review our veterans' preference page for details about eligibility and how to apply. the recruiter as listed on the job announcement must receive all required documentation by the closing date of the recruitment. accommodation under the americans with disabilities act: we gladly provide reasonable accommodation to anyone whose specific disability prevents them from completing an application or participating in this recruitment process. please contact the recruiter below in advance to request assistance. individuals with hearing or speech impairments may contact the recruiter through the telecommunications relay service by dialing 711. note: application information may be used throughout the entire selection process. this process is subject to change without notice.
+additional information
+type of position: this hourly union-represented position is eligible for overtime pay.note regarding salary placement: new employees and rehires will be paid at the minimum rate in the range for their classification unless a higher rate is approved by the appointing authority.questions?jacob schifferdepartment of county human services421 sw oak st, portland, or 97204jacob.schiffer@multco.us503-988-7515disclaimer: this announcement is intended as a general descriptive recruitment guide and is subject to change. it does not constitute either an expressed or implied contract.
+
+
+
+
+benefits help you manage now -- and plan aheadwe offer a comprehensive array of benefits in support of your physical, emotional and financial well-being. family members, including eligible spouses, domestic partners and children, are covered under most of our benefits programs. benefits vary depending on position and full-time or part-time status.health insurance (medical, vision, rx and dental): we cover most of the cost of health care premiums for our full-time employees; part-time employees have a larger share of the cost select from several plan options offering flexibility when choosing a doctor, dentist or hospital most plans include alternative care, complementary care, vision and hearingretiree coverage:continued health insurance for eligible employees upon retirementpaid leave: vacation: typically new employees receive 12 vacation days a year; amount varies based on position and increases with years of service holidays: a generous number of holidays per year; varies by position sick leave: 12 days of sick leave per year (for full-time) with no maximum accrual paid parental leave: eligible employees receive six weeks of paid parental leave other leaves: judicial leave, military leave, bereavement leaveretirement pension: qualify for a defined benefit pension after five years of vesting we pick up the employee's share of the retirement contribution (6% of subject wages) see the pers website for more information: www.pers.state.or.usdeferred compensation: employees may participate in a 457(b) deferred compensation plan, similar to a 401(k), through convenient payroll deductions both pre-tax and post-tax (roth) plan options are availablelife insurance: we provide life insurance at no cost to employees employee may purchase additional insurance at discounted group ratesdisability and long-term care insurance: employees are automatically enrolled in a county-paid long-term disability program we offer short-term disability coverage employees in many positions can purchase long-term care insurance at discounted group ratesflexible spending accounts: option to set aside pre-tax money to cover eligible health and dependent child care expenses.flexible work schedules:depending on assignment, we offer a variety of flexible work schedules to meet employee needs.bus pass program: all regular employees have access to free public transportation throughout the portland metropolitan area, including trimet, max, portland streetcar and c-tran local routes.wellness program: we offer a comprehensive wellness program to support, connect, and encourage employees who are actively developing the personal habits necessary to thrive. some highlights: health club discounts and on-site fitness centers option to receive individualized health coaching and assessment tools through health providers encouragement and resources to help you make healthy lifestyle choices employee-led wellness campaigns and challenges to continuously improve our culture of healthy behaviorsdisclaimer:this is a general description of the benefits offered through employment with multnomah county, and every effort has been made to ensure its accuracy. in the event of any incorrect information, applicable laws, rules, collective bargaining agreements or official plan documents will prevail.for more information:multnomah county benefits office
+
+
+
+
+
+
+
+01
+
+
+please treat this response as though it is your cover letter and limited to the equivalent of one page (attachments will not be reviewed). the quality of your response may determine if you are moved on to the next review.please describe: the relevant data systems, analysis and visualization software with which you have direct experience,examples of complex reporting and analyses that you've led, and how you've applied your analytical skills in prior work contexts.how does that experience align to the needs of the joint office of homeless services and a home for everyone initiative?
+
+
+
+
+
+ required question
+                        
+
+
+
+
+
+
+
+agency
+multnomah county
+
+
+
+
+address
+
+
+                        501 se hawthorne blvd.
+
+
+                        portland, oregon, 97214.
+                    
+
+
+
+
+
+phone
+
+503.988.5015                        
+
+
+
+
+
+website
+
+
+                        http://www.multco.us/jobs
+                    
+
+
+
+
+ 
+
+
+                    apply
+                
+
+
+
+            your browser does not support the iframe feature, which is required by this web page.
+        
+
+
+
+
+
+
+
+
+
+
+                    job openings
+                
+
+
+
+                    account
+                
+
+
+
+
+copyright © 2017
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+
+job openings
+
+
+
+
+
+
+
+
+
+
+                support
+            
+
+
+
+
+
+
+sign in form is opened
+job application
+
+
+job details
+
+
+
+applying as:
+
+|
+
+                    support
+                
+
+
+
+
+                close
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                close
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

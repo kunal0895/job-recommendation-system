@@ -1,0 +1,32 @@
+software engineer | riot gamesjump to main contentjump to primary navigationtoggle menuriot gamessearchwho we arewhat we dowork with uswelcomedisciplinesofficesexploreexploresearchsearchi18n.__('searchbarlabel')close searchengineeringsoftware engineersaint louis, usaif a game’s never just a game to you, you love pushing the limits of what’s technically possible, and you also believe that doing the right thing often requires disregarding the rules and upending the status quo, then we’d love to talk to you! we’re looking for talented, like-minded engineers to join us and help shape the future of gaming.
+riot engineers bring expert-level knowledge of specific technical areas and a broad knowledge across a wide range of domains.  we value people who aren’t constrained to particular technologies and are eager to learn new things to overcome anything that stands in the way of delivering value to players.  we intentionally don’t post hundreds of engineering job openings on our website, with specific technical requirements for each, because we believe that engineers don’t follow narrow archetypes; instead we want to work with candidates who are interested in joining riot to identify the area and team where they can have the biggest impact.
+we work in virtually every technical domain imaginable.  as a software engineer at riot, you might:
+
+work on a diverse, cross-functional team that is defining the future evolution of league of legends: a big game, with a big playerbase, and big demands
+work closely with artists, designers, and engineers on r&d teams to breathe life into game concepts
+build a massive global platform for deploying and operating backend services with low latency and high availability
+extend the big data pipeline that turns petabytes of anonymized user data into useful insights on how players behave and help inform decisions to keep game experiences balanced and fresh
+design and implement cutting edge web user interfaces that allow players to interact with each other and the league of legends universe in new and exciting ways
+write cross-platform code to power native applications on disparate mobile devices in order to allow players to connect with each other from anywhere on the planet
+develop awesome experiences and products optimized for players around the world in one of our local offices
+delight players in one of hundreds of roles that aren’t explicitly mentioned here
+
+while our engineers come in all shapes and sizes and work with many technologies, we expect every engineer at riot to be:
+
+player-focused: you’re a gamer whose passion for games (especially league of legends) helps you stay focused on initiatives that make the difference to players in and out of the game
+
+
+a threat to convention: bored by what’s considered traditional, you constantly push past limits until the status is no longer quo; you don’t “think outside the box” because, hey, there's no box
+
+
+focused on team: you find, shape, and cultivate teams that don’t just swing for the fences, they jack that (metaphorical) baseball beyond the stars; you help rioters develop the tools and creative atmosphere to shine, but ultimately hold them accountable for making smart calls and delivering capital-v value
+
+
+seriously playful: you work hard but always leave time for pentakills; whether you’re grabbing a game of league in our onsite pc bang or rapidly sharing cat gifs, you make time for daily play in all of its wonderful forms
+
+
+humbitious: you’re ambitious but humble, a state of being summed up by fans of portmanteau as “humbitious;” always shooting for the stars, you never forgo rounds of feedback from teammates, players, and partners who keep you from drifting off into space
+
+we receive a lot of applications, but we’ll notice a fun, well-written intro that shows us you take play seriously. apply below and don’t forget to include a resume and cover letter.
+additional insight into applying to riot engineering is available on our discipline page.
+#li-ct1applyplease enable javascript to apply for this position.who we arewhat we dowork with uspresssecuritylegalprivacy policyterms of useplayer supportleague of legendsfollow us on facebookfollow us on twitterwatch on youtubeenglish© 2017 riot games. all rights reserved.to the surfacecloselanguage selectorselect your languageenglish

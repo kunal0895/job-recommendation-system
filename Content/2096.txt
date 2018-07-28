@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: server software engineer intern (summer 2018) (113728) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+                              sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: server software engineer intern (summer 2018) (113728)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition id 113728 - posted 08/24/2017 - intern/co-op - ea mobile - capital games - software development - sacramento - california - united states - americas
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+at ea, we thrive on outrageous thinking. it’s the fuel that inspires the best games in the world. we’re innovators and great storytellers. but it’s not just about amazing your peers – it’s about amazing yourself. take risks. collaborate with brilliant minds and dare to dream big. together, we can change the way millions play every day.
+ea sacramento is home to capital games, a mobile game studio located in midtown sacramento, downtown sacramento’s premier neighborhood. we are a close-knit group of passionate gamers, obsessed with the creation of genre-defining mobile rpg games, and the live services necessary to support them. come make your impact at an ea studio with a start-up feel. check out our studio and games.
+ 
+we're looking for a server software engineer intern to join the team behind star wars: galaxy of heroes, one of ea’s most successful games. with a large-scale mobile game, we’re pushing the boundaries on every front so you’ll get a chance to stretch beyond your comfort zone and have the ability to learn while you contribute. our team culture is collaborative and high-performance and we expect everyone to approach development with a player first perspective.
+as a server software engineer intern for a core mobile game at ea, you will: 
+
+assist with the design & development of an ultra-fast, massively scalable, highly available game service
+help implement security best practices and original techniques to keep user data secure and prevent cheating
+work with designers, client engineering, and production teams to achieve service goals and objectives
+apply and improve server deployment and troubleshooting strategies that maximize uptime
+
+ 
+seeking candidates with:
+
+a strong desire to create scalable services using java, relational and non-relational databases
+experience with iaas and/or paas offerings like amazon web services and/or google app engine a plus
+strong working knowledge of large scale live service operations a plus
+java skills
+excellent written and verbal communication skills
+understanding of stable change management practices in a live service environment
+
+ 
+knowledge of the following is a plus:
+
+dynamodb
+redshift
+kinesis
+redis
+tomcat
+spring
+linux
+an interest in playing games
+
+ 
+ 
+ea is an equal opportunity employer. all employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status or veteran status. we will also consider for employment qualified applicants with criminal records in accordance with applicable law.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

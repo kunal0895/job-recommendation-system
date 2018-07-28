@@ -1,0 +1,265 @@
+
+
+
+
+job application for data engineer at healthtap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at healthtap
+      
+
+        san francisco
+      
+
+
+healthtap is hiring a data engineer!are you excited by an opportunity to build a large high-performance data infrastructure that solves a fundamental need of all human beings? if so, we have a once in a lifetime opportunity for you to store and process invaluable health-related data and help us save lives every day. healthtap is bringing together the best talent to build a best in class data team in digital health. right now, we're looking for a world leading data infrastructure engineer to bring virtual care to billions of people globally safely and securely.  
+ 
+healthtap, a world economic forum technology pioneer, is the world’s first global health practice delivering immediate, world-class healthcare 24/7 from query-to-cure. through video, voice, and text chat on any mobile device or personal computer, we connect hundreds of millions of people in 174 countries with the most trusted and compassionate health advice from a network of more than 107,000 top doctors.
+ 
+how does that work?
+
+you can search the world's largest library (more than 5.7 billion answers served) of peer-reviewed doctor knowledge for any health topic
+
+
+or ask help from dr. a.i, our virtual “physician” who translates your symptoms into personalized, doctor-recommended insights and best course of action—trained by healthtap’s doctor network
+
+
+and if needed, connect with a doctor for a live virtual consult through voice, video, or text—and get prescriptions, labs tests, and referrals as needed. healthtap’s proprietary, robust, and secure health operating system (hopes™) and proprietary triaging technology, powered by artificial intelligence, enable hospital systems, insurance companies, employers, and governments worldwide to deliver the right care at the right time at the right cost. we generate significant revenue and are funded by some of the world's most reputable investors. just like the quality of the services we provide, security matters to us most! healthtap is, therefore, hipaa-compliant and soc 2 type ii-certified.
+
+what’s the opportunity?
+as our data infrastructure engineer, you'll have resources, autonomy, and the support of other a-players to drive detection, prevention, and analysis of security threats of the hopes™ platform and the millions of active patients and doctors on it.
+ 
+examples of data projects you could work on:
+
+build a real-time data pipeline to store and analyse massive amounts of data
+create and power dashboards to monitor what is important to the company, teams, people, and you!
+realize the dreams of dr a.i. - our artificial intelligence powered virtual physician
+
+need to have
+
+you’re passionate about making the world a happier, healthier place
+you have a bs/ms in computer science, engineering or related field
+you have 3+ years of experience as a software engineer for a large web-based service
+you have excellent coding skills in some of the popular programming languages such as java, python, ruby, scala, etc.
+you have proven your ability to create large-scale data infrastructures and support them in production
+you are an expert in data storage, processing, and analysis technologies such as mysql, dynamodb/cassandra/mongodb, elasticsearch, logstash, kibana, kinesis/kafka, spark, hadoop, redshift, s3, etc.
+you know how to create and implement restful api’s
+you have experience with aws
+you enjoy exploring and evaluating new data technologies
+you don’t stop until the problem is solved
+you like extreme ownership
+you enjoy educating others: for example, by writing articles and giving talks to fellow data engineers about how you scaled the data infrastructure of the first global virtual health practice
+
+nice to have
+
+you are familiar with visualization tools and platforms such as d3, redash, highcharts
+you have a working knowledge of sql, hive/pig, map-reduce
+an entrepreneurial background is a plus
+working experience in a smaller hyper-growth startup is a plus
+
+ 
+perks
+
+protect people and save lives
+enjoy autonomy— the security team will directly report to the cto of healthtap
+work in either of our locations: palo alto’s university avenue office (steps from caltrain), or in san francisco
+get served catered lunch, dinners, and healthy snacks
+take advantage of subsidized gym membership
+relax with in-office massages
+get covered by full medical, dental, and vision insurance
+enjoy competitive compensation and equity
+win at work in a diverse culture--visa sponsorship is available
+enjoy a pet-friendly office with 4 legged members of our team :)
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

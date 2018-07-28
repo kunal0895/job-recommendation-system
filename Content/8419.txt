@@ -1,0 +1,262 @@
+
+
+poweradvocate | careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+registration   contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+productsspend intelligence
+cost intelligence
+market intelligence
+sourcing intelligence
+contract intelligence
+supplier intelligence
+
+solutionsstrategic sourcing
+category intelligence
+supplier management
+capital projects
+merger integration
+
+marketspower generation
+transmission & distribution
+ oil & gas
+
+events2013 user group
+conferences
+product training webinars
+
+resourcesbrochures
+webinars
+views
+foresights
+
+companyabout us
+customers
+careers
+customer support
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+start over with job search
+returning applicant?  login now
+
+poweradvocate provides market and cost intelligence to energy companies to optimize financial results. we combine best-in-class information, innovative technology, and expert services to produce superior market insights, supplier profiles and cost forecasts. since 1999, we have helped asset-intensive clients achieve operational and financial excellence, increase profitability, and optimize business performance. today, we deliver integrated solutions through our energy intelligence platform which expands the energy value chain in traditional and renewable power generation, transmission and distribution, and oil and gas.
+
+click here to see our comprehensive list of currently offered benefits 
+
+
+
+big data analyst - developer
+
+
+
+job code:prod-bos-163
+
+location:boston, ma
+
+business unit:products
+
+ft/pt status:full time
+
+  
+
+
+
+job summary:
+
+do you want to join the world of data science in the fast-growing energy market? do you love to turn large datasets into meaningful stories and actionable knowledge? do you want to be involved in delivering the next generation of analytic solutions using statistical/machine learning methods and a range of big data technologies? join a team where you are encouraged to explore, learn, and push boundaries. we are currently developing several applied machine learning solutions with the goal of scaling and automating the classification of millions of records of our clients’ supply chain data. for ten years, we have been classifying our clients’ purchasing transactions into our industry-specific categorization schema. this gives us an inordinate amount of training data – millions of rows of classified transactions representing over $2+ trillion of spend. that’s not a typo – two trillion dollars! our efforts are focused on deploying fully-integrated machine learning algorithms to assist our industry experts in leveraging their knowledge at greater scale and efficiency. we have a fertile ground of training data, a can-do entrepreneurial spirit and appreciation for robust and effective analytics approaches to delivering value. come join our team!poweradvocate leads the energy data industry by providing energy companies with clarity into their complex data. our energy factbase, currently at $2+ trillion and growing, helps customers to create operational and financial excellence. we help our clients to understand how they can leverage our unique view of the marketplace to reduce costs and manage operation risk working with executives on the cutting edge in the power, oil and gas, and renewable energy sectors.job title: big data analyst - developerdepartment: data sciencelocation: bostonsummary: as a member of poweradvocate’s data science team, the big data analyst - developer actively participates in all aspects of the algorithm testing and development process—from data extraction and wrangling, through effective database integration solutions to model development and implementation. the big data analyst - developer contributes as part of an agile scrum team, in a fast-paced environment with high visibility to the rest of the company. he or she also participates in broader aspects of each project including communicating ongoing results and outcomes via effective visualizations and other presentation tools, as well as gaining a deeper understanding of the results produced and their applicability to our internal customers.
+
+job responsibilities:
+
+in addition to the following, other duties may be assigned to meet business needs:• extract, clean, audit and prepare data for analysis, relying on well-structured procedures and maintaining reproducibility of results• design experiments to answer targeted questions and conduct exploratory data analysis• analyze and judge the quality of data produced and proactively develop and implement solutions to data quality issues• present and visualize interim and final results of analyses• implement and test algorithms and techniques relevant to achieving project objectives• maintain and develop, as needed, databases relevant to analytic solutions being developed• interface with primary team members to construct, maintain, and automate client-related data to support other analyst teams in the spend intelligence group• translate business objectives into actionable analysis• provide insight into the development of new customer products and internal uses for poweradvocate’s vast database of information.
+
+job qualifications:
+
+key competencies:• can guide the team through effective approaches to data extraction, data auditing, and exploratory data analyses• develops clear workflow / implementation plans based on chosen modeling approaches• has a sharp eye for detail coupled with capacity for planning, organizing and analyzing large-scale complex data projects• demonstrates solid interpersonal skills to work cooperatively with a diverse team to deliver superior results in a self-managed scrum environment• communicates findings clearly to both technical and non-technical audiences• demonstrates the ability to shift between academically rigorous approaches and pragmatic quick-and-dirty-yet-useful tools for the real world• is open-minded about new approaches and tools for achieving the goals of our customertechnical skills and requirements:• 3+ years of relevant experience in data science, statistics, econometrics or machine learning projects• high proficiency in a range of statistical / modeling tools• proficient at data profiling, cleaning, and mining• solid programming skills in at least one object-oriented language (python and/or r preferred)• working knowledge of javascript and sql a plus• experience with r shiny, flask, or related frameworks a plus• b.s./m.s. in a quantitative discipline: econometrics, statistics, applied mathematics, operations research, computer science, economics, engineeringplease attach a cover letter and resume to the application.
+
+eeo statement:
+
+at poweradvocate, we celebrate differences and are committed to leveraging the diverse backgrounds and perspectives of our workforce to provide opportunities for our employees, our clients and our business.  we are an equal opportunity employer – f/m/d/v.
+
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+career opportunities
+
+
+
+
+
+
+career profiles
+
+meet our senior leadership:
+
+ 
+meet select poweradvocate employees from across the company:
+
+
+
+
+contact us
+
+
+
+
+
+
+
+info: (857) 453-5700
+hours: 8:00am - 8:00pm et
+monday - friday (u.s. and canada)
+
+
+
+
+
+
+
+info@poweradvocate.com
+support@poweradvocate.com
+
+
+
+
+
+
+
+
+connect with marketing to share your feedback or success stories! 
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+corporate: (857) 453-5700 • support: (857) 453-5800 • info@poweradvocate.com • copyright 2005-2013 power advocate, inc. all rights reserved. • careers • terms of use
+
+

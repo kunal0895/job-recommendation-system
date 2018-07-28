@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+
+
+
+software engineer, site reliability engineer - external careers
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+
+about
+benefits
+departments
+locations
+view all jobs
+sign in
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+software engineer, site reliability engineer
+
+
+                    austin
+                
+
+
+
+
+
+
+
+
+
+apply now
+
+
+facebook
+linkedin
+twitter
+google plus
+send to a friend
+
+
+
+
+
+
+
+
+ref#: p1048
+
+our mission.
+as the world’s number 1 job site, our mission is to help people get jobs. we need talented, passionate people working together to make this happen. we are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+
+
+the team.
+we are a rapidly growing and highly capable engineering team building the most popular job site on the planet. every month, over 200 million people count on us to help them find jobs, publish their resumes, process their job applications, and connect them to qualified candidates for their job openings. with engineering hubs in seattle, san francisco, austin, tokyo and hyderabad, we are improving people's lives all around the world, one job at a time.
+
+
+your job.
+site reliability engineering (sre) applies software engineering techniques and discipline to production operations to attack major problems and fix them for good. sre adds nines to our already well-engineered and highly reliable software products supporting job seekers, employers, and internal customers. every month, over 200 million people count on us to help them find jobs, publish their resumes, process their job applications, and ultimately help them get hired at their next job. sre is always on call to keep our products available and fast. the team spans austin, dublin, hyderabad, seattle, san francisco, and tokyo in order to have a follow-the-sun on call rotation. sre is new at indeed, and members of this team will have the chance to influence the direction for a critical and global sre organization. there will be ample opportunities for growth in many areas: technology skills, leadership, mentorship, design, and more.responsibilitiesparticipate in the entire software lifecycle including design, development, delivery, measurement, and learning.design, develop, write, ship, and motivate the creation of software and systems to increase product reliability and organizational efficiency.support the software lifecycle through activities like reviewing designs, creating platforms and frameworks, capacity planning, and chaos testing.maintain service health by through monitoring and follow-the-sun incident response.improve service reliability through root cause analysis, blameless postmortems, and using code to prevent or respond to problem recurrence.
+
+
+about you.
+requirementsbs degree in computer science or related technical field, or equivalent practical experience.experience writing code in java, go, shell, perl, python, or a similar language.experience in data structures, algorithms, and software design.we get excited about candidates whointerest in designing, writing, and/or troubleshooting software and systems in a distributed, internet-scale linux environment.systematic approach to solving problems.strong communication skills, ownership, and drive.ability to debug and optimize code and automate routine tasks.indeed provides a variety of benefits that help us focus on our mission of helping people get jobs. view our bounty of perks: http://indeedhi.re/indeedbenefits
+
+
+
+apply now
+
+
+
+< back to search results
+
+
+
+
+
+
+indeed is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+
+
+
+
+
+                                facebook
+                            
+
+
+                                twitter
+                            
+
+
+                                youtube
+                            
+
+
+                                instagram
+                            
+
+
+
+
+©2017 indeed. all rights reserved.  *comscore, total visits march 2017
+
+
+
+
+
+
+
+
+

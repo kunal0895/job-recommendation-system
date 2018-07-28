@@ -1,0 +1,359 @@
+
+
+test engineer - entry level (irving, tx) - irving, tx - allstate careers
+
+job search – allstate careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with allstate careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+career areas
+claims
+continuous improvement & industrial engineering
+customer service & support
+data science & analytics
+finance & investments
+human resources
+legal
+marketing & corporate relations
+product & pricing
+sales
+technology
+
+
+
+students
+
+
+
+
+events
+
+
+
+
+veterans
+
+
+
+life @ allstate
+benefits
+diversity
+awards
+corporate responsibility
+
+
+
+blog
+
+
+
+
+application status
+
+
+
+
+
+
+
+
+connect with allstate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+career areas
+students
+events
+veterans
+life @ allstate
+blog
+application status
+
+
+
+
+
+
+claims
+continuous improvement & industrial engineering
+customer service & support
+data science & analytics
+finance & investments
+
+
+human resources
+legal
+marketing & corporate relations
+product & pricing
+sales
+technology
+
+
+
+
+
+
+benefits
+diversity
+awards
+corporate responsibility
+
+
+
+
+
+
+
+
+
+
+
+
+home > job search
+
+share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            test engineer - entry level (irving, tx)
+        
+
+
+
+
+
+apply now
+       
+
+
+
+job id : 
+89065
+
+
+location : 
+irving, tx us
+
+
+level : 
+new grad
+
+
+job category : 
+information technology
+
+
+description : 
+where good people build rewarding careers.
+think that working in the insurance field can’t be exciting, rewarding and challenging? think again. you’ll help us reinvent protection and retirement to improve customers’ lives. we’ll help you make an impact with our training and mentoring offerings. here, you’ll have the opportunity to expand and apply your skills in ways you never thought possible. and you’ll have fun doing it. join a company of individuals with hopes, plans and passions, all using and developing our talents for good, at work and in life.
+job descriptionthe opportunity
+consumer connectivity is growing every day—across our cars, smartphones, homes, and in virtually every aspect of our lives. we recognized this trend when we launched drivewise in 2010, and we haven’t stopped accelerating since. when you join our technology team, you’ll have the freedom to dream up amazing innovations and explore new technologies. we’re looking for technology visionaries who aren’t afraid to rethink the way things work.
+today, our telematics sensors now connect more than 1,000,000 consumers, and our mobile user experiences are helping to make our customers’ driving experiences more informative, engaging, and fun. so we’re not overpromising when we say that at allstate, you can make an impact on the future of the driving experience and in how consumers connect across the internet of things.
+ 
+the role
+the test engineer family is an active and integral participant on software development teams. the etrm test engineer supports all test strategy and coordination, planning, creation and execution activities for multiple test types identified as in-scope, champions overall quality efforts, identifies and defines acceptance criteria and test conditions, and creates and executes test scenarios that validate application acceptance criteria. 
+ 
+the job
+the test engineer consultant assists with test execution on an agile or waterfall project, focusing on the creation or execution of automated test scripts for basic/low complexity projects, assists in the development of the test strategy as a quality champion on the team, identifies acceptance criteria, and may define the test conditions when stories or requirements are created.
+ 
+responsibilities:
+ 
+in an agile/scrum environment, may:
+
+execute practical application of agile framework components (user stories, scrum, sprints, etc.).
+participate in scrum, daily stand-up, sprint and iterative development activities –learning to take on any role within the agile team
+participate in sprint planning and release planning
+participate in backlog refinement
+provide input into acceptance criteria when stories are created
+
+ 
+for activities related to test management, may:
+
+decompose business requirements to be able to write effective acceptance criteria and automated test scripts for basic/low complexity projects
+provide input into an iterative test strategy, develop test strategy for basic/low complexity projects
+execute test cases within the functional, mobile, performance, or web services automation framework
+provide input into environment needs for basic/low complexity projects
+provide input into software quality via continuous and iterative testing approach
+understand and escalate issues related to the test infrastructure
+participate in an environment where a test driven development behavior is fostered
+create automated scripts that support continuous integration/continuous delivery pipeline
+apply testing lifecycle management principles in the context of a product
+identify and communicate testing-related defects/issues/risks
+report test metrics utilizing standard reporting formats
+possess technical competency to interact with application developers to ensure software quality
+
+job qualificationsqualifications
+
+preferred seniors graduating in winter 2017 or spring 2018 may or june 2018
+pursuing bachelor’s in computer science and/or computer engineering
+location: northbrook, il or irving, tx
+previous internship or coursework related to manual & automation testing experience of n-tier applications
+experience with the following:
+	
+sdlc
+agile scrum
+ software development experience (java preferred)
+test automation development experience with open source and market-leading vended solutions creating functional, regression, or performance tests
+relational database management (oracle, sql, mysql) sql and data validation are essential
+testing web services
+
+
+strong analysis, troubleshooting, and problem solving skills
+leverages agile/scrum-enabling test execution tools.
+	 
+
+
+benefits and perks
+
+pension plan plus 401k
+career path/succession planning
+mentoring programs
+tuition reimbursement
+generous paid time off (with option to purchase additional days)
+medical, dental, vision, life and long term disability insurance
+health and wellness benefits, including: nutrition/weight management, smoking cessation program, stress management, lifestyle coaching, financial resources, healthy choice/subsidized meals at corporate cafeterias, on-site fitness center / doctor / pharmacy / massages
+corporate discount programs (insurance, automotive, childcare, mobile phone plans, fitness centers, retail)
+on-site services: oil changes, dry cleaning, nail/hair salon, convenience store, doctor, pharmacy
+employee resource groups including allstate women's information network (awin), professional latino allstate network (plan), allstate asian american network (3an), allstate network of gay and lesbian employees and supporters (angles), african american working network (aawn), young professional organization (ypo), parents working together (pwt), allstate adoption network (aan) and allstate veterans engagement team and supporters (avets)
+
+ 
+connect with us on twitter, facebook, pinterest and linkedin​ to find out for yourself... or hear from some of our employees in we are allstate​
+ 
+the candidate(s) offered this position will be required to submit to a background investigation, which includes a drug screen.
+good work. good life. good hands®. 
+as a fortune 100 company and industry leader, we provide a competitive salary – but that’s just the beginning. our total rewards package also offers benefits like tuition assistance, medical and dental insurance, as well as a robust pension and 401(k). plus, you’ll have access to a wide variety of programs to help you balance your work and personal life -- including a generous paid time off policy.
+learn more about life at allstate. connect with us on twitter, facebook, instagram and linkedin or watch a video.
+
+
+
+allstate generally does not sponsor individuals for employment-based visas for this position.
+
+effective july 1, 2014, under indiana house enrolled act (hea) 1242, it is against public policy of the state of indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the united states, a member of the indiana national guard or a member of a reserve component. 
+
+for jobs in san francisco, please see the notice regarding the san francisco fair chance ordinance. 
+for jobs in los angeles, please seethe notice regarding the los angeles ordinance.
+
+it is the policy of allstate to employ the best qualified individuals available for all jobs without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity/gender expression, disability, and citizenship status as a veteran with a disability or veteran of the vietnam era.
+abc
+
+
+
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+facebook
+twitter
+instagram
+youtube
+linkedin
+
+
+allstate insurance company is an equal opportunity employer. all qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, gender, sexual orientation, gender identity, disability, protected veteran or any other protected status.
+  ⓒ 2017 allstate insurance company. all rights reserved.
+
+
+
+
+
+
+
+
+
+

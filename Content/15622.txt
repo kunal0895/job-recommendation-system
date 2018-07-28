@@ -1,0 +1,247 @@
+
+
+
+
+dorado software - careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+rc synergy 
+enterprise it management 
+service provider 
+engineering tools 
+
+
+
+solutions
+
+operational communities 
+commercial service/nfv/sdn 
+inventory 
+monitoring 
+traffic flow analysis 
+cisco ipsla 
+network configuration 
+change/compliance
+storage management 
+mpls infrastructure 
+security services 
+carrier ethernet 
+vpn 
+lte 
+ims 
+cpe 
+mobile backhaul 
+service assurance 
+service creation 
+device/element management 
+managed services 
+
+
+
+partners
+
+telco cloud/nfv/ip 
+partner source 
+resellers/var 
+system integrators
+manufacturers/oem 
+managed service providers 
+dell
+
+
+
+developers 
+
+device driver sdk
+redcell service studio 
+
+
+
+support
+
+support overview 
+training 
+
+
+
+company
+
+about dorado 
+career opportunities
+news
+
+
+
+
+
+
+
+contact 
+
+
+
+
+
+
+
+nfv/sdn
+downloads
+redcell™
+live chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us : careers : software development engineer
+
+
+
+
+
+company
+
+
+about dorado software 
+career opportunities 
+news 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+live chat by liveperson
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+a key factor in our decision to use redcell was its ability to monitor all of our data network devices and servers from one platform.
+juan barrera, internet systems manager at weslaco isd
+
+
+
+
+
+career opportunities
+send resume to hr@doradosoftware.com
+software development engineer:
+design & develop distributed & standalone network management systems, using ooad (object oriented analysis & design) techniques and java technologies; design & implement software systems to interface network node with management system for device configuration using layer 2 & 3 network technologies; develop software systems to implement network security systems, using encryption techniques; implement snmp-based fault management systems, using network event management techniques.
+
+
+
+
+
+
+
+
+
+ contact for a  free trial!
+
+
+ 
+demo redcell today!
+
+
+
+
+
+
+
+
+
+
+
+ signup for the dorado newsletter today!
+
+
+ 
+full name: 
+email:  
+
+
+
+
+
+
+
+
+
+
+
+
+home 
+products 
+solutions 
+partners 
+developers 
+company 
+support 
+contact 
+privacy policy 
+
+
+copyright© 2015 dorado software, inc.
+
+designed and developed by black lizard interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

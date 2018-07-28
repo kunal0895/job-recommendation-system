@@ -1,0 +1,279 @@
+
+
+
+
+job application for software engineer at barkly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer
+
+        at barkly
+      
+(view all jobs)
+
+        boston
+      
+
+
+barkly's software engineers are developing technologies that protect the unprotected with strong security that anyone can use.  our software spots malware based on its core characteristics and behaviors, without relying on file signatures. our saas portal delivers a simple way for overworked it administrators to monitor and report on hundreds of endpoints in their organization, and ultimately access trending information across the industry.  we're looking for engineers who bring fresh ideas from a variety of areas, including security, large-scale software application design, as well as agile development processes and saas infrastructure. as a software engineer, you will work with a small team on projects driven directly by customer needs, with opportunities to switch teams and projects as you and our business grow. our engineers are collaborative, enthusiastic, displaying leadership qualities and versatility as we make the world a safer place. 
+what you’ll do every day:
+
+design, develop, test and deploy highly scalable, complex applications
+work with our product, research and design teams to help prioritize and deliver features that directly help customers
+
+this is your dream job if you have:
+
+at least 2-5 years of software development work experience including experience in saas
+proficiency with at least one programming language, e.g. c#, java, python, c or c++, node-js
+familiarity with amazon web services
+some experience with postgres or similar database technology
+complete comfort with agile and automated continuous build, test, and deliver approaches
+demonstrated ability to rapidly adapt to new technologies and quickly contribute to a team
+strong communication skills with both technical and non-technical clients
+a willingness and ability to be team player who can jump in and work on any level of the stack
+the wherewithal to make suggestions on how we can be better and ensure that the best possible code is delivered
+
+even better:
+
+experience evaluating and selecting new frameworks and driving buy/build decisions
+experience building automated test pipelines to support continuous delivery
+experience with tools and frameworks like docker, vmware/esxi, kubernetes, junit, guice, and dropwizard.
+knowledge of continuous integration infrastructures such as atlassian bamboo and npm
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+do you have 1 - 3 years programming in industry? *
+
+
+
+--
+yes
+no
+
+
+can you commute to boston without relocation? *
+
+
+
+--
+yes
+no
+
+
+do you have at least one year of java programming experience? *
+
+
+
+--
+yes
+no
+
+
+have you used c or c++ in industry? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

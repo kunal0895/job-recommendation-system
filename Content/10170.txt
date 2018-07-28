@@ -1,0 +1,270 @@
+
+
+
+    data scientist at m.gemi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    mgemi.com/about.html
+                
+
+                    website
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+new york, united states
+
+
+
+
+
+data scientist
+founded in march of 2015 , m. gemi is a line of shoes made the old way, by hand, in italy, sold the new way: direct to consumer, with new drops of limited edition styles every monday, at what had previously been historically impossible prices.
+we’re inspired by beauty, passionate about italian craftsmanship, and devoted to supporting family-owned workshops. also, we’re obsessed with shoes, and dedicated to delivering them at a price that feels unfairly good.
+our team—located in boston, new york, and florence—is comprised of outstanding talent that crosses the spectrum and is united in our devotion to quality and innovation at every touch point, from unparalleled client service to disruptive retail experiences, and of course, creating exceptional products, from shoes to store to website. we seek highly ambitious, creative problem solvers to join our quickly growing team. to learn more visit: www.mgemi.com
+the role
+
+the data scientist is responsible for implementing models that power our demand planning and inventory tools; and will also partner with engineering and product to build out the foundation for our personalization efforts so that we can move from blast to segment to true 1:1 communication in an omni-channel setting.
+we’re looking for someone who not only knows the theory, but who can demonstrate an ability to turn data and models into business results
+gain an understanding of our business, clients, and our domain allowing you to use your judgment and make autonomous decisions
+
+requirements
+about you:
+
+phd in quantitative discipline (math, statistics, economics, engineering, computer science, physics, etc.)
+ability to take an idea from theory to prototype, including all steps of data cleansing, model exploration and tuning
+strong python
+strong grasp of probability and statistics
+results orientated, curious, attention to detail, and a strong collaborator
+have a strong focus on quality and a desire to get things done in the best possible way
+you’re interested in the transparency behind brands and the opportunity to innovate in consumer industries that are ripe for disruption
+
+benefits
+what’s in it for you?
+
+complex problems: working on advanced customer segmentation using a mixture of implicit and explicit signals.  stochastic demand forecasting using a mixture of click stream, facebook signals cpc, cpm, audiences), pre-order and style-segment data
+innovation with personalization: implementation and development of collaborative filtering models using explicit and implicit data (e.g. email open, click and purchase; and third party data-appends) you will build a “ready to eat” model that optimizes communication cadence based on consumer behavior
+forward momentum: an impactful role in a well-funded startup by top tier vcs.
+continuous learning: you’ll be joining the company early so there are lots of challenges for you to have a meaningful impact on as we learn and solve them together
+love of la dolce vita: celebrating the many special and inspiring aspects of italian culture
+an artistic mission: believe and support the tradition of old world artisans and craftsmanship
+building team culture: impact and help shape our corporate culture
+equity compensation as part of compensation package
+
+
+
+
+
+
+apply for this opening
+
+
+
+
+
+                                        apply with linkedin
+                                    
+
+
+
+
+
+
+                                    apply with indeed
+                                
+
+
+apply for this opening at 
+                        http://mgemi.recruiterbox.com/jobs/fk0mbfr?apply=true
+
+
+
+ other openings at m.gemi
+                                
+see all the jobs at m.gemi here: 
+                                    http://mgemi.recruiterbox.com/jobs
+                                
+
+
+
+
+
+
+                        fetching your linkedin profile ...
+                    
+
+
+
+application form
+
+
+
+
+                        apply with linkedin
+                    
+
+
+
+
+
+                        apply with indeed
+                    
+
+
+
+
+
+
+                        first name
+                         *
+                    
+
+
+
+
+                        last name
+                        
+                    
+
+
+
+
+                        email
+                         *
+                    
+
+
+
+
+                        phone
+                         *
+                    
+
+
+
+
+                        resume
+                         *
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for your time
+
+
+
+
+
+apply for this opening
+
+
+
+                    apply with linkedin
+                
+
+
+
+                    apply with indeed
+                
+
+share this opening with friends
+
+
+
+
+
+
+
+
+ other openings at m.gemi
+                    
+see all the jobs at m.gemi here: 
+                        http://mgemi.recruiterbox.com/jobs
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+recruiterbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,275 @@
+
+
+
+web software developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+home
+search jobs
+create account
+log in
+help
+
+
+
+
+
+
+
+
+web software developer
+
+bookmark this posting |
+    print preview |
+        apply for this job
+
+
+
+announcement
+
+
+
+details
+
+
+
+open date
+10/10/2017
+
+
+requisition number
+prn15469b
+
+
+job title
+web software developer
+
+
+working title
+web software developer
+
+
+job grade
+f
+
+
+flsa code
+computer employee
+
+
+patient sensitive job code?
+no
+
+
+standard hours per week
+40
+
+
+full time or part time?
+full time
+
+
+shift
+day
+
+
+work schedule summary
+
+
+
+vp area
+u of u health - academics
+
+
+department
+00246 - human genetics
+
+
+location
+campus
+
+
+city
+salt lake city, ut
+
+
+type of recruitment
+external posting
+
+
+pay rate range
+47600 to 90400
+
+
+close date<br /><br /><strong>note:</strong> may close at anytime.
+
+
+
+open until filled<br /><br /><strong>note:</strong> may close at anytime.
+yes
+
+
+job summary
+the marth laboratory (http://marthlab.org) in the department of human genetics at the university of utah is building real¬-time genomics visualization and analysis web software as part of the iobio project (http://iobio.io).   we are hiring an experience web software developer to create web applications with functionality ranging from visualizing terabytes of biological data to fine grained interrogation of disease¬ causing mutations.  these tools open the world of complex genomic analysis to medical professionals and scientists with limited experience in computational analysis. these applications are built on our technology stack, consisting of a node.js web service backend, which streams analysis results via websockets to the web applications, where results are visualized using d3.
+
+
+responsibilities
+the successful applicant will design and develop new visualizations, write new web applications, and build client and server libraries.  in this position, we are looking for an individual with significant experience in web software development, who will apply these skills to genomic data visualization in a self-directed fashion.  this position will require working with other members of the development team as well as clinicians/scientists who are users of our web tools.
+this job description is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to the job.work environment and level of frequency typically requirednearly continuously: office environment.physical requirements and level of frequency that may be requirednearly continuously: sitting,  hearing,  listening,  talking.often: repetitive hand motion (such as typing),  walking. seldom: bending,  reaching overhead.
+
+
+minimum qualifications
+bachelor’s degree in related area or equivalency (2 years related work experience may be substituted for 1 year of education). 2 years of experience in web software development or related area.
+applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description.
+
+
+preferences
+•	at least 3 years of web software experience 
+•	familiarity with computational algorithms
+•	programming proficiency in a modern computer language (e.g. python, perl, c++) 
+•	experience in web software development (e.g. javascript, html5, css)
+•	experience in ui/ux
+•	experience with data visualization
+•	background in genomics or strong interest in this area
+
+
+type
+benefited staff
+
+
+special instructions summary
+
+
+
+additional information
+
+the university of utah is an affirmative action/equal opportunity employer and is committed to diversity in its workforce.  in compliance with applicable federal and state laws, university of utah policy of equal employment opportunity prohibits discrimination on the basis of race or ethnicity, religion, color, national origin, sex, age, sexual orientation, gender identity/expression, veteran’s status, status as a qualified person with a disability, or genetic information.  individuals from historically underrepresented groups, such as minorities, women, qualified persons with disabilities, and protected veterans are strongly encouraged to apply. veterans’ preference is extended to qualified applicants, upon request and consistent with university policy and utah state law.
+to inquire about this posting, email: employment@utah.edu or call 801-581-2300.  reasonable accommodations in the application process will be provided to qualified individuals with disabilities. to request an accommodation or for further information about university aa/eo policies, please contact the office of equal opportunity and affirmative action, 201 s. presidents cr., rm 135, (801) 581-8365 (v/tdd), email: oeo@umail.utah.edu. 
+
+the university is a participating employer with utah retirement systems (“urs”). to be eligible for retirement contributions, you must be hired into a benefit-eligible position. certain new hires are automatically assigned to the urs retirement plan and other employees with prior urs service, may elect to enroll in the urs within 30 days of hire. regardless of whether they are hired into a benefit-eligible position or not, individuals who previously retired and are receiving monthly retirement benefits from urs must notify the benefits department upon hire. please contact utah retirement systems at (801)366-7770 or (800)695-4877 or the university’s benefits department at (801)581-7447 for information.
+
+this position may require the successful completion of a criminal background check and/or drug screen.
+
+
+
+
+
+
+posting specific questions
+
+required fields are indicated with an asterisk (*).
+
+ * 
+  do you have a related bachelor's degree or equivalency? (2 years related work experience may be substituted for 1 year of education)
+    
+yes
+no
+
+
+ * 
+  how many years of web development experience do you have? (experience should include database management, e-commerce, and website maintenance)
+    
+less than 2 years
+2 years or more, but less than 5 years
+5 years or more, but less than 8 years
+8 years of more, but less than 12 years
+12 years or more
+
+
+
+
+applicant documents
+
+required documents
+
+resume
+
+optional documents
+
+cover letter
+appropriate discharge document (such as a dd-214 – member copy 4) – veteran only – call 801.581.2169
+addendum to the university of utah - veteran only - call 801.581.2169 after submission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

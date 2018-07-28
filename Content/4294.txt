@@ -1,0 +1,209 @@
+
+
+
+careers center - software developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software developer
+
+
+job locations
+
+us-nc-durham
+
+
+
+
+
+requisition id
+
+2017-3872
+
+
+company name
+
+teledyne scientific & imaging
+
+
+shift
+
+1st shift - day
+
+
+citizenship/visa requirement
+
+us citizen only
+
+
+internal code (for careerbuilder)
+
+#cb#
+
+
+
+
+
+
+
+
+
+company overview
+
+
+
+
+
+
+teledyne scientific company (tsc) has a legacy of over 50 years of advanced research and technology development. our customer base consists of darpa, onr, afrl, arl, and other government and proprietary customers. tsc’s information sciences (is) division in north carolina is a state-of-the-art research and development research facility, dedicated to r&d in the areas of computational neuroscience, deep learning, machine learning, persistent surveillance, autonomous systems and computer vision. the laboratory currently is host to world-class scientists and engineers, with advanced degrees in computer science, electrical engineering, neuroscience, and mechanical engineering. teledyne is an equal opportunity/affirmative action employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, gender, sexual orientation, gender identity, gender expression, transgender, pregnancy, marital status, national origin, ancestry, citizenship status, age, disability, protected veteran status, genetics or any other characteristic protected by applicable federal, state, or local law.      if you need assistance or an accommodation while seeking employment, please email  teledynerecruitment@teledyne.com or call (805)373-4545.  determinations on requests for reasonable accommodation will be made on a case-by-case basis.  please note that only those inquiries concerning a request for reasonable accommodation will receive a response.   
+
+
+
+
+
+
+
+
+position summary and responsibilities
+
+
+
+
+
+
+teledyne scientific company is seeking exceptional entry level software developer to support advanced research and development projects that require algorithm and software development for scientific computing. this position is at our research laboratory in research triangle park, durham, north carolina.  primary responsibilities:define, develop, and deliver novel solutions to a broad range of problems that include applications in target detection and tracking, deep learning, machine learning and decision systems, computer vision, signal analysis, robotic systems, for the government and commercial industry. specific duties include:in collaboration with other colleagues, develop and implement advanced algorithms on pc, gpu and soc (system on a chip) architectures (~95%)assist with customer interaction to demonstrate and deliver research results through written reports, briefings and participation in program reviews (~5%)a small amount of travel (less than 5% time) is anticipated.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+skills/experience:strong foundation in numerical techniques (fft, monte carlo, finite elements, linear algebra, pdes, odes, statistics, etc.) are requiredexperience with c or c++ is requiredexperience with cuda and gpu programming strongly desiredfamiliarity with scientific programming in matlab is requiredfamiliarity with standard math libraries (blas/lapack/scalapack etc) is requiredfamiliarity with software development practices (revision control/complier tricks/debugger, etc.), under windows/linux/unix is requiredknowledge of computer architecture (gpu/fpga/distributed computing), operating systems, networking, storage systems, unix/linux, matlab, etc. is a plusexperiences with specific computational domains, such as machine learning, image processing, signal processing a plusexcellent interpersonal and communication (presentation & writing) skillscoursework in software development and computer architecture requiredcoursework in algorithms is strongly desired education:candidates are required to have a b.s. in computer science or applied mathematics security clearance:candidates are required to be u.s. citizenscurrent secret clearance or minimally able to obtain security clearance
+
+
+
+
+
+
+
+
+requisition post information* : posted date
+
+
+
+
+
+
+2/1/2017
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

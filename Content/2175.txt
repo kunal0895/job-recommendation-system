@@ -1,0 +1,146 @@
+
+
+
+
+equifax - job - big data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+big data engineer
+
+
+				apply
+			
+
+
+
+job number:
+								12727
+						
+
+position title:
+
+
+external description:
+big data engineer global platform services, application services     job description:  equifax is looking for a big data engineer for its infrastructure team supporting our big data services in alpharetta, ga.   the ideal candidate is interested in devops, embraces open source software and technology, likes to automate things and immerses themselves into the emerging industry trends and landscape for this space. responsibilities are to develop and automate big data services; adopting new technology; and ensuring modern operations in order to deliver consumer driven big data solutions.     the successful candidate will be team player to be part of a dynamic big data product team focused on modernization and automation.     responsibilities:  §   utilize engineering and programming skills focused on enabling a devops model  §   install, configure and maintain physical and cloud servers running linux  §   deliver repeatable, reliable systems using chef and domain specific tooling  §   configuration and change management  §   document operations and provide run books  §   participate in and provide feedback on systems engineering and design  §   streamline deployment of infrastructure into consumable services  §   provide input on the future execution of the delivery and management of environments with a strong emphasis on automation, security, scalability and resiliency     required experience:  §   bachelor's degree or technical college diploma in a technical field or equivalent experience  §   demonstrable cross-functional knowledge with systems, storage and networking  §   knowledge of hadoop and the hadoop ecosystem  §   proficiency in the linux operating system  §   proficiency in shell scripting  §   proficiency in java or python    §   familiarity with configuration automation tools (chef, puppet, ansible, salt stack, etc. (we use chef))  §   familiarity with continuous integration and delivery  §   familiarity with software development methods and techniques  §   strong communication skills  §   absolutely must be a team player (devops)  §   boundless passion for technology and a willingness to learn and teach  §   strong work ethic, attention to detail and problem solving skills     desired experience:  §   devops focused engineer with experience in lean principles  §   java/python development skills  §   openstack or other cloud management platform experience  §   experience working within an agile framework primary location:usa-atlanta jv whitefunction:function - it operations / platformsschedule:full time
+						
+
+city:
+								alpharetta
+						
+
+location_formattedlocationlong:
+								alpharetta, georgia  us
+						
+
+state:
+								georgia
+						
+
+community / marketing title:
+								big data engineer
+						
+
+company profile:
+
+
+requisition number:
+								j00052507
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+it compliance analyst
+
+atlanta, ga
+
+software configuration management/ system engineer
+
+alpharetta, ga
+
+java support developer
+
+sydney, au-nsw
+
+cis implementation engineer
+
+alpharetta, ga
+
+linux patching execution specialist
+
+alpharetta, ga
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

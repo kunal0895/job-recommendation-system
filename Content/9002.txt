@@ -1,0 +1,380 @@
+
+
+
+analyst i-ii, data science in phoenix, az at hsag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          this site uses cookies. to find out more, see our
+          cookies policy
+
+
+x
+
+
+
+
+
+
+
+this site uses cookies. to find out more, see our cookies policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+toggle search
+ search
+                
+
+
+
+
+
+
+
+
+
+
+
+        home
+    
+
+
+
+        about
+    
+
+
+
+        events
+    
+
+
+
+        contact
+    
+
+
+
+        jobs 
+
+
+
+
+        all jobs
+    
+
+
+
+        browse by category
+    
+
+
+
+        browse by location
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+keyword:
+
+
+
+location:
+
+
+{{$parent.googleplacesautocompleteenabled ? location.description : location}}
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+hsag
+all jobs
+united states
+phoenix, az
+research
+
+
+
+
+
+
+
+
+
+
+
+analyst i-ii, data science in 
+phoenix, az 
+at hsag 
+
+date posted: 12/5/2017
+
+
+
+
+apply
+not ready to apply?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        share with:
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job snapshot
+
+
+
+
+
+employee type:
+full-time
+
+
+
+
+
+
+location:
+
+
+phoenix, az
+
+
+
+
+
+
+
+job type:
+research
+
+
+
+
+
+
+experience:
+not specified
+
+
+
+
+
+
+date posted:
+12/5/2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+are you passionate about improving the quality of healthcare?  are you interested in exploring a rapidly expanding universe of clinical data?  are you ready to leverage your talents to make healthcare better for everyone?  are you fascinated by the growing field of data science? then join the new data science & advanced analytics team at health services advisory group (hsag) that is transforming the delivery of healthcare in the united states! hsag has been a pioneer in the field of healthcare quality improvement for over three decades, serving approximately:  25 percent of the nation’s medicare population 46 percent of the nation’s medicaid population 20 percent of the nation’s dialysis population  hsag is nationally recognized as an industry leader in the areas of data analysis, measure development, and patient satisfaction surveys. we are in search of talented individuals that are interested in a career in analytics as an analyst in hsag’s data science & advanced analytics division. together we can spread positive change to make healthcare better.   unique benefits the analyst also benefits from hsag’s desire to grow its staff into the future leaders of healthcare quality improvement in the nation. new hsag analysts are provided formal training in statistics, clinical epidemiology, sas, healthcare data, and an assortment of healthcare-related topics.  hsag offers:  a comfortable work-life balance, including half-day fridays and flexible work schedules. three weeks of paid time off and 13 company-paid holidays where staff leave two hours early prior to each holiday just to get a “jump start” on holiday festivities.  hsag offers a competitive benefit package which includes, medical, dental, vision, tuition reimbursement, 401(k) and an employee stock ownership plan.  description the analyst is a key contributor to cutting edge analytic work that spans the broad spectrum of healthcare data projects at hsag. driven by intellectual curiosity and a passion for healthcare quality, the analyst develops and executes innovative analytic plans that are intended to provide healthcare decision and policy makers with the necessary information to transform healthcare. the analyst will also assist in designing a wide array of analytic studies and participate in all phases of the research design process. the analyst will have at his or her fingertips a wide array of data types to facilitate data exploration, including:  survey case review medical and prescription drug claims eligibility clinical electronic health record operational  details regarding potential project assignments will be discussed with potential candidates during the interview process. essential competencies, duties, and responsibilities  serve as an integral part of hsag data science & advanced analytics division. understand primary types of healthcare data and methods for approaching data assessments. evaluate a wide array of data types.   conduct and interpret analyses, develop appropriate statistical models, manipulate complex databases, and track and evaluate patterns of care and outcomes. perform data validation, conduct analysis plans, and cross reference data. attend and participates in team training meetings. present and communicate project results to nonanalytic staff members and customers.  represent hsag in a professional manner at all times. 
+
+
+
+
+
+job requirements
+education and/or experience  bachelor’s degree in public health, related social science, business, economics, math, statistics, or another quantitative discipline. master’s degree preferred.   other qualifications  knowledge of statistical programming in sas. sas certification preferred. experience with relational databases, sql, and other reporting tools.   experience working with healthcare data is preferred.   proficient in microsoft word, excel, and access. excellent verbal and written communication skills. ability to handle several projects simultaneously and work with multiple teams.  work environment the work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this position.  reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. disclaimer this is not necessarily an exhaustive list of all responsibilities, skills, duties, requirements, efforts or working conditions associated with the position. while this is intended to be an accurate reflection of the current position, management reserves the right to revise the position or to require that other or different tasks be performed when circumstances change (e.g., emergencies, changes in personnel, work load, rush jobs requiring non-regular work hours, or technological developments). hsag is an eeo employer of veterans protected under section 4212. if you have special needs and require assistance completing our employment application process, please feel free to contact us. eoe m/f/vet/disabled.
+
+
+
+
+
+
+
+
+
+
+
+apply
+not ready to apply?
+
+
+
+
+
+
+
+
+
+check out our similar jobs
+
+business analyst jobs
+business management jobs
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+terms and conditions
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+

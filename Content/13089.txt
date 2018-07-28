@@ -1,0 +1,142 @@
+
+
+
+
+smartthings careers - software engineer - backend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    smartthings careers                                            
+
+
+
+
+
+
+
+                software engineer - backend
+    
+    
+
+                            engineering            
+                    new york,
+                            new york
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+this is a key role in smartthings’ new york-based audio-video engineering team. the av team is building highly scalable software to support a number of ambitious new iot product features. we are looking for a talented backend engineer with an interest in networking, iot and video programming in python and c. you’ll work in an ecosystem of mobile apps, smart embedded devices, cloud-based backend services, and cutting-edge consumer electronics, contributing to the evolution of the internet of things. job responsibilities include the following:programming in c and/or pythonsoftware development using 'internet of things' standards, including ocfsoftware development using ip based internet protocols including ssdp, udp, tcp, tls, coap, http, mqtt, thread, wifi, websocketsdevelopment on linux/unix platformsmanaging microservices in awstesting and debugging embedded electronicsrapid prototyping using available tools such as: arduino, raspberry pioutreach to and coordination with international samsung teams working collaboratively on global product launchesjob requirements:1+ years software engineering experience with bs c programming experienceexperience and continued interest in learning and deploying unfamiliar languages, frameworks, and other toolspython or shell scripting language familiaritystrong communication skills, both verbal and writtenself-starter with the ability to work with minimal supervision and lead otherseager to learn and adapt to new and changing requirementsbachelor's degree in ece, ee, cs or related field.aws experience or other cloud providers
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

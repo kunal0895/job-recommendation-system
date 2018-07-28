@@ -1,0 +1,278 @@
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in to access application status, saved documents and job search agents
+ 
+
+
+
+
+
+
+job details            
+
+
+
+                view job cart (0)
+            
+
+
+
+send this job to a friend                
+
+
+
+view my account        
+
+
+
+
+
+
+
+
+discover. a more rewarding way to work.at discover financial services, you'll find yourself in the company of some of the industry's smartest and most reliable professionals. and at a company that rewards dedication, values innovation and supports growth.thrive in an environment that promotes teamwork and shared success. build on a foundation of mutual respect. join the company that understands rewarding careers like no other, with this exceptional opportunity: 
+
+
+
+
+
+
+                        application developer
+                    
+
+
+
+
+
+
+
+
+requisition number			p167804_s1
+
+
+
+
+job type			
+
+				full time
+			
+
+
+
+
+
+post date		
+			
+
+
+
+
+
+
+
+
+location			
+
+				phoenix (az)
+			
+
+
+
+
+
+functional area			
+
+				customer service
+			
+
+
+
+
+
+maximum salary			0
+
+
+
+
+minimum salary			0
+
+
+
+
+requisition shift			
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+
+
+discover. a more rewarding way to work. at discover financial services, you’ll find yourself in the company of some of the industry’s smartest and most reliable professionals. and at a company that rewards dedication, values innovation and supports growth. thrive in an environment that promotes teamwork and shared success. build on a foundation of mutual respect. join the company that understands rewarding careers like no other.discover is looking for a talented, senior data developer to join our application development team. we’re looking for developers who are passionate about building software that delights our customers and foster a low effort experience.the preferred candidate is one who enjoys working within a team in an entrepreneurial environment, influencing the long term direction of our solutions while working with a similar minded group of people. our team operates very much like a startup that just happens to reside within a fortune 500 company.you’ll love working on our team if you’ll enjoy mentoring with other developers, working directly with customers, leading your work vs. following a checklist, enjoy advocating for and driving change as well as inventing features or projects that solve a business challenge. you’ll be part of a skunkworks team that specializes in using the latest technologies to provide world class solutions to challenging and emerging business needs. our technical solutions are fairly diverse. as such you’ll work on projects that range from call handling systems, to reporting systems, to real-time event based communication systems and even building video games for play at work.promote a risk-aware culture; ensure efficient and effective risk and compliance management practices by adhering to required standards and processes.
+
+
+
+
+skills          
+
+
+
+skills  required skills:strong background in machine learning with domain knowledge and experience in the following areas: data-driven statistical modeling, graphical models, feature extraction and analysis, supervised learning in particular discriminative methodsworking closely with software engineering teams to drive real-time model implementations and new feature creationstheory and practice of design of experiments and statistical analysis of resultsprogramming skills sufficient to extract, transform, and clean large (multi-tb) data sets in a unix/linux environmentability to relate to and solve business problems through machine learning, data mining and statistical algorithmsbe able to apply machine learning ie random forests, boosting, bagging, etc. using packages like h20, scikit-learn, tensorflow, or nltkhighly knowledgeable in database systems with proficiency in oracle, mysql, maria, mongo, etc.advanced level of expertise in sql query developmentexperience with solving problems and delivering high quality results in a fast paced environmentstrong communication skillsgreat team player with a focus on customermust have lean, agile (scrum) knowledge or experiencemust be analytical, technical and have strong organizational skillsms degree in computer science, mathematics, statistics, operational research or equivalent quantitative field with 3+ years of relevant work experience 
+
+
+
+
+desired skills:phd degree in computer science, mathematics, statistics, operational research or equivalent quantitative fieldsunderstanding of matrix and vector mathematicsexperience developing software that uses linear algebra libraries such as blas and lapackfamiliarity with cloud-based iaas and paas solutions (aws, google cloud, heroku, cloud foundry)familiarity in various tools and frameworks that enable capabilities within the big data ecosystem (hadoop, kafka, spark, nifi, hive, yarn, hbase)experience managing code on github  #li-sn1
+
+
+
+we are an equal opportunity employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+
+
+
+
+
+
+
+ 
+
+back to top
+
+
+
+
+
+ 
+
+
+
+
+                view job cart (0)
+            
+
+
+
+send this job to a friend                
+
+
+
+view my account        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobdetails
+
+

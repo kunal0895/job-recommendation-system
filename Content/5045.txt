@@ -1,0 +1,60 @@
+
+
+
+
+umuse - jobs: backend engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+backend engineer
+
+backend engineer
+austin, texas, united states
+
+descriptionwho you are: always wanted to experience a startup from the ground floor? want to work with, and learn from, a team with a proven track record of building successful technology companies? want to build elegant, responsive applications that have the potential to touch and transform millions of lives?as a backend engineer you will be involved in designing and implementing components for our highly available/scalable cloud infrastructure. what you’ll do: participate in product and architectural designs and the technology stack of backend systems part of a small team with complete individual ownership and responsibility for your services work with our various data collection and monitoring systems assist with etl processing, nlp and machine learning have fun doing something that’s never been done before! requirementswhat we look for: b.s. or greater in computer science or equivalent education/experience 2+ years of industry experience in backend development or data engineering strong python, java, c++ or scala skills both relational (mysql) and nosql (redis) datastores, including warehouse design and performance optimization passion for learning new technologies but a strong conviction not to reinvent the wheel strong sense of ownership eager to work in fast-paced startup environment with a focus to build an experience users love extra credit: experience or a strong interest in data analysis and machine learning. experience with deep learning libraries such as tensorflow, theano, cntk, or dsstne experience with amazon web services experience in a small startup environment 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+umuse website
+
+powered by
+workable
+
+
+
+
+

@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mantech - job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ?
+
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job details job 1 of 1   apply now   save to cart          req id  94019br   business title  software qa tester   group  mcis   location  usa texas san antonio   clearance level needed  secret   category  intelligence   job duties and responsibilities  the cyber operations and exploitation solutions (coes) division of mantech mcis is looking for a highly motivated and qualified software test engineer in the san antonio, tx metro area.  this is a rewarding and highly challenging position with direct support and significant impact to operations of national security. in this role, you’ll have the opportunity to work in a challenging and exciting work environment with a flexible work schedule. you’ll be working on mission critical projects that directly work to safeguard our country.mantech is dedicated to hiring the best of the best, and in order to do so we offer great pay and excellent benefits.major job functions:reports to the test functional manager while working within an agile product team made up of developers, researchers, and other testers.  collaborates within the team to understand product feature scope to design and execute functional, customer scenario, stress, performance, scalability, and security testing.  develops test matrices to show test coverage.  documents test findings within the software development management system, and reports findings verbally at agile meetings to the team, management, and customer.stands up and maintains testing environments for manual or automated testing.  testing environments may include windows or linux operating systems installed on vmware and hardware, kernel mode debugging enabled and debugger attached, configuration of physical or virtual switches and routers, specific operating system or firewall configurations, and installation of third party software applications.  utilizes automation test suite and seeks to automate when possible.  develops automation test scripts and applications in python or c/c++. reviews and provides analysis of testing and debug output.   requirements:- individuals must be a u.s. citizen and be eligible to obtain a us security clearance. applicants with the appropriate skills, but without a security clearance, are still encouraged to apply.  if you’re the right fit for the job, we’ll make it happen.  applicants will be subject to a government security background investigation.- experience designing and executing test strategies and test cases to meet high quality standards based on software requirements.- experience defining, developing, and executing automated tests using high-level programming languages, such as python.preferences:- ideal candidates exhibit our core values: passion, capacity, and humility.     - passion for the customers and mission we serve    - capacity to learn and grow into a technical leader    - humility to learn from others and treat others with mutual respect, and satisfied without public recognition of work      - bs degree in one of the following disciplines:  computer engineering, computer science, math, software engineering or a related field  - experience in delivering quality products and involvement in all phases of the software development process: idea, design, implementation, delivery, and support.- experience testing and debugging low level software written in c/c++ which runs in the user and kernel areas of the operating system.- professional test certifications are a plus.- experience using test case managers, defect tracking tools, source control tools and build systems is desired.   qualifications  requires bachelors degree or equivalent and five to seven years of related experience with a minimum of six months experience in one or more of the following: computer network penetration testing and techniques; computer evidence seizure, computer forensic analysis, and data recovery; computer intrusion analysis and incident response, intrusion detection; computer network surveillance/monitoring; network protocols, network devices, multiple operating systems, and secure architectures. ability to obtain a security clearance.   degrees  see qualifications   years of experience  see qualifications   position type  full-time   shift  day   overview  for more than 40 years, mantech employees have been solving complex problems for the national security community. we are comprised of approximately 10,000 talented employees around the world. we adhere to the simple, no-nonsense values on which mantech was founded more than four decades ago, aligning squarely with the mission objectives of our customers. as our customer base continues to expand and diversify, we continue to diversify our workforce and solutions. half our employees have a military background, and more than 70 percent hold a government security clearance. as a leading provider of innovative technology services and solutions for the nation's defense, security, space, and intelligence communities; we hold nearly 1,000 active contracts with more than 40 different government agencies.    apply now   save to cart        
+
+
+  
+
+ mantech international corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer.  we do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a disabled veteran, recently separated veteran, active duty waretime or campaign badge veteran, armed forces services medal, or any other characteristic protected by law.  if you require a reasonable accommodation to apply for a position with mantech through its online applicant system, please contact mantech's corporate eeo department at (703) 218-6000.  mantech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply.  mantech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies.  mantech does not accept resumes from unsolicited recruiting firms.  we pay no fees for unsolicited services.
+ if you are a qualified individual with a disability or a disabled veteran, you have the right to request an accomodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/pages/careers.aspx as a result of your disability.  to request an accomodation please click careers@mantech.com and provide your name and contact information.
+© 2010 mantech international corporation. all rights reserved. 
+about mantech | terms of use | contact mantech | eeo poster
+
+
+
+   
+
+

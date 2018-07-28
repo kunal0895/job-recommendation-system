@@ -1,0 +1,128 @@
+
+
+
+
+smarsh careers - sr. javascript developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+                                                    smarsh careers                                            
+
+
+
+
+
+
+
+                sr. javascript developer
+    
+    
+
+                            product development            
+                    portland,
+                            oregon
+                
+                        
+
+
+
+        apply
+    
+
+
+
+job descriptionwe are looking for a javascript developer who is motivated to implement great ux with the art of programming using the vuejs framework.  responsibilities will include implementing visual elements and their behaviors with user interactions. you will work with both front-end and back-end web developers to build all client-side logic. you will also be bridging the gap between the visual elements and the server-side infrastructure, taking an active role on both sides, and helping to define the frontend application architecture.responsibilitiesdevelop new user-facing featuresensure the technical feasibility of ui/ux designsdesign / develop vuejs component hierarchy for performance and scalabilitymerge across multiple git repositories (git subtree merging)safely update npm package dependencies (understand semver and identify modules that break it)stay up-to-date with various ecosystems (in no particular order): webpack, axios, vue, sass, eslint, babelcollaborate with other team members and stakeholdersskills and qualificationsstrong understanding of gitdeep understanding of javascript, including promises, coercion, es2015 modules, object handlinggood understanding of asynchronous request handling, partial page updates, and ajaxunderstand reactive (rx) programming terminology (for vuex): actions, views, state, mutations, etc.comfortable with single-page-application architectureadaptability to hybrid spa & traditional browser applicationsgood understanding of web markup, including html5 and css3familiarity with front-end build tools, such as gulp.js
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

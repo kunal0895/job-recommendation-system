@@ -1,0 +1,534 @@
+
+
+
+software advice - open position: intern - web application developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+software categories
+
+back
+
+software categories
+
+
+accounting software
+
+
+advertising agency software
+
+
+app development software
+
+
+appointment scheduling software
+
+
+auction software
+
+
+audit software
+
+
+auto repair software
+
+
+bpm software
+
+
+bug tracking software
+
+
+business intelligence tools
+
+
+business management software
+
+
+business phone systems
+
+
+call center software
+
+
+camp management software
+
+
+catering software
+
+
+church management software
+
+
+cmms software
+
+
+collaboration software
+
+
+community software
+
+
+compliance management systems
+
+
+construction software
+
+
+content management systems
+
+
+contract management software
+
+
+cpq software
+
+
+crm software
+
+
+customer loyalty program software
+
+
+ database management systems
+
+
+data entry software
+
+
+daycare software
+
+
+debt collection software
+
+
+dental software
+
+
+distribution software
+
+
+ecommerce platforms
+
+
+ediscovery software
+
+
+ehs software
+
+
+electronic signature software
+
+
+email marketing software
+
+
+erp software
+
+
+event management software
+
+
+facility management software
+
+
+field service software
+
+
+fleet management software
+
+
+form automation software
+
+
+gym management software
+
+
+help desk software
+
+
+home health software
+
+
+hotel management software
+
+
+human resources software
+
+
+
+
+
+
+idea management software
+
+
+insurance software
+
+
+inventory management software
+
+
+issue tracking software
+
+
+itsm software
+
+
+landscaping software
+
+
+learning management systems
+
+
+legal software
+
+
+loan servicing software
+
+
+long term care software
+
+
+manufacturing software
+
+
+marketing software
+
+
+martial arts software
+
+
+medical software
+
+
+membership management software
+
+
+mentoring software
+
+
+network monitoring tools
+
+
+nonprofit software
+
+
+online payment software
+
+
+patch management software
+
+
+personal trainer software
+
+
+portal software
+
+
+project management software
+
+
+property management software
+
+
+psa software
+
+
+registration software
+
+
+reporting tools
+
+
+reputation management software
+
+
+retail pos software
+
+
+rfp software
+
+
+risk management software
+
+
+salon software
+
+
+scheduling software
+
+
+school management software
+
+
+security software
+
+
+sports league management software
+
+
+staffing agency software
+
+
+supply chain management software
+
+
+survey tools
+
+
+ticketing software
+
+
+tour operator software
+
+
+travel agency software
+
+
+veterinary software
+
+
+video conferencing software
+
+
+virtual data room
+
+
+visitor management systems
+
+
+workflow software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+careers
+intern - web application developer
+
+
+
+537,165 companies have chosen the right software using ourextensive research on over 2,080 systems. how does it work?
+
+
+
+
+
+intern - web application developer
+
+
+
+
+we’re looking for a spring 2018 intern who want to get their feet wet in cloud computing, front-end web development.  if you’re still learning the ropes and are eager to work on fast-paced projects using the javascript and the lamp stack, then keep reading.
+
+
+
+
+
+ 
+
+
+we're looking for someone who:
+
+wants to code for a living. you’re currently enrolled in a bachelor’s degree program for computer science (or related field) and have some experience in software development.
+is eager to learn and work on custom cloud-based applications. you’ve learned oo concepts, know your way around linux, and want to be part of a dynamic software engineering team.
+is a diligent programmer. you think ahead of time about how best to approach a problem. your code is clean, well organized and properly documented.
+has learned basic javascript. you enjoy working with the presentation layer and have some experience with javascript, html, and css.
+is a team player. you have a roll up the sleeves attitude that is always ready to take on new tasks. you enjoy working with your peers on projects and sharing knowledge across the team.
+ 
+
+what you'll do all day:
+
+code. you’ll spend your days writing and refactoring code, and figuring out how to scale solutions for our growing business. bonus points if you've worked in javascript, php, mysql and git.
+collaborate. you’ll work with our team to understand our code base to perform and participate in code reviews and peer inspections.
+learn new technical skills. we’re always trying new things and you should be too. you’ll be expected to enhance your skills as you learn and grow.
+
+
+you'll be measured on how well you:
+
+problem solve. you’ll carefully analyze the problem at hand and work with other members of the team (when necessary) to develop a solution.
+deliver high quality code. we have high standards and we want to keep it that way. your code will have to be well structured and as bug-free as possible.
+get stuff done (that’s gsd around here).  we move at lightning speed around here. to keep up you’ll need to be productive, proactive and get projects completed quickly.
+work with others.  we are all working towards the same goals and we want someone that will get along well with the rest of the team. 
+
+a few reasons why you might hate it:
+
+you don't want to get your hands dirty. this is a hands-on active coding role, so you’ve got to be ready to jump right in and take on assignments.
+you like a slow pace of development and testing. we have a startup mentality and love getting things done quickly. there will always be plenty of deadline-driven projects on your plate.
+you don’t like being challenged. you’ll get the opportunity to solve some real-time coding challenges. if you’re just looking for an easy “a”, this isn’t the internship for you.
+
+
+and a few reasons why you might love it:
+
+you’ll grow and learn a ton. you’ll become a better engineer as you immerse yourself in the world of technology. your contributions will make a huge impact on the team.
+you'll learn cutting-edge technologies. we are always striving to try new things and use the best tools for the job. you’ll get to see first hand what it’s like to work in a progressive atmosphere.
+coolness factor. our soco office is insanely cool and you’ll work with a team of smart, driven people in the live music capital of the world! 
+
+
+
+
+
+
+
+
+
+
+software advice is a gartner company, so to be considered for a position here, you'll need to apply through the gartner website.
+
+click here to apply now
+
+
+
+
+software advice is a gartner company, so to be considered for a position here, you'll need to apply through the gartner website.
+
+click here to apply now
+
+
+not for you? share it:
+ 
+		 
+		 
+		 
+	
+
+ 
+ 
+
+
+how it works
+
+
+we match organizations with software that meets their needs.
+our service is simple and 100% free to customers like you because software vendors pay us when we connect them with quality leads. you save time and get great advice. vendors get great referrals. it's a win for everyone!
+
+call now for advice: (844) 687-6771
+
+
+
+
+
+×
+
+
+
+
+
+in just fifteen minutes, the experts at software advice can help you narrow down the right software for your organization. call us for a free faststart consultation: (844) 687-6771
+call us for a free faststart consultation: (844) 687-6771
+
+
+
+
+
+
+		    
+		  about us  
+		  careers  
+		  terms of use  
+		  privacy policy  
+		  vendors  
+		  resources  
+		  all categories  
+		
+
+about us
+careers
+terms of use
+privacy policy
+vendors
+resources
+all categories
+
+ 
+
+ 
+			 
+			 
+			
+
+
+
+
+
+
+
+ 
+
+© 2006-2017 software advice™, inc.
+
+
+
+
+
+
+
+
+
+

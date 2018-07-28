@@ -1,0 +1,788 @@
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about us 
+
+why xpo?
+international jobs
+
+
+
+search all jobs 
+
+transportation
+supply chain
+corporate
+drivers
+information technology
+operations
+sales
+dock workers and material handlers
+university
+warehouse jobs
+all jobs
+
+
+create profile
+application status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about us 
+
+why xpo?
+international jobs
+
+
+
+search all jobs 
+
+transportation
+supply chain
+corporate
+drivers
+information technology
+operations
+sales
+dock workers and material handlers
+university
+warehouse jobs
+all jobs
+
+
+create profile
+application status
+
+
+
+
+
+
+
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+ create alert
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+
+
+software engineer
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition id: 
+                        
+36526
+                        
+
+
+
+
+
+
+
+
+business unit: 
+                        
+corporate
+                        
+
+
+
+
+
+
+
+
+location: 
+                        
+portland, or, us, 97209
+                        
+
+
+
+
+
+
+
+
+logistics done differently.
+as the software engineer, you will apply technical, mathematical, and scientific techniques and knowledge to evaluate software from other sources. design and implement software components that address specific xpo logistics business requirements, resulting in systems that achieve quantifiable measures of performance, quality, affordability, maintainability, and simplicity. develop new, complex software components, and modifications to and support of existing production software. provide technical support for complex software operating environments deployed by the business.
+pay, benefits and more.
+we are eager to attract the best, so we offer competitive compensation and a generous benefits package, including full health insurance (medical, dental and vision), 401(k), life insurance, disability and more.
+what you’ll do on a typical day:
+
+design new software by applying techniques of computer science, engineering, and mathematical analysis that satisfies the objectives stated in business requirements
+evaluate and select process and logic patterns, programming language constructs, data storage methods, and operating environment interfaces that effectively satisfy business requirements and quantifiable measures
+develop appropriate programs and systems documentation according to established department standards
+collaborate with architects, systems engineers, project managers, systems administrators, and operations analysts to deploy and implement solutions, and troubleshoot technical issues
+deploy and implement fully-tested software solutions
+follow industry best practices, techniques and xpo logistics standardized processes that deliver improved software solutions
+evaluate identified technologies for inclusion in developed software solutions
+certify the proper functioning and performance of software components using repeatable, reproducible, and reportable software testing methodologies
+support software infrastructure by identifying and diagnosing software failures
+install and upgrade software development tools
+provide 24/7 on-call rotational support of software 
+
+what you need to succeed at xpo:
+at a minimum, you’ll need:
+
+bachelor’s degree in software engineering or related technical field, or certification in software engineering from acm or ieee generally required. an equivalent combination of education, training and experience may be considered
+leadership and project management training are beneficial
+4+ years of experience in software solutions development preferably in medium to large corporate environments or commercial software companies
+knowledge of rapid programming, agile development, software patterning, and refactoring techniques
+knowledge of operating environment technologies (network, server, operating systems, database systems)
+knowledge of open source projects
+knowledge of the strengths and weaknesses of common programming languages (c, c++, c#, java, visual basic)
+experience with data marshalling, data transformation, and data representation technologies (single-byte characters, multi-byte characters, xml, stylesheets)
+experience with process communication techniques (shared memory, message queues, semaphores, mutexes)
+knowledge of concurrent processing models, constructs, and techniques (threaded processes, thread synchronization, apartments, error recovery)
+knowledge of sql and relational databases (db2/udb, oracle, mysql)
+knowledge of application-specific technologies (image/graphics processing, character and symbology recognition, data acquisition, and others specific to business application)
+knowledge of unix, java, and windows architecture and programming interfaces
+experience with the industry standard ides – eclipse, visual studio, for unix, java, and windows
+
+it’d be great if you also have:
+
+strong written and verbal communication skills in technical settings. well-developed active listening and presentation skills
+solid knowledge of it software development life cycle methodologies and processes
+basic project management skills. well-developed time management and prioritization skills
+demonstrated analytical capabilities
+ability to apply understanding of functionality of event-driven business models
+
+be part of something big.
+xpo provides cutting-edge supply chain solutions to the world's most successful companies, including disney, pepsi, l'oréal, toyota and many others. we’re the fastest-growing transportation company on the fortune 500 list and we’re just getting started.
+we are proud to be an equal opportunity/affirmative action employer. qualified applicants will receive consideration for employment without regard to race, sex, disability, veteran, or other protected status.
+the above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. they are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. all employees may be required to perform duties outside of their normal responsibilities from time-to-time, as needed.
+
+
+
+
+
+
+
+
+
+
+
+nearest major market: portland oregon
+                    
+                
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+university - entry-level,
+it campaign,
+information technology,
+corporate
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+xpo.com
+top jobs
+jobs by category
+view all jobs
+privacy policy
+accommodation
+terms of use
+technical support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 xpo logistics, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

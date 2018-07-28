@@ -1,0 +1,155 @@
+
+
+
+national association of realtors job postings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					full stack developer 
+				
+
+
+
+
+								job title:
+							
+
+								
+								full stack developer 
+							
+
+
+
+									job type:
+								
+
+									full-time
+								
+
+
+
+								location:
+							
+
+								chicago, il 
+							
+
+
+
+									post date:
+								
+
+									12/06/2017
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+job description:
+						the national association of realtors® (nar), the largest trade association in the nation, is currently seeking a software engineer to provide etl, front end development, and api support for the organization’s business intelligence group. 
+
+in this hands-on role, you’ll be working in a small team, assisting a data scientist in developing analytic tools and services for the organization. you’ll be responsible for developing new (and maintaining and improving existing) etl processes to consolidate data from various internal and external databases into data lakes. you’ll also be responsible for building new, and maintaining and improving existing, analytic dashboards and search tools. the ideal candidate will be a highly creative and proactive individual with the ability to plan and execute projects from beginning to end.
+
+if you’re a self-motivated technology development professional with 3+ years of relevant experience, excellent interpersonal skills, and the desire to learn, we’d like to hear from you! we value creativity, quality of work, technical leadership, intelligence, and curiosity. 
+
+responsibilities:
+
+• develop and manage etl processes to update data lakes using tools like elasticsearch, logstash, python, mongodb, and mq.
+
+• troubleshoot application issues in production; research and recommend solutions.
+
+• build new, and manage and improve existing, apis that serve various departments.
+
+• assist data scientist in developing dashboards and visualizing data, particularly using tools and technologies like flask, kibana, and d3.js.
+
+• maintain technical expertise by keeping up with industry trends and news and attending training on a regular basis 
+
+• develop and maintain functional as well as technical design specifications. 
+
+
+requirements:
+
+• proven working knowledge of etl processes. 
+
+• strong proficiency with elastic elk stack, python, and nosql databases. 
+
+• experience in front- and back-end development, including using javascript frameworks (angular, react…), flask or django.
+
+• practical knowledge and experience in developing and maintaining api web services.
+
+• exposure to sql programming and database technologies (sql server or oracle). ability to write basic sql queries.
+
+• working knowledge of oauth.
+
+• strong knowledge of linux server environments.
+
+• qualified candidates will have a bachelor’s degree in computer science, or equivalent work experience. highly motivated with strong communication, analytical and technical skills along with the ability to work both independently and in teams required. a minimum of 3 years of hands-on experience as a full stack developer is preferred.
+
+
+benefits & perks
+
+• competitive salary
+
+• a market-leading benefits package, including 2 retirement plans, forgivable loans for first-time home buyers, generous medical, dental, and vision coverage (with extremely competitive employee contribution levels), and a flex benefits plan that allows employees to purchase additional vacation days.
+
+• convenient north michigan avenue location
+
+• stable organization that provides potential for long-term career growth
+
+
+the national association of realtors® operates with one goal in mind: to help our more than 1 million members become more profitable and successful. we believe that building a strong team is the only way to accomplish this goal. our most successful staffers embody our core values (excellence, respect, trust and creativity) and are committed to:
+
+• thinking in unique and independent ways
+
+• helping others to think for themselves
+
+• helping others to grow and develop
+
+
+national association of realtors is an equal opportunity employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+no phone calls, please.
+
+
+
+
+
+
+
+
+
+
+
+

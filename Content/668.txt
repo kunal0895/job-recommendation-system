@@ -1,0 +1,191 @@
+ 
+
+
+
+
+
+
+
+
+
+big data software engineer 3392* #3612 job at avispa technology in sunnyvale, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+big data software engineer 3392*
+software eng & dev | sunnyvale, ca | full time and contract
+
+
+
+
+
+
+job description
+
+
+big data software engineer*
+the big data engineering team is responsible for building and maintaining the state-of-the-art etl pipelines that makes this data available and accessible to the entire company to make data driven decisions. the team works closely with data scientists, product managers, executives and other key parts of the business across the globe to understand their data requirements and build appropriate solutions or platforms that meet or exceed those needs.
+
+responsibilities:
+
+contributing at a senior-level to the data warehouse design and data preparation by implementing a solid, robust, extensible design that supports key business flows.
+performing all of the necessary data transformations to populate data into a warehouse table structure that is optimized for reporting.
+establishing efficient design and programming patterns for engineers as well as for non-technical individuals
+designing, integrating and documenting technical components for seamless data extraction and analysis on our big data platform.
+ensuring best practices that can be adopted in big data stack and share across teams and bus.
+working in a team environment, interact with multiple groups on a daily basis (very strong communication skills).
+
+qualifications:
+
+5+ years of relevant work experience in data
+ability to write, analyze, and debug sql queries
+working experience with hadoop projects/infrastructure
+experience with data warehouse design, etl (extract, transform, load), architecting efficient software solutions
+experience in the big data space (hadoop stack like m/r, hdfs, pig, hive, etc.)
+knowledge of data modeling for both data warehousing and big data
+experience working extensively in multi-petabyte data environment
+experience in engineering large-scale distributed systems in a production environment
+experience with at least one scripting language (shell, python, perl etc.) a bonus
+experience with an oo programming language like java a bonus
+
+additional notes:
+
+work with business users to redefine business logic (124 rules/tables) in spen
+document the business logic behind each rule/table
+analyze the dependencies of each table
+carify and deprecate the rules
+remove the dependency of computation in td for final email list generation
+build the fetl for the needed rules by may 2018
+
+$85-$95 per hour         sunnyvale ca, 94085           6 month assignment
+
+
+
+
+
+return to avispa technology
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to avispa technology
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

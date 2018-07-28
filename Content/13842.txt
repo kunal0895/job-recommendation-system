@@ -1,0 +1,206 @@
+ 
+
+
+
+
+
+
+
+
+
+software developer #0002 job at hive io in san jose, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+software developer
+engineering | san jose, ca | full time
+
+
+
+
+
+
+job description
+
+
+about us:
+hiveio is a venture-funded company founded in 2015 and hq is in nyc. charting its course to deliver the power, value, and agility of the public cloud with all the security, control and governance of the private cloud.
+we provide a complete software-defined compute platform with batteries included, offering our customers the power of cloud computing on-premise at a small fraction of the cost of traditional virtualization solutions. currently deployed in several customer deployments and operating pocs in over 40 different customer locations.
+we are looking to grow our engineering staff in order to accommodate a market demand for the product.
+responsibilities:
+we're a small, agile team with years of combined experience in virtualization and distributed system design, able to innovate in a field that has stagnated due to years of dominance by a handful of vendors. additionally, we have a long history with the open source community. as active contributors to almost all open source projects used in our product, we highly value candidates that have proven involvement with open source software.
+technology stack: 7+ years of relevant work experience a must: 
+
+node.js/javascript, rethinkdb, apache qpid, nginx
+if you do not have knowledge of rethinkdb than knowledge of nosql like mongodb 
+knowledge of c++, and or c# and or python
+full stack development
+familiarity with continuous integration
+familiarity with open source projects (active in open source projects a plus)
+familiarity with agile
+linux kernel development a plus
+
+we are currently hiring for positions at all levels. knowledge of node.js, frontend and backend development and principles of software testing are highly desired. otherwise, there are no requirements other than a passion for software, willingness to learn, and a strong work ethic: we are far more focused on results than credentials.
+
+requirements: 7+ years of working experience in hi-tech ideally in a similar industry: 
+
+
+principles of software testing highly desired 
+node.js 
+knowledge of c++, c# and or python, someone that can develop in more than one language 
+open source projects a big plus
+
+bonus points:
+* great team environment with the opportunity to work closely with the cto, chief development officer, and vp of engineering
+* an opportunity to provide direct input/feedback, be a part of the impact and see the changes first hand
+* be a part of something more!  options are offered, when the company is successful you will be too! 
+
+
+
+
+
+return to hive io
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+recruiter
+
+
+
+kimberly nevin
+
+
+contract/executive recruiter
+
+
+
+
+
+location
+
+
+
+
+
+return to hive io
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+
+
+
+
+
+
+		software developer engineer - careers at basis.ed	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers at basis.ed
+
+
+
+basis.ed is a rapidly growing company and is always looking for qualified employees. 
+we seek highly motivated, talented candidates to join our staff and offer a competitive benefits package to our employees.
+
+
+
+
+
+
+
+		    back to openings		    
+
+
+
+
+
+
+software developer engineer
+
+ department:
+it  office:
+basis.ed scottsdale office
+ location:
+scottsdale, az
+
+start your application
+basis.ed is seeking qualified candidates for a software developer engineer! 
+the basis.ed central offices provide critical support to our top ranked schools. your ability to drive results impacts our schools' success and the global growth of our organization. if you're excited about how your work will influence educational outcomes or support global growth, bring that excitement with you to this role. 
+primary responsibilities:
+consultation, design, development, implementation, testing and deployment, user manuals and trainings with focus primarily on commercial software.
+
+development of new systems, databases and ui pages using sql, javascript, jquery, angularjs, html, xml and json programming languages, microsoft and linux-based os knowledge required-mainly windows servers 2012 r2, centos 7, rhel and fedora distros-mongodb dba knowledge a plus but not required
+develop and manage etl processes and etl abstractions using t-sql, ssms, ssis, c#, bcp scripting and other technologies-mainly flush & fill abstractions but incremental load development experience a plus
+node.js experience a plus but not required
+systems, databases and ui design, consultation, testing and implementation
+collaborates with lead software developer and other department heads in the development and administration of multiple systems (pws, aims, smartchoice, fastbridge, parentsquare, gradecam, eiep-pro, bela, sdm, and wso2 middleware)
+collaborates with various basis.ed departments and school administrators across the basis network in development, systems integrations and customizations
+collaborates with software engineers and account representatives at external companies to accomplish system synchronizations and data integrations
+integration implementation and synchronization of various systems across basis companies
+assists it department in pws and mongodb systems and database administration, which includes creating systems configuration documentation, high-level os troubleshooting and occasional server maintenance
+pws sis mapping and customization transition of plugins, page fragments and insertion points
+pws data migrations
+develop, implement and manage powerschool security architecture for all pws instances
+programs complex sql builds for reports in powerschool and other systems for members of data management and basis school administrators and teachers at bins and dc schools using sql developer, apex, powerqueries, object reports and sql reports 4
+creates high-level pws customizations that house complex reports and extend user functionality of the pws sis
+collaborates in setup of new systems synchronizations using api, dem and etl processes with lead software developer
+high-level systems help desk and support
+collaboration on wso2 middleware with lead software developer
+
+helps train and supervise new interns
+
+
+
+additional job information:  
+benefits and salary: pay for this position is competitive and dependent on education and experience. basis offers a comprehensive benefits package.
+notice of non-discrimination: in accordance with title vi of the civil rights act of 1964, title ix of the education amendments of 1972, section 504 of the rehabilitation act of 1973, the age discrimination act of 1975, title ii of the americans with disabilities act of 1990, the boy scouts of america equal access act and applicable state law, basis* does not discriminate on the basis of actual or perceived race, color, religion, national origin, sex, age, disability, gender identity or expression, or any other classification protected by law in any of its business activities, including its educational programs and activities which comply fully with the requirements of state and federal law and title ix.
+*as used in this policy, the term "basis" refers to:  basis educational group, llc, basis schools, inc., btx schools, inc., bdc, a public school, inc., bbr schools, inc., and all affiliated entities. 
+
+start your applicationor 
+
+
+
+
+
+
+ visit our home page © 2017 basis.ed 
+
+applicant tracking system powered by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

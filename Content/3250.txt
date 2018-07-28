@@ -1,0 +1,382 @@
+
+
+
+
+careers - neya systems llc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+about us
+products
+news
+contact us
+we’re hiring!
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+you are here: homecareers  
+
+
+
+
+why join neya systems?
+
+
+come work for one of the most innovative robotics companies in the world! don’t believe us? check out fast company who named us one of the top-10 worldwide innovative companies in robotics
+we focus on development of outdoor robotics capabilities. we work on the last 10% of the problem, which means making sure our technology works in all kinds of real world outdoor conditions.
+we believe that the smart application of autonomy, in domains such as construction, mining, safety inspection, and defense, offer a path to improved safety, increased efficiency, and a stronger national economy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities
+
+
+senior computer vision researcher
+
+
+overview
+date posted: 09/26/17
+job code: scv-02
+city: warrendale, pa, 15086
+full-time position100
+
+description
+senior computer vision researcher (full-time position)
+we are looking for senior computer vision researchers who are interested in working in robotics and unmanned systems. this position requires a ph.d. or an ms in an unmanned systems related field. ms candidates must have at least 5 years of experience.
+
+minimum requirements
+
+100%strong computer vision algorithm development
+
+
+100%excellent c++ skills
+
+
+100%concurrent programming
+
+
+
+demonstrated familiarity with image processing for terrain classification, stereo processing, object recognition
+experience with computer vision algorithms including structure-from-motion, stereo, image registration, calibration, object tracking, and scene understanding
+familiarity with the use of computer vision in robotics systems, through algorithms such as slam, combining visual and inertial navigation, particle filtering, and surface estimation.
+strong c/c++ software development skills, and experience with modern ides and toolchains is a plu.
+experience working with small and large unmanned ground vehicle platforms is a plus
+experience working with path planning algorithms (e.g. receding horizon motion planning) is a plus
+
+additional requirements: this position requires use of information which is subject to the international traffic in arms regulations (itar) and/or the export administration regulations (ear), non-u.s. persons selected must meet eligibility requirements for access to export-restricted information. the itar/ear defines a u.s. person as a u.s. citizen, u.s. permanent resident (i.e. ‘green card holder’), political asylee, or refugee.
+
+apply now
+
+
+machine learning researcher
+
+
+overview
+date posted: 09/26/17
+job code: sml-01
+city: warrendale, pa, 15086
+full-time position100
+
+description
+machine learning (full-time position)
+we are looking for senior machine learning researchers who are interested in working in robotics and unmanned systems. this position requires a ph.d. or an ms in an unmanned systems related field. ms candidates must have at least 5 years of experience.
+
+minimum requirements
+
+100%strong statistical machine learning algorithm development
+
+
+100%excellent c++ skills
+
+
+100%concurrent programming
+
+
+
+demonstrated familiarity with modern machine learning approaches including convolutional neural nets / deep nets, bayesian optimization, random forests, image and video classification, change and anomaly detection
+expertise and understanding of the mathematical foundations of machine learning algorithms.
+experience in implementation of gpu-based parallel learning algorithms is a plus.
+
+additional requirements: this position requires use of information which is subject to the international traffic in arms regulations (itar) and/or the export administration regulations (ear), non-u.s. persons selected must meet eligibility requirements for access to export-restricted information. the itar/ear defines a u.s. person as a u.s. citizen, u.s. permanent resident (i.e. ‘green card holder’), political asylee, or refugee.
+
+apply now
+
+
+robotics software engineer
+
+
+overview
+date posted: 09/26/17
+job code: cs-003
+city: warrendale, pa, 15086
+full-time position100
+
+description
+robotics software engineer (full-time position)
+we are looking for software engineers who are interested in working on robotics and unmanned systems. prior experience with robotics is not necessary, but a strong background of software development, and familiarity with modern tools and techniques, is. this is the perfect job for someone looking to enter the field of robotics. you’ll have the opportunity to work with experience, motivated professionals, and learn a whole new skill set.
+
+minimum requirements
+
+100%excellent c++
+
+
+100%strong concurrent programming experience
+
+
+75%linux software development experience
+
+
+
+strong c/c++ software development skills, with experience with the latest toolchains and ides, in a linux environment.
+prior experience writing web-deployed software (javascript, and frameworks such as angular) is a strong plus.
+strong, demonstrated experience with multi-threaded and concurrent programming is a requirement.
+familiarity with gui toolkits such as qt is a plus
+familiarity with ros is a plus.
+
+
+additional requirements: this position requires use of information which is subject to the international traffic in arms regulations (itar) and/or the export administration regulations (ear), non-u.s. persons selected must meet eligibility requirements for access to export-restricted information. the itar/ear defines a u.s. person as a u.s. citizen, u.s. permanent resident (i.e. ‘green card holder’), political asylee, or refugee.
+
+apply now
+
+
+robotics web software engineer
+
+
+overview
+date posted: 09/26/17
+job code: ws-001
+city: warrendale, pa, 15086
+full-time position100
+
+description
+robotics web software engineer (full-time position)
+we are looking for software engineers who are interested in working on robotics and unmanned systems. prior experience with robotics is not necessary, but a strong background of web front-end and back-end software development, and familiarity with modern tools and techniques, is. this is the perfect job for someone looking to enter the field of robotics. you’ll have the opportunity to work with experience, motivated professionals, and learn a whole new skill set.
+
+minimum requirements
+
+100%web communications experience via api development
+
+
+100%back-end development through server-side technologies
+
+
+75%front-end experience using html5
+
+
+
+demonstrated excellence in web back end development through server-side technologies such as apache, php, node.js, rails, and/or jsp
+web communications experience via api development and/or wessockets with json/xml messaging experience
+front end experience using html5, javascript, jquery, and/or bootstrap
+experience in the development of data visualizations or graphical user interfaces
+experience with application frameworks such as angular, aurelia and ember is a plus
+experience with native mobile app development (ios/android) is a plus
+experience with cloud infrastructure services such as aws and azure is a plus
+experience writing python applications is a plus
+
+
+additional requirements: this position requires use of information which is subject to the international traffic in arms regulations (itar) and/or the export administration regulations (ear), non-u.s. persons selected must meet eligibility requirements for access to export-restricted information. the itar/ear defines a u.s. person as a u.s. citizen, u.s. permanent resident (i.e. ‘green card holder’), political asylee, or refugee.
+
+apply now
+
+
+
+here are a few things that make us unique:
+
+we focus intensely on customer service.
+we’re not just a bunch of academics who decided to start a company. we’ve been successful in balancing interesting r&d with core business needs.
+we have fun. we try hard to maintain a culture of transparency and mutual respect.
+you won’t be pigeon-holed. you may start at neya working on computer vision problems, but then move to machine learning, or hands-on platform development. we really love people who have breadth of experience, and we want to help you grow your career.
+
+we’re located just near pittsburgh, pa. you may be thinking, “but i love the bay area!”. here’s a few things to consider:
+
+cost of living. you can actually afford a house here.
+snow. we have lots of it, and great skiing.
+pace of life. we’re a great mix of east coast and mid-west. hard working, but great family values.
+steelers! penguins! and.. pirates.
+
+we offer generous benefit plans, including:
+
+fully paid health and dental insurance
+401k, with a generous company contribution
+vacation and holidays
+the ability to share directly in success you generate through a profit sharing program
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ neya systems llc, a division of applied research associates, is a pittsburgh-area robotics company and a leading developer of advanced unmanned systems and off-road autonomy/self-driving vehicle technologies. we work with commercial, defense, and homeland security customers to deliver novel solutions to some of the hardest problems related to autonomy, computer vision, and general unmanned systems development and deployment.
+
+ 
+
+
+
+ 555 keystone drive
+warrendale, pa 15086
+724.799.8078
+info@neyasystems.com
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+© copyright 2017 by neya systems llc, a division of applied research associates. all rights reserved.
+
+
+
+ 
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

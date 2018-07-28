@@ -1,0 +1,527 @@
+
+
+
+
+
+senior software systems engineer  (government)-corporate support jobs in san antonio at at & t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+att.com
+att.jobs
+
+
+
+log in  
+application status  
+employees
+
+share (opens new window)
+
+
+
+
+
+
+
+join our talent network
+featured stories
+saved jobs
+menu 
+
+menu 
+
+
+doing great things
+overview
+life at at&t
+
+learning & development
+inside stories
+diversity
+careers without limits
+videos
+#lifeatatt
+rewards
+
+
+sustainability
+community
+innovation
+military
+
+military spouse
+
+
+awards
+at&t's women
+
+
+careers
+
+overview
+call center
+college
+
+full-time development programs
+internships
+
+
+content & entertainment
+corporate
+technology
+retail
+
+part-time
+
+
+sales
+technician
+contractor opportunities
+
+
+resources
+
+overview
+job guide
+events
+application status
+hiring process
+faq
+
+
+locations
+
+overview
+americas
+asia pacific
+emea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+
+search
+saved jobs
+
+
+search jobs
+
+
+
+connect our nation to powerful possibilities
+
+
+
+
+
+government support jobs
+keep the wheels of government turning 24/7. in a government support role, you’ll join a trusted team of experts who connect over 1,200 different agencies to serious security and mobility. your work will help make the networks that our country runs on more protected, agile and effective. and with a wide range of opportunities (from engineers to it and cyber security), your continued growth can always be a top priority.
+
+
+
+
+
+senior software systems engineer  (government)
+san antonio 
+               ,  texas            
+
+apply
+save this jobremove job
+
+
+
+
+        
+            at&t has a career opportunity for a senior vulnerability research / reverse engineering software developer at joint base san antonio-lackland, texas supporting cyber related activities. the employee will provide technical expertise in developing software solutions and cyber capabilities to meet federal government client’s business needs. lead a collegiate development environment software development team to rapidly produce operational cyber capabilities for us air force customers. code-base will be developed in various languages and team composition will flex to meet customer functional and time-based requirements. identify problems in existing software and hardware by isolating vectors and recommend counter-measures in accordance with customer’s direction. utilize an in-depth analysis of software, hardware, or systems proceeding throughout the stack to identify exploitable vulnerabilities or program hooks. use common industry tools such as debuggers (i.e., windbg, ollydbg, etc.), decompliers (i.e., mocha or jeb), and packet analyzers (i.e., wireshark and tcpdump) to pinpoint weaknesses at kernel or user levels. analyze specific data to deduce design features or insights relating to malicious logic or tools used to exploit or disrupt cyber operations. dismantle binary samples to improve countermeasures while aiding the comprehension of intent and origin. unpack, decompile, and debug obfuscation techniques used to hide malicious logic code to develop a comprehensive view of the system’s functions and processes.required skills, experience, and education: ms in computer science, information systems, mathematics or similar technical discipline. equivalent experience or certified software development professional (csdp) may substitute. 6+ years software development. expertise in one or more of the following: c, c++, c-sharp, python, or assembly.required clearance: current ts/sci eligibility. (must hold or have held a ts/sci position within the past 24 months.)at&t is an affirmative action/equal opportunity employer and we are committed to hiring a diverse and talented workforce. eoe/aa/m/f/d/v
+
+requisition id 1752050 apply
+
+    if you’re not ready to apply, 
+join our talent network to stay in the loop >    
+    
+
+
+
+share  this job
+
+facebook
+google+
+twitter
+linkedin
+
+
+
+
+
+
+featured stories
+
+
+
+
+
+
+government | at&t
+
+
+
+
+
+
+
+veterans on a mission | military careers | at&t |
+
+
+
+
+
+
+
+life at at&t | building a rube goldberg-style machine
+
+
+
+
+
+
+
+at&t employee gives back to veteran community
+
+
+
+
+
+
+
+at&t ranks number 3 on diversityinc’s top companies for diversity
+
+
+
+
+
+
+
+at&t developer summit | life at at&t podcast | at&t
+
+
+
+read more
+
+explore more stories
+
+
+
+
+"at&t a good place to be"
+
+current employee - professional-network design engineer+ in middletown, nj
+pros
+i believe in at&t and know they are at the edge of technology. the company believes in their people and offers all kinds of training to enable us to take on new jobs and to stay at the front of technology. the software defined network which we are building is the newest technology and at&t has been involved since early 2000s. you have a great deal of autonomy at at&t as long as you get the job done. you have the ability to do different jobs and be challenged at all times. 
+        
+cons
+
+        i really have little negative to say about at&t i have worked here for 35 years on march 23rd of 2016.
+        
+
+powered by 
+
+
+
+
+
+referrals
+
+
+
+if you're already part of the at&t family and think this role is perfect for someone you know, let us know. we’d love to get to know them – and thank you with a reward.
+refer a friend
+
+
+
+
+events
+
+
+
+our hiring team could be coming to a community near you. come out and say hi.
+see our next events
+
+
+
+
+
+
+        inside stories 
+    
+
+
+            see how we're building the future
+        
+
+
+
+
+building the firstnet team
+
+
+
+at&t's workplace 2020 experience
+
+
+
+at&t inside story - 
+                marko rajeva
+
+
+
+at&t inside story - 
+                    charles eader 
+
+
+
+at&t inside story - 
+                    cynthia marshall
+
+
+
+at&t inside story - 
+                    shay phillips
+
+see more
+
+
+
+
+
+#lifeatatt
+we work hard and play even harder. because with everything we do, #lifeatatt is always an adventure. 
+life at at&t - just ask our team
+just ask our team
+
+
+doing great things
+
+
+
+
+building a brighter future
+
+in 2015, we saved $119 million in annualized energy – and that’s only the start of how we’re in the business of doing good.
+
+
+
+
+making an impact
+
+we’re working to make a difference in our communities – like our $250 million commitment to education through at&t aspire. 
+
+
+
+
+ensuring every voice matters
+
+with 115,000+ employees in our employee networks, we celebrate the amazing things our differences bring to the table.
+
+
+
+
+
+
+putting military skills to work
+
+we’re on a mission to hire the best talent – a big mission. we’re committed to hiring 20,000 veterans by 2020.
+
+
+
+
+developing what’s next
+
+whether it’s in at&t labs, the at&t foundry or our mobile app hackathons, we’re unleashing talent and turning big ideas into big possibilities.
+
+
+
+
+taking your career far
+
+with mentors to guide your way and lots of training opportunities, there’s no limit to how much you can grow or where your career can go. 
+
+
+
+
+join the talent network
+sign up to receive a monthly newsletter and be the first to know about career events, new openings and exclusive updates. 
+join now
+
+
+
+saved jobs
+you haven't saved any jobs yet. 
+
+
+
+
+
+
+
+doing great things
+
+overview
+life at at&t
+
+learning & development
+inside stories
+diversity
+careers without limits
+videos
+#lifeatatt
+rewards
+
+
+sustainability
+community
+innovation
+military
+whats happening
+awards
+at&t's women
+
+
+
+careers
+
+overview
+call center
+college
+
+development programs
+internships
+
+
+content & entertainment
+corporate
+technology
+retail
+
+part-time
+
+
+sales
+technician
+contractor opportunities
+
+
+
+resources
+
+overview
+events
+application status
+hiring process
+faq
+
+
+
+locations
+
+overview
+americas
+asia pacific
+emea
+
+
+att.com
+featured stories
+
+
+stay connected
+
+facebook
+twitter
+linkedin
+
+
+glassdoor
+youtube
+jobipedia
+
+
+
+
+
+back to top
+
+
+privacy policy
+terms of use
+sitemap
+
+share
+© 2017 at&t intellectual property. all rights reserved. at&t, at&t logo and all other marks contained herein are trademarks of at&t intellectual property and/or at&t affiliated companies.
+discrimination and all unlawful harassment (including sexual harassment) in employment is not tolerated. we encourage success based on our individual merits and abilities without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability, marital status, citizenship status, military status, protected veteran status or employment status. we support and obey laws that prohibit discrimination everywhere we do business. at&t fully considers all qualified applicants including those with a criminal history. click here to learn more or request an application accommodation here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+
+
+
+
+insidesales.com, inc. careers - front end engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    insidesales.com, inc. careers                                            
+
+
+
+
+
+
+
+                front end engineer
+    
+    
+
+                            software engineering            
+                    salt lake city,
+                            utah
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+insidesales.com offers the sales industry’s first comprehensive sales acceleration platform that creates high performance sales teams with breakthrough technology, and increases the revenue of their customers’ world-wide by applying our machine learning and innovative technology.  our product is pure technology, supported by a predictive machine learning engine.insidesales.com is growing incredibly fast and is funded by some of the top venture capital firms, as well as by salesforce and microsoft.   our leadership team hails from great companies including salesforce, ebay, ibm, infor, citrix, vmware and amazon.  we have high expectations and have attracted great leaders who have enjoyed a similar ride elsewhere, and are excited to be here.joining a fast growing company is a great way to accelerate your career. we’re transforming how sales is done, applying technology to revolutionize and modernize.  want to bet on your career and learn a lot?  come join us.engineering for scale:insidesales.com builds for the cloud, deploying as a software as a service (saas) platform.  we have a portfolio of seven products, and are very focused on building a true platform of micro-services.  we’re initiating a major transformation of our platform to realize this vision.you’ll learn about building a large scale platform of distributed micro-services, using cutting edge technologies. we need you if you:love a challenge – the best technology problems are those tackling really hard business and scaling problemsdelight in building scalable, fast, robust and elegant software in modular componentsare proud in producing high quality solutions and iterate until they are truly awesomelearn constantly about new technology, challenges and lessons from your mistakescooperate in a team environment where you can learn from your peers and they can learn from youmany job descriptions read like a shopping list for the impossible.  at the core, we’re looking for great software engineers.  technologies change, but great minds transition.  that said, the following set of qualifications are relevant and useful to the problems we’re solving:position responsibilities:work closely with product owners, senior engineers, designers, programmers, and qa to deliver industry-leading solutionsresponsible for constructing solutions based on customer requirementscontribute to the implementation of major features and components from requirements and designscontribute to the creation of functional and technical specificationsresponsible for contributions in technical design, task estimation, implementation, automated testing, debugging, and deploymentparticipate as a productive member of an agile team of engineersproduce high quality, test-driven softwareassist in planning, costing, designing and testingcommunicate well with product managers, customer support, and other team memberspromote established standards, processes, procedures, and tools throughout the software development life cycleresponsible for tier 1 services for identity management and license management requirements:bachelor’s or master’s degree in computer science or engineering or equivalent and/or the ability to show us that you are a great engineer3+ years of software development, ideally in b2b saas or a b2c web environmentexperience mentoring junior engineers and leading design efforts on complex systemsa demonstrable track record of building great softwareoop, web, and services experience.  all the skills to build great distributed and complex systemsexperience in working in small agile teams and iterating to build great solutionsability to work in a linux environmentexperience in building restful services across some combination of node.js, go, scala, python, c#, java. web development skills in javascript, preferably with react or angularjs.database experience – both sql and nosql (mongodb, cassandra, etc)experience with queuing technologies including rabbitmqexperience with cloud deployment  services, like aws.insidesales.com offers competitive compensation, generous benefits including a matching 401(k) program, healthcare insurance and reimbursement accounts, as well as a gym membership and ongoing training & education programs.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

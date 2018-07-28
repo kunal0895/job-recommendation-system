@@ -1,0 +1,370 @@
+
+
+
+
+
+analytics developer at monsanto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we hire
+working at monsanto
+inclusion & diversity
+student opportunities
+our benefits
+monsanto.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search our jobs  
+search our jobs
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+select radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+discover matches to jobs using your linkedin profile  »
+
+
+
+
+
+
+analytics developer
+
+apply now
+apply later
+req id 01m2i date posted 11/02/2017
+produce more. conserve more. improve lives. that’s monsanto’s vision for a better world. achieving this vision demands revolutionizing agriculture through technology and analytics is central to attaining this transformation. we are seeking exceptionally talented individual with a passion for innovation to become an integral part of our global breeding analytics team within the global breeding organization. the global breeding analytics team is a cutting-edge group providing recommendations and solutions to accelerate and optimize monsanto’s product development. we foster new game-changing ideas to produce sophisticated, intelligent predictive models. as part of our diverse, highly dynamic group, you will be exposed to exciting research challenges and will have ample opportunity to work with interdisciplinary scientists (statistical geneticists, quantitative geneticists, and breeders) to foster your career growth and development while delivering next-generation analytical solutions. in the analytics developer role, the candidate will work closely with the data science group to transition our predictive models into a production environment. in addition, the candidate will also invent and/or expand the impact of in-house innovations across geographies. he/she will work with data from diverse structured and unstructured data sources, and various formats. the candidate will work on all aspects of the design, development, validation, scaling and delivery of analytical solutions. the successful candidate will have the opportunity to work collaboratively with interdisciplinary scientists internal to monsanto, organize challenging problems, develop new solutions, and work with business & development teams to ensure these solutions deliver value.an ideal candidate possesses broad, up-to-date technical skills across the core domains of software and it infrastructure. at this level, he/she has become proficient with all aspects of the software development process (agile planning, testing, development, performance optimization, refactoring, debugging, production support), and all components of software delivery (infrastructure, networking, operating systems, middleware, application runtimes, service integration, data and databases, production monitoring). he/she is also our expert in programming languages, algorithms and data structures, distributed computing and multi-threading, distributed databases, fault-tolerance, relational and non-relational data modeling and other advanced topics that power modern applications. required education and skills/experience: 
+
+bachelor’s degree in computer science, electrical engineering or a closely-related field 
+
+at least 3+ years of relevant software development experience using r and python
+
+proven ability to plan, schedule and deliver quality software 
+
+a passion for building highly automated systems 
+
+strong business aptitude, the ability to rapidly learn new problem domains, and become conversant in the domain with subject matter experts 
+
+strong organizational, interpersonal, and proven problem solving abilities 
+
+proven ability to communicate complex qualitative analysis in clear, precise and actionable manner.
+
+creativity in validating and optimizing analytic solutions 
+desired education and skills/experience: 
+
+experience working with large data sets
+
+experience working with distributed computing tools (map/reduce, hadoop, hive, hbase, scala, spark etc.) 
+
+experience authoring workflows (using technology like apache airflow)
+
+experience provisioning and maintaining highly-available, fault-tolerant it infrastructure including servers, storage, and data stores
+
+cloud operation experience: running real workloads in the cloud and diagnosing and fixing problems (aws preferred)
+
+at least 3 years of experience using r/python for real-word data analysis
+
+java programming experience
+apply now
+apply later
+
+
+
+
+map
+st. louis
+view the area
+
+
+
+share
+
+facebook
+google+
+twitter
+linkedin
+email
+
+
+
+
+related jobs
+
+
+materials testing laboratory chemist
+st. louis, missouri
+
+
+biodirect production research associate
+st. louis, missouri
+
+
+pathology and discovery breeding co-op
+st. louis, missouri
+
+
+data scientist
+st. louis, missouri
+
+
+procurement supervisor
+santa fe, federal district
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get job news and event updates
+first namelast namephone numberemail addressinterested insearch for a category / location, select a term from the suggestions, and click “add.”categorylocationaddresearch & development, st. louis, missouri, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        		800 n. lindbergh boulevard
+        		
+        		st. louis, mo 63167
+        	
+
+facebook
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|
+legal notice|privacy policy|
+contact us
+
+
+
+
+
+
+
+news & stories
+
+
+conversation
+
+
+news releases
+
+
+
+
+innovation
+
+
+products
+
+
+our brands
+
+
+seeds
+
+
+agricultural biologicals
+
+
+crop protection
+
+
+safety information
+
+
+
+
+
+
+company
+
+
+investors
+
+
+careers
+
+
+contact us
+
+
+more
+
+
+america's farmers
+
+
+modern agriculture
+
+
+monsanto fund
+
+
+
+
+
+sign up for our email newsletter
+
+        				the monsanto newsletter brings you the latest modern agriculture news each month.
+        			
+
+
+first name *
+
+last name
+
+email *
+
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|terms & conditions|privacy policy|contact us
+
+
+
+
+
+
+
+
+
+
+
+

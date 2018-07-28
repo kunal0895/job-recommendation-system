@@ -1,0 +1,540 @@
+
+
+
+
+
+
+
+deltek talent management -
+						    database analyst - (441)
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+
+ 
+
+
+
+
+
+
+who we are
+
+
+what we do
+
+
+latest
+
+
+careers
+
+
+find us
+
+
+
+
+
+
+
+
+en
+
+
+fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exp is an equal opportunity employer and welcomes all applicants. should you need any special accommodations, please feel free to contact us at hrsupport@exp.com and we will arrange for the most suitable accommodations based on your needs.
+	
+
+
+attention safari users: this site requires cookies to function. please click here to accept the cookie. cookies will be used strictly for the functioning of the site.
+
+
+
+
+
+
+
+
+
+
+
+
+select language
+
+english
+
+
+français (ca)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+jump to
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+ job search
+
+
+ view all jobs
+
+
+
+
+ create account
+
+
+ login
+
+
+ help 
+
+instructions on this page
+help on this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+job details
+
+
+
+database analyst - (441)
+×close this details all the information about the job posting.     
+
+
+
+
+
+
+
+
+
+
+
+
+share this job as a link in your status update to linkedin.
+
+
+
+
+
+
+
+
+
+
+
+														
+																	job title
+																
+															
+
+								database analyst
+															
+
+
+
+														
+																	location
+																
+															
+
+								chicago, il 606015924 us (primary)
+
+
+
+
+														
+																	education
+																
+															
+
+								some college coursework completed
+															
+
+
+
+														
+																	education level - quebec
+																
+															
+
+
+
+
+
+														
+																	job type
+																
+															
+
+								regular, full time
+															
+
+
+
+														
+																	job description
+																
+															
+
+at exp, we know that great experiences start with the right people. we believe that work should be challenging, and the challenge should be fun. we also believe that exponential possibilities are more likely to occur with a respectful, satisfying and empowering company. we value and respect our employees - their experience and expertise as well as their energy, passion and diversity - and their innovative approach to work and to life.
+ 
+ 
+your challenge
+we are seeking a database analyst for our chicago team. this individual will work on a variety of assignments with a primary focus of supporting information technology solutions to solve business problems. candidates can expect to work independently as well as on teams staffed with management consultants, it professionals, engineers and scientists from various backgrounds and experience levels.  the ability to effectively provide application interface support to clients and be extremely customer focused, user training and documentation of policies and procedures, as well as inventory management/auditing.    responsibilities also include inventory price management, form and report customization, user training and documentation of policies and procedures, as well developing workflows and inventory management/auditing.
+ 
+ 
+your responsibility
+oversee / monitor infor10 eam information provided by warehouse staff.
+formalized training and training manuals for warehouse staff.                
+engineer new commodity codes for warehouse use.
+create work flow process for monitoring and purchasing within infor10 eam.
+evaluate reports generated within infor10 eam.
+
+assess, assign and update issues regarding eam support.
+
+
+assisting with upgrading of infor10 eam’s system to infor11 eam.
+
+
+assisting with inventory clean up: including removing non-essential inventory.
+
+
+basic sql server reporting services (ssrs).
+
+
+assist with any request including (but not limited to) updating contracts and pricing, creation of new accounts and user groups, creation of new inventory types, training of personnel, creating new part codes.
+
+
+
+
+
+
+														
+																	job requirements
+																
+															
+
+the skills and ability you bring
+
+bachelor degree with 3-5 years of experience.
+
+
+excellent customer/client services skills.
+
+
+experience/ability to analyze data.
+
+
+ability to work independently.
+
+
+high aptitude with software.
+
+
+ability to develop and provide end-user training.
+
+
+ability to document and establish standards, policies and procedures.
+
+
+ability to datamine for data warehouses.
+
+ 
+ 
+what exp can offer
+with a mission to understand, innovate, partner and deliver, exp provides professional, technical and strategic services related to the world’s built and natural environments in six key practice areas: buildings, earth & environment, energy, industrial, infrastructure, and sustainability. our heritage dates back to 1906, when the earliest of exp’s predecessor companies started its engineering infrastructure practice in northern ontario. today, close to 3,000 creative exp professionals across north america and around the globe provide the expertise and experience needed to deliver successful projects for clients.
+ 
+ 
+our promise is to offer you a challenging career in a positive and dynamic work environment, and it's a promise we take seriously.
+ 
+ 
+join a dynamic team at exp that provides you with innovative projects, the capacity to develop your career, a full range of benefits, flexible working hours, and much more! when you explore what exp has to offer, you’ll find exponential possibilities.
+ 
+ 
+for more information, visit www.exp.com.
+ 
+ 
+exp u.s. services is an equal opportunity employer committed to diversity in the workplace. minority/female/disabled/protected veteran
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ apply to this job
+
+
+ 
+or
+
+
+
+
+
+
+
+ 
+ send to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ top of page
+
+
+						v14.3.5.1 | copyright © 2017 all rights reserved. 
+													| deltek talent management
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we are
+
+
+what we do
+
+
+latest
+
+
+find us
+
+
+
+
+
+careers
+
+explore a dynamic, rewarding career with exp.
+careers
+
+
+
+find us
+
+get in touch with exp’s offices across north america.
+contact us
+
+
+
+
+
+
+
+  
+
+copyright © 2017. all rights reserved.
+
+
+terms of use
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

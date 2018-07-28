@@ -1,0 +1,215 @@
+
+data scientist/statistician (statistical modeling) job - s5 stratos - dallas, tx | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist/statistician (statistical modeling)
+
+s5 stratos
+     -
+dallas, tx
+
+
+                indeed salary estimate: $100,000 - $128,000 a year
+
+
+
+
+at s5, we are on a mission to make advanced data science consumable to business users. as part of that mission, we are disrupting the retail supply chain and merchandising with the most advanced and innovative offerings to date in this space.to support our aggressive growth, we are actively seeking talent (at multiple levels) to join our r&d team. s5's r&d team is responsible for creating massively parallel systems while leveraging the deep understanding of distributed computing and machine learning.what are we looking for?our ideal candidate is a self-motivated enthusiastic team player and is passionate about building highly scalable systems. if you enjoy taking on challenging tasks, are involved in the open-source community, and love working with and developing latest technologies, then we are eager to talk to you.is this you?you understand the big picture of delivering mission critical softwareyou take pride in your workyou can juggle multiple tasksyou have a deep passion for building beautiful systemsyou thrive in fast paced, fast growing environmentsyou have a voracious appetite to learn and grow with the teamrequired skills: strong mathematical, probabilistic and statistical analysis skills with an astute understanding of the application of bayesian framework.prior experience with at least one of the programming language : r, python, java, sql, scala or matlab/octave .experience in any of the following frameworks: hadoop, spark, sas is nice to have.experience in any of the following visualization and reporting tools: qlikview, tableau, pentaho, d3.js is nice to have.must have hands-on implementation of various advanced models, leveraging board spectrum of statistical, machine learning and cognitive computing methods.prior experience with any of the machine learning libraries.must be enrolled/graduated in ph.d. in statistics, mathematics, computer science or an equivalent expertise related field of study.experience with real time analytics and planning applications.strong expertise in statistical modeling techniques such as regression, classification, tree based models (random forests and gbm), cluster analysis, exploratory data analysis, feature engineering, gaussian distribution, model validation and optimization.excellent communication skills and ability to communicate ideas effectively.job responsibilities: create and incorporate predictive analytics/data modeling modules to improve the existing software solution.lead the strategic, statistical thinking and provide valuable insights to the development team in architecting and implementing data solution.utilize advanced statistical techniques to create high performing predictive models and creative analyses to address business objectives and client needs.tests new statistical analysis methods, software, frameworks and modeling techniques for continual improvement of the developed solution.evaluate and investigate frameworks for algorithm development and model enhancements for possible long-term platform design.nice to have: a publication or paper presentation in any renowned data science and machine learning conferences.what’s in it for you?at s5, you will get an opportunity to truly innovate while working with some of the smartest brains in the industry in orchestrating bleeding edge technology components to solve existing and emerging business problems. additionally, you will play a key role in defining the next generation work culture and work ethics to solve problems that others thought - simply impossible.there’s never been a more exciting time to join our team!required education: ph.d.job type: full-timerequired education:master'srequired experience:statistics/mathematics/optimization: 5 years
+
+11 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to s5 stratos.
+
+
+
+
+
+
+other jobs you may like
+
+
+pricing / data scientist
+
+square one resources -
+					dallas, tx
+21 days ago
+
+ easily apply
+
+
+
+manager, data scientist
+
+kpmg -
+					dallas, tx
+kpmg llp - 
+					3 days ago
+
+
+data scientist
+
+beyondsoft consulting -
+					dallas, tx
+7 days ago
+
+
+associate, data scientist
+
+kpmg -
+					dallas, tx
+kpmg llp - 
+					3 days ago
+
+
+director, data scientist
+
+kpmg -
+					dallas, tx
+kpmg llp - 
+					3 days ago
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+
+indeed salary estimatewe know salary is a key component of your decision whether or not to apply for a job. so when the hiring company hasn’t provided a salary for a job, we look at salary data from related companies and locations to come up with a reasonable estimate for what you can expect.with over 450,000,000 salaries collected from other jobs and employees, we use one of the biggest salary databases in the world to inform these estimates. and because we are continually adding feedback from users like you, we are able to keep refining our accuracy.these salary estimates are not endorsed by the hiring companies and may vary from what’s actually offered, but we have a pretty great record of getting close enough for you to make an informed decision.is this your job listing? send us feedback to correct an inaccurate salary estimate.
+

@@ -1,0 +1,184 @@
+ 
+
+
+
+
+
+
+
+
+
+data scientist #0011 job at freebird in cambridge, ma, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+engineering | cambridge, ma | full time
+
+
+
+
+
+
+job description
+
+
+about freebird:
+we are a fun, passionate team tackling a $60b pain point in travel. freebird’s founding principle is simple: getting there matters. whatever the reason for travel, it’s critical travelers reach their destination. unfortunately, flight disruptions can wreak havoc on travel plans. we employ cutting-edge data science, machine-learning, deep domain expertise, and great mobile product design to delight our customers. 
+we’ve got a working product with real customers and big partners, and we’ve raised $8.5m from top-tier investors including general catalyst and accomplice. we are growing the team -- we need thought partners and smart leaders to help us improve travel for everyone. won't you join us?
+about the role:
+come join freebird’s data science team and be a pivotal member in helping us to understand the dynamic risks associated with flight disruptions.
+your work will include complex financial risk management, portfolio management and other risk modeling using state of the art technologies and techniques. we have terabytes of data across weather, the u.s. airspace, flight availability, pricing & booking to leverage for both real-time and financial risk modeling. this rare, practical application of these techniques materially impacts our business, helps travelers get to where they need to go, and involves you creating a new derivative.
+
+you’ll be applying advanced statistical and machine learning techniques to create scalable solutions for fun & well-defined problems that directly impact our pnl.
+you’ll work closely with the engineering team to create and deploy your models efficiently.
+you’ll get to design experiments to answer targeted questions on every aspect of freebird’s operations.
+
+qualifications / /does this sound like you?
+
+experience or deep interest in bayesian statistics, deep learning, variational  inference, and other popular machine learning techniques in cutting edge libraries like tensorflow and edvard.
+professionally you’ve been working with financial applications of machine learning, cutting edge time-series analysis, weather modeling or quantitative portfolio management.
+you have experience managing end-to-end machine learning pipelines: you’ll be working with gb- to tb-sized datasets, and take charge from data exploration and model building to performance evaluation and optimization.
+you’ve mastered one of python, r, scala (the berkeley stack), or java, but broader experience is always a plus.
+you’re familiar with standard software development practices (unit testing, agile, continuous deployment) and have experience working in a production environment.
+
+about our culture:
+we’re a small team of product, technology, and travel enthusiasts that are passionate about building a delightful customer experience. we believe that empowering customers starts with empowering employees, and share common values of trust, transparency, empathy. if you’re an ambitious, smart, natural collaborator who likes learning new technologies and is interested in working with a small, core team, we’d love to talk to you about joining freebird.
+interested? send us your resume and a short note letting us know why you’d be a great fit for our team.
+
+
+
+
+
+return to freebird
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+location
+
+
+
+
+
+return to freebird
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

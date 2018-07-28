@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - senior data wrangler / data visualization engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+senior data wrangler / data visualization engineer
+
+
+				apply
+			
+
+
+
+job number:
+								12036
+						
+
+position title:
+
+
+external description:
+data and analytics is a high-energy, fast-growing organization within equifax charged with building and supporting best-in-industry data assets and analytical solutions.  we deliver solutions and insights to enable success for our customers, drive growth for our business, and create value for our shareholders. at workforce solutions, data driven decision making is at the heart of remaining nimble while still choosing the best path forward.  this position plays an integral role in being able to help make those decisions.  the data wrangler / data visualization engineer will help to provide insights into our current processes but also drive what types of insights should be taken into consideration for the future.this individual will develop a deep understanding of the analytical need and leverage knowledge of all equifax data assets, big data technologies, keying and linking concepts to analyze equifax workforce solutions data to create insights. they will interact with all levels of our business professionals including data stewards, analysts, statisticians, it, and sales.  responsibilities include gathering & refining requirements, interfacing with relevant business partners across the enterprise, and executing against the data strategy roadmap.  the ability to work in a matrix environment to deliver complete solutions is required.this individual will need to possess a breadth of technical skills across data management and data visualization domains.  technical responsibilities include the identification, evaluation, linking/matching, and transformation of disparate data assets into insights (data wrangling) and the visualization & communication of these insights across various distribution methods.  platforms & technologies include python, sql, impala, tableau, and spotfire.this individual must have a solid educational foundation and ability to balance delivery of near-term results that are aligned with execution of the long-term vision and roadmap.  they must be detail-oriented and a fast learner in order to work with all equifax's major data assets and a rapidly changing technology environment.high-level responsibilities:collaborate with product development and technology to extract kpis from our existing business systemsidentify and establish metrics that drive current and future resultswork with technology to implement data collectionsynthesize findings into actionable reporting for business leadershipparticipate in the development of strategies, standards and best practices in the areas of data visualization, data access and data integration within equifax's new big data analytical platforms.collaborate with data & analytics, product development and technology leads to ensure the seamless transition of concepts and prototypes into production solutions.stay current with rapidly developing big data technologies landscape and share knowledge internally and with customers.requirements:knowledge of equifax workforce solutions' differentiated data assets and technology delivery platforms or equivalent industry experience is a plus8+ years of work experience in building, loading, transforming and analyzing data within and across database platforms is required.  big data experience with hadoop technologies such as impala, spark and mapreduce is a plusproficiency in one or more of the following technologies: sql, python8+ years of work experience with data visualization tools and knowledge of data visualization concepts.  work experience in one or more of the following tools: tableau, spotfire, tibco.minimum of a bachelors degree in computer science, statistics, economics, or equivalent quantitative field with heavy emphasis on programming requiredexcellent communication skillscreative and nimble with ability to overcome obstacles to solve the hardest problemsability to collaborate with peers and cross functional teamsflexible and responsive with ability to adapt to rapid change in direction or business priorityability to work within the confines of data governance measures.limited travel requiredprimary location:usa-st. louis-lacklandfunction:function - data and analyticsschedule:full time
+						
+					
+						
+city:
+								st. louis
+						
+
+location_formattedlocationlong:
+								st. louis, missouri  us
+						
+
+state:
+								missouri
+						
+
+community / marketing title:
+								senior data wrangler / data visualization engineer
+						
+
+company profile:
+
+
+requisition number:
+								j00051519
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+analyst
+
+nottingham, uk-em
+
+data visualization / delivery engineer
+
+st. louis, mo
+
+data governance - specialist
+
+st. louis, mo
+
+credit risk associate consultant
+
+london, uk-gl
+
+analista de datos - (soluciones entregables)
+
+buenos aires - alem, ar-b
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

@@ -1,0 +1,141 @@
+
+
+
+
+act-on software careers - sr. systems engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    act-on software careers                                            
+
+
+
+
+
+
+
+                sr. systems engineer
+    
+    
+
+                            operations (technology)            
+                    portland,
+                            oregon
+                
+                        
+
+
+        apply
+    
+
+
+
+the act-on operations group is hiring an expert in system engineering technologies to help us with the strategy, architecture, deployment, configuration, maintenance and troubleshooting of production saas infrastructure. our team is responsible for technology areas including automation, networking, virtualization, container orchestration, systems and database administration and management of co-located, cloud and serverless infrastructure.are you passionate about crafting well-designed and resilient systems? do you want to work on a team that values continuous learning? do you believe that diversity of thought and experience leads to building better solutions?as a senior member of our team, you’ll participate in the selection, design and implementation of the solutions that drive our products. this high-impact role will provide technical leadership on the direction of our technology strategy as well as leading the adoption of new technologies. we’re actively moving into the cloud, embracing aws managed solutions and transitioning into a collaborative devops technical organization.core responsibilities:contribute linux technology subject matter expertise and mentorship to multi-functional technical teams during systems design and integrationdiagnose and resolve complex issues involving multiple components, systems and applicationsdesign and implement solutions to improve product delivery velocity, infrastructure resiliency, systems security and data availabilitylead technical research, analysis, evaluation, testing, documentation and proofs of concept for emerging tools and technologiescreate the conceptual, logical and physical designs for in-house, iaas and paas solutionsserve as technical advisor to the business in determining requirements and driving the adoption of appropriate technical solutionsparticipate in a 24x7 on-call rotation and respond to critical eventsyou have:deep experience with linux platforms, including the design, administration, troubleshooting, and management of production-grade distributed systems (rhel/centos preferred)proven ability to integrate information gathered from a variety of sources in order to build creative solutions and anticipate potential problemsstrong knowledge of infrastructure automation and scripting technologies (ansible, python and bash preferred)strong knowledge of aws ecosystem and clideep understanding of networking and security conceptsability to manage time effectively, balance multiple deliverables, projects and priorities with minimal supervision and deliver on scheduledesired additional experience or interest:experience with the docker ecosystem and container orchestration tools like openshift, kubernetes and amazon ecs/eksexperience supporting or migrating applications to a cloud environmenta few technologies we use:aws (ec2, s3, sqs, ses, rds, dynamodb, etc), cassandra, centos, compellent, confluence, docker, f5-ltm, java, jira, kafka, mapr, mongodb, mysql, nagios, netapp, nginx, openshift, puppet, python, sensu, spark, splunk, tomcatwe are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

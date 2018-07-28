@@ -1,0 +1,208 @@
+ 
+
+
+
+
+
+
+
+
+
+data analytics engineer #0352 job at tigertext in bay area, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+data analytics engineer
+engineering | bay area, ca | full time
+
+
+
+
+
+
+job description
+
+
+location:       bay area, ca
+title:                data analytics engineer
+reports to:   vice president, business intelligence
+the data analytics engineer will create big data solutions that collect, analyze, and report on vast amounts of data originating from secured real-time messaging to enable data driven decision-making capabilities for business. the data engineering team also focuses on making both real-time and aggregate data available to power a host of customer facing applications.
+ 
+what you’ll own:
+
+understand and analyze the business requirements and devise optimal data solutions. these solutions include (not limited to) building data pipelines, data collection and integration from multiple sources, data aggregation and reporting/analytics
+enable teams (product, sales and marketing) to make data driven decisions by providing reports and analytics
+understand both business and data architecture and apply the learning to solve business problems
+build and scale data pipeline to handle 10x the data volume
+make meaningful contributions toward the next advances in big data
+
+what you’ve accomplished:
+
+bachelor’s or equivalent experience in computer science or related discipline (ms a plus)
+minimum of 5+ years developing production grade software with previous experience working on a large-scale distributed systems.
+at least 2 years of experience using big data systems and/or using big data for data analysis.
+experience with all aspects of the data integration life cycle. source system analysis, etl development and data model/structure design.
+experience with hadoop/pig/hive and relational database such as mysql.
+strong programming/scripting experience – must have: java, map/reduce, sql. good to have : python/perl/shell.
+
+what you bring to the table:
+
+real-world, demonstrable experience – ideally in related industry, has big picture vision, and be able to roll up the sleeves to get the job done.
+solid understanding of distributed system concepts used in scaling big data technologies with exponential growth of data.
+highly motivated and self-starter with ability to thrive in a dynamic, fast-paced, collaborative, and high-growth startup environment.
+excellent problem solving, communication, teamwork and soft skills to work with business.
+
+ 
+who we are:
+as healthcare’s largest provider of clinical communication solutions, tigertext helps physicians, nurses, and other staff communicate and collaborate more effectively, accelerating productivity, reducing costs, and improving patient outcomes. with over 7,000 facilities, delivering hundreds of millions of messages monthly, tigertext continually delivers advanced product innovations and integrates with critical hospital systems such as the ehr, nurse call, and scheduling solutions. it is recognized as a top must-see la tech office, one of the 5 sizzling silicon beach startups to watchby entrepreneur, and one of the best places to work in healthcare for 2015, 2016, and 2017. tigertext currently has over 125 employees with offices in santa monica, san jose, and shanghai.
+ 
+why we’re different:
+
+we are the largest provider of clinical communication and collaboration solutions in the u.s.
+we're making much-needed, major changes in the healthcare industry - allowing nurses and doctors to treat more patients, more quickly
+prime office space in the major tech ecosystems of california - silicon beach and silicon valley - each complete with a loaded fridge and tons of other perks (think rock climbing wall, food trucks, yoga, happy hours & more)
+an opportunity to work closely with a proven executive team, board, and serial entrepreneurs (www.tigertext.com/about)
+a fun environment that embraces a “work hard-play hard” culture
+we have team members that love what they do and are willing to go the extra mile to help clients, support the company's rapid growth, and ultimately optimize healthcare workflows
+this is a full time opportunity with competitive salary and medical benefits
+
+ 
+tigertext is an equal opportunity employer.
+*recruiting firms that submit resumes to tigertext without first entering into a written contract with tigertext will not be entitled to any compensation on candidates referred by that firm.
+
+
+
+
+
+return to tigertext
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+location
+
+
+
+
+
+return to tigertext
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

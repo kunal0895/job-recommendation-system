@@ -1,0 +1,134 @@
+
+
+
+
+
+
+business intelligence analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            business intelligence analyst        
+
+
+
+
+
+
+
+
+
+ return to job opportunitiesjob detailslevel experiencedjob location corporate - austin, txposition type full timeeducation level 4 year degreedescription silvercar is looking for a motivated analyst with a get-it-done attitude to join our growing business intelligence team. as a bi analyst, you will be responsible for leveraging the vast amounts of data at silvercar and enabling business users access to data needed to drive business decisions. you will work directly with the head of business intelligence team and support each of silvercar’s business units with their bi, analytics and reporting needs.
+responsibilities: 
+drive bi use cases throughout the company
+provide reliable access to high quality data through dashboards and reports
+work with business stakeholders across the organization to gather and analyze bi requirements
+provide technical leadership for and hands on experience in bi, analytics, etl, data warehousing and reporting
+architect an etl process using treasure data by importing data from various sources (transactional databases, business systems, and flat files), transforming data using sql, and outputting data into bi systems for analysis and visualization
+qualifications ba/bs in mathematics, computer science, engineering or other quantitative field
+3+ years of experience working directly with bi tools like looker or treasure data
+advanced sql skills
+solid spreadsheet skills (excel, google sheets, etc.)
+experience with etl processes, data warehousing or building out data pipelines
+ability to work with business stakeholders to define bi requirements
+ability to act as a project manager and collaboratively work with business stakeholders to define and develop bi use cases
+maintains a positive attitude and shares silvercar’s values
+ return to job opportunities 
+
+
+
+
+first time user?
+create account
+
+
+
+returning user? please sign in!
+
+
+sign in
+
+forgot password?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

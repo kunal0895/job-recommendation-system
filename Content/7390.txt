@@ -1,0 +1,151 @@
+
+
+
+
+
+coyote logistics careers
+
+
+
+
+
+
+
+
+
+browse open jobs
+search open jobs
+
+edit your profile
+view submitted applications
+
+
+
+
+job details
+
+
+
+apply online
+
+
+send this job to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition number
+17-0158
+
+
+post date
+9/4/2017
+
+
+title
+data scientist
+
+
+city
+chicago
+
+
+state
+il
+
+
+description
+coyote logistics was founded in 2006, built with passion and dedication to create a phenomenal company culture. we are a company that has heart and soul, and a drive for success. as a third-party logistics (3pl) provider, coyote is dedicated to helping
+ its customers move their products and manage their supply chains efficiently, and we take care of our carriers to keep them moving so they can grow their businesses too. we are fanatical in our goal to provide unparalleled service excellence to each and every
+ customer and carrier we work with. in addition to its recognition as one of the leading 3pls in the industry, coyote continues to change the industry expectation by executing with unprecedented service and unmatched innovation.
+
+data scientist
+
+the data science team is looking for an individual that has a passion for deriving value from data and an insatiable curiosity for learning and trying new things. the data scientist will be responsible for conducting statistical analysis, developing methodologies
+ and contributing to a variety of research activities. primary responsibilities will also include suggesting new research approaches and exploring relevant evolving technologies. other responsibilities include creating solutions that allow for fast and streamlined
+ integration between data science products and the rest of the coyote ecosystem.
+
+daily tasks & responsibilities
+• create solutions to efficiently manage and consume various models and predictive tools
+• create, test and tune predictive and prescriptive models leveraging any combination of relevant disciplines
+• come in every day with an eagerness to learn, teach and collaborate
+
+essential skills, characteristics, & experience
+• 2+ years of experience in machine learning and predictive modeling at a professional level
+• expert in python and/or r
+• strong quantitative analysis, statistics, programming, and modeling skills
+• experience manipulating, processing, and analyzing large data sets
+• proficiency in ms sql or similar
+• a healthy appetite of curiosity coupled with creative problem solving
+
+valued skills & experience
+• ms azure or aws
+• azure machine learning
+• ms sql server 2016
+• spark, scikit learn, tensorflow
+• nonlinear optimization, graph theory
+
+why coyote?
+• onsite training & ongoing career development
+• competitive base salary
+• comprehensive benefits package
+• great perks like onsite haircuts, massages, and intramural sports
+• significant advancement opportunities for outstanding performers
+• casual dress and company lunch
+
+coyote is an at-will employer.
+
+
+
+
+
+equal opportunity employer/protected veterans/individuals with disabilities.please view equal employment opportunity posters provided by ofccp 
+here.the contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access
+ to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure
+ is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information. 41
+ cfr 60-1.35(c)
+
+
+
+
+apply on-line
+
+
+
+send this job to a friend
+
+
+
+
+
+
+
+an equal opportunity employer
+
+
+
+copyright ©  ultimate software
+
+
+
+

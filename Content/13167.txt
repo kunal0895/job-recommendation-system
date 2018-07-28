@@ -1,0 +1,125 @@
+
+
+
+
+
+
+		software development intern spring 2018 - careers at arkadium	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    back to openings		    
+
+
+
+
+
+
+software development intern (spring 2018)
+
+ department:
+internships
+ location:
+new york, ny
+
+start your application
+who we are
+named best workplace by inc. magazine in its 2016 and 2017 issues, for 16 years weve been creating engaging, revenue-generating content used by hundreds of global publishers including usa today, tronc, comcast, microsoft, and cnn. our newest product, inhabit, innovates the newsroom by delivering relevant interactive visualizations to any article instantly  enhancing editorial and boosting user-interaction, all while delivering a premium ad experience to focused and active users.
+*this internship is unpaid and should be completed in conjunction with a school program offering credit for your work.
+overview:
+as a software development intern working from our beautiful, bright headquarters in new yorks flatiron, your focus will be on developing tools, solving programming problems, and helping to build fun, compelling interactive content to live on the companys new flagship engagement platform. our ideal candidate will bring bold ideas, a proven ability to execute, a deep interest in learning new technologies, positive energy, and fierce drive. 
+responsibilities 
+
+develop new internal tools that help solve a wide variety of problems
+help create new interactive content that range from fun games to editorial web apps with support from experienced developers
+help develop front ends in html5 and other web tech thats highly responsive and visually exciting 
+work with the team in ideation and brainstorming for new market-defining interactive content
+integrate with recommendation engines, analytics products, and big data solutions
+work in an agile environment as part of a multi-disciplinary team that values speed and autonomy
+effectively utilize and understand shared technical modules and templates
+
+our ideal candidate - experience:  
+
+currently studying or have received a bachelors degree in computer science
+experience with javascript, c#, or python
+experience with rest api development and mean stack
+experience developing front-end ui solutions using react/inferno, sass/less, or similar
+
+our ideal candidate - traits: 
+
+focused on results: wants to make amazing tools and software that provide positive results for the team.
+proactive: self-motivated to evaluate what needs to be done and act.
+embraces change: understands the dynamic market landscape, recognizes that iteration is critical to making successful products.
+eager to improve: receptive to mentoring, turns feedback into immediate action. self-motivated to improve personally and as a team.
+creative: always looking for new ways to innovate in every aspect of game development.
+collaborative: wants to win as a team. creates a trusting and supportive team environment where individuals are all open to feedback and generous with help.
+
+
+in addition to this unique internship opportunity, we offer: 
+
+an opportunity to work with a company that has the stability and resources of a big player and spirit and flexibility of a start up
+a team that dreams big and strives to never settle for anything less than great
+comprehensive mentorship program
+a hands-on opportunity to make an impact on arkadiums growth
+a beautiful studio located in the heart of nycs silicon alley, just steps from madison square park
+a unique culture of teamwork and fun
+metro card and/or commuting reimbursements
+
+
+requirements:
+
+you must include a link to your github or online portfolio with previous web/game/interactive projects that youve worked on. candidates without portfolios or links to their projects will not be considered.
+
+
+
+please, no phone calls or walk-ins.
+
+
+
+start your applicationor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

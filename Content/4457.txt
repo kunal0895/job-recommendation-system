@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+sr solutions architectcareers at intel in automated driving data center solutions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    intel 
+
+
+
+
+explore intel
+
+
+
+
+
+
+life at intel
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+benefits at intel
+
+
+
+
+
+
+ careers at intel
+
+x
+
+
+
+
+jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+
+
+global student center
+
+explore global student center
+internships
+rotation programs
+
+other languages
+
+visit our hebrew career-site
+
+explore
+
+explore more careers
+
+
+
+
+
+
+
+
+
+accessibility 
+
+
+
+
+
+ join the talent network 
+
+
+accessibility
+
+
+
+
+x
+  menu 
+
+ jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+
+ jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+ global student center
+
+explore global student center
+internships
+accelerated leadership program (alp)
+rotation programs
+venture program
+
+
+ carees site in other languages
+
+hebrew
+
+
+explore more careers
+ explore intel
+
+life at intel overview
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+explore benefits at intel
+ advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+› sr solutions architect automated driving data center solutions 
+
+
+
+
+
+apply
+
+
+search all jobs
+
+
+
+
+
+apply now
+       
+
+
+
+
+job id: jr0042538
+job category: engineering
+primary location: hillsboro, or us 
+
+other locations: california, santa clara;
+job type: experienced hire
+
+
+sr solutions architect- automated driving data center solutions
+job descriptionautonomous driving and connected vehicles are exciting new business opportunities for intel and represent a tangible example of the 'virtuous cycle'. datacenter solutions for autonomous driving and connected cars that provide capture & management of data, develop driving policy models, and simulate driving behavior of those policies is in high demand as the auto industry moves to enable new technologies in their vehicles. strategic partnerships with auto oems and industry solution providers are needed to deliver these datacenter platforms.we are looking for a senior solutions architect, who as the strategic and technical expert on intel's data center technologies will help build and deploy data center solutions for autonomous cars and actively engage in winning new business by leading customers from rfp/rfi to deal close.responsibilities:engage consultatively with automotive customers to understand their business, functional, and technical objectives. uncover challenges, pain points, and requirements from the viewpoints of line of business executives, system architects, research and development teams, and it organizations working on autonomous driving.drive a cohesive solution strategy, defining solution architecture for the customer that extends core platform capabilitiescapture and prioritize customer requirements for intel development teams that are specific, measurable, and timelyarticulate intel's portfolio of data center capabilities, including hardware technologies, systems, software, and services to the customer in verbal, written, and presentation form.prioritize and handle multiple prospect calls, rfp/rfis, sows, meetings, and follow-up items, ensuring a timely and professional response.initiate, and carry forward proofs of concept and pilot projects with the customer to demonstrate capabilities of the solution stackensure customer success by working across organizations within intel to deliver timely information, products, and technologies to the customer to ensure a solution saleaccountable for developing and scaling business across the customer basequalificationsrequirements:minimum of 10 years of industry experience in designing and building data center solutions or equivalent years of experience after a graduate degreeknowledge of cloud innovations, datacenter infrastructure trends, requirements, and operational systemsdemonstrated expertise with cloud services such as aws, azure, gcp including setting up geographically redundant cloud services, understanding both business and technical challenges of deploying solutions on cloud-scale infrastructureproven expertise in ai, machine learning, and deep learning technologiesexperience working with it leaders in the automotive industryexperience with open source and commercial software platforms for big data analytics and machine learning, including hadoop, spark, tensorflow, and othersstrong customer presentation skills, with polished communication and engagementability to collaborate and successfully influence multiple levels of management, across multiple business units and stakeholders, including vertical segment teams, strategic planning, platform engineering, and product marketing as well as direct engagement with external customersability to balance technical implementations with end-user business valuestrong business savvy, with a solid grasp of business models and negotiation techniqueseducation-bs computer science, computer engineering, telecommunications or other related graduate degree desiredinside this business groupthe data center group (dcg) is at the heart of intel’s transformation from a pc company to a company that runs the cloud and billions of smart, connected computing devices. the data center is the underpinning for every data-driven service, from artificial intelligence to 5g to high-performance computing, and dcg delivers the products and technologies—spanning software, processors, storage, i/o, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.other locationscalifornia, santa clara; posting statement. intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+what would you like to do now?
+
+
+
+
+
+
+
+get job alerts
+
+get started
+
+
+
+
+
+find out more about working at intel
+
+learn more
+
+
+
+
+
+jobs@intel blog
+
+learn more
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+grow your network of opportunities
+ facebook twitter linkedin glassdoor instagram intel student spot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+our commitment
+investor relations
+contact us
+newsroom
+site map
+jobs
+
+
+
+
+
+
+
+
+
+© intel corporation
+terms of use
+*trademarks
+privacy
+cookies
+supply chain transparency
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

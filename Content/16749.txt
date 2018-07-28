@@ -1,0 +1,43 @@
+c/c++ software engineer at quoinquoinc/c++ software engineercharlotte, ncfull-timejob openingsc/c++ software engineer%button_apply_to_position% apply using linkedinquoin is seeking a software engineer to support re-engineering and system integration projects in our retail systems practice. the software engineer works under the supervision of senior engineers and technical leads to deliver quality products for our clients. day-to-day work will focus on full lifecycle development, including design, implementation, testing, and peer review in an agile/continuous integration approach.
+the software engineer is responsible for building applications that exhibit superior reliability, robustness, and performance. this is a hands-on development role, and requires the implementation of system components using c/c++ and other technologies. a successful candidate will possess proven design skills and a broad knowledge of application development technology. in addition, a candidate will have demonstrated skills in system integration and distributed transaction processing. a strong knowledge of aix/unix, software configuration management, quality assurance, and tools is also required. this individual will thrive in a collaborative and team-oriented environment. it is imperative that the candidate has a desire to acquire and apply new skills. quoin offers challenging opportunities for professionals who are driven by building great software.
+responsibilities:
+
+design, code, and test application components
+work effectively on project teams using agile development practices
+acquire new design and implementation skills
+participate in design and code reviews, and ensure the quality of all project deliverables
+exhibit outstanding coding, documentation, testing, and other development practices
+
+required skills:
+
+2 or more years experience in c or c++
+advanced programming a unix environment (linux, aix, other)
+experience using eclipse cdt or other ide
+experience in shell scripting and posix compliance
+experience in static and dynamic analysis using valgrind, asan, tsan, ubsan, or others
+experience in secure coding practices, such as misra, sei cert c
+knowledge of source code control and software configuration management
+knowledge of build and deployment tools experience with quality assurance tools, including static and dynamic analysis
+
+additional skills:
+
+practical knowledge of agile development
+practical knowledge of continuous integration and automated testing
+c++ libraries, including boost defect and issue tracking
+unit testing frameworks performance testing processes and tools
+code quality and metrics tools
+code coverage tools java/j2ee experience mobile application development, including ios, android
+
+compensation:
+
+salary commensurate with experience ($60k to $100k)
+performance bonus
+company-paid health insurance
+company-sponsored 401k and matching
+short & long-term disability insurance
+3 weeks of annual vacation
+
+location: charlotte (davidson), nc
+if you are interested in this opportunity at quoin, please send a cover letter with salary expectation and resume (in adobe pdf format only). all positions are full-time employment only. candidates must be eligible to work for any employer in the united states (no h1b visa applicants at this time).
+no third party responses, please.
+%button_apply_to_position%%footer_powered_by%breezy

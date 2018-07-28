@@ -1,0 +1,417 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail - kellymitchell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+login
+register
+ 
+
+
+find a job
+find talent
+solutions
+about
+blog
+contact
+login
+register
+ 
+
+
+
+
+
+please set up your profile first
+
+					we don't yet have all the information we need.  please update your profile.  specifically:
+				
+
+
+the 'first name' field is required.the 'last name' field is required.at least one address line is required.the 'city' field is required.the 'state' field is required.the 'zip code' field is required.you must have at least one active resume in your profile. 
+
+
+find a job
+
+
+
+
+
+
+back to job listings
+
+
+solr developer ? for smart search application
+
+
+
+
+apply
+
+
+
+
+
+
+
+share
+
+facebook
+twitter
+google+
+linkedin
+email
+
+
+
+
+
+phoenix, az | it
+
+          job id: 75752          
+listed on 10/10/2017 
+kellymitchell matches the best it and business talent with premier organizations nationwide. our clients, ranging from fortune 500 corporations to rapidly growing high-tech companies, are exceptionally served by our 1500+ it and business consultants. our industry is growing rapidly, and now is a great time to launch your career with the kellymitchell team.
+job summary:  solr developer
+duties:
+
+developing scalable, high-performance applications. 
+build smart search applications to make information retrieval a very intuitive and seamless experience
+
+you must have: 
+
+4-5 years of strong hands on skills in solr querying and indexing supporting web applications 
+expertise in solr cloud technologies – collection sharding/replication, failover, fault tolerance, high availability along with java. 
+expertise in configuring solr schema and understanding of advanced schema fields 
+expertise in tuning the relevancy of search results 
+expertise in fine tuning solr caches and cache warming and segment merging 
+exposure to the internal implementations of solr/lucene and understanding of information retrieval techniques 
+strong knowledge and understanding of data structures, object oriented design and systems / applications programming 
+strong knowledge of data cleansing and enrichment experience 3-5 years of t-sql experience , including writing and troubleshooting stored procedures 
+
+nice to have: 
+
+experience with machine learning techniques (especially recommender and nlp systems) 
+experience with ui technologies such as reactjs, polymer or javascript in general is desired 
+good communication, presentation and collaboration skills 
+proven analytical, problem solving and time management and organizational skills 
+familiarity with the elk (elastic, logstash, kibana and beats) stack is a plus 
+interest in cyber security is a plus
+
+ 
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+share
+
+facebook
+twitter
+google+
+linkedin
+email
+
+
+
+
+
+
+
+read up! keep up with all things kellymitchell on our blog. we have expert career advice, tech news and the latest from our team.
+
+read more
+have a question? we'd love to answer it. get in touch with the kellymitchell team via our contact form.
+
+contact us
+
+
+
+
+
+
+find a job
+find talent
+solutions
+about
+blog
+contact
+login
+register
+
+linkedin
+twitter
+facebook
+google+
+instagram
+youtube
+glassdoor
+ 
+
+contact us
+info@kellymitchell.com
+        (877) 827-1700
+linkedin
+twitter
+facebook
+google+
+instagram
+youtube
+glassdoor
+ find a location
+
+
+sign up for our occasional and non-annoying newsletter
+
+
+
+
+
+email address*
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+privacy policy
+terms of use
+© 1998-2016 kellymitchell group. all rights reserved.
+
+
+
+
+
+
+
+
+login
+
+
+
+
+
+ 
+
+forgot password?
+don't have an account? register today.
+
+
+
+
+
+forgot password
+forgot your password? no big deal. tell us your email and we’ll send you a new one.
+
+
+ 
+
+
+
+
+
+
+register
+
+
+first name*last name*email address*
+
+password
+
+
+enter password
+
+
+
+confirm password
+
+
+address*
+
+
+
+street address
+
+
+address line 2
+
+
+city
+
+state *alabamaalaskaarizonaarkansascaliforniacoloradoconnecticutdelawaredistrict of columbiafloridageorgiahawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotaohiooklahomaoregonpennsylvaniarhode islandsouth carolinasouth dakotatennesseetexasutahvermontvirginiawashingtonwest virginiawisconsinwyomingarmed forces americasarmed forces europearmed forces pacific
+state
+
+
+zip code
+
+
+phone number*primary resume **accepted file types: pdf, doc, docx, rtf, xml, vcard."*" denotes required fieldnamethis field is for validation purposes and should be left unchanged.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+already have an account? login
+
+
+
+
+
+apply for this job
+use the form below to apply for this job as a guest. or, use your account to save your information for
+  use on multiple applications. you'll also get to use our quick apply feature, save jobs to review later and
+  see which jobs you've already applied for!
+
+don't have an account? register today.
+already have an account? login.
+
+
+name*
+
+
+first
+
+
+
+last
+
+email*
+
+street address (line 1)street address (line 2)citystatezip codephone numberupload a resume*accepted file types: pdf, doc, docx, rtf, xml, vcard.namethis field is for validation purposes and should be left unchanged.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+
+mindera - jobs: backend software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+backend software engineer
+
+backend software engineer
+san diego, california, united states · san diego
+
+descriptionhere at mindera, we are continuously developing a fantastic team, and would love it for you to join us.as a backend software engineer you’ll be part of the development of the core service-oriented architecture.we’re looking for experienced backend engineers (java focus) who have the appetite for solving complex and interesting problems.our focus is to develop with high standards having operational aspects in mind (metrics collection, tracing, etc.) with an holistic view on the backend platform in the back of your mind.expected travelling time (portugal, uk and usa):: 0%-15%, varies according to project/client.requirementsyou rock at  building highly concurrent, transactional and resilient services; being self-driven, self-organised and working with little supervision towards a common team and company purpose; building highly concurrent, transactional and resilient services. you're good at service oriented architectures, design patterns and data structures; test automation, continuous integration and continuous delivery metrics, performance, and operational aspects that show you care about your code. more than one programming language such as java, scala, javascript or python working with spring or spring boot, mysql, springboot and mongo (although not essential) agile methodologies such as scrum and kanban and devops benefitswe offer fun, happy and politics-free work culture built on the principles of lean and self organisation; work with large scale systems powering global businesses; competitive pay. this is a 1099 contract to start, with a possibility of extending after the contract.  about minderaat mindera we use technology to build products we are proud of, with people we love.software engineering applications, including web and mobile, are at the core of what we do at mindera.we partner with our clients, to understand their product and deliver high performance, resilient and scalable software systems that create an impact in their users and businesses across the world.you get to work with a bunch of great people, where the whole team owns the project together.our culture reflects our lean and self-organisation attitude. we encourage our colleagues to take risks, make decisions, work in a collaborative way and talk to everyone to enhance communication.we are proud of our work and we love to learn all and everything while navigating through an agile, lean and collaborative environment. check ot our blog: http://mindera.com/ and our handbook: http://bit.ly/minderahandbookour offices are located: porto, portugal | leicester, uk | san diego, usa | chennai, india
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+mindera website
+
+powered by
+workable
+
+
+
+
+

@@ -1,0 +1,86 @@
+front end software engineer at square rootfront end software engineeraustin, txfull-timeengineeringjob openingsfront end software engineer%button_apply_to_position% apply using linkedinwe're looking for software engineers with a front end javascript focus to help us build great applications. our engineers work in small cross-functional teams that emphasize iteration and learning. it's a collaborative culture, with lots of pairing and discussion. we're working with enterprise-scale customers to solve real business problems. along the way, you'll get to work with modern technologies and great people in a startup culture.
+if you'd like the chance to make an impact, we'd love to hear from you!
+the gig
+
+
+design and build our client-side web apps using angular and related technologies
+
+
+plan for enterprise scale and performance, improving quality and maintainability as you go
+
+
+collaborate with the design team to transform vision into great user experience
+
+
+collaborate with the customer success and product teams to identify and deliver the value in our products
+
+
+share best practices and mentor others on the engineering team in the areas where you're an expert
+
+
+learn and grow, picking up new technologies and patterns as the product and the industry evolves. while experience is not required, you will be working with angular 4, ecmascript 6, typescript 2.2, webpack and yarn talking to a restful api
+
+
+about you
+
+
+you love to code. you understand basic design patterns, data structures, and algorithms
+
+
+you've got 5+ years software development experience
+
+
+you've got deep experience building web apps with modern javascript frameworks, preferably angular, but you know that tech is dynamic so you’re not married to one approach
+
+
+you're comfortable with enterprise web applications using current unit and integration test frameworks. you understand asynchronous requests, asset pipelines, browser rendering, and page load optimization
+
+
+you make the people around you better
+
+
+you're a good communicator, positive, with a bias for action
+
+
+basics
+
+
+please apply with a cover letter​ that details why you’re a fit for the role and square root!
+
+
+our radical culture
+our culture is at the core of everything we do. we have fun, but we work hard. so, as we grow we’re not only looking to hire the best and brightest, but we’re also looking for people that share our values. this is the code we live by:
+
+
+think big. do bigger. we think big ideas are meant to be pursued. so, we think critically and have a bias for action and impact. we continually iterate to deliver smarter direction and better software.
+
+
+be customer-inspired. we aim to over-deliver and delight by doing what’s best, not just what’s expected. that’s why we make it a priority to understand how our customers operate and the challenges that they face.
+
+
+partner. we build strong relationships by having a partnership mindset – internally and externally. we go above and beyond to help our customers and one another succeed.
+
+
+thrive. we set our internal bar high so that we can bring enthusiasm, speed, and innovation. we revere personal drive, growth, and balance. we celebrate successes, and, sometimes, we just celebrate.
+
+
+the good stuff
+founded in austin, texas, we’ve been bootstrapped and profitable since our start in 2006. along the way, we’ve added a slew of benefits + perks inspired by our team of radicals. here’s a sample:
+
+
+flexibility: no dress code, office hours, or vacation policy
+
+
+competitive benefits and compensation
+
+
+cozy campus of five 1920’s craftsman homes in downtown
+
+
+radicals get $3,000 a year to learn anything (seriously!)
+
+
+team lunches, stocked kitchen + bar, coffee-snob compliant coffee machines
+
+
+%button_apply_to_position%%footer_powered_by%breezy

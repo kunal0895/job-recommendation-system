@@ -1,0 +1,337 @@
+
+
+
+
+
+data engineer at nike inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+shop
+
+
+nike+
+
+
+
+
+
+
+
+
+
+
+
+
+
+corporate careers
+retail careers
+benefits
+locations
+internships
+temporary opportunities – u.s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nike it careers
+nike corporate employees shatter limits daily at company headquarters and offices around the world.
+
+
+
+
+
+
+
+data engineer
+apply now
+
+become a part of the nike, inc. team
+nike, inc. does more than outfit the world's best athletes. it is a place to explore potential, obliterate boundaries and push out the edges of what can be. the company looks for people who can grow, think, dream and create. its culture thrives by embracing diversity and rewarding imagination. the brand seeks achievers, leaders and visionaries. at nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+nike technology designs, creates and implements the methods and tools needed to make the world’s largest sports brand run faster, smarter and more securely. global technology teams aggressively innovate the solutions needed to help employees navigate nike's rapidly evolving landscape. from infrastructure to security and supply chain operations, technology specialists drive growth through top-flight hardware, software and enterprise applications. simply put, without nike technology, there are no nike products. 
+description
+        if you’re ready to innovate and become part of our enterprise data organization, come join us now! you will be part of an organization that is revolutionizing nike technology platforms and architecting a data and analytics landscape that is simplified, modern, flexible and will ultimately enable nike on its journey to 2020 and beyond. your role on the teamas a data engineer within the north america market place analytics team, you will be a key member of a growing and passionate group focused on collaborating across business and technology resources to drive forward key programs and projects building enterprise data & analytics capabilities across nike.primary responsibilities:•	good understanding and application of modern data processing technology stacks.  for example, spark, hadoop ecosystem technologies, and others•	design and build product features in collaboration with business and it •	design reusable components, frameworks, libraries like user defined functions•	build continuous integration and test-driven development environment•	performance/scalability tuning, algorithms and computational complexity•	develop architecture and design patterns to process and store high volume data sets•	participate in an agile / scrum methodology to deliver high - quality software releases every 2 weeks through sprints•	troubleshoot production support issues post - deployment and come up with solutions as required
+qualifications
+        •	a bachelor's degree in business, information technology or related field•	2+ years’ experience in a professional organization collaborating across multiple functions•	familiarity with agile project delivery methods•	experience with aws components and services (e.g. emr, s3, and lambda)•	experience with jenkins, bitbucket/github and scheduling tools like airflow•	strong java programming, python, shell scripting and sql•	good understanding of file formats including json, parquet, avro, and others•	experience with rdbms like oracle•	experience with data warehousing, dimensional modeling and etl development•	demonstrable ability to quickly learn new tools and technologies •	machine learning frameworks & statistical analysis with python, r or similar•	exceptional interpersonal and communication skills (written and verbal)•	passion for data with demonstrated ability to use data to tell a story and influence decision making•	detail oriented with strong information seeking skillscompetencies:•	effective communicator•	broad business process and systems understanding•	analytical and focused•	strategic thinking and tactical execution•	continuous learner
+nike, inc. is a growth company that looks for team members to grow with it. nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. no matter the location, or the role, every nike employee shares one galvanizing mission: to bring inspiration and innovation to every athlete* in the world.
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+job id 00361907
+
+apply now
+
+
+still looking?
+find the right career here.
+
+
+search
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+go
+
+
+
+
+
+
+job recommendations
+with just 1 click and a connection with linkedin, you can receive job listings that best match your previous positions.
+match my jobs
+
+
+
+share
+
+email
+linkedin
+facebook
+tumblr
+
+
+
+
+
+
+job alerts
+first namelast nameemail addressinterested insign up for job alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least 1 alert added in order to subscribe.categorylocationaddtechnology, portland, oregon, united statesremovedigital & technology, portland, oregon, united statesremoveit, portland, oregon, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+join our talent community
+didn't find what you're looking for? submit your information for future consideration.
+sign up
+
+
+
+
+
+
+internships
+get fully immersed in our culture of curiosity and innovation. start a corporate internship at nike.
+learn more
+
+
+
+
+innovation at nike
+take a behind the scenes look at how nike employees shaped product and experiences for the biggest football tournament in the world.
+learn more
+
+
+
+
+benefits
+as part of the world’s leading sports brand enjoy great benefits that fit, varied by position and location.
+learn more
+
+
+
+
+locations
+employees in six continents and 53-plus countries make up one global nike team.
+learn more
+
+
+
+
+
+
+
+
+mobile
+
+orders
+stories
+help
+
+
+
+first
+
+gift cards
+find a store
+sign up for email
+join nike+
+
+
+
+second
+
+get help
+order status
+shipping and delivery
+returns
+payment options
+contact us
+
+
+
+third
+
+news
+about nike
+careers
+investors
+converse careers
+sustainable innovation
+ca supply chains act
+
+
+
+
+social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+united states © 2017 nike, inc. all rights reserved
+
+
+guides
+
+nikeid
+running
+basketball
+nfl
+golf
+nike sprtswear
+soccer
+skateboarding
+tennis
+kids
+flyknit
+nike free
+lunarion
+dri-fit
+nike zoom
+tech pack
+football
+baseball
+nike innovation
+nike flyease
+nike grind
+
+
+terms & conditions
+privacy policy
+sitemap
+ca supply chains act
+
+
+
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. nike is committed to working with and providing reasonable accommodation to individuals with disabilities. if, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please call 503-671-4156 and let us know the nature of your request, your location and your contact information.
+for more information, please refer to equal employment opportunity is the law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

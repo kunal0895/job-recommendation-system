@@ -1,0 +1,179 @@
+
+
+
+varen technologies | careers |software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+job location
+
+us-co-aurora
+
+
+
+
+
+id
+
+2017-2674
+
+
+clearance requirements
+
+top secret/sci with polygraph
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+varen technologies is an intelligence services provider focusing on information technology services and solutions for the defense and intelligence communities.  we provide high caliber intelligence professionals to assist in all aspects of systems implementation, delivering leading edge solutions using the latest tools and technologies.  we hire professionals who match our core values and high standards, and who are looking to work in a dynamic, team-oriented environment.  it is our belief that professional growth and development are among the most important ways to keep our highly talented employees challenged and motivated.  this belief keeps us focused on career paths for each individual, giving our employees the ability to fulfill their personal and professional goals.  add that to our highly competitive benefits, rapid growth and success, varen is just an exciting place to work!  
+
+
+
+
+
+
+
+
+responsibilities include, but not limited to
+
+
+
+
+
+
+varen technologies is looking for a motivated software engineer to support our government customer in aurora, colorado.    analyze user requirements to derive software design and performance requirementsdesign and code new software or modify existing software to add new featuresdebug existing software and correct defectsintegrate existing software into new or modified systems or operating environmentsdevelop simple data queries for existing or proposed databases or data repositoriesprovide recommendations for improving documentation and software development process standardsdevelop or implement algorithms to meet or exceed system performance and functional standardsassist with developing and executing test procedures for software componentswrite or review software and system documentationdevelop software solutions by analyzing system performance standards, confer with users or system engineers; analyze systems flow, data usage and work processes; and investigate problem areasserve as team lead at the level appropriate to the software development process being used on any particular projectmodify existing software to correct errors, to adapt to new hardware, or to improve its performancedesign, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of designdesign or implement complex database or data repository interfaces/queriesoversee one or more software development teams and ensure the work is completed in accordance with the constraints of the software development process being used on any particular projectdesign or implement complex algorithms requiring adherence to strict timing, system resource, or interface constraints; perform quality control on team products 
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+must posess active ts/sci clearance with polygraphbs in computer science14 years of experience as a software engineer3 years of development experience with mapreduce, key-value store technology, hbase/hadoop, apache, accumulo3 years of experience with cloud architectures, cloud analytic development, data ingest, ozone / ozone-like widgetsminimum 3 years of demonstrated experience in programming background in  java, c++, perl, ruby, python, xml, unix, linux, sybase & oracleknowledge of distillery/ibm streams1 year experience in distillery/ibm streams or storm framework or apache storm1 year experience in niagarafilesexperience with scripting languages desired varen offers a competitive benefits package to include: employee bonus plan, corporate equity program, 401(k), tuition reimbursement, referral bonus program, paid holidays, paid time off, medical, dental and vision insurance, flexible spending account, long and short term disability and company paid life insurance.  varen technologies is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. please view equal employment opportunity posters provided by ofccp here. for inquiries regarding disability accommodation during the application process, please contact ada@varentechnologies.com or the recruiter with whom you are working. current employees may also contact a human resources representative.   
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

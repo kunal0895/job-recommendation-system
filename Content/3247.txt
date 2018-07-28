@@ -1,0 +1,142 @@
+
+
+
+
+qeexo careers - machine learning research engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    qeexo careers                                            
+
+
+
+
+
+
+
+                machine learning research engineer
+    
+    
+
+                            engineering            
+                    pittsburgh,
+                            pennsylvania
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+job description: research engineer, machine learning our company, qeexo, brings together a unique combination of expertise in machine learning, human computer interaction, and hardware integration to create revolutionary lightweight machine learning solutions. we are looking for a machine learning expert who loves working with sensor data, loves developing novel algorithms, is not afraid of challenging, open-ended problems, and wants to help us shape the future of lightweight machine learning. you will be working with a highly capable team of machine learning engineers and will have the opportunity to make a meaningful impact on the growth of a burgeoning startup.as a machine learning research engineer, your responsibilities will include:designing experiments to advance our machine learning understanding and techniquesrunning experiments to improve the core algorithms of qeexo products on consumer devicesmodeling performance of qeexo products on new hardware, sensor, and interaction platformsdeveloping new algorithms to improve our engine calibration processdeveloping algorithms for new qeexo solutions ideal candidatea proven track record of academic and/or industry experience in fields related to machine learning and signal processing, particularly in acoustic analysisdeep knowledge of statistical and machine learning approaches and problem domainscomputer science/ee/ece background (ms or phd preferred) with strong coding ability and familiarity with java, c++ or other oop language.  (you may not be doing production-level coding but you will need to build prototypes/tools for experiments and analysis.)proven success with multiple ml/ai/classification projects (research papers, kaggle, open source implementations, etc.)expertise in one or more specific areas of research: neural nets, deep learning, signal processing, digital imaging, ensemble learning and system identificationresearch-minded, ability to run experiments independently and present results to leadershipcomfortable working in a terminal environment, writing scripts (bash/python) to process data and implement algorithmsexperience in mobile or other consumer electronic devices skills & requirements:machine learning (expert)python (expert)deep learning (proficient)ensemble modeling/classification (proficient)signal processing (familiar)java (familiar)c (familiar)data structures and algorithms (familiar)some travels may be requiredus work authorization required bonus qualificationsfamiliarity with acoustics or mechanical wave propagation, signal processing, approximation theory, and information theoryunderstanding of applied mathematics, computational science, computational statistics, approximation theory, compressive sensing, representation learning, and/or pattern recognition
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

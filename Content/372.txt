@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: software engineer (automation/machine control (1801) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: software engineer (automation/machine control (1801)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+req # 1801 - posted 11/11/2017 - us - pa - horsham - engineering
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+                  apply using linkedin™
+                 
+               
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+veeco (nasdaq: veco) is a leading manufacturer of innovative semiconductor process equipment. our proven mocvd, lithography, laser annealing, ion beam and single wafer etch & clean technologies play an integral role in producing leds for solid-state lighting and displays, and in the fabrication of advanced semiconductor devices.   with equipment designed to maximize performance, yield and cost of ownership, veeco holds technology leadership positions in all these served markets.
+overview:
+the veeco psp (precision surface processing) business unit is looking for a software engineer to join our growing team, which serves the equipment and service needs of the exciting semiconductor equipment market. the person in this role will develop software applications, through the entire development lifecycle, that operate semiconductor process equipment.
+ 
+responsibilities:
+
+develops machine control and data communications applications running under ms windows
+delivers high-quality prototype and production software on schedule
+designs, develops, debugs, and tests application code using a variety of software languages
+troubleshoots and resolves issues with previously released software
+creates and maintains documentation, such as software requirements, analysis and design documents and release notes
+collaborates with field service group to provide timely support to end users
+assists production department personnel with machine startup troubleshooting
+
+ 
+qualifications:
+bachelor of science degree in computer science (or technical engineering discipline) with a minimum of 5 years of relevant work experience developing software for automation equipment.
+ 
+knowledge, skills, and abilities:
+
+in-depth understanding of c/c++, c#, and wpf.  experience with visual basic a plus
+experience developing client software for microsoft sql server or equivalent relational database technologies
+full lifecycle application development experience in a process-driven development environment
+experience with object-oriented analysis and design techniques
+project planning and project management experience
+knowledge of software configuration management and software change management practices
+knowledge of software development frameworks such as agile/scrum
+an effective communicator
+
+ 
+ 
+veeco is an equal opportunity/affirmative action employer. applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, protected veteran status, disability, or any other characteristics protected by applicable federal, state or local law.
+ 
+ 
+ind1
+#li-rs1
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+                  apply using linkedin™
+                 
+              
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         maximum character limit: 1000
+
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+
+
+
+
+
+

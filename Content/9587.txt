@@ -1,0 +1,151 @@
+
+data scientist, phd (temp-to-hire)
+
+        nabler is offering an opportunity for recent phd graduates in computer science, electrical engineering, or econometrics with
+        strong theoretical foundations and programming skills to break into the relatively new, and constantly growing, field
+        of data science. we are filling positions as data scientists that include on-the-job training and working onsite
+        with one of nabler’s fortune 500 clients. for a trained data scientist, the opportunities are endless! e-commerce,
+        digital marketing, and retail companies cannot fill these positions fast enough.
+    
+
+        you will be hired as a nabler temporary employee initially, embedded with a world class data science team. you will work
+        alongside, and be trained by, leaders in the industry. the intent of the client is to groom and then hire data scientists
+        upon successful completion of the probationary period.
+    
+location
+charlotte, north carolina 
+applicants must be eligible to work in the specified location
+summary
+
+        provides advanced analytical capabilities to support data science initiatives such as insightful business, website, and statistical
+        analyses that yield tangible results for client by performing the following duties
+    
+duties & responsibilities
+
+supports one or more areas of client in providing actionable insights on personalization, search and navigation,
+            seo and promotions, supply chain, services, and other company priorities through data science.*
+supports the creation of an automated insights generation framework for client’s business partners.*
+tracks measures of success and develops dashboard reports that measure financial results, customer satisfaction,
+            and engagement metrics for client’s business partners.*
+measures and evaluates impact of data science initiatives such as personalization or improved search algorithms.*
+identifies innovative ways for measuring and improving customer engagement.*
+conducts deep statistical analyses, including predictive and prescriptive modeling.*
+develops machine learning models and data science frameworks to support key business initiatives such as personalization
+            and recommendations, search recall, relevancy and ranking, and supply chain and network optimization.*
+conducts ad-hoc analytical requests, seeing them to completion.*
+supports functional area(s) in reaching their goals via timely and insightful analyses.*
+supports the development of tactical plans aligned with client’s business strategy in order to bring the vision into
+            realization.*
+keeps pace with change and maintains a competitive advantage within the marketplace by seeking out and learning changes
+            in the field.*
+works across the data science team, other analytics colleagues, and business partners such as personalization, search
+            and navigation, seo and promotions, social, inventory planning, supply chain, and services to accomplish tasks.*
+takes lead on project discovery, project coordination, and project implementation.*
+engages in developing the next generation data scientist through the junior data scientists.*
+develops communications and conveys message at the appropriate level for the given audience.*
+
+qualifications
+
+        to perform this job successfully, an individual must be able to perform each essential duty satisfactorily. the requirements
+        listed below are representative of the knowledge, skill, and/or ability required. reasonable accommodations may be
+        made to enable individuals with disabilities to perform the essential functions.
+    
+language ability
+
+        ability to read, analyze, and interpret the most complex documents. ability to respond effectively to the most sensitive
+        inquiries or complaints. ability to write speeches and articles using original or innovative techniques or style.
+        ability to make effective and persuasive speeches and presentations on controversial or complex topics to top management,
+        public groups, and/or boards of directors.
+    
+math ability
+
+        ability to comprehend and apply principles of advanced calculus, modern algebra, and advanced statistical theory. ability
+        to work with concepts such as limits, rings, quadratic and differential equations, and proofs of theorems.
+    
+reasoning ability
+
+        ability to apply principles of logical or scientific thinking to a wide range of intellectual and practical problems. ability
+        to deal with nonverbal symbolism (formulas, scientific equations, graphs, musical notes, etc.) in its most difficult
+        phases. ability to deal with a variety of abstract and concrete variables.
+    
+computer skills
+
+        to perform this job successfully, an individual should have knowledge of word processing software, internet software, and
+        database software.
+    
+education/experience
+
+        doctorate of philosophy (ph. d.) or equivalent in computer science or electrical engineering.
+    
+specialized training
+
+quantitative and machine learning
+natural language processing
+statistical data analysis
+mathematical and analytical modeling
+probability and hypothesis testing
+monte-carlo and nlp
+supervised and un-supervised learning as well as artificial neural networks and deep-learning
+time-series analysis, data analysis and visualization
+cern root, python tensorflow, matplotlib, r, mathematica, matlab, and octave
+scala, sql, nosql, java, and c/c++
+git and github, unix sed/awk, bash, working knowledge of hadoop, mapreduce, hive, hbase, and spar.
+
+knowledge, skills, and other abilities
+
+1 - 3 years analytical experience with a bachelor’s degree in related quantitative analytic field or 0 - 1 year analytical
+            experience with a master's degree in related quantitative analytic field such as computer science, statistics,
+            physics, or economics
+experience using multiple data systems and sources including an enterprise grade analytics tool hadoop, spark, aster,
+            teradata, netezza, redshift, vertica, alteryx, and tableau
+0-2 years programming experience with java, python, scala, and rust
+advanced knowledge of sql with at least 2 years of functional experience
+knowledge of various statistical modeling techniques with 2 year of functional experience
+strong business acumen and ability to understand business problems, develop hypotheses, and test and learn
+ability to form relationships/partnerships and lead by influence rather than by authority in a high matrix organization
+ability to manage time and priorities while still driving multiple projects at once
+strong communication skills and ability to interact with stakeholders and business partners across the organization,
+            and at various levels (technical to creative; individual contributors to executives)
+2+ years functional experience in performing predictive analytics at a large scale enterprise
+masters in related quantitative analytic field
+
+physical demands
+
+        the physical demands described here are representative of those that must be met by an employee to successfully perform the
+        essential functions of this job. reasonable accommodations may be made to enable individuals with disabilities to
+        perform the essential functions.
+    
+
+        while performing the duties of this job, the employee is regularly required to stand, walk, sit, use hands, reach with hands
+        and arms, and talk or hear. the employee is occasionally required to taste or smell. the employee must occasionally
+        lift and/or move up to 25 pounds. specific vision abilities required by this job include close vision, distance vision,
+        peripheral vision, depth perception, ability to adjust focus, and ability to see color.
+    
+work environment
+
+        the work environment characteristics described here are representative of those an employee encounters while performing the
+        essential functions of this job. reasonable accommodations may be made to enable individuals with disabilities to
+        perform the essential functions.
+    
+
+        while performing the duties of this job, the employee is frequently exposed to work near moving mechanical parts. the employee
+        is occasionally exposed to risk of electrical shock, and vibration.
+    
+
+        the noise level in the work environment is usually moderate.
+    
+eligibility
+
+        in compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the united
+        states and to complete the required employment eligibility verification document form upon hire.
+    
+
+
+
+apply
+
+« openings at nabler
+
+
+
+

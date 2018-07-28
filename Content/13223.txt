@@ -1,0 +1,241 @@
+
+
+
+
+job application for junior software engineer at varsity tutors, llc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+junior software engineer
+
+        at varsity tutors, llc
+      
+(view all jobs)
+
+        seattle office
+      
+
+
+summary
+varsity tutors operates the leading live learning platform in the united states and is building a global on-demand expert network. students can receive live 1:1 help online, on mobile, or in-person in over 1,000 subjects facilitated by 30,000 experts. our mission and vision are to help people learn by seamlessly connecting experts and learners in any subject, anywhere, anytime.
+we're a devops shop where we take great pride in the quality of our code, our processes, and our services. we have a complete ci/cd software lifecycle and an evolving services-oriented-architecture hosted in aws. we operate in a highly collaborative environment with product and design to build experiences that matter to our customers. at varsity tutors, engineers do not just write code, they actively participate in the conversation on what and how to build the systems and solutions that matter to our customers. if you love your customers as much as we do, we'd love to hear from you.
+if your passion is building rock-solid services and apis that are the heart of the user experience, and you want to work for one of the fastest growing companies in the technology space, we have a place for you!
+ 
+qualifications:
+
+experience with mysql or other relational database (e.g. postgres, ms sql, etc.)
+familiarity with aws services (e.g. rds, kinesis, ec2, et cetera)
+familiarity with the linux operating system and command-line tools
+experience with deployment systems (e.g. codeship, aws codedeploy)
+understanding of oo design, algorithms, and data structures
+aptitude to quickly learn new languages and technologies as necessary
+computer science or related degree, or sufficient industry experience as a software engineer
+
+responsibilities: 
+
+write performant, maintainable code 
+write automated tests to thoroughly validate the correctness of your code
+deploy web applications
+have a focus on quality; operate iteratively to get from good, to great to outstanding
+be a part of your team’s on-call rotation; we all own our code end-to-end from development to deployment to operations
+come ready to learn from some of the best and brightest in the industry
+collaborate in a dynamic and fast moving team
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile *
+
+
+
+
+
+
+website *
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

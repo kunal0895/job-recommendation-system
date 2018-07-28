@@ -1,0 +1,356 @@
+
+
+
+        data engineer -        sidecar -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we’re on the hunt for top talent! take a look at our job openings to see if you're a fit. 
+
+
+
+data engineer
+
+
+philadelphia, pa                    
+
+full time                
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+overview:
+we’re looking for a data engineer to join our rapidly growing data engineering team.
+as a data engineer, you will be exposed to all facets of the business and be encouraged to learn and develop skills both within and beyond your role. you’ll be working in one of the most collaborative offices in center city philly, developing and working with machine learning technology, surrounded by passionate, high-performing individuals.
+qualifications: 
+the data engineer candidate is an intelligent, motivated person that enjoys building scalable systems for solving data-intensive problems. they’re comfortable both designing and implementing these systems across every area of the business, collaborating not only with fellow engineers but also analysts and stakeholders in other departments. the ideal candidate has experience in the following areas:
+
+relational databases, such as postgresql, mysql, and aws rds
+analytical data warehouses, such as amazon redshift
+big data frameworks, such as elastic mapreduce, hive, and spark
+designing scalable backend microservices in a framework like rest or graphql
+implementing backend systems in languages such as go and python
+profiling backend services and databases and improving their performance
+
+responsibilities:
+as a data engineer, you will empower our users by ensuring they have access to more of the latest data. to accomplish this, you will:
+
+
+scale our technology in order to serve more customers with more featureful products
+
+
+identify bottlenecks and implement performance improvements, such as choosing redshift sort and distribution keys and re-architecting systems for better performance
+
+
+support our data scientists by scaling emr jobs
+
+
+instrument our data pipeline to ensure that we meet our slas for availability
+
+
+
+
+implement the company’s data strategy across departments so that the whole business is realizing the most value from our data
+
+
+integrate with a wide array of data sources, including advertising platforms and saas tools
+
+
+make data available to multiple systems, including advertising partners, our product’s ui, and bi tools for our csm, sales, and marketing team
+
+
+
+
+provide expertise in data engineering and model best practices so that all our production systems are scalable and easy to maintain
+
+
+support application development by working on cross-functional project-based teams
+
+
+evaluate data technologies, weighing tradeoffs to find the best tools to solve our problems
+
+
+pay off tech debt by updating systems to use the latest technologies and best practices
+
+
+
+
+who we are:
+sidecar built a technology from the ground up that’s dedicated to one mission: tackle the challenges retailers face in data-driven e-commerce channels. based on advanced machine learning algorithms and deep data science expertise, our technology digests and analyzes massive, real-time datasets, allowing it to spot trends and continually improve campaigns for google shopping, facebook dynamic ads, and bing shopping.
+these channels are changing every day—and have become too complex and competitive to manage manually or with outdated technologies. they require automated, sophisticated, and ever-evolving technology to stay ahead. that’s what sidecar is all about. we’re proud to work with retailers of all sizes and verticals in the u.s. and abroad, including under armour, crate & barrel, and boscov’s, to name a few.
+as a company, we’re a group of energetic people who work hard to make a lasting impact in the rapidly evolving world of e-commerce marketing. and our work is paying off—we are quickly becoming a tech leader and the go-to partner for e-commerce marketing pros.
+our open-floor work environment and slack-enabled team encourages collaboration, creativity, and growth as individuals and as a company. many of us come from e-commerce, statistical, or start-up backgrounds, but we certainly welcome talent with outside perspective and experience. we believe in regular company social events inspire friendships and strengthen our bond.
+our engineering team:
+our engineering team is instrumental in realizing our vision for our technology and the future of e-commerce marketing. you'll have the opportunity to shape your career path at sidecar in ways that many other companies cannot offer. our project-based team structure ensures that no one gets stuck doing the same thing for too long. we’ll add you to projects that challenge you to grow in a particular technical focus area, such as data processing, client reporting and user interfaces, or site reliability. opportunities to take on a leadership role come up with every new project. and if you're unsure how you'd like to advance, we'll set you up to get a breadth of experience and see where you’d like to spend more time.
+benefits:
+
+competitive salary, based on experience
+health, dental, and vision coverage
+company-paid disability life insurance
+a company 401(k) plan
+unlimited pto (our policy is simple, respect your team, and take time off when you need it)
+flexible schedule
+choose your flavor of device: mac, linux
+pre-tax deductions of public transportation costs for your commute
+discounted gym membership
+team and social events
+
+ 
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+have you ever been convicted of a felony?*
+no answernoyes 
+
+if “yes”, you have been convicted of a felony, please explain the circumstances around the conviction:*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

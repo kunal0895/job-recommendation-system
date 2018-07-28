@@ -1,0 +1,196 @@
+ 
+
+
+
+
+
+
+
+
+
+backend engineer #0886 job at business insider, inc. in new york, ny, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+backend engineer
+technology | new york, ny | full time
+
+
+
+
+
+
+job description
+
+
+about us:
+business insider is the most popular business news site in america - connecting the digital generation with the news, ideas, technologies, and trends that are changing our world. with publishing platforms on multiple continents and a global family of sites across north america, europe and asia, business insider is scaling out our technology team to keep pace with the company’s rapid growth and expanding audience.
+ 
+about the job:
+as a backend engineer at business insider, your code will reach over 100 million readers around the world every month. we face exciting challenges every day due to the demands of our growing audience and the 24/7 news cycle.
+you'll report directly to managers who understand technology and even write code. the backend team has many opportunities for a motivated engineer to have a huge impact, and be recognized for it. we are a tight, collaborative group that enjoys working hard and having fun.
+this role is located in new york city at our flatiron office, but we’ll be calling the financial district home by the end of 2017.
+ 
+about the engineering group:
+
+we build the majority of our backend applications and services in php and go, with tools like mongodb, symfony, redis, memcached, solr, doctrine, and more
+we use docker in development and production environments
+we are always exploring new tools and ideas as our needs evolve, and we love working alongside people who are willing to try new things
+we do daily deployments across many projects
+we have dedicated qa and devops teams
+we do code reviews, write unit tests, and believe in the value of coding standards
+we recognize achievement, promote from within, and encourage professional growth and training
+we encourage collaboration, knowledge sharing, camaraderie and fun
+we offer competitive salaries and great benefits
+
+ 
+requirements:
+
+experience with php 5 in production applications
+command line proficiency on linux or other unix systems
+experience working with at least one relational or nosql database
+experience using git or other version control software
+a solid understanding of oo and mvc design principles, dependency management, restful apis, caching concepts, the http protocol and general web architecture
+ability to write clear and concise code that your teammates can understand and build upon
+ability to write efficient code that performs at scale
+you are a self starter who takes ownership of your work
+you have the ability to conceptualize nuanced ideas and think creatively about challenging problems
+you have genuine enthusiasm and love of programming
+
+ 
+bonus/nice to haves:
+
+experience with message queuing services (sqs, rabbitmq, ironmq etc)
+experience with aws or other cloud providers in a production environment
+experience with go or php 7 in production applications
+big data or analytics experience
+experience with subscription platforms and/or payment processors
+any experience with major js frameworks such as angular, react, etc
+contributions to open source projects or personal projects
+
+ 
+
+
+
+
+
+return to business insider, inc.
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+return to business insider, inc.
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

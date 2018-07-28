@@ -1,0 +1,130 @@
+
+
+	associate devops engineer #465211 us-ca-folsom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+associate devops engineer
+us-ca-folsom
+
+
+
+
+
+apply
+view all jobs
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+
+
+job description
+
+as an associate devops engineer at powerschool, you will use leading-edge technologies to build, deploy, operate, and maintain configuration management and orchestration routines to deliver and scale web applications and services in virtualized environments and in the cloud as part of a small, geographically distributed devops team. we are passionately committed to delivering best-in-class system uptime and operations transparency through the implementation of best practices and automation. this is a challenging opportunity to transform our technology and processes to achieve our best-in-class aspirations.
+
+ 
+
+job description
+
+
+deliver configuration management and orchestration routines to deploy and scale web applications and services in virtualized and cloud environments; operate and maintain these routines in production.
+
+execute as a member of a team following a well-defined agile sdlc
+
+execute any sdlc tasks including requirements definition, design, development, peer review, testing, documentation, release, deployment, operations, maintenance
+
+support product development teams in the delivery of continuous integration, continuous deployment, providing templates and patterns to follow to ensure code produced by product development teams can be deployed and scaled on standardized technologies and platforms
+
+perform root cause analysis for production issues where the root cause is in infrastructure, environment, configuration, or deployment routines; understand when to escalate to product development teams; remediate root causes and implement preventative actions
+
+participate in after-hours maintenance when necessary, respond to emergencies, participate in customer calls when called upon in support of initiatives and incident response
+
+
+
+
+
+skills & requirements
+
+
+bachelor’s degree in computer science or bachelor’s degree in another field and 1 year professional experience in devops
+
+knowledge of configuration management and orchestration technologies such as chef, puppet, ansible, salt, cloud formation, or comparable; demonstrable proficiency or professional experience in same a plus
+
+proficiency in java programming language
+
+proficiency in python programming language
+
+proficiency in linux administration
+
+
+
+
+
+
+apply
+view all jobs
+
+
+ 
+
+
+
+about us
+ powerschool is the leading provider of software and data solutions for k-12 public school systems in the united states and canada. powerschool’s solutions provide mission-critical systems of record for attendance, grades and transcripts that districts and boards use to manage their operations and comply with state regulations. powerschool serves over 4,200 districts and schools representing over 40 million total users, including 15 million students, 1 million educators, and 26 million parents.
+ 
+ powerschool was founded in 1997 and is headquartered in folsom, ca.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+

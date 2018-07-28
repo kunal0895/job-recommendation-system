@@ -1,0 +1,190 @@
+
+
+
+working at here | take your career further |software engineer - scala, aws, big data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - scala, aws, big data
+
+
+job locations
+
+us-il-chicago
+
+
+
+
+
+requisition id
+
+2017-18589
+
+
+category
+
+research & software developmnt
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+here, the open location platform company, enables people, enterprises and cities to harness the power of location. by making sense of the world through the lens of location we empower our customers to achieve better outcomes – from helping a city manage its infrastructure or an enterprise optimize its assets to delivering drivers to their destination safely. to learn more about here, including our new generation of cloud-based location platform services, visit http://360.here.com. 
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+ you will have an opportunity to work on various java and scala projects focused on integrating and processing large datasets for creating products. you'll also be able to participate in most of the stages of software development including gathering requirements, software system design, coding, testing, release, and support. our team follows a documented software development process and is accountable for conformance to software quality standards including the creation and execution of unit test plans. we also work together collaboratively as well as with other engineering teams to ensure cross­ functional goals are met. what you’ll get:challenging problems to solveopportunities to learn cool new thingswork that makes a difference in the worldfreedom to decide how to perform your workvariety in the types of projectsfeedback so you will know how well you are doingcollaborative, supportive colleagues design and development of software components.unit and integration testing of software components.investigation and root cause analysis of software and system defects.ability to quickly learn new technologies and programming languages.develop and maintain tools and processes that support development, automation testing and deployment of software components.develop and enhance configuration management tools for software components.create and execute approved test plans and analyzes and report results when necessary.decompose requirements for testability and provide feedback to the requirement gathering process.interact with customers/users to support software acceptance tests.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+ideal: graduate degree or undergraduate degree in computer science or computer engineering with at least 2 to 3 years of professional experience is needed.candidate should have strong oo concepts.demonstrated expertise building and enhancing java / java ee based applications. the candidate should be proficient in java and java ee technologies. candidate should have experience in working with relational databases.experience in sql and some knowledge nosql technologies is neededstrong oral and written communication skills in english are needed exposure to version control tools (svn or git) is needed. nice to have:experience in functional programming language like scala is a strong plus. strong knowledge of linux/unix scripting is needed and python/perl scripting is a strong plus. exposure to enterprise integration pattern implementations like apache camel or spring integrations is a plus. exposure to agile software development process is a plus. exposure with amazon web services and associated technologies is a strong plus. exposure with big data technologies like spark, hadoop m/r, hive, pig is a strong plus. experience in jax­ws, jaxb & javascript is a plus  equal opportunity employer: race/color/sex/sexual orientation/gender identity/religion/national origin/disability/vets. 
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+connect with us!
+
+
+
+
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

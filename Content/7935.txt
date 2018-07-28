@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view job
+
+
+
+
+
+
+    
+
+careers > search jobs > view job
+
+
+
+
+ 
+                    
+
+
+
+
+ 
+                                
+
+home
+
+
+ 
+                                
+
+login
+
+
+ 
+                                
+
+job search
+
+
+ 
+                                
+
+help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+
+ 
+
+
+
+
+
+
+
+
+		 
+		
+
+ 
+	
+
+
+
+
+
+
+job id:  cn20170302-16936
+
+
+ 
+            
+        
+
+
+
+description:
+
+
+
+
+requisition id: cn20170302-16936
+peraton is seeking a data scientist (physicist) in st. louis, missouri to support our national geospatial-intelligence agency (nga) customer.
+job description: 
+the data scientist supporting nga will provide statistical and mathematical support to analyze and interpret a wide range of data to help improve customer experience. 
+required experience: 
+
+bachelor’s degree (or the equivalent work experience)
+6 minimum years’ experience required or 14 years’ experience without a degree.           
+6 years’ experience develop mathematical algorithms and applications in response to complex requirements.
+6 years’ experience using microsoft office applications, including access.
+6 years’ experience using cots statistical software (spss, sas, matlab etc.),
+this position requires an active top secret (ts) security clearance with access to sensitive compartmented information (sci).
+
+preferred qualifications:
+
+maintaining, moving, and manipulating data between applications, using appropriate software such as apache spark, elasticsearch, r, python, kibana and others as technology evolves.
+using data mining for structured and unstructured information to join and explore relationships in disparate data sets; applying advanced analytics capabilities to derive insights from a combination of unstructured, semi-structured, and structured data; ability to develop and manipulate, and maintain databases.
+
+security clearance: 
+this position requires the candidate to have a current ts/sci security clearance and to maintain the clearance.  
+about peraton
+peraton provides innovative, reliable solutions to the nation’s most sensitive and mission-critical programs and systems. peraton has significant experience providing highly differentiated secure communications, space, and technology solutions to key customers, and has become a trusted partner on missions that are critical to the security priorities of the united states. capabilities include complex software and technology services and solutions, as well as end-to-end mission operations abilities, including software systems development, cyber, modeling & simulation, mission operations, signal intelligence (sigint), and quick reaction capabilities (qrc) / research & development. the company is headquartered in herndon, va, with approximately 3,500 employees across the u.s. and canada.
+we are an equal opportunity/affirmative action employer. we consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state or local law.   
+
+
+
+
+
+job profile matching criteria:
+
+
+
+
+
+
+
+expertise 
+
+--engineering specialist 
+
+
+
+education 
+
+bachelors (or equivalent work experience) 
+
+
+
+job type 
+
+full time 
+
+
+
+location 
+
+usa-mo-st. louis 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

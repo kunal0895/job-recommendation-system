@@ -1,0 +1,225 @@
+
+
+
+
+job application for sr. data engineer at masterclass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+sr. data engineer
+
+        at masterclass
+      
+
+        san francisco, ca
+      
+
+
+who we are:
+masterclass is transforming online education by enabling anyone in the world to learn from the very best. we are deconstructing what makes an actor able to cry on demand, how an athlete defies gravity, and what it takes to write a bestseller. our online learning content is available to students anywhere anytime, which supports our mission to democratize education.
+we are a quickly growing vc-funded startup based in san francisco and have created online classes taught by famous masters—serena williams, james patterson, annie leibovitz, usher, christina aguilera and many more to come.
+since launching in 2015, we are growing our team. apply now to find out more about what we are doing behind the scenes.
+what we are looking for:
+as a sr. data engineer at masterclass you will be a part of an early stage team that builds the data transport, collection, and storage of all of our internal company data. we are looking for someone who is passionate and motivated to make an impact in creating a robust and scalable data platform.  you will own the company’s core data by architecting, building, and launching highly scalable and reliable data pipelines to support masterclass’s growing data processing and analytics needs. 
+responsibilities of the role:
+
+own the core company data pipeline as you architect, build, and refine our data infrastructure technologies  in collaboration with business stakeholders, data analysts and software engineers
+scale up data processing flow to meet the rapid data growth at masterclass 
+consistently evolve data model & data schema based on business and engineering needs
+implement systems that track data quality and consistency
+develop tools supporting self-service data pipeline management (etl)
+
+requirements:
+
+4+ years of experience working with data
+previous experience architecting and building the data infrastructure from scratch
+previous experience with mapreduce, yarn, hdfs, hive, spark, presto, pig, hbase, parquet
+proficient in at least one of the sql languages (mysql, postgresql, sqlserver, 
+good understanding of  sql engine and able to conduct advanced performance tuning
+strong skills in scripting language (python, ruby, perl, bash)
+comfortable working directly with data analytics to bridge business requirements with data engineering
+mpp database experience (redshift, vertica, teradata)
+experience with building tools to support self-service pipeline
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

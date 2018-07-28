@@ -1,0 +1,678 @@
+ 
+
+
+
+bae systems: machine learning software development engineer in san diego, ca, united states (30752br)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+this website uses cookies. by navigating around this site you consent to cookies being stored on your machine
+
+accept
+edit your cookie settings
+
+
+ 
+
+
+
+
+skip to content
+
+
+search input
+search button
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+united states
+
+
+
+
+select your region
+
+ international
+
+
+
+ united kingdom
+
+
+
+ united states
+
+
+
+ saudi arabia
+
+
+
+
+
+
+
+							english
+							
+
+
+
+
+
+							ø§ùø¹ø±ø¨ùø©
+							
+
+
+
+
+
+
+ australia
+
+
+
+
+
+
+ 
+
+
+
+providing defense for business 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+multimedia
+contact us
+
+
+search input
+search button
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home 
+  what we do 
+
+
+
+
+products & services 
+
+future technologies
+
+
+air
+
+
+land
+
+
+cyber security & intelligence
+
+
+electronics
+
+
+services
+
+
+sea
+
+
+
+
+
+
+
+
+ suppliers 
+
+
+working with suppliers 
+													
+
+
+
+our key markets 
+													
+
+
+
+australia 
+													
+
+
+
+india 
+													
+
+
+
+saudi arabia 
+													
+
+
+
+united kingdom 
+													
+
+
+
+united states 
+													
+
+
+
+
+
+
+
+
+ our company 
+
+
+
+
+bae systems, inc. 
+
+
+about us 
+													
+
+
+
+community investment 
+													
+
+
+
+products & services 
+													
+
+
+
+newsroom 
+													
+
+
+
+us suppliers 
+													
+
+
+
+special security agreement 
+													
+
+
+
+
+
+our people 
+
+
+inc. board of directors 
+													
+
+
+
+inc. leadership 
+													
+
+
+
+board of directors 
+													
+
+
+
+executive committee 
+													
+
+
+
+
+
+corporate responsibility 
+
+
+code of conduct 
+													
+
+
+
+
+
+
+
+
+ inc. businesses 
+
+
+electronic systems 
+													
+
+
+
+intelligence & security 
+													
+
+
+
+platforms & services 
+													
+
+
+
+
+ our locations  
+
+ education  
+
+
+
+
+
+ investors  
+
+ newsroom 
+
+
+
+
+features 
+
+ investing in the next generation of engineers
+
+
+
+ their mission. our promise.
+
+
+
+ space resiliency:
+	navigating the space above
+
+
+
+
+
+
+
+
+
+ news 
+ 
+
+bae systems to help u.s. treasury investigate, track cash flow of organizations to protect national security
+may 10 2017
+
+
+
+
+2017 annual general meeting
+may 10 2017
+
+
+
+
+usafâs f-15 modernization program epawss successfully completes latest milestone
+may 1 2017
+
+
+
+
+
+ events 
+
+
+special operations forces industry conference (sofic) 
+may 15 - 18 2017 | tampa, fl, united states of america
+
+
+
+
+
+2017 geoint symposium
+jun 4 - 7 2017 | san antonio, tx , united states of america
+
+
+
+
+
+
+
+
+
+
+ careers 
+
+
+
+
+exploring your career at bae systems 
+
+
+career areas 
+													
+
+
+
+experienced professionals 
+													
+
+
+
+veterans 
+													
+
+
+
+interns and recent graduates 
+													
+
+
+
+
+
+
+
+
+ search jobs  
+
+ life at bae systems 
+
+
+inspired work 
+													
+
+
+
+benefits 
+													
+
+
+
+diversity 
+													
+
+
+
+talent referral program 
+													
+
+
+
+
+
+
+
+
+multimedia
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+careerssearch & applyjob results machine learning software development engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+search & apply
+
+search & apply
+
+
+ search jobs  
+ view events  
+ internship search  
+ life at bae systems 
+ exploring your career at bae systems  
+ create your profile  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job title: machine learning software development engineer
+
+
+alternate job title: eng sr prin - sw
+job id: 30752br
+posting date: 2017-08-28
+travel percentage: <10%
+
+
+
+
+location: san diego, ca  92127-1874
+us citizenship required: yes
+shift: 1st shift
+required security clearance: ts/sci eligible
+
+
+
+
+
+
+apply now
+         
+        back to results
+
+start new search
+
+
+
+job description:
+we are looking for brilliant machine learning software dev engineers who have the passion to tackle tough problems by bringing cutting edge machine learning software solutions into diverse business areas for bae systems â analytic systems! as a machine learning software dev engineer, you will design and develop fast, efficient, and highly scalable machine learning software algorithms that are applied to operational software solutions for our analytic systems business area. you'll work with senior scientists and engineers within analytic systems and develop high quality software that is robust and reliable. software engineers at bae systems do so much more than just software development. we'll be looking at you to help:â· decide what features to build.â· drive software engineering best practice.â· design distributed and scalable systems.â· test and document the software you develop. 
+
+minimum education and experience:
+bachelor's degree and 12 years work experience or equivalent experience
+
+required skills and education:
+-experience with objectâoriented programming, including java, python, scala, or javascript-experience with source control and dependency management software, including git or maven-experience with big data, cloud computing technologies, nosql systems, or lambda architectures-computer science fundamentals in algorithm design, statistical analysis, and problem solving.â¨- experience with developing and applying machine learning algorithms to production software solutions utilizing: r, python, etc. and/or machine learning packages: sparkml, tensorflow, etc.-experience with source control and dependency management software, including git or maven-experience in developing solutions with and integrating and extending free and openâsource software (foss) or cots products-knowledge of professional software engineering practices and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations-ability to obtain a security clearance-bs degree required 
+
+preferred skills and education:
+-experience with department of defense (army/navy/air force/etc.) and intelligence agencies-experience with amazon web services (aws) or microsoft azure cloud services-experience with the big data ecosystem, including hdfs, hive, hbase, accumulo, or spark-experience with storm, kafka, nifi, or similar etl frameworks-ms degree in cs or software engineering 
+
+about bae systems electronic systems:
+bae systems is a premier global defense and security company with approximately 90,000 employees delivering a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support and services.the electronic systems (es) sector spans the commercial and defense electronics markets with a broad portfolio of mission-critical electronic systems, including flight and engine controls; electronic warfare and night vision systems; surveillance and reconnaissance sensors; secure networked communications equipment; geospatial imagery intelligence products and systems; mission management; and power-and energy-management systems. headquartered in nashua, new hampshire, es employs approximately 13,000 people globally, with engineering and manufacturing functions primarily in the united states, united kingdom, and israel. equal opportunity employer/females/minorities/veterans/disabled/sexual orientation/gender identity/gender expression
+
+ 
+
+apply now
+         
+        back to results
+
+start new search
+
+ 
+
+
+
+
+
+
+
+print
+
+
+
+
+
+
+
+	search & apply
+
+
+
+search jobs
+check your application status (login required)
+life at bae systems
+exploring your career at bae systems
+veterans
+diversity
+benefits
+
+
+
+
+
+
+
+
+
+
+accessibility accommodations
+
+if you require an accommodation to navigate or apply to our career site, please send your request to: accessibility@baesystems.com or call 1-855-541-4654 or fax 704-541-4401.
+scam alert: bae systems always has great job opportunities, and apparently scammers think so too. donât be fooled by a scammer! during our recruitment process, bae systems will not: (1) ask you for money; (2) offer to send you a check before doing any work; (3) require you to provide sensitive personal information, like your driverâs license or social security number (this happens later as part of the background check process); or (4) send you emails from free email accounts such as yahoo, gmail, hotmail, and others. if you believe you have been scammed, please contact local law enforcement. please see further guidance from the u.s. federal trade commission.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility
+terms & conditions
+privacy
+sitemap
+
+copyright â© 2017 bae systems. all rights reserved
+
+
+
+
+
+
+
+
+
+
+

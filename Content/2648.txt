@@ -1,0 +1,82 @@
+
+
+
+
+
+
+careers at millennium engineering & integration co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menucareers homecurrent openings 
+
+
+current openings
+
+
+
+ department:
+aerospace systems  office:
+chandler
+ location:
+chandler, az
+
+
+start your application
+
+position: intermediate software engineer
+education: b.s., m.s., or phd in physics, engineering, mathematics, computer science, or related discipline.
+job description: the candidate will be responsible for supporting the development of sensor technology, discriminating sensors, next generation interceptor/kill vehicles and other advanced concepts. the candidate will provide simulation framework development support for a high-fidelity next generation kill vehicle simulation. the candidate will also be responsible for developing and implementing software modules in c and c++ that adhere to modeling standards and guidelines. the candidate will conduct software test, evaluate the test results, perform data analysis, and present results/analysis. the candidate will be expected to create technical briefings and/or documentation to present to company management as well as government customers. the candidate will also be required to participate in peer reviews and technical meetings.
+required skills and experience:
+
+minimum of 5 years of software engineering / development experience in c/c++
+experience with software design, implementation, test, and verification ensuring the software meets the requirements
+programming in c and c++ in a linux development environment (qt creator)
+strong oral and written communication skills
+ability to work with a team in a dynamic environment
+
+highly desirable skills and experience:
+
+technical experience with ballistic missile defense system (bmds) subsystems, characteristics, design, and performance
+proficient in microsoft office (word, excel and powerpoint)
+experience with simulation framework/architecture development
+experience with xml
+experience with software configuration management suites such as git
+
+location: huntsville, alabama
+security clearance: active dod secret required
+travel: less than 5% of the time
+millennium offers a comprehensive benefits package. millennium is an equal opportunity / affirmative action employer. millennium does not discriminate on any basis prohibited by applicable law including race, color, religion, sex, national origin, disability, age, citizenship status, or vietnam era or special disabled veteran's status in recruitment, employment, promotion, compensation, benefits, or training. it is also millennium's policy to maintain a work environment free from discrimination on the basis of sexual orientation.
+millennium participates in the e-verify program.job req: 2151
+start your application
+
+
+© 2017 millennium engineering & integration co. 
+
+applicant tracking system powered by 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+deltek talent management -
+						    software engineer - (sweng17)
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+
+attention safari users: this site requires cookies to function. please click here to accept the cookie. cookies will be used strictly for the functioning of the site.
+
+
+
+
+
+
+ 
+
+
+
+
+jump to
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+ job search
+
+
+ view all jobs
+
+
+ search jobs
+
+
+
+
+ create account
+
+
+ login
+
+
+ help 
+
+instructions on this page
+help on this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+job details
+
+
+
+software engineer - (sweng17)
+×close this details all the information about the job posting.     
+
+
+
+
+
+
+
+
+
+
+
+
+share this job as a link in your status update to linkedin.
+
+
+
+
+
+
+
+
+
+
+
+														
+																	shift type
+																
+															
+
+
+
+
+
+														
+																	job title
+																
+															
+
+								software engineer
+															
+
+
+
+														
+																	education
+																
+															
+
+								bachelor's degree
+															
+
+
+
+														
+																	location
+																
+															
+
+								stereotaxis - st. louis, mo 63108 us (primary)
+
+
+
+
+														
+																	career level
+																
+															
+
+								experienced (non-manager)
+															
+
+
+
+														
+																	category
+																
+															
+
+								r&d
+															
+
+
+
+														
+																	date needed by
+																
+															
+
+
+
+
+
+														
+																	job type
+																
+															
+
+								full-time
+															
+
+
+
+														
+																	travel
+																
+															
+
+
+
+
+
+														
+																	job description
+																
+															
+
+company description:
+stereotaxis is a u.s. medical device company focusing on developing innovative robotic treatment solutions.  stereotaxis has established clinical foothold in almost 200 well-respected hospitals around the world.  stereotaxis’ robotic treatment has been used in more than 100,000 procedures.
+ 
+stereotaxis’ comprehensive range of proprietary products and solutions, which are built around magnetic navigation and related medical robotic technologies, have introduced a new era in interventional medicine. this era is one in which physicians are able to safely and remotely perform computerized catheter-based interventional procedures.  physicians are able to conduct these procedures using a range of “point and click”, “joystick”, “push button” and “touch screen” modes, from the control room adjacent to the cath lab which is outside the harmful x-ray field.   products are designed to provide patients with enhanced outcomes, safety and access to important new therapies, as well as to improve hospital’s cath lab efficiencies and to improve physician safety, comfort and ease of use relative to conventional interventional methods. 
+ 
+stereotaxis products have been globally integrated with solutions from siemens, philips and johnson & johnson.  
+ 
+summary:
+the software engineer is responsible for system design and full life cycle development and support of c++ code and related technologies in the user interface applications for our niobe magnetic navigation system used by physicians in the cardiac catheterization lab.  the candidate should have a demonstrated ability to design, develop, document, and test software written in the c++ language using microsoft developer studio, and a successful track record of implementing multiple complex software products within agreed schedule and budget.  
+ 
+responsibilities:
+-translate customer specifications for a software product into requirement specifications, defining architecture, and creating detailed designs.
+-code software using c++ language and microsoft developer studio. 
+-design, implement, debug, unit test and document assigned features.
+-develop robust and safe software intended for use in a medical device.
+-responsible for peer reviewing software and software designs of other s/w engineers.
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+														
+																	job requirements
+																
+															
+
+essential attributes:
+-bscs or equivalent degree
+-5 years minimum relevant experience developing object oriented software highly preferred.
+-proficient in c++ programming in microsoft visual studio 2015 and mfc environments.
+-experience with object oriented design, patterns, multi-threading, stl
+-ability in algorithm development and translation from prototype languages into production quality code.
+-successful and demonstrated track record of working with multiple complex software development projects.
+-thorough understanding of complete software life cycle process.
+-proven ability to rapidly understand large complex systems.
+-excellent verbal and written communication, organization skills, and ability to work with other software developers.
+desired attributes:
+-experience in the design and development of medical devices preferred.
+-working knowledge of opengl and 3d software development preferred.
+-experience with the design and development of embedded systems, working with motion controllers.
+-understanding of network communication protocols and devices.
+-familiarity with medical regulatory guidance for software, and fda regulatory pathways including ide and 510k preferred.
+
+
+
+
+														
+																	hiring manager
+																
+															
+
+
+
+
+
+														
+																	exemption type
+																
+															
+
+
+
+
+
+														
+																	# of hires needed
+																
+															
+
+								1
+															
+
+
+
+														
+																	wage amount
+																
+															
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ apply to this job
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ top of page
+
+
+						v14.3.5.1 | copyright © 2017 all rights reserved. 
+													| deltek talent management
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

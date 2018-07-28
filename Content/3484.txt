@@ -1,0 +1,211 @@
+
+
+
+
+
+orion spacecraft flight software engineer  in  houston, tx  | caci international
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+small business  |
+ suppliers
+
+
+
+
+
+
+about us
+|
+what we do
+|
+media & events
+|
+investors
+|
+careers
+|
+contracts
+|
+contact us
+
+
+join our talent network
+
+
+about us
+what we do
+media & events
+investors
+careers
+contracts
+contact us
+small business
+suppliers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+ | orion spacecraft flight software engineer - houston, tx
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+
+orion spacecraft flight software engineer
+req #: 129516
+location:
+
+
+houston, 
+		tx
+us
+
+job category: engineering
+security clearance: naci
+clearance status: must be obtainable
+
+job descriptionjob description: caci is looking for experienced and talented space vehicle flight software development and verification engineers with human-rated spacecraft expertise to work within the nasa / johnson space center's community on the orion multi-purpose crew vehicle (mpcv) program. this software engineering position involves flight software development and verification in an object-oriented environment. work is performed in a rigorous agile sprint team environment.  expertise is sought in all vehicle system domains including, but not limited to: electrical power systems (eps); environmental control and life support (ecls); guidance, navigation, and control (gn&c); command and data handline (c&dh); communications and tracking (c&t); fault management (fm); vehicle systems management (vsm); and backup flight software (bfs) as well as hardware-software integration. representative job responsibilities can include: - design and develop orion flight software in rhapsody.- perform integration testing of orion flight software in lab environment.- resolve integration issues in a rapidly evolving product - create test scripts and tools using python.- perform development and functional testing, and maintain regression tests.- develop, execute, and replicate test cases and detailed procedures to be executed in lab and virtual environments for both dry runs and formal testing with traceability to requirements.- track requirements to code, test cases, and lab environment initial conditions. - perform agile sprint software development activities, including planning, scrums, stories, issue tracking, and demos.- participate in extensive flight software release planning and effort estimation.- collaborate with other system and subsystem flight software areas, such as service module, data definition, and other domains. this work takes place near nasa/jsc in houston, tx, a highly stimulating and dynamic environment that is critical in human space flight and the space exploration initiative. this position requires a self-motivated, capable person with strong verbal and written communication skills. in addition to outstanding technical expertise, the individual must be very people savvy, possess a positive team-player attitude, and be an articulate speaker able to communicate complex technical ideas in a convincing manner.  this is a dynamic organization with many leadership opportunities.  background & experience (including education, skills work activities) (a) minimum required: must be a u.s. citizen. b.s. / m.s. in aerospace engineering, mechanical engineering, electrical engineering, computer science or related disciplines required.  typically requires 7 - 9 years of related experience with human spaceflight vehicle systems expertise and software development and verification using c++ in an object-oriented environment. should have experience in greenhills rtos development and uml modeling using rhapsody. experience with human-rated space systems required. ability to manage multiple priorities with little supervision. must be a highly responsible, team-oriented individual with strong communication skills and work ethic. (b)  desired:  experience on the orion program, agile software development, green hills integrity.  experience in full life cycle of human-rated flight projects. python development skills, particularly in a software test environment.  project management skills and experience leading a small software development or verification team.  job locationus-houston-tx-houston 
+caci employs a diverse range of talent to create an environment that fuels innovation and fosters continuous improvement and success. at caci, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for intelligence, defense, and federal civilian customers. caci is proud to provide dynamic careers for employees worldwide. caci is an equal opportunity employer - females/minorities/protected veterans/individuals with disabilities.
+
+
+
+apply now
+       
+
+
+
+link for schema
+
+
+
+
+featured careers
+explore our featured opportunities available on multiple current and future programs.take a look
+
+
+benefits
+caci is proud to provide benefits that address your and your family's needs, today and for the future.explore
+
+
+hiring events
+visit us at an upcoming hiring event to learn more about what makes us an employer of choice.view calendar
+
+
+our culture
+caci has a vibrant culture and strong foundation of innovation - firmly based on ethics and integrity.learn more
+
+
+talent network
+join our talent network to be notified of events and careers at caci.
+subscribe today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+equal opportunity employer | 
+e-verify | 
+recruitment fraud alert  | 
+faqs  | 
+
+
+© 2017 caci international  | 
+terms of use  | 
+ powered by smashfly
+
+
+
+

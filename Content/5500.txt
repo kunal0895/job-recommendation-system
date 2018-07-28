@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data and analytics engineer iii job in irving, texas for christus health | operations
+
+
+
+
+
+
+ 
+
+
+
+
+
+data and analytics engineer iii
+
+in irving, texas
+
+
+
+
+search other jobs
+apply now
+
+
+
+
+
+
+
+
+
+
+
+search again
+
+
+job attributes
+
+work schedule/shift
+not available
+job id
+5000289611906
+req. no
+70020984
+job title
+data and analytics engineer iii
+region
+christus system office
+category
+information technology
+division
+not defined
+company
+christus health
+travel
+1-10%
+facility
+christus information mgmt-79100
+address
+
+                        919 hidden ridgeirving, tx  75038 us                        
+type
+full time
+share this on
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+share on:
+
+
+
+
+
+
+
+
+home
+
+about us
+
+about christus
+our mission, values, & vision
+
+
+
+working here
+
+benefits at christus
+professional development
+diversity and inclusion
+
+
+
+career areas
+
+nursing careers (6 jobs)
+physician careers (2 jobs)
+
+
+
+
+
+
+
+new search
+previous search
+
+
+
+
+
+data and analytics engineer iii
+in irving, texas
+
+
+
+job description
+
+position summary:
+the data and analytics engineer iii is responsible for design, development and implementation of optimal solutions to integrate, store, process and analyze huge data sets. this includes an understanding of methodology, design, specifications, programming, delivery, monitoring, and support standards.
+individual must have extensive knowledge of designing and developing data pipelines and delivering advanced analytics, with open source big data processing frameworks such as hadoop version 2 technologies. individual must have proven competency in programming utilizing distributed computing principles.
+the data and analytics engineer iii is also responsible for supporting the business goals and objectives for the data management & analytics department, the information management organization, and the organization as a whole. 
+job requirements
+
+                          position qualifications:
+ a. education/ skills
+
+bachelor degree in computer science, engineering, math or related field is required. master's degree is preferred
+proficiency with hadoop v2, mapreduce, spark, hdfs, python or r.
+experience with data integration with etl techniques and frameworks, such as flume.
+proficiency with big data querying tools, such as pig, hive, and impala.
+experience with messaging systems, such as kafka or mq
+experience with big data machine learning toolkits, such as mahout or sparkml.
+knowledge of nosql databases, such as hbase, cassandra, mongodb
+knowledge of hadoop cluster management, with all included services
+experience with building stream-processing systems, using solutions such as storm or spark-streaming is preferred.
+good understanding of lambda architecture
+advanced level of sql programming and query performance tuning techniques for data intergration and consumption  using design for optimum performance against large data asset within an oltp, olap, and mpp architecture.
+solid understanding of bi and analytics landscape, preferable in large-scale development emvironments
+must have the communication skills and ability to develop and present solutions to all levels of management (including executive levels).
+must have demonstrated the ability to solve complex problems with minimal direction.
+must be able to interact effectively and patiently with customers especially while under pressure.
+the ability to work on multiple projects/tasks simultaneously to meet project deadlines for self and others as required.
+ability to establish and maintain positive working relationships with other employees.
+
+b. experience
+
+minimum os six (6) years if exoerience in mapreduce, spark programming
+minimym of six (6) years of experience developing analystics solutions with large data sets within an olap and mpp architecture
+minimum of ten (10) years of experience with design, architecture and development of enterprise scale platforms built on open source frameworks.
+
+c. licenses, registrations, or certifications:
+
+
+certifications in hadoop or java are a plus
+
+ 
+
+apply now
+
+
+
+
+
+
+
+
+site map
+home
+about us
+working here
+career areas
+search jobs
+
+
+follow us
+
+
+
+
+
+
+
+
+career opportunities
+accounting / finance (8 jobs)administrative / clerical (41 jobs)billing / collections (medical) (10 jobs)business development / strategic planning (6 jobs)coding (medical) (21 jobs)community & social services (2 jobs)customer service (38 jobs)dietary - food prep. & serving related (11 jobs)education & training (2 jobs)executive (9 jobs)health informatics (2 jobs)health information management (3 jobs)healthcare (171 jobs)hospitality - housekeeping (9 jobs)human resources (2 jobs)information technology (41 jobs)laboratory services (42 jobs)leadership (14 jobs)legal services (1 job)non-profit social services (3 jobs)nurse practitioner (23 jobs)nursing & nursing support (231 jobs)pastoral / spiritual care (2 jobs)pharmacy services (24 jobs)physician's assistant (8 jobs)physician / do / md (14 jobs)quality control (1 job)radiology (53 jobs)registered nurse (rn) (472 jobs)rehab - physical / occupational / speech therapy (43 jobs)research and academics (1 job)respiratory services (21 jobs)retail services (1 job)revenue cycle (1 job)risk management (1 job)supply chain, purchasing, procurement (2 jobs) 
+
+jobs by region
+children’s hospital of san antonio (29 jobs)christus central louisiana / st. frances cabrini (59 jobs)christus spohn (94 jobs)christus system office (81 jobs)christus st. vincent (343 jobs)christus physician group / ambulatory services (19 jobs)christus santa rosa (156 jobs)christus shreveport-bossier (47 jobs)christus southeast texas (69 jobs)christus st. michael (35 jobs)christus health southwest louisiana (95 jobs)christus trinity mother frances health system (169 jobs)christus ambulatory services (41 jobs)christus good shepherd (101 jobs)christus trinity clinic (74 jobs) 
+
+
+
+
+
+
+			copyright © 2017 christus health.
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

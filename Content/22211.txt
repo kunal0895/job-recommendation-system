@@ -1,0 +1,299 @@
+
+
+
+        imaging scientist, pathology -        tempus -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+                                                                         tempus                                                                        
+
+
+
+
+
+
+
+
+
+imaging scientist, pathology
+
+
+chicago, il                    
+
+full time                
+
+science and lab                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+with the advent of genomic sequencing, we can finally decode and process our genetic makeup. we now have more data than ever before but providers don't have the infrastructure or expertise to make sense of said data. here at tempus, we believe the greatest promise for the detection and treatment of cancer lies in the deep understanding of molecular activity for disease initiation, progression, and efficacious treatment based on the discovery of unique biomarkers.
+we're on a mission to connect an entire ecosystem to redefine how genomic data is used in clinical settings. our laboratory team is passionate and focused on developing state of the art techniques from sample processing to creating and interpreting vast amounts of genomic and molecular data. our scientists collaborate with product, research, and business teams to develop the most advanced platform in cancer care.
+what you'll do:
+
+you will be working with tempus’ multidisciplinary team of pathologists, cancer biologists, software engineers, and scientists to
+design, implement, and validate image analysis algorithms to solve clinical problems.
+optimize biomedical image acquisition, archiving, and processing workflow.
+extract high-throughput quantitative features from biomedical images.
+communicate technical results with the management teams.
+
+must have:
+
+ph.d. in biomedical/electrical engineering, computer science, medical physics or related fields.
+excellent understanding of image processing methods (e.g. segmentation, registration, filtering, compression, pattern recognition, 3d image reconstruction).
+expert knowledge in medical image data (e.g. he and ihc pathology wsi) and their formats (e.g. aperio, nikon, phillips, etc.).
+experience in image processing algorithm development using programming languages, such as python, java, c/c++, etc. 
+strong knowledge of open source libraries (e.g. openslide, opencv, itk, vtk).
+passion for quantitative imaging.
+
+good to have:
+
+experience in software development.
+working knowledge of open source imaging softwares (e.g. imagej, qupath, 3d slicer).
+theoretical understanding of machine learning (e.g. deep learning) and advanced statistics.
+have worked in a clinical setting.
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

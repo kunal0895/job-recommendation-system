@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	careers at omnicell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to navigation
+
+
+
+
+
+site 'primary' navigation:solutionspharmacynursingperioperativematerials managementlong-term careinformation technologyhealthcare executivesproductscentral pharmacy automation systemsmedication managementhospital supply chain managementbusiness analytics solutionsmedication adherence solutionsservices and supporttraining programscustomer supportsuccess storiescustomer testimonialscase studiesclinical studiesdiversion centralthought leadership seriesnews and eventspress releasesin the newsmedia kiteventscareersjob searchview all opportunitiesour culturebenefitsfaqseeo statementabout omnicellmanagement teamboard of directorsinvestor relationspartnersenvironmental sustainabilitycontact us
+
+site 'tertiary' navigation:blogcontact usclient login
+
+
+search the site:
+
+
+enter search keywords and submit
+
+
+*
+
+
+
+
+
+
+
+
+
+page 'breadcrumb' navigation:homecareers
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+omnicell
+inspired by care
+since 1992, omnicell (nasdaq: omcl) has been inspired to create safer and more efficient ways to manage medications and supplies across all care settings. as a leader in medication and supply dispensing automation, central pharmacy automation, iv robotics, analytics software, and medication adherence and packaging systems, omnicell is focused on improving care across the entire healthcare continuum—from the acute care hospital setting, to post-acute skilled nursing and long-term care facilities, to the patient’s home.
+over 4,000 customers worldwide use omnicell® automation and analytics solutions to increase operational efficiency, reduce medication errors, deliver actionable intelligence and improve patient safety. 
+omnicell’s innovative medication adherence solutions, used by over 32,000 institutional and retail pharmacies in north america and the united kingdom, are designed to improve patient adherence to prescriptions, helping to reduce costly hospital readmissions. 
+recent omnicell acquisitions, including ateb, add distinct capabilities, particularly in central pharmacy, iv robotics, and pharmacy software, creating the broadest medication management product portfolio in the industry.
+
+
+senior data scientist ( r/sas/python/scala)
+
+
+
+description
+senior data scientist
+ateb, an omnicell company, has an exciting new opportunity available for a senior data scientist. the senior data scientist contributes to campaign design, database and datamart development (sas), statistical modeling of campaign data associated with pharmacy patient behavior. investigate methodologies for automation, process standardization and improvement to boost productivity and reliability. provide statistical modeling and bi solutions to analyze pharmacy patient behavior data. the position’s purpose is to enhance productivity of analyses that are standard, and develop new ground toward new methods. database diagnostics and problem solving skills are essential.
+responsibility:
+
+design, develop and implement the analytical solutions applying machine learning techniques
+provide business insight using statistical reasoning methodologies to answer business questions
+perform data validation, preparation and exploration with various data structures and formats
+create clear documentation or presentation of complex logic for various levels of technical expertise
+
+required knowledge and skills
+
+self-motivated, able to work independently, able to work as a team, and able to multi-task efficiently
+strong problem-solving and detail focused
+proficient in applying machine learning techniques such as neural networking, bayesian method or ensemble learning to develop business solutions
+ability to perform data validation, preparation and investigation using advanced analytics tool to generate business insights
+ability to generate the statistical reasoning to support the decision making process to improve existing rule based campaigns.
+proficient in using analytical programming languages sas/r/python/scala
+ability to work within a dynamic environment, delivering on requirements and deadlines
+flexibility with ad-hoc investigations and changes in requirements
+communicate clearly and effectively with team members and other business units
+
+basic requirement
+
+master’s degree in computer science, statistics, analytics, operations research or engineering
+3+ years of experience of hands on statistical programing using r/sas/python/scala
+5+ years of experience of leading machine learning projects to solve business problems
+excellent oral and written communication skills
+
+preferred qualifications
+
+phd degree – in computer science, statistics, analytics, operations research or engineering.
+5+ years of experience with sas/r/python
+5+ years of experience of working with relational databases
+ability to design, implement, maintain and optimize business intelligent solutions using bi tool such as tableau
+
+ 
+
+nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.
+all qualified applicants will receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, or on the basis of disability.
+omnicell will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+if you've applied online with us before, we already have your information on file! login using your email address and password to update your profile and apply to this job instantly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+site 'footer' navigation:
+privacy policylegal noticeshipaa statementtermssitemapdesigned by pint
+
+
+
+facebook
+google+
+twitter
+linkedin
+youtube
+
+© 2015 omnicell, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

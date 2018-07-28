@@ -1,0 +1,300 @@
+
+
+
+        software engineer intern -        seegrid -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our teamour team members are seegrid’s biggest assets. we believe a career should be fun, challenging, fulfilling, and allow you to grow.we love what we do—helping customers transform into smart factories with connected self-driving vehicles. our customers love what we do—working passionately to make them look brilliant every day. #4 top workplaces in pittsburgh in the small companies category - pittsburgh post-gazette, 2017#1 top workplace where employees feel new ideas are encouraged - pittsburgh post-gazette, 2017learn more at seegrid.com     
+
+
+
+software engineer intern
+
+
+pittsburgh, pa                    
+
+internship                
+
+engineering                    
+
+student (college)                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+seegrid is the leading provider of connected self-driving vehicles for materials handling with hundreds of thousands of miles driven.  the seegrid smart platform combines flexible and reliable infrastructure-free vision guided vehicles with fleet management and enterprise intelligence data for a complete connected solution. seegrid accelerates industry 4.0 and lean initiatives with incremental automation, helping companies achieve a truly connected enterprise and transform into smart factories of the future.
+seegrid has an opening for a software engineer intern.  as a software engineer intern at seegrid, you will work as part of a tightly knit development team to create the next generation of warehouse robots and control systems.  you will work closely with customers, product management and the rest of the engineering team to conceive, design and implement new features, maintain existing code and debug the complex, multi-factored issues that arise when robots, humans and the unconstrained real work interact. you will work on all aspects of seegrid’s products, from on-robot software to enterprise integration components with your focus determined by your skills and interests.  there’s nothing like seeing your code drive around the building and in the field!  this is a paid internship.
+ 
+key responsibilities may include:
+
+create high quality code to be used in our products
+conceive and implement solutions to complex interaction, messaging and architectural problems
+write design specifications and documentation for new features and changes
+work with field personnel to debug and resolve problems that arise
+create tests for your code
+
+requirements and experience:
+
+enrolled in bachelor's degree program in computer science or related discipline 
+experience in building and debugging multithreaded c++ applications
+experience with one or more interpreted languages (e.g. python, bash, ruby, javascript, etc.)
+experience and passion for working with linux
+proficient at writing maintainable and readable code
+
+our developers are cross-trained, and often develop in many different areas. experience with some subset of the following would be useful, but isn’t mandatory:
+
+embedded systems (e.g. beaglebone, arm, pic)
+database design
+messaging frameworks (e.g. amqp)
+
+all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+seegrid is an equal opportunity employer minorities/females/people with disabilities/protected veterans/sexual orientation/gender identity.
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+are you 18 years of age or older?*
+no answeryesno 
+
+linkedin profile url:
+
+
+
+desired salary
+
+
+
+have you ever been convicted of a felony?
+no answernoyes 
+
+if “yes”, you have been convicted of a felony, please explain the circumstances around the conviction:
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

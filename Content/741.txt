@@ -1,0 +1,484 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineering internship (spring 2018) | tesla | tesla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                    tesla, inc                
+
+
+
+
+×
+
+
+
+
+
+
+model s
+
+
+model x
+
+
+model 3
+
+
+roadster
+
+
+energy
+
+
+
+
+shop 
+
+shop 
+
+tesla account 
+
+sign in 
+
+
+
+
+
+
+      more ›
+
+
+
+news
+
+
+inventory
+
+
+new inventory
+
+
+used inventory
+
+
+corporate
+
+
+enterprise
+
+
+supercharger
+
+
+charging
+
+
+find us
+
+
+events
+
+
+semi
+
+
+carbon impact
+
+
+support
+
+
+
+
+
+
+
+
+
+sign in
+tesla account
+log out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      data engineering internship (spring 2018) | tesla    
+
+
+
+
+careers
+
+
+about
+careers
+contact
+legal
+investors
+suppliers
+
+
+
+
+
+
+data engineering internship (spring 2018)
+
+department
+engineering
+location
+palo alto, california
+req. id
+54082
+job type
+intern
+
+
+apply
+
+
+
+
+
+
+
+
+            tesla's mission is to accelerate the world's transition to sustainable energy.        
+
+
+
+
+description
+the role
+data is deeply embedded in the product and engineering culture at tesla. we rely on data and lots of it to improve autopilot, to optimize hardware designs, to proactively detect faults, and to optimize load on the electrical grid. we collect data from each of our cars, superchargers, and stationary batteries and use it to make these products better and our customers safer.
+your application to the data engineering internship will be considered for all opportunities across autopilot, connected systems, and service engineering.
+required skills
+·          strong programming experience in at least one of the following languages: java, golang, or python.
+·          experience with message queues like apache, kafka.
+·          experience with big data frameworks such as hadoop/spark.
+·          experience with front end development in areas such as html, javascript, css, and/or ui.
+·          experience building hybrid infrastructures and working with electromechanical systems.
+·          experience with driving the adoption of data platforms.
+·          high standards for code quality, maintainability, testing and performance.
+·          work with a cross-functional team of hardware engineers, application/ui software engineers, qa/validation and designers.
+qualifications
+·          currently working towards a bs, ms, or advanced degree in a relevant engineering program.
+·          you must be self-managed and committed to working in a fast-paced environment. 
+·          hands-on experience is a must.
+·          professional and positive communication skills.
+·          previous internship and/or project experience is a plus.
+·          ability to relocate to palo alto or fremont, ca.
+tesla motors is committed to a policy of equal employment opportunity. we recruit, employ, train, compensate, and promote without regard to race, color, age, sex, ancestry, marital status, religion, national origin, disability, sexual orientation, veteran status, present or past history of mental disability, genetic information or any other classification protected by state or federal law.
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+about tesla
+
+            tesla is accelerating the world’s transition to sustainable energy. we design, manufacture, sell and service the world’s best solar technology, energy storage systems, and electric vehicles, providing customers the opportunity to generate, store and consume energy entirely sustainably.        
+
+            tesla is committed to hiring and developing top talent from around the world for any given discipline. based in california, tesla’s workforce spans across four continents. we work to build an inclusive environment in which all people, regardless of gender, race, religion, or background, can come to do their best work.        
+
+            our world-class teams operate with a non-conventional philosophy of inter-disciplinary collaboration. each member of the team is expected to challenge and to be challenged, to create, and to innovate. we’re tackling the world’s most difficult and important problems—and we wouldn’t succeed without our shared passion for making the world a better place.         
+
+learn more about tesla 
+
+
+
+
+
+            tesla is an equal opportunity / affirmative action employer committed to diversity in the workplace. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.   
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tesla © 2017
+about elon musk
+privacy & legal
+contact
+careers
+forums
+locations
+sign out
+
+▾
+
+
+
+
+
+▾
+
+
+
+
+
+
+close
+
+
+
+north america
+
+usa
+canada (en)
+canada (fr)
+méxico
+
+
+
+europe
+
+belgique
+belgië
+danmark
+deutschland
+españa
+france
+great britain
+ireland
+italia
+luxembourg
+luxemburg
+
+
+nederland
+norge
+österreich
+portugal
+schweiz
+suisse
+svizzera
+sverige
+suomi
+other europe
+
+
+
+middle-east
+
+uae
+jordan
+
+
+
+asia/pacific
+
+中国
+hong kong
+香港
+日本
+macau
+澳門
+台灣
+대한민국
+australia
+new zealand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+become a tesla insider
+
+
+
+get newsletter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+leave this field blank 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

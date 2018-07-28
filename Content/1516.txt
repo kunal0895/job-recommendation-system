@@ -1,0 +1,640 @@
+
+
+
+software-engineer-for-spacraft-big-data-and-visualization job - littleton, co - lockheed martin
+
+
+
+lockheed martin - job search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to page content
+
+open/close mobile menu
+lockheed martin corporation home
+
+
+
+
+
+investors
+media
+suppliers
+employees
+
+
+
+
+
+
+quick job search form
+quick job search
+
+
+
+
+
+
+who we are
+what we do
+news & events
+innovation
+careers - home pagevisit careers sitemap
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+about us
+
+
+
+
+working here
+
+
+
+locations
+pay & benefits
+inclusive work environment
+career development
+rewards & recognition
+
+
+
+
+
+meet our employees
+
+
+
+meet our employees - students
+meet our employees - experienced
+meet our employees - military
+meet our employees - diversity
+
+
+
+
+
+careers - events
+
+
+
+diversity/national events
+military events
+college events
+experienced events
+
+
+
+
+
+joining lockheed martin
+
+
+
+ready to start your search
+sharing your resume
+interview invitation
+post interview
+connect with us
+
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+faqs - about us
+
+
+
+
+
+
+college students
+
+
+
+
+internships/co-op
+
+
+
+leadership development
+
+
+
+communications - leadership development
+engineering
+finance
+operations
+security - leadership development
+
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+more - college students
+
+
+
+meet our employees - college students
+campus events
+faqs- college students
+
+
+
+
+
+
+
+
+experienced professionals
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+more - experianced professionals
+
+
+
+meet our employees - experianced professionals
+career development
+experienced events
+faqs - experianced professionals
+
+
+
+
+
+
+
+
+military
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+partnerships
+
+
+
+army partnership for youth success program
+get skills to work
+hiring our heroes
+military spouse employment partnership
+targeted outreach for wounded warriors
+hero2hired
+
+
+
+
+
+more - military
+
+
+
+military events
+faqs - military
+skills translator
+meet our employees - military
+military connect
+meet our military relations managers
+
+
+
+
+
+
+
+
+featured opportunities
+
+
+
+
+programs
+
+
+
+advanced development programs (adp)/skunk works
+f-35 lightning ii flight test
+antarctic support contract program
+consolidated air force satellite control network (afscn) modification, maintenance & operations (cammo)
+defense intelligence agency enterprise infrastructure engineering services (dia eies)
+federal aviation administration (faa) controller training contract (ctc)
+federal energy regulatory commission information technology support services (ferc itss)
+federal housing administration resource center (fha rc) contract
+intelligence community
+intelligence community > cyber technology services (cts)
+intelligence community > defense cyber crime center (dc3)
+intelligence community > silverquarter (sq)
+mega 4 automated litigation support program
+national energy technology laboratory (netl), research and engineering services
+ocelot
+software developers and engineers
+technical services support contract (tssc) iv
+transportation security administration (tsa) - information technology infrastructure program (itip)
+army command, control, communications, computers, intelligence, surveillance and reconnaissance (c4isr) system training
+army pre-positioned stock 5 (aps-5)
+command, control, communications, computers (c4) assessment division (c4ad)
+international narcotics and law enforcement affairs' program
+special operations forces contractor logistics support services
+surface ship torpedo defense (sstd) technical support
+u.s. army aviation and missile command / aviation field maintenance (amcom afm)
+u.s. army non-standard rotary wing aircraft (nsrwa)
+database and it systems opportunities
+joint forces development support services (jfdss)
+software and hardware engineers
+training and logistics solutions program
+future intercontinental ballistic missile (icbm) sustainment & acquisition construct (fisac)
+rf manufacturing and production technicians
+satellite communications and payload engineering
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+returning job seekers: students
+
+
+
+returning job seekers: experienced
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+careers
+job search
+
+job details
+
+
+
+
+
+
+
+software engineer for spacraft big data and visualization
+
+
+
+
+
+
+apply to job(s)
+       
+
+
+
+req id : 
+417055br
+
+
+job code/title : 
+e1072:software engineer
+
+
+job description : 
+how would you like to help create solutions which will help nasa send humans to mars, noaa to predict severe weather disturbances like the 2017 hurricanes experienced in texas and florida and provide support to the u.s. intelligence community? lockheed martin space systems is building the spacecraft to support these missions. we need the best engineers on our team to ensure mission success.this opening is for a software engineer for the core data group in engineering and technology mission systems and solutions. core data creates telemetry visualization and big data solutions for multiple programs, including orion, goes and special programs, leveraging open source software.we are looking for a developer who will be a member of a small agile group with strong java skills and a knowledge of modern practices and open source librariesthe job responsibilities include:• develop developing software for real-time interaction with other hardware/software subsystems• testing in both software-only and hardware/software environment including execution of integration tests to validate:o hardware to software interfaceso software to software interfaceso functionality• analyzing the hardware, software, and system requirements and implementation• developing and testing code• establishing development and test tools• identifying and resolving anomalies during test on various software-level and system-level platforms• identifying and implementing required software modifications• participating in technical reviews/audits of software products.basic qualificationsability to execute work tasks in a fast-paced, team-oriented, and highly dynamic environment.• proven knowledge of java software development using modern practices in real-time programming constructs.• experience leveraging and integrating open source software• excellent problem solving and troubleshooting skillsdesired skillsexcellent oral and written communications skills.• tools experience with the following:o linuxo restful web serviceso gito maven• experience with agile development• hardware/software integration experienceas a leading technology innovation company, lockheed martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. lockheed martin has employees based in many states throughout the u.s., and internationally, with business locations in many nations and territories.join us at lockheed martin, where we’re engineering a better tomorrow.lockheed martin is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity,  national origin, age, protected veteran status, or disability status.job location(s): littleton colorado
+
+
+security clearance : 
+none
+
+
+business unit : 
+ess4400 space systems company
+
+
+program : 
+swe
+
+
+job class : 
+software engineering
+
+
+job category : 
+experienced professional
+
+
+city : 
+littleton
+
+
+state : 
+co
+
+
+virtual : 
+no
+
+
+relocation available : 
+possible
+
+
+work schedule : 
+9x80a-9,9,9,9,8 hrs/d in wk1, /9,9,9,9,off in wk2
+
+
+req type : 
+full-time
+
+
+shift : 
+first
+
+
+additional posting locations : 
+littleton
+
+
+
+apply to job(s)
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 lockheed martin corporation disclaimer | privacy | accessibility
+lockheed martin utilizes our own internal talent acquisition organization to fill our employment needs. if you are contacted over the phone or e-mailed, by a company listing a lockheed martin job and requesting your personal information, allegedly on lockheed martin's behalf, please do not respond. lockheed martin is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+
+
+                    www.dhs.gov/e-verify
+                
+
+                e-verify is a registered trademark of the u.s. department of homeland security. this business uses e-verify in its hiring practices to achieve a lawful workforce.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stock price
+contact us
+site map
+privacy
+terms of use
+© 2017 lockheed martin corporation
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

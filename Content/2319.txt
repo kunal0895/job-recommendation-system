@@ -1,0 +1,370 @@
+
+
+
+
+
+
+software engineer description at cox automotive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+cox enterprises
+cox communications
+cox automotive
+cox media group
+
+
+
+
+
+menu
+
+careers home
+why cox
+our people
+industry innovation
+diversity
+
+
+
+
+
+menu
+
+careers home
+working at cci
+careers at cox
+call center
+our people
+university relations
+
+
+
+
+
+menu
+
+careers home
+why cox automotive
+our brands
+our people
+campus
+
+
+
+
+
+menu
+
+careers home
+why cmg
+our people
+cmg in the community
+campus/early career
+
+
+
+
+
+
+
+at cox, you don’t just have a job, but the opportunity to grow and advance across many dynamic industries.
+
+
+
+
+search all cox automotive jobs
+
+
+keyword or job number
+
+
+
+location
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+go
+
+
+cox team member site
+search all cox jobs
+
+
+
+
+apply now
+software engineer
+location atlanta, georgia
+job number 1716967 brand cox automotive
+descriptionlooking for a rock star developer! do you love manipulating large data sets? are you an expert programmer in java with experience transforming metrics using hive, python, spark, and other tools? do you have the ability and desire to learn new technologies and build prototypes in days?if your answers are “yes!” we want to talk to you! description:we are looking for a software engineer with business intelligence experience to join our media analytics team at cox automotive. this software engineer will work with their associated delivery teams to solution projects using java, python, sql, aws, and internal tools on hadoop and netezza. as a fully functioning scrum team member, you will be responsible for a variety of tasks needed to get the work completed including analysis, design, programming, and testing. in addition our scrum teams own their code so you will be responsible for product support as well as defect handling. specific responsibilities include, but are not limited to:gather and process raw, structured, semi-structured, and unstructured data at scale, including writing scripts, developing programmatic interfaces against web apis, scraping web pages, processing twitter feeds, etc. design, review, implement and optimize data transformation processes in the hadoop (primary) utilizing java, python, scala, and hivedesign, review, implement and optimize data transformation processes in oracle and netezza utilizing etl/informaticaanalyze data needs and recommend data models or changes to data models while supporting reportingability to turn data into metrics and reporting through visualization toolscreate solutions for data movement or transformation utilizing java, python, scala, and/or hive test and build working prototypes for new data integration toolsactive participant in the working of all assigned tasks/projects with the ability to multi-task between projects and assignments easilypractice active ownership in their assigned pieces of functionality and ensure successful on time quality completion and maintenancerespond quickly and effectively to production issues and taking responsibility for seeing those issues through to resolutionproactively communicate project status to program team and delivery teammentor less experienced team membersability to collaborate with other development teamsexpected to present project replays and relevant external learnings to local team in the form of knowledge transfer sessionsstay current with changes in the technical area of expertise by being actively engaged in both internal and external learning opportunities to provide better solutioningqualificationsbachelor’s degree in computer science, information services, mathematics, statistics, or other applicable area from a four-year university or equivalent industry experience4+ years maintaining and developing software in a large scale data or web application environment like oracle and netezza3+ years in business intelligence including big data and a more advanced understanding of edw concepts of warehousing, data movement, and data transformation1-2 years developing for hadoop environment including hdfs, hive, mapreduce, spark, and distributed computing2+ years in agile methodology2+ years experience in data ingestions including streams and batch processingexpert knowledge of object oriented analysis, design, and programming in java or python. (your interview will include coding scenarios designed to test your analytical skills as well as your coding capabilities.)solid understanding of software engineering basics including data and architecture in areas like site activity high performer with the ability to demonstrate their higher-level technical experience on a daily basispreferred qualificationscloud: aws, goggleetl: informatica, mulesoftservices: rest api development, api frameworksmessaging: kafkaothers: dockers, ci/cdabout cox automotivecox automotive is transforming the way the world buys, sells and owns cars with industry-leading digital marketing, retail, financial and wholesale solutions for consumers, dealers, manufacturers and the overall automotive ecosystem worldwide. the cox automotive family includes autotrader®, dealer.com®, dealertrack®, kelley blue book®, manheim®, nextgear capital®, vauto®, vinsolutions®, xtime®, incadea® and a host of other brands. with a complete and connected view of the automotive ecosystem, cox automotive is a global company connecting people, cars and capabilities with services that link the automotive value chain. cox automotive is a subsidiary of cox enterprises. for more information about cox automotive, visit www.coxautoinc.com. organization: cox automotiveprimary location: us-ga-atlanta-3003 summit blvdemployee status: regularjob level: individual contributorshift: day jobtravel: noschedule: full-timeunposting date: ongoing
+apply now
+
+
+
+
+share this opportunity
+
+linkedin
+facebook
+twitter
+google+
+email
+
+
+
+get job listings that match your profile
+
+
+
+join our talent community
+join here to receive the latest company information, news and upcoming events across cox businesses.
+
+
+
+sign up for job alerts
+
+your email addressenter category and/or location, then click add. you must enter at least one criteria to sign up.interested incategorylocationaddinformation technology, atlanta, georgia, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+    jobs.coxautoinc.com is the only official website for employment opportunities with cox enterprises and its affiliates. applications for employment on any other website will not be considered. cox does not hold online interviews on social media sites such as google hangouts. if you have been requested to apply for an employment opportunity other than through jobs.coxautoinc.com, or, if you have sought out career opportunities with cox and found a different website in your search, you should not submit your application, nor should you provide any personal identifying information such as a social security number, birth certificate, financial institution information, driver’s license number or passport information.
+
+
+
+
+
+
+
+careers website
+
+linkedin
+facebook
+twitter
+instagram
+
+
+
+cox enterprises
+cox
+cox automotive
+cox media group
+
+
+our brands
+
+
+column 1
+
+aim
+autotrader
+autostreets
+bitauto
+carsguide
+central dispatch
+
+
+
+column 2
+
+dealer.com
+dealer-auction.com
+dealer solutions
+dealertrack
+dealshield
+homenet
+
+
+
+column 3
+
+incadea
+jingzhengu
+kelley blue book
+mahindra first choice
+manheim
+manheim international
+
+
+
+column 4
+
+modix
+molicar
+motors.co.uk
+movex
+nextgear capital
+ready logistics
+
+
+
+column 5
+
+rms automotive
+vauto
+vinsolutions
+xtime
+
+
+
+
+
+
+
+
+
+
+about us
+
+
+cox automotive is a leader in vehicle remarketing services and digital marketing and software solutions for automotive dealers and consumers. cox automotive, a subsidiary of atlanta-based cox enterprises, includes manheim, autotrader, kelley blue book, and a host of global businesses and brands serving customers such as auto dealers, manufacturers and financial institutions. headquartered in atlanta, cox automotive employs over 30,000 team members in over 200 locations worldwide. we partner with more than 40,000 dealers and touch over 65 percent of all car buyers in the u.s. with the most recognized brands in the industry. we unite over 25 brands in this space, providing an end-to-end solution to transform the way people buy and sell cars every day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+
+cox automotive, inc.3003 summit blvd. suite 200atlanta, ga 30319
+email: 
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+privacy policy | 
+                    visitor agreement | 
+                    sitemap
+© 2017 cox automotive. all rights reserved.
+                
+
+facebook
+twitter
+youtube
+google+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+twitter
+youtube
+linkedin
+facebook
+instagram
+glassdoor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

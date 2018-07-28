@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+
+
+
+
+technical support engineer - aryaka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blog
+customer login
+1-877-727-9252
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+products
+
+smartconnect
+smartcdn
+
+web app acceleration
+ip app acceleration
+
+
+smartaccess
+
+
+solutions
+
+solutions by use case
+
+mpls alternative
+application acceleration
+fast deployment
+
+
+cloud connectivity
+
+8×8 communications cloud
+
+
+
+
+customers
+partners
+
+partners
+become a partner
+partner login
+
+
+resources
+
+document repository
+video library
+webinars
+
+
+about us
+
+blog
+aryaka in the news
+press releases
+awards & recognition
+aryaka’s points of presence
+leadership
+board of directors
+investors
+careers
+contact us
+
+
+free trial
+
+ 
+
+
+
+
+ technical support engineer 
+« return to careers
+
+
+
+
+
+
+
+
+location: sacramento
+reports to: us support manager
+job description: technical support engineer
+aryaka is taking the lead in the next step beyond sd-wan technology with our global private network. our private network is one we can control, manage, and provision in a fully software-defined manner. we offer wan optimization, cdn acceleration, closed connectivity, and sd_wan all in a single platform. we are opening a new tac (technical assistance center) and creating a technical support team located in sacramento. if you are a motivated, problem solver, and a creative thinker, and a hardworking individual, then we should talk!
+the aryaka tac team consists of technical support, monitoring, provisioning and engineering. on any given day members of the team may provide training, assist as a support engineer with a customer issue, replicate a complex issue in our lab, evaluate customer network design or help improve features for supportability and usability. we are a small global team and will only consider the top people from a support or engineering or networking background. you must be good at working with customers and developers and have a broad technical background in telecommunications and networking ideologies.
+responsibilities:
+
+demonstrate case management skills for each case/issue by resolving quickly and proactively, this includes involving resources as needed to achieve the highest customer satisfaction.
+ownership of critical issues. this does not mean you are the only owner of the case, the focus is on the technical driver of the case our customer’s call about. this usually means working with the tac case owner and development, engineering, and product on a replication or verification and communicating updates.
+new product and support issues and development – combine the responsibility of being at the bleeding edge of technical knowledge and skills learned from prior technical support, a tac technical support engineer will identify supportability and usability requirements for new products requests and issues during the day-to-day processes and create enhancement requests as needed.
+enablement and onboarding of the tac teams include assisting with ad hoc q&a with our customers and includes some structured trainings throughout the year. generating documentation in the form of case notes, best practices, knowledge base articles, rca reports, and case reviews will also be required and necessary to be successful in this position.
+a tac technical support engineer is responsible for staying up to date with technical details of aryaka networks current and new products and industry standards in general and sharing those details and knowledge with our customers when they reach out to us.
+filling in the gaps. sometimes there are opportunities to catch a problem before it escalated. the tac team is uniquely positioned to identify or help in these unplanned projects that result in a better customer experience, or a cost reduction or better security.
+understand how packets and data go through a box and a network. the box and network should not be an anonymous black box/network, you should know what is happening to a packet and the data at various stages and how that can impact problems.
+great communication skills. you are not being hired to answer phone calls from the queue. you will speak with our customers regularly and from time to time with our developers, engineers and the rest of our team. being clear and concise is a ‘must have’ in order to be successful.
+
+requirements:
+
+a bachelor’s degree in engineering, networking or related subject
+1-2+ years of related work experience in firewall and tac
+experience in customer facing/good communication with larger enterprise companies
+
+technical skills:
+
+strong technical skills in current sd-wan and networking technology, including knowledge of switches, routers, firewalls, dynamic routing protocols, lan (switching), wan (gre), tcp/ip suite, amazon aws, ms azure security, ipsec, ssl, and http/https, security standards and knowledge, certificates, etc.
+must be able to explain how the internet and networking works in detail, end to end from the physical layers up to the application layer to the cloud and back.
+
+general skills:
+
+excellent written & verbal communication skills
+excellent inter-personal and teamwork skills
+self-driven, proactive, hardworking, and a team-player
+strong problem solving, troubleshooting and analysis skills
+encourages and accepts feedback
+
+company description:
+
+aryaka is transforming how global enterprises connect sites and users worldwide, and use mission-critical applications to support modern business execution demands. aryaka’s global sd-wan combines a purpose-built private network, sd-wan, optimization and acceleration techniques, connectivity to cloud platforms, and network visibility in a single solution that is delivered as a service.
+with over 100% yoy growth for 5 consecutive quarters and a recent $45m series d investment from deutsche telekom capital partners and third point ventures, aryaka is on its path to ipo in the next 1-2 years.
+our customers love our technology. aryaka’s customer portfolio includes over 500 global enterprises, including easily recognizable brands such as skullcandy, sony, xactly, air china, and dover.
+we are the fastest growing company in our space. fast growth brings career development and growth opportunities. we look forward to adding this key hire to our core marketing team.
+to learn more, visit www.aryaka.com. follow us on twitter, facebook, youtube and linkedin.
+
+how to apply:
+if interested, please submit your resume at jobs@aryaka.com
+aryaka networks, inc. is an equal opportunity employer. all candidates for employment will be considered without regard to race, color, religion, sex, national origin, physical or mental disability, veteran status, or any other basis protected by applicable federal, state or local law.
+
+
+
+
+
+
+
+
+
+
+contact sales
+request a quote
+chat with sales
+
+
+
+
+
+
+
+
+company links
+about us
+careers
+security
+contact us
+terms & conditions
+privacy policy
+
+
+
+newsletter sign-up
+stay informed about the new solutions and goings-on at aryaka. sign up below and get access to the latest information and insights about our technology.
+subscribe
+
+stay connected with us:
+
+
+
+
+
+
+
+ 
+ 
+
+        © copyright 2015-2017 aryaka networks, inc. all rights reserved.
+        aryaka, the aryaka logo, smart connect and smart cdn are trademarks or registered trademarks of aryaka networks, inc. in the u.s. and/or other countries.  all other trademarks are the property of their respective owners.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nbc universal, inc. - job details
+
+
+
+
+
+
+
+
+
+
+
+
+         nbc universal careers                              show menu                                our company                                         credo & history                                             corporate citizenship                                             awards & recognition                                             comcast nbcuniversal                                             locations                                             our culture                                         career stories                                             benefits & perks                                             diversity & inclusion                                             employee resource groups                                             locations                                             our businesses                                         all                                             ad sales                                             digital                                             television                                             hispanic                                             film                                             news                                             sports                                             stations                                             ops / technology                                             parks & resorts                                             our career paths                                         early careers                                             mid/senior career                                             theme parks                                             home                              ?
+
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job detailsjob 1 of 1   apply to job   send to friend   save to cart          job number  38004br   job title  software engineer, web   business segment  nbc news and msnbc   sub-business  news digital   posting category  technology/engineering   about us  nbcuniversal is one of the world’s leading media and entertainment companies in the development, production, and marketing of entertainment, news, and information to a global audience. nbcuniversal owns and operates a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, and world-renowned theme parks. nbcuniversal’s policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law.  nbcuniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the city of los angeles fair chance initiative for hiring ordinance, where applicable.   career level  experienced   country  united states   state/province  new york   city  new york   responsibilities  this is an opportunity to play a critical role in the digital evolution of nbc news, one of the world’s best known and most trusted news organizations.  you will work alongside fellow inspired developers in a fast paced environment using technologies like node, webpack, react and graphql to help shape the future of digital news. responsibilities  work on the react.js codebases supporting today.com, msnbc.com, and nbcnews.com build out graphql queries to consume data for all web properties implement beautiful ux for engaging news storytelling build innovative commerce solutions for nbc news brands monetize our audience traffic optimize sites across an array of web-capable devices, browsers and experiences automate front end testing to ship the highest quality experience for our audience   qualifications/requirements  requirements  strong proficiency in javascript and nodejs understanding of server side development tools, transpilers and preprocessors (babel, webpack, sass, less) experience with version control thorough understanding of react.js and its core principles experience with popular react.js workflows (such as flux or redux) extremely comfortable with html and css understanding of seo best practices 3+ years experience in software development or related field(s) 1+ years recent experience with react.js    apply to job   send to friend   save to cart        
+
+
+  we are an equal opportunity employer, offering a great work environment, challenging career opportunities, professional training and competitive compensation.  click here to view the nbcuniversal candidate privacy statement.              
+
+
+

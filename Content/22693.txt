@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1955677
+												
+
+
+job title
+												
+
+systems engineer - autonomous driving (qualcomm research san diego)
+
+
+
+
+post date
+													
+
+11/28/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	corporate research & development
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - systems                           
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+we are looking for smart, innovative and motivated individuals with automotive research & development background to join the qualcomm autonomous driving research team in san diego, and work on designing and prototyping the brain of next generation autonomous vehicles. you will have the opportunity to work with a group of top talents in computer vision, deep learning, robotics, connectivity and positioning in qualcomm san diego, ca. 
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+computer vision and deep learning based algorithm design and prototype with automotive use casesensor fusion across multiple sensor modalities for perception and localizationprecise positioning and mapping engine design based on gps/gnss, dead reckoning, hd maps, and other sensorsautomotive radar signal processing and designautomotive/ground robots path planning and control algorithm design, simulation and implementation
+
+
+
+preferred qualifications
+													
+
+
+
+solid understanding and experience of automotive sensors
+solid computer vision background in feature detection and tracking, multi-view geometry, slam, and vo/vio
+good knowledge of can vehicle communication protocol and diagnostics
+solid fundamentals in linear algebra, probability theory, statistics and signal processing
+solid programming with matlab, c/c++
+excellent written and verbal communications skills are essential
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: master's, electrical engineeringpreferred: doctorate, electrical engineering
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

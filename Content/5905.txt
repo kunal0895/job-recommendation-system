@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 11-00625
+
+
+
+
+research analyst - research engineer - kinetics
+11-00625
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+we are seeking qualified candidates to develop machine learning solutions to complex problems in unmanned systems, signal classification, multivariate sensor systems, machine vision, control systems, information networks, etc.  candidates have the opportunity to work in a stimulating environment on diverse technical challenges in applied research and development.  job responsibilities include: providing technical leadership in the development and application of advanced machine learning solutions for clients; hardware/software/systems design, implementation, testing, and integration; initiating advanced research and development programs; interacting with clients; conducting technical presentations; and leading the preparation of proposals and cost estimates.  travel on an as needed basis may be required.
+
+                    education/experience:
+				
+requires a ms or phd degree in computer science, electrical engineering, math, physics or related field with at least a 3.0 gpa.  core curriculum classwork in advanced engineering mathematics and statistical methods is desired. ms requires 1 year of related work experience. strong software skills required (e.g. in c, c++, matlab, r, python, etc.).  the candidate should be able to assess the feasibility and identify realistic expectations of using machine learning and optimization tools for various applications. experience with a variety of both supervised and unsupervised machine learning algorithms is strongly desired including clustering, classification, and regression techniques, as well as deep learning.  experience with traditional methods (e.g. svm and pca) is also desired.  other beneficial skills include experience with programming gpus, dsps, or fpgas.  experience delivering formal technical presentations (e.g. technical conferences) is valued.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d11/d11home.htm" target="_blank">applied power</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+research analyst - research engineer - kinetics
+
+11-00625
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+researcher, deep learning
+location: new york, new york, united states
+share with: facebook
+linkedin
+twitter
+send to a friend
+
+
+we are looking for researchers to join our newly formed team specializing in deep learning. the deep learning team splits its time between fundamental research in deep learning (both algorithmic and systems) and its applications to finance. as part of this team you’ll remain connected to the broader research community by partnering with external collaborators and publishing papers. minimum qualifications:masters or phd in computer science.expertise in machine learning with a focus on deep learning.intermediate programming skills in java, c++, or python.financial experience is not a requirement. preferred qualifications:strong publication record or open source contributions in deep learning and related areas.experience working on practical applications using real-world datasets.  
+
+apply now
+
+

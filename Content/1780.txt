@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+lead hadoop operations engineer - external careers
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+
+about
+benefits
+departments
+locations
+view all jobs
+sign in
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+lead hadoop operations engineer
+
+
+                    austin
+                
+
+
+
+
+
+
+
+
+
+apply now
+
+
+facebook
+linkedin
+twitter
+google plus
+send to a friend
+
+
+
+
+
+
+
+
+ref#: r0006234
+
+our mission.
+as the world’s number 1 job site, our mission is to help people get jobs. we need talented, passionate people working together to make this happen. we are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+
+
+the team.
+we are builders, we are integrators. tech services creates and optimizes solutions for a rapidly growing business on a global scale. we work with distributed infrastructure, petabytes of data, and billions of transactions with no limitations on your creativity. you don’t have to wait for some architect or manager to tell you what you can work on - you decide the priorities. with tech hubs in seattle, san francisco, austin, tokyo and hyderabad, we are improving people's lives all around the world, one job at a time.
+
+
+your job.
+within the big data environment, you have a deep understanding of the complex nature of hadoop. you feel as comfortable building simple data flows as you do digging into hadoop source code to understand the subtle and obscure problems that can arise in this environment. you work with people, technical and non-technical alike, to understand their big data needs and to help them understand what they're really trying to achieve. you're a company resource, providing best practices, guidelines, and feedback on internal tools working with hadoop. you have your finger on the pulse of the cluster, understanding when its not working right and diving in to diagnose the problem before it becomes systemic. 
+you have a cool head under pressure. when a technical fire occurs, you understand that putting it out should always avoid collateral damage. when you cause a fire (as everyone inevitably does), you take responsibility for it and work with the team to figure out the right way to put that fire out. you believe blaming is a waste of time: when something goes wrong, you figure out why it happened and how to prevent it from happening again in the future. better yet, you look for how things went right in the first place and improve upon those. 
+responsibilities
+the design, care, and feeding of our multi-petabyte big data environments built upon technologies in the hadoop ecosystem day-to-day troubleshooting of problems and performance issues in our clusters investigate and characterize non-trivial performance issues in various environmentswork with systems and network engineers to evaluate new and different types of hardware to improve performance or capacity work with developers to evaluate their hadoop use cases, provide feedback and design guidance work simultaneously on multiple projects competing for your time and understand how to prioritize accordingly be part of the on-call rotation for your areas of responsibility and expertise
+
+
+
+about you.
+bachelor's degree in computer science or equivalent intimate and extensive knowledge of linux administration and engineering. we use centos/red hat enterprise linux (rhel), you should tooexperience in designing, implementing and administering large (200+ node), highly available hadoop clusters secured with kerberos, preferably using the cloudera hadoop distribution.in-depth knowledge of capacity planning, management, and troubleshooting for hdfs, yarn/mapreduce, and hbase. an advanced background with common automation tools such as puppet an advanced background with a higher level scripting language, such as perl, python, or ruby.must have experience with monitoring tools used in the hadoop ecosystem such as nagios, cloudera manager, or ambari.experience with pepperdata a plus.knowledge of impala and spark a plus cloudera certified administrator for apache hadoop (ccah) a plus active member or contributor to open source apache hadoop projects a plus. indeed provides a variety of benefits that help us focus on our mission of helping people get jobs.
+view our bounty of perks: http://indeedhi.re/indeedbenefits
+
+
+
+apply now
+
+
+
+< back to search results
+
+
+
+
+
+
+indeed is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+
+
+
+
+
+                                facebook
+                            
+
+
+                                twitter
+                            
+
+
+                                youtube
+                            
+
+
+                                instagram
+                            
+
+
+
+
+©2017 indeed. all rights reserved.  *comscore, total visits march 2017
+
+
+
+
+
+
+
+
+

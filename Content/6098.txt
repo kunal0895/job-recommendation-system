@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+apply for siemens senior expert in machine learning and manufacturing system analysis job - research & development - charlotte, north carolina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+
+careers home
+search jobs
+
+
+					check application status / manage profile
+					
+
+
+
+global jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+siemens careers
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior expert in machine learning and manufacturing system analysis
+
+
+locations:
+charlotte, north carolina
+
+
+
+
+job family: research & development
+
+
+
+
+
+apply
+
+english (us)
+
+
+
+
+
+
+job description
+
+
+
+division: corporate technologybusiness unit: corporate technologyrequisition number: 207772primary location: united states-north carolina-charlotteassignment category: full-time regularexperience level: senior leveleducation required level: master's degreetravel required: 10%division description:siemens is a global technology powerhouse that has stood for engineering excellence, innovation, quality, reliability and internationally for more than 165 years. as a global technology company, siemens is rigorously leveraging the advantages that this setup provides. to tap business opportunities in both new and established markets, the company is organized in nine divisions: power and gas, wind power and renewables, energy management, building technologies, mobility, digital factory, process industries and drives, healthineers and financial services. our support functions are split into two organizations, corporate core and corporate services. these organizations provide essential services to better enable responsible and profitable growth.
+ for more information, please visit: http://www.siemens.com/businesses/us/en/job description:
+for nearly 170 years, pioneering technologies and the business models developed from them have been the foundation of siemens‘ success. our central research and development unit, corporate technology (ct) plays an important role in this.
+together with its global network of experts, ct is a strategic partner to siemens’ operative units. it provides important services along the entire value chain – from research and development to production and quality assurance, as well as optimized business processes. the support provided to the businesses in their research and development activities is ideally balanced with ct’s own future-oriented research.the people who work at corporate technology are more than employees. they are actively helping to make people’s lives a little better every day. would you like to be a part of that? then join us. we offer you a high level of practical relevance as well as an opportunity to individually contribute your knowledge and your visions around the world. whether you’re helping to develop products for the operating units or working in interdisciplinary projects for the business areas: at corporate technology you’ll be working in the heart of siemens’ technological research.
+we are currently seeking a senior key expert – machine learning in engineering for complex scenarios during engineering and manufacturing of discrete production units like larger gas turbine, steam turbine and generator components in charlotte, cltw location. what are my responsibilities?we are looking for an experienced machine learning and manufacturing system analysis expert. you are expected to demonstrate a proven track record of performing complex probabilistic and systems analysis on complex systems for industrial application domains or research. the role demands an industry expert in advanced engineering and production methods and machine learning technologies for design and engineering automation employing advanced statistical, calibration and other deep learning methods. please include your past projects and published papers or patents, ideally at asme, icml or publications at aaai, uai, aistats, kdd, icdm, aiaa will also be considered. 
+ 
+this expert should be a known industry expert in machine learning technique for design and manufacturing. she/ he will be leading our research activities focused at applying design and manufacturing feedback techniques for engineering and manufacturing workflows or tools development. 
+ 
+ responsibilities in detail:
+ 
+• research, design, and implement algorithms based on deep learning techniques and prediction for analytical method based product engineering and manufacturing.
+• applied experience in advanced optimization and efficient planning; analytics driven design space exploration,  semantic relationship, systems thinking based design & engineering use-cases
+ • component performance and engineering simulation data to produce innovative analysis and new types of predictive models of engineering behaviors and manufacturing processes performance.
+ • advanced knowledge of machine learning techniques for design and feedback techniques from manufacturing (for e.g., neural networks, calibrations, manufacturing deviation validation through engineering models, knowledge harvesting techniques)
+• apply deep learning techniques to large-scale, real-world industrial scale problems for discrete manufacturing operations.
+ 
+what skills are needed to qualify for this position?
+ 
+• masters in computer science, engineering, physics with minimum 10 years of gas turbine industrial experience and relevant knowledge of industrial standards is required. phd preferred. 
+• experience with natural language processing tools, knowledge graph, data and logic based algorithmic based problem solving techniques
+• experience in machine learning, optimization, data mining or machine intelligence (artificial intelligence).
+• technical proficiency in languages such as tensorflow, r, perl, weka, pandas, octave,  python, java, javascript, and c++ 
+• must have experience of successfully proposing and seeking funding for technology programs and managing budgets and schedules of large research programs
+• required experience in implementation of translation research in field of manufacturing engineering, sensor technologies, computational materials science and related technologies for power generation industry
+• outstanding written and verbal communication skills in english are required.
+• successful candidate must be able to work with controlled technology in accordance with us export control law. us export control laws and applicable regulations govern the distribution of strategically important technology, services and information to foreign nationals and foreign countries. siemens may require candidates under consideration for employment opportunities to submit information regarding citizenship status to allow the organization to comply with specific us export control laws and regulations. additional information on the us export control laws & regulations can be found on http://www.bis.doc.gov/index.php/policy-guidance/deemed-exports/deemed-exports-faqs?view=category&id=33#subcat34
+ 
+preferred skills and experience
+ 
+• knowledge and experience with rotating components in general and turbo machinery industry will be preferred 
+• experience with managing large r&d programs and leading cross functional teams is preferred
+• ability to translate complex computational terminologies in such a way that scientifically trained individuals in other disciplines can readily understand their significance.
+• experience in optimization (integer/linear/quadratic/nonlinear programming/multi-objective/stochastic).
+•  seven plus years of related experience in the field of power generation and engineering, particularly gas turbines, steam turbines and generators.
+ 
+ 
+
+
+
+equal employment opportunity statement
+
+      siemens is an equal opportunity and affirmative action employer encouraging diversity in the workplace. all qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law.
+    
+
+eeo is the law
+
+      applicants and employees are protected under federal law from discrimination. to learn more,
+      click here.
+    
+
+pay transparency non-discrimination provision
+
+      siemens follows executive order 11246, including the pay transparency nondiscrimination provision. to learn more,
+      click here.
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+check application status / manage profile
+
+
+
+global jobs
+united states jobs
+
+
+us only: review accommodations for disability
+contact us
+
+
+
+
+© siemens ag, 1996 – 2017 |
+corporate information |
+privacy policy |
+cookie policy |
+terms |
+digital id
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+© siemens ag, 1996 – 2017 |
+imprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

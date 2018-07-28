@@ -1,0 +1,390 @@
+
+
+
+
+job application for data engineer at earnest research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at earnest research
+      
+
+        new york 
+      
+
+
+the earnest research company
+earnest research is a vc-backed data innovation startup driven to change the way professionals understand consumer and business behavior. working with world-class data partners, we transform raw data into a source for business and investment professionals to ask better questions so they can make better decisions. we believe, in the right hands, data has the power to change the way we work. 
+data engineer
+earnest is seeking a data engineer to help scale up our data infrastructure. you will be part of a data-driven decision-making culture and collaborate with software engineers in building out the data tools and processes to support the creation of insights that will drive our business. the role will involve design and implementation of the entire data pipeline, from capturing and storing disparate data sources to processing that data and making that data available to other team members. you will be working across the company to understand their data needs, and creating systems that provide consistent and complete information to help solve various business problems. 
+responsibilities
+
+maintaining and implementing tools and systems that ingest, transform, organize, and expose data insights
+collaborating with other engineers to help implement and design our next generation data warehouse system
+working closely with our data analyst team to gather technical requirements and provide support on analytics processes
+develop and maintain data pipelines, with a focus on writing scalable, clean, and fault-tolerant code to handle disparate data sources
+implement new product features and performance improvements to existing products
+help drive optimization, testing and tooling to improve data quality across the product line
+
+qualifications
+required skills:
+
+proficiency in one of python, java, scala, or a similar programming language
+experience with hadoop and related technologies (hive, pig, spark, presto, impala)
+strong sql experience (mysql, redshift/postgres)
+comfortable with source control (github) and working in a linux environment
+experience with handling and processing large data sets in a business environment
+understanding of structured and unstructured data design/modeling
+strong analytical, quantitative, problem-solving, and critical thinking skills
+excellent verbal and written communication skills
+
+additional preferred skills:
+
+experience with aws tools, i.e. especially emr, redshift, data pipeline
+experience working with large volumes of time series financial data
+exposure to data science
+knowledge of machine learning and natural language processing
+nosql experience: hbase, mongodb
+familiarity with bi and analytics tools (e.g. looker, tableau)
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ add another
+
+
+
+
+are you legally eligible for employment in the us? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require visa sponsorship to work in the us? *
+
+
+
+
+
+
+when would you be available to start? *
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        school name
+          *
+
+
+
+
+
+
+        degree
+          *
+
+
+high school
+associate's degree
+bachelor's degree
+master's degree
+master of business administration (m.b.a.)
+juris doctor (j.d.)
+doctor of medicine (m.d.)
+doctor of philosophy (ph.d.)
+engineer's degree
+other
+
+
+
+        discipline
+          *
+
+
+accounting
+african studies
+agriculture
+anthropology
+applied health services
+architecture
+art
+asian studies
+biology
+business
+business administration
+chemistry
+classical languages
+communications & film
+computer science
+dentistry
+developing nations
+discipline unknown
+earth sciences
+economics
+education
+electronics
+engineering
+english studies
+environmental studies
+european studies
+fashion
+finance
+fine arts
+general studies
+health services
+history
+human resources management
+humanities
+industrial arts & carpentry
+information systems
+international relations
+journalism
+languages
+latin american studies
+law
+linguistics
+manufacturing & mechanics
+mathematics
+medicine
+middle eastern studies
+naval science
+north american studies
+nuclear technics
+operations research & strategy
+organizational theory
+philosophy
+physical education
+physical sciences
+physics
+political science
+psychology
+public policy
+public service
+religious studies
+russian & soviet studies
+scandinavian studies
+science
+slavic studies
+social science
+social sciences
+sociology
+speech
+statistics & decision theory
+urban studies
+veterinary medicine
+
+
+
+        start date
+          *
+
+
+
+
+
+
+        end date
+          *
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,171 @@
+
+
+
+mattersight careers - be a part of what matters | mattersight|junior software developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+junior software developer
+
+
+
+junior software developer
+
+
+
+
+job locations 
+
+us-tx-austin
+
+
+
+
+category 
+software development
+
+
+
+
+
+
+
+more information about this job
+
+
+
+
+company overview
+
+
+
+
+
+
+
+who mattersight is: the rubber hits the road when someone picks up the phone to talk to a company. it happens over 250 million times a day. with over 60 percent of people dumping brands because of bad customer service, that phone call can make or break a business. enter mattersight – the only company that uses personality analysis and big data analytics to improve every customer call, increase customer satisfaction and lower costs for fortune 500 enterprises. our patented technology mines a private database of over 1 billion customer service calls to quickly pair customers with call center agents they will naturally, effortlessly click with. awkward and annoying becomes satisfying and enjoyable. frustrated becomes enthusiastic. mattersight helps companies make positive conversations with their customers the rule, not the exception by fostering emotional connections that turn complainers into fans. no one else out there does what we do. we think it’s pretty amazing, and we’re not alone. 
+
+
+
+
+
+
+
+responsibilities & qualifications
+
+
+
+
+
+
+
+who you are: a highly motivated cutting-edge software developer who wants to nerd out in awesome austin, tx with our phenomenal seds development team.  what you’ll do: the seds team is fully responsible for our recording software at our installed base, designing and developing creative solutions to implement our software within our client’s unique telephony environments and continually improving our telephony solution that comprises the core of our ground-breaking behavioral analytics product suite.  software developers on this team work with many of our core functions: audio and telephony capture, network integration as well as third-party data integrations and audio processing. the successful candidate will perform design, development, sustaining engineering and testing tasks within the microsoft .net 4.0+ framework using microsoft visual c#.  this position requires proficiency in the use of nunit/mspec for test-driven .net application development and the ability to complex applications that use web server, application server and database engine architectures. what you definitely have: 1+ years of c# .net 4.0 and higherexperience with unit test frameworksworking knowledge of microsoft sql servergood analytic and problem solving skillswhat we’d also love to see: troubleshooting or support experiencet-sql experiencefrankly put, big data is exploding and our offering around personality analytics is unique within the industry. that positions us for all kinds of interesting avenues for our business, which is allowing our teams to grow professionally, technically and personally. this is exciting technology in an exciting space, and we want you to come join us on this adventure.  if you want to grow and contribute in ways you didn’t expect, contact us today and see what matters.
+
+
+
+
+
+
+
+other facts
+
+
+
+
+
+
+
+other facts what we’re like mattersight values diversity, curiosity and collaboration. employees from all experience levels and backgrounds are intermingled and encouraged to learn about each other’s projects. our offices foster teamwork as well as self-motivation, with a healthy dose of fun thrown in.  where you’ll be mattersight seeks candidates authorized to work without sponsorship in the united states. the junior software developer role will be based out of mattersight’s austin, tx location.  candidates should anticipate little to no travel. what you’ll make mattersight believes that a successful, thriving company starts with happy, satisfied employees. we are prepared to offer a highly competitive benefits and compensation package for the ideal candidate. what else? any questions regarding the position should be communicated to lindsey becker, recruiter, lindsey.becker@mattersight.com.  for more information about mattersight, visit www.mattersight.com. mattersight is committed to equal opportunity and affirmative action in all employment matters: qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, ancestry, marital or domestic partner status, national origin, disability or medical condition, pregnancy, veteran or military status, sexual orientation, gender identity, or on account of membership or affiliation with anyone in any of the foregoing categories, or any other protected category under federal, state or local law. although particular legal provisions may differ in various locations in which we do business, our principles are the same worldwide.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+
+
+
+go back to the welcome page
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,239 @@
+
+
+
+
+job application for data engineer at collective health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at collective health
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+collective health is seeking an experienced data engineer with a real passion for converting data into relevant information. we are on a mission to revolutionize health care. with a team of healthcare experts, engineers, data scientists and designers - think of us as a smart replacement to your traditional health insurance carrier. we’re not building another health app or gadget—we’re building a complete solution to replace your employer health insurance; all while delivering the health care experience that people deserve.
+as a rapidly growing organization with complex regulatory requirements around data access, your code will serve as the glue that enables a wide variety of internal teams to access claims and member data securely and reliably. you'll also work collaboratively with health data scientists and actuaries to productize insights derived from their analysis.
+your end goal is to own, architect, and maintain our data pipelines. your systems will help our immediate clients - employers - ensure their health care funds are spent efficiently. you will both resolve problems and teach people how to resolve their own problems (and also possess the wisdom and know-how on which approach is most appropriate). you display the people skills necessary to collaborate across teams, analytical skills and programming skills to understand data, and automate the process of arriving at insights.
+if you are looking for a challenge and most or all of the following items apply to you, please apply!
+
+minimum 5 years experience working as a software engineer
+experience building data models, infrastructure, and etl pipelines for reporting, analytics, and data science
+experience with aws - including ec2, s3, emr, rds, and redshift
+proficiency with sql and relational database query performance
+knowledge of prestodb, hive, and mapreduce/hadoop is preferred
+experience with statistical analysis packages (sas, r, python/pandas/numpy) a plus
+loves open source software, ships reliable code, and is serious about security
+
+collective health is a technology company working to create the healthcare experience we all deserve. founded in 2013, our team of engineers, designers, product managers, and actuaries are redefining the $1 trillion market of employer-sponsored health benefits with data-driven and people-focused products. our complete health benefits solution helps great companies like activision blizzard, palantir, restoration hardware, and pinterest take care of their people by harnessing the power of design and technology. based in san francisco, ca, we’re backed by some of the best investors in silicon valley including google ventures, founders fund, nea, and redpoint ventures. for more information, visit us at https://www.collectivehealth.com.
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+do you now, or will you in the future require immigration sponsorship to work at collective health? *
+
+
+
+--
+yes
+no
+
+
+anything else you'd like to add?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

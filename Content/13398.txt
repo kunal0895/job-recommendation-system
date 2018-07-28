@@ -1,0 +1,558 @@
+
+
+
+
+
+
+
+
+
+current job openings
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+support: (877) 932.7878datstat academy
+
+
+
+
+
+
+home
+solutions
+
+for providers
+for marketers
+for researchers
+
+
+products
+
+adherence
+daily diary
+econsent
+epro
+proms
+
+
+platform
+about
+
+our story
+leadership team
+jobs
+
+
+blog
+contact us
+
+support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+looking for
+bold opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+smart explorers
+walk through our doors and you’ll experience ingenuity at work. we are a team of smart people who boldly venture into the unknown and seek opportunity. we’re a collaborative environment where a variety of backgrounds bring diverse perspective. we think seriously while having a lot of fun along the way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we are
+datstat believes in making the world a healthier place by supporting health researchers and patient-centered organizations through innovative technology. our solutions power many of the best research studies, clinical trials, registries, and care delivery programs worldwide. we’re proud to call group health, seattle children’s, copd foundation and many other health research and care leaders our customers. our adventurous team works in seattle’s happening belltown area. join us to help health research and patient-centered care achieve new possibilities for a healthier world.
+
+
+
+
+
+
+
+
+
+
+
+
+our culture
+in between our meetings, programming, writing, and other work that help make our company and customers successful, we like to partake in some “non-work” activities (which usually involves some sort of food or beverage).
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+benefits
+we believe in our people, and we understand that the quality and happiness of their lives directly impact the quality of work. so we offer an excellent set of benefits.
+
+
+
+
+
+medical coveragedental coveragevision coveragelife insurance & ad&dstock optionscatered breakfasts weeklypaid time off 15 days!
+
+
+
+
+we are hiring
+we are looking for talented people to join our team.
+ quality assurance (qa) internsales account executivesoftware development engineer ux/ui design lead
+quality assurance (qa) intern
+
+quality assurance (qa) intern
+
+
+
+
+
+
+
+as a quality assurance intern,you are responsible for developing test plans and conducting test cases for projects of varying size, scope and complexity in order to deliver high-quality systems on schedule. the intern documents and tracks all defects. the ideal candidate must be a self-starter, possessing sound judgment, and sound analytical skills. they must be able to work independently and in a fast-paced, team environment. they must be able to manage multiple and competing priorities. they must be willing to gain business and technical knowledge. they must be able to communicate effectively with a broad range of audiences. they will also have a strong sense of customer service and teamwork.
+ 
+
+as an ideal candidate, you will have:
+
+1-3 years of pc software testing experience, particularly client/server network application testing and, web application testing.
+
+
+progress toward b.s in computer science (or equivalent degree / experience).
+
+
+a strong track record of shipping high-quality products.
+
+
+experience with stress and performance testing of network-based applications, particularly database driven applications.
+
+
+superior communication skills, both written and verbal.
+
+
+experience with the following technologies preferred: windows server, sql server 2005/2008, active server pages, iis 6/7, and various testing and performance tools.
+
+
+
+
+check out what you will be doing!
+
+maintain quality requirements that include the design and implementation of methods and procedures for testing and debugging programs.
+
+
+ensure that products are bug-free and stable.
+
+
+ensure that all products perform to written specifications regarding functionality, usability, performance, robustness, and reliability.
+
+
+certify products as ready for release.
+
+
+write test cases.
+
+
+ability to produce and execute test cases produce and execute test cases defect reporting and tracking sign-off on product release.
+
+
+
+
+sales account executive
+
+sales account executive
+
+
+
+
+
+
+datstat provides leading health researchers and healthcare organizations with platform-powered digital health solutions that empower patients to take a more active role in managing their health and wellness. we are looking for a highly entrepreneurial, organized, motivated, and technically savvy sales representative who is interested in driving their sales career in the rapidly growing health it/health research it field. as a sales account executive (sae), you will help customers transform the patient experience through better technology.  you will envision and recommend solutions built on datstat’s platform, exceed sales objectives, and develop sales territories. key performance indicators are sales results, client satisfaction, and territory growth. as your abilities grow, so will your career opportunities!
+ 
+
+as an ideal candidate, you will have:
+
+2-4 years b2b sales experience with platform-powered, enterprise software solutions
+consistent over-achievement of quota objectives
+great personality and ability to work as part of a team
+exceptional verbal, written, and presentation skills
+a strong passion for technology and crm expertise
+bachelor’s degree
+previous experience in health research /healthcare industry (preferred)
+
+
+
+
+check out what you will be doing!
+
+hit your (aggressive) sales numbers.
+develop and maintain an understanding of the territory, market, competitive offerings, and other business issues relevant to this position.
+leverage relationships and success with assigned customers to achieve organic growth to include expansion, product, and service up sell/cross sell.
+maintain a position as a thought leader in your assigned territory through blogging, social presence, and participation in associations, and networking groups.
+develop a pipeline to ensure consistent and predictable success.
+generate and qualify leads based on your own efforts.
+deliver presentations and demonstrations for all services & solutions.
+manage the sales process through qualification, needs analysis, evaluation, negotiation and close.
+consistently document daily sales activities in the crm and provide regular reporting of pipeline and forecast.
+work closely with service and product & development teams to align strategic sales opportunities with company capabilities.
+represent the company, at the highest level, with all customers.
+bring positivity and teamwork to promote a culture of service, quality, integrity and cooperation.
+
+
+
+
+software development engineer 
+
+software development engineer
+
+
+
+
+
+
+as a software development engineer, you will work with the datstat engineering team in the design, and implementation of datstat’s next generation survey and research management platform. our new platform will have you working with cutting edge web and cloud technologies, and you will play a key role as we revolutionize online research. you will need to be a self-starter who can operate in both a team and self-directed contexts. you will have a passion for delivering high-quality web experiences and care deeply about our customers. this position requires healthy doses of initiative and flexibility in a very dynamic environment.
+ 
+
+as an ideal candidate, you will have:
+
+experience with industry standard web technologies, including html, css, javascript, jquery, ajax, json, etc. more than passing knowledge of emerging technologies, including html5, css3, etc.
+
+
+knowledge and experience with a broad number of javascript frameworks / libraries, including bootstrap, jquery, angular js, etc.
+
+
+experience in building scalable web application front-ends in a cloud / saas architectural model.
+
+
+experience developing with the microsoft technology stack, including iis, .net, sql server, mvc, etc. using c#
+
+
+worked in an “agile” environment, using scrum for iterative development.
+
+
+a strong attention to detail and a feeling of pride and ownership over the design and quality of the products you work on.
+
+
+the ability to advocate for best practices, great usability, and exceptional quality.
+
+
+strong verbal and written communication skills.
+
+
+great organizational skills and a strong feel for the process.
+
+
+bs in computer science (or equivalent degree/experience).
+
+
+a passion and desire to work at a company trying to change the world.
+
+
+
+
+check out what you will be doing!
+
+be involved with early planning to understand how new features are intended to work.
+
+
+work with the datstat engineering team in conceptualizing, designing, and implementing industry-leading features on new applications.
+
+
+bring your experience and knowledge to bear in solving web front-end challenges, and in crafting an industry leading, next generation “rich internet application” user experience.
+
+
+have a great time working with great people in redefining how online research is done.
+
+
+
+
+ux/ui design lead
+
+ux/ui design lead
+
+
+
+
+
+
+you’ve been a designer for a few years, biding your time behind other more experienced designers, but you are ready to break out and show that you are ready to lead a product design initiative of your own (and you have the portfolio to prove it).  you are a self-starter, and you can easily operate on a team, or as an individual.  you desire a fast-paced environment where you can have a broad-based impact, where your life won’t be relegated to overseeing the design of some small out of the way feature of gmail that no one uses.  at datstat, as the ux / design lead, you will work closely with datstat’s chief product officer, as well as other internal and external stakeholders, in the design and implementation of datstat’s cutting edge patient and research engagement platform.  additionally, you will assist with datstat marketing and branding efforts, contributing to content and identity design.
+ 
+you will have a passion for delivering high quality user experiences, and care deeply about the design of our products, and their ability to impact patients, clinicians, and researchers lives.  this position requires a healthy dose of initiative and flexibility in a very dynamic environment.
+ 
+
+as an ideal candidate, you will have:
+
+ba/bs in interface design, graphic design, or information design, or equivalent
+
+
+experience working in a software product design program, preferably within a software product company
+
+
+experience working with industry tools for design and sdlc (adobe creative suite, atlassian, basalmiq, etc.)
+
+
+experience designing for consumer, or consumer-like enterprise web applications / software as a service products, with a passion for optimizing user experience and interface efficiency
+
+
+experience with, html, css, and related technologies, including an understanding of web browser capabilities
+
+
+experience working within a collaborative, design driven, team environment, where communication and teamwork are central to success
+
+
+excellent oral and written communication skills, and is has strong interpersonal skills
+
+
+a passion and desire to do amazing work at a company attempting to leave the world a better place
+
+
+
+
+check out what you will be doing!
+
+work alongside our chief product officer as you set the design vision and direction of our flagship web based software products
+
+
+take ownership of datstat’s design process, working closely with datstat product leaders and stakeholders to ensure high quality and timely design deliverables
+
+
+work within datstat’s agile sdlc in delivering tactical design collateral for developers to utilize during their implementation work
+
+
+work with datstat developers to ensure the accurate implementation of the overall design vision as well as individual design goals
+
+
+contribute to the design and evolution of our brand and corporate identity
+
+
+
+
+
+
+
+datstat participates in the e-verify program
+datstat is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+solutions for providers
+for researchers
+for marketers
+
+products datstat adherence
+datstat daily
+datstat econsent
+datstat epro
+datstat proms
+
+ platform
+
+
+about datstat our story
+our approach
+leadership
+careers
+blog
+privacy policy
+
+support datstat academy
+datstat support
+
+
+  from our blog 
+
+top 5 books to read this summer
+
+
+5 requirements to create a successful health app
+
+
+what’s needed for healthcare innovation – health apps or a platform?
+
+
+podcast: managing patient populations for beginners and experts
+
+
+beyond the ehr – what’s really going on with your patient?
+
+
+ 
+subscribe to our newsletter
+
+
+
+
+
+
+
+copyright datstat, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

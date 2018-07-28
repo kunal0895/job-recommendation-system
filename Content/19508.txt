@@ -1,0 +1,276 @@
+
+
+
+
+job application for front-end developer at beyond
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+front-end developer
+
+        at beyond
+      
+(view all jobs)
+
+        austin
+      
+
+
+ 
+beyond is looking for a front end developer to join our austin studio.
+our front end developers work closely with back end developers, ux designers, visual designers, and product leads to deliver compelling web and mobile experiences for our clients and their users. you’ll use html/css, javascript and other tools to bring design comps and wireframed interactions to life while supporting the smooth integration of back end code. as passionate as you are meticulous, you will always apply coding best practices to your work; adhere to specified coding standards and style guides; and help us further the evolution of beyond’s own development standards and practices.
+ 
+what you'll do:
+beyond developers are expected to keep up-to-date with the latest technical trends, tools and techniques, and to share and apply these learnings in their work. the ideal candidate is also an active member of the development community, attending industry conferences, meetups and networking events. in return, we will encourage and support your growth as both a developer and a beyonder. while this is not a heavily client facing position, you should be comfortable presenting technical proposals to clients and coworkers. there may also be the occasional need to work onsite with a client.
+recent code samples must be provided to be considered for this role. please submit samples with your application, preferably via github account.
+required skills:
+advanced javascript development skills:
+
+vanilla javascript
+oop
+dom manipulation
+event model and event propagation
+unit testing
+xhr, ajax, json, api development/consumption
+rich interactions including css and js animations, canvas, svg frameworks/libraries
+modern javascript frameworks like angularjs, react, redux, vuejs, backbone cross browser/platform development
+responsive mobile-first web development
+develop for a variety of browsers and devices
+familiarity debugging browser inconsistencies
+svgs and icon fonts
+
+advanced html and css:
+
+semantically correct and valid code
+accessibility (wcag 2.0 up to aaa)
+complete understanding of html5 tags and attributes
+complete understanding of css3 (media queries, pseudo classes, 3d transforms, advanced selectors)
+
+build tools/workflow:
+
+git
+gulp, grunt
+npm, browserify, requirejs
+sass
+
+production:
+
+adobe cc (photoshop, illustrator, etc)
+ability to slice and prep assets
+pixel-perfect design implementations
+responsive layouts
+
+bonus points for:
+
+full stack javascript (node, meteorjs, reactjs)
+native app development (swift, objective-c or java)
+familiarity with es6, promises, shadow dom, block scoping, etc
+
+ 
+what we offer:
+here at beyond, we work in a fun, fast-paced environment where the user is king and job titles are only a starting point. as thanks for your hard work, we offer a competitive salary, a great health benefits plan, matching 401k, paid parental leave, and loads of other perks. you’ll also get 20 days pto your first year—and 25 days pto after that—plus a week off at christmas and a bonus holiday on your birthday just because.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+code samples *
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

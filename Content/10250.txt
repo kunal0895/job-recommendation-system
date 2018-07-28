@@ -1,0 +1,172 @@
+
+
+
+
+
+bsquare careers
+
+
+
+
+
+
+
+
+
+browse open jobs
+search open jobs
+
+edit your profile
+view submitted applications
+
+
+
+
+job details
+
+
+
+apply online
+
+
+send this job to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition number
+17-0039
+
+
+post date
+8/21/2017
+
+
+title
+data scientist
+
+
+department
+product development
+
+
+employment type
+full-time employee
+
+
+city
+bellevue
+
+
+state
+wa
+
+
+position summary
+
+bsquare is a market-leading provider of enterprise software solutions for the internet of things (iot) market, focused on industrial customers.   bsquare has been in business
+ for over twenty years as a market leader in the enablement of smart, connected devices.  with this background we have successfully evolved into a leading industrial iot solutions provider where we help our customers derive more business value from the data
+ those devices generate through our product, datav.
+if you are looking for the energy of a startup, but want the security that comes with a financially sound, public company, then look no further.
+the result is a unique blend of a startup—fun, dynamic, and high-growth potential— blanketed with financial balance and decades of customer loyalty. with our datav iot software,
+ bsquare is onboarding globally recognized customers and partners today. 
+for more than two decades, bsquare has helped its customers extract business value from a broad array
+ of physical assets by making them intelligent; connecting them, and using the data, they generate to optimize business processes. bsquare datav software solutions can be deployed by a wide variety of enterprises to create business-focused internet of things
+ (iot) systems that more effectively monitor device data, automate processes, predict events and produce better business outcomes. bsquare goes a step further by coupling its purpose-built datav software with comprehensive analytic and engineering services
+ that help organizations of all types make iot a business reality.
+
+we’re looking for a dynamic data expert to work closely with customers and the bsquare sales team to participate in designing, developing, and deploying state-of-the-art, data-driven predictive models to solve business
+ problems using the latest technologies in data mining, statistical modeling, pattern recognition, and performance inference. the data scientist will have the opportunity to work closely with the sales and delivery team to provide data products and insight
+ to promote our datav software solutions, to both new and existing customers. other key responsibilities will include coordinating the delivery of services by departments within the company, and proactively managing customer accounts in concert with the delivery
+ team. due to the high customer-facing nature of the role, it requires someone with outstanding interpersonal skills and a willingness to travel up to 30% of the time.
+
+
+
+
+responsibilities
+
+
+translate business requirements to analytic projects by working closely with internal and external clients.
+data analysis: perform data clean up and statistical analyses and develop an in-depth understanding of large datasets; modify and use various techniques for filtering, pattern
+ identification, feature transformation, extraction and selection. algorithms and modeling techniques: experiment with different types of algorithms and modeling techniques to obtain insight into customer business problems and develop solutions
+ to those problems. prepare model reports for communication with internal and external clients; participate in pre-sales meetings and calls; and provide post-implementation product support.
+demonstrate creative visualization of the results to make it easy to communicate the results, insight, and conclusions to our clients.
+work simultaneously on multiple projects of various size and complexity.
+plan effectively to set priorities and manage project tasks, identify roadblocks and work to get them removed, and understand the importance of meeting deadlines.
+ability to travel up to 30% to meet customers or partners.
+
+
+
+
+requirements
+
+
+ms or a ph.d. in a science, engineering, mathematics, statistics, or computer science field are preferred.
+3 or more years’ industry experience required in predictive modeling and data mining. experience will include employing performance inference, mathematical/statistical modeling,
+ pattern recognition, or data mining/data analysis on real world problems involving large data sets.
+prior customer management and/or small business analytic experience.
+strong problem solving and analytical ability. excellent communication skills. a statistical thinker and quick learner.
+team oriented and at the same time able to work independently with minimum direction.
+experience utilizing common graphical presentation tools or rapid prototyping tools.
+ability to use python, r, sql, or similar to query and manipulate data required.
+comfortable handling ambiguity and shifting gears when required.
+nlp experience a plus.
+java and/or scala development experience a plus.
+apache spark experience a plus.
+sophisticated customer facing skills; experience of delivering formal technical presentations.
+highly self-motivated with ability to work on own initiative as well as part of a larger team.
+
+
+
+
+
+
+equal opportunity employer/protected veterans/individuals with disabilities.please view equal employment opportunity posters provided by ofccp 
+here.the contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access
+ to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure
+ is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information. 41
+ cfr 60-1.35(c)
+
+
+
+
+apply on-line
+
+
+
+send this job to a friend
+
+
+
+
+
+
+
+an equal opportunity employer
+
+
+
+copyright ©  ultimate software
+
+
+
+

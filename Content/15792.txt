@@ -1,0 +1,143 @@
+
+
+	associate application developer #465639 us-tx-dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+associate application developer
+us-tx-dallas
+
+
+
+
+
+apply
+
+view all jobs
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+omnitracs, llc is a global pioneer of trucking solutions for all business models. omnitracs’ more than 1,000 employees deliver software-as-a-service-based solutions to help more than 12,000 customers manage nearly 1,100,000 assets in more than 70 countries. the company pioneered the use of commercial vehicle telematics over 25 years ago and serves today as a powerhouse of innovative, intuitive technologies. omnitracs transforms the transportation industry through technology and insight, featuring best-in-class solutions for compliance, safety and security, productivity, telematics and tracking, transportation management (tms), planning and delivery, data and analytics, and professional services.
+job summary: 
+the associate application developer designs and develops features based on system design documents; integrating and testing features with omnitracs sub-systems; debugging and testing field issues with mobile software; troubleshooting integration and deployment issues and developing alternative solutions, workarounds, and triaging to resolve software issues.  ensuring effective communications and team collaboration between the mobile software, testing and other omnitracs teams are also essential to success.
+essential responsibilities and duties:
+
+design and develop mobile software features based on system design documents
+integrate and test mobile software features with omnitracs sub-systems
+debug and test field issues with mobile software
+troubleshoot integration and deployment issues and develop alternative solutions and workarounds
+triage and resolve software issues
+effectively liaise with mobile software, testing and other omnitracs teams
+effectively manage multiple projects in a variety of disciplines
+perform other duties as may be assigned
+
+ 
+
+
+skills & requirements
+qualifications:
+
+education:  bachelor’s degree in computer engineering, electrical engineering, or computer science preferred.
+
+
+experience:  0-2 years’ experience with proficiency in java/j2ee development (language and tools) and or .net.
+
+knowledge/skills/abilities:
+
+solid knowledge of software design, implementation, and testing
+experience with software design, implementation and test skills
+experience with software development and exposure to object-oriented concepts and design patterns
+end-to-end system knowledge, including various networking and ota protocols
+problem solving skills
+exposure to j2ee based application development
+exposure to relational database like sql server and/or oracle rdbms
+
+
+possess good interpersonal, written, and verbal communication skills and be comfortable working with multiple stakeholders on a project to understand and explain highly technical information in a clear and concise manner
+ability to strategize in a variety of project areas
+excellent organizational and time management skills
+ability to respond quickly to changing requirements
+ability to work independently
+ability to multitask with and understand, coordinate, facilitate and guide a variety of disciplines such as software development, system integration and testing and operations.
+
+ 
+
+ 
+
+disclaimer:  this job description indicates the general nature and level of work expected of the incumbent(s).  it is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent.  incumbent(s) may be asked to perform other duties in addition to those described above.
+ 
+omnitracs llc, is an equal opportunity employer and does not unlawfully discriminate on the basis of any status or condition protected by applicable federal, state, or local municipal law.
+
+
+
+
+
+apply
+
+view all jobs
+
+
+ 
+
+careers @ omnitracs
+omnitracs aims to provide not only the best in mobile business intelligence for the ever-evolving transportation and logistics industry, but also to support team leadership and development.  we strive to create a successful work environment and reach new levels of success in our industry.
+at omnitracs, you can enjoy a casual, fun atmosphere that breeds innovation, the resources to drive a great concept to completion and the openness to bring together the right teams. take a closer look at our opportunities.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+
+skip to main content
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact cchd
+provide feedback
+
+
+help
+
+
+help
+
+
+
+
+back
+job descriptionactions list
+help
+  
+
+
+
+
+
+
+
+
+
+
+previous job
+job titledata scientist (early/mid-career)
+next job
+apply for job
+job id659396
+locationlivermore, ca
+full/part timefull-time
+regular/temporaryregular
+add to my favorite jobs
+email this job
+qualifications we require
+
+  bachelor’s degree in stem discipline. master's or phd in computer science, data mining, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline;  fluent in high-level programming languages such as python or matlab; fluent in one or more object oriented languages like java, scala, c#, c++; experience with spark, hadoop, pig or other mapreduce-based architectures; experienced in operating linux-based systems; record of advancing the state-of-the-art in network and graph analysis, machine learning, applied statistics, applied mathematics, and other related fields of study; ability to travel; ability to obtain and maintain a u.s. doe q-level security clearance.
+
+qualifications we desire
+
+  strong academic performance (i.e. high gpa); publication record indicative of relevant research expertise; passionate about working with large unstructured and structured data sets with demonstrated ability to acquire, prepare, and characterize real-world data for subsequent analysis; demonstrated ability to team in an interdisciplinary r&d environment; demonstrated community leadership through activities such as participation in student or professional organizations, service on committees, and workshop and/or conference organization.
+
+about our team
+
+ the data science & cyber analytics department develops new techniques and tools in machine learning, data analysis, and numerical and discrete algorithms. the department is especially focused on matrix and tensor methods, adversary-aware analytics, at-scale streaming and sampling methods, graph and network analysis, and game theory. the department generates publications in leading technical journals and conferences as well as software that is freely available to the research community. these techniques are largely focused on real-world data with a particular focus on cyber applications. our efforts impact a wide range of domains ranging from national security applications to basic and applied research.
+
+about sandia
+
+ sandia national laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. some of the main reasons we love our jobs: challenging work with amazing impact that contributes to security, peace, and freedom worldwide extraordinary co-workers some of the best tools, equipment, and research facilities in the world career advancement and enrichment opportunities flexible schedules, generous vacations, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance*world-changing technologies. life-changing careers.  learn more about sandia at: http://www.sandia.gov*these benefits vary by job classification.
+
+security clearance
+
+ position requires a department of energy (doe) granted q-level security clearance.sandia is required by doe directive to conduct a pre-employment drug testing, and a pre-employment background review that includes personal reference checks, law enforcement record and credit checks, and employment and education verifications. applicants for employment must be able to obtain and maintain a doe q-level security clearance, which requires u.s. citizenship.applicants offered employment with sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a doe security clearance. substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by the doe, rendering the inability to perform the duties assigned and resulting in termination of employment.
+
+eeo
+
+ equal opportunity employer/disability/vet/glbt
+
+what your job will be like
+
+ we seek an r&d computer scientist with a focus in in applied math and statistics, computer science, and data sciences to join an interdisciplinary team of researchers growing a foundational data science research effort with applications to cyber security.   drawing from a broad set of capabilities and tools, our staff are challenged by data-intensive research problems that lead to fundamental advances in areas including graph analysis, machine learning, multilinear algebra, statistics, sampling and streaming methods, with application to analysis of networks and traffic on them, text, and other discretized data.   successful staff are encouraged to demonstrate technical, programmatic, and operational leadership for high impact to national security programs, as well as publish and present outstanding new developments in peer-reviewed journals and at conferences, and to develop open-source software.  on any given day, you may be called on to: conduct research in areas including graph analysis, machine learning, multilinear algebra, numerical optimization, sampling and streaming methods, computational simulation and high-performance computing, with application to network and cyber security analysis.the staff member will be responsible for planning, conducting, and executing the work as part of a collaborative multidisciplinary team of researchers within and extending beyond the data science department.  the ability to interact and cooperate with a diverse set of colleagues is a strong advantage in this position.
+
+apply for job
+careers
+sign in
+new user
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+test
+
+
+
+
+

@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+machine learning scientist - fathom computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company website
+          
+
+
+
+
+
+
+
+machine learning scientist
+
+
+
+              palo alto, united states
+            
+
+
+
+
+
+
+
+
+
+job openings
+
+
+machine learning scientist
+
+
+
+
+
+
+
+
+
+
+
+machine learning scientist
+
+job description
+
+
+do you want to be on the frontier of machine learning research and eventually have access to more ml compute power than anyone else on the planet?
+fathom is building optical computer with massive advantages over existing electronic computers. work alongside systems engineers, optical physicists, computer architects, and materials engineers to deliver hardware capable of training vast artificial neural networks with as many neurons and connections as the human brain.
+we’re seeking a talented machine learning scientist with strong first-principles understanding of neural networks.
+as a machine learning researcher at fathom computing, you will:
+
+implement cutting-edge machine learning algorithms on our unique hardware
+think through several layers of abstraction all the way from lower level circuits through instruction set architecture.
+design new ml algorithms for future hardware systems
+develop, adapt and map general machine learning algorithms based on features of our hardware
+invent new models that combine unsupervised and supervised learning with the kind of creativity usually reserved for blue-sky research projects
+
+
+
+requirements
+
+
+
+deep passion and fundamental understanding of design, algorithms, and data structures in modern machine learning and ai
+strong understanding of the fundamentals of neural networks and common general algorithms including rnn, cnn, rl
+strong analytical skills (probability, optimization, etc.)
+some experience working with large models
+depth and breadth of knowledge in the field, including recent research results
+some familiarity with computer architecture and implementing algorithms on multi-core cpus, gpus, and perhaps mpi clusters or heterogenous clusters
+some knowledge of current frameworks such as tensorflow, theano, etc.
+high creativity and productivity
+efficient and effective written and verbal communication
+extensive experience and accomplishment are recommended but are not an absolute requirement.  master’s or phd, or equivalent knowledge in computer science, electrical engineering or related fields (statistics, applied math, computational neuroscience). 
+
+
+
+apply for this job
+
+
+
+
+apply for this job
+
+apply with linkedin
+
+
+  apply with indeed
+
+
+
+
+
+share this job opening
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+
+
+
+
+google+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hiring with
+
+
+
+
+

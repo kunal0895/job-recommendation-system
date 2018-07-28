@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+java developer ~
+
+
+location:
+costco corporate office
+
+
+order number:
+2197
+
+
+# of openings:
+1
+
+
+
+description
+description of position 
+costco is looking for a dedicated and experienced java  developer  to design, develop, maintain, extend applications and implement projects based on the ibm sterling order management system (oms) in accordance with the costco development and project management methodologies and practices.  this is an excellent opportunity to work on various internal and external applications focused on automating and modernizing the order management processes for a fortune 50 company.
+ 
+tasks and responsibilities
+
+
+develop java based extensions of sterling oms, java/ee, and oracle and middleware technologies.
+
+
+design and implement sterling oms solutions into existing environments and designing business workflows to ensure proper application mapping/flow.
+
+
+support a wide range of technology projects using sterling oms, including configurations, software development, installation of patches and upgrades, etc. 
+
+
+collaborate with business analysts, solution architects, quality assurance analysts, software developers, and release analysts in a devops model to extend the capabilities of the sterling oms platform. 
+
+
+partner with other technical teams (middleware, database, infrastructure, etc.), create interface documents and mappings to ensure that the oms sterling is built in a service oriented architecture manner. 
+
+
+participate and support in the solution testing and deployment. 
+
+
+provide technical expertise in establishing processes and procedures to ensure standards are followed.
+
+
+consult on short and long term project planning efforts as relates to software development.
+
+
+develop and document standard operating procedures, best practices and technical documentation in a technical repository.
+
+
+foster a strong team dynamic.
+
+
+provide 3rd-level application support for the oms system/interfacing applications.
+
+
+available for periodic off-hours work required including weekends and holidays.
+
+
+available for 24 by 7 support as necessary.
+
+
+assists in other areas of the department and company as necessary.
+
+
+ 
+required skills, abilities, and certifications
+
+
+5+ years of java development experience.
+
+
+ability to collaborate with other technical experts and develop solution and functional design documents to support development of final solutions.
+
+
+writing of product extensions and interfaces to ensure proper functionality and integration with other systems.
+
+
+proven ability to partner with quality assurance teams to develop and execute automated testing scenarios to support end-user and performance-based testing.
+
+
+experience in oracle and middleware technologies.
+
+
+excellent verbal and written communication skills with proven ability to partner with stakeholders inside and outside of is as well as vendors and other external entities.
+
+
+ability to work independently with minimal direction be a self starter with strong initiative, and ability to manage/execute workload to deliver high quality results.
+
+
+proven ability to provide project estimates and lead technical teams to consistently meet commitments.
+
+
+excellent troubleshooting skills and the ability to logically think through problem resolution.
+
+
+ 
+recommended skills, abilities, and certifications
+
+
+4+ years of experience designing and implementing sterling oms solutions into existing environments.
+
+
+experience with the following components of sterling oms:  sterling distributed order management, selling and fulfillment, global inventory visibility, reverse logistics, supply collaboration.  
+
+
+additonal experience with sterling webcallcenter, sterling webstore and sterling rcp would be preferable but not required.
+
+
+4+ years of experience in a sterling oms production support team lead or related role, which includes: familiarity with websphere commerce and experience with jms messaging services.
+
+
+configuration/administrator level knowledge using sterling order management components, api's, related interfaces and configuration.
+
+
+strong leadership and teambuilding skills.
+
+
+experience delivering complex but scalable business driven solutions.
+
+
+
+
+ 
+apply:  use the link below to upload all required documents to 
+https://chm.tbe.taleo.net/chm02/ats/careers/requisition.jsp?org=costco&cws=1&rid=2197
+applicants and employees for this position will not be sponsored for work authorization, including, but not limited to h1-b visas.  if hired, you will be required to provide proof of authorization to work in the united states.  apart from any religious or disability considerations, open availability is needed to meet the needs of the business.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

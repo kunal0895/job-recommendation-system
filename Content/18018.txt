@@ -1,0 +1,317 @@
+﻿
+
+
+
+
+front end web developer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+front end web developer 
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-00891
+
+location: 
+san jose, california
+
+start date: 09/19/2017
+
+
+
+
+ description:
+are you interested in building brand-new, commerce-related applications powered by ai, messaging platforms, and cloud technologies? the new product development team at ebay is doing just that, and we are looking for engineers who are passionate about the latest technologies to build these experiences for a new generation of users. 
+
+as a software development engineer, you will be writing mobile-optimized web applications and experiences that engage users through conversational commerce and multimedia interactions, helping them find the perfect products from the billion listings on ebay. 
+
+job requirements: 
+• bachelor's degree in computer science or equivalent 
+• at least 4 years of experience building high performance web applications on mobile and desktop 
+• expert programmer in javascript (es6/es2015 experience a plus) 
+• experience building node.js apps with express or other node.js web frameworks 
+• experience using react.js or other javascript framework for rendering components and managing application state (redux experience a plus) 
+• strong knowledge of html and css for rendering in a dynamic, cross-browser way (responsive design experience a plus) 
+• knowledgeable on http(s) protocol and experience in consuming json-based rest endpoints for fetching application data 
+• previous experiences with building and deploying web applications to multiple locales 
+• experience in unix/linux commands/scripting, docker, and git (or other scm) highly desirable 
+• other programming experience, especially functional programming (scala) is a plus 
+• cloud experience a plus (gcp, aws, etc) 
+• excellent communication and collaboration skills 
+• highly motivated, life-time learner, passionate about delivering quality products 
+
+team: 
+working on a digital assistant/chat bot to help users explore/augment the ebay experience. this will enhance the shopping experience. work will involve moving data, updating ui, working with google cloud to focus on cutting edge technology. it will be a learning experience. 
+
+must have: 
+nodejs 
+react.js 
+html, rest, and css 
+google cloud 
+
+preferred: 
+-would like to see candidates from ai companies like google, amazon and apple or experience with ai 
+
+interview procces: online problem, phone 30 min-1 hour, followed by onsite: 1+ hour usually 2
+ 
+
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

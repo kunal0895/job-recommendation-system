@@ -1,0 +1,865 @@
+
+
+
+
+
+thermo fisher scientific - software engineer job in hillsboro, or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+discover our stories
+career areas
+
+
+engineering
+field service
+finance
+general management
+human resources
+operations & supply chain
+quality
+regulatory
+r&d
+sales & marketing
+software & it
+military & veteran
+students & new grads
+
+
+our culture
+
+
+our mission & values
+what we do
+our brands
+diversity & inclusion
+corporate responsibility
+awards
+
+
+employee experience 
+
+
+5 reasons to work at thermo fisher
+benefits
+how to apply
+virtual lab training
+
+
+locations 
+
+
+north america
+rochester
+sparks
+emea
+latin america
+apac
+china
+australia / new zealand
+southeast asia
+india
+korea
+japan
+
+
+featured areas 
+
+
+bioproduction
+
+
+events
+
+
+
+explore
+
+
+
+careers at
+thermofisher scientific
+
+
+
+ what story will you tell?
+
+
+
+
+search jobs
+
+
+
+
+category
+
+category
+accounting/auditing
+administrative services
+bioinformatics
+business management
+communications
+corporate strategy development
+customer service
+engineering
+facilities / real estate
+featured
+field services
+finance / economics
+human resources
+information technology
+internship & apprenticeship
+legal & compliance
+manufacturing & production
+marketing
+new grad
+operations
+procurement / purchasing
+product management
+project management
+quality
+regulatory
+research & development
+sales
+scientist
+software development
+supply chain / distribution
+
+
+
+
+
+country
+
+select a country
+
+
+
+
+
+state/region
+
+ select
+
+
+
+
+
+city
+
+ select
+
+
+
+
+search
+
+
+or search by keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careeropportunities
+what story will you tell?
+
+
+
+
+
+
+
+
+
+careers home > 
+job details
+
+
+
+
+
+
+
+
+
+    software engineer
+
+  
+
+
+apply now >>
+       
+
+
+
+job id : 
+58607br
+
+
+location : 
+us - oregon - hillsboro
+
+
+ : 
+job descriptionwhen you’re part of the team at thermo fisher scientific, you’ll do important work, like helping customers in finding cures for cancer, protecting the environment or making sure our food is safe. your work will have real-world impact, and you’ll be supported in achieving your career goals. as the world leader in serving science, we empower our people to advance innovative technologies, develop meaningful solutions, and build rewarding careers. with revenues of $18 billion and the largest investment in r&d in the industry, we give our 55,000 extraordinary minds the resources and opportunities to make significant contributions to the world. we are looking for self-motivated individual with strong software skills to work in a group focused on automation software to control thermo fishers transmission electron microscopes marketed in our semiconductor business. in this position, you will join a team developing the preeminent innovative wafer-to-atomic information workflows, enabling our semiconductor customers to make timely decisions. by accelerating the information age, you will be helping make the world healthier, cleaner and safer.if you are an experienced software developer with a background in developing and delivering great software, excellent communication skills, and you enjoy working with smart people… then read on!this team builds user interfaces, computer vision algorithms, and machine automation routines to simplify operator experience with transmission electron microscopes. data acquired is used for process control and root cause defect analysis in the semiconductor market. if you enjoy development of software to control machines over building a line of business or mobile app, this is an excellent opportunity. responsibilities:perform software design, coding, integration and testing for the development of machine control applications to control transmission electron microscopes in cooperation with the product manager and key technical stakeholders.develop designs based on a full comprehension of the function, purpose and application of the product.package and communicate highly technical concepts to both technical and non-technical audiences.troubleshooting and debugging of software programs in a simulation as well as on the microscope systems available for development.conduct bug fixing on existing issues through software implementation, development of test methodologies and performing unit tests.act as the authoritative owner of multiple functional characteristics and/or modules of the specified software application.mentoring and coaching less experienced software engineers within the team. minimum qualifications:discipline, pride, and professionalism to write clean, unit-testable code.ability to troubleshoot and debug complex software applications.excellent interpersonal communications skills are required due to the high degree of interaction and collaboration across functional groups.willingness to roll up your sleeves and do what's necessary to drive your projects to completion.4+ years of relevant work experience​​typically requires a university degree in computer science, physics, math, or related technical discipline. an advanced degree is preferred.c# experience​eligible for passport and able to travel. preferred qualifications:background in data science, machine learning, and/or artificial intelligence techniques is highly desirable.knowledge of microscopy (optical/florescence, fib, sem, temjava experiencedevelopment experience with highly-integrated, high-performance systems used in semiconductor capital equipment or related industries. at thermo fisher scientific, each one of our 65,000 extraordinary minds has a unique story to tell. join us and contribute to our singular mission—enabling our customers to make the world healthier, cleaner and safer. apply today http://jobs.thermofisher.com thermo fisher scientific is an eeo/affirmative action employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.thermo fisher scientific is an eeo/affirmative action employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.
+
+
+
+apply now >>
+       
+
+
+
+
+
+
+
+
+join our talent community
+if you're ready to make a difference in the world, you can do it here.
+join 
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the stories we tell
+
+
+
+
+
+
+ 
+
+
+
+
+my work is a story of momentum
+
+
+
+
+
+
+ 
+
+
+
+
+inspiring future scientists
+
+
+
+
+
+
+
+our mission is to enable our customers to make the world healthier, cleaner and safer.
+
+
+
+
+about thermo fisher scientific
+
+					thermo fisher scientific inc. (nyse: tmo) is the world leader in serving science, with revenues of more than $20 billion and approximately 65,000 employees globally. our mission is to enable our customers to make the world healthier, cleaner and safer. we help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity. through our premier brands - thermo scientific, applied biosystems, invitrogen, fisher scientific and unity lab services - we offer an unmatched combination of innovative technologies, purchasing convenience and comprehensive services.
+				
+
+
+
+
+premier brands
+
+thermo scientific
+applied biosystems
+invitrogen
+fisher scientific
+unity lab services
+
+
+
+follow us
+
+facebook
+glassdoor
+linkedin
+twitter
+youtube
+
+
+
+company information
+
+about us
+investors
+newsroom
+responsibility
+careers
+
+
+
+
+
+
+
+
+
+© 2017 thermo fisher scientific, inc. all rights reserved.
+
+
+
+accessibility/disability access
+terms & conditions
+privacy statement
+eeo & affirmative action statement
+sitemap
+powered by smashfly
+
+
+
+
+
+
+
+				all qualified applicants will receive consideration for employment without regard to race, creed, religion, color, national or ethnic origin, citizenship, sex, sexual orientation, gender identity and expression, genetic information, veteran status, age or disability status. read more
+pay transparency nondiscrimination provision. read more
+philadelphia's fair chance hiring law read more
+
+disability access
+					if you are an individual with a disability who requires reasonable accommodation to complete any part of our application process, including the use of this website, please click here.
+
+							applicants have rights under federal employment laws; family and medical leave act (fmla); equal employment opportunity (eeo); and employee polygraph protection act (eppa).
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

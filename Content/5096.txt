@@ -1,0 +1,60 @@
+
+
+
+
+spatially - jobs: jr data scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+jr data scientist
+
+jr data scientist
+boston, massachusetts, united states
+
+descriptionwe need a data scientist and data wrangler. we think that the spatial relationships in the world tell a hidden story. and we need you to help us understand it. we have spatial datasets to explore, big datasets to model, and administrative datasets from which we need to extract confessions. we need someone who can imagine creatively data sources that will answer our burning questions. someone who can hunt those datasets down, extract them, stitch them together, clean them up, and make them talk.traits  you’re irrepressibly curiousyou do edayou label your axesyou annoy people with questionsyou don’t take anything at face valueyou over communicateyou collaboratetalentsyou get stuff doneyou self-directyou find a way forwardrequirementswe’re looking for someone who tilts more analytic and less of a code-shipper. you’ve been doing some analytics professionally or academically for at least a couple of years. you need to be as comfortable talking about insights with the laity as you are in a terminal window. the list below builds from the indispensible to the nice-to-have. you have a solid, academic background in statistics, computer science, gis, or some other technical bent. a technical undergrad and/or practical/applied graduate work is required. you can demonstrate that you have modelled some datasets before. you know the difference between classification and regression. you know what a confusion matrix is. you think about the variance-bias tradeoff. better still if you have some demonstrable experience with more advanced machine learning methods like neural nets and random forests. sql, some variety. maybe you’ve worked with postgres, hive, oracle, mysql. you don’t have to be an expert. bonus if your sql is deeper: e.g. you know when an outer join is the solution over an equijoin. you have worked with some big data tools in the hadoop ecosystem. better still if you’ve done some pyspark.  you text. we’re talking about bash. you’ve typed sed, cut, awk, or grep at a shell prompt more than a few times.  you’ve worked with spatial data. you’ve done a little gis/spatial analysis. you’ve encountered a problem with coordinate reference systems. you’ve done a spatial join. you can help us with geocoding. you’ve worked with some well-known datasets before: census, some kind of administrative data, maybe survey data.  you have shipped code in a collaborative environment. you have used github or bitbucket or the like.benefitsour culture is casual, lean (kanban), very curious, deeply technical, supporting, cloud run, independent, diverse and ambitious. spatially is a privately funded startup with team members in boston, seattle and miami.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+spatially website
+
+powered by
+workable
+
+
+
+
+

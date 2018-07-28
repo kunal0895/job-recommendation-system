@@ -1,0 +1,277 @@
+
+
+
+
+gogo corporate careers - sr. big data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+about gogo
+sign in
+my account
+faq/help
+
+
+
+about gogo
+
+toggle menu
+
+
+
+careers
+
+press room
+
+concourse blog
+
+investors
+
+leadership
+
+history
+
+partner with gogo
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+
+careers at gogo
+
+
+
+
+
+
+
+
+
+
+
+                sr. big data engineer
+    
+    
+
+                            platform and services            
+                    chicago,
+                            illinois
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+position at gogo commercial aviation
+
+
+managing the internet service for customers flying on thousands of flights around the globe every day requires a lot of moving pieces, and the way we manage data in this environment is a hugely critical piece of the puzzle.  gogo has spent the last several years modernizing its software development and is in the final stages of moving its stack to the cloud. we have embraced devops and developer empowerment with single click deployments to production. we’re now embarking on our new phase of development with our move to more event driven designs and systems enabling us to have a data driven mindset.to help with this transition. we're looking for skilled software developers and data engineers who have broad experience and a passion for modern data systems. we are migrating to an event driven architecture, embracing technologies such as kafka, spark streaming with elasticsearch among others.this role will join in our ever-growing data team and help drive and build these data initiatives within gogo. the engineer will help us set and execute our data engineering strategy and development.basic qualifications  bachelor's degree in information science / information technology, computer science, engineering, mathematics, physics, or a related fieldstrong developer background with passion for data systems.5+ years experience in one or more languages such as java, python, r, and scala.2+ years with one or more big data technologies is a strong plus with spark, hadoop, and elasticsearch being key areas of focus.experience with kinesis or apache kafka.amazon emr / athena skills are a benefit but not critical.skills in sql and classic database designs is a plus.nosql experience a plus.understanding of telecom systems and networks and their events is a plus.preferred qualifications  2 or more years of experience developing data based software solutions.gogo’s worldwide inflight wi-fi services have made internet and video entertainment a regular part of flying. we are a diverse group of technologists, marketers, strategists, and any other function you can think of- all working together in extraordinary harmony. and that’s just the beginning.we connect the aviation industry and its travelers with innovative technology and applications, and we do it all in a high-energy environment that welcomes the next challenge. be prepared for a dynamic ride with people who are passionate about what they’re building. gogo is an equal opportunity employer and works in compliance with both federal and state laws. we are committed to the concept regarding equal employment opportunity. qualified candidates will be considered for employment regardless of race, color, religion, age, sex, national origin, marital status, medical condition or disability.  the eeo is the law and is available here.gogo participates in e-verify. details in english and spanish. right to work statement in english and spanish. 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+more gogo
+about gogo
+
+careers
+
+press room
+
+concourse blog
+
+investors
+
+leadership
+
+history
+
+partner with gogo
+
+
+
+
+
+connect
+facebook
+linkedin
+instagram
+twitter
+
+
+
+
+
+sign up for gogo news
+
+
+sign up now
+
+
+
+
+
+
+
+
+
+
+©2016 gogo llc. all trademarks are the property of their respective owners.terms of use privacy policy policies site map
+
+
+
+
+
+
+
+
+
+
+connecting you from our headquarters in the heart of chicago
+111 n. canal st.chicago, il 60606
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

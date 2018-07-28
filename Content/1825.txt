@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: software engineer (113676) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+                              sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: software engineer (113676)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition id 113676 - posted 11/30/2017 - college grad - cto - software development - austin - texas - united states - americas
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+through the use of modern datacenters, cloud technologies, and containers ea tech ops is bringing unrivaled reliability and performance to millions of players around the world. design and build distributed software systems to manage large scale multi-region infrastructure.
+ 
+tasks:
+ 
+
+build and maintain high-performance, fault-tolerant, scalable distributed software systems
+solve problems at scale (>20k servers)
+contribute code on a daily basis
+work with cutting edge technologies such as docker and mesos
+work with dedicated servers, private clouds technologies, and public clouds
+be an active contributor to open-source projects
+
+ 
+required skills:
+ 
+
+bachelor's degree from an accredited education institution in computer engineering, computer science, information systems or equivalent
+keen interest in devops methodologies and technologies (docker, chef, puppet, etc..)
+analytical and problem solving skills aligned with enthusiasm, aptitude, attitude and motivation to learn
+working knowledge of at least one of the following languages: go, python, or ruby
+working knowledge of distributed source control such as git
+exposure to various front-end languages such as as html, javascript, and css
+experience with general system administration and shell scripting
+experience with various server operating systems such as red hat/centos, ubuntu/debian, and/or windows server
+working knowledge of database concepts, database structures, relational data bases and related applications
+understanding of document and/or key/value store such as cassandra, memcached, reddis, rethinkdb, or mongodb
+excellent communication and presentation skills
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

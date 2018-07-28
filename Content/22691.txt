@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1955744
+												
+
+
+job title
+												
+
+telematics platform software engineer
+
+
+
+
+post date
+													
+
+12/07/2017
+													
+
+
+
+
+
+
+														company
+													
+												
+
+
+
+																	qualcomm innovation center
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - software                          
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+qualcomm has pioneered connected car technologies for over a decade and continues play a central role in the evolution of automotive infotainment, autonomous driving & its supporting technologies in 4g/5g, adas, deep learning etc., across the globe.  qualcomm is working closely with standards bodies, consortiums, automakers and operators on advancing vehicle-to-vehicle (v2v) and vehicle-to-everything (v2x) standards and architectures, and is a key member in the towards 5g initiative for advancing cellular v2x (cv2x) capabilities on the road to 5g. with connectivity integrated into the latest infotainment, cluster and telematics systems qualcomm will make travel safer, more efficient and enjoyable. 
+
+we welcome smart, energetic software engineers with a passion to make a positive difference on the many technologies and automotive products that will shape our future  to join our growing,  multisite development team. 
+
+this engineer will play a hands-on developer role, with specific software development efforts in new platform feature  and implementation,  virtualization,  bring-up, deep performance and  analysis/improvements, linux platform/framework development, yocto upstream asset analysis, upgrades and community participation.  the candidate will be expected to debug & resolve issues, develop/contribute across the linux software stack, coordinating with appropriate technology experts across the organization for code submission, review, and distribution.
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+3+ years experience in c/ programming and debugging, one or more real-time operating systems on  processors3+ years experience in high level embedding operating systems: linux, open embedded/yocto2+ years experience in modem protocols, networking stacks, ip security, routing/switching.2+ years experience with low level software/ interface , boot-loaders and linux device drivers development and debug2+ years experience in hw/board bringup, pre/post silicon validation and exposure to equipment such as oscilloscopes and  analyzers.2+ years experience with industry standard software development tools: hsw/he debuggers, code revision  systems (git, perforce), ides and build tools**recent college graduates or candidate with 2 years industry experience are also welcomed.**
+
+
+
+preferred qualifications
+													
+
+
+
+candidate should have technical experience with analytic, debugging oriented challenges.
+have good oral and written communication skills to work with developers across the different sites
+experience in automotive vehicle network technologies such as can, ethernet, dsrc, v2x.
+experience in coordination with multiple technology teams, program and product teams, and test engineering.
+experience in automotive software development processes and practices (like automotive spice)  a plus
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: bachelor's, computer engineering and/or computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

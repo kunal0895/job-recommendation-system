@@ -1,0 +1,219 @@
+ 
+
+
+
+
+
+
+
+
+
+full stack developer (3 openings) #0048 job at 1904labs in saint louis, mo, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+full stack developer (3 openings)
+cloud software development operations | saint louis, mo | full time
+
+
+
+
+
+
+job description
+
+
+about us
+just like how the 1904 world’s fair brought innovation to st. louis, 1904labs inspires innovation in new and exciting ways by bridging gaps between the talent community and clients who have cutting edge needs.
+we provide our team members with challenging and rewarding work, competitive compensation and the opportunity to openly pursue their own individual startup ideas during the work day. we challenge the conventional norms by encouraging our employees to innovate their own product ideas during collaboration times, separate from our client work.
+at 1904labs, we are agile and innovative technologists. cutting edge technologies don’t scare us, they fuel our fire.
+the role
+as a full stack developer, you would be responsible for the analysis, design, and development of application software.  each team member is expected to have the right attitude and aptitude required to embrace new technologies such as real-time streaming analytics from connected devices, mobile data collection and computing systems.
+requirements
+
+
+java: experience with java web development + spring boot framework
+
+
+javascript: experience with "single page" web frameworks such as angular2,  react /redux as well as a deep understanding of utilizing json based services
+
+
+agile: experience working in an agile team oriented environment.
+
+
+oo programming / design patterns: understanding of object oriented programming and best practices for developing robust solutions as well as experience using standard design patterns to solve common problems.
+
+
+attitude / aptitude: candidates must be adaptable and have a drive to learn new technologies and frameworks to support r&d interests
+
+
+database: experience with postgresql as well as other database technologies.
+
+
+one or more of the following specialty skill: node / scala / react / redux / angular / hbase / aws / cloud foundry / docker
+
+
+distributed architectures: experience working with distributed architectures including soa based solutions and or aws implementations.
+
+
+desired skills
+
+
+build tools: experience with javascript build tools (webpack, r.js, grunt, bower, etc.)
+
+
+static analysis tools: experience with code quality tools (e.g. eslint, jshint, pmd, sonar) as well as integration into a build process.
+
+
+ci / testing automation: full scope test automation from unit to behavioral/functional to integration (e.g junit, scalatest, jbehave, cucumber). experience integrating these frameworks into a continuous integration environment
+
+
+analytics expertise: ideal candidate will have experience with various analytics tools used for working with big data.
+
+
+perks
+
+
+standard benefits program (medical, dental, life insurance, 401(k), professional development and education assistance, pto)
+
+
+innovation time  - we allow 10% of your time to be devoted to innovation hours.  this time can be used to foster individual ideas, personal projects, start up ideas, improve an open source tool or for career advancement and self-education.  all during traditional working hours.
+
+
+dress code - we don't have one
+
+
+these roles are located in st. louis, mo.  while we would prefer local candidates your location is not the most important factor; please help us understand why you would like to call st. louis home if you would be relocating
+
+ 
+
+
+
+
+
+return to 1904labs
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to 1904labs
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

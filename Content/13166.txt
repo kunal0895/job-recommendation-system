@@ -1,0 +1,140 @@
+
+
+
+
+new york stem cell foundation careers - associate software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                associate software engineer
+    
+    
+
+                            computers/software            
+                    new york,
+                            new york
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+associate software engineerthe new york stem cell foundation (nyscf) is a rapidly growing and highly successful nonprofit whose mission is to accelerate cures through stem cell research. we are a vibrant, growing organization that advances cutting-edge stem cell research in our own laboratory and through support for talented scientists at other institutions.nyscf is seeking applications for a talented associate software engineer to join our multi-disciplinary team in the development of the global stem cell array, a robotic system that automates both ipsc derivation and downstream differentiations and assays. the associate software engineer will be responsible for developing desktop and web applications to automate and optimize laboratory processes, acquire and analyze data, and provide new capabilities for our scientists and project managers.this position will report to the senior software engineer, and will work both independently and as a team on a wide range of exciting projects. the role will involve collaboration with fellow members of the array team, which consists of biologists, robotics engineers, data scientists and project managers.lab automationdevelop and improve the software stack that comprises nyscf’s central laboratory information management system, become a master of front- and back-end developmentlearn the ins and outs of a state-of-the-art stem cell research laboratory, communicate directly with scientists to understand their needs and transform concept into codeadapt to the fast-paced, evolving nature of nyscf’s research institute, rise to meet the demands of increasingly complex technical projectsspecial projectsbuild data reporting/visualization tools for nyscf’s administration teamscollaborate with stem cell biologists to develop ad hoc software/hardware solutions, integrating arduino, raspberry pi and/or special laboratory equipmentorganizationlearn and apply best practices in a feedback-centric, agile software engineering team to ultimately produce clean and highly optimized coderequired skills and experiencedemonstrated proficiency in .net languages such as c#, c++ or visual basicexperience with sql and database design/managementexcellent communication, both among the software-savvy and across disciplinesself-starting and quick-learning, able to operate both independently and collaborativelyenthusiasm in their work, stem cell research and all things technologicaluniversity degree in computer science, engineering, math or a related field1 year of professional software development experiencedesirable skills and experience (not required)experience with aws or other cloud computing platformsexperience in web development languages/frameworks including php and asp.netexperience working in a laboratory environmentexperience working with or for a nonprofit
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

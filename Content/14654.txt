@@ -1,0 +1,142 @@
+
+
+
+
+minted careers - software engineer - front end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    minted careers                                            
+
+
+
+
+
+
+
+                software engineer - front end
+    
+    
+
+                            engineering            
+                    san francisco,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+
+about the engineering orgwe are a growing, hands-on, flat organization. because we are still small, it means everyone is a generalist and allows for our engineers to take on multiple roles and challenges not defined by titles.  regardless of who you are on the engineering team, you will contribute to and have a big impact on the final product from day one. the opportunity for growth and development here is incredible. we have a strong culture of mentoring and promoting from within! we place a lot of emphasis on good engineering practices while retaining the flexibility of allowing each engineering team to have independent agile processes. diversity is important to us, and we treat each other with respect and empathy.about youas a front end developer, you will work closely with ux and other engineers to execute on front end initiatives and develop world-class user experiences across the minted engineering organization. you have a passion for user experience and a background building rich, scalable, javascript web applications.responsibilitiesdesign and develop front-end code for all aspects of our e-commerce website including community, artist platform, marketing, in-browser graphical editor, social featureswork with our user experience designers to implement a beautiful, responsive and usable websitehelp drive engineering best practices and decisions around frameworks and toolingbuild efficient and reusable ui components and systemsidentify and address bugs, performance bottlenecks and other issues impacting our customerswork with cutting edge front-end technologies like es6, react, redux, jsx, webpack, babel, sass, and moreexperience and skills1+ years of experience developing front-end code on a high-traffic consumer website using javascript, css, and htmlexperience developing ajax-enabled web applications with cross-browser compatibility between ie, firefox, safari, chromebonus: experience with react and reduxbonus: experience with testing frameworks like jest and enzymebonus: experience with python or any other object-oriented programming languageabout mintedminted is a lifestyle brand and design marketplace connecting you with the world’s best artists to create something one of a kind. minted crowdsources graphic design and artwork from a global community of independent artists and sells these as products addressing the $10 billion stationery market, $48 billion art market, and $100 billion home decor market.minted’s mission is to enable the design independence of both consumers and artists around the world, and the company is a platform for the strongest emerging artists in the world to be seen and discovered. we aim to build a lasting brand representing the most commercially successful design community in the world. minted was founded by successful serial entrepreneur mariam naficy.minted is located in a beautiful office in downtown san francisco and is backed by benchmark capital, idg ventures sf, menlo ventures, and angel investors including marissa mayer of yahoo and jeremy stoppelman of yelp. minted is comprised of an experienced and entrepreneurial team. we come from google, amazon, microsoft, ebay, yahoo, and goldman sachs and numerous disruptive startups. we are a passionate, creative, ambitious team. we provide a great opportunity to work with a stellar team and on a world-changing mission, all supported by a proven business model.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

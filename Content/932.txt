@@ -1,0 +1,261 @@
+
+
+
+
+job application for data platform engineer at first
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data platform engineer
+
+        at first
+      
+(view all jobs)
+
+        durham, nc, remote
+      
+
+
+about first.
+first is a venture-funded startup at the intersection of artificial intelligence and real estate tech. we identify when people are going to move, and develop products to change the game for real estate professionals. 
+our core product helps agents win listings from their network through more timely, targeted, and personalized outreach. we have won industry awards, and plan to stay at the forefront of innovation in this dynamic industry.
+about the role   
+as an early member of a growing team, you’ll have significant ownership, input, and influence over the work that we do, and how we do it. you will be uniquely positioned to work alongside our data science and development [or product] teams, bridging these cross-functional groups to make sure our data is flowing smoothly. you will build tools and conduits to help our data scientists easily access data gathered from our systems as well as outside sources. in turn, you’ll work with other software developers to integrate results from data science and machine learning into our services. you can help identify areas where data can help solve problems for our customers, and help build those solutions.
+you will not only be making great impact on the business and the product, but also have opportunities to get familiar with machine learning and data science through hands-on experience with data of various sizes ranging from a few megabytes to several hundred gigabytes.
+ultimately, you will make the data cycle — from our products and customers, through data science and machine learning, and back again — more efficient and effective, both in how our teams work together and in our software systems.
+what you bring to the table
+
+you are an efficient architect. you are good at identifying bottlenecks and weak points in the data flow. you envision a better architecture, and relentlessly improve existing systems to be more efficient, reliable, scalable and easily accessible for data storage, backup and pipelines.
+
+
+you are a hybrid engineer. you are able to cross data operation, and application software boundaries to provide system-wide support to various teams on the platform. you are skilled at python, have extensive experience working with various databases (such as postgresql) and are very familiar with aws services (ec2, emr, s3, redshift, rds, athena).
+
+
+you are passionate about data and have interest in machine learning. you are not afraid to get your hands dirty, and dig into the data to understand all of its subtitles. when needed you can perform simple analysis yourself to identify data problems. you are interested in working closely with the data scientists, and learn some fundamentals about machine learning in order to better understand and anticipate their needs.
+
+
+you understand distributed systems. you can build cohesive systems from small pieces, tools, and services that coordinate and communicate through the cloud.
+
+
+you have worked with teams scaling projects that deal with large amounts of data. you are well-equipped with big data knowledge and tools (hadoop, spark, hive etc) and can design creative solutions for moving and operating large-scale data efficiently. you will provide easy access to all data at different stages of the pipeline to all teams that need it.
+
+
+you embrace automation. you take pride in providing support and building robust internal diagnostic tools, micro-services and other engineering solutions that other teams can either use directly or as lego blocks to build their own applications on the platform.
+
+
+you are super proactive. you understand that as a platform engineer, you need to be up to date on what other departments are working on, and anticipate needs from data science team and product engineering team well in advance. you are capable of making intuitive decisions about what services and tools need to be in place before they are desperately needed.
+
+
+you love learning. you are curious and eager to learn about new areas that you may not have experienced yet. you enjoy playing with new technology and exploring new solutions that might come handy in providing better platform support to the team.
+
+must-haves
+
+strong distributed systems background
+extensive experience operating in an aws environment
+exceptional coding and design skills
+5+ years at a similar data-driven company
+proficiency in github workflow
+
+extra bonus points for
+
+experience with ruby on rails
+experience using data analytics tools
+
+why we love it here
+
+work with a team that inspires and challenges each other to grow 
+great health benefits: we’ve got you covered with health and dental - we pay 100% of your premiums and 50% for dependents
+competitive salary and stock options
+15 days paid time off plus 6 company paid holidays
+remote and on-site: work with us in durham, nc in our [american underground office] http://americanunderground.com/
+
+first offers equal employment opportunities without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, veteran or military status and other protected class characteristics.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github profile
+    
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

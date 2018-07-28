@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+bridgevine | job listings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bridgevine
+back
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+location:
+atlanta
+
+
+job code:
+254
+
+
+# of openings:
+2
+
+
+
+description
+join our dynamic technology team and make an impact at bridgevine inc., the leading provider of customer acquisition solutions for iconic home service brands at the alpharetta, ga office. we offer an invaluable opportunity to gain exposure to all facets of our business — we work hard and we play hard. and we’ll expect you to do both.
+position overview
+we are seeking a .net engineer to contribute to our agile based development team.  this position requires an individual comfortable with working in a large code base with a natural curiosity to dive in and understand the components they’re modifying.  this role will provide a good mix of feature development, bug fixing, refactoring, investigation and deployment.  the engineering team will slowly be introducing newer soa based architecture leveraging .net core and aws.  this is a relatively small engineering team (4 to 5 engineers) so the opportunity to make an impact is large.  experience working with saas solutions and integrating with apis will be helpful for this role.  we believe in agile/ci/cd practices and tools to help facilitate that methodology.  we use teamcity and octopus for ci/cd and github for source control.  
+ 
+responsibilities
+
+be an active collaborator in our agile based team.
+assist in new feature development and bug fixes.
+contribute to peer design reviews, leveraging experience to propose solutions for upcoming projects.
+propose refactoring solutions to encourage extensibility and maintainability.  
+create unit tests to confirm functionality changes.
+assist business analysts in behavior discovery.
+code against external apis and perform calculations and business logic on responses.
+
+ 
+requirements
+
+bachelor’s degree in computer science or combination of equivalent experience.
+.net, c# 3.5 and 4.0
+understanding of api development and soa
+proficient in xml/soap 
+proficient in lambdas and linq
+proficient in data modeling, stored procs with ms sql server.  
+proficiency with the .net inheritance model.
+experience with nosql solutions such as mongodb is a plus.
+experience in distributed systems, cloud based architectures is a plus.
+experience with javascript is a plus
+
+ 
+company overview
+bridgevine powers customer acquisition solutions through its next generation technology platform.  we thrive in a digital market where product and service supply from leading service brands intersects with residential and smb customer demand.  through a blend of online direct marketing and proprietary distribution channels, over 8 million qualifications each month transact in bridgevine’s vast marketplace.  participating partners in the telecommunications, cable, satellite, home security, and energy sectors delight in acquiring new customers, building brand loyalty and unlocking new revenue streams.  our technology platform has generated over $1.9 billion in annual recurring revenue for business partners.
+ 
+culture
+bridgevine seeks energetic thought leaders and knowledge workers who thrive on exciting assignments and working alongside smart, humorous and dedicated co-workers. our roots are firmly planted in our core values, which inspire us every day to be collaborative, driven and inquisitive.
+bridgevine, inc. is an equal opportunity employer. this position is based out of alpharetta, ga. no relocation assistance provided.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+bridgevine
+
+
+call
+support
+privacy policy
+© bridgevine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

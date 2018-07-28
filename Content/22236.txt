@@ -1,0 +1,608 @@
+
+
+
+
+
+machine learning platform engineer at ebay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+menu
+
+header logo
+
+
+
+
+our company
+
+
+overview
+
+
+who we are
+
+
+connected commerce
+
+
+our history
+
+
+our leaders
+
+
+our other businesses
+
+
+follow us
+
+
+contact us
+
+
+
+
+stories
+
+
+our news
+
+
+podcast
+
+
+press room
+
+
+
+
+global impact
+
+
+overview
+
+
+ebay foundation
+
+
+powering giving
+
+
+greener commerce
+
+
+responsible practices
+
+
+government relations
+
+
+archive
+
+
+
+
+investors
+
+
+overview
+
+
+events
+
+
+annual reports & sec filings
+
+
+financial releases
+
+
+financials & metrics
+
+
+corporate governance
+
+
+board of directors
+
+
+stock information
+
+
+information request
+
+
+contact investor relations
+
+
+receive notifications
+
+
+
+
+join our team
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+
+life at ebay
+
+
+meet our people
+
+
+our benefits
+
+
+
+
+students & recent graduates
+
+
+how we recruit
+
+
+contact careers
+
+
+job search results
+
+
+
+
+
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+			career information
+		
+
+
+
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+engineering at ebay
+
+
+students & recent graduates
+
+
+meet our people
+
+
+
+our benefits
+
+
+how we recruit
+
+
+contact careers
+
+
+
+job search results
+
+
+
+
+
+
+
+
+
+
+
+
+keyword
+
+
+
+
+locations
+
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+machine learning platform engineer
+san jose, california
+
+
+apply
+
+
+
+
+
+overview
+success profile
+trending
+rewards
+responsibilities
+
+
+
+
+
+overview
+intellect, curiosity, commitment, pride, respect, teamwork and good communication skills are what we’re looking for. we expect someone with solid computer science/engineering fundamentals (including strong knowledge of data structures, algorithm writing skills and object oriented programming concepts), a strong drive for results, thrives on continuous innovation, dreams big, self-starts, learns fast, gets things done while having fun. and you should be customer focused – because great business results is what our teams are about, and ebay sellers depend on us.
+it’s all about the code. high quality, efficient, elegant code that fuels the commerce revolution. help create the infrastructure and applications that unlock more economic opportunity for millions of people every day. this is your chance to take on some of the most complex technical problems in service of making a tangible impact around the globe.
+
+full time
+level: mid-senior
+
+
+
+glassdoor: 74%
+
+
+
+back to job navigation (overview)
+
+
+
+success profile
+what makes a successful software developer at ebay? check out the traits we’re looking for and see if you have the right mix.
+
+
+problem-solver 10
+quick-thinking 9
+creative 8
+productive 7
+courageous 6
+team player 5
+
+traits are on a scale of 0 to 10
+
+ 
+
+
+quote
+
+if you love new challenges and want to take your career by the horns, ebay is a great place to grow and develop.
+
+
+
+
+trending
+
+
+three phones
+
+ebay speeds up mobile experiences by expanding amp technology for product pages
+mobile web customers will now experience even faster search with the addition of brands and interests.
+learn more
+
+
+
+three engineers
+
+engineering with a purpose
+our engineering teams are at the forefront of this evolving, dynamic marketplace, with the ultimate goal of helping connect buyers with sellers all across the globe.
+learn more
+
+
+
+hadoop graphic
+
+enhancing the user experience of the hadoop ecosystem
+at ebay, we have multiple large, multi-tenant clusters. each of these clusters stores hundreds of petabytes of data.
+learn more
+
+
+
+
+
+
+
+
+rewards
+
+
+
+healthcare
+medical, dental,vision, healthcare fsa, dependent care fsa, health and wellness programs
+
+
+
+401(k) / retirement plans
+employer matching, employee stock purchase program
+
+
+
+continuing education
+tuition reimbursement, professional development
+
+
+
+paid time off
+16+ days of paid time off, paid maternity leave, paid paternity leave, 11 paid holidays
+
+
+
+amenities
+onsite gym/fitness center
+
+
+
+sabbatical
+sabbatical, 4 paid weeks every 5 years
+
+
+
+
+ 
+
+
+
+looking for a company that inspires passion, courage and imagination, where you can be part of the team shaping the future of global commerce? want to shape how millions of people buy, sell, connect, and share around the world? if you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join ebay – a company you can be proud to be a part of.looking for a company that inspires passion, courage and imagination, where you can be part of the team shaping the future of global commerce? want to shape how millions of people buy, sell, connect, and share around the world? if you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join ebay – a company you can be proud to be a part of.the team: join the unified ai platform team to create platform to do machine learning at scale. this platform will be used by ebay’s researchers and engineers who work on projects that include computer vision, nlp, machine translation and recommender systems, to do training and inferencing. there is tremendous opportunity to solve engineering challenges with machine learning and large scale data processing, shape a platform that is in the beginning months and grow your career with it. you will have good exposure to how a variety of problems in the above mentioned machine learning domains are solved.you: an engineer with solid experience in distributed systems and large scale data processing with the passion to solve tough engineering problems. a team player who believes that the whole of the team is greater than the sum of its parts.your skills: experience with distributed system. parallel programming experience with cuda or opencl is desired. expertise in scala, python and c/c++. familiarity with linear algebra math for deep learning, and popular machine learning tools and frameworks will be good to have but not required. rock solid computer science fundamentals is assumed.this website uses cookies to enhance your experience. by continuing to browse the site, you agree to our use of cookiesview our privacy policyview our accessibility info
+r0020815
+                    
+                    
+
+                
+apply
+
+
+
+bar1
+bar2
+
+read full job description
+
+
+
+
+about our location
+san jose office
+view map
+
+map
+
+
+
+recently viewed jobs
+you have not viewed any jobs.
+
+
+sign up for job alerts
+
+receive new career opportunities as soon as they become available!
+xsubscribe
+
+emailareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationaddsoftware development, san jose, california, united statesremoveremoveupload resumeremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+meet our people
+
+
+
+
+
+diversity & inclusion
+
+
+
+
+
+global impact
+
+
+
+
+
+our campus in san jose
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+home
+
+
+our company
+
+
+stories
+
+
+global impact
+
+
+investors
+
+
+join our team
+
+
+
+
+copyright © 1995-2017 ebay inc.
+all rights reserved.
+
+terms
+			|
+			privacy policy
+			|
+			accessibility
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

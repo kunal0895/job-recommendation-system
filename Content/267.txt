@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ senior data engineer
+
+
+
+
+
+
+
+
+
+the azure customer advisory (azurecat) is an elite team of engineers and architects within the cloud and enterprise engineering organization that works with interesting and strategic customer deployments on azure. by joining this team, you will have the opportunity to work closely with the azure engineering teams spearhead customer adoption of new and bleeding edge technologies. you will engage with customers in lab environments for deep technical learnings on new products and services. you will have the opportunity to greatly impact the overall direction of the platform through early customer engagements. your insights from these customer engagements will influence future product releases. you will be required to present technical challenges, solutions and guidance to audiences including senior customer executives, conference attendees, and microsoft leadership teams. this team is geographically dispersed, this specific position is based in the us, preferably in redmond, wa.  &nbsp required qualifications for this role: • &nbsp&nbsp&nbsp&nbsp 5+ years of experience in building or shipping products or services or building and architecting software solutions.• &nbsp&nbsp&nbsp&nbsp 5+ years of experience designing, developing, tuning and troubleshooting complex database applications, using oracle database. preferred skills for this role include: • &nbsp&nbsp&nbsp&nbsp oracle versions 12c, 11g, 10g, oracle rac, asm storage, grid infrastructure (clusterware), oracle enterprise manager grid control server, oracle data guard, exadata• &nbsp&nbsp&nbsp&nbsp knowledge of cloud (azure or aws or oracle cloud) platform infrastructure to run and optimize relational databases. ability and flexibility to learn and adapt to a spectrum of database technologies running on multiple platforms. • &nbsp&nbsp&nbsp&nbsp practical experience in planning, sizing & migrating large enterprise workloads from on prem to cloud platform.  &nbsp • &nbsp&nbsp&nbsp&nbsp well versed with tools like awr, addm, rman, oracle advisors, etc.• &nbsp&nbsp&nbsp&nbsp expertise in troubleshooting performance bottleneck and wait type analysis in oracle database• &nbsp&nbsp&nbsp&nbsp expertise in sql tuning.• &nbsp&nbsp&nbsp&nbsp experience working with multiple tier-1 mission-critical customer scenarios and workloads to meet customer needs for performance, scalability, latency, reliability. • &nbsp&nbsp&nbsp&nbsp developing and deploying high availability and disaster recovery strategies• &nbsp&nbsp&nbsp&nbsp experienced in defining and recommending best practices and principles of data architecture.• &nbsp&nbsp&nbsp&nbsp knowledge of other open source database technologies is an added advantage.• &nbsp&nbsp&nbsp&nbsp bachelor’s or higher degree in technology, computer science or engineering or related discipline • &nbsp&nbsp&nbsp&nbsp exceptional communication and presentation skills.  &nbsp ability to meet microsoft, customer and/or government security screening requirements are required for this role. these requirements include, but are not limited to the following specialized security screenings:microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.microsoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+325466
+1078609
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, redmond (wa)
+
+
+
+
+
+
+job families
+
+
+
+
+
+program management (engineering)
+
+
+
+
+
+
+teams
+
+
+
+
+
+cloud and enterprise
+
+
+
+
+
+
+
+
+
+
+empower your future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

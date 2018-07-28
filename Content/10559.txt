@@ -1,0 +1,2485 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers â us, uk and poland â egnyte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+							  products
+							
+
+							  products
+							
+
+
+egnyte connectsecure file sharing
+
+egnyte protectcontent governance
+
+gdpr compliance
+
+
+
+
+
+
+							  solutions
+							
+
+							  solutions
+							
+
+
+industries
+construction
+finance
+healthcare
+high tech
+media & advertising
+retail
+
+
+use cases
+
+secure file sharing
+cross office sync
+business continuity
+see all
+
+
+success stories
+
+
+
+
+
+							  partners
+							
+
+							  partners
+							
+
+
+business partners
+program overview
+program details
+program faqs
+
+
+technology partners
+program overview
+partner showcase
+developer toolkit
+
+
+
+
+
+							  resources
+							
+
+							  resources
+							
+
+
+analyst reports
+webinars & demos
+infographics
+ask an expert
+custom roi analysis
+egnyte university
+
+
+videos
+white papers
+use cases
+product collateral
+new features
+gdpr
+
+
+
+
+
+							  pricing
+							
+
+							  pricing
+							
+
+free trial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email
+
+
+1.877.734.6983
+
+
+
+
+
+
+								log in
+							
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+careers 
+
+
+ 
+
+
+
+
+
+
+usa
+poland
+uk
+
+
+
+engineering | customer advocacy | marketing |
+            product | sales
+            | g & a
+engineering
+
+devops engineer (mountain view, ca - usa)
+          
+new graduate â product development (computer science) (mountain view, ca - usa)
+          
+senior software engineer - hybrid cloud (mountain view, ca - usa)
+          
+software engineer - hybrid cloud (mountain view, ca - usa)
+          
+sr. data scientist (mountain view, ca - usa)
+          
+sr software development engineer in test (mountain view, ca - usa)
+          
+sr. software engineer - cloud (mountain view, ca - usa)
+          
+sr. software engineer - data (mountain view, ca - usa)
+          
+customer advocacy
+
+customer success manager (mountain view, ca & spokane, wa - usa)
+          
+marketing
+
+director, analyst relations (mountain view, ca - usa)
+          
+director, strategic alliances, microsoft (seattle, wa - usa)
+          
+marketing automation manager (mountain view, ca - usa)
+          
+marketing automation specialist (mountain view, ca - usa)
+          
+sr. director, field and customer marketing (mountain view, ca - usa)
+          
+product
+
+data scientist (mountain view, ca - usa)
+          
+principal ux/ui designer (mountain view, ca - usa)
+          
+product manager - enterprise applications (mountain view, ca - usa)
+          
+product manager - hybrid cloud (mountain view, ca - usa)
+          
+sr. product manager - egnyte ecosystem (mountain view, ca - usa)
+          
+sr. product manager - growth (mountain view, ca - usa)
+          
+sales
+
+account executive (raleigh, nc; spokane, wa; mountain view, ca - usa)
+          
+account manager (spokane, wa - usa)
+          
+sales development representative (spokane, wa - usa)
+          
+sr. account executive (spokane, wa; mountain view, ca  - usa)
+          
+sr. sales development representative (mountain view, ca - usa)
+          
+g & a
+
+sr. director or vp, human resources (mountain view, ca - usaa)
+          
+sr. executive assistant (mountain view, ca - usa)
+          
+
+
+engineering
+
+
+
+devops engineer (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+weâre looking for a stellar devops engineer to drive amazing results throughout our operations.
+you will be critical to our ability to deploy cloud infrastructure and application code faster and manage it more effectively. youâll be working across multiple teams from application engineers to platform engineers and data scientists to automate the deployment, configuration and management of cloud infrastructure in aws.
+ideally you have a blend of development and operational experience and are passionate about automating operational processes and managing critical systems with zero downtime.
+this is a unique opportunity to be part of an exceptional company that is transforming how we diagnose and treat brain disorders affecting hundreds of millions of people globally by applying some of the most innovative techniques in artificial intelligence.
+specific responsibilities will include:
+
+plan and deploy high availability solutions for devops services
+install, configure manage and extend a variety of software systems including software for version control, continuous integration, continuous deployment, performance data collection and analysis, systems monitoring and more
+automate the compilation, continuous integration, testing, packaging, and distribution of multiple software components
+monitor and improve operations performance and stability
+investigate failures, fix them and execute root-cause analysis
+engineer systems and tools to support the build, integration and verification of complex software systems
+work closely with developers to tailor tools and solutions for rapidly evolving needs
+continuously discover, evaluate and implement new technologies or services to maximize operations efficiency and reliability
+
+the successful candidate will need:
+
+demonstrated success deploying and scaling high traffic services in aws (amiâs, ec2, s3, cloudwatch, ecs, vpc, dynamodb, redshift, network routing/aclâs, elb)
+experience implementing and managing ci/cd with jenkins, nexus, docker and aws ecs clusters
+experience java/maven/grail
+experience with node/npm
+experience managing mongodb instances and data migration
+experience with cloud monitoring technologies including aws cloudwatch, grafana and nagios
+extremely comfortable with linux, shell-scripting and git
+expert in performing and automating systems administration tasks using two or more of ansible, chef, puppet, fabric
+thrive in a startup/fast-paced environment
+excellent oral and written communication skills
+bs/ms in computer science or related technical
+
+please send your resume to jobs_engineering@egnyte.com and reference âdevops engineerâ in the subject line.
+
+
+
+
+
+
+new graduate â product development (computer science) (mountain view, ca - usa)
+weâre looking for recent graduates, with degrees in computer science or related technical discipline, to join our product development team. this role will include aspects of software development, product management and program management and
+              is an excellent opportunity to get in on the ground floor of a growing company.
+qualifications:
+
+bachelorâs degree in computer science or related technical discipline
+excellent written and verbal communication skills
+desire to learn and willingness to take on a wide range of assignments
+knowledge of sdlc. familiarity with agile a plus
+knowledge of java and/or python
+familiarity with linux
+
+please send your resume to jobs_engineering@egnyte.com and reference ânew graduate â product development (computer science)â in the subject line.
+
+
+
+
+
+
+senior software engineer - hybrid cloud (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world including the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+job description:
+as our company continues to grow, weâre looking for a senior software engineer to contribute to our hybrid-cloud solutions that provide business continuity and fine-grained collaboration to large enterprise customers.
+role:
+
+work with fast-paced development team in designing and implementing our next generation, hybrid-cloud file sharing solution.
+research and leverage latest cloud and distributed systems technologies to develop frameworks that improves performance and scale for file sharing between cloud and on-premise.
+develop software in a micro-services architectural framework.
+leverage big data analytics to drive product design, usage and adoption.
+mentor interns and junior engineers, collaborate with operations, and work closely with products team on roadmap items.
+
+the successful candidate will need:
+
+end-to-end experience in design and development of highly-scalable enterprise and cloud data products.
+ability to challenge and redefine existing architectural fundamentals in order to provide next level of performance and scalability; ability to foresee post-deployment challenges.
+hands-on experience with clustered systems, advanced file systems, highly scalable databases, geographic replication and highly available systems.
+ability to work with multi-cultural, globally distributed teams to a common unifying product vision and closely coordinate with cross-functional teams in different time-zones.
+passion to deliver enterprise-grade products to customers and to continuously work with engineering team to refine the product in the field.
+solid knowledge of c/c++, python, java, sql and modern programming languages.
+
+please send your resume to jobs_engineering@egnyte.com and reference âsenior software engineer - hybrid cloudâ in the subject line.
+
+
+
+
+
+
+software engineer â hybrid cloud (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world including the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+job description:
+as our company continues to grow, weâre looking for a senior software engineer to contribute to our hybrid-cloud solutions that provide business continuity and fine-grained collaboration to large enterprise customers.
+role:
+
+work with fast-paced development team to implement egnyte's next generation, hybrid-cloud file sharing solution.
+responsible for developing features independently with directions from senior members of the team.
+develop software in a micro-services architectural framework.
+
+the successful candidate will need:
+
+excellent programming skills in at least one of following languages â c/c++, python, java.
+ability to produce very high quality code, robust code.
+strong debugging and problem solving skills.
+strong foundational knowledge and hands on experience working with data structures, algorithms, sql/nosql databases.
+solid hands on experience with unix/linux, system calls, multi-threading.
+good understanding of concepts such as http, micro services, rest apis.
+good understanding of file system concepts.
+passion to deliver high quality, enterprise-grade products.
+
+
+            please send your resume to jobs_engineering@egnyte.com and reference âsoftware engineer â hybrid cloudâ in the subject line.
+
+
+          
+
+
+
+
+
+sr. data scientist (mountain view, ca - usa)
+about egnyte:
+egnyte is the market leader in adaptive enterprise file services that uniquely anticipate it and end–users’ needs to securely, easily and intelligently share files on–premises and in the cloud. egnyte’s
+              award–winning platform integrates with any cloud, storage, device and business application to enable customers such as red bull, home depot, fender and bulova to optimize their collaboration environments through secure access, centralized
+              control and unified visibility. founded in 2007 and headquartered in the heart of the silicon valley, egnyte is backed by venture capital firms including google ventures and kleiner perkins caufield.
+position description:
+as our company continues to grow and we transition to a data driven organization, we’re looking for a data scientist to join our data science team in continuing to enhance our new egnyte protect product suite.
+specific responsibilities will include:
+
+work closely within a distributed team to apply innovative solutions to large unstructured data sets.
+solutions encompass various methods from rule-based systems to deep learning, as appropriate for the problem.
+partner with engineering owners to realize solutions in production.
+communicate your approach and results to a wider audience through presentations.
+egnyte offers a unique opportunity to take a data science solution from modeling all the way to deployment in a span of days.
+
+the successful candidate will need:
+
+demonstrated success with data science in a saas or cloud environment, with hands–on knowledge of model creation and deployments in production at scale.
+deep knowledge of traditional machine learning methods and neural networks.
+ability to implement data import, cleansing and transformation functions will be required.
+fluency in sql, python. competency in other programming languages a plus.
+experience with non–sql and graph databases a plus.
+able to create models in python/r.
+a background in software engineering with development experience is preferred.
+experience with large data sets and distributed computing (hive/hadoop) a plus.
+ba/bs in computer science, engineering, statistics or other technical field. advanced degrees preferred.
+
+please send your resume to jobs_engineering@egnyte.com              add "sr. data scientist" in the subject line.
+
+
+
+
+
+
+senior software development engineer in test â hybrid cloud (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+job description:
+as our company continues to grow and acquire large enterprise customers, weâre looking for a senior test automation engineer to join our engineering team to ensure our products, including new functionality designed for enterprise customers, continues to be of the highest quality.
+specific responsibilities will include:
+
+architect and design a range of automated testing platforms and frameworks that will ultimately reduce defects, improve quality and enable delivery of high quality software faster.
+define road maps and detailed implementation plans in collaboration with sdets for qa automation strategy and implementation.
+implement solutions for functional testing, performance testing, end to end testing, and continuous testing for various use cases including file serving, cloud orchestration, and api back end components
+collaborate with engineering teams in designing test cases using the above test frameworks, iterating on framework design as necessary
+develop dashboards for reporting results of automated test runs (current and historical) executed on the above test frameworks
+
+the successful candidate will have:
+
+demonstrated success with quality assurance concepts, test plan/test case definition and problem analysis
+automated quality assurance testing experience with enterprise and cloud scale products on various software, hardware and networking infrastructures.
+experience designing, setting up and maintaining automation frameworks, tools and scripts for ci/cd environments.
+solid knowledge of python, ruby, rest apis, sql, java and modern scripting languages.
+source control and build tools experience with git, jenkins, jira, jmeter.
+worked in a fast-paced agile development environment.
+solid understanding of sdlc phases including requirements analysis, design, coding, testing, release and maintenance.
+testing experience with cloud, database or storage products strongly preferred.
+
+please send your resume to jobs_engineering@egnyte.com              add "senior software development engineer in test â hybrid cloud" in the subject line.
+
+
+
+
+
+
+sr. software engineer - cloud (mountain view, ca - usa)
+about egnyte:
+egnyte a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart
+              content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors
+              include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+we store multibillion files and multiple petabytes of data. we observe more than 2k api request per second on average as per new relic. to make that possible and to provide the best possible experience, we rely on great engineers. for us,
+              people who own their work, from start to finish, are integral. our engineers are part of the process from design, to code, to test, to deployment and back again for further iterations. you can, and will, touch every level of the code depending
+              on the day and what project you are working on.
+weâre looking for a passionate lead software engineer to join our world class engineering team and help take egnyte architecture to the next stage of exciting and rapid growth. we have re-architected our core layers multiple times to meet
+              the ever increasing scale demands. the ideal candidate should be able to take a complex problem and execute end to end, in this process they would work with product managers, engineers, and our cto to come up with a solution and implement
+              it or with the help of other members. responsibilities of the ideal candidate would involve doing all of the above things that current engineers do and bring fresh ideas based on experience to do them better.
+engineers work on game changing features that are used by millions of people every day. specific responsibilities will include:
+
+design and develop highly-scalable elastic cloud architecture that seamlessly integrates with on-premises systems.
+challenge and redefine existing architectural fundamentals in order to provide next level of performance and scalability; ability to foresee post-deployment design challenges, performance and scale bottlenecks.
+work with multi-cultural, geographically distributed teams and closely coordinate with cross-functional teams in multiple time zones.
+deliver enterprise-grade products to customers and continuously work with engineering team to refine products in the field.
+mentor interns and junior engineers, collaborate with operations, and work closely with cto on roadmap items.
+extensive penetration testing to ensure security across a hybrid deployment between public/private cloud.
+monitor and manage 700+ nodes using modern devops tools and apm solutions.
+proactive performance and exception analysis.
+
+the successful candidate will need:
+
+demonstrated success designing and developing complex systems
+expertise with multi-tenant, highly complex, cloud solutions. experience with hybrid and/or on premises solutions desired.
+experience owning all aspects of software engineering, from design to implementation, qa and maintenance
+experience with the following technologies: java, sql, linux, python, nginx, haproxy, bigquery, hbase, new relic,graphite, and/or puppet
+data driven decision process
+relies on unit testing instead of manual qa
+experience in working with aws or gce is preferred
+knowledge in devops techniques
+
+please send your resume to jobs_engineering@egnyte.com              add "sr. software engineer - cloud" in the subject line.
+
+
+
+
+
+
+sr. software engineer - data (mountain view, ca - usa)
+about egnyte:
+egnyte a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart
+              content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors
+              include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+we are looking for a senior software engineer to help implement innovative, primarily learning based product features. egnyte applications host large unstructured datasets for fortune 1000 customers, with connectors to a wide array of other
+              on-premises and saas document repositories. we are continually seeking ways to allow our users to navigate datasets using intelligent features that harness content and associated organizational context. these features leverage various techniques
+              such as recommendation engines and classification models.
+specific responsibilities will include:
+
+work closely within a distributed team to prototype and implement innovative solutions to large unstructured data sets. solutions encompass various methods from rule-based systems to deep learning, as appropriate for the problem.
+partner with product owners to realize solutions in production.
+communicate your approach and results to a wider audience through presentations.
+egnyte offers a unique opportunity to take a data science solution from modeling all the way to deployment in a span of days.
+
+the successful candidate will need:
+
+demonstrated success with software engineering in a saas or cloud environment, preferably with handsâon knowledge of deploying data science solutions in production at scale.
+fluency in java, python. competency in other programming languages a plus.
+experience with nonâsql and graph databases a plus.
+experience with large data sets and distributed computing (hive/hadoop) a plus.
+ba/bs in computer science, engineering, statistics or other technical field. advanced degrees preferred.
+
+please send your resume to jobs_engineering@egnyte.com              add "sr. software engineer - data" in the subject line.
+
+
+
+
+customer advocacy
+
+
+
+customer success manager (mountain view, ca & spokane, wa - usa)
+about egnyte:
+egnyte a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart
+              content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors
+              include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+as a customer success manager (csm) you will be chartered to drive adoption, build and maintain a healthy partnership, and manage the day to day activities with our most strategic partners to foster a “customers for life” environment.
+              you are passionate about engaging your customers and expanding the business for them and us! we are looking for a highly motivated professional with the ability to work under pressure, bring initiative to every engagement and help improve
+              business processes to ensure overall customer success.
+responsibilities:
+
+become a product expert including the technical workings and practical business application.
+manage new customers after the implementation process to ensure they successfully adopt our services.
+develop a strategic success plan for your customers that outline critical success factors, metrics for success, timelines, potential issues while providing recommendations to internal and external teams.
+perform quarterly business reviews, product roadmap discussions, and on-site visits.
+keep customers informed of process and procedural changes.
+manage resolution of escalated customer issues.
+maintain a positive working relationship with product management and engineering to resolve issues and to communicate customer needs for future product enhancements.
+
+qualifications:
+
+demonstrated success managing customer relationships.
+experience working across multiple, internal teams to resolve customer issues quickly and effectively.
+previous experience with tech companies, specifically saas solutions, preferred.
+excellent communication skills (writing, listening, phone).
+a team player capable of high performance and flexibility working in a dynamic environment.
+travel required (estimate 25%).
+bachelorâs degree preferred.
+
+please send your resume to csjobs@egnyte.com              add "customer success manager" in the subject line.
+
+
+
+
+marketing
+
+
+
+director, analyst relations (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description
+as our company continues to grow, weâre looking for a director, analyst relations to develop content, lead communications, and manage interactions with the analyst community that aim to positively influence our market and competitive position among key analysts helping us maintain leadership position with all major firms including gartner, idc, ovum, forrester and many others.
+responsibilities:
+
+build, nurture and manage relationships with key industry analysts that cover the content collaboration and content governence space
+create and manage programs that increase awareness, visibility and understanding of our strategy and products, and our market momentum and customer success
+drive consistent interaction and engagement with key analysts -- via briefings, inquiries, advisory sessions, newsletters, event 1:1s -- to ensure analystsâ understanding and positive opinion of our business, products and competitive differentiation
+track and manage analyst firm reporting schedules and ensure analysts have what they need to include us in upcoming research discussions with relevant analysts
+manage our vendor ratings and product assessments in key industry analyst reports such as gartner magic quadrants and peer insight, forrester waves, etc. working with our customers
+collaborate with product marketing and corporate communications teams to create messaging, content and presentation materials for analyst meetings
+communicate analyst feedback to key stakeholders in the company to help guide company and product strategy, positioning and future direction
+in coordination with marketing colleagues, engage select analysts for sponsored white papers, webcasts, speaking engagements, and/or other marketing activities as required
+support various marketing and communications programs and activities, including: manage our calendar of executive speaking opportunities; manage our participation and inclusion in key industry awards and lists; and assist with the development of content for pr, social, website, and other communications needs
+
+the successful candidate will need:
+
+demonstrated success initiating, managing and expanding analyst relationships
+experience working with top industry analyst firms including gartner, forrester and idc
+a passion for enterprise technology, particularly around cloud, big data, analytics, data security and/or file sharing
+ability to understand complex business and technology issues and translate them into effective content and communications strategies
+a collaborative team player with strong interpersonal skills who can effectively work with multiple stakeholders across the organization to complete required tasks, meet important deadlines, and deliver on analyst relations goals
+excellent written and verbal communications skills
+bachelorâs degree or equivalent
+
+please send your resume to jobs@egnyte.com              and reference "director, analyst relations" in the subject line.
+            
+
+
+
+
+
+
+director, strategic alliances, microsoft (seattle wa, - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization second year in a row, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+egnyte is building a world-class ecosystem of technology partners to enable our customers to use their egnyte managed content from their favorite business applications. in this role you will be responsible for managing egnyteâs technology, product, go-to-market and marketing activities with microsoft, one of our most important strategic alliances.
+the ideal candidate will have worked in microsoft within the past three years, and have an in-depth understanding of the organization and existing contacts in different parts of the company.
+responsibilities:
+
+enhance and extend egnyteâs relationships within microsoftâs relevant product teams, including office, azure and others. identify new microsoft products and services integration with which would benefit egnyte customers.
+develop executive relationships within microsoft to enhance visibility for egnyte and to create strategic business opportunities.
+develop relationships with microsoftâs sales organization and the ocp team to drive new egnyte revenue.
+create new co-marketing opportunities for egnyte with microsoft.
+recruit microsoft channel partners to egnyteâs own channel program.
+guide egnyte marketing in the development of content (solution briefs, presentations, videos, demos) to enable microsoft and microsoft channel sales engagement.
+
+qualifications:
+the role is designed for a smart, aggressive and experienced professional that is interested in managing and delivering high impact projects that drive revenue and increase user engagement. this alliance management role combines elements of strategy, sales and marketing and requires all of the following:
+
+10+ years of professional experience in a business development, sales or strategic marketing role
+extensive knowledge of the microsoft organization and strong existing relationships within that company
+              excellent written and verbal communication skills and the ability to craft a compelling message to articulate egnyteâs story to microsoft and align both companiesâ interests.
+flexible and adaptable with the ability to work under pressure to meet deadlines.
+demonstrated ability to execute successful projects with minimal guidance in a fast-paced entrepreneurial environment.
+attention to detail and strong organizational, program management skills with demonstrated ability to juggle multiple projects and requests.
+must be comfortable with a balance of day-to-day execution and mid-term planning.
+bachelor's degree required; mba is a plus.
+
+please send your resume to jobs@egnyte.com              and reference "director, strategic alliances, microsoft" in the subject line.
+            
+
+
+
+
+
+
+marketing automation manager (mountain view, ca - usa)
+about egnyte
+egnyte a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart
+              content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors
+              include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+job description:
+as we focus on working with larger customers, weâll look to our marketing automation manager to work closely with our marketing execs to design, execute and track direct marketing campaigns while also being our resident marketo expert.
+specific responsibilities will include:
+
+build and constantly improve companyâs email marketing strategy, test plans and overall program development while creating new flows, and nurture campaigns for prospects and customers.
+manage prospect and customer database including creating and updating lists, segmenting data and list hygiene.
+create emails, landing pages, forms and reports within marketo.
+set up, testing, execution and reporting on marketo-based campaigns for lead management, lead nurturing, lead scoring and lead routing.
+develop and execute global demand gen campaigns end-to-end from target identification to post-campaign reporting.
+manage a|b tests, and continuously optimize email templates and landing pages.
+construct views and dashboards within marketo for all campaigns, leads, prospects, opportunities, pipeline, contact, account and revenue activities.
+provide visibility to stakeholders about program and content performance
+
+the successful candidate will need:
+
+demonstrated success executing marketing campaigns with expertise using marketo including database management, smart-list development, setup, testing, launching and scoring of campaigns and programs, and reporting on campaign analytics.
+marketo certification is preferable. experience with sfdc, other marketing & sales tools including webinar platforms, reporting tools, project management tools is a plus.
+excellent writing skills, specifically copywriting targeted at the b2b buyer.
+flexible and adaptable with the ability to work under pressure to meet deadlines and close attention to detail.
+demonstrated ability to execute successful projects with minimal guidance in a fast-paced entrepreneurial environment.
+attention to detail and strong organization skills with demonstrated ability to juggle multiple projects and requests.
+bachelorâs degree in marketing, advertising, communication studies, business administration or related discipline.
+
+please send your resume to jobs@egnyte.com              and reference "marketing automation manager" in the subject line.
+            
+
+
+
+
+
+
+marketing automation specialist (mountain view, ca - usa)
+about egnyte
+egnyte is the market leader in smart content collaboration (efss) and smart content governance space that uniquely anticipate it and usersâ needs. a true saas offering to securely, easily and intelligently share files on-premises
+              and in the cloud offers unique advantages over competing products. egnyteâs award-winning cloud platform integrates with any 3rd party cloud and on-premises storage, device and business application to enable global customers including red
+              bull, yamaha, home depot and buzzfeed, to optimize their collaboration and governance through secure access, centralized control and unified visibility. founded in 2007 and headquartered in the heart of the silicon valley, egnyte is backed
+              by venture capital firms including google ventures and kleiner perkins caufield byers.
+position description:
+are you looking to be a part of a growing company where you can make an impact? egnyte is seeking a marketing automation specialist responsible for supporting and driving efficiencies of a world-class demand gen center. you will work closely
+              with the marketing team to continue the evolution of the technology, business processes, program execution, database management to support the company's growth plan. our ideal candidate is someone with digital marketing experience, has an
+              excellent eye for the details, is meticulous, and has a strong desire to ensure quality of projects from start to finish.
+about the job:
+
+own data governance; from handling cleanup to helping reconcile data between multiple sales and marketing systems.
+manage lead list submissions. ensure data quality and import leads into marketo with appropriate campaign and status assignments.
+implement and launch the programs and campaigns, submitted by marketing managers using marketo, our marketing automation system. ensuring adherence to best practices which allow backend tracking and reporting (events, webcasts, emails, etc).
+own all campaign elements of newsletters and communications for customers, analysts, partners and prospects (including getting final copy from owners, images, lists management, scheduling, etc).
+support the planning and implementation of projects handled by demandgen team.
+all other qualifications and skills that are required below.
+
+qualifications & experience:
+
+relevant ba/bs degree in business or marketing.
+2+ years experience in marketing operations is preferred. experience in a b2b it or tech company is a benefit.
+required: experience with marketo and salesforce. marketo certification is a distinct advantage.
+highly proficient with microsoft excel.
+excellent planning and project management skills. resourceful when meeting deadlines and requests even when not all details are spelled out.
+strong work ethic, keen attention to detail, highly organized, and able to manage multiple projects concurrently with the ability to multi-task in a fast-paced environment.
+good communicator, and ability to communicate to non-technical and technical audience.
+highly driven, self-motivated team player ready to excel in a fast paced, data driven marketing team.
+ability to work with a variety of customers, varying in seniority and work experience, as well teams overseas in different time zones.
+excellent writing skills, specifically copywriting targeted at the b2b buyer.
+html knowledge, familiarity with wsywig html editors (e.g., dreamweaver).
+familiarity creating images using design programs (e.g., indesign, photoshop).
+
+please send your resume to jobs@egnyte.com              and reference "marketing automation specialist" in the subject line.
+            
+
+
+
+
+
+
+sr. director, field and customer marketing (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization second year in a row, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+looking to join a dynamic, high-growth company where you can have a huge impact? egnyte is one of the top cloud companies in the bay area and we are looking for an amazing marketer who will bring creativity and expression, interpersonal skills, analytics to enable our sales and customer success teams achieve revenue targets.
+do you have what it takes to employ conventional and unconventional marketing experiments, challenge the status quo, and leverage our expansive data collection and data scientist teams to find the most effective and efficient way to grow a business?
+egnyteâs sr. director of field and customer marketing will be a classical growth hacker - responsible for maximizing the effectiveness of our marketing activities with our global field, customer success teams and partners. this person develops and implements innovative new marketing, sales enablement, promotions, and collateral in tight collaboration with the field, business development and customer success teams to meet defined business metrics.
+the sr. director, field and customer marketing will be a key contributor within the marketing team. the ideal candidate must have experience in creating and executing b2b focused marketing programs and content, targeted at prospective and installed base customers.
+responsibilities:
+
+define corporate objectives for growing the business (which verticals to penetrate, geography etc.), increase the product adoption, and create opportunities for upsell and integrate them with the field, business development strategies while providing local product expertise and content
+subject matter expert to identify target market, customers â using next-generation analyticsâ and technology to continuously enhance the go-to-market strategy and execution
+ensure the sales team understands the differentiated product positioning, value propositions, and messaging at customer events, internal enablement session, launches, and partner venues.
+customer-facing evangelist for verticals, helping identify the relevant technology solution, and effectively expressing the business value to customers, local field, and partner teams
+
+qualifications:
+the role is designed for a seasoned candidate who has consistently run b2b marketing campaigns targeted at enterprise and smb prospects.
+            
+5+ years of marketing experience with 3+ years focused on customer, partner, and field-facing marketing in the high-tech industry.
+3+ years of demonstrated creativity, storytelling and creation of professional marketing content
+3+ years of hands-on experience creating and managing field and virtual events.
+demonstrated ability to execute successful projects with minimal guidance in a fast-paced entrepreneurial environment.
+experience in engaging with field and partners is a plus.
+bachelor's degree in marketing, advertising, communication studies, business administration or related field; mba is a plus.
+
+please send your resume to jobs@egnyte.com              and reference "sr. director, field and customer marketing" in the subject line.
+            
+
+
+
+
+product
+
+
+
+data scientist (mountain view, ca - usa)
+about egnyte:
+egnyte is the market leader in adaptive enterprise file services that uniquely anticipate it and end-users’ needs to securely, easily and intelligently share files on-premises and in the cloud. egnyte’s award-winning
+              platform integrates with any cloud, storage, device and business application to enable customers such as red bull, home depot, fender and bulova to optimize their collaboration environments through secure access, centralized control and
+              unified visibility. founded in 2007 and headquartered in the heart of the silicon valley, egnyte is backed by venture capital firms including google ventures and kleiner perkins caufield.
+position description:
+as our company continues to grow and we transition to a data driven organization, we’re looking for a data scientist to join our data science team.
+specific responsibilities will include:
+
+look beyond numbers to understand how egnyte users interact with our products.
+work closely with product management and engineering teams to identify and eliminate friction points in user interactions.
+partnering with product owners, you will build and scientifically test models of user behavior.
+communicate your approach and results to a wider audience through presentations.
+directly influence product decisions through data analysis.
+
+the successful candidate will need:
+
+demonstrated success with data science in a saas or cloud environment
+ability to implement data import, cleansing and transformation functions will be required.
+fluency in sql or other programming languages.
+some development experience in at least one scripting language (php, python, ruby, etc.)
+experience with large data sets and distributed computing (hive/hadoop) a plus.
+ba/bs in computer science, math, physics, engineering, statistics or other technical field. advanced degrees preferred.
+
+please send your resume to jobs@egnyte.com and mention "data scientist" in the subject line.
+
+
+
+
+
+
+principal ux/ui designer (mountain view, ca - usa)
+as our company grows and works with a wider range of enterprise customers, weâre looking for a principal ux/ui designer to drive the continued improvement and innovation of the user experience across our entire product suite.
+requirements:
+
+participate in the product definition process with the product manager, engineering manager and user research. drive the clarification of the user tasks and objectives.
+provide leadership to other ux team members and projects
+perform qualitative user research to understand user needs and evaluate design solutions for usability
+              
+conduct effective meetings with project stakeholders to understand goals, requirements, user profiles, and context of use
+create interaction design deliverables such as process flows, wireframes, annotations, and prototypes
+              
+establish and document interaction design standards for common usage across all egnyte applications
+              
+
+qualifications:
+
+demonstrated success a visually attractive and user friendly user experience across desktop, web and mobile
+experience leading small teams of ux and ui designers and mentoring junior team members.
+strong ability to work across different functional groups including engineering, product management and product marketing
+understanding of qualitative and quantitative user research methods
+experience with visual design and front end development with technologies such html, css and/or javascript
+bachelorâs degree. masterâs degree a plus
+
+please send your resume to jobs@egnyte.com and reference âprincipal ux/ui designerâ in the subject line.
+
+
+
+
+
+product manager â enterprise applications (mountain view, ca - usa)
+egnyte, a leader in the gartner magic quadrant for content collaboration platforms, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses and millions of users around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+egnyte is looking for a well-rounded individual for the role of the product manager for our enterprise applications. you will be responsible for a range of product management functions to deliver enhancements to a wide range of existing internal applications.
+attention to detail, an eye for quality and usability, along with the ability to grasp and translate technical capabilities into benefits is crucial. in this role, you will work actively with our sales, marketing, engineering and customer support functions.
+requirements:
+
+work as part of the team that develops egnyteâs internal product roadmap
+develop product designs for implementation by engineers
+work with engineering and qa to oversee development of high quality applications
+train employees on new applications and features
+run beta programs and solicit product enhancement ideas
+author application documentation, training guides and related materials
+
+qualifications:
+
+demonstrated success driving design, development and implementation of applications.
+prior managing internal applications
+experience with cifs, nfs protocols
+cloud computing/saas experience a plus
+bachelor's degree in marketing, business, economics or engineering; mba a plus
+exceptional written, verbal skills and ability to work with a cross functional team
+
+please send your resume to jobs_engineering@egnyte.com and reference âproduct manager â enterprise applicationsâ in the subject line.
+
+
+
+
+
+product manager â hybrid cloud (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+as our company grows and we work with wider range of enterprise customers, weâre looking for a well-rounded individual for the role of product manager.  you will be responsible for a range of product management functions to deliver egnyteâs hybrid cloud products to the market.
+ attention to detail, an eye for quality and usability, along with the ability to grasp and translate technical capabilities into benefits is crucial. in this role, you will work actively with our sales, marketing, engineering and customer support functions.
+requirements:
+
+work as part of the team that develops egnyteâs product roadmap
+develop product designs for implementation by engineers
+work with engineering and qa to oversee development of high quality applications
+train employees on new applications and features
+run beta programs and solicit product enhancement ideas
+author application documentation, training guides and related materials
+
+qualifications:
+
+demonstrated success driving  design, development and implementation of new product functionality.
+strong technical background.  prior experience in a software engineering role is preferred.
+experience with on-premises and/or cloud storage products
+bachelor's degree in technical discipline; mba a plus
+exceptional written, verbal skills and ability to work with a cross functional team
+
+please send your resume to jobs_engineering@egnyte.com and reference âproduct manager â hybrid cloudâ in the subject line.
+
+
+
+
+
+sr.  product manager â egnyte ecosystem (mountain view, ca - usa)
+about egnyte:
+egnyte is the market leader in adaptive enterprise file services that uniquely anticipate it and end-usersâ needs to securely, easily and intelligently share files on-premises and in the cloud. egnyteâs award-winning platform integrates with any cloud, storage, device and business application to enable customers such as red bull, home depot, fender and bulova to optimize their collaboration environments through secure access, centralized control and unified visibility. founded in 2007 and headquartered in the heart of the silicon valley, egnyte is backed by venture capital firms including google ventures and kleiner perkins caufield.
+position description:
+egnyteâs technology ecosystem is central to the companyâs success and the sr. product manager, egnyte ecosystem will be at the center of this key initiative. reporting to the vp of business development, you will work with egnyte customers, technology partners and engineers to define and deliver egnyteâs market leading technology integrations. in this position you will be on the front lines of egnyteâs engagement with companies such as google and microsoft, define robust and exciting integrations between egnyte and its partners, and be egnyteâs technical lead for all technology partner related activities.
+attention to detail, an eye for quality and usability, along with the ability to grasp and translate technical capabilities into benefits is crucial. we are looking for a fearless, innovative and experienced product manager who can come up with creative solutions to important business challenges and help take egnyteâs technology partner ecosystem to the next level.
+requirements:
+
+ability to define viable use cases for integrations based on a partnerâs application and their apis
+ability to communicate with senior partner personnel and represent egnyte on technical and non-technical issues
+strong understanding of rest apis
+a passion for agile development
+skill at prioritizing competing projects and requirements
+work as part of the team that develops egnyteâs product roadmap
+develop product designs for implementation by engineers
+train employees on new applications and features
+run beta programs and solicit product enhancement ideas
+author application documentation, training guides and related materials
+
+qualifications:
+
+2+ years of product management experience
+demonstrated success driving design, development and implementation of new product functionality
+strong technical background.  prior experience in a software engineering role is preferred.
+experience with saas/cloud products.
+bachelor's degree in technical discipline; mba a plus
+exceptional written, verbal skills and ability to work with a cross functional team
+
+please send your resume to jobs@egnyte.com and reference âsr.  product manager â egnyte ecosystemâ in the subject line.
+
+
+
+
+
+sr.  product manager â growth (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, enables organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+as our company grows and we work with wider range of enterprise customers, weâre looking for a well-rounded individual for the role of sr.  product manager.  our growth product manager will work across the various features, and product teams, of both our core file sharing solution, egnyte connect, and our new data governance solution, egnyte protect, to drive feature adoption within our existing customer base through product innovation.
+attention to detail, an eye for quality and usability, along with the ability to grasp and translate technical capabilities into benefits is crucial. in this role, you will work actively with our sales, marketing, engineering and customer support functions.
+requirements:
+
+work as part of the team that develops egnyteâs product roadmap
+define and carry out the product vision of our growth strategy and champion it through the entire organization while also managing tactical initiatives.
+work with business stakeholders to define and translate strategic business ideas into product stories and acceptance criteria.
+manage technical projects, track progress towards milestones, and keep tabs on all the moving parts of agile planning and development cycles.
+communicate the state of projects across teams, stakeholders as well as executives.
+research, troubleshoot, diagnose, and recommend solutions to complex business and technical problems.
+connect product with engineering, sales, design, ba and executives to deliver on a common goal.
+partner with the rest of the product organization to continuously improve our processes.
+author application documentation, training guides and related materials
+
+qualifications:
+
+demonstrated success driving  design, development and implementation of new product functionality.
+strong technical background.  prior experience in a software engineering role is preferred.
+experience with on-premises and/or cloud storage products
+bachelor's degree in technical discipline; mba a plus
+exceptional written, verbal skills and ability to work with a cross functional team
+
+please send your resume to jobs@egnyte.com and reference âsr.  product manager â growthâ in the subject line.
+
+
+
+sales
+
+
+
+account executive (raleigh, nc; spokane, wa; mountain view, ca - usa)
+reporting to the director of sales, the account executive will join a growing sales organization in closing new business with a wide range of mid market companies (between 300 and 3000 employees) while continuing to work with existing customers
+              to identify and close new sales opportunities.
+job duties and responsibilities:
+to attain revenue quotas, the account executive will:
+
+personally engages, sells, and closes opportunities (new prospects as well as customers) in an assigned geographic territory
+continually ensures sales pipelines meet requirements, including: 
+
+4x mrr quota
+even distribution of new account penetration and upsell opportunities
+
+thoroughly penetrates territory through activities including:
+
+identifying and penetrating assigned accounts through activities including cold calling 
+ensuring high profile initiatives are understood and pursued by egnyte 
+qualifying, supporting, and closing website-generated trials and marketing-generated leads 
+nurturing "not ready" opportunities until the point that they are ready to enter a sales cycle
+
+uses salesforce.com for time and territory management as directed by management, including keeping record of communications, accounts and opportunities
+travels to prospect locations as necessary to pursue highly qualified opportunities. 
+
+skills – experience and requirements:
+
+demonstrated success closing new business with mid market and/or enterprise customers across multiple industries
+previous experience selling saas, business applications and/or cloud solutions
+excellent written and oral communication skills, in addition to formal presentation skills before both small and large groups
+4-year degree or equivalent experience
+
+to apply for this position, please submit resume to jobs@egnyte.com with "account executive" in the subject.
+            
+
+
+
+
+
+
+account manager (spokane, wa – usa)
+as our company, and customer base, continues to grow we will look to the account manager develop and continue to manage our relationships with a wide range of small business and mid-market customers. this will include acting as the primary
+              contact for assigned customers to ensure theyâre continued satisfaction with our solutions, manage the resolution of any challenges they might face and continue to drive increased usage of our solutions.
+specific responsibilities will include:
+
+become an egnyte product expert including the product's technical workings and practical business application
+manage a portfolio of customers and work closely with them to assure their success with the software. develop strong relationships with customers to protect ongoing revenue stream and identify/recommend upsell/cross-sell opportunities
+receive new customers and manage them through the implementation process to ensure they successfully adopt egnyteâs service
+drive regular account reviews with customers and provide strategies to optimize return.
+work closely with internal departments such as customer advocacy, to provide services required to meet customer expectations
+maintain a positive interactive working relationship with product management and product engineering to resolve issues and to communicate customer needs for future product enhancements
+
+qualifications:
+
+demonstrated success managing and continuing to improve relationships with strategic accounts
+proven ability to understand specific customersâ needs and provide solutions
+experience working across multiple, internal teams to resolve customer issues quickly and effectively
+excellent communication skills (writing, listening, phone)
+a team player capable of high performance and flexibility working in a dynamic environment
+college degree or equivalent work experience
+
+to apply for this position, please submit resume to jobs@egnyte.com              with "account manager" in the subject.
+            
+
+
+
+
+
+
+sales development representative (spokane, wa - usa)
+about egnyte:
+egnyte is the market leader in adaptive enterprise file services that uniquely anticipate it and end-users’ needs to securely, easily and intelligently share files on-premises and in the cloud. egnyte’s award-winning
+              platform integrates with any cloud, storage, device and business application to enable customers such as red bull, home depot, fender and bulova to optimize their collaboration environments through secure access, centralized control and
+              unified visibility. founded in 2007 and headquartered in the heart of the silicon valley, egnyte is backed by venture capital firms including google ventures and kleiner perkins caufield & byers.
+job description:
+the sales development representative will play an integral role in driving the growth of our customer base and revenue through generating qualified leads for our enterprise sales team.
+            
+specific responsibilities will include:
+
+conduct outbound calls to lead campaigns consisting of warm leads and cold calls
+              
+identify opportunities, generate interest, qualify, educate, and develop new opportunities
+              
+work with field sales team counterparts to develop and build territory plan
+
+the successful candidate will need:
+
+demonstrated success in sales development or lead generation
+prior experience with cloud and/or saas products preferred
+experience with salesforce.com is a plus
+organizational skills and attention to detail
+ability to understand technology and communicate it to prospects
+quick learner and self-starter with an entrepreneurial work ethic
+knowledge of business organizational structures and buying influences
+bs/ba or equivalent
+
+to apply for this position, please submit resume to jobs@egnyte.com with "sales development representative" in the subject.
+            
+
+
+
+
+
+
+sr. account executive (spokane, wa; mountain view, ca - usa)
+about egnyte:
+egnyte a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart
+              content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors
+              include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description
+the account executive will join a growing sales organization in closing new business with a wide range of mid market companies (between 200 and 5,000 employees).
+to attain revenue quotas, the account executive:
+
+personally engages, sells, and closes opportunities (new prospects as well as customers) in an assigned geographic territory
+continually ensures sales pipelines meet requirements, including
+                
+4x mrr quota
+even distribution of new account penetration and upsell opportunities
+
+
+thoroughly penetrates territory through activities including:
+                
+identifying and penetrating assigned accounts through activities including cold calling
+ensuring high profile initiatives are understood and pursued by egnyte
+qualifying, supporting, and closing website-generated trials and marketing-generated leads
+nurturing "not ready" opportunities until the point that they are ready to enter a sales cycle
+
+
+uses salesforce.com for time and territory management as directed by management, including keeping record of communications, accounts and opportunities
+travels to prospect locations as necessary to pursue highly qualified opportunities.
+
+qualifications:
+
+demonstrated success closing new business with mid market and/or enterprise customers across multiple industries.
+previous experience selling saas, business applications and/or cloud solutions.
+excellent written and oral communication skills, in addition to formal presentation skills before both small and large groups.
+bachelorâs degree or equivalent experience
+
+please submit your resume to jobs@egnyte.com              with "sr. account executive" in the subject.
+            
+
+
+
+
+
+
+sr. sales development representative (mountain view, ca - usa, bracknell, uk)
+about egnyte:
+egnyte is the market leader in adaptive enterprise file services that uniquely anticipate it and end-users’ needs to securely, easily and intelligently share files on–premises and in the cloud. egnyte’s award–winning
+              platform integrates with any cloud, storage, device and business application to enable customers such as red bull, home depot, fender and bulova to optimize their collaboration environments through secure access, centralized control and
+              unified visibility. founded in 2007 and headquartered in the heart of the silicon valley, egnyte is backed by venture capital firms including google ventures and kleiner perkins caufield & byers.
+job description
+the sr. sales development representative will play an integral role in driving the growth of our customer base and revenue through generating qualified leads for our enterprise sales team.
+specific responsibilities will include:
+
+conduct outbound calls to lead campaigns
+identify opportunities, generate interest, qualify, educate, and develop new opportunities
+work with field sales team counterparts to develop and build territory plan
+
+the successful candidate will need:
+
+demonstrated success in sales development or lead generation
+prior experience with cloud and/or saas products preferred
+experience with salesforce.com is a plus
+organizational skills and attention to detail
+ability to understand technology and communicate it to prospects
+quick learner and self-starter with an entrepreneurial work ethic
+knowledge of business organizational structures and buying influences
+bs/ba or equivalent experience
+
+please send your resume to jobs@egnyte.com              and reference "sr. sdr" in the subject line.
+            
+
+
+
+g & a
+
+
+
+sr. director or vp, human resources (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+job description:
+talent means everything at egnyte.  weâre looking for a high energy human resources professional to help drive a comprehensive talent management program.  maximizing the productivity level and job satisfaction of our worldwide professional staff will be the charter of the sr. director or vp of human resources.  if you are hungry to make your mark and have the organizational, creative initiative and leadership skills of an a player we want to talk to you.
+human resources administration:
+
+works directly with department managers to help them identify, motivate, and retain the a talent on their team as well as drive their b/c players forward.
+recommends, evaluates and participates in staff development.
+plans, directs, and carries out egnyteâs policies, procedures, benefit programs, payroll, and policies on personnel matters.
+maintains all records of insurance coverage, 401k plans, and personnel transactions such as hires, promotions, compensation adjustments, transfers, and terminations.
+maintains knowledge of industry employment trends and legislation and ensures egnyteâs compliance with federal and state legislation pertaining to all personnel matters.
+plans and conducts new employee orientation programs.
+manages all employees of the human resources department and is responsible for the performance management and hiring of the employees within that department.
+manage employee immigration programs.
+other really cool stuff you think up.
+
+sometimes qualified candidates have this type of background:
+
+demonstrated success leading human resources with a fast growing, tech company.  prior experience with startups preferred.
+experience with m&a and global hr
+proven ability to understand strategic organizational issues and to influence key leaders and stakeholders for recommendations and alignment
+strong systemic thinking; a data driven, decision maker; able to find root cause of issues and gain leadership support to address opportunities
+proven ability to coach leaders
+an important must is a proven ability to manage priorities among multiple stakeholders, multi-task and re-prioritize as needed in fast moving environment
+able to work with highly dynamic culture is comfortable with ambiguity
+high integrity; experience working with sensitive and confidential situations; track record of building strong trust and confidence with business leaders and teams.
+expertise managing immigration processes
+bachelorâs degree
+
+please send your resume to jobs@egnyte.com and reference âsr. director or vp, human resourcesâ in the subject line.
+
+
+
+
+
+
+sr. executive assistant (mountain view, ca - usa)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+weâre looking or a sr. executive assistant to provide a wide range of administrative support to our ceo, cfo and executive team.  beyond administrative support weâll look to our sr. ea to drive a wide range of projects including managing internal events.  as our company continues to grow, our sr. ea will need to build and manage a larger team of administrative assistants.
+specific responsibilities will include:
+
+provide high-level administrative support to our ceo, cfo and executive team.
+manage and maintain multiple schedules; coordinate travel on as-needed basis.
+manage daily, weekly, monthly and quarterly calendars for the multiple executives, including coordination of complex executive meetings, client meetings, all hands, etc.
+work with it to ensure that all equipment needs are met for executives (computers, printers, network, phones, etc.)
+coordinate logistics for senior executive visitors
+work with our hr team to organize team events, socials, offsite meetings, etc.
+hire, manage and continue to develop jr administrative assistants.
+manage various projects for our ceo.
+
+desired skills and experience:
+
+demonstrated success supporting multiple sr. executives including ceo and cfo.
+experience in pre-ipo tech company strongly preferred.
+ability to quickly learn new tools and technologies.
+expectation of complete confidentiality on all business matters.
+ability to effectively communicate and collaborate with a diverse range of people and job functions.
+excellent organizational, multitasking, and written communication skills.
+entrepreneurial spirit and desire for constant improvement.
+excellent verbal and written communication skills.
+expert experience in working with gmail, google and google docs in a support environment.
+previous experience building and managing administrative support teams preferred.
+bachelorâs degree a plus.
+
+please send your resume to jobs@egnyte.com and reference âsr. executive assistantâ in the subject line.
+
+
+
+
+
+engineering
+android engineer (poznan, greater poland district - poland)
+          
+back–end software engineer (poznan, greater poland district - poland)
+          
+c++ windows developer (poznan, greater poland district - poland)
+          
+compliance manager (poznan, greater poland district - poland)
+          
+front–end software engineer (poznan, greater poland district - poland)
+          
+ios/macos engineer (poznan, greater poland district - poland)
+          
+ios/macos senior/principal engineer (poznan, greater poland district - poland)
+          
+mobile javascript engineer (poznan, greater poland district - poland)
+          
+monitoring engineer/sre (poznan, greater poland district - poland)
+          
+principal software engineer (poznan, greater poland district - poland)
+          
+professional services engineer (poznan, greater poland district - poland)
+          
+qa engineer (poznan, greater poland district - poland)
+          
+release engineer (poznan, greater poland district - poland)
+          
+senior android engineer (poznan, greater poland district - poland)
+          
+senior program manager (poznan, greater poland district - poland)
+          
+senior software engineer (poznan, greater poland district - poland)
+          
+technical support engineer (poznan, greater poland district - poland)
+          
+
+
+
+android engineer (poznan, greater poland district - poland)
+egnyte is a us based company with an engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+            
+we are looking for android developers who are willing to learn and drive development of multi-functional mobile app. main challenge of our app lies on serving hybrid access and smart management of a content stored on the cloud, company servers as well user local storage. we are looking for someone flexible, creative and smart, someone who will find himself on our high-energy organisation. in return, we are offering exciting opportunity of changing of our main products widely used by our customers (please find more information about our products here: link).
+job duties and responsibilities:
+
+youâll be playing a major role in determining the trajectory of our product
+maintaining android automation
+work closely with a tight-knit team to push products out at an agile pace
+
+must have:
+
+at least one year of experience in developing android applications
+familiarity with rest api's, web services.
+familiarity with unit tests
+
+nice to have:
+
+experienced with learning new frameworks on a variety of platforms
+knowledge of dagger 2, retrofit 2 and rxjava
+knowledge of kotlin, espresso and uiautomator
+
+why we are cool:
+
+egnyte is complex application that gives you an opportunity to work with vast set of apis
+we have a green light for kotlin
+we do care about automated testing
+
+the offer
+
+salary from 5.000 up to 8.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool is it to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conference budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "android engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+back–end software engineer (poznan, greater poland district - poland)
+egnyte is an usa based company with engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically
+              reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+            
+what we need:
+we are looking for a talented back–end software engineer with charisma and hacker mindset. you are supposed to bring to the table: experience at building cloud–based & scalable applications, drive to make things happen and
+              a can-do attitude.
+job duties and responsibilities:
+
+you will have an opportunity to work on a greenfield project in an exciting area related to content governance
+work closely with the development team and product management to build best in class product
+deliver, deliver and... deliver: great code which performs well at scale, all–around unit tests and everything what is needed by the team
+take care of a feature from inception through implementation, testing, deployment to monitoring how it behaves in production
+
+must have:
+
+hacker mindset with ability to work in less than ideal environment
+proven experience in building web applications using java
+solid general software engineering skills, i.e. data structures and algorithms, design patterns, best practices etc.
+experience in working with sql and nosql databases
+
+nice to have:
+
+background in building and scaling up distributed applications
+familiarity with docker and kubernetes
+experience in using python and selenium in terms of implementing end-to-end tests
+prior experience in javascript and willingness to work on the front-end side when needed
+
+the offer
+
+salary from 8.000 up to 12.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com              add "back–end software engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+
+c++ windows developer (poznan, greater poland district - poland)
+egnyte an usa based company with engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+we are looking for windows developers who will drive development of multi-functional client application. main challenge and complexity of our app lies on serving hybrid access and smart management of a content stored on the cloud, company servers and user local storage. weâd love to work with someone flexible, creative and smart. someone, who will find himself on our high-energy organisation. in return, we are offering exciting opportunity of changing of our main products, already widely used by our customers (please find more information about our products here: link).
+job duties and responsibilities:
+
+design and development a client application with native look at feel for windows
+app integration with multiple protocols on the back-end
+
+skills - experience and requirements:
+
+strong c++ programming (c++11, c++14 standard) and debugging skills
+design patterns knowledge
+experience with stl, boost, win32 api, .net apis
+experience in development of multithreaded and multiprocess applications
+practise in unit tests development and continuous integration
+good english skills
+
+bonus skills
+
+experience in working with version control system, ideally using git
+experience with rest apis
+experience in c#, python
+
+the offer
+
+salary from 8.000 up to 12.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options – how cool itâs to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "c++ windows developer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+compliance manager (poznan, greater poland district - poland)
+egnyte is a us based company with an engineering team operating in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+what we need:
+we are looking for compliance manager that will manage the deliverables for our security and compliance projects in egnyte across all teams and departments. egnyte is compliant with iso 27001 and soc2.
+job duties and responsibilities:
+
+performing process reviews to evaluate current business practices, internal control structure, existing documentation.
+ensuring compliance with internal policies and internal control across all teams and departments.
+conducting operational audits and compliance control testings.
+identifying potential gaps in controls, processes and areas for improvement. developing and monitoring the status of remediation plans.
+conducting periodic risk assessments and response plans.
+monitoring the effective implementation of companyâs policies, providing reports to senior management and the ciso.
+providing assistance to internal or external auditors in compliance reviews.
+designing or implementing improvements in communication, monitoring, or enforcement of compliance standards.
+
+must have:
+
+proven management skills and ability to work with teams to make sure that activities meet expected standards and are provided within the required schedule
+demonstrated experience in using data to measure success and drive improvements and decisions
+exceptional organization skills and interpersonal, verbal and written communications skills
+
+the offer
+
+salary from 8.000 up to 12.000 pln gross depending on skills
+stock options
+flexible forms of employment and working hours
+multisport
+private medical health care
+in-house english classes
+geek friendly and energetic environment
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "compliance manager" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+
+front–end software engineer (poznan, greater poland district - poland)
+egnyte is an usa based company with engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically
+              reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+            
+what we need:
+we are looking for a talented front-end software engineer with charisma and hacker mindset. you are supposed to bring to the table: experience at building modern & scalable web applications, sense of aesthetics and a can-do attitude.
+job duties and responsibilities:
+
+being an owner of a product from technical perspective
+write scalable and maintainable code
+collaborate with ux and ui designers
+come up with your own ideas of a product enhancement and productivity boost
+
+must have:
+
+knowledge of javascript, html5, css3
+experience with at least one of modern javascript frameworks: backbone, ember, angularjs, react, redux
+working knowledge of mv* and other design patterns
+
+nice to have
+
+production experience with highly scalable on-demand applications (saas)
+knowledge of scalable design principles
+understanding of cross-browser compatibility issues
+technical background not only limited to the frontend technologies
+
+the offer:
+
+salary from 8.000 up to 12.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options – how cool itâs to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com              add "front–end software engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+
+ios/macos engineer (poznan, greater poland district - poland)
+egnyte is a us based company with an engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+we are looking for ios/macos developers who will drive development of multi-functional client application. main challenge and complexity of our app lies on serving hybrid access and smart management of a content stored on the cloud, company servers and user local storage. weâd love to work with someone flexible, creative and smart. someone, who will find himself on our high-energy organisation. we are offering exciting opportunity of changing of our main products, already widely used by our customers (please find more information about our products here: link).
+job duties and responsibilities:
+
+design and development of a client application with native look and feel on macos. main development areas: design and optimization of internal caching mechanisms, application performance improvement, effective and secure communication with servers
+very close cooperation with the product manager, direct impact on final product shape
+
+must have:
+
+2+ years of software development experience
+experience with objective-c
+experience with os x and cocoa development but not a requirement if you are willing to learn
+experience in developing multithreaded applications, application profiling and debugging
+experience with unit testing
+experience with http, rest and json
+
+nice to have:
+
+understanding of xcode, interface builder and related tools
+background in building and scaling up distributed applications
+willingness to learn swift
+experience working with git version control
+
+the offer
+
+salary from 6.000 up to 10.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool is it to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conference budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "ios/macos engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+ios/macos senior/principal engineer (poznan, greater poland district - poland)
+egnyte is a us based company with an engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+we are looking for ios/macos senior/ principal developers who will drive development of multi-functional client application. main challenge and complexity of our app lies on serving hybrid access and smart management of a content stored on the cloud, company servers and user local storage. weâd love to work with someone flexible, creative and smart. someone, who will find himself on our high-energy organisation. we are offering exciting opportunity of changing of our main products, already widely used by our customers (please find more information about our products here: link).
+job duties and responsibilities:
+
+design and development of a client application with native look and feel on mac. main development areas: design and optimization of internal caching mechanisms, application performance improvement, effective communication with servers
+risk management by monitoring production environment, reacting before things get out of control
+direct impact on product shape based on business needs and feedback received directly from our customers
+very close cooperation with the product manager
+
+must have:
+
+5+ years of software development experience
+2+ years experience working on mac os x and/or ios
+proficient with objective-c
+deep knowledge of cocoa
+expertise in developing multithreaded applications, application profiling for performance and debugging
+experience with unit testing
+good understanding of xcode, interface builder and related tools
+experience with http, rest and json
+
+nice to have:
+
+background in building and scaling up distributed applications
+willingness to learn swift
+experience working with git version control
+
+the offer
+
+salary from 11.000 up to 16.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool is it to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conference budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "ios/macos senior/principal engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+mobile javascript engineer (poznan, greater poland district - poland)
+egnyte is a usa based company with an engineering team operating in the city of poznan since
+              2012. egnyte software provides customers with secure access to 100% of their business files from
+              any device, regardless of where those files physically reside. we're a creative, driven team of people
+              who want to make great products that solve real problems. this is your chance to be part of
+              something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+job duties and responsibilities:
+
+designing and developing windows universal app for windows surface device, windows pc,
+              windows phone
+working closely with the mobile team to push products out at an agile pace
+development using react
+
+must have:
+
+minimum 1 year of javascript experience
+working knowledge of html 5 and css
+great knowledge of algorithms
+communicative english skills
+needs to be able to take ownership and lead on a brand new product
+
+nice to have:
+
+mobile development experience
+react or redux frameworks experience
+experience in working with windows platform
+
+the offer:
+
+salary from 4.000 up to 7.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool is it to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "mobile javascript engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+
+monitoring engineer/sre (poznan, greater poland district - poland)
+egnyte is a usa based company with an engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our team of over 100 people in poznan.
+what we need:
+we are looking for a monitoring engineer/sre to join our team in poznan. our candidate needs to have initiative and curiosity, and the desire to learn. ideal candidate will be tech-savvy with a strong focus on maintaining availability and resilience of backend services.
+job duties and responsibilities:
+
+maintain and monitor our environments
+respond to critical application alerts
+cooperate with international teams
+identify and address performance challenges
+develop tools for proactive monitoring
+document and communicate progress on resolving issues
+
+must have:
+
+at least two years experience in a sre/sysadmin, software development, or equivalent role
+experience with linux shell
+willing to work in 24/7 shift system (including night shifts)
+ability to work effectively in globally distributed team structure
+good english skills
+initiative and curiosity
+
+nice to have:
+
+experience with automation frameworks
+familiarity with cloud solutions
+software development experience
+
+the offer:
+
+salary from 4.000 up to 8.000 pln gross depending on skills
+geek friendly and energetic environment
+stock options
+multisport
+private  medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com. add "monitoring engineer/sre" in the subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+            
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+principal software engineer (poznan, greater poland district - poland)
+egnyte is a usa based company with engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically
+              reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+what we need:
+we are looking for a talented and experienced principal software engineer who likes developing distributed, server–side products. you bring to the table: experience building cloud–based & scalable applications, drive to make
+              things happen and a can–do attitude. you understand that being a senior engineer does not only mean that you are expected to deliver code for your assignments but you also need to drive and execute complex projects across teams leading
+              fellow engineers.
+            
+job duties and responsibilities:
+
+lead technical design and execution of challenging cross-team projects related to storing, syncing and computing tremendous amount of data
+work closely with the development team and product management to deliver best in class products
+shape our long-term technical roadmap
+mentor and grow less senior engineers
+
+must have:
+
+proven experience in leading development of highly scalable and distributed applications (preferably using java)
+excellent general software engineering skills and knowledge, i.e. data structures and algorithms, design patterns, best practices, distributed computing, networking, etc.
+knowledge of how to build maintainable and monitorable distributed applications
+experience in working with large data sets using sql and nosql databases
+
+nice to have:
+
+background in building products from scratch
+experience in bringing a product to market in the enterprise file sync & share or the content governance space
+familiarity with docker & kubernetes and a strong opinion on how to build a robust ci/cd environment
+experience using python & selenium in terms of implementing end-to-end tests and willingness to work on the front-end when needed
+
+the offer:
+
+salary from 14.000 up to 20.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options
+multisport
+private medical health care
+in–house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com              add "principal software engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+
+professional services engineer (poznan, greater poland district - poland)
+egnyte is a usa based company with an engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our team of over 100 people in poznan.
+position description:
+as our customer base continues to grow, weâre looking for a professional services engineer to join our professional services team to lead and execute customer implementation projects while driving new revenue through identifying upsell opportunities and new user adoption.
+job duties and responsibilities:
+
+lead and execute the technical implementation of projects to ensure successful deployment and adoption of egnyte solutions by customers
+act as liaison between customers and internal teams such as engineering, product management and technical support to solve technical problems and propose new feature development
+engage multiple constituents at the customer organization – business users and it
+
+requirements
+
+strong technical skills that cover one or more of the following areas:
+                
+windows, linux operating systems
+microsoft active directory
+network and troubleshooting experience
+virtualization experience
+scripting experience
+storage platforms nas, san a plus
+windows, mac desktop experience
+
+
+prior experience implementing enterprise software or supporting enterprise applications in technical capacity
+strong experience in customer facing implementation roles
+excellent customer engagement, presentation and communication skills
+fluency of spoken and written command of english. other language (french, german or spanish) proficiency is a plus
+bachelorâs degree in computer science or related technical discipline preferred
+willing to travel to customer sites within the emea region - up to 10% of time
+
+the offer:
+
+salary from 8.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options
+multisport
+private medical health care
+in–house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com. add "professional services engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+qa engineer (poznan, greater poland district - poland)
+egnyte is a usa based company with engineering team operating in the city of poznan since 2012. egnyte software
+              provides customers with secure access to 100% of their business files from any device, regardless of where those files
+              physically reside. we're a creative, driven team of people who want to make great products that solve real problems.
+              this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+
+              poznan team.
+what we need:
+we are looking for a talented qa engineer who is excited to watch over quality of a product he or she works on. you
+  bring to the table: experience creating, automating and executing test cases, drive to make things happen and a can-do
+  attitude. you are willing to share your time between web and desktop applications.
+job duties and responsibilities:
+
+creating and executing test cases and test plans
+designing, developing and maintaining automated tests
+working closely with internal teams to understand product requirements, architecture, and technology
+identifying, analyzing, and documenting bugs
+
+must have:
+
+background in software testing, i.e. creating and executing test cases, building test plans, etc.
+experience in writing automation tests with python and selenium webdriver
+familiarity with testing web and desktop applications
+good command of english
+
+nice to have:
+
+familiarity with other programming languages, e.g. java, javascript, ruby, etc.
+working experience in using docker & kubernetes
+experience with microsoft windows server, powershell and sharepoint
+familiarity with atlassian jira & confluence, jenkins, google cloud platform
+
+the offer:
+
+salary from 6.000 up to 10.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool is it to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com. add "qa engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+release engineer (poznan, greater poland district - poland)
+egnyte is a us based company with an engineering team operating in the city of poznan since 2012. egnyte
+              software provides customers with secure access to 100% of their business files from any device, regardless of
+              where those files physically reside. we're a creative, driven team of people who want to make great products
+              that solve real problems. this is your chance to be part of something amazing and truly make an impact! now
+              you can do it by joining our 100+ poznan team.
+job duties and responsibilities:
+
+streamline, standardize and automate build and release processes
+              work closely with:
+              
+dev team - provide most efficient way to build packages, make sure dev resources are used in
+                the most productive way
+qa team - provide stable environment to run automated tests, create and execute previously
+                defined quality gates
+ops team - create automated process to create packages that will be deployed later on
+                production
+pmo team - make sure previous steps have been made in a consistent way across company
+                products and releases, with sync with our compliances (iso, soc2)
+
+
+create and maintain process responsible for delivering client-side services to customer (for example
+                desktop applications update process)
+provide tools and solutions that allow all manpower in engineering to work in most efficient way
+
+must have:
+
+good communication skills to be able work with people from different teams
+experience with scripting languages
+good understanding of git version control
+experience with linux shell
+communicative english skills
+
+nice to have:
+
+software development experience
+experience with jenkins, maven, nexus, jira, sonar
+
+the offer:
+
+salary from 4.000 up to 6.000 pln gross depending on skills
+stock options
+flexible forms of employment and working hours
+multisport
+private medical health care
+in-house english classes
+geek friendly and energetic environment
+training and conference budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com. add "release engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+
+senior android engineer (poznan, greater poland district - poland)
+egnyte is a us based company with an engineering team in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+            
+we are looking for senior android developers who will drive development of multi-functional mobile app. main challenge of our app lies on serving hybrid access and smart management of a content stored on the cloud, company servers as well user local storage. we are looking for someone flexible, creative and smart, someone who will find himself on our high-energy organisation. in return, we are offering exciting opportunity of changing of our main products widely used by our customers (please find more information about our products here: link).
+job duties and responsibilities:
+
+youâll be playing a major role in determining the trajectory of our product.
+you will own and advance the quality & performance of our android apps while building new features
+work closely with a tight-knit team to push products out at an agile pace
+
+must have:
+
+successful track record in developing android applications (sdk) with demonstrable portfolio of android apps you have worked on
+knowledge of dagger 2, retrofit 2 and rxjava
+familiarity with rest api's, mobile security best practices, web services, and sqlite
+experience in writing testable code
+
+nice to have:
+
+experienced with learning new frameworks on a variety of platforms
+experience in automation on general, knowledge of kotlin, espresso and uiautomator
+
+why we are cool:
+
+egnyte is rich in features application that gives you an opportunity to work with vast set of os apis
+we have a green light for kotlin
+we do care about automated testing
+
+the offer
+
+salary from 10.000 up to 14.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool is it to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conference budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "senior android engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926, as amended).
+
+
+
+
+
+senior program manager (poznan, greater poland district - poland)
+egnyte is an usa based company with engineering team in the city of poznan since 2012. egnyte
+              software provides customers with secure access to 100% of their business files from any device,
+              regardless of where those files physically reside. we're a creative, driven team of people who want
+              to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+ poznan team.
+            
+job duties and responsibilities:
+
+own the success of egnyte product releases. be the credible and trusted leader to deliver
+                our product releases to customers on plan and with high quality
+drive the planning and execution of product releases from inception to ga. lead a delivery
+                team of product managers, engineering, qe and other functional teams to deliver
+                throughout all the release phases.
+build and run, with the team, the release master plan (schedule, dependencies, risks, etc.).
+                use your technical background and product knowledge to proactively identify risks, issues
+                and drive their resolution.
+be the expert on release lifecycle processes and champion process best practices, metrics
+                and high quality standards with your delivery team
+independently and accurately report on the state of your release to executive stakeholders.
+                be the trusted speaker on the state of release
+coach others to maintain consistently high standards of communication, productivity and
+                teamwork across all teams
+
+skills - experience and requirements:
+
+degree in computer science or related field
+              5+ years of experience running software engineering and project/program management
+experienced in software development and project/program management fundamentals
+                (software development lifecycle and quality processes, such as scoping, costs, schedules,
+                deliverables, change and risk management, and mitigation)
+excellent oral/written communication, interpersonal, and analytical skills. outstanding
+                organizational, prioritization, and multitasking skills
+exceptional skills influencing teams and delivering solutions in a complex environment
+ability to work on multiple projects concurrently in as fast paced environment and drive
+                change across engineering groups
+strong software engineering technical background with a passion for delivering high
+              performance, quality software
+
+the offer
+
+salary from 9.000 up to 15.000 pln gross depending on skills / seniority level
+stock options
+flexible forms of employment and working hours
+geek friendly and energetic environment
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins
+              caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com              add "senior program manager" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+senior software engineer (poznan, greater poland district - poland)
+egnyte is a california, us based company with engineering team in the city of poznan since 2012. egnyte provides
+              customers with secure access to 100% of their business files from any device, regardless of where those files
+              physically reside. we're a creative, driven team of people who want to make great products that solve real
+              problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by
+              joining our 100+ poznan team.
+            
+job duties and responsibilities:
+
+you will influence the development of a global product deployed on hundreds of servers around the world
+design and implement core, backend software components
+analyze and improve efficiency, scalability and stability of existing backend servers
+
+must have:
+
+experience developing applications using java, junit, tomcat and spring
+experience in building large - scale server applications
+experience in debugging multi threaded applications and performance analysis
+knowledge of databases and sql, preferably mysql or postgresql
+experience with test driven development and agile methodology
+knowledge of software development best practices and willingness to provide guidance to less senior peers
+                in that area
+openness, adaptability, and flexibility in responding to change
+
+nice to have:
+
+saas at scale production experience
+experience with technical leadership and mentoring juniors
+
+the offer:
+
+salary from 10.000 up to 14.000 pln gross depending on skills
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins
+              caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com add "senior software engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+technical support engineer (poznan, greater poland district - poland)
+egnyte is a usa based company with an engineering team operating in the city of poznan since 2012. egnyte software provides customers with secure access to 100% of their business files from any device, regardless of where those
+              files physically reside. we're a creative, driven team of people who want to make great products that solve real problems. this is your chance to be part of something amazing and truly make an impact! now you can do it by joining our 100+
+              poznan team.
+job duties and responsibilities:
+
+provide technical support to egnyte's customer base and partners
+provide support primarily via phone, e-mail, and web conferencing tools
+work effectively and professionally with users who span from it, business users, partners and executives
+master egnyte's product capabilities and serve as the subject matter expert within the support organization
+work with product management, engineering and sales to effectively take issues to resolution
+participate in testing of new and updated products and provide feedback
+write technical documents such as service and product faq's, guides, and manuals
+
+skills - experience and requirements:
+
+strong technical skills, including but not limited to:
+                
+understanding of directory services including microsoft ads and open ldap
+familiar with network protocols, services and tools and apply troubleshooting methods
+knowledge of linux
+proficient with microsoft office products
+internet expertise (including knowledge of different browsers, plug-ins, and settings)
+familiarity with support ticket, call center, and knowledgebase systems
+salesforce.com experience is a plus
+
+
+communicative english and german skills
+
+the offer:
+
+attractive salary, proportional to the demonstrated skills and experience
+flexible forms of employment and working hours
+geek friendly and energetic environment
+stock options â how cool itâs to be the owner
+multisport
+private medical health care
+in-house english classes
+training and conferences budget
+team lunches and events
+
+egnyte is privately held and funded by top notch investors such as: google ventures, kleiner perkins caufield & byers, polaris partners, floodgate fund, northgate, centurylink and seagate.
+apply today by sending your resume in english to jobs_poland@egnyte.com.
+              add "technical support engineer" in a subject line. you are more than welcome to share with us everything you are proud of: links, portfolio, github repositories etc.
+i hereby agree for my personal data, included in my job application, to be processed in line with the needs of recruitment, in accordance with the law on personal data protection of 29 august 1997 (law gazette from 2002, no.101, heading 926,
+              as amended).
+
+
+
+
+
+
+sales
+account executive, emea (bracknell, uk)
+          
+sales development representative, emea (bracknell, uk)
+          
+sr. account executive, emea (bracknell, uk)
+          
+sr. sales engineer (bracknell, uk)
+          
+
+
+
+account executive, emea (bracknell, uk)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+the account executive will join a growing sales organization in closing new business with a wide range of small to midsize companies.
+to attain revenue quotas, the account executive:
+
+personally engages, sells, and closes opportunities with new prospects in an assigned geographic territory
+continually ensures sales pipelines meets requirements, including:
+                
+30 day = 1.5 x mrr quota, 60 day = 2 x mrr quota, 90 day 3 x mrr quota
+
+
+generates sales pipeline through activities including:
+                
+warm\cold calls
+referrals
+value chain selling
+qualifying, supporting, and closing website-generated trials and marketing-generated leads
+nurturing "not ready" opportunities until the point that they are ready to enter a sales cycle
+
+
+uses salesforce.com for time and pipeline management as directed, including keeping record of communications, appointments, accounts, forecasting and opportunities
+
+qualifications
+
+demonstrated success finding, nurturing and closing new business
+previous experience selling saas, business applications and/or cloud solutions.
+excellent written and oral communication skills, in addition to formal presentation skills before both small and large groups
+bachelorâs degree or equivalent experience
+
+please send your resume to jobs@egnyte.com and reference âaccount executive, emeaâ in the subject line.
+
+
+
+
+
+
+sales development representative, emea (bracknell, uk)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.â¨
+job description:
+the sales development representative will play an integral role in driving the growth of our customer base and revenue through generating qualified leads for our enterprise sales team.
+specific responsibilities will include:
+
+conduct outbound calls to lead campaigns
+identify opportunities, generate interest, qualify, educate, and develop new opportunities
+work with field sales team counterparts to develop and build territory plan
+
+the successful candidate will need:
+
+demonstrated success in sales development or lead generation
+prior experience with cloud and/or saas products preferred
+experience with salesforce.com is a plus
+organizational skills and attention to detail
+ability to understand technology and communicate it to prospects
+quick learner and self-starter with an entrepreneurial work ethic
+knowledge of business organizational structures and buying influences
+bs/ba or equivalent experience
+
+please send your resume to jobs@egnyte.com and reference âsales development representative, emeaâ in the subject line.
+
+
+
+
+
+
+sr. account executive, emea (bracknell, uk)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+the sr. account executive will join a growing sales organization in the uk, closing net-new business with a wide range of mid market companies (between 1,000 and 5,000 employees).
+as a successful account executive you will be responsible for:
+
+driving new business revenue opportunities.
+generating your own leads through strategic lead generation activities such as cold calling, social selling, and managing the incoming leads generated through the companyâs marketing activities.â 
+utilize a consultative sales approach to discover client pain points and put together proposals on how you can help with their needs.â 
+work with c-suite decision makers, you will demonstrate excellent communication skills and have a tenacious, adaptable attitude to build solid professional relationships.â 
+the role is office based in egnyteâs uk office in bracknell, berkshire.
+
+egnyte is looking for a proven account executive/new business professional who can demonstrate success in developing and closing new business opportunities. core skills and background include:
+
+proactive individual with a self-starting attitude a consultative approach to generating and closing new business able to own and develop relationships with c-level stakeholders.
+strong organizational skills with excellent time management.
+motivated by over-achievement and learning new skills a strong background in the cloud/it/technology arena.
+a positive and optimistic personality with the desire to succeed.
+an entrepreneurial spirit, competitive and passionate about the brand salesforce.com. competent, managing pipeline, forecasts and territory demonstrated.
+success closing new business with mid market and/or enterprise customers across multiple industries.
+previous experience selling saas, business applications and/or cloud solutions.
+excellent written and oral communication skills, in addition to formal presentation skills before both small and large groups.
+bachelorâs degree or equivalent experience.
+
+please send your resume to jobs@egnyte.com and reference âsr. account executive, emeaâ in the subject line.
+
+
+
+
+
+
+sr. sales engineer (bracknell, uk)
+about egnyte:
+egnyte, a leader in the gartner magic quadrant for enterprise file share and synchronization, allows organizations to connect, protect, and unlock value from all their content. our content intelligence platform delivers smart content collaboration and governance in the cloud or on-premises to thousands of businesses around the world in even the most regulated industries. founded in 2007, egnyte is privately held and headquartered in mountain view, ca. investors include venture capital firms, such as google ventures and kleiner perkins caufield & byers, as well as technology partners, such as centurylink and seagate technology.
+position description:
+the sales engineer will be the "liaisonâ between sales and operations by identifying and removing any potential road blocks early on in the sales process while creating detailed specifications agreed upon by both egnyte and the customer(s). you'll also provide dedicated sales support to the field and inside sales team.
+responsibilities:
+
+proactively identify and address customer's technical needs and objections to drive sales.
+protect egnyte as an organization from projects in which technical issues outweigh value to egnyte by being able to delineate between technically feasible and technically problematic opportunities
+assist sales team through preparation and delivery of technical presentations and statements of work by matching specific client business requirements into effective technical solutions, with a focus on the egnyteâs products and services.
+maintain high level knowledge of competitive product lines, especially as it relates to technical strengths and weaknesses of the competitor's products and what strategy egnyte should develop to counter.
+maintain high-level knowledge of all other egnyte products/services, competitive product lines, and industry through self-education and egnyteâs resources.
+perform technical benefits assessment for customers by gaining detailed understanding of their environment.
+travel to customer site if needed, depending on the customer engagement.
+
+qualifications:
+
+demonstrated success in sales engineering and/or pre-sales technical role
+ability to work with all levels of management up to the cio
+strong people orientation with the ability to listen, work, resolve and prioritize issues to achieve customer satisfaction
+strong presentation skills and ability to sell effectively in front of an audience
+ability to assess quickly the critical elements of a situation and decide and execute appropriate action
+broad knowledge of saas, active directory, authentication, security and associated it infrastructure technologies that touch file servers and ftp servers.
+bachelorâs degree in business information systems, computer science, communications or related field or equivalent work experience
+
+please send your resume to jobs@egnyte.com and reference âsr. sales engineerâ in the subject line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+smart content collaboration & governance
+egnyte transforms business through smarter content allowing organizations to connect, protect, and unlock value from all their content.
+
+
+
+
+
+
+©  egnyte, inc. all rights reserved
+
+
+
+
+
+
+resources
+
+webinars and demos
+product collateral
+analyst reports
+white papers
+use cases
+videos
+infographics
+ask an expert
+new features
+custom roi analysis 
+
+
+
+
+support
+
+professional services
+support packages
+technical support 
+sales questions
+billing questions
+reseller questions
+forum 
+
+
+
+
+news & events
+
+news
+press releases
+events
+newsletters
+blog 
+press kit
+
+
+
+
+company
+
+about us
+contact us
+careers
+management team
+investors
+
+
+
+
+fine print
+
+compliance
+privacy policy
+terms of service
+site map
+
+
+
+
+quick links
+
+enterprise file sharing
+full features
+enterprise local cloud
+secure file sharing
+small business
+personal local cloud
+solutions
+cloud file server
+office local cloud
+file backup
+ftp server
+centralized administration
+local cloud
+
+
+
+
+
+
+enterprise file sharing
+full features
+enterprise local cloud
+
+
+
+
+secure file sharing
+small business
+personal local cloud
+
+
+
+
+solutions
+cloud file server
+office local cloud
+
+
+
+
+file backup
+ftp server
+
+
+
+
+centralized administration
+local cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

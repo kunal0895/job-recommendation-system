@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position: 
+                            
+                            
+                                
+                                    full-stack software developer
+                            
+                        
+
+
+
+location: 
+                                
+                                    addison, tx
+                                
+                        
+
+
+
+job id: 
+                            
+                            
+                                
+                                    460
+                            
+                        
+
+
+
+# of openings: 
+                            
+                            
+                                
+                                1
+                            
+                        
+
+
+
+
+
+
+
+
+full stack developer
+the full stack developer position is responsible for the design and development of a custom suite of products that helps churches do ministry more effectively. just like your team, you will be focused on high quality results in rapid development cycles, and will have a high degree of ownership to help craft software that is reliable and enjoyable to use for the end user.
+ 
+major responsibilities/duties:
+design, develop, and implement applications using the .net framework, sql server, and javascript-based framework technologies
+work with product owners on solutions, feasibility of implementation, and estimations for requests
+identify tech debt and manage/modernize alongside feature requests
+ 
+requirements for the position:
+ 
+      experience with the following:
+
+c# development
+	
+json
+asp.net mvc and webforms
+ado.net
+entity framework
+
+
+sql server
+	
+query optimization
+t-sql programming
+
+
+web development
+	
+knowledge of web standards, css3-based design and cross-browser compatibility
+experience with the following technologies: angularjs, angular 2, reactjs, gulp, webpack, npm, css preprocessing languages
+expertise in responsive and adaptive web development strategies
+
+
+unit testing
+dependency injection
+separation of concerns
+
+bachelor’s degree in computer science and/or equivalent job experience
+3+ years of application development experience
+strong analytical and customer service skills
+knowledge of development life cycle with supporting tools and practices (i.e. source control flow, unit testing, qa, release cycles, and documentation)
+practical experience in agile development methodologies
+demonstrated track record of initiative, teamwork, and the ability to stay focused on results
+     
+bonus experience:
+
+work with schemaless databases
+creating real-time web applications
+static code analysis and application profiling
+mobile development experience
+experience with material design language and bootstrap framework
+
+
+
+
+
+
+                                apply for this position
+                            
+
+
+
+
+
+
+
+
+                    apply with indeed
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+            go back to the job list
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+applicant privacy policy
+
+
+
+
+
+
+
+
+
+
+

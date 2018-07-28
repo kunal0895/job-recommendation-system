@@ -1,0 +1,295 @@
+
+
+
+        software engineer -        shiftgig -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for visiting our job board. please review our open positions and apply to the positions that match your qualifications. 
+
+
+
+software engineer
+
+
+chicago, il                    
+
+full time                
+
+engineering                    
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shiftgig, one of chicago’s hottest and fastest growing technology companies, is actively seeking a software engineer in our chicago office. we are a tech company in a non-tech space and as such, we have a lot of interesting problems to solve. our architecture is centered around internal and external apis with consuming clients being our single page applications and native mobile apps.
+about you:
+you have experience building python applications. you love writing clean, idiomatic code that you can be proud of when it's released and when there's need to revisit it.
+ 
+you have a passion for software development and making neat things to help people in their daily lives. the social aspect of our business is very important to our team.
+ 
+you like a collaborative working environment and being a part of a multifunctional team.  you enjoy participating in meaningful discussions with other talented individuals in order to find the best approach for solving the challenge at-hand.
+ 
+you understand how to balance pragmatic, iterative development with the long-term vision of a scalable and usable product. 
+what you'll need:
+
+2+ years of python as your primary programming language
+crafting restful apis
+debugging python
+taking ownership over parts of an application and collaborating on global issues
+experience with relational and non-relational data stores
+linux/unix as your server os
+excellent communication skills (english)
+
+bonus skills:
+
+you have experience with postgres
+you've used flask and/or falcon
+you're comfortable using sqlalchemy as your orm
+you're familiar with celery
+you have some experience working with message queues (rabbitmq)
+you're experienced at writing unit tests
+you enjoy the agile software development process
+
+about shiftgig:
+shiftgig connects businesses with the on-demand workforce through our industry-leading mobile platform. our technology provides financial opportunity for hourly workers seeking flexibility and choice, while delivering powerful business agility to companies. more than 2,500 clients in food service, hospitality, retail, warehouse and experiential marketing use shiftgig because of its ability to easily fill and manage short- term job assignments with pre-vetted, skills-assessed workers. shiftgig is changing the way people work.
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

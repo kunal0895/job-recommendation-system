@@ -1,0 +1,1237 @@
+
+
+
+
+software engineer - twitter cloud infrastructure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+twitter logo icon
+
+careers
+
+
+
+
+arrow down icon
+
+
+
+
+
+
+                locations
+              
+
+
+
+                teams
+              
+
+
+
+                diversity
+              
+
+
+
+                university
+              
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+search icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work for twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - twitter cloud infrastructure
+
+new york, ny
+
+
+
+
+
+
+
+
+
+
+
+from theâ team who built and deployed twitter's first-everâ compatible datacenter in aws and gcp, our new mission is toâ provide the nextâ generation of data analytics and data understanding at twitter. using the data from our advertising platform as our starting point, our goal isâ to make answering complex questions at twitter as easy as asking them.â we're going to start by taking the massiveâ data sets we collect every day (along with all its history) and making everythingâ fully queryable and searchable in seconds!â and we're also going to build all theâ tools necessaryâ to highlightâ issues well before they ever get a chance to turn into real problems for the business.in our previous project, weâ learned that we could build technology that would effectivelyâ offload pager and infrastructure maintenance duties to the cloud, which gaveâ our engineers more time to focus onâ building new solutions versus maintaining existing ones. given the enormity of the task we face, we need you to help usâ design and implement the tools and services that will make it easier for twitter to make moreâ data-driven decisions than ever before!what you'll do:this team has taken on a new role in revenue insights, so everything is brand new for us. so,â here is a sampling of past projects we've completed:
+twitter cloud data center (tcdc) - created a replica of twitter's data centers in both amazon web services (aws) and google cloud platform (gcp). this allowed any twitter service to run in the cloud to support dynamic machine allocation and regional deployments.kafka-mesos (https://github.com/mesos/kafka/) - recently migrated kafka to run on our mesos cluster for easier management. quickly became the most active committer to the project and took over ownership.data center manager (dcm) - a tool embracing âdata centers as configurationâ. it allows us to bring up an entire production-ready tcdc region in hours.
+current/upcoming projects:
+query service - empower users to query data consistently from wherever it lives. we recognize that that customers will put their data in the places and tools that services them best and this will allow others to access data consistently regardless of where it's located.query cache - using google's dataflow and beam, we will be aggregating bigquery data in bigtable so that customers and clients will experience blazing speed when investigating their metrics.automatic alerting - will allow users to select the metrics that are important to them and display those metrics in dashboards when unusual trends occur.
+what else you can expect:
+we believe that people are our strongest asset, and take special interest in each and every one of our engineers. you can expect a real investment in your professional growth, and a dedication to crafting a strong, sustainable career for you. our teams are composed of highly talented and passionate 'a' players, and youâll get the mentorship and coaching you deserve to hone your skills and expertise. our vibrant culture and high expectations will kindle your passion and bring out the best in you!
+in particular, we are an experienced team of senior engineers that work across batch, streaming, and serving systems to deliver solutions to a diverse set of problems here at twitter. we move quickly and we expect to make an impact. if this describes your approach to writing software, apply to join us!who you are:
+industry experience working in a distributed computing environment.a strong passion for building tools and systems that enable other developers on your team to build great things.proven strengths in algorithms, complex data structures, and dynamic programming.previous experience with cloud server environments such as amazon web services (aws) and/or google cloud platform (gcp).good understanding of continuous integration and a strong drive toward automation.good understanding of multi-threading, scaling, concurrency, caching, queuing, rpc, and distributed data storage.ability to thrive in a dynamic, fast-paced, collaborative, and high-growth environment.strong attention to detail.
+for bonus points, you would also have:
+experience administering production systems (preferably linux) and a general awareness of devops best practices.experience with the lambda architecture and different ways of implementing it.contributed / committed to a well-known open source project and/or interest in doing so in the future.demonstrated ability to excel in whatever you pursue (whether it's work, school, competitions, open source contributions, personal projects, etc. you've always stood out and succeeded).
+we are committed to an inclusive and diverse twitter. twitter is an equal opportunity employer. we do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.san francisco applicants: pursuant to the san francisco fair chance ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+engineering hiring process
+
+
+
+
+
+
+
+
+
+
+step 1
+once your application is received, a recruiter will reach out pending your qualifications are a match for the role.
+
+
+
+
+step 2
+if your background is a match, you may have 1-2 technical phone interviews or be given the chance to provide a work sample depending on the role.
+
+
+
+
+step 3
+if the phone interviews go well or your work sample is strong, the final step includes interviews with 5-6 people held onsite in our office.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+personal information
+
+
+
+
+
+
+
+
+first name*
+
+this field is required.
+
+
+
+
+
+
+
+
+last name*
+
+this field is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+
+
+city
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+district of columbia
+american samoa
+guam
+northern mariana islands
+puerto rico
+united states minor outlying islands
+virgin islands, u.s.
+
+
+
+
+
+
+
+country*
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+afghanistan
+aland islands
+albania
+algeria
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia, plurinational state of
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+chinese taipei
+christmas island
+cocos (keeling) islands
+collectivity of saint martin
+colombia
+comoros
+congo, rebublic of
+congo, democratic republic of
+cook islands
+costa rica
+cote d'ivoire
+croatia
+cuba
+curaã§ao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+french guiana
+french polynesia
+french southern territories
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard island and mcdonald islands
+honduras
+hungary
+iceland
+india
+indonesia
+iran, islamic republic of
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea, democratic people's republic of
+korea, republic of
+kuwait
+kyrgyzstan
+lao people's democratic republic
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia, the former yugoslav republic of
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+moldova, republic of
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+norway
+oman
+pakistan
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthã©lemy
+saint helena, ascension and tristan da cunha
+saint kitts and nevis
+saint lucia
+saint pierre and miquelon
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+sudan
+suriname
+svalbard and jan mayen
+swaziland
+sweden
+switzerland
+syrian arab republic
+tajikistan
+tanzania, united republic of
+thailand
+timor-leste
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+uzbekistan
+vanuatu
+vatican city state
+venezuela, bolivarian republic of
+viet nam
+virgin islands, british
+wallis and futuna
+western sahara
+yemen
+zambia
+zimbabwe
+
+
+this field is required.
+
+
+
+
+
+
+email address*
+
+this field is required.
+
+
+
+
+
+
+
+
+zip code
+
+
+
+
+
+
+
+primary phone*
+
+this field is required.
+
+
+
+
+
+
+
+
+
+resume/profile*
+
+
+upload
+
+
+
+
+required field. pdfs only; max file size is 1mb.
+
+
+
+
+cover letter
+
+
+upload
+
+
+
+
+required field. pdfs only; max file size is 1mb.
+
+
+
+
+
+
+
+
+
+
+
+u.s. equal opportunity employment information â (completion is voluntary)
+at twitter, we have a bold aspiration to reach every person on the planet. we believe that goal is more attainable with a team that understands and represents different cultures and backgrounds and we are committed to an inclusive and diverse twitter. 
+this is where you come in! please take a few minutes to provide us with your information. you are not required to provide this information and you may decline to disclose. your decision to provide information (or not) will not affect your employment or opportunities at twitter.
+twitter is an equal opportunity employer. we do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.
+
+
+
+
+
+
+
+gender
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+female
+male
+other or withhold / decline to disclose
+
+
+
+
+
+
+
+race/ethnicity
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+asian (not hispanic or latinx)
+black or african american (not hispanic or latinx)
+hispanic or latinx
+native american or alaska native (not hispanic or latinx)
+native hawaiian or other pacific islander (not hispanic or latinx)
+two or more races / multiracial
+white (not hispanic or latinx)
+withhold / decline to disclose
+
+
+
+
+
+
+
+veteran status
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+i am not a u.s. veteran
+i identify as a u.s. veteran
+withhold / decline to disclose
+
+
+
+
+
+
+
+
+
+gender identity
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+gender-nonconforming
+neither gender-nonconforming nor transgender
+transgender
+withhold / decline to disclose
+
+
+
+
+
+
+
+sexual orientation
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+bisexual
+gay
+heterosexual
+lesbian
+other
+withhold / decline to disclose
+
+
+
+
+
+
+
+veteran branch of service
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+air force
+army
+coast guard
+marines
+navy
+other
+withhold / decline to disclose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you can view the âeeo is the lawâ posterâ here.
+
+twitter does not accept any unsolicited resumes from recruiting agencies and will not pay fees associated with any such resumes. agencies, please do not send resumes to any twitter location, employee, or email address.
+twitter, inc. is committed to working with and providing access and reasonable accommodations to applicants with physical or mental disabilities. if you need an accommodation in order to apply for open job opportunities, please submit a description of your accommodation request to rarequest-recruiting@twitter.com. this email is only for accommodation requests related to the application process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+
+thanks for applying!
+
+
+
+
+
+
+
+
+error
+
+submission failed. please make sure all fields are correctly formatted. 
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+don't see the right fit?
+check out other opportunities at twitter.
+
+
+
+explore our teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              join the flock
+              
+
+
+
+@jointheflock
+
+
+
+
+
+
+
+twitter logo icon
+
+follow
+
+
+
+
+
+
+twitter recruiting: all the deets about who we're hiring, what we're doing and why you should come and work here! #lovewhereyouwork
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              twitteru recruiting
+              
+
+
+
+@twitteru
+
+
+
+
+
+
+
+twitter logo icon
+
+follow
+
+
+
+
+
+
+we're your one stop shop for anything university related. that means campus outreach, student advice/tips, & of course, our university recruiting efforts!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+
+
+letâs go twitter
+
+
+company
+
+
+values
+
+
+safety
+
+
+blog
+
+
+brand resources
+
+
+careers
+
+
+investors
+
+
+
+
+
+
+business
+
+
+about twitter ads
+
+
+targeting
+
+
+analytics
+
+
+ads support
+
+
+business blog
+
+
+advertise
+
+
+
+
+
+
+developers
+
+
+documentation
+
+
+forums
+
+
+communities
+
+
+developer blog
+
+
+
+
+
+
+help center
+
+
+using twitter
+
+
+managing your account
+
+
+safety and security
+
+
+rules and policies
+
+
+contact us
+
+
+
+
+
+
+marketing
+
+
+insights
+
+
+success stories
+
+
+solutions
+
+
+collections
+
+
+marketing blog
+
+
+flight school
+
+
+
+
+
+
+
+
+© 2017 twitter, inc.
+
+cookies
+privacy
+terms and conditions
+
+
+language
+
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,952 @@
+
+
+
+
+
+
+
+
+
+
+
+
+sr. technical data analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+generation
+
+
+technologies
+
+
+services
+
+
+portfolio
+
+
+asset map
+
+
+
+
+business
+
+
+residential
+
+
+electricity providers
+
+
+solar
+
+
+power on the go
+
+
+
+
+renewables
+
+
+technologies
+
+
+services
+
+
+projects
+
+
+
+
+sustainability
+
+
+vision
+
+
+strategy
+
+
+governance
+
+
+reporting
+
+
+
+
+news
+
+
+power perspectives
+
+
+press releases
+
+
+gallery
+
+
+
+
+company
+
+
+about
+
+
+investors
+
+
+community
+
+
+careers
+
+
+stories
+
+
+energy policy
+
+
+
+
+
+
+
+
+
+
+jobs by category
+
+select one
+power marketing
+finance and risk
+accounting/tax
+marketing and communications
+skilled labor, power plant & energy generation
+retail operations
+information technology
+intern/rotational program
+business development
+corporate
+
+
+
+or
+
+
+search jobs by keyword
+
+
+
+
+search
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sr. technical data analyst
+
+date: 
+dec 11, 2017
+                
+
+
+location: 
+houston, tx, us
+
+
+company: 
+nrg
+
+
+nrg is the leading integrated power company in the u.s., built on the strength of our diverse competitive electric generation portfolio and leading retail electricity platform. a fortune 500 company, nrg creates value through best-in-class operations, reliable and efficient electric generation, and a retail platform serving residential and commercial businesses. working with electricity customers large and small, we implement sustainable solutions for producing and managing energy, developing smarter energy choices and delivering exceptional service as our retail electricity providers serve almost three million residential and commercial customers throughout the country.. more information is available at www.nrg.com. connect with nrg energy on facebook and follow us on twitter @nrgenergy.
+ 
+summary:  
+ 
+this position is responsible for addressing highly challenging operational and scientific problems using data analytics, machine learning, modeling and statistics for the nrg home solar, nrg retail, commodity and non-commodity areas.   the individual should have robust knowledge in data architecture, data stewardship, data warehousing, statistics, process automation, data visualization, predictive analytics, and machine learning (deep neural networks, supervised, unsupervised) to create software applications/tools that reduce or eliminate operational costs, optimize workflow efficiency, satisfy contractual obligations to customers/partners, and provide actionable insight to stakeholders ranging from agents up to and including executive leadership.
+ 
+essential duties/responsibilities:
+
+drive innovation through data analytics.  brainstorm, theory craft, and identify opportunities utilizing data that streamline workflow, eliminate redundancies, and reduce cost.
+drive decisions through data utilization.  create simulations / visualizations and communicate the sophisticated concepts (machine learning / monte carlo simulations) to key stakeholders and explain the story the output tells, in a meaningful and understandable way.
+write algorithms and programs that focus on value creation by automating rote tasks / reporting.
+act as a liaison between home solar and it.  educate system users on best practices and make recommendations for data architecture additions and modifications.
+serve as the resident big data expert for nrg home solar.
+serve as the main point of contact for home solar reporting.
+support o&m, lease operations, legal, and accounting teams by fielding and answering outlier questions and providing requested data / recommendations.
+serve as the main point of contact for home solar data activities.  including external reporting for financial partners.
+serve as the main point of contact for our external partners that house our solar generation data.  
+maintain, leverage, and troubleshoot our current code base.
+responsible for maintaining and monitoring our internal data warehouse.
+responsible for quality assurance, ensuring our current tools are operating as expected.
+ensure contractual obligations are being satisfied by the existing code base.
+drive efforts for data cleansing/scrubbing.
+perform ad-hoc tasks as required.
+availability for remote support when required.
+train personnel on how to use custom systems and tools.
+
+ 
+position requirements:
+ 
+education: 
+bachelor’s degree in quantitative field such as engineering, statistics, mathematics, computer science, or equivalent education and/or work experience.
+ 
+experience:
+
+a minimum of 3-5 years’ experience serving as a system and solutions architect in development, reporting, and data analytics. 
+spotfire knowledge for custom report creation
+salesforce knowledge
+strong knowledge in cloud computing (amazon web services)
+proficient in use of version control software (github, gitlab)
+proficient in writing and leveraging api’s used for data aggregation from 3rd party data sources
+substantial r or python programming experience is expected, previous experience with sas can also be considered
+proficient in writing sql scripts
+knowledge of relational databases
+ability to write batch files, schedule tasks / cron jobs
+ 
+
+
+additional knowledge, skills and abilities:
+
+position requires a self-starter who will operate autonomously with little direction.
+ability to develop recommendations/action plans and manage multiple projects simultaneously.
+clearly communicates complex technical concepts both in a written and oral manner.
+excellent problem solving skills and ability to use good judgment to make recommendations and decisions.
+ability to import, export, and manipulate data files between various it applications and databases. (e.g., oracle, sap, sql server, salesforce, 3rd party platforms
+intelligence, flexibility, patience, and tenacity are quintessential to success in this role. 
+ 
+
+
+physical requirements:
+
+occasionally requires lifting as appropriate to perform duties and responsibilities.
+
+ 
+working conditions
+
+open office environment.
+some overtime required as special projects arise
+
+
+
+ 
+
+nrg energy is committed to a drug and alcohol free workplace.  to the extent permitted by law and any applicable collective bargaining agreement, employees are subject to periodic random drug testing, and post-accident and reasonable suspicion drug and alcohol testing. eoe aa m/f/protected veteran status/disability
+eeo is the law poster (the poster can be found at http://www.eeoc.gov/employers/upload/poster_screen_reader_optimized.pdf)
+
+level, title and/or salary may be adjusted based on the applicant's experience or skills.
+official description on file with human resources
+
+
+
+nearest major market: houston
+                    
+                
+
+
+
+find similar jobs: 
+
+retail operations jobs,
+ retail operations
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+jobs
+
+overview
+
+
+search for jobs
+
+
+view our job map
+
+ our culture
+
+working at nrg
+
+
+workplace diversity
+
+
+talent community
+join
+
+
+sign in
+
+
+
+
+featured jobs
+
+power marketing
+finance and risk
+accounting/tax
+marketing and communications
+skilled labor, power plant & energy generation
+retail operations
+information technology
+intern/rotational program
+business development
+corporate
+
+
+
+jobs
+
+
+overview
+
+
+search for jobs
+
+
+view our job map
+
+
+
+
+our culture
+
+
+working at nrg
+
+
+workplace diversity
+
+
+
+
+featured jobs
+
+power marketing
+finance and risk
+accounting/tax
+marketing and communications
+skilled labor, power plant & energy generation
+retail operations
+information technology
+intern/rotational program
+business development
+corporate
+
+
+
+talent community
+
+join
+
+
+sign in
+
+
+
+working at nrg
+
+
+workplace diversity
+
+
+
+
+
+
+
+
+
+
+
+
+about nrg
+
+who we are (about nrg)
+work with nrg
+our management
+
+
+
+legal
+
+legal notices
+privacy policy
+terms of use
+
+
+
+investors
+
+investors overview
+presentations & webcasts
+
+
+sec filings
+
+
+
+
+careers
+
+job openings (careers)
+green mountain sales jobs
+view all jobs
+top job searches
+
+
+
+contact us
+
+contact information/ us
+
+
+
+
+©
+                2017  nrg energy, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

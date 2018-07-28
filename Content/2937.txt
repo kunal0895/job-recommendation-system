@@ -1,0 +1,528 @@
+
+
+software developer position | futurex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+solutions
+
+
+
+industry solutions
+
+financial institutions
+iot manufacturing
+retail
+government and defense
+healthcare
+educational institutions
+view all
+technology
+
+tokenization​
+pci dss compliance scope reduction
+point-to-point encryption
+electronic invoice signing
+public key infrastructure
+emv issuance & processing
+view all
+
+virtucrypt cloud
+
+
+hardened enterprise security platform
+
+
+industry standards membership
+
+
+compliance
+
+
+bam
+
+
+resource library
+
+
+
+
+products
+
+
+trusted identity
+authenticrypthardware security modules
+vectera seriesexcrypt seriesexcrypt ssp enterprise v.2esm1000rem1000excrypt ssp9000
+view allsecure storage
+sas9000key management servers
+kmes series 3rkms series 3ski series 3manufacturer-class certificate authority serverkmes seriesrkms series
+view alltls line encryption
+kryptos tls serverremote and centralized management
+guardian series 3guardian9000securuscryptocubeenterprise enclosure
+cryptocube
+
+virtucrypt cloud
+
+
+hardened enterprise security platform
+
+
+industry standards membership
+
+
+compliance
+
+
+bam
+
+
+resource library
+
+
+
+services
+support
+
+about
+
+
+about
+about futurexour corporate cultureindustry standards
+careers
+resource library
+news
+blog
+events
+our partners
+compliance
+portal
+
+
+contact
+
+
+
+
+
+
+
+
+
++1 (830) 980-9782
+[email protected]
+
+login /register
+live chat
+
+
+
+
+
+
+solutions
+
+
+
+industry solutions
+financial institutions
+iot manufacturing
+retail
+government and defense
+healthcare
+educational institutions
+view all
+
+
+
+technology
+tokenization​
+pci dss compliance scope reduction
+point-to-point encryption
+electronic invoice signing
+public key infrastructure
+emv issuance & processing
+view all
+
+
+
+
+
+
+
+next-generation securus announced
+july 07th, 2017
+
+
+
+
+
+
+virtucrypt cloud
+
+
+
+
+
+
+hardened enterprise security platform
+
+
+
+
+
+
+industry standards membership
+
+
+
+
+
+
+
+
+
+compliance
+
+
+
+
+
+bambase architecture model
+
+
+
+
+
+resource library
+
+
+
+
+
+
+
+products
+
+
+
+trusted identity
+authenticrypt
+
+hardware security modules
+vectera seriesexcrypt seriesexcrypt ssp enterprise v.2esm1000rem1000excrypt ssp9000
+view all
+
+
+
+secure storage
+sas9000
+
+key management servers
+kmes series 3rkms series 3ski series 3manufacturer-class certificate authority serverkmes seriesrkms series
+view all
+
+
+
+tls line encryption
+kryptos tls server
+
+remote and centralized management
+guardian series 3guardian9000securuscryptocube
+
+
+
+
+
+
+
+latest from the blog: "registration authority functionality & the kmes series"
+june 28th, 2017
+
+
+
+
+
+
+
+compliance
+
+
+
+
+
+bambase architecture model
+
+
+
+
+
+resource library
+
+
+
+
+
+
+services
+support
+
+about
+
+
+
+
+
+
+
+futurex launches next-generation financial hsm suite
+october 09th, 2017
+
+
+
+
+
+about
+about futurexour corporate cultureindustry standards
+
+
+careers
+resource library
+news
+blog
+events
+our partners
+
+
+
+
+
+compliance
+
+
+
+portalaccess now
+
+
+
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+careers
+ > software developer
+
+
+
+
+
+
+software developer
+
+
+
+futurex is seeking talented individuals of all skill levels with a passion for developing innovative, software-based solutions to complex data encryption tasks based within our suite of hardware cryptographic modules. our world-class software engineering team is based at futurex's engineering campus in the hill country just north of san antonio, texas.this role offers an opportunity for skilled individuals to expand their talents by participating directly in the development of production software. individual visibility within the team is high, and opportunities for rapid advancement exist. all levels of futurex software engineers work directly on production-level code in a fast-paced, results-oriented environment on products with a rapid time to market.ideal candidates perform moderate to highly complex application development work involving futurex's line of globally-recognized, cross-platform data encryption solutions. the position involves extending existing applications and developing new ones, as well as documenting methods and procedures used in program development, and testing, correcting, and revising programs.qualified candidates must be willing to work under general supervision with moderate latitude for the use of initiative and independent judgment. candidates must have general knowledge of the principles, practices, and techniques of computer programming and systems analysis, of computer operations, procedures, and systems, and of computer programming languages.qualified candidates should possess the ability to process information logically, to design programs and systems based on defined requirements, to prepare program specifications, to code, test, and debug computer programs, to interpret technical information relating to computer programming and other areas of data processing, to perform mathematical calculations, and to communicate effectively. the position includes a generous compensation and incentive pay package.our currently open software developer positions are listed at our careers page; however, we are continuously looking for the best and the brightest engineers to join our team, and will always welcome resume submissions directly to [email protected] for consideration even if no specific opening is listed.
+primary responsibilities
+design, code, test and troubleshoot new applications developed for futurex's line of embedded cryptographic devices
+develop and document apis and protocols used when interfacing with external systems
+analyze performance of programs and take action to correct deficiencies based on consultation with users and approval of supervisor
+confer with users to gain understanding of needed changes or modifications of existing programs. resolve questions of program intent, data input, output requirements, and inclusion of internal checks and controls
+write and maintain programming documentation
+maintain confidentiality with regard to the information being processed, stored or accessed
+document programming problems and resolutions for future reference
+benefits
+play a key role in production-level software projects and work directly on the development of cutting-edge embedded encryption technology with a fast time to market.
+competitive compensation and opportunities for advancement.
+scenic corporate campus with amenities including a tennis court, jogging trail, and putting green.
+welcoming, family-style corporate culture uniquely suited to fast-paced, entrepreneurial, and motivated individuals.
+qualifications
+bachelor's degree or higher in computer science or engineering.
+software development experience in c and/or c++
+experience developing multi-tiered architectures
+motivated, self-starting, and eager to learn
+strongly prefer
+experience with linux, qt, openssl, subversion, scripting (python, perl, bash).
+solid understanding of computer internals, code compiler processes, and tcp/ip networking.
+experience with multiple architectures and platforms, particularly powerpc or arm.
+sql programming and basic understanding of relational databases.
+knowledge of cryptographic methods, principles, and standards.
+location
+scenic corporate campus located approximately 15 minutes north of san antonio, texas.
+
+
+
+
+
+
+
+why futurex is one of san antonio’s best places to work
+
+
+
+
+
+
+
+
+
+
+
+futurex has been named one of san antonio’s best places to work for nine consecutive years; this represents our dedication to providing fulfilling roles and the support to succeed in the fast-growing data security industry.
+nine-time san antonio “best place to work”
+
+
+
+
+
+
+
+
+the fast-paced corporate culture doesn’t detract from the fact that employees at futurex are like family. working at futurex offers perks that facilitate health, teamwork, and – if you enjoy such opportunities as watching a san antonio spurs playoff game from the corporate suite – fun.
+futurex employees
+
+
+
+
+
+
+
+
+all members of the futurex team face day-to-day opportunities for growth and advancement. it’s not about having a nine to five job. it’s about building a fulfilling, lifelong career without ceilings.
+futurex careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+application for employment
+software developer
+
+required fields*
+namee-mail address *salary requirement *have you applied for a position with futurex previously? *  yes  nowhere did you hear about this job opening? *please select the programming languages you are proficient in
+c
+c++
+java
+python
+perl
+other (specify in comments)
+date available for work *are you legally eligible for employment in the united states? *  yes  nodo you now or will you in the future need sponsorship from an employer in order to obtain, extend, or renew your authorization to work in the united states? *  yes  nohave you ever been convicted of a crime? if yes, explain number of conviction(s), nature of offense(s) leading to conviction(s), how recently such offense(s) was/were committed, sentence(s) imposed, and type(s) of rehabilitationplease list any other position(s) that you are interested in applying forattach resume
+
+attach another file
+
+comments, notes, or additional information you would like to share with our hiring managerscertify *  i certify that the above statements in the employment application are true and correct to the best of my knowledge, including any attachments submitted. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign upfor futurex news
+
+
+
+
+
+
+
+ 
+
+
+connect
+
+
+
+
+
+
+
+
+
+
+aboutportalcontact uscareerssite map
+
+
+
+questions? feedback?
+                        powered by olark live chat software
+
+
+
+
+
+© copyright 1981-2017 futurex
+
+
+
+
+
+

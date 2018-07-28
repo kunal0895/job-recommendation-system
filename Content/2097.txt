@@ -1,0 +1,391 @@
+
+
+peoplefinders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+join
+|
+login
+
+
+
+
+join
+|
+login
+
+
+
+
+
+
+
+
+login
+
+
+
+
+have an account? login
+
+
+
+
+
+
+
+login
+
+
+
+
+
+
+
+
+people search
+background check
+criminal records
+public records
+reverse phone
+
+ 
+
+
+
+
+
+people search
+background check
+reverse phone
+
+more 
+
+criminal records
+public records
+
+
+
+
+
+
+
+
+
+
+people search
+
+
+background check
+
+
+reverse phone
+
+
+
+
+
+
+
+
+
+home
+>
+about
+>
+careers
+>
+job
+
+
+
+
+
+
+about
+testimonials
+team
+careers
+help
+affiliates
+
+
+
+
+
+<< career listings
+
+career listings
+
+junior database developer
+
+software engineering
+
+
+company profile
+peoplefinders.com, the premier online service for consumers to locate, contact and verify people and businesses, is seeking a junior database developer for its software engineering department. over the past several years the company has quietly become one of the largest owners of public records data in the country, distributing its products over a vast network of websites. peoplefinders.com is a privately held corporation based in sacramento, california. we offer a competitive compensation and a comprehensive benefits program.
+
+
+who we want
+do you have the passion, curiosity, and drive to excel in the data industry? are you ready to work hard and dig in to learn the industry’s cutting edge big data technologies? if yes, then we want you.
+
+
+we are looking for dedicated engineers to join our data team in moving our technology and data solutions to the next level. peoplefinders is a great place to launch your career in data science, giving you hands on experience with multi-tb datasets, and challenging work in data matching and etl algorithms. an ideal candidate will be excited to be in a smaller company that moves at a fast pace on a constant flow of ideas, be able to wear multiple hats as needed, and have the drive to exceed expectations.
+
+essential duties & responsibilities
+
+develop and maintain data etl processes in mysql and hadoop.
+perform data analysis to capture data requirements and statistics clearly and correctly.
+develop and review scripts to move, cleanse and transform data.
+contribute to the design, code, documentation and testing throughout the life cycle of new data.
+work with data engineers to tune and optimize mysql and/or hive data-matching logic.
+take initiative to learn about the technology and systems.
+investigate data for troubleshooting, flaws, anomalies, and standards.
+learn best practices in high performance, large scale data processing – both on your own, and directly from some of the industry’s top mentors.
+
+qualifications & skills
+
+b.s or m.s. in computer science or equivalent field.
+strong knowledge of sql on any platform.
+experience with linux, java, or python is a plus.
+an inquisitive mind, a thirst for knowledge, and a passion for technology.
+quick learner and a motivation to succeed.
+ability to translate technical specifications and designs into code for enhancements or new projects.
+strong interpersonal skills to resolve problems in a professional manner, work individually, and as part of a team, to meet the needs of projects.
+
+
+location
+sacramento, ca
+
+
+to apply: please send your resume to [email protected],
+indicating "application: junior database developer" in the subject of the email.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+|
+contact us
+|
+privacy policy
+|
+terms of use
+|
+site map
+|
+people
+|
+address lookup
+
+
+
+
+
+people:
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+peoplefinders is dedicated to helping you find people and learn more about them in a safe and responsible manner. peoplefinders is not a consumer
+reporting agency (cra) as defined by the fair credit reporting act (fcra).
+this site can't be used for employment, credit or tenant screening, or
+related purpose. to learn more, visit our terms of service and privacy policy.
+copyright © 2002-2017 peoplefinders.com. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+peoplefinders.com
+
+
+
+account
+login
+join
+
+
+
+
+searches
+people search
+background check
+reverse phone
+public records
+search by address
+criminal records
+
+
+
+
+help
+about
+help
+
+
+close
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+
+
+
+job board powered by bullhorn
+
+
+
+
+
+ 
+
+
+                    dec 13, 2017
+                    
+
+
+
+
+
+
+
+
+jobs
+your profile
+login
+
+
+
+
+
+
+job #21767: data analysis & architecture
+
+
+
+
+
+job code: #21767
+title: business data analyst
+date posted: 12/11/2017
+job location: 
+            
+            
+                raleigh
+             
+                
+            
+                north carolina
+            
+            
+
+job description:
+
+resolvit
+bringing solutions that make business better
+join resolvit as a business data analyst and be part of a creative, forward-thinking team. our success at deploying skilled, highly knowledgeable experts has landed us on the inc. 5000 list of america’s fastest-growing companies four times – and we’re just getting started.
+as the business data analyst, you will collaborate with business stakeholders and subject matter experts to define and document existing and new data requirements. you will work with data architects and data modelers to interpret and map application data models to our enterprise data model. you will also engage key stakeholders to identify and solve data quality and data inconsistency issues. additionally, you will manage communications between governance, data integration, application development, and report development resources regarding data definitions and usage.
+what you’ll need to be successful:
+
+at least 5 years of experience as a business analyst
+bachelor's degree in an analytical field like math, computer science, or engineering; equivalent experience will also be considered
+experience evaluating system specifications for business requirements
+experience writing and reading sql code
+experience writing custom logic to integrate data sets
+spreadsheet skills with proven experience managing and summarizing large data sets
+excellent collaboration and communication skills and great attention to detail
+experience with on-site and offshore models
+
+great additional skills:
+
+familiarity with salesforce.com (sfdc) customer relationship management (crm) and oracle enterprise business suite (ebs)
+familiarity with sap businessobjects (bobj) web intelligence, sas visual analytics, qlikview, and tableau
+
+benefits:
+at resolvit, you’ll be given the support you need to grow in your consulting career.  in addition to opportunities for advancement and ongoing training, we offer:
+
+medical, dental, and vision insurance
+life insurance coverage
+long-term and short-term disability coverage
+401(k) retirement plan with matching
+professional support from a dedicated business services manager
+networking opportunities with other consultants in your area
+
+we currently have more than 100 open career opportunities across the country, so be sure to mention the appropriate job code with any correspondence!
+about resolvit:
+resolvit is an international technology consulting firm with industry-leading customers in the financial services, high tech, manufacturing, retail, life sciences, and government sectors. through its partnerships, resolvit delivers highly impactful, innovative solutions across five core areas: infrastructure modernization, application development services, enterprise data management & analytics, knowledge & content management, and strategic staffing.
+
+
+
+
+
+
+

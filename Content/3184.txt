@@ -1,0 +1,289 @@
+
+
+
+
+
+rf engineer- data analyst description at general atomics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+jobs by category
+
+a&p/mechanics, avionics/electronics, logistics, product support, supply chain management jobs
+a&p/mechanics, manufacturing jobs
+a&p/mechanics, product support, technicians jobs
+a&p/mechanics, technicians jobs
+accounting and finance jobs
+administrative jobs
+administrative, legal/regulatory services jobs
+administrative, safety jobs
+administrative, strategic development jobs
+airframe and powerplant jobs
+avionics jobs
+avionics/electronics, engineering, technicians jobs
+avionics/electronics, manufacturing jobs
+avionics/electronics, marketing jobs
+avionics/electronics, product support, technicians jobs
+business development jobs
+business development, information technology jobs
+business development, product support, program/project management jobs
+business development, program/project management jobs
+business development, program/project management, strategic development jobs
+contracts and procurement jobs
+contracts/sub contracts/purchasing, finance/accounting jobs
+contracts/sub contracts/purchasing, information technology jobs
+contracts/sub contracts/purchasing, legal/regulatory services jobs
+contracts/sub contracts/purchasing, program/project management jobs
+contracts/sub contracts/purchasing, quality jobs
+electromagnetic systems jobs
+engineering jobs
+engineering, facilities jobs
+engineering, information technology jobs
+engineering, information technology, product support, scientists jobs
+engineering, manufacturing jobs
+engineering, product support jobs
+engineering, program/project management jobs
+engineering, safety jobs
+engineering, scientists jobs
+engineering, technicians jobs
+facilities jobs
+facilities, program/project management, safety jobs
+finance/accounting, product support, program/project management jobs
+finance/accounting, program/project management jobs
+finance/accounting, program/project management, strategic development jobs
+human resources jobs
+information technology jobs
+information technology, manufacturing jobs
+information technology, quality jobs
+internships jobs
+legal jobs
+logistics jobs
+logistics, program/project management jobs
+manufacturing jobs
+manufacturing, material and production control jobs
+manufacturing, product support jobs
+manufacturing, product support, technicians jobs
+manufacturing, technicians jobs
+marketing jobs
+material and production control, product support, supply chain management jobs
+pilot jobs
+product support jobs
+product support, supply chain management jobs
+program manager jobs
+program/project management, supply chain management jobs
+quality jobs
+quality, safety jobs
+safety jobs
+safety, scientists jobs
+scientist jobs
+supply chain management jobs
+technician jobs
+
+
+
+jobs by company
+
+general atomics
+general atomics aeronautical systems
+general atomics systems integration
+diazyme
+
+
+
+jobs by location 
+adelanto jobs
+alabama jobs
+albuquerque jobs
+arizona jobs
+beaver creek jobs
+california jobs
+china lake jobs
+district of columbia jobs
+fort drum jobs
+georgia jobs
+grand forks jobs
+hinesville jobs
+huntsville jobs
+indian springs jobs
+livermore jobs
+march air force base jobs
+mississippi jobs
+nevada jobs
+new mexico jobs
+new york jobs
+north dakota jobs
+ohio jobs
+palmdale jobs
+san diego jobs
+sierra vista jobs
+spanish fork jobs
+tupelo jobs
+united states jobs
+utah jobs
+washington jobs
+
+
+
+browse by job groups 
+palmdale facilities jobs
+san diego legal jobs
+san diego logistics jobs
+spanish fork manufacturing jobs
+san diego manufacturing, material and production control jobs
+san diego manufacturing, technicians jobs
+san diego engineering, information technology jobs
+san diego internships jobs
+san diego engineering, manufacturing jobs
+huntsville engineering jobs
+palmdale engineering jobs
+san diego human resources jobs
+palmdale airframe and powerplant jobs
+palmdale manufacturing jobs
+huntsville electromagnetic systems jobs
+san diego facilities jobs
+san diego supply chain management jobs
+san diego contracts and procurement jobs
+san diego manufacturing jobs
+adelanto manufacturing jobs
+palmdale avionics jobs
+palmdale pilot jobs
+san diego program manager jobs
+san diego quality jobs
+adelanto engineering jobs
+san diego information technology jobs
+san diego accounting and finance jobs
+san diego electromagnetic systems jobs
+san diego engineering jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+search
+
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+rf engineer- data analyst
+date posted 10/10/2017
+
+job id#: 14590brcompany: general atomics aeronautical systemsjob title: rf engineer- data analystjob category: engineeringcity: san diegostate: californiafull-time/part-time: full-time salaryjob summarygeneral atomics aeronautical systems, inc. (ga-asi), an affiliate of general atomics, is a world leader in proven, reliable remotely piloted aircraft and tactical reconnaissance radars, as well as advanced high-resolution surveillance systems.we recognize and appreciate the value and contributions of individuals with diverse backgrounds and experiences and welcome all qualified individuals to apply.we have an exciting opportunity for a data analyst to join mission systems, in support of the signal processing team, in rancho bernardo, ca. this employee will work closely with tactical teams of system developers including antenna engineers, rf/electrical engineers, software developers, and algorithm developers, to collect system data and analyze performance, suggest new tests, and contribute to all phases of the program lifecycle. candidate should have willingness to be involved with all phases of the product development cycle. the ideal candidate will have experience with signal processing, modeling and simulation, data analysis, array processing, and rf waveforms.duties & responsibilities:develop matlab scripts to visualize laboratory and field data.use a broad array of data analysis techniques to identify systems issues, characterize performance, and find trends within measured data from a wide array of rf systems ranging from hf to uhf.under general directions with limited review, this position is responsible for applying innovative approaches to resolving unusual or complex engineering problems. assignments are normally outlined in terms of overall objectives and reviewed largely at completion. initiates the planning of engineering projects and develops innovative designs or modifications in order to meet project goals. independently performs difficult/complex engineering work with instructions as to the general expected results.documents findings, communicates results to engineering staff, makes technical presentations, and may represent the organization as the prime technical contact on small contracts or single component projects. provides direction to design or technical staff and may lead a team of moderately experienced professional staff. essential functions include: 1.supports operation of engineering systems and documents any problems. 2.devises new approaches to resolve unusual or complex engineering problems. 3.troubleshoot conflicting design/development requirements, difficult coordination requirements, and special material requirements. 4.provides documentation and makes technical presentations as required. 5.may represent the organization as the prime technical contact on small contracts or single component projects. 6.provides direction to design or technical staff and may lead a team of moderately experienced professional staff. 7.maintains the strict confidentiality of sensitive information. 8.performs other duties as assigned. 9.responsible for observing all laws, regulations and other applicable obligations wherever and whenever business is conducted on behalf of the company. expected to work in a safe manner in accordance with established operating procedures and practices.job qualificationstypically requires a bachelors degree, masters degree or phd in engineering or a related technical discipline from an accredited institution and progressive engineering experience as follows; six or more years of experience with a bachelors degree, four or more years of experience with a masters degree, or two or more years with a phd. may substitute equivalent engineering experience in lieu of education. must have a thorough understanding of engineering concepts, principles, codes, and theory; experience demonstrating a broad application of those concepts; and, expanding knowledge of principles, concepts, theory, and practices in related technical specialties. must possess the ability to develop and communicate new concepts; apply them accurately throughout an evolving environment; organize, schedule, and coordinate work phases; and, determine the appropriate approach at the task level or, with assistance, at the project level to provide solutions to a range of complex problems. must have strong communication, computer, documentation, presentation, and interpersonal skills, ability to work independently and as part of a team; able to perform complex tasks in one or more engineering areas; capable of representing the organization as a prime technical contact and, lead a team of moderately experienced professional employees on single component projects. must be customer focused and able to work on a self- initiated basis or in a team environment and able to work extended hours and travel as required.a professional engineering license and original work published in professional engineering journals are desirable.experience using core signal processing techniques (ffts, digital filters, digital down conversion, psk fsk waveforms)ability to clearly visualize and plot data in meaningful waysproblem solving skills – especially in the context of data analysis matlab modeling, simulation, and data analysisdesired skills include: c, c++ programmingexperience with rf direction finding techniquesexperience with array processing techniquesexperience with broadband rf and bi-static or multi-static radarlaboratory experience with spectrum analyzers, signal generators, network analyzerspresentation (oral and written) skillsa professional engineering license, original work(s) published in professional engineering journals, invited to present one or more original works to an engineering symposium, and invited and/or participated on an engineering review panel are desirable.must be able to obtain and maintain a dod security clearance. (clearance requires u.s. citizenship and no criminal or credit issues.)travel percentage required  0% - 25%clearance required?  desired
+
+apply now
+send to friend
+
+
+
+sign up for job alerts
+first namelast nameemail addressphone numbercurrent companycurrent titlekeywords: sign up for alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least one alert in the list below in order to subscribe.interested incategorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+job matching
+with just one click and a connection to linkedin we can find jobs for you that best matches your experience.
+start matching
+
+
+
+
+©2017 general atomics. all rights reserved. legal contact
+general atomics and affiliated companies is committed to hiring and retaining a diverse workforce. we are an equal opportunity/affirmative action employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, gender expression, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law. eeo is the law. to learn more click here. we prohibit compensation discrimination under all applicable laws. to learn more click here. u.s. citizenship is required for certain positions.
+we endeavor to make the online job application process accessible to any and all users. if you have a disability that impacts your ability to complete the job application process and would like to request assistance or a reasonable accommodation, please contact our human resources department at (858) 455-4545, or click here. this contact information is for accommodation requests only, not to inquire about the status of applications.
+
+
+
+
+
+
+
+
+
+
+
+

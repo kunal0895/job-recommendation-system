@@ -1,0 +1,292 @@
+
+
+
+		sr. data engineer -		focuskpi inc. - 		job board
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+go to our website »
+
+
+
+
+
+
+
+
+
+
+
+
+« go back to job listings
+
+
+sr. data engineer
+
+
+
+location: sunnyvale, ca		
+
+type: contracted		
+
+min. experience: mid level		
+
+
+
+
+
+focuskpi, inc. is looking for a sr. data engineer to work for our client in sunnyvale, ca. this is a contract position with a negotiable rate.
+the big data engineering team is responsible for building and maintaining the state-of-the-art etl pipelines that makes this data available and accessible to the entire company to make data driven decisions. the team works closely with data scientists, product managers, executives and other key parts of the business across the globe to understand their data requirements and build appropriate solutions or platforms that meet or exceed those needs.
+
+responsibilities
+----------------
+
+- contributing at a senior-level to the data warehouse design and data preparation by implementing a solid, robust, extensible design that supports key business flows.
+- performing all of the necessary data transformations to populate data into a warehouse table structure that is optimized for reporting.
+- establishing efficient design and programming patterns for engineers as well as for non-technical individuals
+- designing, integrating and documenting technical components for seamless data extraction and analysis on our big data platform.
+- ensuring best practices that can be adopted in big data stack and share across teams and bus.
+- working in a team environment, interact with multiple groups on a daily basis (very strong communication skills).
+
+
+desired skills and experience
+-----------------
+
+- 5+ years of relevant work experience in data
+- ability to write, analyze, and debug sql queries
+- working experience with hadoop projects/infrastructure
+- experience with data warehouse design, etl (extract, transform, load), architecting efficient software solutions
+- experience in the big data space (hadoop stack like m/r, hdfs, pig, hive, etc.)
+- knowledge of data modeling for both data warehousing and big data
+- experience working extensively in multi-petabyte data environment
+- experience in engineering large-scale distributed systems in a production environment
+- experience with at least one scripting language (shell, python, perl etc.) a bonus
+- experience with an oo programming language like java a bonus
+
+thank you for applying!
+focuskpi hiring team 
+ 
+about focuskpi:    
+focuskpi inc. is an analytics consulting business providing solutions such as crm customization, risk management, business intelligence, advanced/operational/web/digital analytics as well as human resources for our clients.
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+forward this position
+
+
+
+
+				recipient email address (one)
+			
+
+ 
+
+
+
+				your name
+			
+
+ 
+
+
+
+				your email address
+			
+
+ 
+
+
+
+				enter a message (optional)
+			
+
+ 
+
+
+
+
+  
+
+
+
+
+« go back to job listings
+
+
+
+
+
+
+
+
+
+
+
+
+
+			apply for this position		
+
+			* required fields
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+
+
+last name*
+
+
+
+
+
+email address*
+
+
+
+
+
+location 
+
+
+
+
+
+phone number*
+
+
+
+
+
+resume*
+
+
+attach resume or
+					paste resume
+
+
+
+
+
+						attach resume as .pdf, .doc, or .docx (limit 2mb) or
+						paste resume
+
+
+
+ 
+
+
+
+
+						paste your resume here or
+						attach resume file
+
+
+
+ 
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

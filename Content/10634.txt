@@ -1,0 +1,190 @@
+ 
+
+
+
+
+
+
+
+
+
+data scientist #0359 job at parc, a xerox company in palo alto, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+software research and engineering | palo alto, ca | full time
+
+
+
+
+
+
+job description
+
+
+data scientist to join an interdisciplinary team developing innovative applications
+about the job
+data scientist in systems analytics
+we are seeking an applied data scientist to join an interdisciplinary team of engineers developing innovative applications in a myriad of domains. examples include health monitoring of critical infrastructure, localization of methane leaks, fault detection in electromechanical systems, analysis of optical-sensor and video data for system optimization and anomaly detection.
+the ideal candidate is a self-starter who can take ideas from the drawing board to prototype deployment. this is an applied research position: we are seeking candidates interested in delivering innovations and results that will make real impact upon the world.
+responsibilities
+
+work with other parc technical and business development teams to define and develop new research areas and innovative business applications
+listen and intelligently probe clients to negotiate useful and feasible analytics projects
+clearly explain intuition behind technology options without relying on jargon – what is possible as opposed to how it is done
+produce clear graphics and visualizations to explain procedures and communicate results
+lead/contribute to efforts on engaging new customers and developing new business opportunities, including proposal development
+actively participate in generating quality peer reviewed articles and inventions.
+
+requirements
+
+ms or equivalent experience in computer science, applied statistics, or other related fields. phd in related field is a plus.
+expertise in sql: ability to formulate nested queries, create intermediate tables, deal with dates, manage performance issues such as indexing, interpreting reports, optimizer hinting, and judicious use of denormalization for performance
+data wrangling skills: tools for etl (loading, cleaning csv, text delimited files, dealing with quoted fields, missing values, detecting erroneous values, etc.).
+good exploratory data analysis skills - ability to visualize data in various meaningful ways specific to problem and generate insight and hypotheses
+ability to use variety of core tools, classification, regression, clustering and understands something about relevance of options to various problem types (e.g., when to use naïve bayes, logistic regression, linear svm, boosting, random forests, neural networks etc.).
+experience with standard tools such as r libraries and python libraries such as pandas, matplotlib, numpy, scikit-learn, etc.
+ability to construct repeatable documented workflows for analytic processes
+knowledge of the state-of-the-art in deep learning and applicable libraries such as torch, theano, tensorflow
+strong presentation and written communication skills
+hands-on software and algorithm development
+commitment to developing quality software
+
+benefits
+we offer a very competitive salary package and full benefits (medical, dental, vision, life & disability insurance, 401k. parc also strives for the best possible work-life balance, so employees benefit from maternity, paternity and adoption leave, as well as a variety of flexible working options. parc employees enjoy the use of onsite health & fitness center and collegial dining at our onsite cafeteria.  the parc campus is in a spacious modern building in close proximity to the resources and opportunities of silicon valley and benefits from nearby leading universities such as stanford and berkeley. it is also close to many amenities, top schools, and outdoor activities (see http://www.parc.com/about/culture.html). parc provides a highly diverse environment and is proud to be an equal opportunity employer (see http://www.parc.com/about/careers/).
+about parc
+parc, a xerox company, is in the business of breakthroughs®. practicing open innovation, we provide custom r&d services, technology, expertise, best practices, and intellectual property to fortune 500 and global 1000 companies, startups, and government agencies and partners. we create new business options, accelerate time to market, augment internal capabilities, and reduce risk for our clients.
+since its inception, parc has pioneered many technology platforms – from the ethernet and laser printing to the gui and ubiquitous computing – and has enabled the creation of many industries. incorporated as an independent, wholly owned subsidiary of xerox in 2002, parc today continues the research that enables breakthroughs for our clients' businesses.
+parc is an equal opportunity employer and considers applicants for all positions without regard to race, color, religion or  belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws.  people with disabilities who need a reasonable accommodation to apply or compete for employment with parc should contact parc human resources.
+
+
+
+
+
+return to parc, a xerox company
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to parc, a xerox company
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

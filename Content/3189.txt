@@ -1,0 +1,876 @@
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+view profile
+
+
+
+ menu 
+
+
+
+
+career home
+
+
+about us
+
+
+life at amd
+
+
+amd careers
+
+engineering
+sales & marketing
+corporate functions
+students
+
+
+
+global jobs
+
+
+join our talent network
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+search jobs by keyword
+
+
+
+
+search jobs by location
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+software engineer - machine learning
+
+location: 
+san diego, us
+
+
+company: 
+advanced micro devices
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+what you do at amd changes everything 
+ 
+at amd, we push the boundaries of what is possible.  we believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center. 
+ 
+developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results.  it takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world.   if you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+ 
+radeon technology group is looking to hire exceptional engineers at various career levels, to develop high performance libraries for machine learning and graph analytics. the libraries will be built leveraging the foundations of the radeon open compute platform (rocm) which is an emerging software ecosystem solely focused on high-performance and ultra-scale gpu computing. machine learning and graph analytics are being touted as the next “killer” app for gpu computing. therefore, the candidates will have the opportunity to form the ideals of how gpus are adopted and used in these fields. we are looking to hire for all facets of library development – developing high-performance gpu kernels, developing robust and portable host-code, and overall systems-level tuning to identify the bottlenecks in the library and higher-level frameworks.
+ 
+key responsibilities:
+
+develop state of the art, performance critical code to accelerate deep learning on radeon instinct gpus
+analyze and prototype key deep learning and data analytics algorithms and applications
+
+ 
+qualifications:
+
+ms or phd in relevant discipline (cs, ee, applied mathematics, general/computational physics, statistics)
+machine learning and deep learning experience
+experience working with deep learning frameworks like caffe, tensorflow and torch
+strong mathematical foundation in tensors, convolutions, linear algebra,  numerical mathematics, &  statistics
+strong programming skills in c, c++, perl, or python
+familiarity with gpu computing (cuda, opencl) and hpc (mpi, openmp)
+strong background in computer architecture
+track record of optimizing code for performance on cpus or gpus, including assembly or simd programming
+
+ 
+*li-dm1
+
+
+requisition number: 32229 
+country: united states state: california city: san diego 
+job function: software engineering 
+ 
+amd does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. amd and its subsidiaries are equal opportunity employers. we consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. please click here for more information.
+
+
+
+nearest major market: san diego
+                    
+                
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+engineering
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+search jobs by keyword
+
+
+
+
+search jobs by location
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+view all jobs
+top job searches
+products
+solutions
+innovations
+audiences
+shops
+amd
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©
+                2017  advanced micro devices, inc
+terms and conditions
+privacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

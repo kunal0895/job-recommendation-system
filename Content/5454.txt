@@ -1,0 +1,495 @@
+
+
+
+
+
+data scientist-big data jobs in plano at at & t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+att.com
+att.jobs
+
+
+
+log in  
+application status  
+employees
+
+share (opens new window)
+
+
+
+
+
+
+
+join our talent network
+featured stories
+saved jobs
+menu 
+
+menu 
+
+
+doing great things
+overview
+life at at&t
+
+learning & development
+inside stories
+diversity
+careers without limits
+videos
+#lifeatatt
+rewards
+
+
+sustainability
+community
+innovation
+military
+
+military spouse
+
+
+awards
+at&t's women
+
+
+careers
+
+overview
+call center
+college
+
+full-time development programs
+internships
+
+
+content & entertainment
+corporate
+technology
+retail
+
+part-time
+
+
+sales
+technician
+contractor opportunities
+
+
+resources
+
+overview
+job guide
+events
+application status
+hiring process
+faq
+
+
+locations
+
+overview
+americas
+asia pacific
+emea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+
+search
+saved jobs
+
+
+search jobs
+
+
+
+create groundbreaking innovations 
+
+
+
+
+
+big data
+as a member of our big data team, you’ll work with awesome people in a start-up environment. with one of the biggest data sets in the world, you’ll use research-driven analytics to tackle our business challenges and drive the innovation that changes the lives of our customers. that means your work can impact major decisions that go all the way to the top. this is your chance to turn the massive scale of possibilities at at&t into an even bigger opportunity.
+
+
+
+
+
+data scientist
+plano 
+               ,  texas            
+
+apply
+save this jobremove job
+
+
+
+
+this position will work closely with the it, sales and marketing organizations functional leads to formulate hypothetical insights and work through the lifecycle of delivering these insights to production. design and build large and complex data sets, from spurious sources while thinking strategically about uses of data and how data use interacts with data design. design and implement statistical data quality procedures around new data sources. perform data studies and data discovery around new data sources or new uses for existing data sources. implement any software required for accessing and handling data appropriately. implement and hand off data checking and updating procedures to teams. perform statistical analyses with existing data sets in statistical packages. visualize and report data findings creatively in a variety of visual formats that appropriately provides insights to the organization. serve as a functional lead and mentor to other scientific and engineering employees within the organization, and will represent scientific domain expertise as needed with external vendors, partners, and employees of other organizations. lead research in emerging areas of artificial intelligence, adaptations of neural networks, and integration strategies for machine transference learning as applied to analyticsqualifications experience creating models utilizing machine learning and/or statisticsgreat intuition, curiosity and skepticism when analyzing dataexposure to the hadoop ecosystem tools (e.g spark, mapreduce/tez) or other big data technologiesexperience manipulating big and noisy datasets (e.q. sql, pig, hive)professional level: preferred bachelors of science in computer science, math or scientific computing; data analytics, machine learning or business analyst nanodegree; or equivalent experience. typically requires 5-8 years experience or phd or masters in an approved field with no minimum years of relevant experience.senior level: preferred bachelors of science in computer science, math or scientific computing; data analytics, machine learning or business analyst nanodegree; or equivalent experience. experience: typically requires 8-10 years experience or phd or masters in an approved field with a minimum of 2 years of relevant experience.principal level:preferred masters of science in computer science, math or scientific computing; data analytics, machine learning or business analyst nanodegree; or equivalent experience. experience: typically requires 10 or more years experience or phd in an approved field with a minimum of 6 years of relevant experiencebonus qualificationscompetitive programmer or competitive data scientistcommitter to open source projectsdevelopment of personal projectsknowledge of scalable data visualization techniques ability to create prototypes quicklyexperience manipulating and analyzing large datasetsthis position requires daily office presence in plano, tx. no relocation assistance is provided.
+
+requisition id 1771253 apply
+
+    if you’re not ready to apply, 
+join our talent network to stay in the loop >    
+    
+
+
+
+share  this job
+
+facebook
+google+
+twitter
+linkedin
+
+
+
+
+
+
+featured stories
+
+
+
+
+
+
+veterans on a mission | military careers | at&t |
+
+
+
+
+
+
+
+at&t developer summit | life at at&t podcast | at&t
+
+
+
+
+
+
+
+women who inspire | meet alexandria mccuien
+
+
+
+
+
+
+
+inside the at&t drive studio
+
+
+
+
+
+
+
+how at&t is revolutionizing their workplace
+
+
+
+
+
+
+
+at&t employee gives back to veteran community
+
+
+
+read more
+
+explore more stories
+
+
+
+
+"a company committed to transforming itself for the future."
+
+former employee - data scientist intern in plano, tx	
+pros
+
+       in a technical community, you do have lots of freedom to determine what to work on. the company is truly embracing changes and transformation to the future, open to new ideas
+great leadership (bootcamp style) and technical training programs
+        
+cons
+
+        great vision from senior officers, execution strategy some times legging at mid-level managers
+        
+
+powered by 
+
+
+
+
+
+
+
+        inside stories
+    
+
+
+            a look inside: emerging technology careers
+        
+
+
+
+
+a look inside: technical it/engineering
+
+
+
+at&t career progression - eurekia cosey
+
+
+
+at&t internet of things leadership
+
+
+
+2016 at&t developer summit at ces
+
+
+
+
+
+
+#lifeatatt
+we work hard and play even harder. because with everything we do, #lifeatatt is always an adventure. 
+life at at&t - just ask our team
+just ask our team
+
+
+doing great things
+
+
+
+
+building a brighter future
+
+in 2015, we saved $119 million in annualized energy – and that’s only the start of how we’re in the business of doing good.
+
+
+
+
+making an impact
+
+we’re working to make a difference in our communities – like our $250 million commitment to education through at&t aspire. 
+
+
+
+
+ensuring every voice matters
+
+with 115,000+ employees in our employee networks, we celebrate the amazing things our differences bring to the table.
+
+
+
+
+
+
+putting military skills to work
+
+we’re on a mission to hire the best talent – a big mission. we’re committed to hiring 20,000 veterans by 2020.
+
+
+
+
+developing what’s next
+
+whether it’s in at&t labs, the at&t foundry or our mobile app hackathons, we’re unleashing talent and turning big ideas into big possibilities.
+
+
+
+
+taking your career far
+
+with mentors to guide your way and lots of training opportunities, there’s no limit to how much you can grow or where your career can go. 
+
+
+
+
+join the talent network
+sign up to receive a monthly newsletter and be the first to know about career events, new openings and exclusive updates. 
+join now
+
+
+
+saved jobs
+you haven't saved any jobs yet. 
+
+
+
+
+
+
+
+doing great things
+
+overview
+life at at&t
+
+learning & development
+inside stories
+diversity
+careers without limits
+videos
+#lifeatatt
+rewards
+
+
+sustainability
+community
+innovation
+military
+whats happening
+awards
+at&t's women
+
+
+
+careers
+
+overview
+call center
+college
+
+development programs
+internships
+
+
+content & entertainment
+corporate
+technology
+retail
+
+part-time
+
+
+sales
+technician
+contractor opportunities
+
+
+
+resources
+
+overview
+events
+application status
+hiring process
+faq
+
+
+
+locations
+
+overview
+americas
+asia pacific
+emea
+
+
+att.com
+featured stories
+
+
+stay connected
+
+facebook
+twitter
+linkedin
+
+
+glassdoor
+youtube
+jobipedia
+
+
+
+
+
+back to top
+
+
+privacy policy
+terms of use
+sitemap
+
+share
+© 2017 at&t intellectual property. all rights reserved. at&t, at&t logo and all other marks contained herein are trademarks of at&t intellectual property and/or at&t affiliated companies.
+discrimination and all unlawful harassment (including sexual harassment) in employment is not tolerated. we encourage success based on our individual merits and abilities without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability, marital status, citizenship status, military status, protected veteran status or employment status. we support and obey laws that prohibit discrimination everywhere we do business. at&t fully considers all qualified applicants including those with a criminal history. click here to learn more or request an application accommodation here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

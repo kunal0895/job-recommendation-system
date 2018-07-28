@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+senior data engineer
+
+
+
+
+site
+
+
+dallas, tx
+
+
+
+
+employment duration
+
+
+part-time/casual
+
+
+
+
+job category
+
+
+business analytics
+
+
+
+
+apply now
+
+job brief
+ama is seeking several data engineer for our dallas, tx location!
+
+analytical mechanics associates, inc., (ama) is proud of our customer relationships, our diverse and dynamic work environment, and our employees' career satisfaction. ama is a small business specializing in aerospace engineering, business analytics, information technology, and visualization solutions. ama combines the best of engineering and mathematics capabilities with the latest in information technologies and visualization to build creative solutions. headquartered in hampton, va, ama has operations in huntsville, al; dallas and houston, tx; denver, co; santa clara and mountain view, ca; new orleans, la; and hancock county, ms. we offer a competitive salary and attractive benefits package. our website describes our corporate values and how they apply to the professional success and growth of our employees.
+job description
+ama is actively seeking several data engineers for our dallas, tx location. project duration is 6-12 months with possible extensions. projected hours are 40 per week. ideal candidates would display the following skills:
+who you are:
+
+you yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive schedule
+someone who is not intimidated by challenges; thrives even under pressure; is passionate about their craft; and hyper focused on delivering exceptional results
+you love to learn new technologies and mentor junior engineers to raise the bar on your team
+it would be awesome if you have a robust portfolio on github and/or open source contributions you are proud to share
+passionate about intuitive and engaging user interfaces, as well as new/emerging concepts and techniques in web design
+you use, or are passionate about learning spark, scala, akka, kafka, cassandra, accumulo, hbase, hadoop, hdfs, avro, mongodb, and mesos – and anything else that will help you solve big, messy problems
+
+essential skills/experience:
+
+hands on experience in data engineering (>1 yr), especially in some/all aspects of designing, building and monitoring
+etl pipelines (e.g., using lambda, kafka, s3, emr/ec2, kinesis)
+data warehouses (e.g., on redshift or any other mpp)
+data lakes (e.g., using s3/hdfs & spark)
+strong background in software development with expertise in python or java
+unix/linux
+
+preferred qualifications:
+
+master’s degree
+understanding of software security and threat models, and experience building secure applications
+good understanding of data-governance concepts
+experience administrating aws
+experienced with stream data platforms such as apache kafka streams or apache storm agile
+familiarity with agile engineering practices
+
+ama is an equal opportunity employer. 
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

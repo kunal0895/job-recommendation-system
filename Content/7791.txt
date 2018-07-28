@@ -1,0 +1,439 @@
+
+
+
+
+job application for data scientist at betterup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist
+
+        at betterup
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+data scientist 
+we’re looking for a world-class data scientist to join us in our efforts to improve quality of life for millions of professionals around the world. people today live longer, and are wealthier, than ever before, but our happiness is decreasing. at betterup, we help people thrive both professionally and personally. our mission is to help everyone lead their lives with clarity, purpose, and passion.
+betterup is currently seeking an innovative, experienced, and highly trained data scientist passionate about advancing our mission. betterup’s data scientist will drive internal data analytics projects serving product, coaching, member operations, marketing, and other teams. investigations will vary from short preliminary explorations to deeper, longer-term studies. 
+at betterup you’ll have the opportunity to work side by side with talented, motivated, and intellectually stimulating colleagues who thrive on helping organizations solve their most pressing behavioral business challenges.
+responsibilities
+
+analyze existing data to generate insights for internal (marketing, product, coaching ops, member ops, sales) audiences.
+partner with internal customers to define experimental questions and scope for each analytics investigations.
+own top-notch, first-in-class computational science projects studying internal data from start to finish.  
+translate data analytics outcomes into clear visualizations understandable to laymen.
+report on analytics findings to senior leadership in order to inform key business decisions.
+
+key behaviors
+
+think creatively and interdisciplinarily.
+demonstrate unerring responsiveness to, and seamless collaboration with, internal customers including marketing, product, sales, csm, member ops, and coach ops.
+learn continuously to stay on your edge in the relevant scientific literature.
+do less, deliver more. ability to prioritize efforts across projects; and to determine which aspects within given project require depth and detail, and which aspects can be handled more expediently.  
+collaborate without ego, willing to take on small tasks and large.
+
+requirements
+
+hold an advanced scientific degree, including training in statistical analysis and experimental design. expertise in human behavioral data measurement, collection, and analysis, a very strong plus. skilled in critically thinking through a research question, to identify confounds, optimal methodologies, and clear operationalizations of hypotheses.
+fluent in r and python, comfortable with common data science stacks in each language (tidyverse for r, numpy/pandas/sklearn/matplotlib for python). javascript/html preferred but not required.
+comfort with common nhst methods (e.g. inferential statistics, ols, anova), applied ml strategies (e.g. train/test/validation sets, feature engineering, accuracy assessment). experience with bayesian modeling, especially in the context of nhst alternatives, strongly preferred.
+experience building simple backend data infrastructure/pipelines.  know how to connect the dots between data sources (e.g. saas or other apis), etl/storage solutions (better if you’ve built these yourself), analysis environments (e.g. r or python scripting), and (preferred but not required) front-end reporting (e.g. dashboards, apps).
+passionate about storytelling with data.  ability to port analytics outcomes into interactive- or presentation-based media (e.g. d3, shiny, powerpoint/keynote).  understand technical basics of data visualization and common pitfalls.  ability to make clean, elegant, informative graphs.  
+exceptional written and verbal communication skills. ability to present data science findings to sizable audiences of laymen and specialists alike. experience with academic science writing strongly preferred.
+demonstrated desire for continued learning and development across different academic disciplines. 
+
+benefits
+we provide amazing benefits, but if you ask the team, they’ll tell you that the greatest benefit we offer employees is an incredibly meaningful mission and transformative work.
+
+full coverage medical, dental and vision insurance
+unlimited use, at your own discretion, vacation policy
+14 paid annual holidays
+5 betterup inner work days (https://www.betterup.co/inner-work)
+5 “volunteer days” to give back
+professional development through betterup coaching for you and a significant other
+401(k) self contribution
+a competitive compensation plan with opportunity for advancement
+
+ 
+betterup inc. provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, disability, genetics, gender, sexual orientation, age, marital status, veteran status. in addition to federal law requirements, betterup inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+ 
+full coverage medical, dental, and vision insurance
+
+unlimited use, at your own discretion, vacation policy
+“volunteer days” to give back to your local community
+professional development through betterup coaching for you and a significant other
+a competitive compensation plan with opportunity for advancement and promotion
+
+betterup inc. provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, disability, genetics, gender, sexual orientation, age, marital status, veteran status. in addition to federal law requirements, betterup inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+application materials:
+please submit a cv, and at least one of the following:
+
+personal website
+project portfolio
+stackoverflow handle
+github handle (but only if there are “ready for the public” portfolio projects)
+kaggle handle
+links to data science publications
+
+a cover letter explaining your interest in betterup is optional, but encouraged.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at betterup are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

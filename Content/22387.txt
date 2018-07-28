@@ -1,0 +1,169 @@
+
+
+
+
+machine learning engineer | the stratagem group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+log in
+
+
+
+
+register
+
+
+
+
+jobs
+
+
+
+
+back to website
+
+
+
+
+
+
+
+
+
+machine learning engineer
+
+
+
+email
+
+
+
+
+
+
+
+
+
+tweet
+
+
+
+
+location: aurora, co
+
+
+date posted: 10-01-2017
+
+
+
+
+
+apply now
+
+
+
+
+
+
+are you interested in supporting the ever-changing technology needs of the u.s. government by providing services that support defense initiatives? come look at stratagem, where we help the u.s. government solve some of the most difficult and fun problems in the world.
+ 
+stratagem is hiring motivated, creative, and technically-minded individuals with a passion and skill for building the state-of-the-art in emerging technologies. we understand that candidates may not be able to check the boxes for all desired qualifications, but what is most important to us at stratagem is that candidates have exceptional problem-solving skills, creative out-of-the-box thinking, and comfort with quickly learning, evaluating, and deploying new technologies. successful employees are self-starters, excellent communicators and positive individuals with a passion for delivering uncompromising quality products.
+
+** ts - ssbi required **
+ 
+this is a software engineer position in aurora, co, and we are not hiring your average java joe’s. we are looking for the macchiato with a double shot. you will be given substantial feature ownership, and we'll expect you to contribute product ideas as well as code. your ideas will help shape the future of stratagem.
+ 
+responsibilities & skills
+our ideal candidate is a programming expert with a passion for machine learning. we need someone with prior experience designing and implementing modern machine-learning and computer-vision concepts and algorithms, and who stays up to date on all best-practice standards.
+as a software engineer, your responsibilities include:
+
+investigating and solving exciting and difficult challenges in image recognition, classification, content analysis, and deep learning
+integrating with a diverse team to deliver in an agile-like manner
+developing new algorithms
+contributing to building aspects of a web-accessible system
+prototyping ideas/concepts to prove a solution quickly
+
+your core skills/experience include:
+
+
+expertise in one of the following: java, python, c++, etc.
+proficiency with containerization - docker preferred
+proficiency with cloud infrastructure - aws or c2s preferred
+proficiency with postgresql – or similar gis database concepts
+experience with hadoop, spark, etc.
+experience developing and implementing image classification and content analysis
+experience with neural networks, k-means, etc.
+experience working with deep learning frameworks, such as caffe, tensorflow and theano
+minimum of 10 years’ experience or 8 with master’s degree
+you are the proud owner of a ts/sci ssbi clearance
+
+bonus points if you have experience in any of the following:
+
+
+devops experience
+in-depth understanding of modern best-practices, such as kaggle competition winners
+comfortable with statistics and data science concepts 
+
+about you
+you are an exceptional problem solver, a quick learner, and a creative out-of-the-box thinker who values team work. you are comfortable with the pace and ever-changing requirements of a small development company while maintaining a healthy work life balance.
+ 
+who is stratagem
+stratagem is a small and fast-growing technology company built around the idea that we can make a lasting impact for our customers and employees. we believe in a culture of innovation, fun, empowerment, and family. we want you to learn new skills so you can become more fulfilled in both your personal and professional life.
+ 
+at stratagem, our goal is to make our company the last company you work for!
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

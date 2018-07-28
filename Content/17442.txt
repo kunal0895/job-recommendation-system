@@ -1,0 +1,60 @@
+
+
+
+
+azuqua - jobs: frontend developer - apps team - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+frontend developer - apps team
+
+frontend developer - apps team
+seattle, washington, united states · solutions
+
+descriptionthis is an on-site position, open to any candidate located in seattle the world is exploding with cloud services! crucial data is now spread out all over the web. companies need to bring this data together to run their businesses. up until now, this has been an incredibly difficult task requiring lots of complicated programming resulting in brittle and unmaintainable code. enter azuqua… at azuqua we connect the web in minutes not months, with a beautiful, easy-to-use experience built on top of a scalable platform using some of the most sophisticated technology on the web.this role is critical for building amazing apps that will unleash the power of the platform to the masses. we are looking for a frontend web developer who is motivated to combine the art of design with the art of programming. you will coordinate with the rest of the team working on different layers of the infrastructure. therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important. we are looking for a passionate results oriented individual who is not afraid of diving into difficult problems. responsibilities developing new beautiful, intuitive, and functional apps building reusable components and front-end libraries for future use translating designs and wireframes into high quality code optimizing components for maximum performance across a vast array of web-capable devices and browsers  be the go-to azuqua platform expert and build apps that will wow customers participate in architectural discussions to ensure solutions meet app requirements prioritize work appropriately to meet due dates and deadlines conceptualizing apps to bring simplicity and user friendliness to complex design roadblocks establish and promote design guidelines, best practices and standards requirements strong proficiency in javascript, including dom manipulation and the javascript object model proficiency with restful apis and auth technologies (such as oauth2 or jwt) ability to understand business requirements and translate them into technical requirements proficient in css, sass, less, html5 and bootstrap proficient understanding of client-side scripting and javascript frameworks, including jquery good understanding of web technology stacks, including browser caching, cookies, http requests and response mechanisms, etc.   self-motivated individual prepared to learn and adapt to fast changing environments good understanding of single page applications technologies like angularjs, reactjs or equivalent good understanding of asynchronous request handling, partial page updates, and ajax proven ui experience and demonstrable ui design skills with a strong portfolio familiarity with photoshop, illustrator, omnigraffle, sketch or other visual design understanding and versatility in typography, color, layout and texture bachelor’s degree, preferably in computer science or mis startup experience and ability to work in an agile environment is preferred 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+azuqua website
+
+powered by
+workable
+
+
+
+
+

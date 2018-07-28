@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+        web developer front and back end coding  icl-1474 - georgia tech research institute
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web developer front and back end coding  icl-1474
+
+
+
+
+
+
+job number:
+
+
+1474
+
+
+
+
+
+job classification:
+
+
+research faculty
+
+
+
+
+degree:
+
+
+bachelor's
+
+
+
+
+level of experience:
+
+
+entry level; junior
+
+
+
+
+rank:
+
+
+research engineer i (rei); research scientist i  (rsi)
+
+
+
+
+
+location:
+
+
+atlanta, ga
+
+
+
+
+
+
+job type:
+
+
+all
+
+
+
+
+
+
+labs/support units:
+
+
+information and communications laboratory (icl)
+
+
+
+
+
+
+
+
+
+description:
+
+
+web developer front and back end coding 
+the georgia tech research institute (gtri) in atlanta, ga is seeking an experienced web developer who has interest in intellectually challenging and rewarding work. we value bright, intellectually curious, growth oriented professionals and provide a work environment that allows work / life balance and opportunity for growth. gtri employee about 2000 employees working in 8 labs across 14 locations with a main campus in atlanta, ga.
+this opportunity is with our information and communications laboratory 
+information and communications laboratory (icl). icl conducts research that solves complex problems in areas of computer science, information technology, communications, networking, and socio-technical systems. icl addresses work in the future of communications, the future of information, better experiences with communications and experience. to learn more about icl, please visit http://www.gtri.gatech.edu/icl
+internal title: research engineer / scientist i
+position summary:
+develop web application with front end and back end coding
+our icl lab is looking for an experienced web developer / coder who is particularly strong with front-end (html, js, jquery) but also a knowledge of back-end coding (php or python). you will join a team working on cutting edge technologies in the information and communication technology area.
+requirements that must be met to be considered for this position:
+
+us citizenship and/ or the ability to get a security clearance
+bachelor's degree in applicable areas preferred master’s degree
+at least 2 full-time professional years of experience of html/css3/javascript development
+ability to write clean, semantic, hand-coded html/css
+understanding of cross browser limitations and how to resolve issues
+ability to write high-quality javascript code with and without the use of jquery
+solid understanding of responsive web development
+experience with cross-browser and cross-device compatibility testing
+experience writing java and backend coding php or python.
+
+ 
+about georgia tech research institute
+the georgia tech research institute has been recognized as one of atlanta’s best places to work by the atlanta business chronicle 4 of the last 5 years. gtri is a great place for intellectually curious, world class technology oriented engineering and scientific talent to work. our projects are challenging, expanding and cutting edge applied research. in addition we offer competitive pay, excellent benefits, professional growth, freedom for approved outside consulting, and a defined career growth strategy.
+gtri employee over 950 world class engineers and scientists. we recruit talent from such diverse areas as: cyber security jobs, big data jobs and data intelligence jobs, computer science jobs, software engineering jobs, high performance computing jobs ( hpc jobs ), hardware design jobs, embedded system design jobs, communication systems design jobs, high speed networks jobs,  electromagnetics jobs ( em jobs ) including radar systems jobs, antenna design jobs, electronic warfare jobs( ew jobs ), sensor design jobs, intelligent systems jobs, systems engineering jobs and others. 
+for more info on gtri http://www.gtri.gatech.edu/
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nuclear data processing and validation engineer job in west mifflin, pa for naval nuclear laboratory | engineering/science
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuclear data processing and validation engineer
+
+west mifflin, pa
+
+
+
+
+search other jobs
+apply now
+
+
+
+
+
+
+
+
+
+
+
+search again
+
+
+job attributes
+
+req code
+19679
+location
+bettis laboratory west mifflin, pa 15122  us
+category
+engineering/science
+type
+full-time
+career level
+experienced (non-manager)
+education
+bachelor's degree
+division
+technology
+organization
+reactor technology
+shift type
+
+n/a
+date posted
+2017-12-07 19:36:49
+
+apply now
+
+share this on
+
+
+
+
+
+
+
+
+
+
+
+
+share this on:
+
+
+
+
+
+
+
+
+home
+about us
+who we are
+media
+suppliers
+careers
+
+
+
+
+
+new search
+previous search
+
+
+
+
+
+nuclear data processing and validation engineer
+west mifflin, pa
+
+
+
+
+job description
+
+the reactor physics methods development group at the naval nuclear laboratory west mifflin, pennsylvania location is seeking an individual with expertise in nuclear data processing and validation to join its team.  the successful candidate will primarily contribute to the development of the ndex nuclear data processing code.  ndex is a parallel python application that processes endf-formatted nuclear data for use by the mc21 monte carlo radiation-transport code.  both ndex and mc21 are part of the common monte carlo design tool code suite, which is used for nuclear reactor design and analysis, radiation shielding, and criticality safety calculations in support of the naval nuclear propulsion program.  other duties of this position include nuclear data validation in collaboration with national and international organizations (e.g., csewg, icsbep) and/or determination of biases and uncertainties using internal and external experimental benchmarks, depending on the specific expertise of the individual.
+job requirements
+
+intermediate:
+bs degree in nuclear engineering or a related field and a minimum of two years of relevant experience; or
+ms degree in nuclear engineering or a related field
+advanced:
+bs degree in nuclear engineering or a related field and a minimum of four years of relevant experience; or
+ms degree in nuclear engineering or a related field and a minimum of two years of relevant experience
+job preferred skills
+
+ms in nuclear engineering or a related field. 
+experience in one or more of the following areas: nuclear data processing codes (e.g., ndex, njoy), nuclear data file formats (e.g., endf), nuclear data validation, and determination of biases and uncertainties. 
+professional-level software-development experience, including use of version control and developing software in a team environment. 
+strong written and verbal communication skills.
+
+
+
+apply now
+
+
+
+
+
+
+
+
+sitemap
+home
+about us
+who we are
+media
+suppliers
+careers
+contact us
+
+
+follow us
+
+
+
+
+
+
+
+career opportunities
+administrative (2)business support (3)contracts (7)craft workers (2)engineering/science (78)facilities (1)human resources (3)information technology (22)management (3)project management (5)publications and graphic arts (1)technicians (11) 
+
+
+
+
+				all candidates must be u.s. citizens. applicants selected will be subject to a federal background investigation and must meet eligibility requirements for access to classified matter.
+what to expect when being processed for a doe security clearance | departmental personnel security faqs
+				
+				bechtel marine propulsion corporation is an equal opportunity employer and is committed to workforce diversity.
+				click here to view the poster, eeo is the law and its supplement.
+			
+
+supporting the nation since 1946
+© 2017 naval nuclear laboratory
+
+
+
+
+
+
+
+
+

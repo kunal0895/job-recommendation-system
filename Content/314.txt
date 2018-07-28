@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer at capital one - us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+usa
+united kingdom
+canada
+
+
+
+
+
+
+
+
+menu
+        
+
+
+
+
+
+teams & roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+life at capital one
+
+overview
+benefits
+inclusion
+military
+
+
+campus careers
+
+
+
+saved jobs
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer
+apply now
+save
+job id r34757 updated date 09/13/2017
+location wilmington, delaware
+oliver evans (18222), united states of america, wilmington, delawareat capital one, we’re building a leading information-based technology company. still founder-led by chairman and chief executive officer richard fairbank, capital one is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. we measure our efforts by the success our customers enjoy and the advocacy they exhibit. we are succeeding because they are succeeding.                                               guided by our shared values, we thrive in an environment where collaboration and openness are valued. we believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. we elevate each other and obsess about doing the right thing. our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. together, we are on a quest to change banking for good.data engineerdata engineercapital one (yes, the “what’s in your wallet?” company!) is rethinking the way the world approaches banking. we’re experimenting, innovating, and delivering breakthrough experiences for 65 million customers. we love to be curious, to dream, and ask “what if?” oh, and we love to write code. not to brag, but we’re also a great place to work!as a capital one data engineer, you will develop fast data infrastructure leveraging data streaming, batch processing, and machine learning to personalize experiences for our customers. whether a new feature or a bug fix, you will lead your work and deliver the most elegant and scalable solutions, all while learning and growing your skills. most importantly, you’ll work and collaborate with a nimble, autonomous, cross-functional team of makers, breakers, doers, and disruptors who love to solve real problems and meet real customer needs.the person we're looking for:has a sense of intellectual curiosity and a burning desire to learnis self-driven, actively looks for ways to contribute, and knows how to get things doneis deliriously customer-focusedvalues data and truth over egohas a strong sense of engineering craftsmanship, takes pride in the code they writebelieves that good software development includes good testing, good documentation, and good collaborationhas great communication and reasoning skills, including the ability to make a strong case for technology choicesbasic qualifications:-bachelor’s degree or military experience-at least 5 years of professional experience with data engineering concepts-at least 4 years of experience in hadoop, nosql, and rdbms systems-at least 1 year of cloud (aws, azure, google) development experience-at least 1 year of experience working with cloud automation/orchestration technologies (i.e. puppet, chef, spacewalk, openstack, ansible)preferred qualifications:-2+ years experience with aws cloud with certifications-2+ years of experience in scala, or python-2+ years of experience with unix/linux systems with scripting experience in shell, perl or python-2+ years of experience building data pipelines-1+ year experience with leading big and fast data technologies like spark, cassandra, hadoop, hdfs, postgresql, redshift, and mongodb-experience with streaming and/or nosql implementation (mongo, cassandra, etc.) a plusthis is a senior-level position located in wilmington, de. it is permanent and full-time, beginning as soon as we find the right person.at this time, capital one will not sponsor a new applicant for employment authorization for this position.at this time, capital one will not sponsor a new applicant for employment authorization for this position.no agencies please.  capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. capital one promotes a drug-free workplace.  capital one will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, article 23-a of the new york correction law; san francisco, california police code article 49, sections 4901-4920; new york city’s fair chance act; philadelphia’s fair criminal records screening act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at 1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.for technical support or questions about capital one's recruiting process, please send an email to careers@capitalone.comcapital one does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.capital one financial is made up of several different entities. please note that any position posted in canada is for capital one canada, any position posted in the united kingdom is for capital one europe and any position posted in the philippines is for capital one philippines service corp. (copssc).
+apply now
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+
+our location
+
+
+
+
+
+job alerts
+sign up here for job alerts and other communications from capital one.
+email addressinterested inselect a job category from the list of options. select a location from the list of options. finally, click “add” to create your job alert.job category*select a job categoryanalyticsbrand/marketingbusiness bankingcafécafé ambassadorcafé coachcampus opportunitiescommercial bankingcompany builderscustomer advocatescustomer caredata engineeringdata sciencedesigndevopsengineeringfinanceinformation technologyinvestinglegalmachine learningmarket leadmclean data engineeringmclean devopsmclean engineeringmclean machine learningmclean softwareoperationspeople & workplacepersonal bankingproduct innovatorsproduct managementproject/process managementrisk management/auditsalessoftware engineeringstrategytechnology explorerstechnology operationsstate*select locationalabama, united statesarizona, united statescalabarzon, philippinescalifornia, united statescolorado, united statesconnecticut, united statesdelaware, united statesdistrict of columbia, united statesengland, united kingdomflorida, united statesgeorgia, united statesillinois, united statesindiana, united stateskansas, united stateslouisiana, united statesmaryland, united statesmassachusetts, united statesmichigan, united statesminnesota, united statesmississippi, united statesmissouri, united statesnebraska, united statesnevada, united statesnew jersey, united statesnew york, united statesnorth carolina, united statesohio, united statesoklahoma, united statesontario, canadaoregon, united statespennsylvania, united statesquebec, canadasouth carolina, united statestennessee, united statestexas, united statesutah, united statesvirginia, united stateswashington, united stateswisconsin, united statesaddinformation technology, wilmington, delaware, united statesremoveengineering, wilmington, delaware, united statesremovetechnology explorers, wilmington, delaware, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+*required field
+
+
+
+
+similar jobs
+
+
+software engineer
+mclean, virginia, new york, new york, wilmington, delaware
+
+
+manager, pega
+mclean, virginia, wilmington, delaware
+
+
+senior software engineer
+wilmington, delaware, mclean, virginia
+
+
+
+
+
+
+
+
+
+keywords
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+match jobs to your linkedin profile.
+
+welcome back, login
+
+
+
+
+
+
+
+
+investing in communities
+
+
+
+
+
+
+
+our take on interviews
+
+
+
+
+
+
+
+more than just a bank
+
+
+
+
+
+
+
+
+
+facebook
+linkedin
+instagram
+twitter
+youtube
+glassdoor
+
+
+
+legal
+
+privacy
+security
+terms & conditions
+patriot act cert. *
+service members civil
+relief act
+
+member fdicequal housing lender
+
+
+capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. capital one promotes a drug-free workplace.
+all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, sexual orientation, gender identity, protected veteran status, disability or other protected status.
+if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at  1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+capital one is a federally registered service mark. all rights reserved. blank check® is a registered trademark of capital one services, llc. capital one does not provide, endorse, nor guarantee and is not liable for third party products, services, educational tools, or other information available through this site.
+fortune and fortune 100 best companies to work for are registered trademarks of time inc. and are used under license. from fortune magazine, march 15, 2017 ©2017 time inc. used under license. fortune and time inc. are not affiliated with, and do not endorse products or services of, capital one financial corporation.
+*plugins required [adobe®reader®]
+e-verify® is a registered trademark of the u.s. department of homeland security 
+
+
+this link opens in new tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

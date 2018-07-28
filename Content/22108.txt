@@ -1,0 +1,374 @@
+
+
+
+
+job application for sr. data scientist (recommendation systems) at wayup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+sr. data scientist (recommendation systems)
+
+        at wayup
+      
+
+        new york
+      
+
+
+wayup is the go-to platform for millions of early-career professionals to explore job and internship opportunities, receive advice, and get discovered by employers. top companies from startups to fortune 500s use wayup’s platform to reach, recruit and engage with the new generation of early-career talent. since launching in 2014, wayup has helped millions of candidates launch their careers.
+at wayup, recommending jobs isn’t just a nice-to-have feature, it’s a key capability for delighting our users and our customers. your skills in the mathematics and design of recommendation systems, as well as in data science and collaborative product development, will help accelerate wayup’s growth as we take our product to the next level.
+you have experience in applying mathematical techniques to hard business problems and in development of software used by millions of people with differing wants and needs. you’re impact-driven, interested in bringing best-practices to life, motivated by clean designs, and love the process of diving in, figuring out what you need to, and making things happen, both for today and for the long-term.
+responsibilities
+
+develop robust, knowledge-driven job listing (and other content) recommender systems for wayup. we currently use python, collaborative filter and text similarity-based recommenders, and elasticsearch. you’ll push those systems to the next level.
+work directly with the director of data science, the cto, and the product and engineering teams to ensure we’re providing the best possible search & discovery process for job-seekers and other users of wayup’s platform.
+research open questions, such as how to best evaluate recommendation systems with dynamic visibility constraints, or how to best handle complex interactions between recommendations and stated user preferences.
+get deep in the analysis of how our users use recommendations in their job-seeking process, and suggest new approaches to delighting them.
+
+required skills
+
+strong understanding of linear algebra, such as from an ms or phd in computer science, applied math, or statistics.
+strong understanding of the theory and practice of recommender systems, including collaborative filters based on matrix factorization, similarity-based recommenders, and ensemble methods. you’re comfortable thinking through approaches to hard problems such as cold-start recommendations and real-time recommendation systems.
+substantial expertise with a high-level programming language, python preferred but not required. experience with the tools used in production software engineering, including source control, code review, and testing frameworks. comfort with linux and modern cloud-based web application designs.
+comfort with sql and large database systems such as redshift.
+experience with machine learning tools and techniques including feature engineering, hyperparameter optimization, ensemble methods, and neural networks.
+experience with data science tools and techniques including data visualization and exploratory data analysis, reproducible research, and statistical tools such as multiple regression.
+great communications skills, including the ability to listen deeply and learn what people need, not just what they say they want.
+a demonstrated hunger to learn more -- about technology, about our business, about everything.
+the ability to thrive in a fast-paced startup environment, where you’ll be writing the rules and collaborating with the entire business.
+
+nice to have
+
+experience studying search interfaces and human-computer interaction.
+experience with elasticsearch or similar high-performance search systems.
+experience with natural language processing, including word2vec and similar approaches to extracting content from text data.
+experience working with data in the aws ecosystem.
+experience in the big data ecosystem (hadoop, spark, or other distributed data systems).
+public evidence of your desire to learn and share what you’ve learned, such as code on github, or talks at conferences or meetups, or blog posts.
+
+by submitting your application, you agree to submit a list of references as part of the interview process and consent to wayup contacting these references.
+the company values the array of backgrounds, talents and perspectives that a diverse workforce brings. all qualified applicants will receive consideration for employment without regard to actual or perceived race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital or familial status (including registered domestic partnership status), sex and gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity and gender expression (including transgender individuals who are transitioning, have transitioned, or are perceived to be transitioning to the gender with which they identify), age, sexual orientation, civil air patrol status, military and veteran status, certain arrest or conviction records, domestic violence victim status, and any other consideration protected by federal, state or local law (collectively referred to as "protected characteristics”).
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ add another
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+have you had experience working with recommendation systems? *
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        school name
+      
+
+
+
+
+
+        degree
+      
+
+high school
+associate's degree
+bachelor's degree
+master's degree
+master of business administration (m.b.a.)
+juris doctor (j.d.)
+doctor of medicine (m.d.)
+doctor of philosophy (ph.d.)
+engineer's degree
+other
+
+
+
+        discipline
+      
+
+accounting
+african studies
+agriculture
+anthropology
+applied health services
+architecture
+art
+asian studies
+biology
+business
+business administration
+chemistry
+classical languages
+communications & film
+computer science
+dentistry
+developing nations
+discipline unknown
+earth sciences
+economics
+education
+electronics
+engineering
+english studies
+environmental studies
+european studies
+fashion
+finance
+fine arts
+general studies
+health services
+history
+human resources management
+humanities
+industrial arts & carpentry
+information systems
+international relations
+journalism
+languages
+latin american studies
+law
+linguistics
+manufacturing & mechanics
+mathematics
+medicine
+middle eastern studies
+naval science
+north american studies
+nuclear technics
+operations research & strategy
+organizational theory
+philosophy
+physical education
+physical sciences
+physics
+political science
+psychology
+public policy
+public service
+religious studies
+russian & soviet studies
+scandinavian studies
+science
+slavic studies
+social science
+social sciences
+sociology
+speech
+statistics & decision theory
+urban studies
+veterinary medicine
+
+
+
+        start date
+      
+
+
+
+
+
+        end date
+      
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

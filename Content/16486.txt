@@ -1,0 +1,583 @@
+
+
+texas a&m university - san antonio employment site : posting details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+search postings
+
+
+create application
+
+
+login
+
+
+
+
+
+
+
+                    texas a&m - san antonio home page
+
+        
+
+
+
+
+                    benefits
+
+        
+
+
+
+
+                    annual security report
+
+        
+
+
+
+
+
+posting details
+
+
+return to search results
+
+
+
+printer-friendly version
+
+
+
+
+
+
+
+
+
+
+
+if you need to edit your application information before applying for a position, please login and click on the 'manage applications' link on the navigation bar to the left.  you will not be allowed to change your application information after you have applied for a position.
+
+
+
+
+
+
+
+
+
+
+
+posting details
+
+
+
+
+
+
+
+
+
+
+posting number:
+
+
+
+
+	            		0601143
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+job title:
+
+
+
+
+	            		web application developer i
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+flsa:
+
+
+
+
+	            		exempt
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+position type:
+
+
+
+
+	            		staff
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+duration of position:
+
+
+
+
+	            		full time
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+work location:
+
+
+
+
+	            		san antonio, texas
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+department:
+
+
+
+
+	            		office of the associate vice provost
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay rate:
+
+
+
+
+	            		$46,763
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+job summary/basic function:
+
+
+
+
+	            		under general direction, this position develops new and current web functionality and applications for academic affairs, institutional effectiveness, and institutional research. provides support and maintenance on the new and current applications. gathers requirements from university departments, faculty, and staff. ensures all web functions are accessibility compliant. incorporates responsive web design and technology into all site development. supports web development using revision control software.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+work hours:
+
+
+
+
+	            		typically works monday-friday; 8 a.m.-5 p.m. may work beyond normal office hours to include evening and/or weekend hours.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+special instructions to applicants:
+
+
+
+
+	            		texas a&m university-san antonio (tamu-sa) is a new comprehensive university in the established texas a&m university system serving students from a culturally diverse and largely non-traditional population. the university was created to address the educational needs in south san antonio and surrounding areas. the current enrollment is approximately 6,500. selected candidates must pass a pre-employment background investigation and degree verification (if required) to be hired for this position.the above duties may not be performed in every position with this title and the above functions may not include all related duties that might be performed. this position requires physical activities supportive of the above job duties. reasonable accommodations will be made as necessary.if you are a male age 18 through 25, you must be properly registered with the selective service system to be eligible for hire.texas a&m-san antonio is an equal opportunity/affirmative action/veterans/disability employer  committed to provide equal employment opportunity to all persons regardless of race, color, sex, religion, national origin, age, disability, genetic information, veteran status, sexual orientation or gender identity.
+
+	            		 
+				
+            
+
+
+
+
+
+
+posting date:
+
+
+
+
+	            		11-17-2017
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+closing date:
+
+
+
+
+				
+		 					open until filled
+		 		
+            
+
+
+
+
+
+
+quicklink for posting:
+
+
+
+
+	            		employment.tamusahr.com/applicants/central?quickfind=52041
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+job duties
+
+
+
+
+5 
+        records
+    
+
+
+
+
+
+ 
+        percent of total time:
+        
+      
+ 
+        responsibility / duty:
+        
+      
+ 
+        is this function essential?
+        
+      
+
+
+
+
+
+                    40
+        
+
+develops new web functionality/applications: gathers and analyzes requirements from university departments, faculty, and staff; develops locally-created tools that facilitate the use of the university website, including plan, research, code, test, and deploy; provides support and maintenance on the new applications; serves as point for new application and/or update launches; ensures all new web functions are accessibility compliant; incorporates responsive web design and technology into all site development
+
+
+                    yes
+        
+
+
+
+                    25
+        
+
+maintains current web functionality/applications: corrects arising issues within web functionality/applications as needed; enhances web functionality/applications through regular communication with university personnel; provides support and maintenance on all current functionality/applications
+
+
+                    yes
+        
+
+
+
+                    20
+        
+
+provides instruction and troubleshooting to faculty, staff, and students; performs usability and user-experience testing
+
+
+                    yes
+        
+
+
+
+                    10
+        
+
+researches and implements new web technologies as deemed appropriate in the effort to improve and enhance the university's web presence
+
+
+                    yes
+        
+
+
+
+                    5
+        
+
+performs other duties as assigned.
+
+
+                    yes
+        
+
+
+
+
+
+
+qualifications
+
+
+
+education
+
+
+
+
+
+
+
+
+
+
+necessary qualifications:
+
+
+
+
+	            		bachelor's degree in computer information systems, computer science, or closely related field.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+preferred qualifications:
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+ 
+
+
+
+experience
+
+
+
+
+
+
+
+
+
+
+necessary qualifications:
+
+
+
+
+	            		two years of experience in web development/programming with relational databases to produce dynamic web-based applications
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+preferred qualifications:
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+ 
+
+
+
+other requirements or other factors
+
+
+
+
+
+
+
+
+
+
+other qualifications for posting:
+
+
+
+
+necessary experience with asp/asp.net (or similar language), sql server (or similar), ms server 2008/iis 7, javascript, ajax, jquery, json, xml, html, css, scss. experience with debugging web including chrome/android and mobile safari. ability to work cooperatively with others and provide excellent customer service to students, employees, and the community. ability to multi task.
+		            
+	            		 
+				
+            
+
+
+
+
+
+ 
+
+
+documents
+
+
+return to search results
+
+
+
+
+
+
+
+
+
+if you need to edit your application information before applying for a position, please login and click on the 'manage applications' link on the navigation bar to the left.  you will not be allowed to change your application information after you have applied for a position.
+
+
+
+
+
+
+
+
+
+texas a&m-san antonio is an equal opportunity/affirmative action/veterans/disability employer committed to provide equal employment opportunity to all persons regardless of race, color, sex, religion, national origin, age, disability, genetic information, veteran status, sexual orientation or gender identity.for additional support, please visit http://peopleadminsupport.com/5-8/
+
+
+
+
+
+
+

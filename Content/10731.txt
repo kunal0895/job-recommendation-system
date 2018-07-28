@@ -1,0 +1,215 @@
+
+
+
+careers | career opportunities | willamette dental group |data architect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+data architect
+
+
+
+
+job locations
+
+or-hillsboro
+
+
+
+job req #
+
+8102-1117:
+
+
+# of positions
+
+1
+
+
+exp. (years)
+
+10
+
+
+job post information* : posted date
+
+1 month ago
+
+
+pos. category
+
+information technology - positions
+
+
+pos. type
+
+full time regular
+
+
+schedule
+
+5 8-hour days
+
+
+
+
+
+
+
+
+
+company overview
+
+
+
+
+
+
+with more than 400,000 patients throughout our 50+ practice locations in oregon, washington, and idaho, and a built-in specialty referral network to more than 30 specialists, willamette dental group has been a leader in preventive and proactive dental care since 1970. what makes this multi-specialty group practice unique, and better, is a commitment to proactively facilitating the best possible health outcomes. as a member of the willamette dental group team, we offer a competitive salary commensurate with experience. we are a performance based culture and offer a generous and comprehensive benefit package. among the many amenities we offer are medical, dental, vision, life insurance, paid time off (pto), paid holidays, and a robust wellness program. additionally, we offer a 401(k) plan with a generous employer match, tuition assistance, discounted monthly trimet pass, and much more. our hillsboro, oregon administrative headquarters are conveniently located in the growing orenco station neighborhood, just blocks from the max stop and within easy walking distance to many local shops and restaurants.
+
+
+
+
+
+
+
+
+job responsibilities
+
+
+
+
+
+
+the data architect will be responsible for the quality and governance of our data and how it is stored as well as submitting reports to management that outline the changing data needs of the company and come up with related solutions. this position will define, design and develop relational and/or multi-dimensional databases for warehousing of data. •develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements•lead data governance initiative within willamette dental group•maintain the integrity and security of the data•create data monitoring solutions to maintain quality, integrity and security of the data•provide insight into the changing database storage and utilization requirements•develop an archiving strategy and work with the dba team to implement it•determines database structural requirements by analyzing client operations, applications, and programming; reviewing objectives with clients; evaluating current systems;•develops database solutions by designing proposed system; defining database physical structure and functional capabilities, security, back-up, and recovery specifications•installs database systems by developing flowcharts; applying optimum access techniques; coordinating installation actions; documents actions•maintains database performance by identifying and resolving production and application development problems; calculating optimum values for parameters; evaluating, integrating, and installing new releases; completing maintenance; answering user questions•prepares users by conducting training•provides database support by coding utilities, responding to user questions, and resolving problems•updates job knowledge by participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations•accomplishes information systems and organization mission by completing related results as needed
+
+
+
+
+
+
+
+
+job qualifications
+
+
+
+
+
+
+b.s. in computer science, statistics, applied math or related fields and ten or more years’ experience as a data architect, data scientist, data analyst or equivalent combination of education and experience which will provide the ability to perform the essential functions of the position. ten or more years’ working knowledge in oracle and sql server environments and etl tools with five or more years’ working knowledge with reporting tools like tableau, power bi, microstrategy, pentaho, clickview, targit, etc. m.s. in related fields is preferred. knowledge of:•database structure principles.•data mining and segmentation techniques.•agile development methodology and concepts. •master data management, enterprise information management and data governance framework.skilled in: •data modeling and database design – all phases of data modeling, from conceptualization to database optimization.•columnar and nosql databases, predictive analytics, data visualization, and unstructured data.•python, hadoop, and/or pig. •exceptional written and verbal communication skills.•exceptional people skills, great track record in customer service and teamwork. •analytical skills.•attention to detail.•logical thinking.•problem-solving. ability to: •develop creative solutions to problems.•conceive and portray the big data picture. •work in distributed systems.
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+connect with us!
+
+
+
+
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

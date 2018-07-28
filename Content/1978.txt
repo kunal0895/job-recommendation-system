@@ -1,0 +1,197 @@
+
+
+
+
+
+
+steward health care | careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+steward.org
+
+
+
+
+
+
+
+
+    
+
+
+
+
+returning applicant?log in now 
+
+
+
+
+
+returning applicant?log in now 
+
+
+
+
+
+
+ toggle navigation    
+
+
+
+
+  home  
+  job search  
+  all jobs  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+        it has been determined that you are currently running a "popup blocker". in order to continue, please allow this site from within your "popup
+        blocker" preferences.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		  	send this job to a friend
+		
+
+
+
+data engineer
+
+
+category:
+management/ professional
+schedule:
+full-time
+
+
+facility:
+corporate
+shift:
+day shift
+
+
+department:
+is acquisitions
+hours:
+8:30am-5:00pm
+
+
+req number:
+41758                         
+union:
+no
+
+
+job details:
+
+summary steward software development is looking for a driven, pragmatic data engineer with real-world experience creating and maintaining enterprise-grade data solutions in the cloud.  utilizing industry-leading technologies and modern architectural concepts, the data engineer will provide expertise in multiple areas including data systems design, web-based workflows (etl), advanced analytics, bi, big data, cloud storage and cloud processing. key responsibilities • design, build and implement enterprise-grade data solutions for large-scale, multi-tenant web applications• produce high-quality, well architected solutions with an upfront focus on testing and long-term support• ensure best practices and industry standard patterns are utilized whenever possible• actively review existing code and other developers' work and provide feedback• collaborate with developers and analysts on technical and functional designs• work with the product owner and key stakeholders to fully understand functional requirements for enhancements and new products• assist with project scoping, sprint and release planning• work with qa and devops to perform unit/integrated testing and assist with development of automation strategies and tools• collaborate with devops to help identify areas for performance improvement• advocate agile software development principles and practices• participate and assist in conducting daily scrum meetings• contribute to team body of knowledge by educating colleagues on industry developments and new client-side technologies qualifications education• ba/bs/ms in computer science or related 4+-year technical degree experience• 3+ years of experience in data engineering, or equivalent dba + software development skills• solid background in computer science and mathematics• proficient with relational database management systems, preferably microsoft sql server• proficient with sql and preferably with t-sql• demonstrated experience developing and supporting high performance batch extract, transform, cleanse and load processes using industry standard tools such as sql server integration services• experience with sql server analysis services and data analysis expressions (dax) • experience with bi tools such as sql server reporting services, power bi, tableau• experience with real-time data processing and integration in the cloud (iot) with technology like microsoft azure stream analytics• knowledge and some experience with big data technologies such as hadoop, hdinsight, azure data lake• proficient in object-oriented programming concepts and development techniques• proficient with at least one oo language, preferably c#• experience with server-side frameworks and environments such as asp.net mvc, python, php, node• knowledge of orm tools like entity framework, nhibernate, dapper• knowledge of service-oriented architecture (soa) and related architectural styles using rest, soap, rpc, xml, • experience with modern distributed version control systems like git• experience with test, build, deploy (ci) software such as microsoft team services, bamboo, jenkins, teamcity, etc.• experience with an integrated development environment (ide), preferably visual studio• experience working in an agile-based development environment and knowledge of different methods such as scrum, feature-driven development (fdd) and kanban general• strong analytical and decision-making skills• excellent oral and written communication skills• strong desire to seek out and learn new technologies and development practices• ability and willingness to adapt quickly to changing priorities and requests• ability to thrive under pressure and take control of urgent and demanding issues about steward software development 1 steward health care is working on something profoundly different.  we have an unwavering commitment to enhancing care delivery with the use of cutting edge technology and we are looking for highly skilled engineers with the desire to apply their talents to something genuinely valuable.  it's time to truly advance the way we provide care.   the software engineering team at steward health care is focused on advanced web-based application development utilizing industry leading predictive modeling and cloud computing to provide elegant, innovative solutions in a myriad of care settings.  we believe in a culture of trust, open communication and regular collaboration that allows the cultivation of team harmony.  our environment values hard work, creativity and a devotion to learning.  we love to be challenged, have an innate need to solve problems and enjoy unparalleled satisfaction from delivering beautifully crafted solutions.   
+
+
+
+
+
+
+                current steward health care system employees - click here to apply
+            
+
+
+                    all other applicants - click here to apply
+                
+
+
+external application confirm
+
+are you sure you want to continue as a external applicant?
+
+
+					yes
+				
+
+					no
+				
+
+
+
+
+
+internal application confirm
+
+are you sure you want to continue as a internal applicant?
+
+
+					yes
+				
+
+					no
+				
+
+
+
+
+
+
+
+
+
+
+
+
+back to top
+
+
+ copyright © 2016  steward health care 
+
+
+
+

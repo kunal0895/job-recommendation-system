@@ -1,0 +1,299 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biocentury  - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+publications
+archives
+bciq
+conferences
+
+
+
+
+
+free trial / subscribe
+sign in sign in 
+
+
+
+					english				
+
+
+
+					简体中文				
+
+
+
+					日本語				
+
+
+
+					한국어				
+
+
+
+
+
+username *
+
+
+
+password *
+
+
+request new password
+
+
+
+ remember me 
+
+
+
+biocentury
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+menu
+
+
+home +
+publications +
+biocenturybc innovationsbc extrabc week in reviewcurrent issues
+
+archives +
+basic search
+advanced search
+back issues
+
+
+bciq +
+
+overview>
+pipeline analyst>
+financial analyst>
+company analyst>
+deal analyst>
+
+
+conferences +
+
+
+bio€quity europe 
+future leaders 
+china healthcare summit 
+newsmakers  other industry events
+
+
+elearning +
+videos
+white papers
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+you are herehome / data engineer 
+
+
+
+data engineer  
+
+
+data engineer
+
+the company currently has a full time opening for a data engineer.  this is a key role in design and management of biocentury data solutions. the successful candidate must be comfortable working hands-on with a small team, working with outside vendors and taking on multiple roles as needed to complete the project.  while this is a data engineer position, the successful candidate can expect to contribute to all areas of the project and through the entire sdlc. 
+interested candidates must submit both a cover letter and resume to be considered.job description: the data engineer reports to the director, software development and will be located in the company's redwood city office.   the position will be required to:design, construct, install, test and maintain highly scalable data management systems for our online data solutions. ensure systems meet business requirements and industry practicesliaise with end-users to describe and to clarify requirementsbuild high-performance algorithms, prototypes, predictive models and proof of conceptsresearch opportunities for data acquisition and new uses for existing datadevelop data set processes for data modeling, mining and productionintegrate new data management technologies and software engineering tools into existing structurescreate custom software components and analytics applicationsinstall and update disaster recovery proceduresrecommend ways to improve data reliability, efficiency and qualitycollaborate with data architects, data scientists, data specialists and it team members on project goalsrequirements: this position requires:strong ssis package development experience – 5+ yearsetl and data migration experience  5+ yearsdata warehouse design  experience  5+ yearsexperience with ssas/rs and bi presentation tools (preferably powerbi)experience in writing technical designs and project documentationtransact-sql querying, programming, stored procedures, job building, and ad hoc queriesnice to havesome web development with asp.net and javascript/ angularexperience in consulting, training and user supportsome experience with mining data from text, machine learning, nlpeducation requirements:
+ba/bsc computer science or equivalent experience.compensation and benefits: the work environment is casual; however, professional behavior, rapt attention to detail and the ability to meet deadlines are absolute requirements.
+finally, all biocentury employees are obligated to meet the highest standards with respect to accuracy, conflict of interest, intellectual property rights, slander, confidentiality and respect for information sources and readers.
+interested applicants should send a cover letter and resume to the attention of careers@biocentury.com.
+compensation and benefits: compensation and benefits commensurate with experiencecompany sponsored health and life insurancebonus / 401k planposition based in biocentury’s redwood city office 
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+about biocentury
+company overview
+management
+editorial & research
+market data
+ 
+
+contact
+contact us
+advertising & sponsorship
+career opportunities
+ 
+
+support
+forgot password
+customer service
+reprints
+faqs
+ 
+
+products & solutions
+products overview
+publications
+archives
+bciq
+conferences
+elearning
+rss feeds
+ 
+
+legal
+user agreement
+terms of use
+privacy policy
+your california privacy rights
+use of images
+market data
+ 
+follow us
+	          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is biocentury?
+biocentury employs a fully integrated multimedia platform — including publications, video, online data solutions and conferences — to provide its audience with authoritative and up-to-date intelligence about corporate strategy, partnering, emerging technology, clinical data, public policy and the financial markets.
+sign infree trial 
+
+
+
+
+
+© 2017 biocentury inc. all rights reserved.    terms & conditions | privacy policy 
+
+
+
+
+
+
+
+
+
+
+

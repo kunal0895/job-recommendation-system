@@ -1,0 +1,263 @@
+
+
+western governors university careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+employment listingsabout usfaqs
+
+
+
+ 
+
+search current openingsupdate your profilecreate a job agentupdate job agentrecruiting agency login
+  
+
+
+
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					sr. data scientist
+				
+
+
+						job description
+					
+
+the center for applied learning science (cals) at wgu develops habit-forming learning applications leading to educational attainment and life-long success. we learn how to help people learn. leveraging advances in cognitive and behavioral sciences and emerging technology, the center fosters innovation from idea through incubation, continuously improving student learning at wgu and beyond. 
+ 
+the cals data scientist is a master at discovering actionable insights from multiple, large and complex data sets. critical to the center’s ability to hyper-focus on learning and educational attainment, the data scientist conducts high-quality quantitative research channeling cals learning design efforts and understanding our products’ real-world impact on learners.  
+ 
+the successful candidate excels at research techniques underpinning learning science, such as predictive modeling, intelligent tutors, and educational data mining. they also push the boundaries of the field, seeking new and innovative ways to extract meaning from digital data of all types. 
+ 
+essential functions and responsibilities
+
+proposes and conducts quantitative research, discovering insights into student learning and educational attainment and suggesting areas for cals research and development investment. 
+mines large data sets and creates predictive models employing traditional statistical techniques, machine learning algorithms, text mining, and natural language processing  
+models intelligent tutors using bayesian knowledge tracing and other emerging techniques.  
+
+
+communicates research findings to lay and technical audiences. creates reports, visualizations, and other supporting artifacts for internal- and external-facing publication. 
+interfaces with internal teams and external partners in the definition and execution of research projects. 
+develops and maintains a collaborative relationship with all appropriate internal and external stakeholders.  
+stays current with trends and emerging techniques in data science, learning science, and related fields. 
+fulfills other duties as assigned. 
+
+
+
+						required skills
+					
+
+
+proven successful history as a data scientist conducting original quantitative research. 
+deep knowledge of a field such as learning science, behavioral/social science, or analogous field leveraging similar quantitative research and modeling methods.  
+able to conduct self-directed data mining and modeling activities and communicate insights and opportunities to stakeholders. 
+
+
+given very large data sets, proven experience setting up and maintaining big data processes, big data environments, and efficient processing of large amounts of unstructured data.  
+proven expert-level skills working with all types of structured, unstructured, and semi-structured data using r, python, sql, sas, and scala within big data environments such as databricks and hive. 
+proven experience leveraging the following techniques:  
+
+
+logistic regression, factor analysis, classification algorithms, tree models, etc. 
+machine learning algorithms such as neural networks, decision trees, association rules, and unsupervised learning methods 
+
+
+text mining and natural language processing 
+bayesian knowledge tracing / intelligent tutors 
+
+
+experience extracting meaningful data from social networking platforms and public/open data sources. 
+basic understanding of regular expressions to extract data from semi-structured and unstructured data sources. 
+successful history communicating research findings and ideas to lay and scholarly audiences. 
+
+
+excellent written, oral, presentation, and interpersonal skills. 
+ability to work in a collaborative team and maintain effective relationships. 
+understands higher education and education outcomes and metrics.  
+strong attention to detail and a feeling of pride and ownership over the quality of cals research products and student-facing applications.  
+
+
+
+						required experience
+					
+
+
+master’s degree or higher in relevant field 
+5+ years conducting quantitative research with very large data sets or big data 
+strong consideration given to candidates sharing a body of large-scale research outputs 
+
+ preferred qualifications
+
+phd preferred 
+
+ 
+
+
+						job location
+					
+
+						salt lake city, utah, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								connect
+							
+
+
+							who do you know at
+							
+western governors university
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+copyright 2017 western governors university all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+

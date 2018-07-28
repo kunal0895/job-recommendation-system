@@ -1,0 +1,257 @@
+
+
+
+
+job application for software engineer at gladly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer
+
+        at gladly
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+how do you contact companies you do business with? voice, chat, email, sms, social media? gladly was built to help rethink how the world’s top brands communicate with their customers. 
+we're currently hiring software engineers to join our growing team in san francisco. 
+what’s life at gladly like?we’d like to give you a good idea of what it's like to work at gladly. we value the strength of our team above everything else. we believe in open communication and in sharing opinions, not in micromanagement. we openly discuss all aspects of our business, and avoid internal politics. we learn from each other, and we help each other learn. we focus on a common goal, which is the success of our customers, and through it the success of our business and our people. we have a collaborative culture of mutual respect - many of us are working together for a second and even a third time. we have a strong work ethic, but value life outside of work, so we don't spend our entire lives in the office. come join us!
+what you’ll do:
+
+
+build robust, scalable and fault-tolerant services
+
+
+drive implementation of front-end aspects of our product alongside ux designers and back-end focused engineers 
+
+
+create amazing user experiences, across the entire product
+
+
+engage in architectural design discussions, where your innovations and breakthroughs help to shape product direction
+
+
+contribute to an environment of mutual respect and learning, relying on each other’s input to continuously improve
+
+
+see your projects through from concept to production
+
+
+about the team:we’re small, so every person on the team can make a big impact. we're a collaborative team with a focus on effective engineering; we’re not just hacking to meet deadlines. our environment promotes inclusion, innovation, mutual respect, and learning from each other. we offer everyone a wide range of responsibility, and opportunities to learn as we grow. bring your best abilities to the table to help us solve challenging engineering problems: cloud infrastructure; creating the best of user experiences; building robust, scalable, reliable architecture. if your goals include diving into development projects you haven’t tried before and building new skills, this is the place to do it. we encourage taking on projects outside their comfort zone.our system is a microservice architecture built primarily in go and node/react with kafka used as a message bus. services are deployed as docker containers running under kubernetes on aws.
+about you:above all, we’re looking for individuals with a genuine passion for solving problems, who contribute their best work as part of a team, and just get stuff done.
+
+
+demonstrate high-quality software craftsmanship; via various project work or a history of building great products
+
+
+can see the big picture: you’re able to understand requirements from other points of view, beyond just the spec. whether building an internal developer tool or working on a critical ui feature used by millions, your sharp design sense and focus on quality and simplicity ensures a great end-to-end user experience
+
+
+solid coding ability in any language, with the desire to learn others. we mainly use go, javascript, node.js but welcome all sorts of other knowledge i.e. python, java, c++
+
+
+propensity for shipping product and iterating quickly
+
+
+demonstrate strong ownership of and responsibility for what you build
+
+
+versatile engineer able to work across various projects
+
+
+pragmatic: successfully balance exploring new solutions with leveraging the best tool for the job at hand
+
+
+any production experience using modern ui frameworks (such as react) is a plus
+
+
+previous work on large-scale web applications with reusable component architecture desired
+
+
+ 
+gladly is proud to be an equal employment workplace and an affirmative action employer.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,746 @@
+
+
+
+
+
+
+		senior front-end software developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+senior front-end software developer
+development – austin, texas
+
+
+apply for this job
+
+
+
+
+department
+development
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+
+
+
+
+
+
+
+
+affinipay is looking for a senior front-end software developer to help us build our next generation user interfaces. our front-end engineers work together with our ux team to deliver modern, great looking, and easy-to-use interfaces to our user base of lawyers, cpa's, and other professionals.
+responsibilities include:
+
+owning the design and implementation of application features within our node.js/reactjs web interfaces
+working to improve processes and technologies
+iterating on new and existing features to improve usability, performance, and security
+deploying and managing applications within aws
+
+requirements:
+
+bs in computer science or engineering
+5+ years professional backend software development
+3+ years experience with a javascript ui framework (backbone, angular, ember, or reactjs)
+proficient in javascript
+experience creating interfaces that are responsive, accessible, and international
+experience with rails a plus
+experience with react native a plus
+experience with application containers a plus
+knowledgeable in mysql, postgresql, or oracle db environments and orm frameworks
+experience implementing and debugging large scale solutions in cloud-based environments
+familiar with linux environments
+experience with security-related development best practices
+
+about affinipay
+based in austin, texas, affinipay is a software-driven financial technologies company focused on creating uis and apis that make it easy for our partners to add payments and payment-related features to their applications. our custom payment technology, as well as our best-in-class customer support, has won the endorsements of the american bar association and 46 state bars, and has made us the leader in the legal industry. affinipay has been listed as one of austin business journal’s fastest growing companies for the last 3 years. check out our website at www.affinipay.com.
+affini-perks! we've got you covered...
+
+         competitive compensation structure
+         401k with automatic 5% company contribution
+         100% paid medical, dental, and vision benefit plans
+         100% company paid short- and long-term disability and life insurance
+         competitive pto plan
+         paid maternity/paternity leave
+         fun destination quarterly meetings
+         affinipay swag package
+         company lunches and fully stocked kitchen
+         all the benefits of a startup culture without the downsides
+         the chance to get in on the ground floor of one of austin's fastest growing companies!
+
+ affinipay is proud to be an equal opportunity employer. 
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+austin, texas
+
+
+department
+development
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

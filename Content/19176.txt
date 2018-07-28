@@ -1,0 +1,750 @@
+
+
+
+
+
+
+
+highquartile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+employee login
+
+636-542-0283
+
+
+
+
+
+
+company
+domains
+services
+expertise
+careers
+job openings
+contacts
+
+
+
+
+
+
+
+
+
+
+
+
+our current openings
+
+high quartile offers highly competitive compensation packages along with generous healthcare and wealth-building benefits. here are the highlights:
+
+
+
+
+
+sr. java developer - agile
+
+responsibilities:
+as a software engineer with our client, you will have the opportunity to build the applications enabling our global business operations and the customer experience that has made us the industry leader in rental transportation services. you'll be responsible for working as part of a driven team ensuring existing and new code meets our high standards of quality. the scope of your role will include leading development team, mentoring junior developers, and working with architects and cross-functional leads; being a key contributor in code reviews; performing unit and integration testing; and planning and coordinating implementation activities. you will also sharpen your critical thinking skills by assisting with the analysis and review of software requirements by attending, or leading design presentations and/or design sessions. in addition, you will implement complex modules, enhancements, or change requests based on a provided design, and participate in migrating applications to the quality assurance and/or production environment. finally, you will also have the opportunity to develop your leadership potential by mentoring less senior team members on new tasks and assignments.
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+required 5+ years of experience in business related software development using the following technologies: php, html 5, css, javascript, mysql/mariadb, red hat enterprise linux 5/6, jboss, websphere, weblogic
+ 3-5 years of agile development in fast-paced environment for all the phases of sdlc
+working knowledge of some of the following is a plus: api, rest services, soap, spring, struts, zend framework, oracle, git/github
+strong detail oriented skills combined with sound problem solving and time management
+proven experience in working effectively in cross-functional teams
+ability to prioritize projects and develop solutions while adhering to overall information technology standards
+strong verbal and written communication skills
+
+apply
+
+
+
+
+java/j2ee architect
+
+responsibilities:
+our client is currently seeking a java architect to help their team drive their success by connecting customers and partners to the value of the internet of things, business-centric architectures, and key technology transitions. our client is looking for a self motivated and highly skilled technology lead who enjoys architecture, design and coding and who has the experience and aptitude to lead others towards excellence in their technical work. this individual will be responsible to define project requirements envisioning system features and functionality. determine design methodologies and tool sets, designing and conducting tests, integrating applications by designing database architecture and server scripting, studying and establishing connectivity with network systems and information servers,  troubleshooting development and production problems across multiple environments and operating platforms. familiarity with development using spring services/jvm language such as java or groovy, and exposing spring services as rest apis using spring security and spring mvc is a plus. provide technical leadership and support while encouraging junior team members to take initiative and responsibility for their work. mentor engineering and development team resources on engineering and software development best practices with a focus on java/j2ee technologies.
+qualifications
+ bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+8+ years of hands-on experience in java / j2ee & related technologies
+familiarity with service-oriented architeture (soa) and rest apis
+experience with spring security, spring mvc and restful web services
+2+ years of experience in php 5, html, css, javascript, mysql/mariadb, red hat enterprise linux
+2+ years of experience in zend framework 1, extjs, oracle, pl/sql, git/github
+knowledge of architectural, design, programming and testing techniques
+ability to work in an agile environment and to be productive with tools like jira, confluence, and git
+excellent verbal and written communication, presentation and technical coaching skills
+strong work ethic with ability to work independently, prioritize & manage work to meet critical timelines in a fast-paced environment
+ability to prioritize projects and develop solutions while adhering to overall information technology standards
+excellent communication skills
+
+apply
+
+
+
+
+sr. java/j2ee architect
+
+responsibilities:
+drive client's success by connecting customers and partners to the value of the internet of things, business-centric architectures, and key technology transitions. self motivated and highly skilled technology lead who enjoys architecture, design and coding and who has the experience and aptitude to lead others towards excellence in their technical work. define project requirements envisioning system features and functionality. determine design methodologies and tool sets, design and conduct tests, integrate applications by designing database architecture and server scripting, study and establish connectivity with network systems and information servers,  troubleshoot development and production problems across multiple environments and operating platforms. familiarity with development using spring services/jvm language such as java or groovy, and exposing spring services as rest apis using spring security and spring mvc is a plus. provide technical leadership and support while encouraging junior team members to take initiative and responsibility for their work. mentor engineering and development team resources on engineering and software development best practices with a focus on java/j2ee technologies.
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+10+ years of hands-on experience in java / j2ee & related technologies
+prior architect role for at least 2+ years using service-oriented architeture (soa), spring security, spring mvc and restful web services
+experience with php 5, html, css, javascript, mysql/mariadb, red hat enterprise linux
+zend framework 1, extjs, oracle, pl/sql, git/github
+knowledge of architectural, design, programming and testing techniques
+ ability to work in an agile environment and to be productive with tools like jira, confluence, and git
+excellent verbal and written communication, presentation and technical coaching skills
+strong work ethic with ability to work independently, prioritize & manage work to meet critical timelines in a fast-paced environment
+ability to prioritize projects and develop solutions while adhering to overall information technology standards
+excellent communication skills
+apply
+
+
+
+
+hadoop sql developer
+
+responsibilities:
+hadoop sql developer defines data strategy, policies, controls and programs to ensure that the enterprise data is accurate, secure and reliable. provides data consultation on complex projects and acts as a top level specialist. ensures compliance with data architecture principles and standards for the various systems and components based on design patterns.deep understanding of distributed architectures is required with adoption of best practices using agile methodology. works to establish metadata management, data catalogs, data standards, and best practices for master data management with objective of establishing data governance function.
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+architectural understanding of the big data ecosystem with expertise in data warehousing
+2-3 years of hands on experience configuring and tuning apache hadoop cdh (cloudera distribution hadoop)
+2-3 years of experience in using sqoop, flume, oozie, impala, hive, pig, spark, hbase, solr
+ nowledge of complex data pipelines and etl
+knowledge of common etl packages / libraries
+apply
+
+
+
+
+hadoop java developer
+
+responsibilities:
+design and development on hadoop software ecosystem and development on mapreduce, hbase, hive, pig
+programming in spark/storm, kafka or other distributed messaging system, pig/python
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+6+ years in application development experience in java / java ee / python / ruby or scala
+6+ years in strong development experience in core java and linux environment.
+6+ years of strong sql skills (mysql, postgresql, rdbms)
+2+ years in hadoop â hdfs, hive, mapreduce, hbase
+2+ years of experience with nosql database â hbase
+1+ years of working knowledge in kafka/storm data pipelines
+6+ years of experience in working in a data warehouse environment
+4+ years of linux skills
+2+ years in code documentation and api/framework documentation/process build.
+apply
+
+
+
+
+hadoop admin - rdbms/nosql
+
+responsibilities:
+as a member of our production services team, you will participate in the selection of technologies that involve solutions to manage and report on large quantities of data. participate in the design, implementation and migration of existing rdbms infrastructure to solutions involving hadoop and nosql technologies. work with various teams and provide guidance on implementation details. participate in resolving database performance, capacity and maintenance issues. be responsible for timely deliveries of information as dictated by business reporting cycles. *must be prepared to provide production support as needed.
+qualifications
+candidate must have good exposure to hadoop cluster administration
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+solid understanding of nosql landscape , available frameworks
+ 3 + years of experience required in hadoop and any of the following: rdbms, nosql, sql, unix/linux, columnar databases, clustered deployment architecture, ibm udb/db2, data warehousing, data mart
+3 + years of relational db sql query design, coding, and optimization required.
+3 + years unix/linux experience required. shell scripting desired.
+2 + years of experience in columnar databases desired
+hands- on experience with monitoring solutions for nosql databases desired
+hands- on experience with performance tuning in a clustered deployment architecture desired
+must have good exposure to red hat or centos linux and shell scripting
+must have experience with monitoring frameworks like ganglia and nagios
+cloudera or red hat certification is a plus
+hive and hbase familiarity
+understanding of zookeeper and zkdump
+ability to work with minimal supervision
+ibm udb/db2, natural products industry, data warehouse/data mart experience are a plus
+apply
+
+
+
+
+data/information architect
+
+responsibilities:
+develop and deliver standard data model artifacts for large complex operational systems employing deep system integration and soa architectures. assist in the development and implementation of various strategic initiatives around meta data management, master data management, data quality, data architecture policies, standards and governance. participate in data architecture design and review processes, including planning and monitoring efforts, reviewing deliverables and communicating to management. respond to change and engage in multiple projects simultaneously. work with minimal guidance; seeks guidance on only the most complex tasks.
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+10+ years of experience as an it professional
+3+ years serving explicitly in a data architect role with prior experience with master data management, meta data management, and/or canonical modeling
+3+ years utilizing data modeling tools (erwin, powerdesigner) creating conceptual, logical and physical data models for large databases
+5+ years working with multiple dbms (sqlserver, oracle, db2, etc)
+strong consultative and presentation skills demonstrating creating and publishing architecture artifacts
+undergraduate degree in computer science / information systems or equivalent experience
+assertive (yet diplomatic) personality and the ability to handle change
+familiarity with the regulatory environment affecting data is a plus (e.g. aml, basel, hipaa)
+familiarity with nosql platforms, services-based development and technologies (e.g. xml, xsd) is a plus
+familiarity with agile methodology and impacts to data architecture
+apply
+
+
+
+
+devops engineer
+
+responsibilities:
+simplify our development and release processes - automate everything from tests to system monitoring and releases. deploy, maintain and monitor a reliable and efficient infrastructure. develop processes and software to manage and maintain networked resources. act as a liaison between development and it/operations. excellent analytical and problem solving skills. should have a healthy obsession with service availability.
+qualifications
+bachelor's degree in computer science, information systems, or a related field
+1+ year of experience with systems, networking and it operations
+1+ year of release management experience in a production environment
+1+ year of experience with load balancing, redundancy, capacity planning and security
+1+ year of experience with automation and scripting in a linux environment
+experience with one or more continuous integration systems (anthillpro, jenkins)
+experience with monitoring tools (sitescope, dynatrace)
+experience with linux, apache and jboss
+experience developing technical documentation: design diagrams, system functionality, data models, data flow and interface specifications
+apply
+
+
+
+
+database administrator
+
+responsibilities:
+the oracle database administrator will perform all oracle database administrator (dba) maintenance and related support tasks for our client across all environments. work in a team environment and across a highly matrix support environment, and be willing to work a rotational/on-call schedule, work overtime, evenings and weekends when necessary. able to communicate effectively, both verbally and in writing, have a positive attitude, mentoring skills, flexible and be able to document and articulate tasks performed.
+qualifications
+bachelor's degree with at least 5 years experience in oracle database adminstration
+at least 3 years experience in advanced interactive executive (aix) and oracle e-business (ebiz)
+at least 3 years experience in analyzing/applying patches, cloning, and troubleshooting with the oracle database, oracle real application clusters (rac)
+at least 3 years experience in unix shell scripting and c programming
+at least 3 years experience in oracle business intelligence enterprise edition (obiee), business intelligence (bi) apps, weblogic, original equipment manufacturer (oem) 12c, active datagaurd, flashcopy
+at least 3 years experience in partitioning and compression
+apply
+
+
+
+
+aml program lead
+
+responsibilities:
+conducts reviews of client documentation/information obtained by client contacts within the business units. ensures that information obtained is consistent with compliance (aml, kyc) policy and procedures and satisfies regulatory requirements. follow up and track all documents required to satisfy new account requirements. escalate high risk and out of order records to client team. assist in the administration and review of client risk scoring, client identification and aml/kyc documentation oversight/management requirements. assist management with inquiries from employees, management, internal and external auditors by providing guidance in a timely manner. assist in aml/kyc review and refresh of current client population as needed. reviews and escalates client records that maintain an out of order status. significant regulatory, reputational and financial impact including cease and desist orders, loss of license and financial penalties.
+other duties as assigned to assist with the effective administration of the aml and kyc policies.
+qualifications
+bachelor's degree with 3-5 yearâs recent financial services relevant experience
+8+ years of relevant work experience as business analyst in compliance initiatives with deadlines for time sensitive projects
+5 years + of experience writing business use cases and business requirement documents
+5+ years of experience with qa and application testing
+5 years + of experience developing strong pc skills (microsoft suite including excel, word, visio, project)
+prior experience in documentation management
+strong work ethic & attention to detail
+proficient time management and organizational skills
+apply
+
+
+
+
+project manager
+
+responsibilities:
+create and manage a project plan from scoping and initiation to project close-out and wind down. work directly with the technical and functional leads to establish program scope, requirements, milestones, and key deliverables. communicate status at executive briefings, including risk assessment matrices and high level program milestone highlights. manage all facets of large scale, cross functional technical projects and programs including: budget, program plan, detailed schedules and milestones, status reporting documents, summary information in appropriate formats, document repository strategy, team roles and responsibility. manage the development, implementation, and evaluation of complex designs, product construction and testing in order to ensure completion of project as efficiently and effectively as possible. manage and communicate a clear vision of the projectâs objectives and motivate the cross functional project team to achieve them; create a project environment that enables peak performance by the entire team. manage the project budget with overall budget accountability, providing regular updates/reporting to project sponsor and stakeholders. analyze risks, establish contingency plans and identify trigger events and responsibility for initiating mitigating action. accountable for tracking and reporting on progress to plan, cost and schedule reporting and change control. manage change to preserve project plan commitments; initiate review if projects must change. manage relationships with project stakeholders, including internal and external clients and vendors, keeping stakeholders informed of progress and issues in order to manage expectations on all project requirements and deliverables. facilitate regularly scheduled project meetings as necessary. responsible for ensuring a healthy, safe, secure and environmentally conscious work environment is maintained at all times and by all staff, in compliance with corporate policies and federal and state regulations.
+qualifications
+bachelors in engineering, technology, sciences or equivalent with a pmp certification. masters in engineering, science, technology or business is preferred.
+5+ years in managing complex projects worth more than $1 million, lasting 6 months or longer, and involving more than 5 team members
+highly organized, able to use microsoft project or equivalent, microsoft office products
+have thorough understanding and experience in the application of project management concepts and techniques along with the skills to establish priorities and define, plan and execute the activities necessary to reach project objectives
+must have experience writing and managing business specifications, technical specifications, project plans, and other project documentation
+apply
+
+
+
+
+aws/cloud engineer
+
+responsibilities:
+the cloud engineer is part of a collaborative customer requirements based team effort and develops software components for our clients in various verticals. we are looking for cloud engineers with experiences in infrastructure, software and devops areas. primary support for cloud-based infrastructure and ensures that activities align with business objectives. maintain an architecture that anticipates future requirements. manage risks and resolving issues that affect release scope, schedule, and quality. manage and prioritize backlog with input from product management, engineering, and support/operations. conduct code reviews and iteration planning and scrum meetings.
+qualifications
+bachelorâs degree in engineering, computer science or equivalent
+5+ years of relevant experience in a progression of roles
+3+ years of experience designing, implementing, deploying, and maintaining enterprise level, distributed systems using cloud services like amazon aws, etcâ¦
+established track record in enterprise systems management at an enterprise scale
+experience programming in java, ui development technologies (javascript, css) and at least one java web application framework (spring mvc, wicket, grails)
+production experience using sql and relational dbs (ideally in a cloud deployed application)
+strong expertise with virtualization (vmware preferred), servers, storage, networking and security
+extensive experience with oo programming and design patterns
+experience with nosql databases (cassandra preferably).
+experience developing multithreaded applications
+proven ability to troubleshoot, scale, and performance tune multithreaded, distributed, high performance systems
+enthusiasm for new technologies and their applicability to our system and domain
+familiarity with oo design patterns, computational theory, agile software development and test driven development is a plus
+apply
+
+
+
+
+senior etl developer
+
+responsibilities:
+develop, maintain, and administer complex etl processes. provide thought leadership on data and system architecture, system administration, schedule management, performance tuning, and expansion. participate in ongoing etl jobs and dw/bi performance tuning activities. provide maintenance and 2nd-tier production support for a self-service business intelligence environment. evaluate and implement products and implement best-practices to enhance dw solution. provide expertise on decisions and priorities regarding the enterpriseâs overall data warehouse architecture. facilitate the development of data integration efforts with the development team. develop, manage and maintain data models, including physical and logical models of the data warehouse, data marts, development and staging areas and source systems as necessary to meet new and changing business requirements. expand the use of data as a strategic enabler of corporate goals and objectives. establish methods and procedures for tracking data quality, completeness, redundancy and improvement; and processes for governing the identification, collection and use of corporate metadata to assure metadata is accurate and valid in the business intelligence environments. be able to define requirements, analyze data, design solutions, program, test, implement, and train end-users and fellow it team members.
+qualifications
+ bachelors in computer science or similar field, m.s. or mba preferred
+7 years of experience developing, maintaining and administering rdbms and big data systems
+7 years of experience with business intelligence and data warehouse products
+5 years of hands on etl experience with complicated coding and maintenance
+experience with installation, configuration and stabilization of medium- to large-scale etl systems
+5 years of experience with data modeling tools such as erwin
+ experience working with and managing san technology and aws preferred
+ knowledge of ldap and active directory preferred
+apply
+
+
+
+
+solutions architect
+
+responsibilities:
+architect innovative solutions while playing a hands-on design and development role to deliver products in a highly integrated environment. lead challenging and fast paced projects supporting business by delivering creative solutions with new technologies in the collaborative and social domains. evaluate and develop tools to monitor system health, performance and deployment. work with project managers and technical teams in a cross-functional environment, to implement quality products that meet the business goals. lead technical developers; own and review deliverables for accuracy, quality, application performance and completeness. instrument and implement top class secure coding practices for web applications.
+analyze capacity requirements for production systems to scale the applications. have a holistic view and ownership of the application solution and its integrations, covering the various aspects of sdlc.
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+ 3+ years of experience as a solutions architect or lead developer
+ must be able to brainstorm and communicate technology ideas and issues with peers and it management
+solid knowledge of web applications development methodologies with hands-on programming expertise in delivering projects using java, jsp, json, xml, web services (rest & soap), sql
+ expertise in java and java enterprise technology applications architecture, design, development and support
+strong experience developing with client-side web technologies (html 5, css, javascript, ajax)
+experience with collaborative and social platforms to deliver customer facing solutions
+hands-on experience with eclipse, xcode, unix, scm, uml, and object-oriented development methodologies
+strong knowledge of concurrency, scalability and fault tolerant designs
+solid knowledge of applications performance improvement techniques and caching solutions
+experience architecting and implementing customer facing collaborative and social solutions
+hands-on experience with jive plug-in development and customization a plus
+experience with build, deployment, testing & performance measurement tools; web and application servers (websphere is preferred)
+apply
+
+
+
+
+pega analyst/developer
+
+responsibilities:
+design, integrate and build components of the pega application and provide guidance on all pega-related project assignments.  actively participate in the requirements, design and build phases; delivering high quality deliverables. ensure that the business and technical architecture have traceability to the functional requirements. assist with planning and execution of various testing requirements. facilitate knowledge transfer of prpc functionality and application functionality to clients and partners including the development of client coe for pega domain knowledge. provide regular updates to the client and the project lead on progress seeking an escalation for management of issues and risks.
+qualifications
+bs in computer science, computer engineering, electrical engineering
+3+ years of experience with at least 1 year working on pega (claims suite preferred)
+experience in pega prpc architecture and design (pegarules process commander)
+demonstrate an advanced understanding of the main features of prpc
+4 years of progressively responsible experience in building and implementing model-driven, enterprise-level business solutions and applications
+experience in all phases of software development including design, configuration, testing, debugging, implementation, and support 
+exposure to a variety of technologies, including; websphere or weblogic, jboss, j2ee (jsp, servlets, ejb, xml, java), .net, oracle, db2, and ms/sql
+ experience in agile and scrum methodologies 
+experience with pega 7.1.x or certifications in pegarules process commander (prpc), system architect (csa), prpc senior system architect (cssa), methodology black belt (cmbb), or customer process manager architect (cpm)  is a plus.
+apply
+
+
+
+
+oracle financials analyst
+
+responsibilities:
+advise business stakeholders on ways to make processes more efficient and employees more productive. require a high level of business acumen coupled with technical knowledge. handle needs assessments and cost/benefit analysis to align the technology of the company with their business strategies. receive business needs from management, solicit product and enhancement requirements from end users and must be able to convert the requests from both into a workable solution to present to technology staff. work directly with internal customers, requiring good communication skills, as well as fundamental technical troubleshooting abilities. interactions frequently involve special skills, such as negotiating with customers or management or attempting to influence senior level leaders regarding matters of significance to the organization. test software and coordinate the testing environment and work with project managers and development teams to implement the solution. capable of supporting multiple business units and functions geographically dispersed around the world.
+qualifications
+bachelor's degree in computer science or mis with 3 + plus years of experience in database administration. an equivalent combination of education and related experience may also serve to meet these minimum requirements
+must have 10+ years of experience with information technology/systems with back office process and oracle applications experience
+experience in oracle applications 11.5.10 and 12.2.3 with oracle 11 to 12 upgrade experience a plus
+ experience in oracle receivables, cash management, collections, general ledger and subledger accounting; or a thorough knowledge of business processes and computerized business applications, especially oracle applications ebs and oracle project accounting/manufacturing
+experience in tools including adi, dataloader, rally, sharepoint, ms office suite, sql developer, sql plus, sql loader
+apply
+
+
+
+
+sap functional analyst
+
+responsibilities:
+apply conceptual knowledge of business processes and technology to solve complex business process and procedural problems. participate in and take ownership of cross-functional projects and deliver/ sap processes and application solutions for our internal business units and customers. participate in the design and development of stable efficient global business solutions. provide business customers with expert trouble shooting and problem resolution capabilities. troubleshoot and debug sap programs in order to solve application or configuration issues. proactively seek out, identify, and assess new technology and concepts that will add value to the business. ensure appropriate global involvement in project teams to build ownership for solutions. liaise/act as the technical/functional analyst to ensure the new functional configuration and/or abap enhancements are transported into production environments without unintended impact on business units. effectively communicate with all levels of business community and implementation team. work directly with sap on a technical level in order to solve application issues. investigate complex sap notes, understand potential system impact, and work with git abap and/or basis resources to apply appropriate notes. manage and own global support of the sap afs demand chain functionality including all areas of sales and distribution and warehouse management. maintain, manage and own changes/enhancements to sap configuration in support of the global sd/wm processes. develop business solutions with expertise in all sales order processing, pricing, shipping, warehouse management, picking, put away, inventory management, billing, and ecc and bi reporting. manage and perform the design, testing and application of sap demand chain and warehouse management systems configuration in line with agreed timeframes, business requirements and global standards.
+be able to design, implement, test, manage and support business solutions that involve non-sap systems
+qualifications
+bachelorâs degree, m.b.a or equivalent is a plus
+participated in at least 1 full cycle sap implementation.
+ at least 5 years of sap sd and wm configuration experience including sales, pricing, inventory, warehouse management, picking, packing, transportation planning, shipping, allocations (arun)
+at least 5 years of process mapping and process reengineering experience
+at least 5 years of experience in delivering enterprise business solutions
+basic technical experience in abap is essential (debugging, designing and testing).
+experience with acessesing and troubleshooting database and sql scripts and working with business intelligence team in delivering reporting is a plus
+experience with solution manager and sap afs is a plus
+apply
+
+
+
+
+sap technical analyst
+
+responsibilities:
+serve as the escalation point for the resolution of cross-functional technical integration issues. lead cross-module impact analysis and technical design/integration activities. recommend alternative technical solutions to meet requirements more efficiently, ensuring greater standardization and reusability. drive technical standards for sap connections to legacy and external applications. collaborate with architecture and multiple development teams to ensure design and technical alignment.
+apply significant knowledge of industry trends, standards and developments to improve delivery. ensure high quality deliveries and adherence to governance, standards and audit requirements.
+qualifications
+bachelorâs degree, m.b.a or equivalent is a plus
+participated in at least 1 full cycle sap implementation
+ 3+ years of experience with logical, physical, functional, operational, and technical architecture of large and complex information systems
+understanding of the sap components including sap-sd, sap â spm, sap - gatp/ apo, sap- ewm
+excellent collaboration and relationship building skills
+passion for building functional and technical excellence
+apply
+
+
+
+
+ui engineer
+
+responsibilities:
+assess requirements and estimate time and resources to create solutions. write production-quality code with the ability to develop entire feature sets that can be understood by other developers. work on building software solutions to satisfy business needs while consistently meeting feature and project deadlines. contribute across the entire development cycle (analysis, design, code, code review, test, initial pilot/production launch, and production support) with the primary focus on solution design and code production. document designs and processes so that multiple teams can benefit from your work. help to identify process improvements and software development standards. develop estimates for design, development, and unit testing of application functionality for the engagement.
+qualifications
+bachelor's degree, mba or quivalent is a plus 
+minimum 2 years of software development experience with angularjs or similar mvc, mvvm, mvw based javascript framework and javascript api development
+minimum of 7 years of software development experience with at least 5 years in designing and developing secure web applications
+experienced ui development and design skills demonstrating thorough knowledge of ui design patterns in the ms mvc technologies along with javascript, jquery design
+recent angular.js development experience is a must
+must have strong development skills in html5, css (html5 and css3 a plus), javascript, asp.net, and c#
+experience with ajax, jsp, xml/xslt, xml schemas, and rest based web service technology
+ability to quickly create working mockups from wire frames, screen designs, & prototypes
+solid understanding of browser compatibility, ui performance, and deployment considerations
+knowledge of rich internet application frameworks. (google, yahoo, flex).
+opensource technologies include, linux mysql, open gl, spring and hibernate (highly desired)
+apply
+
+
+
+
+ui development lead
+
+responsibilities:
+assess requirements and estimate time and resources to create solutions. write production-quality code with the ability to develop entire feature sets that can be understood by other developers. work on building software solutions to satisfy business needs while consistently meeting feature and project deadlines. contribute across the entire development cycle (analysis, design, code, code review, test, initial pilot/production launch, and production support) with the primary focus on solution design and code production. document designs and processes so that multiple teams can benefit from your work. help to identify process improvements and software development standards. develop estimates for design, development, and unit testing of application functionality for the engagement.
+qualifications
+bachelor's degree in computer science or equivalent discipline
+5+ years of experience creating engaging digital experiences with consumer-focused web applications or online marketing/advertising solutions
+highly proficient in writing html5, css3, javascript, jquery, ajax, json and xml / xsd / xslt
+expert in browser compatibility, responsive web design, accessibility / ada and mobile development
+expert in ui design patterns, unit testing frameworks and test driven development
+experienced in developing applications using java/j2ee, web services and rest apis
+experience with stylesheet languages (sass or less) and html template syntax (jinja, twig, mustache.js)
+working knowledge of web analytics and relevant tools
+working knowledge of git source control and git-flow methodology
+working knowledge of a mvc framework such as angularjs
+working knowledge of continuous integration (devops) and relevant tools such as maven/jenkins/oracle/sql)
+working knowledge of relevant cms
+working knowledge of best ux standards and practices
+knowledge of visual designing software like photoshop a plus
+apply
+
+
+
+
+qa/testing engineer
+
+responsibilities:
+test multiple types of applications including design, development and execution of test cases based on functional specifications. develop and execute test plans. design, develop, and execute manual and automated test cases. create and execute complex sql queries to verify application and database enhancements. coordinate with business users and developers on a daily basis for testing efforts. collaborate with developers to improve overall quality. develop automation scripts by utilizing various tools like coded ui, selenium and visual studio. document test cases and test applications by using advanced statistical analysis methods. develop load testing scripts for performance testing by using visual studio and apache jmeter.
+qualifications
+bachelor's degree in computer science or equivalent discipline
+at least 2 years of experience in software testing types and methods, which may include white, black, regression, functional, system and integration testing
+prior development experience in .net or java is preferred
+ must have strong sql skills with oracle and ms sql server
+ knowledge of software quality assurance best practices, procedures, and tools
+ self-starter, with ability to perform qa duties with minimal supervision
+effective communicator with ability to coordinate effectively between developers and business users
+excellent analytical skills with detailed understanding of the software development lifecycle, including agile methodologies
+apply
+
+
+
+
+business analyst
+
+responsibilities:
+responsible for functional analysis, system assessment, process analysis, identification of system requirements, and functional definition of planned system changes. formulates systems scope and objectives relative to the business plan acting as a member of a project team responsible for providing technical guidance concerning the business implications.  identify and implement information system solutions that support more efficient and effective work performance based on inherent knowledge of business functions and processes. administer system applications and serves as an educator and resource regarding system functionality.  gather, interpret, and translate customer needs into functional and nonfunctional requirements â translate business problems into requirements that facilitate application development. understand system behavior, inputs, and outputs as they relate to business functions - product performance/service analysis. analyze and assess data usage and product performance for maintenance prioritization and compliance with service level agreements- product launch/releases. confirm that the new releases function as intended and there is no negative impact to existing functionality. perform other related duties as assigned by management and adhere to all company policies and procedures.
+qualifications
+bachelor's degree required
+ 3+ years experience with system analysis, system administration, and project implementation
+5 â 7 years related it system experience with proven business and analytical skills
+demonstrated project management skills with preferred experience leading enterprise wide upgrades and/or enterprise business process improvement utilizing project management methodologies
+proven work history with demonstrated success in team work and collaboration resulting in a series of project or program successes
+excellent interpersonal skills in conflict resolution and negotiations skills
+apply
+
+
+
+
+sr. business analyst
+
+responsibilities:
+as a senior business analyst, provide technical consulting on projects, devises or modifies procedures, and creates detailed specifications from which application solutions are developed and/or purchased. assess, plan, evaluate, and implement information system support needs for business operations according to policies, procedures, protocol and standards. responsible for system assessment, process analysis, identification of system requirements, and functional definition of planned system changes. formulates systems scope and objectives relative to the business plan acting as a member of a project team responsible for providing technical guidance concerning the business implications.  identify and implement information system solutions that support more efficient and effective work performance based on inherent knowledge of business functions and processes. administer system applications and serves as an educator and resource regarding system functionality.  lead solution analysis, definition, and acceptance in application development lifecycle (including technology possibilities and limitations). gather, interpret, and translate customer needs into functional and nonfunctional requirements â translate business problems into requirements that facilitate application development. understand system behavior, inputs, and outputs as they relate to business functions - product performance/service analysis. analyze and assess data usage and product performance for maintenance prioritization and compliance with service level agreements- product launch/releases. confirm that the new releases function as intended and there is no negative impact to existing functionality. perform other related duties as assigned by management and adhere to all company policies and procedures.
+qualifications
+ bachelor's degree required
+5+ years experience with system analysis, system administration, and project implementation
+7 â 10 years related it system experience with proven business and analytical skills
+demonstrated project management skills with preferred experience leading enterprise wide upgrades and/or enterprise business process improvement utilizing project management methodologies
+proven work history with demonstrated success in team work and collaboration resulting in a series of project or program successes
+project management with presentation skills
+excellent interpersonal skills in conflict resolution and negotiations skills
+apply
+
+
+
+
+security engineer
+
+responsibilities:
+provide security application support, including the development of automated scripts and protocols for seamless application-server interaction. architect and design of news tools as well as upgrading existing infrastructure.  develop documentation as required (such as installation and visio network and cabling diagrams, configuration guides, user tutorials, user and system requirements specification documentation, use cases, traceability matrices). research, prototype and implement new security related technologies. backing up other engineers with enterprise tools and learning and mastering new tools. provide mentoring or training to other team members.
+qualifications
+bachelor's degree in computer science or equivalent discipline
+strong linux experience required
+b24networking and security principals
+networking protocols including dns, dhcp, tcp/ip and common transport protocols
+some scripting skills like bash, python or perl
+must have strong enterprise tools experience
+eligible for security clearance
+security+ certification
+apply
+
+
+
+
+bi developer
+
+responsibilities:
+develop and maintain new and existing business intelligence (bi) reporting and analysis. participate throughout the project life cycle, from requirements to production implementation, with emphasis on development, testing and implementation of data warehousing infrastructure, analytic reports and tools. perform business analysis as it relates to business intelligence, data warehousing, and operational reporting systems. work with customers to gather requirements and mentorship of data usage.
+perform statistical analysis of data in the warehouse. study customerâs requirements and determine if the business processes for gathering, cleansing, and ensuring the quality of data are adequate. analyze options for preparing a bi solution.
+prepare an analysis document with the recommended solution. analyze, design, develop, and test dimensional models. create, test and maintain models within bi tools. write and maintain documentation. 
+qualifications
+bachelorâs degree in computer science, computer information systems, information management, mathematics/statistics or a related field
+building custom reports for client base and applying consistent framework for development and deployment for standard reports
+ at least 3 years of bi reporting development experience using business intelligence modeling, reporting and data management tools such as cognos; cognos data manager; informatica, data stage, powerdesigner; sql server reporting (ssrs), integration (ssis), and analysis services (ssas); crystal reports; sas; spss
+experience with olap technologies; familiarity with star schemas and cubes
+ experience in analyzing customer reporting needs, and understanding and use of data marts and warehouses
+performance tuning, index and statistics updating and general maintenance of oltp and reporting queries
+strong understanding of data modeling for bi development including data marts, fact tables, and dimension tables
+apply
+
+
+
+
+sql & reports developer
+
+responsibilities:
+we are currently looking for a sql/reports developer to respond to user inquiries and incidents within service level agreements, and deliver on sla objectives. resolve complex application and technical issues including problems related to enterprise networks, servers and workstations while configuring software packages, design, code, and test program modules that meet design specifications as required, update code to address defects and small change requests or enhancements.
+support of data warehouse data integrity issues, etl processing, developing reports and research reporting discrepancies is required. evaluate and implement products and implement best-practices to enhance bi solution.
+qualifications
+bachelor's degree in computer science or equivalent discipline
+demonstrated ability to work and communicate effectively with all levels of business and it management
+ability to negotiate acceptable solutions to complex problems across multiple business and/or technical areas and vendors
+8-10 years of experience in using sql, pl/sql and reporting solutions, business objects xi/bi4.x experience desired
+5 years of unix scripting experience
+knowledge of big data and data warehouse concepts is a plus
+experience with informatica/datastage is a plus
+apply
+
+
+
+
+hadoop sr. developer/ architect
+
+responsibilities:
+design and implement big data analytic solutions on hadoop-based technology for fraud detection solutions. leverage knowledge of distributed computing and cloud computing technologies, including hadoop, accumulo, presto and an understanding of machine learning fundamentals to create and develop software platforms, frameworks, and tools built around massive data sets. create custom analytic and data mining algorithms to help extract knowledge and meaning from vast stores of data to develop solutions for detection and identification of fraud and security issues.
+qualifications
+bachelor's degree in computer science or equivalent discipline
+ experience with apache hadoop (or other big data platforms) and the wider hadoop ecosystem including apache accumulo, flume, zookeeper, oozie, hive & kafka. cloud experience with amazon ec2 or microsoft azure platforms
+ experience with protocols or domain expertize with fraud and cyber security issue in either the financial services or telecoms sectors is a plus
+must have extensive experience with netezza and oracle (and/or) teradata
+must have strong sql and pl/sql programming skills, good to have stored procedures
+must have extensive experience with hadoop (hive, oozie, sqoop, hdfs)
+must have experience with etl, unix shell script and unix os
+2 to 3 years experience with agile sdlc and agile management tools like jira, version one
+must have development experience in all the phases of sdlc
+must have experience with version control tools
+must have strong experience in data analysis, data integration, dimensional modeling, database design and development
+must have design and development experience in data virtualization platforms like cisco information server, denodo
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+post your resume
+
+
+
+
+
+
+
+
+
+
+
+
+select one
+java/j2ee developer
+sr.java developer-agile
+java/j2ee architect
+sr. java/j2ee architect
+hadoop sql developer
+hadoop java developer
+hadoop admin - rdbms/nosql
+data/information architect
+devops engineer
+database administrator
+aml program lead
+project manager
+aws/cloud engineer
+senior etl developer
+solutions architect
+pega analyst/developer
+oracle financials analyst
+sap functional analyst
+sap technical analyst
+ui engineer
+ui development lead
+qa/testing engineer
+business analyst
+sr. business analyst
+security engineer
+bi developer
+sql & reports developer
+hadoop sr. developer/ architect
+others
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+note:please upload resumes in .doc or .docx or .pdf formats with size less than 5 mb.
+
+
+
+
+
+
+         
+          
+
+
+
+
+
+
+
+
+
+
+
+located at
+            117 chesterfield business parkway
+			chesterfield, mo 63005
+
+
+qustions? call us
+                 phone: 636-542-0283
+                 email: smadala@highquartile.com
+
+
+follow us
+ google
+facebook
+twitter
+linkedin
+
+
+subscribe to our  newsletter
+thank you...!
+
+
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+â© 2015 high quartile llc. all rights reserved.
+
+home
+company
+domains
+services
+expertise
+careers
+job openings
+contacts
+
+
+
+
+
+
+
+
+
+
+
+
+

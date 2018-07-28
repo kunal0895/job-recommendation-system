@@ -1,0 +1,125 @@
+
+
+
+job details - revenue solutions, inc. talent portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome
+
+
+
+
+
+view jobs
+
+
+
+
+
+application
+
+
+
+
+
+contact
+us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job details
+
+returning user login
+
+
+
+
+
+
+
+
+
+
+
+back
+
+
+
+
+
+
+
+
+
+are you interested in this opportunity? click on apply (at the bottom of the page) and your application will be submitted.  
+if you know of someone else who might be interested, send this opportunity to a friend.
+
+
+city
+roseville
+
+
+state/province
+california [ca]
+
+
+title
+software engineer
+
+
+about us
+do you have the entrepreneurial spirit and energy it takes to be successful in a fast-paced, high-growth consulting company? rsi may be the place for you!revenue solutions, inc. (rsi) provides it consulting services and software products to clients in the government revenue industry across the united states. we're experts at delivering and developing systems solutions that streamline tax administration and maximize revenue. our clients in state and local agencies rely on us to help them shorten and straighten the path to implementing new information technologies while reducing the risks and budgetary concerns often associated with these mission-critical projects. as a result of our success, rsi's business has continued to grow at a rapid rate.why join rsi?• work-life balance & learning with talented colleagues• full benefits package, 401(k), paid vacation & holidays• mid-size company with history of steady growth and profitability• training options and formal mentoring program• opportunity to advance your career with latest software and tools• affect change with local, state and international government tax collection processesplease visit our website at www.revenuesolutionsinc.com to learn more about our company, the services and products we provide, and the high levels of commitment we have towards both our customers and our employees. *** rsi is an equal opportunity employer ***
+
+
+job description
+do you enjoy designing and developing products that help streamline government processes? are you well versed in c# and have experience working through the software development life cycle (sdlc)? have you worked with sql server, ssis, and have experience translating requirements into robust designs? if so, we’re looking for you to be our software engineer. you’ll work in a team environment, and have the opportunity to participate in the development of interfaces for one of rsi’s largest projects. the first year there will be a significant amount of ssis development, however your c#.net experience will also be utilized on various modules. these positions are based at rsi’s roseville, ca solution center.  
+
+
+requirements
+required experience, skills & competencies: •	bs in computer science or related field•	immediate authorization to work in the us •	3+ years relevant software design and development experience with asp.net, c#, sql, ooad, html/javascript•	strong sql background and experience with ssis integration data tools•	solid understanding of the software development lifecycle (sdlc) and experience applying the sdlc in a project setting•	thorough understanding of oop & soa design principles•	proficiency in soap, web services, iis, wcf, xml•	experience with visual studio, tfs, junit/nunit, database management tools•	excellent verbal and written communication skills•	strong analytical problem-solving skills•	experience turning requirements into designs/implementationspreferred experience, skills & competencies: •	experience with eclipse, visual studio, junit/nunit, database management tools •	familiarity with ajax, jquery, ssrs (sql server reporting services), tfs, cvs•	experience with glassfish, websphere or other j2ee application server•	experience with it security concepts
+
+
+apply now!   tell a friend
+
+
+
+
+
+
+
+
+
+

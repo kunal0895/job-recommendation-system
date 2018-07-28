@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ software development engineer
+
+
+
+
+
+
+
+
+
+microsoft business application platform provides a comprehensive platform for composing analytics user experiences and automate the workflow for running your organization effectively. dynamics 365 provides companies to interact with their customers with a collection of crm and erp applications and help companies grow their business faster.  &nbsp power users can create and share dashboards with the key business metrics to keep a pulse of their organization using power bi, take actions using applications created via powerapps and flow. dynamics 365 customers can sign up for applications needed for their organizations and interact with their customers effectively based on their customers’ needs.  &nbsp  the business application platform web team is small and agile team responsible for the web sites to support the services and products on azure platform.  &nbsp these web sites are the front door for new and existing customers to learn, sign-up, interact with respective product communities, view documentation and monitor the status of the services.  &nbsp we have a constant focus on delivering new features that have a direct impact on the business.  &nbsp we use the best tools available, release daily, and make data-driven improvements by leveraging a/b tests, user feedback, and analytics.  &nbsp  we are hiring a new team and looking for talented developers for business application platform, dynamics 365websites and communities. as a full stack web developer on the business application platform web team you will be responsible for:  &nbsp developing new customer facing experiences  &nbsp  optimizing web experiences through continuous a/b testing and analytics  &nbsp defining and managing ux patterns and web standards  &nbsp  developing several new backend capabilities including webapis and personalization support closely working with the azure web team and overall microsoft web teams to enhance the business application group experiences  &nbsp  mentoring contributors across the business application group who are creating new pages and content  &nbsp basic qualifications:  &nbsp  2+ years of web development experience building and running large scale, production web sites  &nbsp 1 year of experience with asp.net mvc, web apis, c#, and / or the .net framework  &nbsp 1 year of experience with html5, javascript, and css/less  &nbsp 1 year of experience with popular javascript libraries such as react or angular  &nbsp preferred qualifications:comprehensive experience using git / github  &nbsp experience with microsoft azure or similar cloud services  &nbsp excellent verbal and written communication skills  &nbsp blend of passion, creativity, and attention to detail for delivering an awesome web experience  &nbsp bagjobsability to meet microsoft, customer and/or government security screening requirements are required for this role. these requirements include, but are not limited to the following specialized security screenings:microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.microsoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+304664
+1061727
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, redmond (wa)
+
+
+
+
+
+
+job families
+
+
+
+
+
+user experience (engineering)
+
+
+
+
+
+
+teams
+
+
+
+
+
+cloud and enterprise
+
+
+
+
+
+
+
+
+
+
+empower your future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

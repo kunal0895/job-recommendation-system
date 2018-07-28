@@ -1,0 +1,46 @@
+front-end developer at layered insightcompany websitefront-end developersan francisco, cafull-timejob openingsfront-end developer%button_apply_to_position% apply using linkedinlayered insight is building an application security solution for cloud native applications that provides unparalleled visibility and control into an application. headquartered in the san francisco bay area, we’re growing and looking for energetic, experienced developers to help build our vision.
+you can read more about our tech stack at https://stackshare.io/layered-insight/tech-stack.
+description
+we are looking for experienced front-end software developers to help us reach our vision of making application security easy for developers. you will participate in this vision by creating a beautiful, understandable, easy-to-use web ui that is cross-platform, easy to modify, and a pleasure for your co-workers to work on.
+requirements
+
+
+solid, real-world experience creating and maintaining angular and angularjs applications
+
+
+experience with popular javascript packages such as d3js, bootstrap, bower, grunt, jquery, etc.
+
+
+ability to efficiently take a design concept and turn it into a javascript-backed html ui
+
+
+experience ensuring cross-browser and cross-platform compatibility.
+
+
+excellent communication skills
+
+
+experience writing and maintaining unit tests for web-based uis
+
+
+bonus experience
+experience in any of the following areas is a big plus:
+
+
+graphic design (particularly website and/or web ui design)
+
+
+user experience design and development
+
+
+the go programming language
+
+
+mongodb
+
+
+our process
+after an initial conversation, select candidates will be offered to select from and work on one of several “interview projects.” we do not follow the “old school” trend of technical grilling sessions in front of a white board; instead we ask candidates to spend a small amount of time (at your pace) working on a project in areas similar to our work so you can get a sense of the type of work you will be doing, and we can get a sense for your craftsmanship.
+contact us!
+if you are intrigued about what we are working on, and think we would have a great time working together then please contact us. we’d love to hear about your experience and how we can work together to help change the security industry.
+%button_apply_to_position%%footer_powered_by%breezy

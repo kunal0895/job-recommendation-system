@@ -1,0 +1,185 @@
+
+
+
+careers center - jr. software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+jr. software engineer
+
+
+job locations
+
+us-ga-johns creek
+
+job post information* : posted date
+
+4 months ago
+
+
+
+id
+
+2017-1036
+
+
+# of openings
+
+1
+
+
+category
+
+information technology
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+overviewour mission is to be the world’s single, most trusted source of truth regarding healthcare institutions, providers, pharmaceuticals and devices to improve outcomes through transparency and accountability.we believe access to accurate, complete information is at the center of healthcare.  medfax continually ingests data from more than 10,000 sources, creating the first truly validated, trustworthy, actionable tool for the healthcare industry to understand and leverage data in real-time.  this is a full-time position with competitive salary plus benefits.medfax provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin, citizenship, veteran’s status, age, disability status, genetics or any other category protected by federal, state, or local law.
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+key responsibilities:the junior software engineer is responsible for joining a product team and contributing to the software design, software development, and overall product lifecycle for a product that our users love. the engineering process is highly collaborative. junior software engineers are expected to collaborate daily as they work through user stories and support products as they evolve. as a junior software engineer you will grow your skills while you create, support, and deploy production applications. junior software engineers will be paired with senior engineers to grow and diversify their skillset in a relatively low-pressure environment. junior software engineers are expected to contribute to the overall product development but just as importantly, grow and diversify their skills while gaining valuable hands on experience. in addition, junior software engineers may be involved in product configuration, performance tuning, and testing as well as production monitoring.collaborates and pairs with other product team members (ux, engineering, and product management) to create secure, reliable, scalable software solutionsdevelop testable, maintainable, and scalable software for medfax service oriented architecture and core data layer applicationsbuild large scale web applications with the latest front-end technologiesbuild backend api micro services in various languages including java, javascript, goconfigures commercial off the shelf solutions to align with evolving business needsexcellent communication and documentation skills.highly motivated and to work in a team & deliver.open to taking direction and incorporating feedback to grow professionally. excellent analytical skills.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+skills requirements:s. degree in computer science or its equivalent.2+ years of full stack development experience.2+ years of experience with an object-oriented language.1+ years working with cloud architecture and applications.2+ years of experience in integrating front end and back end components.experience in a modern scripting language (preferably python)exposure to a modern web application framework such as ruby on rails, spring mvc, and node.jsexposure to a front-end technology and frameworks such as html5, css3, javascript, angularjs, react js, and jquery.experience with the spring ecosystem (spring boot, spring cloud, spring integration)experience developing applications with express.js, mean, and other node.js frameworks & stacksexperience with agile development methodologiesworking knowledge of docker, software containerization and micro services architecturesexperience with html5 and css3exposure to writing sql queries against a relational database.good understanding of version control systems (preferably git).html5, backbone, and saas experience a plus.experience in using linux and bash commands a plus.hands on experience with message modeling such as tibco ems/active mq/kafka etc. a plus.
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

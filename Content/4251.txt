@@ -1,0 +1,60 @@
+
+
+
+
+geomagical labs - jobs: deep vision researcher - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+deep vision researcher
+
+deep vision researcher
+mountain view, california, united states
+
+descriptiongeomagical labs is an early-stage startup in the san francisco bay area, applying novel computer vision technologies to an exciting consumer application to be used by millions of people.we have an opening for an deep learning vision researcher, with substantial hands-on experience with image-based artificial neural networks, and strong academic foundations, to join our core startup team of scientists & engineers.as a deep vision research engineer, you will propose, study, and develop deep neural network architectures that improve upon the state of the art for visual scene perception and establish state of art for relevant unsolved problems.  you must have substantial mastery of state of art cnn/rnn architectures, building blocks, training techniques, and literature related to applying deep learning to practical computer vision problems, have a strong scientific method, excellent engineering and hands-on skills, and be eager to solve technical problems that you have not encountered before.  candidates must also be adventurous and enthusiastic about an early startup experience.requirements ph.d. in computer vision and/or machine learning with a focus on computer vision from a competitive university/laboratory. excellent foundations in 2d & 3d computer vision, and substantial hand-on experience with various related problems such as stereo matching & optical flow estimation, image/video segmentation, object instance detection and segmentation, computational photography & rendering, style inference, and scene perception published research applying deep networks & representation learning to 3d geometry and/or visual semantics. strong applied math skills in linear algebra, differential and matrix calculus, and linear & non-linear optimization. fluency in tensorflow, pytorch, caffe 2 strongly desired. strong programming background (e.g. matlab, c++ and python), in linux environments. bonus: substantial industrial work experience applying deep learning to various computer vision problems. bonus: experience with computer graphics & computational photography. excited about seed-stage startups; entrepreneurial, comfortable with risk & uncertainty. u.s. work visa required. benefits rare opportunity to join an early tech startup adventure when it is less than ten people, led by founders who've taken two startup teams through ipo. substantial stock equity packages, of the sort only available to early startup employees. opportunity to publish novel and influential research, participate in scientific conferences, and collaborate with partners in academia. we are located in downtown mountain view, california, near bicycle trails and caltrain. 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+geomagical labs website
+
+powered by
+workable
+
+
+
+
+

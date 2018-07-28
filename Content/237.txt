@@ -1,0 +1,929 @@
+
+
+
+
+
+
+
+
+
+
+
+
+data science engineer- concur job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sap employees
+join our talent community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sap employees
+join our talent community
+
+
+
+
+
+
+
+
+language 
+
+deutsch (deutschland)
+english (united states)
+français (france)
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+more options
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+loading...
+
+
+
+
+
+
+
+                                            work area
+                                        
+
+
+all
+
+
+
+
+
+                                            career status
+                                        
+
+
+all
+
+
+
+
+
+                                            country
+                                        
+
+
+all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+                        join with linkedin
+                    
+
+
+
+
+
+
+
+
+                        join with facebook
+                    
+
+
+
+
+
+
+
+                            join now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data science engineer- concur job
+apply now »
+
+apply now 
+
+
+
+
+                        start apply with linkedin
+                    
+
+
+
+
+
+
+
+
+                        start apply with facebook
+                    
+
+
+
+
+
+
+
+
+                        start apply with xing
+                    
+
+
+
+
+
+
+
+                            apply now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+date: 
+dec 7, 2017
+                
+
+
+location: 
+bellevue, wa, us
+
+
+company: 
+sap
+
+
+requisition id: 164858
+work area: software-research
+expected travel: 0 - 10%
+career status: professional
+employment type: regular full time
+company description
+as market leader in enterprise application software, sap helps companies of all sizes and industries innovate through simplification. from the back office to the boardroom, warehouse to storefront, on premise to cloud, desktop to mobile device – sap empowers people and organizations to work together more efficiently and use business insight more effectively to stay ahead of the competition. sap applications and services enable customers to operate profitably, adapt continuously, and grow sustainably.
+the concur data science team is looking for a bright and creative data science engineer to help build new services within the company by leveraging the power of machine learning. the data science team is a python shop, and we’ve been so successful building services that we now need some help managing it all.  this position offers an opportunity to work with all the latest python packages.  also: docker, hadoop, jenkins, artifactory, quay, vault.  all are technologies that we use today.  the team has build out a cutting edge continuous integration (ci) pipeline. we’re an end to end team and engage in all steps from idea, data exploration, model building and deployment.
+ 
+in the first 12 months you will deliver:
+
+deployments of machine learning services written in python and running in docker containers on premise or in the cloud. collaborate with the data scientists on the team to bring models into the real world.
+an understanding of the data sources available within concur, and contribute with ideas of how to turn these data sources into services that enhance the end user experience. some of your time will be spent digging into the expense reporting and data streams to understand the data available and what the challenges are.
+api design: we’re building new services that bring ml to previously manual tasks. you will spend parts of your time working on interface design, and understanding requirements from other teams less skilled in machine learning.
+new skills to the team: every few months you’ll have the opportunity to present an idea/algorithm or tool to the team and we have a small discussion about it and eat some cookies.  we love that each new team member brings additional skills and has past experience we can all learn from.
+
+ 
+in order to accomplish this, you will need to:
+
+have passion for python! we do almost all work in python, so python skills are required.
+have some experience with linux.  this will really help.  our dev machines are macs, but our machines in prod are linux boxes, occasionally there are task such as mounting a drive where linux experience could be helpful.
+learn our stack.  you will need to be a good learner, and enjoy diving into an area where you have technology gaps. work with people throughout the company to understand technologies and next steps for your project.
+be a bit of a hacker.  we love to get our hands dirty and dig in. hopefully you love to do the same.
+continuously update your skills and progress.
+
+ 
+so who are we?
+concur, an sap company, takes companies of all sizes beyond automation to a completely connected spend management solution encompassing travel, expense, invoice, compliance and risk. for more than 20 years, our global expertise and industry-leading innovation has kept customers a step ahead with time-saving tools, leading-edge technology and connected data.
+your career at concur is what you make of it. you can forge your own path, work in different offices, switch business units or solve a problem that no one has before. we drive innovation forward until it becomes the new normal, but we’ll never accept business as usual if there’s an opportunity for business to be better. want to be a part of something amazing? check us out at: concur.com/careers
+what do you need to bring?
+
+bachelor’s degree, or higher in computer science, math, or just come with the skills and interest needed for the job!
+5+ years of professional experience with software development.
+strong data discovery and analysis skills
+experience with big data using technologies like hadoop, spark, nosql and/or traditional relational databases
+experience with statistical software packages & tools (r, matlab, spss, sas, scipy, mahout, torch)
+experience with a variety of relevant languages (python, java, scala, pig, sql) preferably on linux
+
+ 
+exceptional candidates will also have the following qualifications:
+
+industry experience with common machine learning models (decision trees, linear models, naïve bayes, neural nets)
+industry experience with data visualization (ggplot2, d3, tableau)
+familiarity with agile/scrum
+familiarity with software as a service, api development
+familiarity with standard software development practices (source control, unit testing, code reviews, automation, performance monitoring)
+
+*li-lg3
+sap's diversity commitment
+to harness the power of innovation, sap invests in the development of its diverse employees. we aspire to leverage the qualities and appreciate the unique competencies that each person brings to the company.
+sap is committed to the principles of equal employment opportunity and to providing reasonable accommodations to applicants with physical and/or mental disabilities. if you are interested in applying for employment with sap and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to recruiting operations team (americas:careers.northamerica@sap.com or careers.latinamerica@sap.com, apj: careers.apj@sap.com, emea: careers@sap.com). requests for reasonable accommodation will be considered on a case-by-case basis.
+eoe aa m/f/vet/disability:
+qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, gender, sexual orientation, gender identity, protected veteran status or disability.
+additional locations: 
+
+
+
+nearest major market: seattle
+                    
+                        nearest secondary market: bellevue
+                    
+                
+
+job segment: 
+database, erp, developer, engineer, sap, technology, engineering
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+                        start apply with linkedin
+                    
+
+
+
+
+
+
+
+
+                        start apply with facebook
+                    
+
+
+
+
+
+
+
+
+                        start apply with xing
+                    
+
+
+
+
+
+
+
+                            apply now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+sql jobs in the united states,
+research jobs in the united states,
+java jobs in the united states,
+engineer jobs in the united states,
+developer jobs in the united states
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+sap careers
+sap.com
+top job searches
+view all jobs
+privacy policy
+impressum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

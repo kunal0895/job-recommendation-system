@@ -1,0 +1,413 @@
+
+
+
+
+job application for big data administrator at uptake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+big data administrator
+
+        at uptake
+      
+(view all jobs)
+
+        600 w chicago ave, chicago, il 60654 ste 620
+      
+
+
+what we do:
+uptake harnesses the power of underutilized data to empower businesses to make informeddecisions. we partner with industry leaders to build a predictive analytics software platform thatgrows smarter in one industry because of what we learn in another. the result is a powerful platformthat identifies problems before they happen, ultimately saving money, time and lives.
+what you’ll do:
+as a big data administrator, you’ll be responsible for the administration and governance of acomplex analytics platform that is already changing the way large industrial companies manage theirassets. a big data administrator understands cutting-edge tools and frameworks, and is able todetermine what the best tools are for any given task. you will enable and work with our otherdevelopers to use cutting-edge technologies in the fields of distributed systems, data ingestion andmapping, and machine learning, to name a few. we also strongly encourage everyone to tinker withexisting tools, and to stay up to date and test new technologies—all with the aim of ensuring that ourexisting systems don’t stagnate or deteriorate.
+responsibilities:
+as a big data engineer, your responsibilities may include, but are not limited to, the following:
+● build a scalable big data platform designed to serve many different use-cases and requirements● build a highly scalable framework for ingesting, transforming and enhancing data at web scale● develop data structures and processes using components of the hadoop ecosystem such as avro, hive, parquet, impala, hbase, kudu, tez, etc.● establish automated build and deployment pipelines● implement machine learning models that enable customers to glean hidden insights about their data● implementing security and integrating with components such as ldap, ad, sentry, kerberos.● strong understanding of row level and role based security concepts such as inheritance● establishing scalability benchmarks for predictable scalability thresholds.
+qualifications:
+● bachelor's degree in computer science or related field● 6+ years of system building experience● 4+ years of programming experience using jvm based languages● a passion for devops and an appreciation for continuous integration/deployment● a passion for qa and an understanding that testing is not someone else’s responsibility● experience automating infrastructure and build processes● outstanding programming and problem solving skills● strong passion for technology and building great systems● excellent communication skills and ability to work using agile methodologies
+● ability to work quickly and collaboratively in a fast-paced, entrepreneurial environment● experience with service-oriented (soa) and event-driven (eda) architectures● experience using big data solutions in an aws environment● experience with nosql data stores: cassandra, hdfs and/or elasticsearch● experience with javascript or associated frameworks
+preferred skills:
+we value these qualities, but they’re not required for this role:
+● masters or ph.d. in related field● experience as an open source contributor● experience with akka, stream processing technologies and concurrency frameworks● experience with data modeling● experience with chef, puppet, ansible, salt or equivalent● experience with docker, mesos and marathon● experience with distributed messaging services, preferably kafka● experience with distributed data processors, preferably spark● experience with angular, react, redux, immutable.js, rx.js, node.js or equivalent● experience with reactive and/or functional programming● understanding of thrift, avro or protocol buffers
+if you think you would be a good fit for this role, and are interested in joining the best engineering team in chicago, please provide your resume with a cover letter.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website or other professional web profile
+    
+
+
+
+
+
+will you now or in the future require sponsorship for an employment visa (e.g. h-1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+how did you hear about uptake?
+    
+
+
+
+
+
+1871
+blue1647
+built in chicago
+bunker labs
+campus event
+chicagoinno
+chicago innovation awards
+chipma
+data fellows
+girl develop it
+ita
+technori
+techstars
+the starter league
+uptake-hosted event
+uxs chicago
+other
+
+
+if you heard about us some other way, please share how!
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at uptake are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

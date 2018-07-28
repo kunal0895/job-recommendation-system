@@ -1,0 +1,306 @@
+
+
+
+        full stack developer -        holtec international -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        holtec international is an equal opportunity employer. for applicable non-exempt positions, benefits include but are not limited to health and dental insurance, 401k retirement plan and tuition reimbursement.holtec international is a diversified energy technology company with its corporate technology center located in camden, new jersey in the south jersey region of the philadelphia metropolitan area. the company’s corporate headquarters is located on the southern coast of florida in jupiter, fl. the company also maintains several operations centers around the world, including major bases of operation in turtle creek (pennsylvania), kiev (ukraine), and pune (india).  smr llc, a subsidiary of holtec international, is located at the corporate technology center in camden, new jersey.if you wish to be considered for any of our open positions, please submit all cover letters, resumes, and supporting documents using the online application tool that appears linked to the title of each position.    
+
+
+
+full stack developer
+
+
+turtle creek, pa                    
+
+full time                
+
+holtec manufacturing division                    
+
+entry level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+full stack .net developer
+position description
+the primary purpose of the full stack .net developer position is to work for the software development team to write, update, and maintain complex software systems in a manufacturing environment.  in addition, the software developer is responsible for providing software support to corporate staff and other divisions.  the individual needs to ensure timely execution of projects adhering to architectural, design and quality standards. individual should be able to develop the systems following guidelines of architect and team lead.  some key tasks where the developer will be involved include understanding business requirements, creating system / application design, code, develop and test systems/applications.  candidate must be passionate about technology, a critical thinker, self-motivated and willing to work, and learn in a fast-paced environment as part of a dynamic and growing system development team.
+job responsibilities
+
+design and develop using .net framework, entity framework, linq, mvvm, mvc, wpf, xml, and xaml to rapidly develop applications
+maintain existing code base and expand software in current languages or migrate code to another language
+complete all phases of software development life cycle including analysis, design, functionality, testing, deployment, and support
+assist project manager in project planning, application development and support activities
+apply software engineering tools and best practices in day to day work
+
+required qualifications
+experience/education background: bachelor’s / master’s degree in computer science, information systems, or related discipline
+3+ years of software development experience in developing, implementing, and maintaining solutions using the microsoft technology stack
+experience with visual studio, microsoft sql server
+experience with c# and vb.net using winforms and object-oriented design
+strong understanding of sql syntax and coding, along with the ability to use crud functions to view, store, retrieve data from complex database systems
+experience with ssrs for reports and ssis data migration
+experience in distributed applications built web services, rest api, wcf.
+experience with orm framework: entity framework or nhibernate.
+experience of working with one or more source version controls: git, tfs, svn;
+preferred qualifications
+commitment to high quality and good practices and standards, including object-oriented design, code refactoring, and code documentation.
+keeps up to date with latest developments in iot realm.
+experience with agile, test-driven development, and continuous integration process.
+preferred but not required: 
+ability to work in agile, waterfall and iterative development mode.
+develop modular front-end applications using asp.net, html5, css, javascript, json, ajax, etc.
+mvc framework, bootstrap framework, web framework
+compiling unit tests in mstest /nunit.
+distributed applications: web services, rest api, wcf.
+ 
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,544 @@
+
+
+
+autouplink tech | careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+customer login
+
+products 
+
+
+list
+all-in-one suite
+crm
+custom websites
+datasync services
+email campaigns
+inventory management
+on-the-lot services
+photo enhancement
+vehicle adautomation
+video360
+window labels
+
+
+
+company 
+
+life at tech
+career listings
+
+
+experts
+blog & news
+customer service
+contact
+
+
+
+
+
+
+
+close
+shout out
+
+
+
+
+
+
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+company
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+
+
+
+
+
+send
+
+
+this field is intended to catch out spammers - please leave it blank.
+
+
+
+
+
+
+
+
+
+
+
+close
+shout out
+
+
+
+
+
+
+don't put anything here
+
+
+
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+company
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+type the characters below
+
+
+
+
+
+
+
+send
+
+
+this field is intended to catch out spammers - please leave it blank.
+
+
+
+
+
+
+
+
+
+
+
+close
+career application
+java software developer in charlotte, nc
+
+
+
+
+
+
+
+
+
+
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+upload resume (microsoft word, apple pages or pdf formats only)
+
+
+
+
+
+
+
+
+
+
+
+send
+
+
+this field is intended to catch out spammers - please leave it blank.
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+java software developer
+autouplink tech connects automotive retailers with their customers by designing easy to use, captivating web and native software applications. we help retailers coordinate interaction with each consumer throughout the customer lifecycle from initial acquisition to vehicle ownership, delivering a transparent consumer experience that improves dealership customer acquisition and retention.
+our team includes brilliant people around the country who share the goal to free companies from buying expensive, difficult-to-use, enterprise software. it’s exciting stuff. and you can be part of it. work with amazing people doing amazing things. you’ll learn heaps and be challenged daily. bring passion and dedication to your job and there’s no telling what you could accomplish.
+our product design team is an agile team that works in a highly collaborative, cross-functional environment. we are designers who adhere to solid principles.
+this java development role designs and curates back-end and server-side software in the stack against technical and business requirements. ideal candidates will have a minimum of 5 years of java software development experience building data-driven, interactive applications, as well as an understanding of app stack architecture.
+responsibilities 
+
+design and author production-ready code and unit tests meeting both technical and business requirements; 
+optimize and enhance systems for high interactivity and high performance with limited computing resources; 
+contribute architectural input to and write greenfield code, or rewrite and refactor existing code (depending on your mission(s) during a given release cycle); 
+adhere to established soa assets in the stack, or work cross-functionally to extend the stack when necessary;
+our applications present (and our data layer stores) consumer data. security, reliability and scalability are not just buzzwords but immediate requirements we deliver daily;
+work with business, product and research team members to define requirements; 
+
+qualifications 
+
+proficiency with java and related dev tools like eclipse, spring, tomcat & maven;
+experience with tomcat configuration and implementation on windows and linux os’;
+experience developing against ms sql data layers, and comfortable enough with sql to do more than simple selects from tables;
+proven understanding and practical experience using object oriented design principles and patterns;
+recent experience designing in soa and against web services, windows services, linux services and apis;
+minimum five years professional software development experience rocking data-driven, interactive applications;
+minimum of five consecutive years of java development;
+stout communication, interpersonal and problem solving skills;
+practical knowledge of sdlc and willingness to champion cross-functionally;
+experience participating in a collaborative, agile development team;
+bachelors degree in computer science field of study or equivalent;
+willingness to contribute to and curate technical documentation in our wiki; 
+
+bonus points for: 
+familiarity with jsp, php or coldfusion (server side) to decipher any legacy applications targeted for replacement;
+ability to understand and write sql queries. our data layers (depending on the discrete product in general release) use ms sql server heavily, as well as mysql, sqlite and postgresql;
+familiarity with nosql implementations such as redis;
+enterprise web-based application experience;
+working knowledge of confluence wiki and jira issue tracking software;
+our web-based uis (depending on the discrete product in general release) leverage client side asp.net, jquery, css, html5, ajax, javascript, json, and coldfusion;
+experience with xml;
+experience with continuous integration and source control tools like git, bitbucket;
+practical experience with iis server set up and configuration;
+android mobile app design experience;
+automotive retail product experience earns double bonus points;
+compensation & benefits summary 
+hr will share all the deets about compensation & benefits with you during the interview process, but here are the broad strokes:
+
+$80,000 - $90,000 annual salary based on commensurate experience;
+health, dental, vision;
+life insurance;
+optional short term disability insurance;
+three weeks paid pto (personal, vacation, holidays, sick, etc.);
+expense reimbursement account for any incurred business expenses; 
+
+what we look for in who we work with 
+details matter: every “how can i help you?”. every swipe of the finger. every piece of packaging. everything. and it doesn’t matter just some of the time. it matters all of the time. that’s how we design things at autouplink tech. the result is something noteworthy and lasting.
+we’re perfectionists who ship code. idealists who iterate. inventors of new. designers of omg. forever tinkering with products and processes, always on the lookout for better. a job at autouplink tech is one that expects a lot of you, but it’s also one that rewards original thinking and hard work. we wouldn’t have it any other way. 
+send us your resume and cover letter and we’ll be in touch!
+
+what we look for in who we work with
+details matter: every “how can i help you?”. every swipe of the finger. every piece of packaging. everything. and it doesn’t matter just some of the time. it matters all of the time. that’s how we design things at autouplink tech. the result is something noteworthy and lasting. 
+we’re perfectionists. idealists. inventors. designers. forever tinkering with products and processes, always on the lookout for better. a job at autouplink tech is one that expects a lot of you, but it’s also one that rewards original thinking and hard work. we wouldn’t have it any other way. 
+when you imagine the creative design process at autouplink tech, at first you may not picture someone in hr. or operations. or finance. but we expect design thinking and solutions from everyone here, no matter what their responsibilities are. innovation takes many forms, and our people find new ones every day because they are encouraged to participate and to deliberate like designers.
+send us your resume and cover letter and we’ll be in touch!
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            home
+                        
+
+                            careers
+                        
+                        
+                            java software developer charlotte nc
+                        
+
+
+
+
+
+
+
+home
+company
+products
+experts
+blogs & news
+customer service
+contact
+
+
+
+
+
+
+
+recent blogs & news
+
+
+how video can generate more leads
+july 2015
+
+
+autouplink tech announces key leadership changes
+january 2015
+
+
+eliminating sideways energy in social media
+september 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 autouplink technologies, inc. | privacy policy | terms of use
+
+
+
+
+
+
+
+
+
+
+
+
+
+ how to buy
+                        
+
+ call
+                        
+
+ email
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

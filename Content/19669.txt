@@ -1,0 +1,22 @@
+full stack application developer at trustradiusfull stack application developeraustin, txfull-timejob openingsfull stack application developer%button_apply_to_position% apply using linkedinare you a full-stack engineer interested in working end-to-end with the latest javascript-based technologies? are you looking to join a startup and help it grow from early product/market fit to real scale? do you want to help bring transparency to business software purchase decisions the way yelp and tripadvisor have to restaurants and travel?
+trustradius is seeking a full stack application engineer to join our small, nimble team and help drive the implementation and evolution of trustradius’ multiple web products (end-user facing website, vendor portal, and more). we use leading technologies such as nodejs, mongodb, backbone.js, elasticsearch and bootstrap delivered via a hosted paas. we prefer aptitude, attitude and passion for our mission to keyword matches with our exact technologies.
+key responsibilities
+
+rapidly build, test, deploy and maintain web-based applications using modern technologies
+work cross-functionally to highlight implementation trade-offs and help prioritize features
+deliver elegant, maintainable code
+improve and scale existing products, processes, and tools
+
+required qualifications
+
+5+ years’ professional programming experience
+aptitude and willingness to learn new tools and techniques
+demonstrable experience shipping web-based applications (consumer or business facing)
+experience in full-stack development from concept to ui and back-end implementation
+experience writing modular, object-oriented javascript (or similar)
+familiarity with mobile-friendly responsive design concepts
+degree in computer science or related field, or equivalent experience
+pluses : familiarity with our stack (nodejs, mongodb, redis, backbone.js, elasticsearch, bootstrap, heroku, aws)
+
+ 
+%button_apply_to_position%%footer_powered_by%breezy

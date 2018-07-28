@@ -1,0 +1,65 @@
+data scientist & algorithms engineer at tivecompany websitedata scientist & algorithms engineercambridge, mafull-timeengineeringjob openingsdata scientist & algorithms engineer%button_apply_to_position% apply using linkedinabout the data scientist position
+we are looking for an awesome engineer that enjoys playing with data. in your role you will be working with large amounts data, you'll get to analyze it, derive insights from it and help us build a smart system for supply chain management.
+our ideal candidate is able to analyze data, find patterns and abstractions, and write the code to create derived data and insights in the system.
+in your role, you will be responsible for writing software that analyzes large amounts of data coming from our smart trackers all around the world. you will write algorithms and heuristics to bring new intelligence to the system.
+responsibilities include:
+
+
+design, code and test data processing software and algorithms
+
+
+create plugin-like platform for hosting & executing wide array of algorithms
+
+
+design data models and data structures for storing data and derived data
+
+
+help manage large amounts of data (big data)
+
+
+collaborate with the hardware and firmware teams to create an integrated platform
+
+
+have lots of fun working with a great team
+
+
+ 
+requirements:
+
+
+bs degree in computer science or engineering
+
+
+at least 3-6 years of experience in software engineering positions
+
+
+background in algorithms and data structures
+
+
+ability to code and implement theoretical algorithms
+
+
+ability to work independently and with less structured requirements
+
+
+ 
+preferred qualifications:
+
+
+masters or phd in computer science
+
+
+familiarity with machine learning
+
+
+experience with big data
+
+
+knowledge of aws hosting environments & devops
+
+
+knowledge of parallel processing & threading
+
+
+ 
+%button_apply_to_position%%footer_powered_by%breezy

@@ -1,0 +1,636 @@
+
+
+
+data-scientist-researcher job - sunnyvale, ca - lockheed martin
+
+
+
+lockheed martin - job search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to page content
+
+open/close mobile menu
+lockheed martin corporation home
+
+
+
+
+
+investors
+media
+suppliers
+employees
+
+
+
+
+
+
+quick job search form
+quick job search
+
+
+
+
+
+
+who we are
+what we do
+news & events
+innovation
+careers - home pagevisit careers sitemap
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+about us
+
+
+
+
+working here
+
+
+
+locations
+pay & benefits
+inclusive work environment
+career development
+rewards & recognition
+
+
+
+
+
+meet our employees
+
+
+
+meet our employees - students
+meet our employees - experienced
+meet our employees - military
+meet our employees - diversity
+
+
+
+
+
+careers - events
+
+
+
+diversity/national events
+military events
+college events
+experienced events
+
+
+
+
+
+joining lockheed martin
+
+
+
+ready to start your search
+sharing your resume
+interview invitation
+post interview
+connect with us
+
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+faqs - about us
+
+
+
+
+
+
+college students
+
+
+
+
+internships/co-op
+
+
+
+leadership development
+
+
+
+communications - leadership development
+engineering
+finance
+operations
+security - leadership development
+
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+more - college students
+
+
+
+meet our employees - college students
+campus events
+faqs- college students
+
+
+
+
+
+
+
+
+experienced professionals
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+more - experianced professionals
+
+
+
+meet our employees - experianced professionals
+career development
+experienced events
+faqs - experianced professionals
+
+
+
+
+
+
+
+
+military
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+partnerships
+
+
+
+army partnership for youth success program
+get skills to work
+hiring our heroes
+military spouse employment partnership
+targeted outreach for wounded warriors
+hero2hired
+
+
+
+
+
+more - military
+
+
+
+military events
+faqs - military
+skills translator
+meet our employees - military
+military connect
+meet our military relations managers
+
+
+
+
+
+
+
+
+featured opportunities
+
+
+
+
+programs
+
+
+
+advanced development programs (adp)/skunk works
+f-35 lightning ii flight test
+antarctic support contract program
+consolidated air force satellite control network (afscn) modification, maintenance & operations (cammo)
+defense intelligence agency enterprise infrastructure engineering services (dia eies)
+federal aviation administration (faa) controller training contract (ctc)
+federal energy regulatory commission information technology support services (ferc itss)
+federal housing administration resource center (fha rc) contract
+intelligence community
+intelligence community > cyber technology services (cts)
+intelligence community > defense cyber crime center (dc3)
+intelligence community > silverquarter (sq)
+mega 4 automated litigation support program
+national energy technology laboratory (netl), research and engineering services
+ocelot
+software developers and engineers
+technical services support contract (tssc) iv
+transportation security administration (tsa) - information technology infrastructure program (itip)
+army command, control, communications, computers, intelligence, surveillance and reconnaissance (c4isr) system training
+army pre-positioned stock 5 (aps-5)
+command, control, communications, computers (c4) assessment division (c4ad)
+international narcotics and law enforcement affairs' program
+special operations forces contractor logistics support services
+surface ship torpedo defense (sstd) technical support
+u.s. army aviation and missile command / aviation field maintenance (amcom afm)
+u.s. army non-standard rotary wing aircraft (nsrwa)
+database and it systems opportunities
+joint forces development support services (jfdss)
+software and hardware engineers
+training and logistics solutions program
+future intercontinental ballistic missile (icbm) sustainment & acquisition construct (fisac)
+rf manufacturing and production technicians
+satellite communications and payload engineering
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+returning job seekers: students
+
+
+
+returning job seekers: experienced
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+careers
+job search
+
+job details
+
+
+
+
+
+
+
+data scientist / researcher
+
+
+
+
+
+
+apply to job(s)
+       
+
+
+
+req id : 
+414368br_1
+
+
+job code/title : 
+e1483:research scientist sr
+
+
+job description : 
+this enterprise business services (ebs) research scientist sr position is part of the analytics center of excellence (ace) organization, supporting the space systems company (ssc) it analytics business application team.  this position will work closely with the ssc it analytics data scientist and analytics team members, performing data research and analysis, working with a variety of analytical tools and techniques to explore, analyze, and prepare data to provide solutions for our ssc customers.  the data research and analysis will result in varying levels of data gathering, reporting and visualizations.responsibilities include, but are not limited to:• designs and develops methods, processes, and systems to consolidate and analyze structured and unstructured, diverse sources• develops and uses advanced software programs, algorithms, querying and automated processes to cleanse, integrate and evaluate datasets and models complex business problems• works with cross-discipline teams in order to ensure connectivity between various databases and systems• identifies meaningful insights and interprets and communicates findings and recommendations• may develop information tools, algorithms, dashboards, and queries to monitor and improve business performance• maintains awareness of emerging analytics technologies• plans, conducts, and coordinates programming application activities in support of research, engineering, and other related technical activities• analyzes applications and writes computer programs that contain logical and mathematical solutions to scientific problems or questions• applies knowledge of computer processes, subject matter to be programmed, and input from various users to develop and test programs• requires knowledge of mathematical calculation and algorithms to provide intricate analytic solutions to meet end user needs• experience designing efficient data mining and text mining frameworks with related tools• evaluation of data analytics tools and technologies, provide recommendations, and determine how those tools will best be integrated into the analytics environment• successful planning, software development, testing, deployment and maintenance of analytics applications and incorporating the full life-cycle management processother requirements:• work location must be at a us based lockheed martin site• off hours support for this position may include evenings, weekends and holidays• periodic travel to lockheed martin space systems sites may also be requiredbasic qualifications• familiarity with disciplines such as natural language processing, anomaly detection, markov chain and monte carlo (mcmc) methods, machine learning, predictive modeling, statistical analysis and hypothesis testing• demonstrated proficiency in designing efficient algorithms and performing analysis with a numerical scripting language such as r, python or matlab• sql proficiency• experience with databases, such as oracle, sql server, sap hana, etc.• strong working knowledge of basic statistical concepts such as point estimation, probability distributions, hypothesis tests, and how they can be applied• experience with integration and cleansing of disparate or incomplete data sets to deliver insight• effective use of front end reporting and visualization tools• an understanding of traditional business intelligence and data warehousing concepts (data modeling, etl, visualization reporting, etc.)• proven ability to successfully operate in an interactive local and virtual team environment • work experience demonstrating planning and problem solving expertise • experience managing and delivering multiple, critical business applications• demonstrated work experience managing priorities and customer requirements• demonstrated business acumen and ability to balance technical requirements with business needs• demonstrated full life cycle and sustainment experience, leveraging a disciplined engineering process for both implementation as well as operations and maintenancedesired skills• knowledge sas• experience with agile/scrum life cycle principles and methodologies• ability to evaluate, develop and present analytics best practices• demonstrated pursuit of technical knowledge and education required to acquire and maintain an expertise of the latest technological trends and advancements• demonstrated achievement in implementing process improvements• track record of being a strong independent contributor • demonstrated strong organizational skills and high work ethic behaviors• demonstrated excellent interpersonal skills and team building abilities • strong verbal and written communication skills, including the communication of findings and their relevance in business terms• proven ability to communicate and present to program management and executive leadership • domain knowledge of aerospace & defense industry• ability to build strong relationships with stakeholders, customers, colleagues and suppliers and to communicate complex quantitative analysis in a clear, precise and actionable manneras a leading technology innovation company, lockheed martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. lockheed martin has employees based in many states throughout the u.s., and internationally, with business locations in many nations and territories.join us at lockheed martin, where we’re engineering a better tomorrow.lockheed martin is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity,  national origin, age, protected veteran status, or disability status.job location(s): littleton california, littleton colorado
+
+
+security clearance : 
+none
+
+
+business unit : 
+ess2100 enterprise business services
+
+
+job class : 
+information technology
+
+
+job category : 
+experienced professional
+
+
+city : 
+sunnyvale
+
+
+state : 
+ca
+
+
+virtual : 
+yes
+
+
+relocation available : 
+possible
+
+
+work schedule : 
+flex9x80a-friday off in 2nd week w/flex hrs/day
+
+
+req type : 
+full-time
+
+
+shift : 
+first
+
+
+additional posting locations : 
+littleton, sunnyvale
+
+
+
+apply to job(s)
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 lockheed martin corporation disclaimer | privacy | accessibility
+lockheed martin utilizes our own internal talent acquisition organization to fill our employment needs. if you are contacted over the phone or e-mailed, by a company listing a lockheed martin job and requesting your personal information, allegedly on lockheed martin's behalf, please do not respond. lockheed martin is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+
+
+                    www.dhs.gov/e-verify
+                
+
+                e-verify is a registered trademark of the u.s. department of homeland security. this business uses e-verify in its hiring practices to achieve a lawful workforce.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stock price
+contact us
+site map
+privacy
+terms of use
+© 2017 lockheed martin corporation
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

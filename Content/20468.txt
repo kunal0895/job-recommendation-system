@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+deltek talent management -
+						    full stack developer - (1569.1)
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+ 
+
+
+attention safari users: this site requires cookies to function. please click here to accept the cookie. cookies will be used strictly for the functioning of the site.
+
+
+
+
+
+
+ 
+
+
+
+
+jump to
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+ job search
+
+
+ view all jobs
+
+
+
+
+ login
+
+
+ help 
+
+instructions on this page
+help on this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+job details
+
+
+
+full stack developer - (1569.1)
+×close this details all the information about the job posting.     
+
+
+
+
+
+
+
+
+
+
+
+
+share this job as a link in your status update to linkedin.
+
+
+
+
+
+
+
+
+
+
+
+														
+																	job title
+																
+															
+
+								full stack developer
+															
+
+
+
+														
+																	location
+																
+															
+
+								corporate - dallas, tx 75219 us (primary)
+
+
+
+
+														
+																	category
+																
+															
+
+								information technology
+															
+
+
+
+														
+																	job type
+																
+															
+
+								full-time
+															
+
+
+
+														
+																	career level
+																
+															
+
+								experienced (non-manager)
+															
+
+
+
+														
+																	education
+																
+															
+
+								bachelor's degree
+															
+
+
+
+														
+																	% travel
+																
+															
+
+								0 - 10%
+															
+
+
+
+														
+																	job description
+																
+															
+
+gainsco auto insurance® markets non-standard private passenger automobile products through retail agencies, in texas, new mexico, arizona, oklahoma, florida, georgia, south carolina, tennessee and virginia, and we are expanding into colorado and utah. gainsco auto insurance® has fully integrated insurance capabilities, including marketing, underwriting, customer service and claims handling. our operations are bilingual (english/spanish).
+due to company growth, gainsco auto insurance has an immediate opening for an it full stack developer.  we are looking for driven individuals who want career advancement and the opportunity to make a significant impact on our leading organization.
+by joining gainsco, you will become part of a dynamic and growing organization that has been recognized as one of the top workplaces in dallas and miami. in 2015, the gainsco dallas home office was one of only 150 companies in the dallas/ft. worth area to be recognized by the dallas morning news as a “top workplace 2015.” the miami office was also recognized as one of the top 35 workplaces in its size category.
+our culture attracts engaged individuals who have a desire to contribute and succeed in a dynamic, exciting and growing team environment. our culture encourages individuals to grow their skills as they build their careers. come join us and become a champion with gainsco.
+job purpose: ensure the web application is delivered with the performance and flexibility required for the company to meet its goals.
+essential job results:
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+% of time
+
+
+results expected and duties performed
+
+
+40
+
+
+troubleshooting and maintenance programming.  these activities will require occasionally being assigned to the maintenance team to help analyze, monitor, and design and implement solutions to issues that may come up and or small change requests that are not considered long tail initiatives. 
+
+
+40
+
+
+work on a team to help design, implement, test, and deliver new application features and or integrations.  some projects will be managed using scrum and others will be waterfall.
+
+
+20
+
+
+manage and update all assigned tasks, provide requested status updates, and attend all mandatory meetings and or daily scrum sessions.
+
+ 
+
+
+
+
+														
+																	job requirements
+																
+															
+
+education: bachelor degree in computer science or related field
+experience: 4 - 8 years of solid technical experience; insurance background preferred
+skills and abilities: the ability to handle complex problems effectively, separating complex issues and generating multiple solutions; strong written and oral communication skills; analytical and problem-solving abilities; ability to effectively prioritize and execute tasks in a high-pressure environment; experience working in a collaborative team environment; knowledge of the agile methodology and experience using scrum preferable.
+absolute requirements: experience and proficiency with the following:
+c# - 4+ years of experience                                                                                   
+asp.net mvc- 1+ years of experience
+asp.net webforms - 3+ years of experience
+tsql - 4+ years of experience
+javascript - 4+ years of experience
+wcf - 1+ years of experience
+orm (entity framework) - 1+ years of experience
+linq  - 1+ years of experience         
+preferred experience:
+jquery
+angularjs/angular
+biztalk
+mq series
+cryptography principles
+web api
+established tenure preferred 
+decision making: must follow established steps and procedures
+ 
+compensation: salary commensurate with experience. excellent benefits package: medical, dental, vision insurance, life insurance, short term and long term disability insurance, 401k, paid vacation and holidays.
+ 
+gainsco is an equal employment opportunity employer 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ apply to this job
+
+
+ 
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ top of page
+
+
+						v14.3.5.1 | copyright © 2017 all rights reserved. 
+													| deltek talent management
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

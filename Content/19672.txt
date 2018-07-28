@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+
+
+apply for siemens full stack web app developer job - research & development - multiple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+
+careers home
+search jobs
+
+
+					check application status / manage profile
+					
+
+
+
+global jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+siemens careers
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+full stack web app developer
+
+
+multiple locations:
+lebanon, new hampshire; melville, new york; houston, texas; austin, texas
+
+
+
+
+job family: research & development
+
+
+
+
+
+apply
+
+english (us)
+
+
+
+
+
+
+job description
+
+
+
+division: digital factorybusiness unit: product lifecycle managementrequisition number: 218446primary location: united states-new hampshire-lebanonother locations: united states-texas-austin, united states-texas-houston, united states-new york-melvilleassignment category: full-time regularexperience level: entry leveleducation required level: bachelor's degreetravel required: 5%division description:siemens is a global technology powerhouse that has stood for engineering excellence, innovation, quality, reliability and internationality for more than 165 years. as a global technology company, siemens is rigorously leveraging the advantages that this setup provides. to tap business opportunities in both new and established markets, the company is organized in nine divisions: power and gas, wind power and renewables, energy management, building technologies, mobility, digital factory, process industries and drives, healthineers and financial services.the siemens digital factory division offers a comprehensive portfolio of seamlessly integrated hardware, software and technology-based services in order to support manufacturing companies worldwide in enhancing the flexibility and efficiency of their manufacturing processes and reducing the time to market of their products.for more information, please visit: http://www.siemens.com/businesses/us/en/digital-factory.htmjob description:position overview
+ 
+siemens plm is seeking a software engineer to join our team. 
+the full stack web developer, software engineer, will work on:
+
+our new resource server, a web server with a rest api for managing cluster compute resources used by our application, star-ccm+. 
+our product excellence program, a data analytics program for star-ccm+.
+refactoring our licensing code and improving security in our licensing checks.
+this position reports to the director of software framework in the platform department of development.
+the platform department is part of siemens product lifecycle management, simulation and test solutions.
+responsibilities
+
+enhance and maintain star-ccm+ and related programs such as resource server and the product excellence program.
+additional objectives
+implement secure systems for managing compute resources used by star-ccm+ including  authentication and authorization, apis, and front-ends.
+implement siemens libraries for retrieving analytics data related to star-ccm+ usage in the field.
+design new licensing code to integrate with plm-wide license tokens.
+improve existing license code by making it more robust and object-oriented, making it more testable, and simplifying where possible.
+write and maintain technical design documents and new-feature documents.
+write unit tests and functional tests.
+collaborate closely with developers, engineers, testers, and product managers.
+participate in peer-based code reviews and design reviews.
+required knowledge/skills, education, and experience
+
+bachelor’s degree in computer science or a closely related field + 5 years non-academic experience, or master’s degree in computer science or a closely related field + 2 years non-academic experience.
+required technical experience
+expertise with web application architecture.
+extensive experience (5+ years) in object-oriented software design and development.
+extensive experience working on large, distributed teams and navigating a massive code base.
+extensive rdbms experience.
+extensive experience with securing web applications, authenticating users, ssl.
+intimate familiarity with python, html, http, rest, css, javascript, sql, c++.
+excellent communication and collaboration skills.
+ability to communicate complex technical issues clearly and to present data concisely.
+proficiency at optimizing and benchmarking code for performance and memory.
+comfort in a dynamic, fast-paced environment.
+ability to handle multiple tasks with minimal oversight.
+required amount of travel
+fewer than 10 days per year, mostly domestic.
+preferred knowledge, skills, or expertise
+
+turbogears framework
+stl, boost, and git
+successful experience working on large, commercial software products
+parallel computing
+test-driven / test-first development
+experience with distributed systems authentication and/or token-based authentication
+
+
+
+equal employment opportunity statement
+
+      siemens is an equal opportunity and affirmative action employer encouraging diversity in the workplace. all qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law.
+    
+
+eeo is the law
+
+      applicants and employees are protected under federal law from discrimination. to learn more,
+      click here.
+    
+
+pay transparency non-discrimination provision
+
+      siemens follows executive order 11246, including the pay transparency nondiscrimination provision. to learn more,
+      click here.
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+check application status / manage profile
+
+
+
+global jobs
+united states jobs
+
+
+us only: review accommodations for disability
+contact us
+
+
+
+
+© siemens ag, 1996 – 2017 |
+corporate information |
+privacy policy |
+cookie policy |
+terms |
+digital id
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+© siemens ag, 1996 – 2017 |
+imprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+ccc information services inc.
+
+
+
+
+
+
+
+
+
+
+big data support engineer
+
+
+position title:
+big data support engineer
+
+
+job function:
+technology
+
+
+job location:
+chicago, il
+
+
+
+
+
+
+description
+position overview 
+
+the customer application engineer is responsible providing system and software support for our current and next generation data warehouse applications.  the engineer should be a self-starter and should be able to collaborate with product management, product development, quality assurance and dev ops teams to acquire the necessary skills and application knowledge needed to support the applications.  the engineer will also troubleshoot and resolve any issues that occur in the application software. as a support engineer, you will be responsible for addressing technical customer escalations related to the applications, and resolving them. the engineer will also work closely with the development teams to implement solutions that may require application software changes. 
+this position will be responsible for technical interaction with customer it departments as part of debugging and resolution during system and application outages. the support engineer will recommend appropriate technology options to it operations management in order to support the applications.
+responsibilities
+• handle application software related tickets escalated by customers, technical support, and product development teams
+• make recommendations for operational efficiency improvements and new operational capabilities (kpis, reporting, alerting, etc.)
+• participate in application / platform maintenance and releases for production and pre-production environments including vetting out test/validation results, etc. with the production development teams
+• participate in disaster recovery and business continuity tests by performing documented recovery procedures for the applications
+• support the applications to meet slas
+• participate in the integration of operational dashboards, monitoring, alerting, metrics reporting, etc. with noc, call center infrastructure and it ops
+• work with development teams to create operational run book documentation for standard operating tasks for production and test environments
+qualifications
+* working knowledge of sql databases & basic network configuration (1-3 years)
+* working knowledge of etl (1-3 years) – pentaho a plus
+* good command of linux/unix (1-3 years) - perl programming language a plus
+* working knowledge of crontab files
+* good command of microstrategy – admin skills a plus
+* system analysis and performance tuning skills
+* hands-on experience supporting java-based applications environments 
+* complex problem solving skills in debugging application software
+* proficiency in aws and related open source / cloud technologies
+* python – automation of sysadmin tasks, etc
+* bash – shell scripting for log analysis and automations
+* proficiency in chef, kafka, storm, spark, hadoop, dynamodb – nosql, postgresql, etc.
+* restful api’s, xml, json
+* familiarity with amazon cloudwatch and monitoring of the cloud instances and services
+* hortonworks data platform (hdp)
+* hortonworks data flow (hdf)
+soft skills requirements
+* excellent written and verbal communication skills.
+* ability to create/modify technical documentation
+* ability to resolve issues by engaging other teams
+* able to manage internal and external customers
+* provide support knowledge, and guidance to internal operations teams
+* excel at problem solving – both alone and with a team
+* strong leadership skills to coordinate project activities as needed
+* familiarity with support ticket methodology
+about ccc
+ccc provides leading automotive claims, repair and telematics solutions that drive efficiencies and enable our clients to make smarter decisions. ccc brings together what matters most – insight to make the best decisions, connections into the industry’s leading automotive claims network, and superior productivity through innovative cloud, mobile, hyper-scale technologies and apps.
+founded in 1980, ccc is the nation’s leading provider of advanced software, workflow tools, and enabling technologies to automotive collision repairers, property/casualty insurance carriers, oe manufacturers, and part suppliers. its client base includes more than 350 insurance companies and more than 22,000 repair facilities.
+our decision-support tools draw from insights contained in our extensive data warehouse, which includes aggregated claims and repair information from millions of claims-related transactions processed through ccc over the last 30 years. ccc leads the industry in technology innovation and continues to make strategic investments in areas that will help existing and future customers get consumers back in their cars quickly following an accident.
+why choose ccc
+we promote a healthy work-life balance and offer generous benefit plans and resources designed with employee satisfaction in mind.
+what we value is simple - customers, employee commitment, collaboration and clear communication.
+we hire people who will embrace the company’s goals and productively contribute in ways that help us serve the customer, innovate, and stay strong.
+we make it a priority to keep employees healthy, happy and enriched.
+•    healthy - wellness programs and perkspot/employee discount program
+•    happy – recognition programs, a confidential employee assistance program, and flexible work arrangements such as staggered start times
+•    enriched – tuition reimbursement, training and learning programs, and leadership development opportunities
+our corporate headquarters is located in downtown chicago within the historic merchandise mart—a certified leed (leadership in energy and environmental design) building.
+ccc information services was ranked #15 in the top 100 digital companies in chicago in 2016 by built in chicago, an online community for digital technology entrepreneurs in chicago.
+ccc is a great place to work. join us!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+ccc information services is an equal opportunity employer

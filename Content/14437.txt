@@ -1,0 +1,141 @@
+
+
+
+
+act-on software careers - software engineer - java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    act-on software careers                                            
+
+
+
+
+
+
+
+                software engineer - java
+    
+    
+
+                            engineering            
+                    portland,
+                            oregon
+                
+                        
+
+
+        apply
+    
+
+
+
+act-on software, a provider of saas based automated digital marketing services to mid-size marketing departments, is seeking a software engineer to engage in the on-going development and expansion of our enterprise to a global community of marketers by deploying best of breed content management, media delivery, reporting and analytics. are you passionate about cutting-edge technology?  do you enjoy the fast pace of an agile/scrum environment?  we are looking for the best and the brightest to join our team of world class engineers.  we are a diverse bunch, really passionate about our work but we have fun too, some of our hobbies include brewing beer and cycling. sound like a fit for you? join us in making the most exciting new products in marketing automation. what you will get to do:as a software engineer you will be developing a new cloud platform based service oriented architecture in java to provide digital marketing, creative, and analytical services to mid sized firms around the world as they engage their audiences with their brands. the successful candidate will be/have:extensive java and j2ee-based server experiencems degree and 2-3 years of relevant experience/ b.s with 4 years of experience in c.s/math.comfortable working in a fast-paced agile/scrum environment promoting and leading strong engineering best practices.impressive oral and written communication skills and ability to work effectively with other talented engineers.be committed to leading test driven development, continuous integration, and continuous delivery paradigmsinvolved with micro-services and developing apisexpert in soa integrating and developing restful web services, soap, json, oauth, single sign-on, and other web security concepts.in addition, the candidate will be/have one or more of the following:experienced with messaging technologies: e.g. kafka, rabbitmqknowledge of nodejs services: express, pm2,experienced working in a aws cloud environment: e.g. using platform services, deployment and configuration.understanding of database scaling and failover techniques applicable in cloud environments for both sql and nosql database technologies: e.g. postgresql, mysql, mongodb, cassandraexperienced with distributed processing systems: e.g. hadoop, spark, hive.experienced with containerization and orchestration:: e.g. openshift/kubernetes, ecs, dockerknowledgeable in business intelligence systems and practicesknowledge of web application development e.g. html, javascript, css, saas/less, angular.js, aurelia,, polymer, etc.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

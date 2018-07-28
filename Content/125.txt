@@ -1,0 +1,133 @@
+ data platform engineer - data technologies | new york | bloomberg careers
+
+
+
+
+
+bloomberg the company & its productsbloomberg anywhere remote loginbloomberg anywhere loginbloomberg terminal demo request 
+
+
+
+
+
+bloomberg
+connecting decision makers to a dynamic network of information, people and ideas, bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+for customers
+bloomberg anywhere remote loginsoftware updatesmanage products and account information 
+support
+americas+1 212 318 2000emea+44 20 7330 7500asia pacific+65 6212 1000 
+
+
+company
+bloomberg londonaboutcareersdiversity and inclusionphilanthropy and engagementsustainabilitytech 
+communications
+press announcementspress contacts 
+follow
+facebooktwitterlinkedininstagram 
+
+
+products
+bloomberg terminalexecution and order managementdata and contentfinancial data managementintegration and distributionbloomberg tradebook 
+industry products
+bloomberg lawbloomberg taxbloomberg governmentbloomberg environmentbloomberg new energy finance 
+
+
+media
+bloomberg marketsbloomberg technologybloomberg pursuitsbloomberg politicsbloomberg opinionbloomberg businessweekbloomberg live conferencesbloomberg mobilebloomberg radiobloomberg televisionnews bureaus 
+media services
+bloomberg media distributionadvertising 
+
+
+
+
+company
+bloomberg londonaboutcareersdiversity and inclusionphilanthropy and engagementsustainabilitytech 
+communications
+press announcementspress contacts 
+follow
+facebooktwitterlinkedininstagram 
+
+
+products
+bloomberg terminalexecution and order managementdata and contentfinancial data managementintegration and distributionbloomberg tradebook 
+industry products
+bloomberg lawbloomberg taxbloomberg governmentbloomberg environmentbloomberg new energy finance 
+
+
+media
+bloomberg marketsbloomberg technologybloomberg pursuitsbloomberg politicsbloomberg opinionbloomberg businessweekbloomberg live conferencesbloomberg mobilebloomberg radiobloomberg televisionnews bureaus 
+media services
+bloomberg media distributionadvertising 
+
+
+bloomberg
+connecting decision makers to a dynamic network of information, people and ideas, bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+for customers
+bloomberg anywhere remote loginsoftware updatesmanage contracts and orders 
+support
+americas+1 212 318 2000emea+44 20 7330 7500asia pacific+65 6212 1000 
+
+ 
+
+careers at bloombergour businesscorporate functionsfinancial productsglobal dataindustry verticalsmedianews and researchtechnologystudents & graduatesinternship opportunitiesfull-time opportunitiescareers calendarworking hereaboutmeet our peopleblogloginloginsearch jobs日本語connecttwitterfacebooklinkedinyoutubeabout bloombergsearch jobs< back to searchdata platform engineer - data technologiescareers at bloomberg
+similar jobs
+data platform engineer - data technologiesnew yorkposted sep 5, 2017 - requisition no. 61799 apply now 
+
+bloomberg runs on data. it’s our business and our product. it’s why thousands of companies partner with us. we're nearing one petabyte and growing, with no end in sight. our data captures who, what, when, where and why our clients use bloomberg products.
+
+the bloomberg big data services engineering team (or bbds for short) provides a software platform for hosting large datasets. it’s a mature platform complete with search, analytics and real-time pipeline processing capabilities. the system scales out to petabytes while maintaining low latency, availability and immediate discoverability by clients. this puts us in an enviable and unique position to address the unique challenges of financial markets.
+
+maybe you love solving intricate engineering issues with large systems. or you like to dig into interesting problems around platform apis, real-time data pipelines, search and analytics engines or query optimizers. if this sounds like you, keep reading!
+
+we’ll trust you to:
+ build large distributed systems that will be the heart of our data platform. your work will enable us to ingest and process trillions of data items
+ provide search and analytics across these structured, semi-structured and unstructured datasets
+ work on a number of large distributed computing systems such as hbase, mysql clusters, kafka, spark, lucene, solr/elastic, haproxy and in-memory stream processors
+ adapt and change many technologies to provide solutions for distributed data storage
+ care about synchronization, sub-second latencies, search and discoverability
+ maintain fault tolerance and high availability
+
+you’ll need to have:
+ 5+ years experience in java and jvm, c and linux system including expertise in low-latency kernel level optimizations
+ a background in software engineering and the capability to program in compiled and dynamic languages such as python and javascript
+ expertise in data stores (both transactional and non-transactional) as well as the ability to code in a highly concurrent environment
+
+we’d love to see:
+ experience with distributed systems, restful architectures and scalable, low-latency systems that provide high availability
+ deep knowledge of hbase, spark, cassandra and the hadoop ecosystem of technologies or mysql/webscalesql and innodb engines
+ a bachelor’s or master’s degree in computer science, computer engineering, science, math or equivalent experience
+ deep knowledge of search engines like apache lucene and solr/elasticsearch
+
+ apply now 
+
+data platform engineer - data technologiesnew yorkposted sep 5, 2017 - requisition no. 61799 apply now 
+bloomberg runs on data. it’s our business and our product. it’s why thousands of companies partner with us. we're nearing one petabyte and growing, with no end in sight. our data captures who, what, when, where and why our clients use bloomberg products.
+
+the bloomberg big data services engineering team (or bbds for short) provides a software platform for hosting large datasets. it’s a mature platform complete with search, analytics and real-time pipeline processing capabilities. the system scales out to petabytes while maintaining low latency, availability and immediate discoverability by clients. this puts us in an enviable and unique position to address the unique challenges of financial markets.
+
+maybe you love solving intricate engineering issues with large systems. or you like to dig into interesting problems around platform apis, real-time data pipelines, search and analytics engines or query optimizers. if this sounds like you, keep reading!
+
+we’ll trust you to:
+ build large distributed systems that will be the heart of our data platform. your work will enable us to ingest and process trillions of data items
+ provide search and analytics across these structured, semi-structured and unstructured datasets
+ work on a number of large distributed computing systems such as hbase, mysql clusters, kafka, spark, lucene, solr/elastic, haproxy and in-memory stream processors
+ adapt and change many technologies to provide solutions for distributed data storage
+ care about synchronization, sub-second latencies, search and discoverability
+ maintain fault tolerance and high availability
+
+you’ll need to have:
+ 5+ years experience in java and jvm, c and linux system including expertise in low-latency kernel level optimizations
+ a background in software engineering and the capability to program in compiled and dynamic languages such as python and javascript
+ expertise in data stores (both transactional and non-transactional) as well as the ability to code in a highly concurrent environment
+
+we’d love to see:
+ experience with distributed systems, restful architectures and scalable, low-latency systems that provide high availability
+ deep knowledge of hbase, spark, cassandra and the hadoop ecosystem of technologies or mysql/webscalesql and innodb engines
+ a bachelor’s or master’s degree in computer science, computer engineering, science, math or equivalent experience
+ deep knowledge of search engines like apache lucene and solr/elasticsearch
+
+
+similar jobs
+
+ apply now xour termsplease read our full terms & conditions before applying{{{legaltermshtml}}}i agreeby applying for this job, you agree to the full terms of the above legal statement.job alertget an email when new listings match your search for:criteria{{criteriastring}}settingssend updatesonce a dayonce a weekend alertwhen i cancelin one monthin three monthsin six monthsemailcreate job alertsuccessemail alert createdpro tip: get connectedconnect, we'll use this information you provide to help us get in touch with you to align your expertise with our opportunities and better direct our conversations, or keep searching.connect with usemail sentcheck your inbox for a link to activate this alert.keep searchingthe bloomberg talent networkstay connected with us and be among the first to learn about new job opportunities. we’ll use the information you provide to help us get in touch with you to align your expertise with our opportunities and better direct our conversations.connect with us twitterlinkedinfacebookyoutube bloomberg is committed to attracting, developing and promoting the most qualified individuals without regard to race, color, religion or belief, sex, national or ethnic origin, ancestry, age, marital status, sexual orientation, gender identity, genetic predisposition or carrier status, veteran status, disability, or any other classification protected by law in your region.
+if you are an individual with a disability who may need assistance with our employment application process, please email us at access2@bloomberg.net to request an accommodation.© 2017 bloomberg l.p.  all rights reserved. privacy and termslog inemailpasswordforgot your password?log inuse your linkedin account to access your profile:inlog in with linkedindon't have a profile? create one now.application waiting for youyou have one or more applications created by recuiters on your behalf. would you like to review them now?if you like to review them later, you can find them under 'applications' tab in the 'my profile' section.yesnot nownot nowxforgot passwordenter the email address associated with your account and we will send you a new password.emailsend new passwordori remember my passwordan email has been sent to  containing a link to reset your password! please check your email.create a profileemailpasswordconfirm passwordcreate my profileor use your linkedin account to create and pre-fill your profileincreate with linkedinalready have a profile? log in.

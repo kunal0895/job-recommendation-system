@@ -1,0 +1,395 @@
+
+
+
+
+
+agronomic systems software engineer at monsanto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we hire
+working at monsanto
+inclusion & diversity
+student opportunities
+our benefits
+monsanto.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search our jobs  
+search our jobs
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+select radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+discover matches to jobs using your linkedin profile  »
+
+
+
+
+
+
+agronomic systems software engineer
+
+apply now
+apply later
+req id 01mq1 date posted 12/06/2017
+twenty years from now, the earth’s population will need 55% more food than it can produce now.  today, monsanto is working with farmers around the world to do something about it.  in over 60 countries, monsanto has established industry-leading products because we give professionals the freedom to make real decisions.  monsanto is an employer of choice with an outstanding professional development program and a history of building careers.   make an impact by joining the team that is working to solve one of mankind’s greatest challenges.monsanto’s global breeding automation engineering team is a group of technologists passionate about creating the systems that fuel the farm of the future.  we are reimagining and rebuilding our entire suite of field and lab technologies for the world of digital ag, a world that is geospatial, that is automated, that is cognitive.  a world where every plant matters.  a world where machines, agronomists, breeders, scientists, and engineers work collaboratively to deliver products that revolutionize the experience of our customers.  we are looking for a talented senior software engineer to join our agronomic field systems team located in chesterfield, mo and lead the way to enabling a whole new world of process automation capabilities. the evolution of data connectivity, user experience, machine learning, and supporting hardware technologies has provided us with a toolset to create the next generation of automated field agronomic systems. platforms such as planters, sprayers, and harvesters which enable the monsanto r&d pipeline where every plant has an identity and every seed matters. these systems will be data driven and provide real-time results that drive the decision-making capabilities of other machines and people.  you will assume hands on ownership of the architecture, engineering, and development of the software systems that will facilitate a new generation of data and human connectivity across all our field systems.individuals who will be successful in this role will thrive in a fast-paced, multifaceted r&d environment where collaboration is a must. you will be a lead technical contributor with a natural curiosity, innovative vision, and drive to realize that vision. your curiosity will empower you to become a system level expert, enabling you to understand business needs and question them when necessary.  applying your vision to this understanding of the “big picture” will drive the development of the roadmap that redefines the dynamic of automation, data, and human interaction. ultimately, the desire to see your vision succeed will be what motivates you to take the level of initiative and ownership necessary for the entire team’s success.responsibilities include:architecture, engineering, and development of field equipment software systemsability to drive software development in all phases of the product lifecycle as part of a small multi-disciplined engineering team.  this includes project planning, deriving requirements from system objectives, organizing and prioritizing work, and delivering results, and providing support.collaboration with engineering platform and engineering support teams to set prioritization of workinterfacing it and customer business units to ensure seamless enterprise integration of field automation platforms collaboration with other software engineering leadership required education and skills/experience:
+
+
+minimum of a bachelor’s degree in computer science or related field
+
+minimum of 5 years of experience architecting and developing applications and distributed software systems
+
+minimum of 5 years of object-oriented and functional programming experience (e.g. c#, c++, java, scala, etc.) 
+
+minimum of 5 years of relevant development experience related to process automation 
+
+experience developing in the .net ecosystem
+
+experience with and an understanding of the value of modern development concepts and practices including oo principles, unit testing, agile development, tdd, and continuous delivery (some tools we use are git, jira, jenkins, nuget, and xunit)
+
+experience engaging teams with various technical expertise and ability
+
+experience in customer engagement including ideation, design thinking, and seeking rapid feedback
+
+experience engaging business partners to drive requirements definition
+
+pride in software craftsmanship, enjoy diving deep into code and constantly innovating
+ 
+desired skills/experience: 
+
+
+experience as full-stack developer
+
+experience with plc programming using structured text
+
+experience developing on both unix-like and windows platforms
+
+understanding of the value and application of machine learning, neural networks, and analytics tools
+
+experience developing in the aws ecosystem and the different services offered
+
+familiarity and/or experience with genetic/molecular breeding/analysis technologies
+ 
+who is monsanto? 
+monsanto is an agriculture company with more than 20,000 employees focused on making a balanced meal accessible to everyone. we work to help farmers produce food in a more sustainable way. we think about how our food is grown so farmers have the tools they need to have better harvests.
+ 
+we believe that bringing diverse perspectives together is the most effective way to develop creative solutions to some of the world’s biggest challenges. career opportunities at monsanto range from farming, plant breeding, chemistry and engineering to marketing, environmental science, it and many other areas. we’re always looking for exceptional professionals interested in developing a strong career while collaborating to develop solutions for sustainable agriculture. sound like a job for you?
+ 
+why work with us?
+
+
+life at monsanto means collaborating with dedicated professionals in a stimulating environment
+
+our people demonstrate our winning culture through positive and meaningful relationships
+
+you will work with market leading brand products in a global organization
+
+we provide competitive salaries, excellent benefits, and some of the best career development opportunities in the industry
+
+monsanto is named great place to work in many countries around the world
+ 
+join our global team where your contribution will make a real difference!
+apply now
+apply later
+
+
+
+
+map
+st. louis
+view the area
+
+
+
+share
+
+facebook
+google+
+twitter
+linkedin
+email
+
+
+
+
+related jobs
+
+
+data scientist
+st. louis, missouri
+
+
+procurement supervisor
+santa fe, federal district
+
+
+plant reproductive biologist
+st. louis, missouri
+
+
+dicamba e&i engineer
+luling, louisiana
+
+
+customer service coordinator
+santa fe, federal district
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get job news and event updates
+first namelast namephone numberemail addressinterested insearch for a category / location, select a term from the suggestions, and click “add.”categorylocationaddengineering, st. louis, missouri, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        		800 n. lindbergh boulevard
+        		
+        		st. louis, mo 63167
+        	
+
+facebook
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|
+legal notice|privacy policy|
+contact us
+
+
+
+
+
+
+
+news & stories
+
+
+conversation
+
+
+news releases
+
+
+
+
+innovation
+
+
+products
+
+
+our brands
+
+
+seeds
+
+
+agricultural biologicals
+
+
+crop protection
+
+
+safety information
+
+
+
+
+
+
+company
+
+
+investors
+
+
+careers
+
+
+contact us
+
+
+more
+
+
+america's farmers
+
+
+modern agriculture
+
+
+monsanto fund
+
+
+
+
+
+sign up for our email newsletter
+
+        				the monsanto newsletter brings you the latest modern agriculture news each month.
+        			
+
+
+first name *
+
+last name
+
+email *
+
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|terms & conditions|privacy policy|contact us
+
+
+
+
+
+
+
+
+
+
+
+

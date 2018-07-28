@@ -1,0 +1,419 @@
+
+
+jobs :: temboo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sorry, temboo requires javascript! please enable it in your browser and try again.
+
+
+
+
+
+
+
+
+
+product
+
+
+
+
+
+
+								innovate with the temboo toolkit
+							
+
+
+
+
+
+										code generation
+									
+
+										connect to any api in any language on any device
+									
+
+
+
+
+
+
+
+										iot apps
+									
+
+										pre-built iot applications for different industries
+									
+
+
+
+
+
+
+
+
+
+										platform
+									
+
+									        technologies temboo combines and streamlines
+									
+
+
+
+
+
+
+
+										digital transformation
+									
+
+										enable your entire organization to stand taller
+									
+
+
+
+
+
+
+
+										manufacturing
+									
+
+										upgrade existing equipment with iot capabilities
+									
+
+
+
+
+
+learn about our plans
+
+
+
+
+
+
+docs
+
+
+
+
+
+
+
+quickstarts
+
+
+
+
+
+
+arduino
+
+
+
+
+
+samsung artik
+
+
+
+
+
+texas instruments
+
+
+
+
+
+
+
+android
+
+
+
+
+
+c#
+
+
+
+
+
+ios
+
+
+
+
+
+java
+
+
+
+
+
+javascript
+
+
+
+
+
+node.js
+
+
+
+
+
+
+
+php
+
+
+
+
+
+processing
+
+
+
+
+
+python
+
+
+
+
+
+rest api
+
+
+
+
+
+ruby
+
+
+
+
+
+
+
+watch videos to help you build
+
+
+
+
+
+need help getting started?
+
+
+
+
+
+
+
+company
+
+
+
+
+
+
+
+about
+
+
+
+
+
+case studies
+
+
+
+
+
+jobs
+
+
+
+
+
+buzz
+
+
+
+
+
+
+
+log in
+
+
+
+
+welcome back!
+
+
+
+
+
+
+forgot your password?
+
+
+log in
+
+
+
+
+
+
+forgot your password?
+
+
+
+cancel
+submit
+
+
+
+
+
+
+
+sign up
+
+
+
+
+
+
+
+
+
+
+jobs
+ui / ux creative lead
+engineer
+engineering manager
+product designer
+senior backend web engineer
+senior embedded engineer
+senior frontend engineer
+senior server engineer
+
+
+
+
+
+machine learning engineer
+
+
+
+do you want to help build tools that can change how the world works? we do, and we’d like you to join us. at temboo, we build software tools that people are using to fundamentally change the world around us. from life sciences and farming, to energy, aviation and smart cities amongst others, temboo is empowering people to build an amazingly diverse range of physical computing systems at the intersection of hardware, software and human aspiration, and we want you to help us as we grow and scale temboo. our customers use temboo to make everything from small, incremental improvements to transformative shifts in how we live our lives - reducing waste, increasing efficiency and enhancing quality of life. if you want to be involved in the next major wave in technology, while feeling great about how you’re spending your time, temboo is the place for you.
+we’re looking for a curious, skillful engineer to employ machine learning techniques to develop new features and products at temboo. you will be responsible for leveraging and advancing existing machine learning systems as you apply them to temboo’s increasingly rich sensor data and device activity dataset. you will lead the design, prototyping and productization of machine learning-based features, and take responsibility for introducing other temboo developers to machine learning projects.
+
+your specific technical skill-set is less important to us than your all-around intelligence, problem-solving ability, and eagerness for new challenges. it will be your responsibility to identify and introduce new languages and tools to support your machine learning initiatives.
+our team is wickedly smart, passionate about what we do, and committed to making programming faster, easier, and more fun. we are dedicated to defining elegant solutions to big challenges. help us re-imagine programming for hardware and software developers.
+
+what you'll be doing
+
+identifying opportunities to apply machine learning techniques to develop new temboo features, particularly those based on sequence mining
+working with other temboo engineers to implement machine learning algorithms in an efficient manner
+shipping new features based on your research
+continually observing and refining these features in production to improve behavior over time
+taking responsibility for maintaining our data collection, storage and processing infrastructure
+
+
+what we're looking for in you
+
+proven experience with developing machine learning systems in a professional or academic environment
+a deep understanding of the mathematical foundations of machine learning algorithms
+strong computer science fundamentals (notably algorithms and data structures, distributed systems and information retrieval)
+
+experience with relational database technology e.g, mysql, and distributed data storage and processing systems e.g., hadoop
+you’re a strong programmer, with experience in both scripting languages and strongly typed programming languages
+a willingness to learn and use new technologies, strategies, tools, and components
+strong written and verbal skills, with an ability to explain complex concepts to a varied audience
+experience in a startup environment
+
+
+does this sound like you? if so, drop us a line and let us know why you want to work at temboo. our company culture promotes individual contribution, innovation, excellence, and the belief that work should also be fun. we offer competitive compensation, a casual office environment, and respect for autonomy. we're looking for people who have interests outside of work as well (please mention some of these when you apply).  
+about temboo
+temboo is an nyc startup. our platform enables users to innovate at the intersection of hardware, software and human aspiration by providing the building blocks for connecting the physical world to web services and cloud-based processes. our software currently ships on devices from samsung, texas instruments, and arduino, with more to come! we’re continually amazed at how people are applying our technology -  our tools are used by people who are fundamentally changing how the world works. from life sciences and farming, to energy, aviation and smart infrastructure amongst others, temboo is empowering people to build an amazingly diverse range of physical computing systems. our customers use temboo to make everything from small, incremental improvements to transformative shifts in how we live our lives - reducing waste, increasing efficiency and enhancing quality of life. if you want to be involved in the next major wave in technology and help build tools that can change how the world works, then temboo might be the place for you.
+check out a live demo to see it in action. join us in re-imagining programming.
+how to apply
+email us at jobs@temboo.com, including your resume and a note about yourself (please use “machine learning engineer” in the subject line).
+ 
+
+
+
+
+product
+code gen
+iot apps
+platform
+pricing
+
+
+learn
+docs
+videos
+news & insights
+support
+
+
+company
+about
+jobs
+case studies
+contact
+
+
+innovate
+digital transformation
+manufacturing
+education
+
+
+
+
+
+
+
+
+
+
+© 2017 temboo, inc
+privacy
+terms
+ 
+
+
+
+

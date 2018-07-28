@@ -1,0 +1,131 @@
+
+
+
+careers center - sql data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+sql data engineer
+
+
+job locations
+
+us-ut-draper
+
+
+
+
+
+category
+
+technology
+
+
+
+
+
+
+job description
+
+
+
+
+progressive is blazing a path at the intersection of technology and consumer leasing and we have an exciting new opening for a data engineer for our data science team in our draper, utah office.  as a data engineer you will support progressive’s data science team and will be responsible for creation and maintenance of databases, tables, data flows, and reporting dashboards covering every aspect of the company’s activities. you will understand the nuances of the data and ensure that each field in each table is properly named, populated, documented, and used. you will maintain high data quality and integrity by identifying and eliminating ambiguity, duplication, data errors, and inefficient data flows. the data that you maintain is a key strategic and competitive advantage for progressive, and will form the backbone of analysis that drives the company’s business decisions.   what you'll do: build, manage, maintain, and optimize the data infrastructure of progressive leasing curate structured, semi-structured, and unstructured data and take part in proper system and database design for each type collaborate with data scientists and other team members on project work including algorithm development and business analysis be a critical part of a scrum team in an agile environment, ensuring the team successfully meets its deliverables each sprint ensure the appropriate level of system and service monitoring and instrumentation is in place at all times provide clear, accurate, timely, and 100% transparency to the status of service related efforts, issues, upgrades, etc. continuously innovate, learn new skills, develop your talents, and exercise a passion and drive to deliver excellence minimum experience & qualifications:  a successful candidate will have hands-on experience in a multitude of domains; including, but not limited to database design, data warehousing, business intelligence, big data, database tuning, application optimization, security, virtual computing and storage, incident tracking, and general database administration b.s. degree in computer science, information technology, or equivalent experience (required) three or more years’ experience including enterprise data warehouses, business intelligence, and mdm knowledge and familiarity with concepts in predictive analytics expert level knowledge of microsoft sql server expert level knowledge of sql administration, engineering, and monitoring tools expert level knowledge of designing, constructing, administering, and maintaining data warehouses solid experience working with ssis and ssrs or similar tools  solid experience years working with various business intelligence tools  solid experience with change control and agile methodologies  a passion for efficiency, stability and creativity  experience with performance tuning  compensation, perks & benefits:competitive compensationfull health benefits - medical/dental/vision401k, paid time off and tuition reimbursementfull service gym, game and lounge area, basketball courtfree healthy snacks and refreshmentssubsidized public transitfun and relaxed work environment who is progressive leasing?  founded in 1999, progressive leasing, a wholly-owned subsidiary of aaron’s inc. [nyse: aan], is a steadily growing company, already surpassing $1b in revenue. our scalable customer payment software products provides lease-purchase technology solutions through 16,000+ retail locations in 46 states. progressive leasing does not discriminate in any aspect of employment on the basis of race, color, religion, national origin, ancestry, gender, sexual orientation, gender identity and/or expression, age, veteran status, disability, or any other characteristic protected by federal, state, or local employment discrimination laws where progressive leasing does business. all new hires must pass a pre-employment criminal background check and drug test
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

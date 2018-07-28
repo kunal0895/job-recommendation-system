@@ -1,0 +1,149 @@
+
+
+
+
+
+
+full stack developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            full stack developer        
+
+
+
+
+
+
+
+
+
+ return to job opportunitieslevel entryjob location corporate - austin, txposition type full timeeducation level 4 year degreejob category professional servicesdescription we’re a small team of experienced developers determined to change modern mobility, including the entrenched car rental industry. we emphasize team ownership, iterative development, and moving fast without breaking things.
+we’re looking for someone who can drive development of restful apis while building out a rapidly scaling backend. ideal candidates will have experience with web programming, be comfortable working with aws infrastructure, know the ins and outs of whatever frameworks and libraries they currently use, and be open to mastering new frameworks when necessary.
+we are currently hiring full-stack engineers for all experience levels: sde i, sde ii and senior sdes. applicants should have a minimum of 1+ years of professional software development experience and fluency in at least one dynamic language (ruby preferred). at silvercar you might be:
+building apis for our client facing apps in ruby on rails
+interacting with data stores like rds, elasticache, redis, and others
+creating and maintaining scalable infrastructure leveraging modern aws products
+building amazing ux client side apps with angular, bootstrap or other js frameworks
+writing tests and documentation as you work through feature development with your scrum team
+maintaining expertise in current and emerging technologies and tools
+your technical friends would say you:
+really grok your ci (jenkins, etc) and source control tools (git)
+can't go to sleep knowing your tests are failing
+really know about scalable infrastructure
+love agile development and delivering code
+make things work, get things done and are a great communicator
+would never consider yourself a rockstar ninja
+know what an automotive can bus is
+think unlocking an audi via ssh sounds awesome
+your non-tech friends might even say you:
+make excellent, informed, decisions and know when to ask for advice
+take your work seriously, but you don’t take yourself too seriously
+enjoy mentoring others and leading by example
+love to learn new things and can do so quickly
+like working in teams
+leave things better than you found them
+we offer:
+competitive base salary with bonus incentive eligibility
+full benefits (medical, dental, vision, 401k, pto)
+working in a dynamic team in downtown austin alongside other developer product-owners
+friendly, small company environment with progressive culture and flexible hours, backed by a 107 year old automotive industry leader
+ return to job opportunities 
+
+
+
+
+first time user?
+create account
+
+
+
+returning user? please sign in!
+
+
+sign in
+
+forgot password?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

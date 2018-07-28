@@ -1,0 +1,311 @@
+
+
+
+        software engineer- robot reliability -        bossanova robotics -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova, we create service robots for the global retail industry. our robots' mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we are passionate about solving big problems and bringing solutions to our customers. we are growing fast and have many exciting open positions. if you are up to the challenge, we want to hear from you.  
+
+
+
+software engineer- robot reliability
+
+
+pittsburgh, pa                    
+
+full time                
+
+software engineering                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova we create service robots for the global retail industry. our robots’ mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we drive autonomously through aisles, navigating safely among customers and store associates. if we were a self- driving car we’d be operating at level 5 autonomy.
+
+oh, we should add, it’s real, happening today, you can meet our robots in some of the world’s biggest retailers.
+ 
+position: software engineer- robot reliability 
+location: pittsburgh
+the role...
+we are currently looking for an engineer with a background in software development to work in the robot reliability engineering group.  the robot reliability engineering group is focused on:
+reliability:  we find ways to improve the design and operation of systems, making them more reliable, scalable, and resilient and efficient.  in addition to increasing reliability, we add new features and build new products.
+engineering:  we apply the principles of computer science and engineering to the design of robot hardware, software, and the it infrastructure that supports the rapidly growing robot fleet.
+process improvement:  we examine, analyze, and improve the processes that are used to develop, deliver and support the robot hardware, software and support services.
+the robot reliability engineer holds together our customers, fields technicians, and engineering.  you can expect to be working with an eclectic variety of engineers and gain a broad knowledge of disciplines including hardware, software development and deployment, cloud, image and data analysis, as they relate to our robot.  you’ll do all this with the knowledge that you’re part of a team that is putting robots in very public places for the first time in history.
+background and skills:
+
+5+ years experience.
+software development background with skills in an object oriented language such as c++ or java or python.
+proven working experience in installing, configuring and troubleshooting unix /linux based environments.
+solid scripting skills (python)
+strong background in the linux operating system and networking.
+working knowledge of various build and packaging systems such as cmake
+development of systems that are used in real time control systems, including interfaces to hardware and sensors.
+hands-on troubleshooting of both hardware and software.
+exposed to other types of peripherals such as camera, lidar, etc. a plus
+development of cloud applications, including experience with azure or aws.
+experience with automated testing processes and tools.
+familiarity with the software product development lifecycle from concept through development and testing, deployment and support, using both waterfall and agile methodologies.
+proven experience with hardware and software troubleshooting, pareto analysis and other problem solving techniques.
+strong communication skills.
+able to work in a dynamic, rapidly changing environment, with aggressive deadlines.
+bs/ms degree in computer science, engineering or a related subject
+must be willing to travel occasionally to customer sites.
+
+us work authorization.
+
+ 
+ 
+ 
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

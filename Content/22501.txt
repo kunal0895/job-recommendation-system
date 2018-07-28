@@ -1,0 +1,455 @@
+
+
+
+
+ staples research scientist job in framingham, ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+login|
+
+
+
+
+join our talent network
+search jobs
+career opportunities 
+
+digital solutions
+sales
+supply chain
+retail
+corporate
+university
+
+
+locations
+staples life
+
+
+
+
+
+
+
+
+
+
+we want you.
+learn more about this opportunity.
+
+
+
+
+search jobs
+
+
+country
+canada
+united states
+
+
+
+
+state/region
+
+
+
+
+keyword
+
+
+
+function
+retail locations
+        
+distribution/warehouse/transportation
+        
+retail management
+        
+outside sales
+        
+technology
+        
+inside sales
+        
+customer service/contact centers
+        
+supply chain/logistics/inventory planning
+        
+pricing
+        
+print solutions
+        
+marketing
+        
+finance
+        
+human resources
+        
+ecommerce
+        
+store operations
+        
+administration
+        
+merchandising/buying
+        
+strategy
+        
+
+            more...
+        
+
+
+search
+reset
+
+
+
+
+
+
+
+ careers home
+>
+  research scientist job in framingham, ma
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+research scientist 
+function: supply chain/logistics/inventory planning
+location: staples corporate center, 
+
+
+ framingham,
+ ma 
+ us 
+
+
+
+date posted: 11/21/2017 4:59:34 pm
+type: full-time
+permanent / contract: regular
+job number: 1027199
+descriptionintroduction
+as our company slogan
+states, the staples’ supply chain is making
+things happen for our customers every day through our network of more than
+30 warehouses, 1300 1200+ stores, and hundreds of delivery trucks.
+and even though we
+already operate the best supply chain in our industry, we need talented
+individuals like you to help us leverage advanced analytics and optimization
+algorithms to achieve breakthrough performance levels.
+position
+summary
+the scientist is responsible for applying
+advanced analytical methods to drive business-critical decisions at staples.  using mathematical optimization, statistical
+analysis and machine learning the individual plays a key role in supporting the
+development of state-of-the-art solutions to complex decision-making problems.
+these problems will
+come from all parts of the staples supply chain and will include challenges
+like:
+developing and implementing vehicle routing
+algorithms to optimize last mile parcel delivery and build optimization models
+to support the development of an international transportation network using
+multiple modes including truck load, ltl and ocean freightdeveloping demand prediction models to estimate
+transportation and labor capacity and build scheduling tools to support
+improvements in delivery speed and customer service while driving growth and increase
+profitability building and deploying algorithms that reduce
+order fulfilment costs across the staples warehouse and transportation network
+through robotic automation, process control, and capacity optimization
+primary responsibilities
+work
+closely with key business partners to understand critical, complex, data-driven
+business and operations challenges, and then apply analytical methods to solve
+them – resulting in a significant, positive impact on the staples’ bottom-line.research,
+design, and implement data models and innovative algorithms to analyze diverse
+sources of data to realize actionable resultscommunicate
+results to executive leadership
+qualificationsbasic qualifications
+ms
+in computer science, statistics, operations research, applied mathematics, applied
+physics or related field, plus 3-5 years industry experiencephd
+in computer science, statistics, operations research, applied mathematics, applied
+physics or related field, plus 0-3 years industry experiencehands-on
+experience with mathematical modeling, and mathematical optimization techniques
+and technologies as well as advanced machine learning, data mining, statistical
+inferencehands-on
+experience with querying databases in order to drive required analysis
+independently and swiftlyexcellent
+ability to communicate complex quantitative analysis in a clear, precise, and
+actionable manner with both technical and non-technical stakeholders.keen
+attention to detail, and ability to dive deep
+ 
+preferred qualifications
+experience
+developing large scale systems using parallel and distributed computingexperience
+working with development toolsets such as spark, hadoop, python, c++, java, r,
+h2o, shiny, docker, mysql, teradata, nosql, etc.experience
+using deterministic and non-deterministic mathematical programming, constraint
+satisfaction, advanced supervised and unsupervised learning techniques, natural
+language processing, robotics, markov decision process, and control theory experience
+with various areas of the supply chain such as customer order, inventory,
+warehouse, and transportation managementexperience
+with financial modelling
+additional
+requirements
+the
+ability to think big, manage ambiguity to move quickly and deliver results in
+an entrepreneurial environment fearless
+but thoughtful in their pursuit of results flexible
+and resourceful, and easily adaptable to changes in environment and
+prioritization possess
+excellent business judgment, and a practical, common-sense approach to getting
+things done
+staples is an equal
+opportunity employer. all qualified applicants will receive consideration for
+employment without regard to race, color, religion, sex, gender identity,
+sexual orientation, age, national origin, protected veteran status, disability,
+or any other basis protected by federal, state, or local law.
+staples is committed
+to providing accommodation to people with disabilities throughout the job
+application and interview process to the point of undue hardship.  if you require an accommodation during the application
+or interview process, please contact a customer care representative at
+1-877-782-7537.
+
+staples
+
+
+apply now
+       
+
+
+
+link for schema
+
+
+back
+
+
+
+there's more to explore
+
+
+
+
+staples life
+
+
+
+
+
+
+community
+
+
+
+
+
+
+inclusion
+
+
+
+
+
+
+
+
+
+
+stay connected
+
+
+
+
+follow us onfacebook
+
+
+
+
+
+follow us onlinkedin
+
+
+
+
+
+follow us ontwitter
+
+
+
+
+
+follow us onyoutube
+
+
+
+
+
+follow us oninstagram
+
+
+
+
+
+follow us onglassdoor
+
+
+
+
+
+
+
+
+about
+
+
+benefits
+
+
+success stories
+
+
+corporate responsibility 
+
+
+
+inclusion
+
+
+community
+
+
+
+
+equal opportunity employer
+
+
+disability accommodation
+
+
+powered by smashfly
+
+
+
+
+
+
+
+
+
+×
+
+
+staples is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, age, national origin, protected veteran status, disability, or any other basis protected by federal, state, or local law.
+for individuals with disabilities that need additional assistance at any point in the process, please call 1-800-270-9560 or email staffing@staples.com for more information.
+eeo is the law english version – revised november 2009
+eeo is the law supplement english version – revised september 2015
+pay transparency nondiscrimination provision
+
+
+
+
+
+
+
+
+×
+
+
+staples is committed to providing accommodation to people with disabilities throughout the job application and interview process to the point of undue hardship. if you require an accommodation during the application or interview process, please contact a customer care representative at 1-866-782-7537.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

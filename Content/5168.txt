@@ -1,0 +1,245 @@
+
+
+
+
+job application for machine learning research scientist at nutonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+machine learning research scientist
+
+        at nutonomy
+      
+(view all jobs)
+
+        boston, ma
+      
+
+
+nutonomy aims to be the first company in the world to launch an autonomous taxi system, and we are building up an awesome team to make this goal a reality. we are developing the first-of-its-kind complete solution for providing point-to-point mobility via large fleets of autonomous vehicles. this includes software for autonomous vehicles, smartphone-based ride hailing, fleet management, and teleoperation. the company's software has been tested extensively on public roads in the u.s. and singapore. we offer a unique opportunity to work closely with experts from a wide array of backgrounds, to create ground-breaking technology with potential for huge impact. as a member of a fast-growing start-up, you will be able to make a large contribution to the final product. for more information about nutonomy, visit: www.nutonomy.com
+ 
+we are seeking a highly talented machine learning research scientist in boston, ma to support a variety of teams and projects, including the following:
+
+create a generative model of traffic from data collected on-board our vehicles. validate trained models against traffic patterns observed in the real-world.
+given a scenario template or generative model of traffic, explore the scenario space in a systematic way to find the most difficult / challenging set of parameters for our system.
+create a data driven sensor model from data collected on-board our vehicles. 
+
+things you’ll work on:
+
+design and apply machine learning algorithms and evaluate their performance on real-world and simulated data sets 
+translate generated algorithms into production-level code
+collaborate with various teams to achieve objectives in improving system performance and simulation quality
+
+ 
+education and skills you’ll likely have:
+
+in-depth understanding of common machine learning algorithms (e.g., for classification, regression and clustering)
+track record in advanced topics of machine learning (e.g., bayesian inference, hierarchical models, deep learning, gaussian processes, etc.)
+practical experience in preparing data for machine learning (ideally data from the robotics domain)
+fluency in in python, r, or julia (and their related data processing, machine learning, and visualization libraries)
+programming experience in c++ preferred
+masters or phd in cs, aerospace, robotics, or similar engineering field
+
+bonus points:
+
+familiarity with autonomous robotics and vehicle systems
+experience with behavior modeling and intent interpretation research work
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you legally authorized to work in the united states?
+    
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

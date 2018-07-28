@@ -1,0 +1,687 @@
+
+
+	open positions | trellist.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+trellist
+
+
+
+
+
+
+about us
+services
+industries
+insights blog
+news & press
+careers
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+consulting
+
+
+overview
+
+
+services
+
+
+success stories
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+branding + marketing
+
+
+overview
+
+
+success stories
+
+
+services
+
+
+measurement matters
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+digital
+
+
+overview
+
+
+success stories
+
+
+services
+
+
+credentials
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+enterprise technology
+
+
+overview
+
+
+success stories
+
+
+services
+
+
+credentials
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+staffing
+
+
+overview
+
+
+services
+
+
+success stories
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+
+
+
+about us
+
+services
+industries
+insights blog
+news & press
+careers
+contact us
+
+
+
+
+
+
+
+home
+consulting
+
+
+overview
+
+
+services
+
+
+success stories
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+branding + marketing
+
+
+overview
+
+
+success stories
+
+
+services
+
+
+measurement matters
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+digital
+
+
+overview
+
+
+success stories
+
+
+services
+
+
+credentials
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+enterprise technology
+
+
+overview
+
+
+success stories
+
+
+services
+
+
+credentials
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+staffing
+
+
+overview
+
+
+services
+
+
+success stories
+
+
+leadership
+
+
+featured headlines
+
+
+contact us
+
+
+
+
+
+
+
+
+
+
+
+about us
+
+services
+industries
+insights blog
+news & press
+careers
+contact us
+
+
+careers
+
+
+
+
+we can make a place for youwhile we are highly selective in our hiring practices, we are constantly evaluating talent, regardless of posted openings. we proactively seek candidates who are analytical, creative and entrepreneurial. think you're a good fit for trellist? send us your résumé.
+
+open positionsour open positions listing includes openings with trellist as well as within other companies. you'll find full-time, permanent, and contract-to-hire opprotunities.
+
+
+
+
+
+
+                job title / description
+            
+
+                location
+            
+
+                employment type
+            
+
+
+
+
+
+it webmaster
+
+                            wilmington 
+                        
+
+                            contract, cotract to hire, or full time
+                        
+
+
+
+the primary responsibility of the it webmaster will be to develop and manage the functionality and effectiveness of our online properties. the successful candidate can demonstrate a high level of creative thinking and digital technical know-how.
+responsibilities
+
+general description: as part of the it group, you will work closely with the global digital team to provide it support including set-up, management and hosting activities for the new web presence of a global organization
+
+responsible for the health of the technical infrastructure such as hosting configuration, cms platform and supporting applications
+manage software updates and coordinate the repair of technical issues across the applications
+manage and lead relationships with external vendors and coordinate with internal and external technical teams
+maintain high quality global site optimization by identifying and managing performance-related issues
+stay abreast of industry and field developments; current in the latest technologies, as well as the ever-evolving needs of the business and its customer base.
+
+requirements
+
+bachelor’s degree or equivalent
+demonstrated experience managing the technical infrastructure of a global organization, along with hosting, and cms management
+expertise with html5, xml, css3, javascript a plus
+7+ years direct experience in web administration, development or content management, with proven success implementing digital strategy
+experience designing and implementing global disaster recovery programs
+multi-tenant environment set up and maintenance
+excellent project management and time management skills.
+ability to organize and manage multiple priorities and perform problem analysis and resolution at strategic and functional levels
+must thrive in a fast-paced environment focused on innovation, teamwork, and results
+excellent verbal and written communication skills.
+
+highly-energized and creative thinker.
+                            location:wilmington 
+salary:doe
+job type:technology
+experience:sr
+employment type:contract, cotract to hire, or full time
+send us your résumé
+back to open positions »
+
+
+
+
+
+front end developer
+
+                            wilmington or philadelphia
+                        
+
+                            contract, contract to hire, or full time
+                        
+
+
+
+we are a full-service, digitally focused, hard-working, hard-playing, fiercely independent agency still on the rise after 20 years…and we’re looking for a talented html email developer to help ensure that growth continues.
+we are not just looking for an exceptional coder. we are looking for someone who has the ability to learn quickly with a keen eye for exacting, pixel-perfect detail.  if you are a let’s talk self-starter looking for an opportunity to work with a dynamic team and a worldwide brand,.
+responsibilities
+
+architect, design, prototype, code, test, deploy, maintain, and improve high-performance server-side software and systems.
+collaborate with product managers, ux designers, and the rest of the team to deliver a compelling platform and product.
+writes modern and efficiently maintainable code, and maintains high standards of quality and output.  
+strong analytical and problem-solving ability. enjoys collaboration, and seeks input and constructive criticism to bullet proof proposals.
+proficient in saving images for responsive web; photoshop and illustrator knowledge a plus.
+organized, detail oriented, and having a solid understanding of marketing, corporate communications and branding
+online portfolio with links to relevant work samples
+
+qualifications
+
+3+ years general programming experience with, ajax, jquery and semantic html.
+experience in designing and building infrastructure and web services at large scale
+knowledge of browser quirks and their remedies.
+experience building front-end code with server-side technology.
+knowledge of (and a passion for) current trends and best practices in front-end architecture, including performance, accessibility, security and usability.
+
+extra credit:
+
+extensive programming experience with java, javascript, c/c++, c#, objective-c, swift, python; django, reactjs, etc
+strong object-oriented skills including design, coding, and testing patterns
+experience writing clean, unobtrusive javascript and experience with common libraries (jquery and angular/ember/react) and debugging tools (knowledge of native dom and event apis.
+
+location:wilmington or philadelphia
+salary:doe
+job type:marketing
+experience:mid-sr
+employment type:contract, contract to hire, or full time
+send us your résumé
+back to open positions »
+
+
+
+
+
+php or .net developer
+
+                            wilmington, de
+                        
+
+                            contract, possible contract-to-hire
+                        
+
+
+
+
+
+we are currently seeking a developer with strong problem-solving and front end web application development skills, who possesses excellent communication talents and has a focus for new and evolving development languages.   
+requirements 
+
+strong knowledge of wordpress, core api and object oriented design 
+also skilled in the following: html, css, html5, javascript 
+develop cross-browser/platform compliant websites to match design specs for complex page layouts while adhering to code standards 
+understand client concepts and provide proper estimation of time needed to complete 
+manage multiple small and large development projects with tight deadlines 
+ensure absolute accuracy and high standards for detail throughout the development process 
+use of version control tools such as git or svn (not required, but strongly desired) 
+keep up to date on emerging trends, technologies, and market developments 
+develop quality code for website and other internal systems. 
+ensure quality work delivered and maintains professionalism at all times. 
+proficiency in mvc development in .net and/or php 
+proficiency with ms sql server and/or mysql 
+proficiency in front end html development 
+working knowledge of sdlc. 
+able to work independently with minimal supervision. 
+able to meet deadlines and work under pressure. 
+
+qualifications 
+
+customer relationship skills or past experience 
+excellent communication and collaboration skills 
+understanding and/or skilled with responsive and mobile design (strongly desired) 
+interest or previous project management experience (not required) 
+
+some experience with agile development methodologies 
+
+location:wilmington, de
+salary:to be determined based on candidate's experience
+job type:technology
+experience:jr. mid
+employment type:contract, possible contract-to-hire
+send us your résumé
+back to open positions »
+
+
+
+
+
+sharepoint developer
+
+                            greater philadelphia
+                        
+
+                            contract, possible contract-to-hire
+                        
+
+
+
+
+
+ we are looking for a jr. level to sr. level sharepoint developer to join our firm to help provide solutions to our client’s collaboration and workflow needs. we are involved in multi-year sharepoint 2010 
+sharepoint 2010 to o365 application development and migration..
+
+
+
+
+
+this individual would be required to directly interact with clients and trellist team members to consult, prototype, and deliver technical solutions that meet the client’s business needs.
+
+
+
+
+responsibilities:
+
+
+    design and development of business intelligence dashboards
+
+    implementation and customization of sharepoint-based solutions
+
+    participate in customer meetings to gather business and technical requirements for projects
+
+    design, build, stabilize, and deploy applications using sharepoint, front end html, javascript, and related technologies in a team setting
+
+    apply and share knowledge; contribute ideas and opinions
+
+
+
+
+qualifications:
+
+
+    experience with sharepoint from version 2010 to o365
+
+    experience using sharepoint designer to design workflows and data view web part design and soap (web services)
+
+    experience with designing forms and lists using microsoft infopath 2007 and 2010
+
+    some experience with both scripting and the program languages (  jquery, javascript, ajax, xml, html 5)
+
+    ability to work well in a team environment
+
+    strong analytical skills and good problem solving skills
+
+    strong self-starter who is able to successfully multi-task
+
+    proficiency in microsoft office applications
+
+    development of custom web parts (a plusnot required
+
+    knowledge of the .net framework (a plus not required)
+
+    strong knowledge of visual studio (a plus not required)
+
+
+
+
+founded in 1995, trellist marketing and technology is a mid-size professional services firm with practice areas in business strategy, marketing & branding, it & application development, and education & elearning. trellist offers high-level strategic consulting and tactical design & development, as a full-service agency or a resource management organization. headquartered in wilmington, de, trellist works with global, national and regional clients.
+
+
+
+if you are interested in applying, please send us your resumé and reference number: tr0002-js in the subject line. this must be included in the subject line, to ensure that your resumé is routed properly.
+
+
+
+ 
+
+location:greater philadelphia
+salary:to be determined based on candidate's experience
+job type:technology
+experience:jr. - sr. level
+employment type:contract, possible contract-to-hire
+send us your résumé
+back to open positions »
+
+
+
+
+
+
+
+
+
+
+
+
+wilmington - corporate hq
+117 n. market st.
+suite 300
+wilmington, de 19801
+
+302.778.1300
+info@trellist.com
+
+
+
+
+philadelphia - navy yard
+4747 s. broad st. bldg. 101
+suite 233
+philadelphia, pa 19112
+
+267.546.0500
+info@trellist.com
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+
+
+privacy policy© copyright 2017, trellist, inc. all rights reserved. images and logos used are the property of their respective owners and may not be used or reproduced without permission.
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+
+
+
+

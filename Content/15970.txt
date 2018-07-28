@@ -1,0 +1,448 @@
+
+
+
+
+
+software development engineer at go daddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+careers
+open menu
+
+
+godaddy life
+our teams
+benefits
+university students
+
+
+blog
+godaddy home
+
+
+
+facebook
+twitter
+glassdoor
+youtube
+instagram
+linkedin
+
+
+
+
+0
+
+saved jobs
+
+there are no jobs saved
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+keyword
+
+
+
+category
+category
+business development
+commercial
+corporate operations
+customer consultation & care
+data, network and security system
+finance & accounting
+ict and information systems
+marketing and product
+other
+other education
+people operations
+pr/social/communications
+project management
+project/program management
+software engineering
+user experience
+workforce management
+
+
+
+country
+country
+brazil
+china
+france
+germany
+mexico
+philippines
+serbia
+united kingdom
+united states
+
+
+
+state/region
+state/region
+acre
+alsace
+arizona
+bavaria
+california
+central serbia
+england
+iowa
+massachusetts
+north rhine-westphalia
+shanghai shi
+washington
+
+
+
+city
+city
+belgrade
+cambridge
+carlsbad
+cologne
+encinitas
+england, united kingdom
+gilbert
+hiawatha
+hürth
+ismaning
+kirkland
+london
+los angeles
+nottingham
+san francisco
+scottsdale
+shanghai
+slough
+strasbourg
+sunnyvale
+tempe
+woking
+
+
+
+go
+
+
+
+or
+search jobs based on your linkedin profile
+
+
+
+
+
+
+share:
+
+email
+facebook
+twitter
+linkedin
+
+
+
+
+
+
+
+
+software development engineer
+gilbert, arizona
+
+
+apply
+
+
+
+
+overview
+success profile
+job description
+benefits
+trending
+map
+
+
+
+overview
+godaddy engineers are shifting the global economy to support small businesses worldwide to create beautiful online experiences for their customers that help them grow and manage their business. we work fearlessly to build innovative solutions, platforms and business applications tailored to the unique needs of the small business owner. using a collaborative, agile, small team approach we make cutting edge technologies simple and effective. our team of technologists do the heavy lifting, so our customers can focus on making their dreams come true.
+
+
+
+full-time
+
+
+
+level: mid
+
+
+
+travel: yes
+
+
+
+
+
+
+
+
+success profile
+what makes a successful software development engineer employee at godaddy? check out the traits we're looking for and see if you have the right mix.
+
+
+problem-solver
+focused
+organized
+self-starter
+stratetgic
+visual
+
+
+0
+10
+
+
+adaptable
+detail-oriented
+communicator
+multi-tasker
+creative
+perceptive
+tech savvy
+quick-thinking
+
+
+
+
+job description
+at godaddy, we strive to make our customers successful by creating innovative solutions and managing those solutions to provide exceptional customer service. our platforms utilize open source software, perform at a large scale, and push the limits of technology. some examples include: petabytes of internet addressable storage, multi-thousands of content serving servers, multi-level caching tiers, configuration management, continuous deployment, and everything between.godaddy powers the world's largest cloud platform dedicated to small, independent ventures. with nearly 17 million customers worldwide and over 71 million domain names under management, godaddy is the place people come to name their idea, build a professional website, attract customers and manage their work. our mission is to give our customers the tools, insights and the people to transform their ideas and personal initiative into success. to learn more about the company visitwww.godaddy.com.we're looking for a passionate software engineer who has a keen understanding of high performance, scalable architectures and technologies. you will have an active role in developing new features for our latest hosting products using a variety of technologies. your contribution will have a direct and visible contribution to godaddy’s growth in domestic and international markets.you will be working on a collaborative agile team who embraces tdd, ci/cd, rapid, iterative development, and open source technologies. the right individual will be self-driven and someone who cares about maintainability of the code, automation, deployment processes and how to enable innovation. they will go beyond just development and help to shape the engineering culture and best practices here at godaddy. responsibilities:coding, unit testing, and integration testingdebug complex issues found in production between multiple systems or servicesdesign fault tolerant, redundant systems that are highly availableleverage modern best practices such as test driven development and continuous integration to deliver early and oftenparticipate in and help lead various agile ceremony meetings (sprint planning, stand-up, pair-programming, code reviews, retrospective, etc.)coach other members of the team on technology and best practicesrequirements:bs in computer science, computer engineering, math, or equivalent experienceexpertise in multiple modern programming languages across multiple platforms and systems (java, python, php, c#, ruby, etc.)comfortable with full development stack (e.g. ux, web, api, business logic, database).expert knowledge in scrum and/or other agile development methodologiesexperience in a mixed operating system environment (windows, linux)lifelong learner, always willing to accept new opportunities and always curious to gain new skills#li-lm1about godaddygodaddy powers the world's largest cloud platform dedicated to small, independent ventures. with nearly 17 million customers worldwide and over 72 million domain names under management, godaddy is the place people come to name their idea, build a professional website, attract customers and manage their work. our mission is to give our customers the tools, insights and the people to transform their ideas and personal initiative into success. to learn more about the company visit www.godaddy.com.godaddy is proud to be an equal opportunity employer. we will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. godaddy will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.if you need assistance completing an application for a position with us, please reach out to our recruiting team at recruiting@godaddy.com
+apply
+
+
+benefits
+
+
+
+healthcare
+godaddy helps keep employees fit and healthy with generous health benefits. from the best medical, vision, dental, and disability to on-site health and wellness assessments and employee assistance plans.
+
+
+
+tuition reimbursement
+godaddy is a strong believer in the value of higher education. the education reimbursement program encourages our employees to pursue further education and advancement at the company.
+
+
+
+professional development
+godaddy offers programs to help advance the careers of our employees. programs include instruction led by our trainers, as well as opportunities for tuition reimbursement.
+
+
+
+pto
+godaddy encourages employees to take time away from work to live passionately. godaddy goes above and beyond to provide opportunities to enjoy time away from work and we provide generous time away to rest & recharge.
+
+
+
+work/life balance
+we know that maintaining a work/life balance is the key to success. at godaddy, we provide many perks and amenities to help facilitate this balance.
+
+
+
+retirement plans
+godaddy looks closely at the retirement provisions and provides a competitive 401k employer match program. our retirement plans are designed to fund a comfortable retirement for our employees.
+
+
+
+
+
+
+the amazing thing about godaddy wasn't that we were able to define a company standard and have that standard meet or exceed our goals in defining it. the amazing thing was how open the teams were to joining forces to investigate, decide, evangelize and engage on a change like this.
+
+chris evans,
+vp of engineering
+
+
+
+i haven't met a developer yet who doesn't want to change the world for the better with their work.
+
+blake irving,
+chief executive officer
+
+
+
+the product team combines data and customer insight to deliver impactful experiences around the world.  working here is an opportunity to make a difference globally by helping individuals make a living and bring their ideas from inception to reality.
+
+steven aldrich,
+chief product officer
+
+
+
+
+
+>
+<
+
+
+
+
+the innovative soul of an engineer, by sam ng - senior director of engineering at godaddy
+read more
+
+
+
+
+hiring for culture, by chris evans - vice president of engineering at godaddy
+read more
+
+
+
+
+mastering the feedback loop, by steven aldrich - chief product officer at godaddy
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ work at godaddy:
+view available locations for this position
+
+
+
+explore our city:
+work at godaddy:
+
+
+
+
+
+
+
+
+
+
+
+
+never underestimate the power of a toy
+employee spotlight - joshua
+
+
+learn more
+
+
+
+
+
+
+truths and trolls: 
+comfort zones are slow dream killers
+employee spotlight - kim
+
+
+learn more
+
+
+
+
+
+
+at the soul of every engineer is a desire to exhale that supernatural breath that is uniquely inside each and every one of us.
+the innovative soul of an engineer
+
+
+learn more
+
+
+
+
+
+
+
+
+
+our diverse employee population reflects the customers we serve. we support and celebrate everyone on our team through our employee resource groups, open and inclusive to all.
+learn more
+
+
+
+
+
+
+
+
+legal
+privacy policy
+advertising preferences
+cookies
+
+copyright © 1999 - 2017 godaddy operating company, llc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

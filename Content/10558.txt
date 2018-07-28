@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ arm - graduate data scientist - san jose ca 95134
+
+
+
+
+
+
+
+
+search for careers
+arm careers
+
+
+search for careers
+our culture
+our impact
+experienced
+early careers
+students
+
+
+
+
+
+
+
+
+×
+
+employment
+
+
+categories
+
+
+country
+
+
+
+
+
+
+students/interns
+contractors
+consultants
+temporary
+graduate
+experienced professionals
+
+
+
+
+category 1
+category 2
+category 3
+category 4
+category 5
+category 6
+
+
+
+
+country 1
+country 2
+country 3
+country 4
+country 5
+
+
+
+
+
+
+search
+
+
+
+
+
+
+careers at arm
+
+
+
+
+
+
+
+
+
+
+
+
+send this job to a friend                
+
+
+view my account        
+
+
+recruitment enquiries & support
+
+
+
+
+recently viewed jobs
+
+
+
+
+string resource not found: cp.rd.widget.alwayslooking.header
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job details
+
+
+
+
+
+
+
+graduate data scientist
+
+
+
+
+
+
+
+
+job id #:
+12266 
+job category:
+information technology 
+employment type:
+graduates 
+division:
+administration 
+department:
+information technology  
+
+
+
+
+primary country:
+usa 
+primary location:
+san jose (ca) 
+
+
+
+
+
+
+
+
+
+
+
+share:
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+apply with linkedin        
+
+
+
+
+
+
+
+
+
+we are an equal opportunity employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+
+
+
+job description
+about the rolearm designs the technology that sits at the heart of the connected world, from smartphones and tablets, to servers and infrastructure and into the internet of things. information is arm's second most valuable asset, after its people. the data science team is part of the rapidly growing information management group, which ensures this information captured, stored and used wisely. we are dedicated to developing cutting edge data-driven applications, aiding decision-making and fostering a data science community.we have recently expanded the team from cambridge uk, to the bay area and are looking for talented data scientists to help us shape the future of data science at arm. if you are curious, excited about turning data into insights and keen to drive the business forward, we want to hear from you.your primary focus will be on consulting with business partners, performing statistical analysis and building high quality machine learning systems. this is a global role, working with people around the world on both engineering and business projects. you will work closely with teams in iot, business strategy, marketing, high performance computing and research.
+
+
+
+
+job requirements
+what skills, experience, and qualifications do i need?doctorate or masters degree required (mathematics, statistics, computer science, physics, economics, life sciences, etc.) or equivalent experienceability to rapidly prototype and deploy data science solutions in pythonability to gather and manipulate both small and large datasets using sql and nosql queriesapplied statistics skills, such as hypothesis testing, regression, classification and clusteringexcellent understanding of machine learning techniques and algorithms. a few of our favourites are gaussian processes, bayesian hierarchical models, random forests and lstmsthe ability to communicate clearly with business and engineering teams with a focus on driving impactexperience with (or willingness to learn) common data science toolkits such as pandas, scikit-learn, tensorflow, nltk, networkx, h2o, sparkexperience with (or willingness to learn) data visualisation tools and web technologies, such as tableau, d3.js, etc.nice to haveability to develop and deploy web-apps (flask, django, javascript, docker, etc)good understanding of software development workflow, such as git usage, unit testing, software design and architecture principlesexperience with any of the following:natural language processingbayesian statisticsmulti-objective optimisationreinforcement learningwhat are the desired behaviours for this role?at arm, we are proud to have a set of behaviours that reflect our unique culture and guide our decisions, defining how we work together to defy ordinary and shape extraordinary. these behaviours are assessed as part of the recruitment process:partner and customer focus – your tendency to put your partners and customers first in all that you do by understanding their needs and striving to achieve win-win solutions.collaboration and communication – your ability to forge lasting relationships which are built upon mutual trust, open communication and sharing of information and success.creativity and innovation – possessing a passion for driving continuous improvement through spotting opportunities and seeking the views of others.team and personal development – you take time to drive your own development, whilst also encouraging team members and partners to do the same.impact and influence – you listen to different perspectives, evaluate, persuade and carefully shape your work to deliver truly impactful results.deliver on your promises – you demonstrate a can-do attitude and you drive to overcome obstacles, acting with a sense of urgency because you’re passionate about what you do.
+
+
+
+
+benefits
+your particular benefits package will depend on position and type of employment and may be subject to change. your package will be confirmed on offer of employment. arm’s benefits program provides permanent employees with the opportunity to stay innovative and healthy, ensure the wellness of their families, and create a positive working environment.
+annual bonus plan
+discretionary cash awards
+401(k), 100% matching on first 6% eligible earnings
+medical, dental & vision, 100% coverage for employee only, shared cost for dependents
+basic life and accidental death and dismemberment insurance (ad&d)
+short term (std) and long term (ltd) disability insurance
+vacation, 20 days per year with option to buy 5 more.
+holidays, 13 days per year
+sabbatical, 20 paid days every four-years of service
+sick leave, 7 days per year
+volunteering, four hours per month (teamarm)
+office location dependent: café on site, fitness facilities, team and social events 
+additional benefits include: flexible spending accounts for health and dependent care, eap, health advocate, business travel accident program & commuter programs.
+
+arm, inc. (usa) participates in e-verify.  for more information, please refer to www.dhs.gov/e-verify
+ 
+
+
+
+about arm
+
+arm® technology is at the heart of a computing and connectivity revolution that is transforming the way people live and businesses operate. from the unmissable to the invisible; our advanced, energy-efficient processor designs are enabling the intelligence in 86 billion silicon chips and securely powering products from the sensor to the smartphone to the supercomputer. with more than 1,000 technology partners including the world’s most famous business and consumer brands, we are driving arm innovation into all areas compute is happening inside the chip, the network and the cloud.
+
+with offices around the world, arm is a diverse community of dedicated, innovative and highly talented professionals. by enabling an inclusive, meritocratic and open workplace where all our people can grow and succeed, we encourage our people to share their unique contributions to arm's success in the global marketplace.
+ 
+
+
+
+about the office
+
+    the arm san jose office is nestled in california's silicon valley, just south of san francisco. serving as arm’s north america headquarters, the office houses employees serving all divisions of arm. world-renowned stanford university is seen as a hub of innovation, helping to make san jose one of the us’s fastest growing cities.
+
+
+
+  san jose, california usa  
+ arm inc.
+         150 rose orchard way
+         san jose, ca 95134-1358
+        
+
+
+
+see on google maps
+
+
+
+
+ 
+
+
+
+
+
+
+related jobs san jose (ca)
+
+
+
+
+
+related jobs information technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+processors
+multimedia
+physical ip
+development tools
+security on arm
+system ip
+technologies
+internet of things solutions
+buying guide
+
+
+
+support
+
+contact support
+self-service resources
+training
+support & maintenance
+active assist
+arm accredited engineer program
+university program
+
+
+
+community
+
+arm connected community
+social media
+mailing list subscriptions
+rss updates
+
+
+
+markets
+
+internet of things (iot)
+home
+mobile
+wearables
+embedded
+infrastructure
+arm educational partnership
+
+
+
+about
+
+company profile
+investors
+trademarks
+newsroom
+events
+
+
+
+careers
+
+search careers
+careers account
+our culture
+our impact
+experienced
+early careers
+students
+
+
+
+
+
+find us on linkedin
+facebook
+find us on glassdoor
+follow us on twitter
+find us on google plus
+find us on youtube
+find us on instagram
+find us on pinterest
+
+
+
+
+
+terms of use
+privacy
+cookies
+
+all rights reserved. ©arm ltd. 1995 - 2015
+
+
+jobdetails
+
+
+
+

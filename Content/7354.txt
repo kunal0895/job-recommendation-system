@@ -1,0 +1,360 @@
+
+
+
+
+
+
+
+
+
+
+
+
+| evolent health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we serve health systems
+independent physician associations
+provider-sponsored health plans
+accountable care organizations
+pediatric hospitals
+
+our lines of business medicare
+medicaid
+commercial and self-funded
+
+our capabilities population health management
+health plan administration and tpa
+network performance management
+risk adjustment
+pharmacy benefit management
+analytics and improvement
+technology and emr integration
+
+knowledge center blog
+conferences
+industry perspective
+webinars
+videos
+
+about us leadership team
+strategic alliances
+life at evolent
+current opportunities
+news
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+current opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      software development
+      
+
+  
+    
+      data analyst
+      
+
+  
+    
+      chicago, il, united states
+      
+apply
+
+it’s time for a change…your future evolves hereevolent health has a bold mission to change the health of the nation by changing the way health care is delivered. our pursuit of this mission is the driving force that brings us to work each day. we believe in embracing new ideas, challenging ourselves and failing forward. we respect and celebrate individual talents and team wins. we have fun while working hard and evolenteers often make a difference in everything from scrubs to jeans.are we growing? absolutely—56.7% in year-over-year revenue growth in 2016. are we recognized? definitely. we have been named one of “becker’s 150 great places to work in healthcare” in 2016 and 2017, and one of the “50 great places to work” in 2017 by washingtonian, and our ceo was number one on glassdoor’s 2015 highest-rated ceos for small and medium companies. if you’re looking for a place where your work can be personally and professionally rewarding, don’t just join a company with a mission. join a mission with a company behind it.we are looking for bright and energetic individuals to fill a data analyst position in our analytic services department. this position involves the programming and analysis of healthcare data with an emphasis on clinical measures..what you’ll be doing:develop programs to monitor physician performance on clinical indicators using sas and an internally developed unified expression language based syntaxinvestigate issues in healthcare data from acquisition through presentation in the uiperform ad-hoc analysis for clients and the evolent teamimplement analytic directives on healthcare data from senior staff and clients and develop reports as neededassist in designing, documenting, programming and standardizing processes, reports, and other analytic offeringsassist in clinical quality measure specification documentation and configurationparticipate in quality assurance of clinical quality measures including test case creation, sas/sql/unified expression language/xml code review, independent results validation, and pulling of sample cases from client data to support user acceptance testingthe experience you’ll need (required):2 years of sas and sql2 years of experience with healthcare data and large databasesadvanced sas programming skills, including proficiency in base sas, sas macros, stored procedures, sas/access to relational databases, and the sql pass through facilitymust be analytical, detail oriented, and possess desire to advance and grow personally and professionallyability to multi-task and manage multiple projects with varying timelinesexcellent pc and database skillsability to effectively communicate with clients and non-technical team membersbs, ba, or masters in public health, epidemiology, statistics, economics, computer science or a comparable program with a quantitative emphasis or equivalent experiencefinishing touches (preferred):experience with national healthcare performance measures including hedis and pqrs a plusexperience with unified expression language, mapr, jira, and confluence a plus evolent health is an equal opportunity employer and considers all qualified applicants equally without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. 
+
+apply
+
+
+ 
+
+
+
+
+
+
+        share      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+similar jobs 
+
+
+
+  
+    
+      software development
+      
+
+software engineer
+
+
+chicago, il, united states
+
+
+
+
+  
+    
+      software development
+      
+
+junior quality assurance analyst
+
+
+chicago, il, united states
+
+
+
+
+  
+    
+      software development
+      
+
+associate director, product management
+
+
+chicago, il, united states
+
+
+
+
+  
+    
+      software development
+      
+
+senior software engineer
+
+
+chicago, il, united states
+
+
+
+
+  
+    
+      software development
+      
+
+managing director, hps implementation portfolio lead
+
+
+chicago, il, united states
+
+
+
+ 
+
+ 
+
+
+
+job alertsevolent health job alertsget notified about new jobs that match you, and let evolent health know youre interested! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+
+
+571.389.6000
+
+
+
+
+
+
+
+
+
+
+investor relations
+terms & conditions
+privacy policy
+
+
+
+© 2017 evolent health, inc.
+all rights reserved.
+
+
+
+
+
+
+
+who we servehealth systems
+independent physician associations
+provider-sponsored health plans
+accountable care organizations
+pediatric hospitals
+
+our lines of businessmedicare
+medicaid
+commercial and self-funded
+
+our capabilitiespopulation health management
+health plan administration and tpa
+network performance management
+risk adjustment
+pharmacy benefit management
+analytics and improvement
+technology and emr integration
+
+knowledge centerblog
+conferences
+industry perspective
+webinars
+videos
+
+about usleadership team
+strategic alliances
+life at evolent
+current opportunities
+news
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

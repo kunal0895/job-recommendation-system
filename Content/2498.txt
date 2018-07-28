@@ -1,0 +1,447 @@
+
+
+
+
+
+software engineer  in  plano, tx  | jpmorgan chase & co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+referral sponsor portal
+sign up now!
+login 
+
+
+
+
+
+
+divisions
+locations
+programs
+why us
+
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+divisions
+locations
+programs
+why us
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+menu
+
+
+referral portal
+
+
+
+
+
+
+
+
+
+careers / job search / job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+software engineer
+
+req #: 170108508
+location:
+
+
+plano, 
+		tx,
+                us
+
+job category: technology
+potential referral amount: 0 us dollar (usd)
+
+
+jpmorgan chase & co. (nyse: jpm) is a leading global financial services firm with assets of $2.6 trillion and operations worldwide. the firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. a component of the dow jones industrial average, jpmorgan chase & co. serves millions of consumers in the united states and many of the worlds most prominent corporate, institutional and government clients under its j.p. morgan and chase brands. information about jpmorgan chase & co. is available at www.jpmorganchase.com.
+ 
+chase consumer & community banking serves nearly 66 million consumers and 4 million small businesses with a broad range of financial services, including personal banking, small business banking and lending, mortgages, credit cards, payments, auto finance and investment advice. our 129,000 employees serve our customers in 57.5 million households by following chase's five keys to a great customer experience.
+ 
+
+summary:
+ 
+
+seeking a passionate result-oriented technologist to drive better, faster, simpler solutions and technology direction. someone that is highly motivated, hands-on and cross-functional with the capability of driving high quality solutions to difficult problems.
+ 
+the position is to lead the development and maintenance of the ccb middleware services and platform using jpmc approved open/closed sourced and ccb services framework like fusion. the lead provides technical leadership in translating unique business problems into technical solutions on a case to case basis and evolves the application by maintaining its integrity.
+ 
+main responsibilities: 
+·        single point of responsibility for the overall technical integrity of our team's delivery.
+·        partner with the application development manager in the analysis and estimation of future work impacting our team.
+·        partner with the scrum master to lead our team in breaking down complex features/stories into well understood and achievable tasks.
+·        partner with architects on the design and architecture for our team's deliverables.
+·        be an active developer and contributor to the team’s delivery. take the lead on solving and implementing difficult technology challenges and drive our team to successful delivery.
+·        work closely with ba/qa team members to create test plans and ensure that issues are properly identified, fixed, and tested.
+·        ensure development quality is being tracked and improved using techniques like unit testing and peer review.
+·        cultivate and introduce (where appropriate) agile engineering practices including: pair programming, continuous integration and test driven development.
+·        strengthen the presence of our team as a technical center of excellence. actively work with other leads to align to a consistent technology vision and keep the rest of the organization aware of our activities.
+·        mentor team members to progress their technical and professional skills.
+ qualifications -
+
+
+3 – 5 years’ experience working as a hands-on (actively coding) application development lead or related role with a minimum
+·        minimum bachelor’s degree in computer science, computer engineering or a related field or the foreign equivalent, with masters degree preferred.
+·        extensive knowledge and experience working in an agile environment.
+·        technologies
+·        java – expert-level implementation skills with java and j2ee.
+·        spring – expert-level implementation skills with the core spring framework and including other sub-projects like spring jms, spring security, spring data and spring integration.
+·        database – expert-level implementation skills with orm frameworks like hibernate/jpa or mybatis. must be highly proficient in sql preferably across multiple databases.
+·        messaging – expert-level implementation skills with messaging platforms like mq and jms.
+·        services – expert-level implementation skills in building highly scalable services (soap and rest)
+·        web – comfortable with building modern web applications using frameworks like jquery, jquery ui, and bootstrap.
+·        application servers – broad and deep understanding of multiple application server platforms including apache tomcat and ibm websphere.
+·        general – comfortable in more than one programming language and have a firm grasp of fundamental web/internet technologies.
+·        engineering practices
+·        tdd – must have practical experience with unit testing including deep understanding of mock testing frameworks like easymock or mockito.
+·        atdd – experience with acceptance test driven development including the use of tools like cucumber and selenium.
+·        continuous integration – experience automating builds with maven using ci servers like jenkins/hudson.
+·        continuous delivery – experience with automated deployments using a tool like rundeck.
+·        experienced mentor with the ability to work in a collaborative environment and coach other team members on coding practices, design principles, and implementation patterns that lead to high-quality maintainable solutions.
+·       excellent communication skills in english (both written and spoken forms)
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our talent community
+not ready to apply? leave your information with us and we will keep you up to date with new career opportunities.
+join now
+
+
+
+things to note
+sign in to our application system to continue your job search or update your profile.
+current employees sign in here.  contractors sign in here.
+any information you provide is confidential and will only be viewed by our recruiters in an effort to fill open positions. in addition, the information you provide is subject to our privacy policy practices.
+please note that j.p. morgan will not accept unsolicited approaches or speculative cvs, nor will j.p. morgan be responsible for any related fees, from third party firms who are not preferred suppliers.
+the firm invites all interested and qualified candidates to apply for employment opportunities.
+need disability related assistance?
+if you are a us or canadian applicant with a disability who is unable to use our online tools to search and apply for jobs, please click here.
+important links
+click here to view the "eeo is the law" poster.
+click here to view the "eeo is the law" supplemental poster.
+click here to view our u.s. pay transparency policy.
+jpmorgan chase is an equal opportunity and affirmative action employer disability/veteran.
+
+
+
+
+
+
+
+your career. your way.
+
+privacy & security
+terms of use
+cookies policy
+
+
+equal opportunities
+site map
+
+
+
+
+
+
+
+
+
+
+corporate twitter links
+
+
+
+
+jpmorgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+
+jpmorgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+jpmorganchase.com
+jpmorgan.com
+chase.com
+
+
+
+
+
+corporate twitter links
+
+
+
+j.p. morgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+j.p. morgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 jpmorgan chase & co. all rights reserved. powered by smashfly
+
+
+
+
+
+
+
+
+
+
+

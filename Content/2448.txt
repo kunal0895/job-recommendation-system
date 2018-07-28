@@ -1,0 +1,144 @@
+
+
+
+
+alixpartners careers - systems engineer (azure) – data analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    alixpartners careers                                            
+
+
+
+
+
+
+
+                systems engineer (azure) – data analytics
+    
+    
+
+                            it - information technology            
+                                                detroit,
+                                        michigan
+                                                
+                                        chicago,
+                                        illinois
+                                                
+                                        new york,
+                                        new york
+                                                
+                                        dallas,
+                                        texas
+                            
+                        
+
+
+
+        apply now
+    
+
+
+systems engineer (azure) – data analytics in this critical role on alixpartners’ corporate services team, you will support the engagement technology services (ets) business unit via the ets infrastructure team. this position is a key member of the data analytics team and is responsible for day-to-day operational and technical support in the area of systems & network engineering across all systems and platforms. experience with azure's platform is extremely beneficial for this role.the systems engineer – data analytics is a full-time role with a preferred location in southfield, mi but will consider chicago, dallas and new york. position reports to the director, saas technology services. paid relocation is not available for this position. this position may be contract-to-hire.this position may be at the analyst level, internally.key responsibilities:provide day-to-day systems, server, and network engineering support functions for various systems and platforms, including (but not limited to) microsoft windows servers, active directory, various distributions of linux infrastructure, and 3rd party application platforms. participate with cross-discipline teams as necessary.assist in the design and operations of alixpartners’ cloud platforms – including azure and aws.participates in the design and implementation of various new system implementations and upgrades.analyze, report, and advise on various systems and applications performance issues. provide day-to-day technical, administrative, and functional support for the various ims platforms and systems.participate as a key technical resource for current and new systems planning and scoping. participate in the configuration and setup of technology resources for new ims engagements.participate in the analysis of new software applications, application architecture, and configurations, and participate as a key member of the team in reconfiguring systems, databases, and applications for optimal performance. participate in troubleshooting as required.participate in the creation (or modification) of documentation activities related to system configuration, policies, and procedures.   participate in defining and implementing the overall structure and standards for systems documentation.acquire knowledge, via both formal and on-the-job training of the various 3rd party packaged software applications and custom solutions used to provide systems monitoring, management, and reporting within the digital service offering.perform additional duties as required.qualifications / requirements:2+ years of progressive experience in supporting information systems implementation, support, and monitoring, preferably within (but not limited to) a predominantly microsoft environment.experience working in and/or implementing “compliance” environments such as soc2, iso27001, hippa, etc.2+ years of experience with windows7/8, windows server os (w2k8/2012).2+ years of experience with redhat enterprise linux – or similar distribution.exposure working in amazon’s aws / ec2 infrastructure (or similar provider).exposure working in microsoft’s azure platformexposure working with hadoop, mongodb, and other distributed processing technologies.experience with database mssql servers (oracle would be a plus)experience with san/storage platforms (emc, equallogic, netapp, etc.)experience apache webserver and tomcat application server hostingexperience with iis hostingexposure to ‘big data’ / bi / analytics technologies (business objects, tableau, qlikview, stata)relevant certificates such as cissp, mcse, etc.bs or ba in computer science, management information systems, or related field is preferred; experience may be considered in lieu of formal education.strong analytical and problem-solving skills; ability to quickly research new platforms and issues,excellent communication skills (verbal & written).experience in large, production-oriented service operations, with experience in a 24x7x365 service delivery model supporting mission-critical business operations with large data volumes.must be able to work full time in an office environment and physically able to sit/stand at a computer and work in front of a computer screen for significant portions of the work day.this description is not designed to encompass a comprehensive listing of required activities, duties or responsibilities.in addition to a positive workplace, the firm offers a competitive compensation package including an excellent benefit program (health, vision, dental, disability, 401k, tuition reimbursement).alixpartners is a global firm of senior business and consulting professionals that specializes in improving corporate financial and operational performance, executing corporate turnarounds and providing litigation consulting and forensic accounting services when it really matters – in urgent, high-impact situations.  more information is available at www.alixpartners.com.all qualified applicants will receive consideration for employment without regard to among other things, race, color, religion, sex, sexual orientation, gender identity, national origin, (age), status as a protected veteran, or disability. alixpartners is a proud bronze award-winning veteran friendly employer.
+
+
+
+        apply now
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+email
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

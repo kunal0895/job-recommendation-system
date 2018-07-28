@@ -1,0 +1,454 @@
+
+
+ backend software engineer | outreach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+product
+
+
+
+product
+
+
+features
+
+
+drive meetings
+sales sequences
+sales dialer
+sales email & tracking
+
+
+enable productivity
+sales rep workflow
+outreach everywhere
+sales intelligence
+email & content templates
+
+
+optimize
+analytics & reporting
+coaching analytics
+
+
+
+
+platform
+
+governance
+data security
+api
+
+
+
+integrations
+
+crm
+inbox
+sales intelligence & data
+sales asset management
+sales productivity
+
+
+
+
+
+
+
+solutions
+
+
+
+solutions
+
+
+use cases
+
+account-based sales
+outbound sales
+inbound sales
+recruiting
+
+
+
+personas
+
+sales representatives
+sales management & leadership
+sales operations
+marketing
+
+
+
+pricing
+
+get pricing
+
+
+
+
+
+
+
+why outreach
+
+
+
+why outreach
+
+
+customers
+
+case studies
+testimonials
+
+
+
+customer success
+
+onboarding & implementation
+user training & education
+driving success
+
+
+
+
+
+
+
+resources
+
+
+
+resources
+
+
+library
+
+best practices
+sales engagement
+videos
+webinars
+
+
+
+blog
+
+sales best practices
+product news
+all about account-based sales
+outbound sales tips and tricks
+company news
+
+
+
+events
+
+unleash '18
+
+
+
+customer resources
+
+university
+knowledge base
+support
+status
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+careers
+
+about us
+newsroom
+working at outreach
+contact us
+
+ 
+
+
+
+
+ backend software engineer
+
+				location:
+									seattle
+								
+									team: engineering
+							
+
+
+apply here
+
+
+
+
+
+ 
+we are looking for a talented backend software engineer to join the outreach platform team. in this role you will be responsible for creating the backend services that power outreach and our public api.
+build a world-class sales acceleration platform
+
+outreach is more than just a web app; it’s a platform that enterprise companies depend on to run their business
+create a feature-rich api based on json api for our customers to leverage all the functionality of outreach
+enhance our existing authentication services to support single sign-on (sso) for our customers
+
+scale the outreach platform
+
+help us decompose our monolithic rails app and scale horizontally - create new micro services in ruby and go
+leverage open source software like mysql, couchdb, redis, elasticsearch, and rabbitmq
+use a data-driven approach to optimize performance and solve scaling challenges
+
+build critical synchronization services
+
+synchronizing email and salesforce data between outreach and third-party systems is crucial to how our customers communicate
+develop next-generation real-time synchronization systems that improve the efficiency with which our customers can operate in the outreach environment
+
+our vision of you
+ideally you are an experienced builder who is passionate about solving problems in complex distributed systems. you should be comfortable building both stateless and database-backed web applications, and familiar with their various patterns and pitfalls. our primary backend language is ruby on rails, so ideally you have deep experience building and scaling rails apps. we have a growing fleet of applications written in go, so flexibility to work in different languages is a plus. the ability to diagnose and fix challenging linux system-level issues is important for when murphy’s law strikes.
+other key qualities we would like you to possess:
+
+you have a good eye for design and you pay attention to the details; imperfection bugs you
+you take pride in building quality products that delight users
+you strive to find clean solutions to complex technical problems
+you go above and beyond to help your team
+you are honest, admit mistakes, and own fixing them
+you are a motivated and talented crafts-person: always looking to sharpen and adapt your skills
+you are self-aware and can collaborate successfully with technical and effective oriented personalities
+you are hands on and excited about building things
+
+about outreach
+outreach is a communication platform built from the ground up to help people communicate more effectively. today we focus on the sales organization, helping them engage with their prospects and customers through email, calling, and linkedin communication flows.
+to put it into perspective, our customers spend the majority of their day living inside our software, relying on it to be more effective communicators with their audience.
+since our first days here at outreach learning about how people communicate, we became obsessed with understanding our customers’ problems. as a result, we’ve built the most loved product on the market and won the hearts and minds (and business) of some incredible organizations around the world.
+in addition to our relentless focus on the customer, we’ve received over $30 million in venture funding, been listed on seattle business magazine’s 100 best places to work, been ranked #1 for 2016 sales automation/acceleration software by ambition, and were named to the 2016 forbes cloud 100-rising star list in the sales technology category.
+we aren’t slowing down anytime soon.
+who we are
+outreach is headquartered in seattle with sales offices throughout the us. our team shares a mission and sense of purpose: to help sales teams succeed by better connecting with their customers.
+we’re a team of problem solvers and overachievers who value diversity of experience and perspective. we like to be challenged. we seek out people who are passionate about their craft and relentless in their pursuit of excellence.
+we value grit. building a company isn’t easy so the ability to dig deep and tap into your inner super powers from time to time is important. we’ve learned that a good attitude and great teamwork go a long way to overcoming the inevitable bumps along the way.
+outreach is a rocket ship and we’re excited to be building our future together. if you join us, you’ll be challenged with big projects, empowered to own them, and enabled to crush it. let’s do this thing together.
+why you’ll love it here
+
+you’ll get a chance to make history at one of the fastest growing startups in the nation.
+100% medical, dental and vision coverage for full-time employees
+unlimited pto, competitive salaries, 401k, commuter benefits, professional development opportunities, paid volunteer days, and company outings
+diversity and inclusion programs including unconscious bias training and employee resource groups
+incredible parental leave program (up to 10 weeks for new parents, night nurses, dinner deliveries and more!)
+generous employee referral bonuses
+you can bring your well-behaved fur babies to work
+unlimited snacks in our state of the art kitchen
+
+
+
+
+
+
+
+
+share
+
+
+
+
+
+
+
+
+
+
+ready to make your entire team more effective?
+outreach is more than just software – when you use it, you get a playbook for team success.
+
+request a demo
+
+
+
+
+
+
+
+
+
+
+
+product
+product overview
+drive meetings
+enable productivity
+optimize
+integrations
+platform
+request demo
+
+
+solutions
+solutions overview
+account-based sales
+outbound sales
+inbound sales
+recruiting
+personas
+pricing
+
+
+why outreach
+why choose outreach
+case studies
+customer success
+trust
+
+
+resources
+resources library
+blog
+events
+university
+knowledge base
+server status
+articles
+
+
+company
+about us
+newsroom
+working at outreach
+contact us
+
+
+1441 north 34th street, suite #100seattle, wa 98103
+1 (888) 938-7356
+sign in
+
+
+
+
+
+© 2017 outreach.io
+
+
+privacy policy
+eula
+acceptable use policy
+
+
+
+
+
+
+
+
+
+
+

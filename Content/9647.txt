@@ -1,0 +1,185 @@
+
+
+
+bofi federal bank > search jobs >junior business analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+junior business analyst
+
+
+
+junior business analyst
+
+
+
+
+job id 
+
+2017-2032
+
+
+
+
+job locations 
+us-ca-san diego
+
+
+
+
+
+job type 
+
+regular full-time
+
+
+
+
+department 
+deposits
+
+
+
+
+
+
+
+more information about this job
+
+
+
+
+description:
+
+
+
+
+
+
+
+bofi federal bank [nasdaq: bofi] with over $8 billion in assets, is one of the fastest growing on-line, branchless banks in the nation and rated top 5 of internet banks in the country! develop dashboards to support deposit operations in reporting and monitoring functionscreate ad-hoc analysis in order to analyze key business issuesutilize expertise to gather pertinent data and perform regression and other statistical analyses to help identify meaningful data relationships, key performance indicators, and key risk indicatorsattain deep knowledge of bank databases to retrieve and filter information as needed to support business unit analysis and decision-makingrecognize opportunities to automate processes for optimization and efficienciesidentify and recommend data improvement opportunitiessupport customer data integration efforts across all lines of business with hands-on technical involvement in testing, scrubbing, and cleansing of datadevelop, optimize, and maintain queries in ms sql server management studio 2008/2012create advanced reporting and analysis through microsoft sql server report builder
+
+
+
+
+
+
+
+key skill sets or knowledge requirements:
+
+
+
+
+
+
+
+microsoft sql server 2008 server side development including (ssis, ssrs, ssms)ability to write sql queries to answer the business ad hoc requestsproficient in creating ssrs/ssis package, api programs, and proceduresstrong excel skillsexperience creating tableau dashboardsexcellent written and oral communicationshighly analytical with strong attention to detailself-directed and able to flourish in a fast-paced environmentexperience with marketing automation and web analytics software packagesstrong logical thinking, problem solving and decision making skills
+
+
+
+
+
+
+
+desired career experience & education requirements:
+
+
+
+
+
+
+
+1+ year in a junior business analyst rolecompetent in creating complex queries involving multiple-table joins, union, sub-queries, cte, temporary tables, outer apply/cross applybachelor's degree in business administration, statistics, or mathematics  job functions & work environment: while performing the duties of this position, the employee is required to sit for extended periods of time. manual dexterity and coordination are required while operating standard office equipment such as computer keyboard and mouse, calculator, telephone, copiers, etc. the work environment characteristics described here are representative of those an employee may encounter while performing the essential functions of this position. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this position.  equal employment opportunity: bofi federal bank is an equal opportunity employer committed to creating a diverse workforce. we consider all qualified applicants without regard to race, religion, color, sex , gender identity and expression, sexual orientation, national origin, ancestry, citizenship status, uniform service member and veteran status, marital status, pregnancy, age, protected medical condition, genetic information, disability, or any other protected status in accordance with all applicable federal, state and local laws. candidates must possess authorization to work in the united states.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+
+
+
+go back to the welcome page
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,323 @@
+
+
+
+		data scientist -		matrix solutions - 		job board
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+go to our website »
+
+
+							jobs at matrix solutions						
+
+
+
+
+
+
+
+
+« go back to job listings
+
+
+data scientist
+
+
+
+location: pittsburgh, pa		
+
+department: software development		
+
+type: full time		
+
+min. experience: mid level		
+
+
+
+
+
+ 
+matrix solutions, a leader in the media software industry is looking for a data scientist to join our team.  our team creates cutting edge enterprise software for the media industry; digital, cable, television, radio and ad agencies. at matrix, we make media happen.  we are currently in the planning stages of building out a new ai platform, geared to manipulating vast amounts of data held in our client’s datastores. this position is for a person who seeks to be part of an entrepreneurial team which will have wide-ranging intellectual freedom to create a value-added product.  we are currently seeking individuals interested in making significant contributions to a rapidly evolving company culture.
+ 
+the ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. they must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. they must have a proven ability to drive business results with their data-based insights. they must be comfortable working with a wide range of stakeholders and functional teams. the right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+ 
+responsibilities
+
+work with stakeholders throughout the organization to identify opportunities for leveraging data to drive business solutions.
+mine and analyze data (using state-of-the-art methods) generated from our products and data integrated into our platform from customers.
+process, cleanse, and verify the integrity of data used for analysis.
+select features, build and optimize classifiers using machine learning techniques
+develop custom data models and algorithms to apply to data sets.
+use predictive modeling to increase and optimize revenue generation and other business outcomes.
+enhancing data collection procedures to include information that is relevant for building analytic systems.
+create processes and tools to monitor and analyze model performance and data accuracy.
+perform ad-hoc analysis and present results in a clear manner.
+assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+essential skillset and experience
+we’re looking for someone with 1-6 years of experience manipulating data sets and building statistical models, has a master’s or phd in statistics, mathematics, computer science or another quantitative field, and has these additional skills:
+
+experience using statistical computer languages (r, python, sql, etc.) to manipulate data and draw insights from large data sets.
+experience working with and creating data architectures.
+strong problem-solving skills with an emphasis on product development.
+knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, simulation, scenario analysis, modeling etc.) and their real-world advantages/drawbacks.
+knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+coding knowledge and experience with one or languages: javascript, angularjs, css, c#/asp.net
+experience visualizing/presenting data for stakeholders.
+excellent written and verbal communication skills for coordinating across teams.
+a drive to learn and master new technologies and techniques.
+an interest in networking with other technical and business peers outside the walls of matrix solutions.
+eligibility for employment in the u.s.
+
+bonus points
+
+familiarity with functional programming, particularly a working knowledge of f#.
+experience with kafka, event store, kinesis, or other tools for streaming data.
+experience with toolsets on cloud platforms (aws, azure, google, etc).
+experience analyzing data from 3rd party providers: google analytics, adwords, dfp,  facebook insights, etc.
+worked with distributed source control systems, especially git.
+familiarity with startup culture, or experience working within other saas companies.
+
+ 
+matrix solutions offers a leading web-based media-specific platform that enables intelligent business decisions for managing your sales teams, their opportunities and accounts across broadcast, radio, cable networks, digital advertising businesses.  over 500 media customers use matrix solutions’ crm, data normalization and analysis, and reporting functions as their platform of choice for their sales organization to gain a 360-degree view of their opportunities and accounts. for more information visit www.matrixformedia.com.
+ 
+the candidate may choose to work in pittsburgh or be open to a new york location.  
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+forward this position
+
+
+
+
+				recipient email address (one)
+			
+
+ 
+
+
+
+				your name
+			
+
+ 
+
+
+
+				your email address
+			
+
+ 
+
+
+
+				enter a message (optional)
+			
+
+ 
+
+
+
+
+
+
+
+
+human check*
+
+
+
+
+
+  
+
+
+
+
+« go back to job listings
+
+
+
+
+
+
+
+
+
+
+
+
+
+			apply for this position		
+
+			* required fields
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+
+
+last name*
+
+
+
+
+
+email address*
+
+
+
+
+
+location 
+
+
+
+
+
+phone number*
+
+
+
+
+
+resume*
+
+
+attach resume or
+					paste resume
+
+
+
+
+
+						attach resume as .pdf, .doc, or .docx (limit 2mb) or
+						paste resume
+
+
+
+ 
+
+
+
+
+						paste your resume here or
+						attach resume file
+
+
+
+ 
+
+
+
+cover letter*
+
+
+
+
+
+desired salary*
+
+
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

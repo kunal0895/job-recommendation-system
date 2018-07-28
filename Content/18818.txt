@@ -1,0 +1,182 @@
+
+team lead - full stack web developer - nexmo | indeed.com
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nexmo in partnership with indeed primeteam lead – full stack web developer
+san francisco, ca
+apply now
+
+
+
+
+
+
+
+
+indeed prime helps talent secure top offers from leading companies
+indeed prime is a free service that brings opportunities to you from our vetted network of leading companies.
+
+
+
+
+  
+privacy
+explore job opportunities confidentially by hiding your profile from your current company.
+
+
+  
+stand out
+receive an individual profile written by our content experts, plus interview intel from a dedicated career coach.
+
+
+  
+efficiency
+complete one application in minutes to be considered for this job and similar ones at leading companies.
+
+
+  
+salary transparency
+indeed prime puts you in control of salary negotiations. you set your salary range and employers give you offers up front.
+
+
+
+
+
+
+
+job description
+
+now a vonage company, nexmo is the emerging leader in the $100b+ cloud communications platform (cpaas) market. customers like airbnb, viber, whatsapp, snapchat, and many others depend on our apis and sdks to connect with their customers all over the world.
+to continue to fuel our growth, the nexmo growth team is also growing. we are seeking an experienced full stack developer ready to step into a leadership position within our collaborative and data-driven team based in san francisco.
+on the nexmo growth team, we pursue growth holistically, so you’ll have a chance to work on a diverse range of projects that reflect the areas where we see opportunity for impact. 
+you will:
+
+lead the technical execution of our web growth strategy, spanning web products, data analytics, testing, and automation
+build-out our modern web architecture to enable us to more quickly ship new features into production at scale
+develop and maintain our web framework to serve the needs of different areas of the business and user personas
+implement new logging, data collection, and storage architectures to support our voracious appetite for data and data-driven insights
+own web development projects from backend to the presentation layer
+work through a variety of technical challenges that will require creativity and close collaboration across internal functions
+own the deployment process
+release early, release often (we love continuous integration)
+
+qualifications:
+
+3+ years of experience working in a modern commercial web development environment and shipping solid product
+proficiency using html/css/javascript/ajax
+solid understanding of the full web technology stack (e.g. http, cookies, asset loading, caching, rest, thrift)
+past experience or familiarity with architectural patterns of large, high-scale web or mobile applications
+demonstrated design and ux sensibilities
+rigor in a/b testing, test coverage, and other web best practices
+analytical and strong quantitative skills, plus experience combining code and math
+familiar with most of the following: python, php, mysql, node.js, laravel, docker, vagrant, debian, varnish, nginx, git, redis, angularjs, bash, casper.js, nagios, memcached, solr
+
+nice to have:
+
+an understanding of the b2b cloud communications industry, including but not limited to webrtc, a2p messaging, and voip
+computer science degree preferred but not required
+
+why nexmo…our values!
+being disruptive, getting things done, and working with passion and integrity are the values that matter at nexmo. we are on a mission to enable simplified communications between companies and their customers. we strive for passion and integrity, both personally and professionally.
+we have achieved significant growth by hiring exceptional people. we have big goals, and we want the people who join us to be self confident, focused on customers and delivery, and who are structured and committed in their approach. we value those who will help us continue this spirit. if this appeals to you then we encourage you to apply.
+
+
+
+
+
+
+apply via indeed prime
+apply now for this job on indeed prime and you’ll also have the opportunity to be considered for similar jobs at leading companies in the indeed prime network for free.
+apply now 
+get immediate exposure to nexmo and other top tech companies like these
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

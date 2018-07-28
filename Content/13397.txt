@@ -1,0 +1,254 @@
+
+
+
+
+job application for backend engineer - c++ at moz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend engineer - c++
+
+        at moz
+      
+(view all jobs)
+
+        seattle 
+      
+
+
+the moz index and crawl team solves technically challenging and interesting software engineering problems. as a small team, we punch above our weight to deal with petabytes of data and trillions of records. this is your opportunity to solve large-scale puzzles that most developers never see outside of large corporations like google. collecting, processing, and serving this data to our customers takes super- smart engineers with varied technical skills, backgrounds, and work history. we not only love to code, we love to learn new things and teach techniques to others.
+the index team builds foundational and mission-critical data used by other moz engineering teams to provide us a competitive advantage. we are currently working on the next generation of our software built on an exciting, cutting-edge technological stack. this technology leap  allows us to surpass our current system by an order of magnitude in both size and speed to market. we'd love your help!
+about you:
+
+ba/bs degree in computer science or related technical field or equivalent practical experience
+professional software development experience
+strong familiarity with data structures and algorithms
+experience with concurrency, multithreading and synchronization
+professional coding experience in c/c++ or a strong desire to learn
+
+nice to have:
+
+experience architecting and developing large scale distributed systems
+experience with linux and cloud-based environments
+
+about the team:
+
+c++ development on linux (ubuntu) 
+utilizing aws (ec2, s3)
+flexible, lightweight development process 
+
+about moz
+we build analytics software that gives our users the technical edge towards better marketing on the web. we are dedicated to the future of marketing analytics.  we’re obsessed with it.   we’ve been at it for over 10 years and we’re in it for the long haul.  we’re a leader in our space receiving frequent recognition for our accomplishments (over the years the list includes:inc 5000, deloitte fast 500 and the puget sound business journal's fastest growing private companies).
+behind our software is a sea of mozzers with a wide array of personalities, experiences, and expertise.  we’ve worked hard and deliberately to build a cultural roadmap. it’s not just about ping pong games and company parties (though we have those, too!).  learn more about us below before you apply:
+
+tagfee is the glue that holds us together and binds how we do everything at moz. as mozzers, we aspire to live and breathe these values.
+we make the web a better place: (http://moz.com/about) and this is how we do it: (http://moz.com/products).
+not convinced we are awesome yet? check out our video “why we love moz” and our amazing benefits package.
+
+sneak peak at the goodies
+
+competitive salary, 401k, stock options
+generous time off plus $3,000 per year towards your vacation!!
+home internet and transportation subsidies
+150% charitable donation match
+and so much more (feel free to grill us about the rest in the interview!)
+
+why moz?  because we love what we do.
+moz is an equal opportunity employer and we are committed to providing a work environment that is free from any form of discrimination. moz values diversity and fosters mutual respect among its employees.
+moz participates in e-verify
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+github *
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+what makes you unique? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

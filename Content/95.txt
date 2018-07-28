@@ -1,0 +1,283 @@
+
+
+
+    data engineer at fulcrum analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    www.fulcrumanalytics.com
+                
+
+                    website
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer
+
+new york, united states
+full-time
+
+
+
+
+
+about fulcrum
+fulcrum analytics combines advanced analytical consulting, big data platforms and agile enterprise applications to drive real business impact. through our analytical consulting services we partner with some of the world’s top companies to unlock multi-million dollar opportunities with data. we’ve helped insurance companies uncover business value buried under mountains of claims data, improved marketing efficiency for top retailers, priced and marketed service plans for the largest automakers in the world, and helped investment banks optimize their sales and trading operations. fulcrum is a world class analytics consulting firm and developer of analytics driven applications.
+employees benefit from gaining exposure and solving problems at large institutions, while fulcrum itself aims to have a startup culture characterized by shared responsibility and always seeking to do things better.  many employees espouse the benefit of working alongside other talented technical experts across multiple industries as being an ideal environment for continued learning and career growth.
+this position is based out of fulcrum headquarters - located across from bryant park in nyc. employees are regularly expected to spend time at nearby client sites.
+role and responsibility
+the data science engineer will be asked to support at least one consulting engagement, where they will be primarily responsible for managing the data pipeline to generate and then leverage analytic insights.  the dse will report to the lead data scientist and may have other project managers.  specific responsibilities include:
+
+work with and manipulate complex data from various sources, including a variety of databases, apis, and flat files
+maintain and modify an existing production python code base
+find creative ways to optimize our model development process and production code base
+work directly on a client site, providing technical assistance to a team of statisticians and data scientists
+collaborate with our clients' technical teams and assist them with requests as needed
+anticipate future roadblocks and identify solutions based on the current business needs and analytic plan
+
+qualifications
+the data science engineer should have experience in database development and expertise in python.  experience with statistics, math, econometrics or other quantitative fields is considered a plus, while the base requirement is just demonstrated interest. the ideal candidate will have:
+ 
+
+experience in database development on a major database platform
+experience working with large datasets using sql and relational databases
+experience using python to transform data
+comfort working on linux server systems and the linux command line
+experience working with soap or restful web services
+familiarity with version control, in particular git
+ability to learn and solve problems independently
+attention to detail
+ability to collaborate on a team and follow instructions when given
+effective oral and written communication skills with both technical and business-oriented co-workers.
+demonstrated interest in data science through coursework, work experience or other means
+willingness to learn new tools and technologies
+
+ 
+location: new york, ny. candidates not local to the area must be willing to relocate.
+start date: immediate
+position type: full-time salaried. competitive salary and benefits based on experience.
+how to apply
+apply at fulcrm.recruiterbox.com. please include a brief cover letter outlining your qualifications for this position. in your cover letter, describe a recent project, your role, and what value you created on the project.
+no recruiters, please.
+
+
+
+
+
+apply for this opening
+
+
+
+
+
+                                        apply with linkedin
+                                    
+
+
+
+
+
+
+                                    apply with indeed
+                                
+
+
+apply for this opening at 
+                        http://fulcrumanalytics.recruiterbox.com/jobs/fk0m5qm?apply=true
+
+
+
+ other openings at fulcrum analytics
+                                
+see all the jobs at fulcrum analytics here: 
+                                    http://fulcrumanalytics.recruiterbox.com/jobs
+                                
+
+
+
+
+
+
+                        fetching your linkedin profile ...
+                    
+
+
+
+application form
+
+
+
+
+                        apply with linkedin
+                    
+
+
+
+
+
+                        apply with indeed
+                    
+
+
+
+
+
+
+                        first name
+                         *
+                    
+
+
+
+
+                        last name
+                        
+                    
+
+
+
+
+                        email
+                         *
+                    
+
+
+
+
+                        phone
+                         *
+                    
+
+
+
+
+                        resume
+                         *
+                    
+
+
+
+
+                        desired salary
+                         *
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for your time
+
+
+
+
+
+apply for this opening
+
+
+
+                    apply with linkedin
+                
+
+
+
+                    apply with indeed
+                
+
+share this opening with friends
+
+
+
+
+
+
+
+
+ other openings at fulcrum analytics
+                    
+see all the jobs at fulcrum analytics here: 
+                        http://fulcrumanalytics.recruiterbox.com/jobs
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+recruiterbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

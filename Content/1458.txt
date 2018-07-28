@@ -1,0 +1,259 @@
+
+
+
+
+
+engineer 2, software description at enterprise holdings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+menu
+
+
+
+athlete network
+facebook
+twitter
+linkedin
+youtube
+instagram
+blog
+
+
+united states
+
+
+canada
+
+
+canada - français
+
+
+
+
+keyword search
+
+
+
+
+
+
+
+our company
+
+about us
+our values
+our people
+working here
+history
+rewards & benefits
+training & development
+news & awards
+
+
+
+opportunities
+
+management trainee
+accounting & finance
+automotive & transportation
+corporate & administrative
+customer service
+it
+rental operations
+sales
+
+
+
+students
+
+internships
+entry-level professionals
+
+
+
+military
+
+
+find us
+
+events
+recruiters
+
+
+
+search jobs
+
+how to apply
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+this is where it all starts.
+
+
+search jobs
+
+
+keywords
+
+
+
+location
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+apply
+
+
+
+share
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+engineer 2, software
+job id 229344 
+
+location
+           st. louis - mo - us
+
+description
+equal opportunity employer/disability/veterans  the information technology (i.t.) division of enterprise holdings builds and implements powerful solutions that help to drive and support the global operations of our brands and businesses, including alamo rent a car, enterprise rent-a-car and national car rental. with 9,000 branch locations across the world and more than 97,000 employees, enterprise holdings and its affiliates own and operate almost 1.9 million cars and trucks. here, you will be part of a team that creates and delivers leading-edge technologies and expansive systems that impact every aspect of our growing businesses. we provide the resources to enable and develop our more than 2,000 innovative i.t. professionals in a variety of career paths. this is where it all starts. all systems go! the decision support customer satisfaction team manages and supports a variety of tools used for data transfer, analysis, and reporting solutions.  the team works with other it departments to achieve business requirements to understand and satisfy operational and self-service reporting solutions, data warehousing and ad-hoc reporting to meet business partner goals.  we also ensure that our tools are secure through the implementation of controls and policies.
+
+responsibilities
+as an engineer 2 you will be responsible for using your technical knowledge of professional concepts to solve business problems.  we are looking for a talented individual that can serve as a subject matter expert in their area of focus and represent their department on complex assignments.  you will be responsible for evaluating elements of technology’s effectiveness through requirements gathering, testing, research and investigation and make recommendations for improvements that result in increased quality and effectiveness.  you will be required to listen to and evaluate customer needs to determine and provide high quality solutions that align with customer.as an engineer 2 you will be designing, developing, testing, implementing, and supporting moderate to complex reporting and processes.  your skills coding in sas or teradata tools and utilities will play an important role in delivering timely solutions to our valued business customers.  you will be responsible for creating and maintaining etl processes and providing reporting solutions from multiple sources.  a primary responsibility of this position will be evaluating elements of the technology’s effectiveness and make recommendations for improvements that result in increased quality and effectiveness as well as acting towards resolution.  this will include etl processing, performance tuning and job scheduling with understanding of dependencies.  additional responsibilities include supporting and completing scheduled deployments and participating in the 24x7 on-call rotation for the team’s production environments.  you will be required to listen to and evaluate customer needs to determine and provide high quality solutions that align with our business partner’s expectations.   
+
+qualifications
+required: must be presently authorized to work in the u.s. without a requirement for work authorization sponsorship by our company for this position now or in the future3+ years of experience in development using either sas or teradata (bteq) 3+ years of experience working with sql and the unix operating systemmust have knowledge and use of tools such as teradata dbms, tivoli workload scheduler, or sas dimust have excellent time management and work prioritization skillsmust possess good communication skills to effectively communicate with various it and business teamsmust be committed to incorporating security into all decisions and daily job responsibilities preferred:etl application and sql query performance tuning experienceexperience using a source code repository such as bitbucketbachelor's degree and minimum of three years of related experience or equivalent combination of education and experienceknowledge of informatica etl tool and/or hadoopexperience with hadoop technologies, specifically hortonworks data platformexperience developing and maintaining business intelligence reporting solutionsexperience with git, atlassian suite and jenkins is preferredexperience with microsoft report development software (bi developers studio)  
+
+
+
+apply
+
+
+
+share
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+ 
+
+job alerts
+
+first namelast nameemail addressinterested insearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+▶▶▶▶▶
+the skills from your service will be the strengths in your new mission.
+veterans and transitioning military
+
+
+contact a recruiter
+connect with one of our recruiters to ask questions and find the perfect job opportunity in your area. 
+ contact a recruiter
+
+
+
+
+
+
+
+©2017 copyright enterprise rent-a-car • eracsm
+enterprise holdings/enterprise rent-a-car/alamo rent a car and national car rental seeks and values people of all backgrounds because every employee, customer and business partner is important. enterprise holdings is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, national origin, sexual orientation, gender identity or protected veteran status and will not be discriminated against on the basis of disability. if you have any difficulty using our online system and you need an accommodation due to a disability, you may use this alternative email address to contact us about your interest in employment.
+
+jobsprivacy@ehi.com
+e-verify employer 
+privacy policy
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sr big data engineer at hp inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+careers
+
+
+search for jobsworking at hpfaqssign in & apply
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+keyword
+
+
+
+category
+select
+administration
+business planning
+corporate administration
+engineering
+engineering services
+finance
+general management
+human resources
+information technology
+learning & development
+legal
+marketing
+quality
+sales
+sales operations
+services
+supply chain & operations
+technical
+
+
+
+country
+select
+argentina
+australia
+austria
+belgium
+brazil
+bulgaria
+canada
+chile
+china
+colombia
+costa rica
+croatia
+czech republic
+denmark
+finland
+france
+germany
+greece
+hong kong
+hungary
+india
+indonesia
+ireland
+israel
+italy
+japan
+malaysia
+mexico
+morocco
+netherlands
+new zealand
+nigeria
+norway
+peru
+philippines
+poland
+puerto rico
+romania
+russia
+singapore
+south africa
+south korea
+spain
+sweden
+switzerland
+taiwan
+thailand
+tunisia
+turkey
+united arab emirates
+united kingdom
+united states
+vietnam
+
+
+
+state/province
+select
+aguadilla
+akershus
+alabama
+alberta
+anhui sheng
+arizona
+arkansas
+attica
+auckland
+baden-württemberg
+bangkok
+bavaria
+beijing shi
+bogota d.c.
+british columbia
+bucurești
+buenos aires
+california
+cantabria
+capital region
+catalonia
+central district
+chongqing shi
+colorado
+connecticut
+daerah khusus ibukota jakarta
+district of columbia
+dubai
+england
+estado de baja california
+federal district
+flanders
+florida
+geneva
+georgia
+gouvernorat de l’ariana
+grad zagreb
+guangdong sheng
+gujarat
+gyeonggi-do
+hamburg
+haryana
+hawaii
+henan sheng
+hesse
+hlavní město praha
+ho chi minh city
+hubei sheng
+idaho
+île-de-france
+illinois
+israel
+istanbul
+jalisco
+jiangsu sheng
+kanagawa
+kansas
+karnataka
+kuala lumpur
+lagos
+leinster
+liaoning sheng
+lima
+lombardy
+lower silesian voivodeship
+maharashtra
+maryland
+masovian voivodeship
+massachusetts
+michigan
+minnesota
+moscow
+national capital region
+nct
+new jersey
+new mexico
+new south wales
+new york
+north carolina
+north holland
+north rhine-westphalia
+nuevo león
+ohio
+oklahoma
+ontario
+oregon
+ōsaka
+penang
+pennsylvania
+provincia de heredia
+quebec
+rhône-alpes
+rio grande do sul
+san juan
+santiago metropolitan
+são paulo
+seoul
+shaanxi
+shanghai shi
+sofia-capital
+south australia
+south carolina
+stockholm
+taipei
+tamil nadu
+telangana
+tennessee
+texas
+thành phố hà nội
+tokyo
+victoria
+vienna
+virginia
+washington
+west bengal
+yunnan sheng
+zurich
+
+
+
+city
+select
+addison
+adelaide
+ahmedabad
+albany
+albuquerque
+allerød
+alpharetta
+álvaro obregón
+amstelveen
+ariana
+athens
+atlanta
+auckland
+austin
+bad homburg
+bangkok
+barueri
+beijing
+bengaluru
+bentonville
+böblingen
+bogotá
+boise
+boston
+boulogne-billancourt
+bracknell
+bucharest
+calcutta
+castle rock
+cernusco sul naviglio
+charlotte
+chennai
+chicago
+chongqing
+columbia
+corvallis
+dalian
+dallas
+diegem
+dornach
+dubai
+dübendorf
+duluth
+el dorado hills
+elkridge
+englewood cliffs
+forest hill
+fornebu
+fort collins
+fort lauderdale
+fort worth
+grenoble
+guadalajara
+guangzhou
+gurgaon
+hanoi
+hefei
+heilongji
+heredia
+ho chi minh city
+houston
+hyderabad
+irvine
+jakarta
+kansas city
+kunming
+lagos
+las rozas
+leixlip
+les ulis
+lima, peru
+london
+los angeles
+makati city
+manila
+memphis
+merritt island
+mexico city
+meyrin
+miami
+minneapolis
+mississauga
+monterrey
+montreal
+morristown
+mumbai
+nanjing
+ness ziona
+netanya
+new delhi
+new hudson
+new york
+oklahoma city
+orlando
+osaka
+palo alto
+philadelphia
+phoenix
+plano
+pointe-claire
+portland
+porto alegre
+prague
+pune
+ra'anana
+raleigh
+ratingen
+rhodes
+rio rancho
+sacramento
+saint paul
+san diego
+san francisco
+san jose
+sant cugat
+santiago
+seattle
+shanghai
+shenzhen
+sofia
+solna
+suwon-si
+suzhou
+sydney
+taipei
+tijuana
+tlaquepaque
+vallejo
+vancouver
+vandalia
+vienna
+vienna
+warren
+warrington
+warsaw
+washington
+wrocław
+xi'an
+yokohama
+zagreb
+zhengzhou
+
+
+
+search
+reset
+
+
+
+
+
+
+sr big data engineer
+apply
+job id 3021158
+location
+    houston, texas
+date posted 12/05/2017
+responsibilities:designs enhancements, updates, and programming changes for portions and subsystems of end-user applications software running on local, networked, and internet- based platforms.analyzes design and determines coding, programming, and integration activities required based on general objectives and knowledge of overall architecture of product or solution - mainly in big data domain using amazon web services.designs big data database schemas.leads a project team of other software applications engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for assigned applications portion or subsystem.collaborates and communicates with management, internal, and outsourced development partners regarding software applications design status, project progress, and issue resolution.represents the software applications engineering team for all phases of larger and more-complex development projects.provides guidance and mentoring to less- experienced staff members.education and experience required: bachelor's or master's degree in computer science, information systems, or equivalent.typically 6-12 years experience.knowledge and skills: using software applications design tools and languages.expert at sql queries.experience with java or scala build systems: maven, ant, sbt and gradle.experience with aws big data stack - kinesis, emr, spark is appreciated.experience with data bricks is a big bonusexperience building and operating at scalesignificant contribution to development for applications or services with a large user basestrong understanding of distributed systems and distributed computation.ability to communicate comfortably, at different levels, with different stakeholdersexcellent communication and collaboration skillsexperience with multiple apache hadoop / spark ecosystem applications, like: hadoop, hive, oozie, pig, presto, hue, spark, tachyon, zeppelin · java or scala development experience.
+apply
+
+
+
+share
+
+linkedin
+twitter
+facebook
+email
+
+
+
+
+
+
+about this location
+check out where you could be working before you apply.
+view map
+
+
+similar jobs
+
+
+
+application security engineer
+houston, texas
+
+
+
+
+big data engineer
+houston, texas
+
+
+
+
+desktop workstation r&d manager
+fort collins, colorado, houston, texas
+
+
+
+
+network administrator
+houston, texas
+
+
+
+
+
+
+sign up for updates
+email addressareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions and click “add”.categorylocationadd +engineering, houston, texas, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+legal & eeo statements
+
+
+standards of business conduct (sbc):
+the hp standards of business conduct (sbc) embody the fundamental principles that govern our ethical and legal obligations to hp. they pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.
+read more about how we win the right way.
+
+
+equal opportunity employer (eeo):
+hp, inc.  provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).
+please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. this information is provided voluntarily. the information obtained will be kept in strict confidence.
+if you’d like more information about hp’s eeo policy or your eeo rights as an applicant under the law, please click here: equal employment opportunity is the law equal employment opportunity is the law - supplement
+pay transparency nondiscrimination provision: the contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.
+
+
+accessibility:
+hp is committed to working with and providing reasonable accommodation to qualified individuals with physical and mental disabilities. if you need assistance in filling out the employment application or require a reasonable accommodation while seeking employment, please e-mail hrgsglobalstaffing@hp.com.
+note: this option is reserved for applicants needing a reasonable accommodation related to a disability.
+
+
+
+follow hp careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

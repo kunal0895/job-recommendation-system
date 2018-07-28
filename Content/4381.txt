@@ -1,0 +1,193 @@
+
+
+
+careers center - data analytics specialist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+data analytics specialist
+
+
+job location
+
+us-or-portland
+
+
+
+
+
+job id
+
+2017-4c
+
+
+type
+
+regular full-time
+
+
+hiring pay range
+
+$60,000 - $74,000 
+
+
+# of openings
+
+2
+
+
+status
+
+exempt
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+provide data analysis for pacificsource to achieve the goals and initiatives identified in our strategic plan.  primary subject of analytic support will be related to analysis of cost and utilization of health services, in support of large employer reporting, financial modeling for provider contracting analysis, and identification of opportunities and evaluation of health services activities, including, but not limited to, disease management, wellness programs, and early identification of high risk populations.  analytical role may vary and involve knowledge of contract language, healthcare utilization, performance analysis for clinical programs, state and federal guidelines. 
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+perform accurate and complete data extraction from data warehouse as well as nonstandard data sources to meet project requirements. this would include cleaning, transformation and pre-processing data.perform statistical analysis and modeling techniques on very large data sets, including the use of standard statistical packages such as r or sas.develop solutions that visualize data and allow customer to interact with the data using data visualization software solutions such as tableau or microsoft power bi.analyze health care data, utilization, quality initiatives, outcome, and performance analysis for clinical programs.assist in the development, implementation and evaluation of disease management and pharmacy management methodologies across diseases. develop analyses to evaluate new program features including testing and implementation of new clinical programs.present complex data, analysis and findings to teams in a way that is clear and understandable.keep current on current trends, best practices and technologies in analytics and make appropriate recommendations to technology planning team.support of provider contracting through analysis of cost and utilization and modeling of new contractual provision.provide information and support for ad hoc analytic projects for internal customers.gather and generate information used to understand health costs and assist with making recommendations to health plan on cost analysis.perform data analytics including standard deviation, downside risk etc. as well as utilize index characteristics.assist in the development of capabilities and performance measurements. respond to ad-hoc analytic requestssupporting responsibilities: meet department and company performance and attendance expectations.follow the pacificsource privacy policy and hipaa laws and regulations concerning confidentiality and security of protected health information.perform other duties as assigned.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+work experience: three years’ experience in healthcare analytics is required. education, certificates, licenses: bachelor's degree in mathematics, computer science, statistics, engineering, health economics, public health or similar research related field. related master degree preferred. knowledge:  proven ability to manage multiple projects and competing deadlines.  understanding of advanced analytics methods (such as machine learning, multivariate statistics, cluster analysis, simulation and neural networks).  ability to manage workload within a team environment or without direct supervision. ability to solve complex problems. ability to deal responsibly with confidential information.  proficiency in at least one statistical/analytical programming tools such as r, python, sas, spss.  proficiency in other technical applications such as tableau, sql, and web-based database tools. skilled in microsoft office: word, excel, powerpoint, outlook. ability to work in a team environment and manage multiple priorities. experience in python, ruby, octave/matlab, php, spark, hadoop is a plus. preferred knowledge:  familiarity with medicare five-star, oregon quality incentive measures and/or ncqa hedis.  working knowledge of medical costs is desired, while experience with medical coding and terminology. competencies our values building customer loyaltybuilding strategic work relationshipscontributing to team successplanning and organizingcontinuous improvementadaptabilitybuilding trustwork standards  we are committed to doing the right thing.we are one team working toward a common goal.we are each responsible for our customers’ experience.we practice open communication at all levels of the company to foster individual, team and company growth.we actively participate in efforts to improve our communities-internal and external.we encourage creativity, innovation, continuous improvement and the pursuit of excellence. environment: work inside in a general office setting with ergonomically configured equipment. travel is required approximately less than 5% of the time. physical requirements: stoop and bend. sit and/or stand for extended periods of time while performing core job functions.  repetitive motions to include typing, sorting and filing. light lifting and carrying of files and business materials. ability to read and comprehend both written and spoken english. communicate clearly and effectively. pacificsource is an equal opportunity employer.  all qualified applicants will receive consideration for employment without regard to status as a protected veteran or a qualified individual with a disability, or other protected status, such as race, religion, color, national origin, sex, sexual orientation, gender identity or age.   
+
+
+
+
+
+apply
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,696 @@
+
+
+
+
+jarus technologies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+facebook
+
+
+twitter
+
+
+linkedin
+
+
+
+
+
+
+
+
+
+products
+
+
+insurance systems framework
+
+
+mobile apps for insurance
+
+
+telematics
+
+
+
+
+telematics
+
+
+self-service portals
+
+
+real time asap
+
+
+reports asap
+
+
+
+
+services
+
+
+policy admin implementation
+
+
+high quality soa implementation
+
+
+professional services
+
+
+
+
+company
+
+
+alliances
+
+
+awards
+
+
+careers
+
+
+our openings
+
+
+
+
+contact us
+
+
+
+
+news
+
+
+events
+
+
+upcoming events
+
+
+past events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our openings
+
+our openings
+
+
+us
+
+
+software developer – php/node/angular (3+ yrs.)
+
+software developer – php/node/angular (3+ yrs.)
+
+location : pittsburgh, pa, full-time
+experience : 3+ yrs.
+education : degree in computer science or related field with equivalent experience.
+job description
+
+hands on developer who will be assisting in production support, development, maintenance of technical frameworks and implementations. expected to have extensive expertise using technologies such as node.js, angular, mvc / mvvm frameworks, javascript, jquery rest json, xml, ms-sql. development experience with mean stack, php/joomla, ecommerce web applications is a plus.
+responsible for solving technical problems connected with the project along with the technical documentation and delivery of the module implementation as part of the team.
+upgrade periodically with latest technologies and propose necessary technology adoptions to enhance the product line.
+independently find solutions for the above development using the latest technologies and frameworks.
+contribute to overall architecture, design and development of frameworks for the product line.
+
+desired candidate profile:
+
+very strong in web application development using mvc/mvvm framework, mean stack, php/joomla and formal sdlc process
+exposure to sql server 
+sound exposure to database concepts and messaging concepts
+
+other requirements
+
+ability to troubleshoot production issues spanning all layers
+ability to work seamlessly with multi-shore development teams
+acquire sufficient knowledge of the ecommerice domain
+take ownership by being responsible overall delivery
+excellent written and oral communication skills and ability to work with technical and business subject matter experts
+
+
+
+
+tech lead/senior .net engineer (8+ yrs.)
+work responsibilities – lead a team of developers in implementing insurance solutions leveraging jarus insurance systems framework…
+
+tech lead/senior .net engineer (8+ yrs.)
+
+location : pittsburgh, pa, full-time
+                                    
+experience : 8+ yrs.
+job description
+
+lead a team of  developers whom you would be assisting in developing technical frameworks and  implementations expected to develop high level expertise in the development of  policy admin using technologies such as asp.net, mvc, javascript, rest api,  json, xml, wcf entity framework.
+responsible for  solving technical problems connected with the project along with the technical  documentation and delivery of the module implementation as part of the team.
+upgrade  periodically with latest technologies and propose necessary technology  adoptions to enhance the product line.
+independently find  solutions for the above development using the latest technologies and  frameworks.
+contribute to  overall architecture and design of frameworks for the product line.
+insurance domain  expertise is also a plus but not mandatory.
+some travel will be  required
+
+desired candidate profile:
+
+education: degree  in computer science or related field with equivalent experience.
+very strong in .net  development using c# and formal sdlc process
+exposure to sql  server, iis 
+familiarity with  o/r (object to relational) mapping frameworks and tools
+familiarity with  the concepts of xml, xsd and web services
+sound exposure to  database concepts and messaging concepts
+
+other requirements
+
+able to provide guidance to team members and mentor them in such a way that they become self-sufficient
+acquire sufficient knowledge of the insurance domain
+take ownership by being responsible overall delivery
+excellent written and oral communication skills and ability to work with technical and business subject matter experts
+
+
+
+
+software engineer –.net (5+ yrs.)
+work responsibilities – member of a team developing insurance solutions using microsoft technologies….
+
+
+
+software engineer –.net (5+ yrs.)
+                                    
+
+
+location : pittsburgh, pa, full-time
+experience : 5+ years of hand-on development experience.
+education : bachelor’s degree in computer science or related field.
+technical skills : strong in microsoft technologies development, sdlc process.
+
+developer skill sets : web application development, spa, razor and entity frameworks, .net framework 3.x and higher, .net c#, asp.net, xml, sql, microsoft sql server.
+                                        windows powershell and/or command line tools, scripts.
+                                    
+job description
+
+ability to handle technical tasks independently.
+schedule work to meet completion dates and technical  specifications.
+ensure that the requirements are adequately defined and  requirements and design are fully documented
+enforce compliance with coding guidelines using code  reviews etc.
+
+optional : experience in insurance domain.
+other requirements
+
+problem solving capabilities 
+good work ethic 
+excellent oral and written communication  skills 
+must have the initiative and be open to learn and pick up  new technologies
+
+
+
+
+marketing manager (5+ yrs.)
+
+marketing manager (5+ yrs.)
+location : pittsburgh, pa, full-time
+experience : 5+ years.
+
+job description
+                                        jarus technologies, a pittsburgh based it firm specializing in software solutions for the p&c and life & health insurance industries is seeking a marketing manager to assist with the tasks outlined below.  the marketing manager will work collaboratively with the sales and business development teams to develop new marketing and advertising campaigns to foster new business relationships.
+                                    
+work responsibilities include:
+
+managing social media accounts – linkedin,  facebook, etc.
+developing and deploying social media marketing  campaigns
+analyze market trends and recommend changes to  business development strategies based on analysis and feedback
+expand and develop marketing platforms
+assist with creating and distributing press  releases, advertisements and other marketing materials
+design print ads and publications
+gather and analyze customer insight / feedback
+assist with developing the new website content  and layout
+
+required skills:
+
+bachelor’s degree – marketing or communications  background is preferred
+marketing experience – 5+ years is preferred
+excellent written and verbal communication  skills
+some travel may be required (less than 10%)
+insurance industry experience is a plus but is  not mandatory
+
+
+
+
+
+
+
+india
+
+
+tech architect / product manager – j2ee (12+ yrs)
+work responsibilities – leading a team of developers whom he is assisting in developing technical frameworks and implementations. developing high level expertise in the development of policy admin using related ….
+
+tech architect / product manager (12+ yrs)
+location:  hyderabad / secunderabad (a full-time staff position)
+experience: 12+ yrs hand-on development experience
+education: b.tech. m.tech.(cse), mca, m.sc. (cs), ms-it
+technical skills: very strong in j2ee development and formal sdlc process
+job description
+
+responsible for java/j2ee application development supporting business objectives while providing expertise in software development lifecycle phases from concept and design to testing.
+high expertise developing highly complex technical solutions in a j2ee web environment.
+analyzes, designs and builds component-based applications in a web/internet delivery environment, including introduction of an application layer, modeling techniques, component and object-oriented design, and systematic approaches to application integration.
+
+a must : performs hands-on coding
+
+expertise in jsf, xml, hibernate, spring, struts, strong relational database experience.
+
+addtional
+coaching and mentoring the project team producing quality, on-time, on-budget project deliverables that meet the sow requirements and assists in architecting solutions.
+
+high expertise in java
+exposure to j2ee application servers – weblogic, jboss, ibm websphere.
+exposure to java server faces (jsf – richfaces is a plus but not mandatory)/struts/ jsp.
+familiarity with o/r (object to relational) mapping frameworks and tools – hibernate/ toplink/spring.
+familiarity with the concepts of xml, xsd and web services
+
+optional: (should have worked on) good to have sound exposure to database concepts and mq concepts.
+work responsibilities
+
+lead a team of developers/senior whom you would be assisting in developing technical frameworks and implementations expected to develop high level expertise in the development of policy admin using related technologies such as java ee, jsf, and hibernate to name a few.
+responsible for solving technical problems connected with the project along with the technical documentation and delivery of the module implementation as part of the team.
+upgrade periodically with latest technologies and propose necessary technology adoptions to enhance the policy admin product line.
+independently find solutions for the above development using the latest technologies and frameworks.
+contribute to overall architecture and design of frameworks for the policy admin product line.
+
+domain knowledge (optional)
+
+insurance domain expertise is also a plus but not mandatory.
+
+strategic responsibility: responsible for understanding customer priorities, product values business processes and defining product features that will enhance user experience
+expectations:
+non – technical factors:
+
+provide guidance to team members and mentor them in such a way that they become self sufficient.
+acquire sufficient knowledge of domain and acord model.
+
+default expectation: take ownership by being responsible overall of the ‘product’ from “concept” to “delivery”
+other main attributes and skills
+1. problem solving
+
+ability to ascertain key issues
+conduct appropriate research to support conclusion
+use the proper tools and resources to solve problem or issue
+
+2. work ethic
+
+works well within a team environment
+demonstrates a positive attitude
+able to work independently and with little supervision
+completes assigned tasks successfully
+demonstrates honesty and integrity
+adheres to policy and general team guidelines
+ability to accept and apply constructive feedback in professional manner
+
+3. communication
+
+team player with strong command of english (written, spoken and understanding)
+ability to articulate concepts/ideas clearly and also communicate directly with the customer, to understand their requirements, provide feedback etc.
+maintains a professional attitude and demeanor
+listens to and asks appropriate questions
+share knowledge gained and lessons learned from education and experience
+
+4. essential other skills:
+
+must have the initiative and be open to learn and pick up new technologies, in short, must be a self-learner with a go getter attitude.
+
+
+
+
+tech lead  – dot.net (6+ yrs)
+work responsibilities – strong in microsoft technologies development, sdlc process…
+
+tech lead  - dot.net (6+ yrs)
+location:  hyderabad / secunderabad (a full-time staff position)
+experience: 6+ yrs hand-on development experience
+education: b.tech. m.tech.(cse), mca, m.sc. (cs), ms-it
+technical skills: strong in microsoft technologies development, sdlc process
+
+developer skill sets: web application development, spa, razor and entity frameworks
+                                        .net framework 3.x and higher, .net  c#, asp.net (earlier version of asp is a plus), xml, sql, microsoft sql server 2008 or higher (exposure to sql server 2003)
+                                        windows powershell and/or command line tools, scripts
+                                    
+optional: strong plus if has experience in insurance domain.
+job description
+
+ability to handle technical tasks indepently.
+schedule work to meet completion dates and technical specifications.
+ensure that the requirements are adequately defined and requirements and design are fully documented
+enforce compliance with coding guidelines using code reviews etc.
+
+other main attributes and skills
+1. problem solving
+
+ability to ascertain key issues
+conduct appropriate research to support conclusion
+use the proper tools and resources to solve problem or issue
+
+2. work ethic
+
+works well within a team environment
+demonstrates a positive attitude
+able to work independently and with little supervision
+completes assigned tasks successfully
+demonstrates honesty and integrity
+adheres to policy and general team guidelines
+ability to accept and apply constructive feedback in professional manner
+
+3. communication
+
+team player with strong command of english (written, spoken and understanding)
+ability to articulate concepts/ideas clearly and also communicate directly with the customer, to understand their requirements, provide feedback etc.
+maintains a professional attitude and demeanor
+listens to and asks appropriate questions
+share knowledge gained and lessons learned from education and experience
+
+4. essential other skills:
+
+must have the initiative and be open to learn and pick up new technologies, in short, must be a self-learner with a go getter attitude.
+
+
+
+
+sr.software engineer – dot.net (3-5 yrs)
+work responsibilities – strong in microsoft technologies development, sdlc process…
+
+sr.software engineer (3-5 yrs)
+location:  hyderabad / secunderabad (a full-time staff position)
+experience: 3-5 yrs hand-on development experience
+education: b.tech. m.tech.(cse), mca, m.sc. (cs), ms-it
+technical skills: strong in microsoft technologies development, sdlc process
+
+developer skill sets: web application development, spa, razor and entity frameworks, .net framework 3.x and higher, .net c#, asp.net (earlier version of asp is a plus), xml, sql, microsoft sql server 2008 or higher (exposure to sql server 2003)
+                                        windows powershell and/or command line tools, scripts
+                                    
+optional: strong plus if has experience in insurance domain.
+job description
+
+ability to handle technical tasks indepently.
+schedule work to meet completion dates and technical specifications.
+ensure that the requirements are adequately defined and requirements and design are fully documented
+enforce compliance with coding guidelines using code reviews etc.
+
+other main attributes and skills
+1. problem solving
+
+ability to ascertain key issues
+conduct appropriate research to support conclusion
+use the proper tools and resources to solve problem or issue
+
+2. work ethic
+
+works well within a team environment
+demonstrates a positive attitude
+able to work independently and with little supervision
+completes assigned tasks successfully
+demonstrates honesty and integrity
+adheres to policy and general team guidelines
+ability to accept and apply constructive feedback in professional manner
+
+3. communication
+
+team player with strong command of english (written, spoken and understanding)
+ability to articulate concepts/ideas clearly and also communicate directly with the customer, to understand their requirements, provide feedback etc.
+maintains a professional attitude and demeanor
+listens to and asks appropriate questions
+share knowledge gained and lessons learned from education and experience
+
+4. essential other skills:
+
+must have the initiative and be open to learn and pick up new technologies, in short, must be a self-learner with a go getter attitude.
+
+
+
+
+
+send an email to  jobs@jarustech.com with the updated resume to contact
+
+
+
+
+
+2017 events
+
+
+
+
+
+
+
+
+
+
+
+
+
+awards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+insurance systems framework
+
+mobile apps for insurance
+
+telematics
+
+
+self-service portals
+real time asap
+reports asap
+
+
+
+
+
+
+services
+
+policy admin implementation
+high quality soa implementation
+professional services
+
+
+
+
+
+
+company
+
+alliances
+awards
+
+careers
+
+our openings
+
+
+contact us
+
+
+
+
+
+
+events
+
+upcoming events
+past events
+
+
+
+
+social media
+
+
+facebook
+
+
+facebook
+
+
+
+
+twitter
+
+
+twitter
+
+
+
+
+linkedin
+
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+
+
+linkedin
+
+
+
+
+twitter
+
+
+twitter
+
+
+
+
+facebook
+
+
+facebook
+
+
+
+
+
+copyright © 2017 jarus technologies, pittsburgh, pa | privacy policy | sitemap 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

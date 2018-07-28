@@ -1,0 +1,521 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+malwarebytes | site reliability engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+business solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+     
+ 
+ 
+more
+less
+
+
+
+ support
+
+ company
+
+
+
+
+
+products
+
+
+pricing
+
+
+shop
+
+
+
+
+
+
+my account
+
+
+ en
+
+menu languages 
+languages 
+
+ deutsch
+
+
+ español
+
+
+ français
+
+
+ italiano
+
+
+ português (portugal)
+
+
+ português (brazil)
+
+
+ nederlands
+
+
+ polski
+
+
+ pусский
+
+
+
+for home
+
+menu for home 
+products 
+ malwarebytes for windows 
+ malwarebytes for mac 
+ malwarebytes for android 
+ how to renew 
+
+
+for business
+
+menu for business 
+products 
+ endpoint protection 
+ incident response 
+ endpoint security 
+industries 
+education 
+finance 
+healthcare 
+ransomware and business
+support services
+integrations & alliances
+resources 
+  
+  
+  
+
+
+labs
+
+menu labs 
+
+
+
+
+
+
+ blog 
+ threats 
+ scams 
+ mbtv 
+
+
+support
+
+menu support 
+ for home 
+ for business 
+ release history 
+ lifecycle policy 
+ guides 
+ forums
+
+
+
+products
+
+menu products 
+ all products 
+ for home 
+ for business 
+ support services 
+ for technicians 
+
+
+
+
+about us
+
+menu about us 
+mission statement 
+leadership 
+board of directors 
+investors 
+awards 
+clients 
+patents
+careers
+
+
+
+wallpapers
+
+
+
+partners
+
+menu partners 
+resellers 
+affiliates 
+strategic technology partners 
+
+
+news & events
+
+menu news & events 
+in the news 
+press releases 
+events 
+download press kit 
+awards 
+
+
+resources
+
+menu resources 
+ datasheets 
+infographics 
+reviews
+
+ case studies 
+ webinars 
+ analyst reports 
+ white papers 
+
+
+contact us
+
+menu contact us 
+business support
+
+consumer support
+
+business sales
+
+partner with us 
+press inquiries 
+report a bug 
+
+
+careers
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+site reliability engineer
+santa clara, california
+
+
+
+
+who we are
+ 
+malwarebytes is the next-gen cybersecurity company that millions worldwide trust. malwarebytes proactively protects people and businesses against dangerous threats such as malware, ransomware, and exploits that escape detection by traditional antivirus solutions. the company’s flagship product combines advanced heuristic threat detection with signatureless technologies to detect and stop a cyberattack before damage occurs. more than 10,000 businesses worldwide use, trust, and recommend malwarebytes. founded in 2008, the company is headquartered in california, with offices in europe and asia, and a global team of threat researchers and security experts.
+we’ve created a fantastic culture that our employees love and were recently named in the top 10 of fortune magazine’s “great place to work” list.   we’re pretty proud of all that too.  we’re growing fast and are looking for some great people to join us.
+ 
+who we need
+our site reliability engineering team and our software engineers work side by side to help deliver quality solutions inside of aws. we have a large presence in aws and are charged with stability, security, deployment automation, and helping developers to use aws within their projects.
+ 
+
+we need people who have a strong knowledge of our core aws technologies (ecs, lambda, api gateway, sqs, elasticache, iam, vpc). candidate needs to have production level experience using and debugging these services.
+we need people who have experience with at least two of the following languages and have experience integrating with third party api’s. (python, ruby, powershell, bash, javascript).
+we need people who have experience debugging rest api's and other http services.
+we need people who have experience automating deployment processes.
+we need people who are creative, passionate about technology, and ready to help build something great.
+
+ 
+what you will do
+our sre team members are embedded with one of several engineering teams within malwarebytes. as an sre, you will attend standup with the dev team and help guide them as they create new solutions within aws. 
+we do a lot of work to empower our developers to safely use these services while still following company policies. we do this via various utilities that we have built and implemented within the engineering team. as processes constantly evolve, you will help to create and expand upon tools that further this initiative.
+
+you will help us expand on our monitoring capabilities by identifying valuable data and ensuring it is parsed and searchable by our engineering teams. we use a combination of logs, system metrics, and application performance metrics to help debug interesting challenges. as our services grow, the more interesting these challenges can become, so we will rely on you to help us identify, resolve, and predict these issues.
+you will build infrastructure inside of aws via code. all of our environments are expected to be scripted and checked in, so familiarity with tools such as terraform or cloudformation will come in handy here. you will architect secure and robust solutions with regional disaster recovery in mind.
+you will help design ‘self-healing’ solutions to help ensure the stability and security of our services, in addition to helping control costs. we regularly write custom code to help perform monotonous tasks that would normally require human intervention. this requires careful consideration and lots of testing, but tends to be pretty fun.
+
+ 
+skills you'll need to have
+
+deep knowledge and production experience in designing, deploying and administering complex amazon aws cloud applications (api gateway, lambda, ecs, alb, waf, ec2, rds, elasticache, elasticsearch, sqs, iam, vpc, cloudformation)
+experience working with configuration management tools (puppet, chef, ansible)
+production experience with docker
+an in-depth knowledge of linux troubleshooting, including networking, file systems, security, and the kernel.
+strong knowledge of tcp/ip networking, including both hardware and host-based routing, vlan's, firewalls, subnetting, and load balancing.
+experience writing code to create automated solutions (bash, ruby, python, javascript, powershell)
+in depth knowledge of troubleshooting tools for debugging/tuning restful api’s.
+excellent knowledge of git best practices (git flow)
+good understanding of modern micro-services architectures
+production experience gathering, digesting, and improving monitoring and performance metrics
+experience designing and enforcing disaster recovery plans and business continuity contingencies
+experience being on-call in a 24x7 production environment.
+meticulous attention to detail and strong organization skills.
+bachelor’s degree in computer science, information systems, engineering, or other related disciplines and 5+ years of experience in it infrastructure services or related field with at least 5 years of rhel, centos, ubuntu or debian linux experience.
+additional training, technical certification, and/or year’s experience may be substituted in lieu of a degree.
+
+ 
+what we offer
+
+competitive compensation and benefit packages
+a quickly growing, great work environment that supports growth and development
+a company who enjoys having fun; holiday and summer parties, annual global company off-site, experienced a private star wars pre-opening day viewing and lots of other great stuff
+
+  
+
+
+
+
+
+
+
+
+
+
+apply for site reliability engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resume/cv*
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+malwarebytes is an equal opportunity employer. malwarebytes does not discriminate against any employee or applicant because of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law. it is malwarebytes' policy to comply with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity.
+              
+
+
+
+
+
+
+
+
+
+
+company
+about us
+careers
+partners
+news & press
+wallpapers
+my account
+
+
+learn
+support
+forums
+release history
+lifecycle policy
+user guides
+resources
+
+
+buy
+for home
+for business
+for education
+for finance
+for healthcare
+services
+
+
+
+newsletter
+
+
+
+
+
+
+
+
+contact
+
+						malwarebytes
+						3979 freedom circle, 12th floor
+						santa clara, ca 95054
+
+
+
+
+
+
+eula
+privacy
+terms of service
+© 2017 malwarebytes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

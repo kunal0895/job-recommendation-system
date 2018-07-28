@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+full-stack javascript developer
+
+
+
+
+location
+
+
+st. louis, mo (hq)
+
+
+
+
+job code
+
+
+5957
+
+
+
+
+# of openings
+
+
+1
+
+
+
+
+apply now
+full-stack javascript developer
+world wide technology (wwt) is a global technology integrator and supply chain solutions provider. through our culture of innovation we inspire, build and deliver business results, from idea to outcome.
+based in st. louis, wwt works closely with industry leaders such as cisco, hpe, dell emc, netapp, vmware and f5, focusing on three market segments: fortune 500 companies, service providers and the public sector.  wwt employs more than 4,000 people and operates in more than 2 million square feet of state-of-the-art warehousing, distribution and integration space strategically located throughout the world.  wwt is proud to announce that it has been named on the fortune "100 best places to work for®" list for the sixth consecutive year and was awarded #5 on glassdoor’s 2017 employees' choice awards, honoring the best places to work.
+world wide technology, inc. is currently seeking a full-stack javascript developer to join the enterprise content management team in st. louis, mo. on this team, you would be responsible for building and maintaining custom web applications and enterprise apis used by both internal and external users with a focus on providing custom content solutions across a wide variety of functional use cases. 
+the ideal candidate will draw upon exemplary analytical, critical thinking, and problem-solving skills, deep software development experience, and a passion for creating reliable and maintainable systems. the candidate should be open to new challenges, extremely good at multi-tasking, innovative, creative, self-directed and a great team player. the candidate should also drive continuous process improvement, and collaborate effectively with cross-functional business and software development teams to solve problems and implement new solutions.
+qualifications & key skills:
+
+
+passion for software development and well-versed in industry trends such as single page applications, responsive design, and rest based api’s.
+
+
+experience developing distributed/scalable systems and high-volume transaction applications in a 24/7 environment
+
+
+2+ years’ experience developing single page applications using modern javascript frameworks like angularjs or vuejs.
+
+
+2+ years’ experience developing restful apis
+
+
+experience with nodejs a strong plus
+
+
+experience with solr a strong plus
+
+
+experience with rabbitmq a strong plus
+
+
+experience with mongodb gridfs a strong plus
+
+
+experience with containerized deployment platforms (e.g. cloudfoundry, docker) a plus
+
+
+testing - from unit to functional to integration
+
+
+customer engagement including story boarding, design, and implementation
+
+
+possess a solid understanding of agile, lean and scrum principles
+
+
+self-motivated with the ability to work independently with minimal supervision
+
+
+world wide technology, inc. offers excellent benefits and competitive compensation. visit our company web page at  www.wwt.com  for more information.
+
+
+equal opportunity employer minorities/women/veterans/disabled
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

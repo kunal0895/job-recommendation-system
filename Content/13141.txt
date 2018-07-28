@@ -1,0 +1,60 @@
+
+
+
+
+aicure - jobs: backend software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+backend software engineer
+
+backend software engineer
+new york, united states
+
+descriptionaicure is an nih and vc-funded company that leverages mobile technology by combining it with artificial intelligence (computer vision, machine learning, big data) to bring better health, better drugs, and better treatment to everyone on the planet. we’re rapidly expanding and if you’re passionate about making a positive impact, we’d like to hear from you.you will play the leading role in developing our backend services and dashboard products. when participants in trials, or patients use the aicure apps, information on their medication intake is reported in various dashboard products, which allow trial coordinators and other stakeholders to gain insights into how each trial is progressing, and to take actions (patient alerts, etc.). your mission will be to develop aicure’s  backend services, dashboard products, working closely with our experience designers, scientists, and the company’s leadership, technical, and sales teams to deliver outstanding solutions that revolutionize healthcare by improving medication adherence, measurement, and insights.key responsibilities design, implement, launch, and maintain highly visible and scalable services and systems. analyze and improve efficiency, scalability, and stability of current system. build and improve production monitoring. write unit tests and documentation. write well designed, testable, efficient code by using best software development practices. stay abreast of best trends by researching new tools, as well as enhancing and further developing existing solutions.  a passion for performance, debugging and benchmarking. requirements degree in cs, ee or a related field. 3+ years of solid back-end experiences. strong foundation in computer science, with strong understanding in data structures, algorithms, design patterns, and oop. technically savvy and excellent at managing multiple requirements in a fast paced environment. experiences with git, linux, web technologies, sql and/or nosql database, and etc. experience developing backend applications using popular open source frameworks, such as ror, django, java spring. experiences developing microservices and apis. experience with writing different levels of tests. capable of technical deep-dives into code, database, storage, network, and operating system. know how to make the tradeoffs required to ship without compromising quality. excellent communication skills. excellent time and project management skills. passionate about revolutionizing healthcare and having a positive impact on individuals and everyone on the planet. experiences with aws services is a plus.  benefitsphilosophyour selection process is highly competitive because we only hire the best, most enthusiastic candidates. openness, flexibility, creativity, ownership, and accountability are our main pillars. we love solving challenging problems and creating solutions that have real impact on people- at scale.impactwe're on a mission to revolutionize healthcare and when you join us, you'll have the opportunity of having real, tangible impact not only on individuals directly using our technology, but also on how drugs are tested and brought to market across the world. that means everyone on the planet will benefit from what you do. you'll be inspired every day because you'll be making a real difference and you'll see it happen. in real time and at scale.peopleyou'll work with brilliant, positive people who thrive in an interdisciplinary, multi-cultural environment, and are curious, creative, and focused on executing our mission. you'll be up to speed in the the most recent advances in artificial intelligence (machine learning, computer vision, big data) while solving challenging problems that must take into account many fascinating aspects of human psychology and behavior. you'll work with scientists, engineers, designers, and medical doctors, to create innovative products that scale in an environment that encourages learning, collaboration, and growth.compensationwe offer great compensation packages that are not only highly competitive, but will allow you to benefit and grow as we expand and scale.health coveragefull (100%) coverage on medical, dental, and vision insurance plans with one of the biggest health insurance companies in the u.s. you'll have plenty of choices for all of your healthcare needs.401kwe offer 401k so you when you retire, you can benefit from all of the great things you do with us.fantastic locationwe're in one of the best and coolest neighborhoods in nyc: in the heart of the trendy flatiron district, which is extremely well connected, and bustling with culture, food, shopping, cafes, and parks to inspire you.officewe have a fantastic open loft-space with brand new, state of the art equipment including standing desks, snacks, kitchen, areas for mingling and having a break, and plenty of sunshine. full views of the empire state building included.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+aicure website
+
+powered by
+workable
+
+
+
+
+

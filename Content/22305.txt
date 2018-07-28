@@ -1,0 +1,242 @@
+
+
+steelcase careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+homefind an opportunitycorporate
+
+
+
+
+ 
+
+find an opportunitycurrent listingsview history/update profilejoin our talent network
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					devops engineer
+				
+
+
+						tracking code
+					
+
+						000000004730 
+					
+
+						job description
+					
+
+ 
+the internet of things will change the way people work, collaborate and innovate. steelcase, with $3b in annual sales and the global leader in workplace environments, is uniquely positioned to lead the iot transformation in our market. we’re creating connected systems for the workplace - intelligent spaces that are defined, designed and developed on a foundation of deep research and insight into people, space and technology. 
+ 
+we’re growing our technology development team in portland, or and are looking for smart, passionate and collaborative hardware, software and systems engineers to join us. we provide a flexible work environment, the latest tools, competitive compensation and a fantastic new space at the edge of the pearl downtown. even better, we’re offering the opportunity to help influence, innovate and design the way people will work in the future.
+ 
+primary responsibilities:
+ 
+
+writing code for continuous delivery tools and automation to help the product delivery team.
+writing code for containerizing our web application to help the product delivery team.
+configure azure and building infrastructure to support products and spin up resources for products and team member to use.
+deploy our web application for various environments (dev, staging, production.) in case of automation errors.
+strong grasp of automation tools and scripting to build deployment applications.
+regularly interface with developers and team members for capacity and architecture planning
+communicating and collaborating with others across the various teams
+monitor application and system health, provide metrics
+
+ 
+
+
+						required skills
+					
+
+ 
+
+programming: .net, c# , javascript, node.js, bash
+database: documentdb, sql, mysql and nosql
+continuous delivery automation: docker, rancher
+continuous integration: teamcity
+repositories: git, subversion (git primarily)
+cloud architecture: micorsoft azure
+web architectures: azure websites and azure cloud services (node.js / .net)
+able to adopt the right new tools for the job at hand and able to optimize learning for productivity. 
+effective communication, both verbally and written.
+ability to plan and effectively manage tasks to achieve objectives.
+strong team player as well as an individual contributor.
+ability to work effectively with minimal supervision.
+excellent interpersonal skills.
+must have strong organizational skills that demonstrate the ability to prioritize upon short notice while maintaining accuracy.
+
+ 
+
+
+						required experience
+					
+
+ 
+
+minimum 4 year degree in a related discipline
+devops continuous delivery best practices and policy setting.
+devops continuous integration best practices and policy setting.
+devops continuous monitoring and analysis of running environments (dev, staging, production.) best practices and policy setting.
+varied machine maintenance (windows server or linux)
+manage certifications, keys and domain names for the environments
+backup and recovery best practices and policy setting
+azure configuration, management and best practices.
+
+ 
+
+
+						job location
+					
+
+						portland, oregon, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 1996 - 2017 steelcase inc. all rights reserved.  eoe m/f/disabled/vet 
+
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

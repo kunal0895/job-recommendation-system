@@ -1,0 +1,865 @@
+
+
+
+
+
+thermo fisher scientific - sr. software engineer job in machine learning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+discover our stories
+career areas
+
+
+engineering
+field service
+finance
+general management
+human resources
+operations & supply chain
+quality
+regulatory
+r&d
+sales & marketing
+software & it
+military & veteran
+students & new grads
+
+
+our culture
+
+
+our mission & values
+what we do
+our brands
+diversity & inclusion
+corporate responsibility
+awards
+
+
+employee experience 
+
+
+5 reasons to work at thermo fisher
+benefits
+how to apply
+virtual lab training
+
+
+locations 
+
+
+north america
+rochester
+sparks
+emea
+latin america
+apac
+china
+australia / new zealand
+southeast asia
+india
+korea
+japan
+
+
+featured areas 
+
+
+bioproduction
+
+
+events
+
+
+
+explore
+
+
+
+careers at
+thermofisher scientific
+
+
+
+ what story will you tell?
+
+
+
+
+search jobs
+
+
+
+
+category
+
+category
+accounting/auditing
+administrative services
+bioinformatics
+business management
+communications
+corporate strategy development
+customer service
+engineering
+facilities / real estate
+featured
+field services
+finance / economics
+human resources
+information technology
+internship & apprenticeship
+legal & compliance
+manufacturing & production
+marketing
+new grad
+operations
+procurement / purchasing
+product management
+project management
+quality
+regulatory
+research & development
+sales
+scientist
+software development
+supply chain / distribution
+
+
+
+
+
+country
+
+select a country
+
+
+
+
+
+state/region
+
+ select
+
+
+
+
+
+city
+
+ select
+
+
+
+
+search
+
+
+or search by keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careeropportunities
+what story will you tell?
+
+
+
+
+
+
+
+
+
+careers home > 
+job details
+
+
+
+
+
+
+
+
+
+    sr. software engineer - machine learning
+
+  
+
+
+apply now >>
+       
+
+
+
+job id : 
+55261br
+
+
+location : 
+us - oregon - hillsboro
+
+
+ : 
+job descriptionas the world leader in serving science, we empower our people to advance innovative technologies, develop meaningful solutions, and build rewarding careers. with revenues of $18 billion and the largest investment in r&d in the industry, we give our 55,000 extraordinary minds the resources and opportunities to make significant contributions to the world. if you are machine learning scientist with a background in computer vision algorithm development, have great communication skills and you enjoy working with smart people… then read on!  we are looking for self-motivated individual with strong software skills to work in a group focused on automation software to control thermo fishers transmission electron microscopes marketed in our semiconductor business.  in this position, you will join a team developing the preeminent innovative wafer-to-atomic information workflows, enabling our semiconductor customers to make timely decisions. this team builds ai computer vision algorithms, and machine automation routines to simplify and automate the dual beam electron and ion beam microscope. the primary purpose of this system is to create micron size samples that are tens of nanometers thick to be imaged in thermo fishers transmission electron microscopes. responsibilities:develop machine learning algorithms for robust object detection, classification and pose estimation.develop algorithm designs based on a full comprehension of the function, purpose and application of the product.package and communicate highly technical concepts to both technical and non-technical audiences.minimum qualifications:strong background in machine learning and computer vision techniques.knowledge of deep learning techniques such as cnnstrong mathematical aptitude.familiarity with python and c/c++.excellent interpersonal communications skills are required due to the high degree of interaction and collaboration across functional groups.typically requires a university m.s. or ph.d. degree in computer science, physics, math, or related technical discipline.eligible for passport and able to travel.preferred qualifications:experience developing production quality software.knowledge of microscopy (optical/florescence, fib, sem, tem)development experience with highly-integrated, high-performance systems used in semiconductor capital equipment or related industries.thermo fisher scientific is an eeo/affirmative action employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.thermo fisher scientific is an eeo/affirmative action employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.
+
+
+
+apply now >>
+       
+
+
+
+
+
+
+
+
+join our talent community
+if you're ready to make a difference in the world, you can do it here.
+join 
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the stories we tell
+
+
+
+
+
+
+ 
+
+
+
+
+my work is a story of momentum
+
+
+
+
+
+
+ 
+
+
+
+
+inspiring future scientists
+
+
+
+
+
+
+
+our mission is to enable our customers to make the world healthier, cleaner and safer.
+
+
+
+
+about thermo fisher scientific
+
+					thermo fisher scientific inc. (nyse: tmo) is the world leader in serving science, with revenues of more than $20 billion and approximately 65,000 employees globally. our mission is to enable our customers to make the world healthier, cleaner and safer. we help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity. through our premier brands - thermo scientific, applied biosystems, invitrogen, fisher scientific and unity lab services - we offer an unmatched combination of innovative technologies, purchasing convenience and comprehensive services.
+				
+
+
+
+
+premier brands
+
+thermo scientific
+applied biosystems
+invitrogen
+fisher scientific
+unity lab services
+
+
+
+follow us
+
+facebook
+glassdoor
+linkedin
+twitter
+youtube
+
+
+
+company information
+
+about us
+investors
+newsroom
+responsibility
+careers
+
+
+
+
+
+
+
+
+
+© 2017 thermo fisher scientific, inc. all rights reserved.
+
+
+
+accessibility/disability access
+terms & conditions
+privacy statement
+eeo & affirmative action statement
+sitemap
+powered by smashfly
+
+
+
+
+
+
+
+				all qualified applicants will receive consideration for employment without regard to race, creed, religion, color, national or ethnic origin, citizenship, sex, sexual orientation, gender identity and expression, genetic information, veteran status, age or disability status. read more
+pay transparency nondiscrimination provision. read more
+philadelphia's fair chance hiring law read more
+
+disability access
+					if you are an individual with a disability who requires reasonable accommodation to complete any part of our application process, including the use of this website, please click here.
+
+							applicants have rights under federal employment laws; family and medical leave act (fmla); equal employment opportunity (eeo); and employee polygraph protection act (eppa).
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

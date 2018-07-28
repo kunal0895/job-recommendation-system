@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ arm - intern, research - austin tx 78735
+
+
+
+
+
+
+
+
+search for careers
+arm careers
+
+
+search for careers
+our culture
+our impact
+experienced
+early careers
+students
+
+
+
+
+
+
+
+
+×
+
+employment
+
+
+categories
+
+
+country
+
+
+
+
+
+
+students/interns
+contractors
+consultants
+temporary
+graduate
+experienced professionals
+
+
+
+
+category 1
+category 2
+category 3
+category 4
+category 5
+category 6
+
+
+
+
+country 1
+country 2
+country 3
+country 4
+country 5
+
+
+
+
+
+
+search
+
+
+
+
+
+
+careers at arm
+
+
+
+
+
+
+
+
+
+
+
+
+send this job to a friend                
+
+
+view my account        
+
+
+recruitment enquiries & support
+
+
+
+
+recently viewed jobs
+
+
+
+
+string resource not found: cp.rd.widget.alwayslooking.header
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job details
+
+
+
+
+
+
+
+intern, research
+
+
+
+
+
+
+
+
+job id #:
+11995 
+job category:
+research & development 
+employment type:
+students/interns/coops 
+division:
+research 
+department:
+research  
+
+
+
+
+primary country:
+usa 
+primary location:
+austin (tx) 
+
+
+
+
+
+
+
+
+
+
+
+share:
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+apply with linkedin        
+
+
+
+
+
+
+
+
+
+we are an equal opportunity employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+
+
+
+job description
+job descriptionas the industry's leading supplier of microprocessor technology, arm provides efficient, low-power chip intelligence making affordable, easy-to-use electronic innovations come to life.  arm engineers design and develop cpus, graphics processors, complex system ip, supporting software development tools, and physical libraries.we are seeking highly motivated interns to join arm’s research team to work on a variety of cutting-edge research for spring, summer, or fall-term placements.  our architecture and systems research activities cover a wide range of disciplines including mobile and laptop personal computing and applications; server, cloud, and hpc computing; emerging memory technologies; interconnects; throughput and vector computing; formal design methods and security; exploiting parallelism with vector, simd, throughput, and multicore architecture; and machine learning and computer vision.  exceptional candidates can experience firsthand how arm shapes an ecosystem of more than one thousand partners that ship over 10 billion leading-edge arm-powered processors each year.
+
+
+
+
+job requirements
+education & qualifications • pursuing ms degree or phd in computer science / computer engineering• candidates pursuing bs degree in computer science / computer engineering may be considered if they have project or work experience with essential skills and experienceeducation & qualificationspursuing ms degree or phd in computer science / computer engineeringcandidates pursuing bs degree in computer science / computer engineering may be considered if they have project or work experience with essential skills and experienceessential skills & experiencecandidates should have system architecture and analysis skills in at least two of the following areas:architecture and micro-architecture knowledge of cpu, gpu, or systemssystem performance analysis, modeling, and simulation with tools like gem5workload development and analysisstrong programming skills using languages including c, c++, and python along with excellent problem solving and debugging abilitiesexperience with software workloads, benchmarking, and bottleneck / performance analysis with performance profiling toolsthe candidate should also have expertise in one of the research areas of the group:high performance computing applications, runtimes, and libraries (mpi, pgas, etc.)server and cloud architecturenetwork platform architecturemachine learning, computer vision, and neural networkssoc system architectureheterogeneous computingmulti-processing and parallel computingheterogeneous computingvirtualization and related memory system optimizationexperience in coding for simd and / or vector optimizationsexperience with hardware verification techniquesexperience with graph analyticsscale-up / scale-out interconnectsystems software (os, runtimes, compilers)power modeling and analysiscode optimization for gpusprogrammable hardware acceleratorsalgorithms for engineering or science workloadssuccessful candidates will be enthusiastic, self-motivated, flexible, and have good written and verbal communication skills.
+
+
+
+
+benefits
+your particular benefits package will depend on position and type of employment and may be subject to change. your package will be confirmed on offer of employment. arm’s benefits program provides permanent employees with the opportunity to stay innovative and healthy, ensure the wellness of their families, and create a positive working environment.
+annual bonus plan
+discretionary cash awards
+401(k), 100% matching on first 6% eligible earnings
+medical, dental & vision, 100% coverage for employee only, shared cost for dependents
+basic life and accidental death and dismemberment insurance (ad&d)
+short term (std) and long term (ltd) disability insurance
+vacation, 20 days per year with option to buy 5 more.
+holidays, 13 days per year
+sabbatical, 20 paid days every four-years of service
+sick leave, 7 days per year
+volunteering, four hours per month (teamarm)
+office location dependent: café on site, fitness facilities, team and social events 
+additional benefits include: flexible spending accounts for health and dependent care, eap, health advocate, business travel accident program & commuter programs.
+
+arm, inc. (usa) participates in e-verify.  for more information, please refer to www.dhs.gov/e-verify
+ 
+
+
+
+about arm
+
+arm® technology is at the heart of a computing and connectivity revolution that is transforming the way people live and businesses operate. from the unmissable to the invisible; our advanced, energy-efficient processor designs are enabling the intelligence in 86 billion silicon chips and securely powering products from the sensor to the smartphone to the supercomputer. with more than 1,000 technology partners including the world’s most famous business and consumer brands, we are driving arm innovation into all areas compute is happening inside the chip, the network and the cloud.
+
+with offices around the world, arm is a diverse community of dedicated, innovative and highly talented professionals. by enabling an inclusive, meritocratic and open workplace where all our people can grow and succeed, we encourage our people to share their unique contributions to arm's success in the global marketplace.
+ 
+
+
+
+about the office
+
+    the arm austin office employs staff from across all divisions of arm and is considered the engineering hub for north america. austin has the nickname of “silicon hills” thanks to the high number of tech companies in the area, and is also known as the “live music capital of the world". events such as south by southwest, austin city limits music festival and the f1 grand prix are but a few of the many activities that make austin a top destination for both residents and travelers. 
+
+
+  austin, tx usa  
+ arm inc.
+             encino trace
+             5707 southwest pkwy
+             bldg 1 suite 100
+             austin, tx. 78735
+            
+
+see on google maps
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+related jobs austin (tx)
+
+
+
+
+
+related jobs research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+processors
+multimedia
+physical ip
+development tools
+security on arm
+system ip
+technologies
+internet of things solutions
+buying guide
+
+
+
+support
+
+contact support
+self-service resources
+training
+support & maintenance
+active assist
+arm accredited engineer program
+university program
+
+
+
+community
+
+arm connected community
+social media
+mailing list subscriptions
+rss updates
+
+
+
+markets
+
+internet of things (iot)
+home
+mobile
+wearables
+embedded
+infrastructure
+arm educational partnership
+
+
+
+about
+
+company profile
+investors
+trademarks
+newsroom
+events
+
+
+
+careers
+
+search careers
+careers account
+our culture
+our impact
+experienced
+early careers
+students
+
+
+
+
+
+find us on linkedin
+facebook
+find us on glassdoor
+follow us on twitter
+find us on google plus
+find us on youtube
+find us on instagram
+find us on pinterest
+
+
+
+
+
+terms of use
+privacy
+cookies
+
+all rights reserved. ©arm ltd. 1995 - 2015
+
+
+jobdetails
+
+
+
+

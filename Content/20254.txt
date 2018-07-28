@@ -1,0 +1,306 @@
+﻿
+
+
+
+
+ui developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+how were you referred to us? 
+
+
+referral
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+ui developer
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-03596
+
+location: 
+atlanta, georgia
+
+start date / end date: 12/11/2017 to 11/09/2018
+
+
+
+
+title: ui developer
+location: atlanta, ga (midtown)
+duration 12 month contract with possible extensions
+ 
+
+         expect knowledge of bootstrap – questions on responsive layout, breakpoints, columns
+         expert with css, with less preferred. variety of theming questions, priority of css directives, troubleshooting css. ability to create bootstrap product themes.
+         expert with jquery – common events and methods, selector usage, ajax with jquery, cors
+         experience with additional frameworks. prefer someone who knows some of the latest ecma standard, and possibly some pre-processor, like babel, for cleaner, more concise javascript. if person is expert on angular that will be useful, so additional questions on angular should follow.
+         experience on the usage of font awesome, glyphs and sprites.
+         any knowledge of asp .net mvc / core  questions, as if person has some familiarity with asp.net they'll be on easier integration terms with other developers, especially if they can use visual studio and check in and debug their updates.
+         knowledge of client side debugging techniques, such as fiddler (knowledge of fiddler or charles preferred), chrome debugging tools, console etc.
+
+
+
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

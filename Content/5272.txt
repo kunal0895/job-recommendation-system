@@ -1,0 +1,182 @@
+ 
+
+
+
+
+
+
+
+
+
+data scientist - remote #0104 job at ptp in gold river, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist - remote
+professional services | gold river, ca | full time and contract
+
+
+
+
+
+
+job description
+
+
+about us
+we are a growing company with a solid customer base, excellent compensation and benefits, and a collaborative yet flexible work environment.  if you enjoy challenging projects, using new technologies to deliver innovative business solutions, and you're interested in working for an entrepreneurial company, we may have a home for you.
+ptp is looking for a data scientist to join our customer experience practice.  at ptp, we value aptitude and creativity as well as experience. we are a diverse organization and are looking for bright, passionate and committed professionals who strive to be the best at what they do.
+responsibilities
+
+use machine learning techniques to create scalable solutions for business problems
+analyze and extract key insights from rich stores of customer data
+implement highly innovative models for predictive learning for applications like recommendations and targeting
+establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation
+research and implement novel machine learning algorithms for new business problems
+
+requirements
+
+phd. in computer science with a focus on machine learning
+track record of having developed novel machine learning algorithms, sigkdd/icml/nips
+hands-on experience in predictive modeling and analysis over large volumes of data
+strong problem solving ability
+strong programming skills in c/c++  or java
+experience with r/sas/spss
+experience with sql and mpp databases
+experience with large scale distributed programming  paradigms – experience with the hadoop stack(hdfs/mr/pig/hive)
+familiarity with aws and other cloud-based technologies that can be used with large mapreduce efforts
+experience in free-text analytics / natural language processing (nlp)
+excellent written and verbal communication and skills
+
+compensation is doe and is extremely competitive.
+
+
+
+
+
+return to ptp
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to ptp
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

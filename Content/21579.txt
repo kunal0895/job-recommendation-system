@@ -1,0 +1,97 @@
+
+
+promedia interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+promedia careers
+
+
+
+
+
+
+	    web apps developer
+	  
+ job id:  2046
+ location:  san diego, ca
+ category: 
+
+
+job description:  promedia is hiring engineers to be part of our team supporting a global technology development client based in san diego.
+
+this job does not allow subcontracting or corp to corp arrangements
+scope of assignment:
+emulation hardware team is looking for a software engineer to develop and maintain cutting edge cloud management application. candidates will be responsible for architecture, design, development and testing of applications. these are three tiered mvc applications with user interface, business logic and database layers. tools are expected to be used broadly by various levels of engineering users and management.
+ 
+required skills:
+ ++ 3-5 years of experience in an enterprise or consumer software development environment.
+ ++ object oriented analysis and design (ooa/ood) and agile development methodologies.
+ ++ designing web/tooling user interface design for complex multi-layer data management system.
+ ++ strong web development experience with php.
+ ++ experience building web 2.0 applications using javascript/ajax frameworks and libraries, e.g. jquery, extjs, angularjs etc. (extjs desirable).
+ ++ distributed technologies (rest web services, etc.).
+ ++ experience using mvc frameworks.
+ ++ hands-on knowledge on relational database design and sql.
+ ++ ability to effectively troubleshoot software related issues, production debugging and troubleshooting user experience.
+ ++ excellent knowledge of linux operating systems.
+ 
+preferred qualifications:
+ ++ familiarity with principles, process and tooling for requirements management, project management, and resource management.
+ ++ ability to effectively understand and verify business/technical requirements.
+ ++ good problem solving skills, analytical skills, attention to details and documentation skills.
+ ++ ability to work independently and with a team in a diverse, fast-paced, and collaborative environment, and be able to multi-task efficiently.
+ 
+education requirements:
+ ++ required: bachelor's, computer science.
+ ++ preferred: master's, computer science or equivalent experience.
+
+duration:
+ ++1 year+
+
+	  
+
+
+
+
+
+
+already a user ? apply now
+new user?
+
+
+
+
+
+
+
+
+
+© 2009-2010 promedia telecom, inc. all rights reserved.
+
+

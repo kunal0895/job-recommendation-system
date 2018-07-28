@@ -1,0 +1,232 @@
+
+senior full stack web developer/nasa genelab data systems/20672 & 20673 job - logyx, llc - mountain view, ca | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+senior full stack web developer/nasa genelab data systems/20672 & 20673
+
+logyx, llc
+
+
+2 reviews
+ -
+mountain view, ca 94043
+
+
+                indeed salary estimate: $118,000 - $151,000 a year
+
+
+
+
+job summaryjoin a highly motivated and visible genelab data systems (glds) software team, learn new skills and technologies, and contribute to the advancement of nasa’s biological science initiatives.the team is building a data system on top of genomespace, an open sourced bioinformatics software platform, and integrating with either galaxy or genepattern tool repositories, to help space biology researchers gain access and utilize biologically-inspired spaceflight data as part of "open data, open science" initiative. the software platforms will provide capabilities to make these data sets available, citable, searchable, discoverable, interpretable, reusable, and reproducible.the genelab project is both a science collaboration and a data system effort to give scientists access to data from experiments onboard the international space station (iss) that explore the molecular response of terrestrial biology to spaceflight environments. it is a jointly funded by the international space station research integration office (issrio) at the johnson space center (jsc) and the human exploration and operation mission directorate’s (heomd) space life and physical sciences division (slpsd). it provides a data system that is a collaborative workspace with tools to analyze and visualize space-relevant omics data. genelab’s mission is to maximize the utilization of the valuable biological research resources aboard the iss by collecting genomic, transcriptomic, proteomic, and metabolomics data known as “omics.”responsibilities and dutiesas the senior member of the glds qa/test team, you will lead the software quality assurance activities for each release of software as follows:develop test plans, test cases, and relevant documentationdevelop unit test cases using automated or semi-automated testing mechanisms and continuous integration frameworks (e.g., junit, jsunit, selenium, bamboo, hudson, etc.)perform black-box and white-box software testingidentify and help diagnose defectsrecord defects in the incident tracking systemdevelop and present defect reports to the project teamassist in developing user acceptance test (uat) plans and user manuals/documentations for non-technical usersqualifications and skillsrequired skills:degree in computer science/computer engineering/software engineering/electrical engineering (bs/ms)7+ years of experience with full-stack web application testing5+ years of java3+ years of experience with test and continuous integration (ci) frameworks, such as junit, jsunit, selenium, bamboo, hudson.3+ years of python, linux/unix shell scripting3+ years of practical experience with json, xml data exchange formats3+ years of relational and nosql databases, such as mysql and mongodb2+ years of experience with jira and svn.excellent written and oral communication skillseagerness and ability to quickly learn new technologies and methodologiesdetail-oriented, proactive, and capable of conducting both self-directed independent work, and participating in inter-disciplinary teamsother desired skills:javascript, service oriented architecture, restful api’s.amazon web services (aws) cloud infrastructure (e.g., ec2, s3 etc.)virtual machines (vm) and docker container technologieslogyx, llc provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. in addition to federal law requirements, logyx, llc complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.eoe/m/f/vet/disabilitiesjob type: full-timejob location:mountain view, carequired education:bachelor'srequired experience:full-stack web application testing: 7 yearslinus/unix shell scripting: 3 yearspython: 3 yearsjava: 5 yearsjira: 2 yearspractical json, xml data exchange: 3 years
+
+9 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to logyx, llc.
+
+
+
+
+
+
+other jobs you may like
+
+
+full stack web application developer
+
+hx5 -
+					mountain view, ca
+8 days ago
+
+
+back-end platform developer
+
+geomagical labs -
+					mountain view, ca
+30+ days ago
+
+ easily apply
+
+
+
+full stack developer
+
+ingram micro -
+					sunnyvale, ca
+4 days ago
+
+
+python full stack developer - nasa neo
+
+qualified technical services, inc -
+					mountain view, ca
+9 days ago
+
+ easily apply
+
+
+
+full stack web developer
+
+axcient -
+					cupertino, ca
+22 hours ago
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                        logyx, llc
+
+
+
+2 reviews
+
+                logyx llc (“logyx”) is a professional it and engineering services company located in the heart of silicon valley.  logyx provides it...
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+
+indeed salary estimatewe know salary is a key component of your decision whether or not to apply for a job. so when the hiring company hasn’t provided a salary for a job, we look at salary data from related companies and locations to come up with a reasonable estimate for what you can expect.with over 450,000,000 salaries collected from other jobs and employees, we use one of the biggest salary databases in the world to inform these estimates. and because we are continually adding feedback from users like you, we are able to keep refining our accuracy.these salary estimates are not endorsed by the hiring companies and may vary from what’s actually offered, but we have a pretty great record of getting close enough for you to make an informed decision.is this your job listing? send us feedback to correct an inaccurate salary estimate.
+

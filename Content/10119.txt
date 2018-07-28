@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+data scientist - career portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+sign in
+            or
+        register
+ 
+
+
+
+
+
+
+< back to job list
+
+data scientist
+
+                new york
+            
+date published: 13-nov-2017
+
+share with:
+facebook
+linkedin
+twitter
+google plus
+viadeo
+
+
+ condé nast is home to many of the world's most-celebrated magazine and website brands.  the company's reputation for excellence is the result of our commitment to publish the best consumer, trade and lifestyle content.  our brands include vogue, glamour, vanity fair, new yorker, wired, epicurious, and many more.  passion is the core of our philosophy at condé nast.  our mission is not only to inform readers but to ignite and nourish their passions. we are seeking an experienced and highly motivated data scientist to join our team in new york. this individual will support enterprise initiatives on segmentation, personalization, and campaign forecasting/optimization through in-depth, statistical & quantitative analyses of consumer data, and integration of high quality prediction systems into our brands & products. primary responsibilitiesconduct statistical analysis of consumer web, demographic, behavioral, and transactional data in support of strategic initiatives, from very large datasets (both structured and unstructured).  project work covers all phases – conceptualization, assessment, planning, data acquisition, profiling, modeling, documentation, and presentation of findings/recommendations. design tests, benchmark and track performance of analytic solutions/models over time. work with management and organizational peers to improve business results, by applying machine learning to ongoing business activities, and develop recommendations to guide future activities. work with partners in data engineering, marketing, product, programmatic and ad operations teams, to operationalize integration of analytic models into production environment(s). conduct exploratory analysis against consumer data from internal or external sources, to surface interesting and valuable insights.stay current on relevant academic and industry developments to identify best-in-class algorithms, techniques, libraries, etc.partner with team members to evolve existing capabilities.perform ad hoc analytic tasks and reporting as needed.required skills:the ideal candidate will have many, if not all, of the skills and experience here:exceptional quantitative analytics/applied statistics skills, including regression, clustering, machine learning, and other techniques appropriate for large scale data analysis.exceptional skills with python and r.   exceptional programming skills, in a modern-stack, linux environment.  this includes knowledge of approaches to automate workflows and data pipelines.experience with big data technologies: hadoop, aws/emr, spark, hive.two or more years of business/marketing analytics experience, preferably in a consumer-based media organization.exceptional communication skills, particularly in communicating and visualizing quantitative findings in a compelling and actionable manner for management.strong set of professional skills:  attention to detail; analytic, logical and creative problem solving; critical thinking; ability to work independently and within a cross-functional team. advanced degree with an emphasis in a quantitative discipline such as statistics, engineering, economics or mathematics.  phd preferred.about conde nast co/lab the co/lab team at condé nast is a multidisciplinary group of designers, strategists, researchers, product managers and engineers dedicated to creating and building innovative, user-centric solutions.  focused on crafting transformative experiences for existing and emerging products, the team shapes and drives the digital strategy across condé’s portfolio of brands. 
+
+about condé nast:
+condé nast is a premier media company renowned for producing the highest quality content for the world's most influential audiences. attracting more than 100 million consumers across its industry-leading print, digital and video brands, the company’s portfolio includes some of the most iconic titles in media: vogue, vanity fair, glamour, brides, self, gq, gq style, the new yorker, condé nast traveler, allure, architectural digest, bon appétit, epicurious, wired, w, golf digest, golf world, teen vogue, ars technica, the scene, pitchfork and backchannel. the company’s newest division, condé nast entertainment, was launched in 2011 to develop film, television and premium digital video programming.
+for more information, please visit condenast.com and follow @condenast and @condenastcareer for twitter and @condenastcareers for instagram
+
+
+apply
+send to a friend
+
+
+
+
+
+
+
+
+
+learn more
+
+
+
+
+careers
+
+
+keep in touch
+
+
+home
+
+
+
+
+
+© 2017 condé nast. all rights reserved.
+for technical assistance, contact us.
+
+
+
+
+
+
+
+
+

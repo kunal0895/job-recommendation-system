@@ -1,0 +1,60 @@
+
+
+
+
+health at scale corporation - jobs: full stack application engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+full stack application engineer
+
+full stack application engineer
+cupertino, california, united states
+
+descriptionhealth[at]scale is a rapidly growing healthcare machine intelligence startup founded by machine learning and clinical faculty with strong ties to mit, stanford, harvard and u-michigan. our goal is to transform healthcare delivery through bleeding-edge innovations in machine learning and artificial intelligence. health[at]scale’s machine intelligence platform for care prediction is used by payers and providers to manage millions of patients each day. our technologies offer breakthrough capabilities to match patients to the right treatments by the right providers at the right times at critical points across the care continuum. there are several things that are important to us as a company. we are committed to ensuring longer, healthier and happier lives. we continuously push the envelope on machine learning and artificial intelligence. we take pride in engineering scalable and secure software systems and applications. we innovate on new use cases and applications of machine intelligence to solve major healthcare challenges. we are deeply passionate about bringing together exceptionally talented individuals to drive the endless possibilities to improve care.responsibilities conceive and develop next-generation healthcare machine intelligence web applications create fast, easy-to-use, high-volume production applications providing an exceptional user experience and driving positive actionability in addressing major healthcare challenges architect and build secure and reliable server-side back-ends maximizing speed and scale design and implement compelling client-side user-interfaces that are dynamic and responsive deliver information in an innovative, engaging and informative manner maximizing impact work closely with ux designers and other teams to rapidly develop and prototype applications revise and update designs and documentation based on continuing user testing and feedback requirementsminimum qualifications bs, ms or phd in computer science, hci or related technical field 3+ years experience developing web applications and designing/implementing complex uis strong proficiency in python and web technologies (javascript, ajax, json, html5, css3) strong understanding of the foundational concepts of application design, scalability and web security experience with modern web applications frameworks experience with cloud deployment (e.g., aws, redis/memcached, apache/nginx/gunicorn) excellent communication skills preferred qualificationsexperience with dynamic interactive data visualization technologiesbenefitshealth[at]scale offers competitive salary, stock options, high-quality health benefits (medical, dental and vision), 401k, parental leave benefits, a group legal plan and flexible work hours. our team matters deeply to us and we place great importance on maintaining a positive work-life balance and to empowering each other to maximally achieve our personal and professional goals. health[at]scale is an equal opportunity employer and is committed to diversity in its hiring and business practices. all qualified candidates are encouraged to apply.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+health at scale corporation website
+
+powered by
+workable
+
+
+
+
+

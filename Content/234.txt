@@ -1,0 +1,871 @@
+
+
+
+
+
+
+
+
+
+
+
+data engineer job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why work for us 
+
+get to know paccar
+a great place to work
+equal opportunity employer
+
+
+
+job opportunities 
+
+engineering jobs
+finance & accounting jobs
+human resources & admin jobs
+information technology jobs
+customer service jobs
+marketing, sales & services jobs
+supply chain & operations jobs
+facilities & maintenance jobs
+manufacturing & distribution jobs
+internship jobs
+
+
+
+connect with us 
+
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why work for us 
+
+get to know paccar
+a great place to work
+equal opportunity employer
+
+
+
+job opportunities 
+
+engineering jobs
+finance & accounting jobs
+human resources & admin jobs
+information technology jobs
+customer service jobs
+marketing, sales & services jobs
+supply chain & operations jobs
+facilities & maintenance jobs
+manufacturing & distribution jobs
+internship jobs
+
+
+
+connect with us 
+
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+                        join with linkedin
+                    
+
+
+
+
+
+
+
+
+                        join with facebook
+                    
+
+
+
+
+
+
+
+                            join now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer job
+apply now »
+
+apply now 
+
+
+
+
+                        start apply with linkedin
+                    
+
+
+
+
+
+
+
+
+                        start apply with facebook
+                    
+
+
+
+
+
+
+
+                            apply now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+date: 
+nov 18, 2017
+                
+
+
+location: 
+renton, wa, us
+
+
+company: 
+paccar
+
+
+company informationpaccar is a fortune 500 company established in 1905. paccar inc is recognized as a global leader in the commercial vehicle, financial, and customer service fields with internationally recognized brands such as kenworth, peterbilt, and daf trucks. paccar is a global technology leader in the design, manufacture and customer support of premium light-, medium- and heavy-duty trucks under the kenworth, peterbilt and daf nameplates and also provides customized financial services, information technology and truck parts related to its principal business.
+whether you want to design the transportation technology of tomorrow, support the staff functions of a dynamic, international leader, or build our excellent products and services, you can develop the career you desire with paccar. get started!
+ 
+division informationpaccar’s information technology division (itd), located in renton, wa utilizes cutting-edge technology to provide systems development, consulting, voice and data communications services to the entire corporation, which has high visibility in the technology sector.
+requisition summarywe are looking for an experienced data engineer with an uncanny ability to integrate multiple heterogeneous data sources to build efficient, flexible, and scalable data warehouse and reporting solutions. the ideal candidate is enthusiastic about learning new technologies and implementing solutions using these technologies to empower internal customers and scale the existing platform. the ideal candidate demonstrates solid business and communication skills and ability to work with research scientists and business owners across both technical and non-technical teams to develop and define key business questions, then build the data sets that answer those questions. in this role, you will serve as the expert at designing, implementing, and operating stable, scalable, low cost solutions to flow data from production systems into the data warehouse and into end-user facing reporting applications. above all, you should be excited about bringing large datasets together to answer business questions and drive data driven decision making.
+the data engineer will design, develop, implement, test, document, and operate large-scale, high-volume, high-performance data structures for business intelligence analytics and deep learning. implement data structures using best practices in data modeling, etl/elt processes and aws redshift, teradata, oracle, db2, and olap technologies he/she will be writing scalable queries and tuning performance on queries running over billion of rows of data.
+the person in this position should be analytical, have an extremely high level of customer focus and a passion for process improvement.  the data engineer should be motivated self-starter that can work independently in a fast paced, ambiguous environment and should have excellent business and communication skills to be able to work with business owners to develop and define key business questions.
+job functions / responsibilities
+design, implement, and support data warehouse infrastructure using aws cloud technology, teradata, and multiple rdbms engines.
+create elt/etl procedures to take data from various operational systems and create a unified dimensional or star schema data model for analytics and reporting.
+support data analysts and research scientist in analyzing usage data to derive new insights and fuel customer success
+use business intelligence and visualization software (e.g., obiee, quicksight, tableau server, etc.) to empower non-technical, internal customers to drive their own analytics and reporting.
+generates scripts for database deployment.
+models physical/application data requirements in a data model tool, such as erwin data modeler
+teaches data modeling and data design concept to it and business people.
+provides data model estimates for new projects.
+manages data models and related artifacts in a source safe repository such as tfs.
+provides on-going support for agile projects.
+high degree of knowledge based on prior implementation experience with aws glue, aurora, s3, redshift, vpc, etc.
+performs expert-level data development and design work in cloud environments that may include logical data topology design, cloud data architecture analysis and design; including integration with additional 3rd party data sources in multiple cloud platforms.
+contributes to and maintains data standards.
+ensures security is integrated into all data solutions to meet compliance standards.
+
+qualifications
+bachelor’s degree in computer science or related field.
+5+ years relevant experience in data modeling and data architect.
+expertise with sql and relational database systems.
+knowledge of data warehousing concepts.
+experience in data mining, etl, etc. and using databases in a business environment with large-scale, complex datasets.
+experience in modeling logical/business data requirements in a data model tool, such as erwin data modeler.
+experience in generating scripts for physical database deployment.
+ability to teach data modeling and data design concept to it and business people.
+familiarity with cloud, nosql, and hadoop data technologies
+familiarity with dimensional and data vault modeling techniques.
+proficiency with etl tools and techniques.
+knowledge of more than one database platform, such as sql server, oracle and teradata.
+expertise in standard data model reports.
+must have knowledge of data normalization and denormalization techniques
+excellent interpersonal and organizational skills, including active listening, problem solving when under pressure, and facilitation.
+strong troubleshooting and problem solving skills.
+
+educationbachelor’s degree in computer science or related field.
+additional job board informationpaccar is an equal opportunity employer/protected veteran/disability.
+
+
+
+
+nearest major market: seattle
+                    
+                        nearest secondary market: bellevue
+                    
+                
+
+job segment: 
+database, business intelligence, data warehouse, warehouse, oracle, technology, manufacturing
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+                        start apply with linkedin
+                    
+
+
+
+
+
+
+
+
+                        start apply with facebook
+                    
+
+
+
+
+
+
+
+                            apply now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+information technology jobs
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+careers home
+paccar.com
+view all jobs
+top jobs
+privacy & security policy
+recruitment@paccar.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 paccar inc all rights reserved. equal opportunity employer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

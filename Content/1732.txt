@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+software engineer - infrastructure automation - external careers
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+
+about
+benefits
+departments
+locations
+view all jobs
+sign in
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+software engineer - infrastructure automation
+
+
+                    austin
+                
+
+
+
+
+
+
+
+
+
+apply now
+
+
+facebook
+linkedin
+twitter
+google plus
+send to a friend
+
+
+
+
+
+
+
+
+ref#: p1192
+additional posting location(s): san francisco, seattle
+
+our mission.
+as the world’s number 1 job site, our mission is to help people get jobs. we need talented, passionate people working together to make this happen. we are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+
+
+the team.
+we are a rapidly growing and highly capable engineering team building the most popular job site on the planet. every month, over 200 million people count on us to help them find jobs, publish their resumes, process their job applications, and connect them to qualified candidates for their job openings. with engineering hubs in seattle, san francisco, austin, tokyo and hyderabad, we are improving people's lives all around the world, one job at a time.
+
+
+your job.
+the test automation team seeks senior automation engineers who thrive on conceiving and leveraging software and methodologies for testing and measuring rapidly evolving distributed systems. indeed is one of the most visited web properties in the world, with hundred of millions of pageviews per day. underlying indeed’s site is a complex and sophisticated system of interconnected frontend and backend services processing petabytes of data, running in data centers distributed around the planet. we deploy improvements to our site daily. indeed needs test automation engineers to help us maintain our rapid rate of change. in any given week you might diagnose capacity bottlenecks in webapps, write tools that use sampled production data to drive regression tests against backend services, test a distributed system for reliability under network partition, extend a framework to run and test distributed systems, measure a webapp’s performance, or measure the reliability and network bandwidth consumption of a file distribution system. indeed offers engineers a sophisticated development ecosystem, short release cycles, and the freedom to work on a broad range of projects. at indeed, you will work with a smart, creative, and diverse team of problem solvers who exhibit high energy, deep technical skills and a drive to get things done. in the test automation group, we use a wide range of technologies, including java, python, mysql, mongodb, docker, hadoop, amazon ec2, mesos, jmeter, and many more.
+
+
+about you.
+in this role you’ll...write effective tools and infrastructure to test complex, large-scale, distributed systemscollaborate with developers to define and develop reusable test frameworksbuild tools that make our development and qa teams more productivedevise ways to measure system throughput, capacity, and reliabilityleverage production data to test how our systems perform in the real worldpromote best practices for creating and maintaining high-quality softwareas a prospective candidate, you should...have a passion for making sure software does what it’s supposed to do love to learn and develop new skills continuously have bachelors in computer science or related area, or relevant work experience have hands-on experience with java or pythonhave hands-on experience with networking tools and configurationhave hands-on experience building and/or testing backend systems2 + years experience using and writing tools to test frontend and backend systemshave experience delivering unit-tested, high-quality, reusable, maintainable code have experience with testing and debugging distributed systems have hands-on experience with linuxand ideally, you will have...experience with performance testing of frontend and backend systemsexperience with or knowledge of complex system architecturesthe ability to find creative testing approaches and ways to measure themthe ability to recognize constraints that hinder developers and quality analysts from delivering high-quality softwarethe drive to create tools and frameworks to remove those constraintsindeed provides a variety of benefits that help us focus on our mission of helping people get jobs. view our bounty of perks: http://indeedhi.re/indeedbenefits  
+
+
+
+apply now
+
+
+
+< back to search results
+
+
+
+
+
+
+indeed is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+
+
+
+
+
+                                facebook
+                            
+
+
+                                twitter
+                            
+
+
+                                youtube
+                            
+
+
+                                instagram
+                            
+
+
+
+
+©2017 indeed. all rights reserved.  *comscore, total visits march 2017
+
+
+
+
+
+
+
+
+

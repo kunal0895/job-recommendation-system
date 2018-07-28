@@ -1,0 +1,540 @@
+
+
+
+
+job description - beyondtrust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+free trials
+get quote
+blog
+services & support
+contact
+ 
+
+
+
+
+
+
+
+
+
+
+tour
+solutions
+products
+company
+partners
+resources
+
+
+request demo
+
+
+
+
+
+ close menu
+
+solutions
+ powerbroker pam platforma comprehensive, integrated privileged access management platform.
+enterprise password managementachieve unified visibility and control over privileged credentials and the assets they protect.
+least privilege managementenforce least privilege on all endpoints without compromising productivity or security.
+server privilege managementensure administrator and root security and compliance on windows, unix and linux servers.
+ pam platform: beyondinsight capabilities
+asset & account discovery
+threat & vulnerability intelligence
+reporting & connectors
+policy & action response
+ additional solutions
+vulnerability management
+windows auditing
+devops security
+cloud security
+msp
+iam
+
+ by industry
+federal government
+financial services
+healthcare
+education
+energy
+media & entertainment
+by compliance
+cis controls
+gdpr
+hipaa
+ics-cert
+iso 27002
+nerc cip
+nist
+pci dss
+swift
+
+
+
+ close menu
+
+products
+ privileged access managementpowerbroker pam
+
+privileged password management
+
+– session management
+– ssh key management
+– application password management
+
+
+windows privilege management
+mac privilege management
+unix & linux privilege management
+sudo management
+network device privilege management
+active directory bridging
+see all products
+
+
+vulnerability managementretina
+
+enterprise vulnerability management
+network security scanning
+endpoint protection / local assessment
+cloud-based vulnerability assessment
+web security scanning and protection
+see all products
+
+
+windows auditing & securitypowerbroker auditing & security suite
+
+active directory auditing
+active directory recovery
+ad and file system entitlement
+file system auditing
+exchange auditing
+sql server auditing
+see all products
+
+
+
+
+
+
+
+
+
+company
+ about usyour ally in preventing breaches from privilege misuse and abuse.
+our customers4,000+ customers, including over half of the fortune 100.
+careerswho we are, why we love working here, and where there’s a fit for you.
+
+ more company info
+news & events
+recognition & coverage
+leadership
+services & support
+
+
+
+
+resources 
+2017 gartner market guide for privileged access managementthe 2017 gartner privileged access management (pam) market guide reveals the latest privileged access threats and provides a thorough analysis of 24 vendor solutions.
+
+the 5 deadly sins of privileged access managementare you guilty of the 5 deadly sins of privileged access management? find out, and compare your privilege security practices against your peers, in the 2017 edition of the annual beyondtrust research report.
+
+what is privilege management and where do you start?this paper explains privilege management and where you start from — in a simple, fun, non-vendor point of view. download now.
+ resource sections
+resources home
+blog
+webinars, papers & videos
+news & events
+
+
+
+
+
+
+
+home/
+company/
+careers/
+job listings/
+jr. business intelligence analyst
+
+
+
+
+
+
+
+
+
+jr. business intelligence analyst
+
+phoenix office, phoenix, arizona, united states
+                
+
+
+
+
+
+
+
+
+beyondtrust is a cyber security company dedicated to proactively eliminating data breaches from insider privilege abuse and external hacking attacks. over 4,000 customers worldwide trust our risk intelligence platform of unified privileged account managementand vulnerability management solutions to shrink attack surfaces, identify threats, and maintain compliance.  what will you do? beyondtrust is seeking a jr bi analyst in our phoenix office. in this role, you will:
+
+assist in maintaining business intelligence tools
+build power bi models/reports/dashboards to business requirements
+research issues/anomalies with data, systems and processes
+act as data steward, implement and enforce data quality audits
+develop creative solutions to complex data challenges
+support various departments with ad-hoc requests for reports & data
+
+ 
+what is required:
+
+understanding of data warehousing, data modeling and etl concepts
+understanding of data visualization concepts
+1 year experience in a reporting analyst function, creating analyses, metrics and reports that
+drove operational actions and highlighted wins/opportunities
+bachelor's degree in business, data science, or other quantitative/analytical field
+strong attention to detail
+strong critical thinking, problem solving, organization and analytical skills
+a genuine curiosity to learn how things work -- a desire to understand how data is entered/recorded in order to extract information that can guide business decisions
+advanced task, time and prioritization management skills
+ability to work under minimal supervision, take initiative, and self-direct data exploration/analysis
+ability to assimilate into a dynamic team and learn business processes quickly as needed
+ability to anticipate business needs and proactively influence processes to improve data collection/quality
+team player--willing to help in different capacities as circumstances dictate, for the best interest of the company
+mindful when working with different personalities, levels of leadership, and customersmindful when working with different personalities, levels of leadership, and customers
+advanced knowledge of excel required (power query & power pivot a plus)
+experience with power bi and azure products a plus
+experience with analytical and statistical tools such as r, python a plus
+salesforce or other crm experience a plus
+
+ 
+who are you?  
+
+you are flexible! you define “good attitude.”
+you enjoy working with a team and alone as the situation dictates.
+you have a great sense of humor.
+you are passionate, optimistic, and energetic.
+you have an insatiable thirst for knowledge and improvement and the desire to grow in your role and in the company.
+you are up to speed in the latest cyber security and software trends… you work relentlessly to be innovative and stay relevant for the benefits of our customers, partners, employees, and the company.
+you evoke inspiration in those around you and encourage them to create their best work.
+you work for the best interest of the group at all times.
+you have unwavering personal integrity and work ethic.
+you are proactive.
+you graciously give and receive feedback.
+you are motivated, no excuses, and a tenacious self-starter. 
+
+why join the beyondtrust phoenix team?
+
+beyondtrust was founded upon a strong hacker culture that believed freedom and creativity were the best approach to build truly industry-changing products. to this day, that same spirit drives the focus and innovation of our company.
+unlimited free coffee, soda, la croixs, and snacks!
+casual dress and laid back environment
+catered events and spontaneous ping pong, long putt, and shuffleboard tourneys.
+adhoc sports trivia with our ceo in the hallways.
+this is not your typical corporate office with red swingline staplers and burnt coffee in the break room coffee pot. here, you’ll meet people who are passionate about our culture, their careers… and even mondays!
+
+
+
+
+ 
+
+
+
+
+
+
+
+need visibility & control?
+request demo
+
+
+
+
+
+
+
+                used and trusted by the world's most secure organizations            
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+                    see more                
+
+
+
+
+
+
+
+solutions
+
+
+by need
+privileged access management platform
+enterprise password management
+least privilege management
+server privilege management
+privileged threat analytics
+vulnerability management
+windows auditing & security
+active directory security
+devops security
+cloud security
+identity and access management
+ 
+
+by industry
+federal government
+financial services
+healthcare
+education
+managed service provider
+media & entertainment
+energy
+
+
+
+by compliance
+cis controls
+gdpr
+hipaa & hitech
+nerc
+iso 27002
+ics-cert
+pci dss
+nist sp800-53, sp800-171 & framework
+swift
+compliance reporting
+ 
+
+by role
+strategic
+operational
+technical
+
+
+
+
+
+
+
+products
+
+
+privileged access management
+all powerbroker pam products
+powerbroker vs. thycotic, cyberark & quest software
+ 
+
+vulnerability management
+all retina vm products
+retina vs. qualys, tenable, rapid7 and tripwire
+ 
+
+ad & windows auditing & security
+powerbroker auditor suite
+powerbroker auditing & security suite
+ 
+
+take the next step
+request demo
+become a partner
+get training
+get support
+ 
+
+
+
+password safe spotlight
+password management software
+session management
+ssh key management
+application password management
+advanced workflow control
+rules and asset groupings
+ 
+
+retina cs spotlight
+vulnerability management software
+configuration compliance module
+patch management module
+regulatory reporting module
+ 
+
+free products
+free privilege discovery and reporting tool
+open-source ad bridging
+free iot vulnerability scanner
+retina cs for mobile
+retina network community
+ 
+
+
+
+
+                want to know more about our products?                take the tour
+
+
+
+
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+facebook
+
+
+
+
+
+linkedin
+
+
+
+
+
+youtube
+
+
+
+
+
+vimeo
+
+
+
+
+
+
+tour
+company
+partners
+resources
+support
+contact
+ 
+
+
+
+
+
+
+sitemap
+preference center
+privacy policy
+ 
+
+
+                copyright © 1999 — 2017 beyondtrust, inc.                all rights reserved.            
+
+
+
+
+
+
+
+
+
+
+

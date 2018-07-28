@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+senior data engineer - epic games - careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this is going to be epic!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+already applied for a position with us?
+log in
+register
+
+
+
+
+senior data engineer
+
+cary, north carolina, united states
+apply now
+
+overviewfor over 25 years, epic games has been making award winning games and game engine technology that empowers others to make visually stunning games and 3d content that brings environments to life like never before. epic’s award-winning unreal engine technology not only provides game developers the ability to build high-fidelity, interactive experiences for pc, console, mobile, and vr, it is also a tool being embraced by content creators across a variety of industries such as media and entertainment, automotive, and architectural design.  as we continue to build our engine technology and develop remarkable games, we strive to build teams of world-class talent.the senior data engineer will be responsible for helping to build epic’s data collection systems, processing pipelines, and data warehouses. this role will be responsible for helping to architect, build, and maintain an optimized and highly available data pipeline for deeper analysis and reporting by a team of analysts.  the person in this role will be responsible for the following:assisting in the architecture, design and implementation of big data platforms operating on amazon web servicesperforming performance tuning tasks on large compute clustersworking with both batch and near-real-time data sourcescreating saas applicationsstreamlining maintenance tasks as they pertain to the platform the ideal candidate will have a mix of the qualifications below:skilled in managing multiple hadoop clusters via the command linepast experience building or integrating open source applications (e.g.lipstick, inviso, genie) into hadoop environmentsknowledge of apache spark, apache hive and apache pigexpertise in one or more programming languages (java or python)familiarity with basic database administration tasks on a major rdbms platform such as oracleexperience with enterprise scheduler software (control-m, automic/uc4, tivoli workload scheduler, etc)expertise using sqlexperience working with complex data types (json, xml)comfort with software development methodology around unit testing, performance tuning, integration testing, etc.experience working with amazon web services, specifically elastic map reduce and ec2this is going to be epic!#li2
+
+apply now
+connect with facebook
+connect with linkedin
+back to job list
+
+
+
+
+
+benefits ::
+epic games offers an outstanding benefits package to eligible employees:
+
+epic paid medical and dental insurance for employees and dependents
+epic paid life, accidental death & dismemberment and long term disability insurance
+401(k) plan with generous match and profit sharing
+vacation and sick leave are unlimited (with approval)
+7 paid holidays (and we're closed the week between christmas and new year's day)
+flexible work hours
+
+note: the benefits listed here are for our domestic locations, international locations have various benefits in accordance with local labor laws and cultural norms.
+
+
+
+
+
+
+
+
+
+
+
+
+©2004-2017, epic games, inc. all rights reserved. epic, epic games, the epic games logo, unreal, unreal engine, unreal tournament, and the unreal tournament 3 logo are trademarks or registered trademarks of epic games, inc. in the united states of america and elsewhere. other brands or product names are the trademarks of their respective owners.
+learn about epic's game engine, unreal engine.
+
+privacy noticeterms of use
+
+
+
+
+

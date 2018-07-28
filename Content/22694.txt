@@ -1,0 +1,360 @@
+﻿
+
+
+
+
+3d computer vision / sw algorithms engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+how were you referred to us? 
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+3d computer vision / sw algorithms engineer
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-01108
+
+location: 
+san diego, california
+
+position type:full time/contract
+
+
+
+
+	 summary: the computer vision algorithms eng will lead the research and development of next generation multimedia solutions for high volume smartphones, tablets, and wearable devices.  the position is anticipated to produce high visibility impact affecting multimedia strategy, algorithms & hardware design, and technology implementation. this role will build partnerships with start-ups, technology incubators, and north america university research in addition to driving multimedia architecture design of new platform solutions. responsibilities also include development of a technology roadmap focused on computer vision /3d algorithm technologies.
+ 
+duties and responsibilities:   essential functions
+
+research and identify next generation algorithms in 3d computer vision (cv) & machine learning fields for adoption into future flagship products
+go-to-expert on sw algorithms applicable for depth sensing, 3d reconstruction, motion-tracking systems
+technology scouting/sourcing to identify innovations by building and maintaining long-term relationships with technology incubators, start-ups, and vendors.
+conduct in-depth evaluations and prototyping of emerging cv solutions for integration into future mobile devices 
+build a multi-year roadmap for computer vision technology
+identify technology trends and consumer use-cases influencing the future of the mobile device industry. (vision to connect new technology to real-life use cases) 
+define multimedia system-level requirements and functional specifications crucial to guiding r&d teams during development phases.
+technical lead of r&d cooperation projects with key start-up partners
+present monthly updates on multimedia technologies to headquarters executives.
+
+  
+job specifications (education, knowledge, skills, and abilities); (refers to job, not incumbent)
+education:
+minimum: bachelor's degree
+preferred: master's degree
+major/discipline:  electrical/computer engineering or computer science
+
+relevant work experience
+minimum:  5+ years of experience in computer vision technology related to development of mobile devices and consumer electronics.
+preferred:  7+ years of experience in computer vision technology related to development of mobile devices and consumer electronics.
+
+skills & abilities: (technical or general) 
+minimum requirements:  
+
+
+expertise and hands-on experience in one or more of the following areas: has designed or evaluated algorithms for 3d vision, 3d modeling/depth sensing, slam, object segmentation/tracking, motion-capture, applications for mobilear/vr/mr
+experience with key building blocks: machine learning techniques applied to computer vision algorithms, neural networks, deep learning, cnns, training datasets, gpus, vpus, 3d vision, multispectral imaging
+strong background programming for image and/or video processing applications (e.g. matlab, c/c++, opencv, opengl, android system)
+background in 3d mathematics, statistics, modeling, simulation, analysis, and
+strong understanding of computer vision technologies and future trends
+availability for international and domestic travel
+
+preferred:  
+
+
+experience with computer graphics, unity, tensor flow, caffe
+
+physical demands:
+must be able to lift/carry materials, move about the office, turn on and operate a computer in the applicable environment, communicate efficiently and effectively on the telephone or in person, and complete required paperwork.
+ 
+working conditions (relates to physical environment):
+standard indoor office environment.
+ 
+position interacts with (indicate internal and external contacts):
+company staff and management, client company staff and management, vendors, suppliers and contractors.
+
+responsibility for the work of others:   1. none
+
+
+
+1
+none
+
+
+2
+manager/supervisor this job has hiring authority; formally appraises performance; coaches/counsels employees; takes necessary disciplinary actions; and determines method in which work is performed.
+
+
+3
+work leader  on a regular and recurring basis, this job assigns day-to-day work to others; checks their work; eliminates ordinary work difficulties they may encounter; and maintains their work flow; but does not have full managerial/supervisory responsibility as described above.
+
+
+
+
+
+
+
+
+apply by creating/using  account
+
+
+
+
+for all w2 contract positions, no c2c is allowed.  please respond only if you are applying for position yourself and can be a direct employee of intellipro group inc.  *no recruiters or c2c*
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

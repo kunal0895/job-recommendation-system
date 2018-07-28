@@ -1,0 +1,338 @@
+
+
+
+
+
+	join our talent network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+job description:
+description:
+we believe that, when done right, investing liberates people to create their own destiny. we are driven by our purpose to champion every client’s goals with passion and integrity. we respect and appreciate the diversity of our employees, our clients, and the communities we serve. we challenge conventions strategically to create value for our clients, our firm and the world. we live and bring to life the concept of ‘own your tomorrow’ every day. we champion our employee strengths, guide their development, and invest in their long-term success. we hire optimistic, results-oriented, curious, innovative, and adaptable people with the desire to help our clients and one another succeed.
+as a company, we were established by chuck over 40 years ago to champion main street over wall street, and to help americans transform themselves from earners to owners. through advocacy and innovation, we work to make investing more affordable, accessible and understandable for all. as we enter our fifth decade, we are looking for talented, innovative and driven people who believe they can help themselves, and our clients, create a better future.
+our opportunity:
+do you want to be part of a data warehouse team managing over 120 terabytes of data and building the next generation analytics platform for a leading financial firm with over $2.7 trillion in assets under management?
+at schwab, the global data technology (gdt) organization governs the strategy and implementation of the enterprise data warehouse and emerging data platforms.
+we help marketing, finance and executive leadership make fact-based decisions by integrating and analyzing data.
+what you’ll do:
+
+you are a data engineer who has passion for data and comes with data warehousing background.
+you have experience in designing and coding batch as well as real time etl(and elt) and one who wants to be part of a team that is actively designing and implementing the enterprise data warehouse solution.
+someone who wants to be challenged every day and has passion to keep up to date on new technologies in the data engineering space, set new standards and collaborate with the team members along the way.
+build and maintain code for etl (and elt) using informatica 10.x and teradata.
+design enterprise quality etl solutions.
+explore tools and technologies in the evolving data engineering space.
+work with business analysts to understand business requirements and use cases
+
+what you have:
+
+hands-on experience in java object oriented programming/ python (minimum 2 years)
+hands-on experience with hadoop, spark, hive, pig, sqoop, flume, storm/ spark streaming, kafka/rabbit mq and hbase (at least 1 years)
+understanding hadoop file format and compressions is required
+familiarity with mapr distribution of hadoop is preferred
+strong scripting / programming with unix, java, python/scala etc. is required
+knowledge and experience with machine learning and graph database is preferred.
+strong sql experience with the ability to develop, tune and debug complex sql applications is required
+expertise in schema design, developing data models and proven ability to work with complex data is required
+experience in real time data ingestion into hadoop is required
+proven experience in working in large environments such as rdbms, edw, nosql, etc. is preferred
+knowledge of big data etl such as informatica bdm and/or talend tools is preferred
+understanding security, encryption and masking using kerberos, mapr-tickets, vormetric and voltage is preferred
+experience with test driven code development, scm tools such as git, jenkins and bamboo is preferred,
+ knowledge of big data etl such as informatica bdm and/or talend tools is preferred
+
+what you’ll get:
+
+everyday wellness: healthy rewards, onsite fitness classes, healthy choices, wellness champions
+financial fitness: 401k match, employee discounts, personalized advice, brokerage discounts
+work/life balance: sabbatical, new mothers returning to work program, tuition reimbursement programs, time off to volunteer
+inclusion: employee resource groups, commitment to diversity, strategic partnerships
+not just a job, but a career, with an opportunity to do the best work of your life
+
+learn more about life@schwab.
+charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce. it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression, national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law. 
+
+job specifications
+
+
+
+relocation offered?:
+no
+
+
+work schedule:
+days
+
+
+languages:
+english - spoken
+
+
+current licenses / certifications:
+none
+
+
+relevant work experience:
+it-other specialty engineering-2-5 yrs
+
+
+position located in:
+co - lone tree
+
+
+education:
+ba/bs
+
+
+job type:
+full time
+
+
+
+
+category:information technology
+activation date: friday, june 30, 2017
+expiration date: monday, january 1, 2018
+apply here
+
+
+join our talent network
+whether you’re ready to apply today or are exploring schwab as a future employer, joining our talent network is a great way to stay connected with us. 
+
+as part of our talent network you will receive:
+
+
+
+- customized job alerts
+- news and updates relevant to your area/s of expertise
+- invitations to schwab recruiting events in your area
+
+
+
+
+    
+ please share your contact information in the fields below so that the talent acquisition team may notify you regarding upcoming events and opportunities.*first name*last name*primary emaillocation(s) of interest
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+district of columbia
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+resume*area(s) of interest
+any
+accounting/finance
+administrative/clerical
+banking
+brokerage operations & trading
+business strategy
+campus programs/internships
+compliance/legal/regulatory
+customer service/client service
+facilities/real estate
+financial consultant
+financial planning/advice
+human resources/training/recruiting
+information technology
+internal audit
+investment management & research
+management
+marketing/advertising
+marketing analytics
+product development
+project/program management
+public relations
+retirement services
+risk management
+sales/business development
+stock plan services
+current licenses/certifications
+none
+finra series 4
+finra series 3
+finra series 6
+finra series 7
+finra series 8
+finra series 9
+finra series 53
+finra series 79
+finra series 10
+finra series 24
+finra series 55
+finra series 63
+finra series 65
+finra series 66
+six sigma green belt
+certified financial analyst (cfa)
+certified financial planner (cfp)
+certified fraud examiner (cfe)
+certified in financial management (cfm)
+certified info systems security prof (cissp)
+certified internal auditor (cisa)
+certified investment management consultant (cimc)
+certified public accountant (cpa)
+chartered market tech (cmt)
+chartered mutual fund counselor (cmfc)
+cisco – ccdp
+cisco – ccie
+db2 certification
+java technology
+life insurance
+microsoft – mcse
+national mortgage licensing
+nfa series 34
+oracle certification
+project management professional (pmp)
+registered investment advisor (ria)
+solaris/unix network
+solaris/unix o/e
+state real estate license
+click here to sign up for job alert emailshide search criteria frequency: every  daysjob category 
+accounting/finance
+administrative/clerical
+any
+banking
+brokerage operations & trading
+business strategy
+campus programs/internships
+compliance/legal/regulatory
+customer service/client service
+facilities/real estate
+financial consultant
+financial planning/advice
+human resources/training/recruiting
+information technology
+internal audit
+investment management & research
+management
+marketing analytics
+marketing/advertising
+product development
+project/program management
+public relations
+retirement services
+risk management
+sales/business development
+stock plan services
+state (e.g. ca) keyword education 
+aa/as
+ba/bs
+hs/ged
+jd
+ma/ms/mba
+phd
+
+
+
+
+
+
+
+    
+     
+
+
+
+© 2015 charles schwab & co., inc, all rights reserved. | privacy-eeo | #0815-5263 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+

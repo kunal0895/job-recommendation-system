@@ -1,0 +1,608 @@
+
+
+
+
+
+software engineer - machine learning / data science at ebay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+menu
+
+header logo
+
+
+
+
+our company
+
+
+overview
+
+
+who we are
+
+
+connected commerce
+
+
+our history
+
+
+our leaders
+
+
+our other businesses
+
+
+follow us
+
+
+contact us
+
+
+
+
+stories
+
+
+our news
+
+
+podcast
+
+
+press room
+
+
+
+
+global impact
+
+
+overview
+
+
+ebay foundation
+
+
+powering giving
+
+
+greener commerce
+
+
+responsible practices
+
+
+government relations
+
+
+archive
+
+
+
+
+investors
+
+
+overview
+
+
+events
+
+
+annual reports & sec filings
+
+
+financial releases
+
+
+financials & metrics
+
+
+corporate governance
+
+
+board of directors
+
+
+stock information
+
+
+information request
+
+
+contact investor relations
+
+
+receive notifications
+
+
+
+
+join our team
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+
+life at ebay
+
+
+meet our people
+
+
+our benefits
+
+
+
+
+students & recent graduates
+
+
+how we recruit
+
+
+contact careers
+
+
+job search results
+
+
+
+
+
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+			career information
+		
+
+
+
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+engineering at ebay
+
+
+students & recent graduates
+
+
+meet our people
+
+
+
+our benefits
+
+
+how we recruit
+
+
+contact careers
+
+
+
+job search results
+
+
+
+
+
+
+
+
+
+
+
+
+keyword
+
+
+
+
+locations
+
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - machine learning / data science
+portland, oregon
+
+
+apply
+
+
+
+
+
+overview
+success profile
+trending
+rewards
+responsibilities
+
+
+
+
+
+overview
+intellect, curiosity, commitment, pride, respect, teamwork and good communication skills are what we’re looking for. we expect someone with solid computer science/engineering fundamentals (including strong knowledge of data structures, algorithm writing skills and object oriented programming concepts), a strong drive for results, thrives on continuous innovation, dreams big, self-starts, learns fast, gets things done while having fun. and you should be customer focused – because great business results is what our teams are about, and ebay sellers depend on us.
+it’s all about the code. high quality, efficient, elegant code that fuels the commerce revolution. help create the infrastructure and applications that unlock more economic opportunity for millions of people every day. this is your chance to take on some of the most complex technical problems in service of making a tangible impact around the globe.
+
+full time
+level: mid-senior
+
+
+
+glassdoor: 74%
+
+
+
+back to job navigation (overview)
+
+
+
+success profile
+what makes a successful software developer at ebay? check out the traits we’re looking for and see if you have the right mix.
+
+
+problem-solver 10
+quick-thinking 9
+creative 8
+productive 7
+courageous 6
+team player 5
+
+traits are on a scale of 0 to 10
+
+ 
+
+
+quote
+
+if you love new challenges and want to take your career by the horns, ebay is a great place to grow and develop.
+
+
+
+
+trending
+
+
+three phones
+
+ebay speeds up mobile experiences by expanding amp technology for product pages
+mobile web customers will now experience even faster search with the addition of brands and interests.
+learn more
+
+
+
+three engineers
+
+engineering with a purpose
+our engineering teams are at the forefront of this evolving, dynamic marketplace, with the ultimate goal of helping connect buyers with sellers all across the globe.
+learn more
+
+
+
+hadoop graphic
+
+enhancing the user experience of the hadoop ecosystem
+at ebay, we have multiple large, multi-tenant clusters. each of these clusters stores hundreds of petabytes of data.
+learn more
+
+
+
+
+
+
+
+
+rewards
+
+
+
+healthcare
+medical, dental,vision, healthcare fsa, dependent care fsa, health and wellness programs
+
+
+
+401(k) / retirement plans
+employer matching, employee stock purchase program
+
+
+
+continuing education
+tuition reimbursement, professional development
+
+
+
+paid time off
+16+ days of paid time off, paid maternity leave, paid paternity leave, 11 paid holidays
+
+
+
+amenities
+onsite gym/fitness center
+
+
+
+sabbatical
+sabbatical, 4 paid weeks every 5 years
+
+
+
+
+ 
+
+
+
+looking for a company that inspires passion, courage and imagination, where you can be part of the team shaping the future of global commerce? want to shape how millions of people buy, sell, connect, and share around the world? if you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join ebay – a company you can be proud to be a part of.like to shake things up? we do! ebay hires innovators who can push boundaries and change the world. put on your entrepreneurial hat, roll up your sleeves and dive head first into ebay’s extensive pools of data. come with an analytical mindset and a passion for delivering on business goals. help ebay take data to the next level.we are looking for a motivated software engineeri with a focus on machine learning and data science to build robust and scalable software and draw insights from massive data sets. we want the highest levels of technical talent and programming skills, as well as a keen desire to deeply understand our products and services to push our technology forward. you’ll work alongside the best and the brightest engineering talent in the industry.you are:-insightful. be able to draw conclusions from large sets of data, and help drive business decisions with numbers-oriented thinking-resourceful. have the ability to do a lot with a little. be able to aggregate information from various places and build relationships with key stakeholders to get the data you need.-tech savvy. master your tools, and continue to expand your systems knowledge through formal or informal research and training.we need:-an excel connoisseur. know excel backwards and forwards, and be comfortable with using advanced techniques to collect, display and interpret data.-sql expertise. proficiency in sql is required. r, python, java, and/or c++ are a bonus-nosql tools. have familiarity with at least one nosql tool; hadoop, hive, pig, spark, h2o, etc.-a data miner. be able to extract patterns from large sets of data in order to deliver business insights from databasic qualifications:-completed a bachelor's or associate's degree from an accredited college or university in computer science, statistics, or related major-strong applied experience-creative thinker who knows how to create real-world products-curate, acquire & maintain datasets-create and manage data in traditional and non-traditional ways.-develop processes using java, scala, sql, shell etc.-share engineering support, release & on call.-estimate, plan & rollout changes-key skills: sql, java, python, nosql tool ie: hadoop, pig ,spark, h2o etc.-available to work in one of the following locations:-san jose, ca-san francisco, ca-brisbane, ca-bellevue, wa-portland, or-new york, nydisclaimer: please note that by applying to this role, you are agreeing to be considered for multiple positions. this is a general description of the qualifications and skills required for positions of this type of role.this website uses cookies to enhance your experience. by continuing to browse the site, you agree to our use of cookiesview our privacy policyview our accessibility info
+r0021003-3
+                    
+                    
+
+                
+apply
+
+
+
+bar1
+bar2
+
+read full job description
+
+
+
+
+about our location
+portland office
+view map
+
+map
+
+
+
+recently viewed jobs
+you have not viewed any jobs.
+
+
+sign up for job alerts
+
+receive new career opportunities as soon as they become available!
+xsubscribe
+
+emailareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationaddsoftware development, portland, oregon, united statesremoveremoveupload resumeremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global impact
+
+
+
+
+
+diversity & inclusion
+
+
+
+
+
+meet our people
+
+
+
+
+
+our company
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+home
+
+
+our company
+
+
+stories
+
+
+global impact
+
+
+investors
+
+
+join our team
+
+
+
+
+copyright © 1995-2017 ebay inc.
+all rights reserved.
+
+terms
+			|
+			privacy policy
+			|
+			accessibility
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

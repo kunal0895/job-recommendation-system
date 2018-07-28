@@ -1,0 +1,60 @@
+
+
+
+
+crisis text line - jobs: machine learning data scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+machine learning data scientist
+
+machine learning data scientist
+new york, united states · data
+
+descriptionwhat is crisis text line?crisis text line provides free, 24/7 emotional support and information to people in crisis, by text. we aim to move every texter in crisis from a hot moment to a cool calm. crisis text line is growing at an incredible rate. since launching in august of 2013, our crisis counselors have exchanged over 46 million messages with texters in crisis. currently, we are exchanging 3 million messages per month and growing ~10% month over month. most of this growth is organic; as we scale, our rate of growth is only increasing. what this means: it's our hockey stick moment. scaling staff and volunteers alone won’t allow us to keep up with the curve. data is one of the key tools that will help us scale our ability to move every texter from hot to cool. responsibilitiesthe machine learning data scientist will analyze large and fast moving data sets to build data products and inform business strategy. they will work closely with staff to design data solutions to our organization’s biggest challenges. they will seek to automate processes that provide disproportionate value, and allow our staff and volunteers to scale with hockey stick demand. the dataset we work with requires advanced skills in machine learning and natural language processing. for example, the ml data scientist may work on:  improving effectiveness. e.g., improve conversation quality by collecting, storing, and analyzing data to better understand (a) texter outcomes and (b) cc performance in conversations. a specific product will be to create a new algorithm for assessing texter sentiment per message.  improving efficiency. e.g., automate some tasks, such as filling out the post-conversation survey and automatically suggesting referrals for a texter, allowing ccs to spend more time in conversation with texters.  improving texter support between conversations. e.g., when a managed texter sends a message to initiate a conversation, we may be able to ask several automated questions before to better understand their needs, before we connect them with a crisis counselor.  here’s an example of a prior project.additionallycrisis text line is an equal opportunity employer.requirements advanced computer skills. advanced skills in python, plus strong knowledge of a database query language (mysql, postgresql, etc.) is a must. experience with aws is a bonus. 2+ years business experience in data science or data engineering in a relevant applied setting. you may be an expert in nlp or have experimented with using deep learning techniques. perhaps you’ve worked with lstms, cnns, hyperparameter tuning or related frameworks like tensorflow and keras. experience building real-time data products to strict performance requirements. you will be building products that make recommendation in real-time to support people in crisis. for our service, every minute saved counts. a business perspective. you believe in the pareto principle: 20% of the effort generates 80% of the value, and that is often the optimal solution. we could seek perfect answers, but it would take too long. we’ve got to move quickly to save lives. a people person. you may be an introvert or extrovert; either way, you believe the best foundation for data insights and products is face-to-face conversations with users. you’re excited to get out of the “data cave” to listen to staff and crisis counselors. you believe data teams have the skills to solve problems, but that users know the problems we need to solve. 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+crisis text line website
+
+powered by
+workable
+
+
+
+
+

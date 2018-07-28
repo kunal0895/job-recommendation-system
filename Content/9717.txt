@@ -1,0 +1,392 @@
+
+
+
+american specialty health - job description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for information about any upcoming ash events, click 
+        here
+      !
+
+
+
+
+
+
+
+
+
+
+
+
+our company
+
+
+
+
+history & growth
+
+
+management team
+
+
+accreditations & awards
+
+
+
+
+solutions and services
+
+
+
+
+musculoskeletal provider networks
+
+
+fitness and exercise services
+
+
+health management
+
+
+
+
+careers
+
+
+
+
+job postings
+
+
+corporate culture & benefits
+
+
+locations
+
+
+events
+
+
+
+
+media center
+
+
+
+
+ash in the news
+
+
+news releases
+
+
+media contacts
+
+
+
+
+resources
+
+
+
+
+white papers
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+                    menu
+                
+
+
+
+
+
+
+
+careers>
+                        job postings>
+                        business intelligence analyst ii
+                    
+
+
+
+business intelligence analyst ii
+american specialty health, inc. is seeking an experienced business intelligence analyst ii to join our growing organization. this position is a key part of the bi/data warehouse team which is responsible for delivering best-in-class analytical data solutions. this position will develop, implement, and support reporting, analytics and business intelligence solutions to meet the information needs of the organization and its clients while providing consulting services to the business users related to the use and management of data.  this position will also design and maintain a library of reports to support client and internal operational needs, effectively communicates results of analysis, develop and document technical specifications all while adhering to high standards of data integrity and reporting timelines. as a company that heavily relies on cutting-edge it operations to serve its members, ash is seeking ambitious individuals with a strong team mentality and a genuine passion for software engineering.
+
+you are invited to learn more about american specialty health's events on our events page.
+responsibilities
+
+manages assigned projects and supports activities of team.  ensures prompt completion of specific deliverables.  ensures accuracy and productivity in project completion and works cooperatively with all internal and external contacts.  analyzes, evaluates and documents data requests of business stakeholders to understand and prioritize requests appropriately.
+support client telephone calls to identify technical needs of reports and establish working relationships with client technical teams.
+build and maintain relationships with account managers to meet client information objectives.
+apply critical thinking skills by interacting directly with the report requestor and implement the criteria and analysis.
+translates user non-technical requirements to existing data sources.   develop and maintain custom reports using t-sql and reporting services as well as standard microsoft tools such as excel. develop stored procedures and views to support custom reporting.
+maintains assigned report requests, determines resource needs for requests and works with management to prioritize.  develops and maintains report schedules.
+performs analysis of data sources and designs processes to ensure data integrity, completeness, timeliness and accuracy.
+documents business requirements in the form of specifications (operational and technical specifications) and obtains necessary input and approval.
+develops methods to efficiently transmit reports including web based tools and standard report based transmissions.
+produce data and analyses in format appropriate to request such as common delimited, csv format, etc.
+work with edi team to post files to internal and external ftp sites.
+contributes to the business analysis for reporting requirements. assist in the development of automated and scalable data collection and reporting processes.
+maintains a solid working knowledge of business intelligence tools and follows best practices.
+provide support for the development of a data warehouse.
+develop and maintain reporting solutions to support clients and for decision support purposes.
+migrate reports from multiple solutions to standard reporting toolset.
+identifies and evaluates recurring database issues, researches trends, and implements solutions.
+ability to analyze internal team processes, identify opportunities for improvement, and implement solutions.
+assist with a variety of other data collection, storage, and reporting processes as needed, which may include: consolidating data from disparate sources, such as excel, access, and text files so that they can be integrated into sql databases.
+collaboratively work with assigned staff and ensures that accuracy and productivity meet/exceed company standards.  coordinates workflow of department ensuring that productivity, quality, and timeliness standards are met.
+provides constructive feedback, and conducts counseling and training sessions as required.  conduct training for team members and end-users when needed.
+interviews and recommends the hiring of new staff members as required.
+supports department functions as they interface with other departments to ensure efficient and effective teamwork within the organization as defined by management.
+serve as a reporting expert for the team and the organization, which may include: developing report requests and interpreting data.
+generates and conducts quality review on ad-hoc and scheduled reports as needed.  analyzes efficiency of current processes, makes recommendations and streamlines/automates processes.
+provides timely responses to internal and external inquiries.
+
+qualifications
+
+bachelor’s degree in computer science, informatics, business, or other related quantitative field.
+minimum of 6 years experience of sql report writing with advanced t-sql skill set.
+minimum of 6 years of progressive work experience developing reports and advanced work experience with reporting tools including but not limited to ssrs.
+minimum of 4 years of progressive work experience with ssis and sql visual studio.
+advanced understanding of relational database architecture and business intelligence.
+experience with ad-hoc and custom reporting requests.
+advanced excel skills.
+experience in a managed health care setting preferred.
+experience with ash processes and systems a plus.
+experience with agile development/scrum a plus.
+excellent verbal and written communication skills required with ability to communicate effectively and partner with senior level staff to determine business goals and objectives, and ways to partner in order to achieve those objectives.
+strong leadership skills and ability to work collaboratively with a team.
+ability to translate business requirements to technical specifications.
+knowledge of business operations, database structures, and reporting solutions to meet business needs.
+ability to think abstractly beyond basic data requirement.
+
+core competencies 
+
+demonstrated ability to interact in a positive, respectful manner and establish and maintain cooperative working relationships.
+ability to display excellent customer service to meet the needs and expectations of both internal and external customers.
+excellent listening and interpersonal communication skills to identify critical core competencies based on success factors and organizational environment.
+ability to effectively organize, prioritize, multi-task and manage time.
+demonstrated accuracy and productivity in a changing environment with constant interruptions.
+demonstrated ability to analyze information, problems, issues, situations and procedures to develop effective solutions.
+ability to exercise strict confidentiality in all matters.
+
+mobility
+primarily sedentary, able to sit for long periods of time with ability to travel within and outside the facility.
+physical requirements
+ability to speak, see and hear other personnel and/or objects.  ability to communicate both in oral and written form. ability to travel within the facility. capable of using a telephone and computer keyboard.  ability to lift up to 10 lbs.
+environmental conditions
+within facility, normal office conditions, including lighting and ventilation.  minor noise from conversations and general office equipment (telephone, printer, etc.).  when required to travel outside the facility, usual weather, traffic, and related conditions are applicable.
+american specialty health is an equal opportunity/affirmative action employer.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. 
+please view equal employment opportunity posters provided by ofccp  here.
+if you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access our career center as a result of your disability. to request an accommodation, contact our human resources department at (800) 848-3555 x6702.
+ash will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the company’s legal duty to furnish information.
+
+view full description
+
+core competencies 
+
+demonstrated ability to interact in a positive, respectful manner and establish and maintain cooperative working relationships.
+ability to display excellent customer service to meet the needs and expectations of both internal and external customers.
+excellent listening and interpersonal communication skills to identify critical core competencies based on success factors and organizational environment.
+ability to effectively organize, prioritize, multi-task and manage time.
+demonstrated accuracy and productivity in a changing environment with constant interruptions.
+demonstrated ability to analyze information, problems, issues, situations and procedures to develop effective solutions.
+ability to exercise strict confidentiality in all matters.
+
+mobility
+primarily sedentary, able to sit for long periods of time with ability to travel within and outside the facility.
+physical requirements
+ability to speak, see and hear other personnel and/or objects.  ability to communicate both in oral and written form. ability to travel within the facility. capable of using a telephone and computer keyboard.  ability to lift up to 10 lbs.
+environmental conditions
+within facility, normal office conditions, including lighting and ventilation.  minor noise from conversations and general office equipment (telephone, printer, etc.).  when required to travel outside the facility, usual weather, traffic, and related conditions are applicable.
+american specialty health is an equal opportunity/affirmative action employer.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. 
+please view equal employment opportunity posters provided by ofccp  here.
+if you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access our career center as a result of your disability. to request an accommodation, contact our human resources department at (800) 848-3555 x6702.
+ash will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the company’s legal duty to furnish information.
+ 
+
+
+
+ 
+
+
+
+
+
+interested in this position?
+submit your contact info with resume (optional) and we will reach out as soon as we can.
+
+
+full name
+
+email address
+
+phone
+
+resume
+
+
+
+
+
+
+
+
+
+
+
+
+complete full application
+
+                                req#16-0436 san                                                   
+                                posted 09/05/2017
+                                full time
+san diego, ca/temecula, ca, 
+
+view all open positions
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+share email
+
+
+
+
+
+
+
+url
+
+
+
+your name
+
+your email
+
+your friend’s email
+
+message
+i thought you might be interested in this job at american specialty health.
+
+
+
+
+send email
+
+
+
+
+
+
+
+
+
+
+ american specialty health logo
+12800 n. meridian st.
+                                    carmel, in 46032
+                                    general inquiries: (800) 848-3555
+                                    sales inquiries: (855) 328-2746
+                                    fax: (619) 237-3859
+                                
+contact us
+
+
+site details
+
+terms and conditions
+privacy statement
+sitemap
+
+
+
+stay up-to-date
+subscribe to our rss feed or follow us on social media to get our latest news releases and ash in the news headlines.
+
+
+connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                © 2017 american specialty health incorporated. all rights reserved.
+                            
+
+
+
+
+
+
+

@@ -1,0 +1,695 @@
+
+
+xentity corporation- data analyst (denver, co)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+data analyst (denver, co)
+
+
+
+
+our government high-profile client is in the second year of investing in a revolutionary way of using open data to promote economic development in the state of colorado. we are providing data analyst and data wrangling support for their initiative. we are responsible for helping make certain state data public-domain and easier to use to allow other companies to leverage to build into their product and services or new applications. we are looking for people that believe data is the new gold.
+we are looking for data analysts, data wranglers, data scientists with excellent leadership, technical, and subject matter expertise qualities.  we are bringing together data sources from disparate sub-agencies into an enterprise platform to make available on open-data platforms.
+to boot, we want our analysts to be natural change agents and passionate about change while empathetic to the clients environment on how they leverage, mature, and incorporate data products, services, and new capabilities. we want leaders who can both support the influence of the right change direction while managing the technical and business analysis and design, and are skilled and self-motivated with solid domain/subject matter expertise.
+our analysts will be on teams that through facilitated analysis, work shoulder-to-shoulder with the clients and our project leadership to get this raw, and sometimes unstructured data into the platform in agile releases. furthermore, we are working with the extended part of the overall team to devise and craft strategies and communications solutions to broadcast and brag about their change efforts and results.
+this is what we do – we bring transformations to life.
+position requirements:
+you will be expected to rapidly ramp-up on client lingo, proactively make observations of patterns, anomalies, problems, and are customer service focused on being accountable and decisive and able to rapidly respond to change requests. we expect you to be proactive, efficient, and ready to learn quickly, and rapidly in response to all team member needs.
+the earlier project goals will be to maintain/update existing etl scripts primarily in node.js. soon thereafter, additional new datasets will requiring implement new etl and automated etl jobs using a job scheduler (i.e. cron, at) for likely 15 data sources in staging environment (linux) based on design from project technical lead. within the first half of the year, likely a total of 40 datasets, with increasing complexity will require the same level of effort as well as design and additional and documentation of the  transforms, implement etl scripts as well as participating in design of improved data maintenance solution.  some data will be raw, so being creative in problem-solving while meeting client tight goals will be very important. finally, the project over the period will provide technical support to startup teams for data and open data portal api (socrata).  this will include configuring help desk ticketing solution and resolve tickets and contribute data analyst content to company best practices to help increase quality and pace of responses.
+we want to not only gain your technical solutions, but we also want to leverage and grow your interactive and client facing skills. all roles will require strong communication and interactive skills - oral, written, visual especially for triaging conflict, ideation barriers, mitigating risk, foster thought diversity and team environment. the scope will change, so we expect the role to adapt to change and manage expectations, be goal-oriented and self-motivated, and have a customer-oriented (consulting mindset, not "the code works in my environment"). the team likes to coach and explore, so we are looking for life-learners, inherently curious, team players, cooperative, reliable, dependable – basically, you need to rock, but not be a prima-donna rock star.
+we expect all our roles to have a mastery of their technical level at their role whether that be in architectural methods, work products, consulting techniques, and client culture. if they are not, they need to demonstrate how they are very fast learners.
+for the technical prowess, we will want you to demonstrate your data science nerd-dom and technology stack as part of normal vernacular in one or many of these stacks (with the first being default requirement):
+
+knowledge of software development and computer science fundamentals.
+must be experienced in node.js, openrefine, sql, ftp
+proficient in at least one common programming language (node.js, java, ruby, c sharp, python, perl, php, javascript )
+experience with etl solutions and technologies – sql, xml, json, geojson, informatica, kettle, openrefine, safe/fme, geokettle, jquery, regular expressions, data types and standards, geospatial data.
+basic understanding of linux shell commands, web application architectures, ip networks, version control (svn, git).
+additional credit for gis transformation: postgis, rdbms/dba, esri/arcgis, data science / analytics (bi tools, nosql, r, matlab), geojson, k-means, nearest neighbor, anselin local moran's, monte carlo simulation, mantel index, standard deviational ellipse, geoserver, esri/hadoop
+candidate should be expert in one of the disruptions cited on the xentity home page
+1 year of consulting experience – higher compensation for additional 3 more years in related analytical work products and additional 2 more years in subject matter
+could pass ad-hoc technical and whiteboard test given various data etl and other patterns of real-time, large data, data cleanup, etc. scenarios
+our work is traditionally unclassified, but will require certain amount of background, reference, and other checks
+travel will be local in-state only and require on-site work in downtown denver.
+we emphasize a balance of work and life and target 40-50 hour weeks with ample times to refresh with great paid-time off.
+
+more about xentity
+we are a fast-growing data consulting and support services firm. check out www.xentity.com to learn about our focus, services, clients, missions, values as well as our excellent benefits package and career information.
+we have high profile clients and projects that our staff really delivery for, as well enjoy knowing they make a large difference.
+our president has a vision to continue to focus on solutions that transform the next generation. he seeks projects in renewable energy, integrating geosciences, high performance computing, big data and advanced concepts like fuzzy logic, changing interfaces points mobile or augmented reality and many more disruptions. he wants to continue to put the i back in information technology by concentrating on pragmatic designs, leadership and management, and the all too forgotten focus on outreach and engagement strategies and solutions.
+more can be found at careers.xentity.comdepartment: architecturethis is a non-management positionthis is a analyst position 
+
+
+
+
+            visit                  
+                                          careers
+                                      
+                 at xentity corporation          
+
+
+
+subscribe to be notified of new jobs
+                              
+
+
+
+                    if we don't have an open position that fits you, feel free to subscribe to our talent team email! enter your
+                    name, email address and position(s) you're interested in, and whenever we open a new position matching your criteria
+                    we'll notify you immediately.
+                    
+
+
+* first name:
+
+
+* last name:
+
+
+
+* email address:
+
+
+* send me openings in these areas:
+
+
+architecture
+
+
+
+operations
+
+
+
+communications
+
+
+
+
+
+
+i'm interested in:
+
+management
+                        non-mgt
+                      
+
+
+
+
+
+                        subscribe
+                      
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+leave this field blank
+
+
+
+personal information
+
+
+
+* first name                  
+
+
+* last name                  
+
+
+* email                  
+
+
+                    address                  
+
+
+* city                  
+
+
+* state                  
+
+
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+district of columbia
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+
+
+
+                    zip code                  
+
+
+* phone number                  
+
+
+
+attachments
+
+
+
+
+* attach your resume                    
+
+
+
+attach
+
+
+
+
+
+
+
+
+
+
+
+paste
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      attach a cover letter                    
+
+
+
+attach
+
+
+
+
+
+
+
+
+
+
+
+
+
+other information
+
+
+
+* 
+                  can you work locally to location in job description (note, relocation packages are not offered)?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  can you sign a commitment letter now to start in 90 days?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  can you pass a mandatory background check?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  can you pass a mandatory drug test?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  can you show proof of your legal right to work in the united states?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  below, did you provide a targeted salary you believe to be in-line with the position requirements?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  do you have either bachelor's degree in position related field?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  do you have the requisite years of experience noted in the job description?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+* 
+                  beyond training or education, in an interview, can you provide and/or discuss in detail examples where you applied the process, tools, or technology noted in the job description?                
+
+
+                                      yes
+                                  
+
+  
+                                      no
+                                  
+
+
+                                    how did you hear about this position?                
+
+
+ahjobslistdc jobsdoostangemailemailemployee referralexternal recruiterglassdoorihiretechnologyindeedindeedjob fairjujulaw crossinglinkedinmarathontsmonstermy gis jobsother job boardsimply hiredsocial networkwalk-inweb searchxentity corporation websitexentity websiteziprecruiterother 
+
+* please enter who you were referred by
+
+
+
+* please enter how you heard about this position
+
+
+
+* 
+                                    salary desired (numbers, range please)                
+
+
+* 
+                                    tech: which database products do you have hands-on experience?                
+
+sql server
+
+oracle
+
+mysql
+
+postgres
+
+cloudera
+
+hadoop, hdfs, hive, h-base
+
+mongodb
+
+mapreduce
+
+voltdb
+
+db on linux
+
+redis
+
+other
+
+none
+
+* 
+                                    tech: what is your cloud platform experience?                
+
+aws
+
+cloudera
+
+ibm
+
+azure
+
+google
+
+other?
+
+none
+
+* 
+                                    tech: what advanced data standards/concepts have you worked with? (big)                
+
+markov or markov chain
+
+naive bayes
+
+n-grams
+
+[damerau]-levenshtein distance
+
+fuzzy search
+
+nlp
+
+sparql
+
+geojson
+
+carto (aka cartodb)
+
+k-means
+
+nearest neighbor
+
+anselin local moran's
+
+monte carlo simulation
+
+mantel index
+
+standard deviational ellipse
+
+other
+
+none
+
+* 
+                                    tech: what open data platforms and have you worked with? (open)                
+
+socrata
+
+opendatasoft
+
+ckan
+
+dkan
+
+freebase
+
+junar
+
+wiki (mediawiki, confluence)
+
+swirrl
+
+custom codebase / foss components
+
+other
+
+none
+
+* 
+                                    tech: what non-gis data technologies and standards and have you worked with? (data)                
+
+nodejs
+
+php
+
+web javascript libs like jquery, extjs
+
+d3js
+
+r project
+
+python
+
+scripts
+
+informatica
+
+python
+
+nodejs
+
+mulesoft
+
+safe fme
+
+kettle
+
+hadoop/nosql
+
+sap
+
+w3c open data standards
+
+iso-19114
+
+iso-19115
+
+foia/cora
+
+government records laws
+
+schema.org
+
+other semantic (rdf, microdata, etc.)
+
+mission-specific: science standards
+
+mission-specific: cartographic standards
+
+mission-specific: financial/erp standards
+
+other
+
+none
+
+* 
+                                    tech: what gis data tools and standards and have you worked with? (geo)                
+
+arcgis
+
+opengeo/boundless
+
+qgis, other foss
+
+gis data transformation
+
+integrating gis and data warehouses
+
+advanced gis analytics
+
+fgdc metadata
+
+fgdc other geospatial standards
+
+ogc (multiple)
+
+geojson
+
+esri owf
+
+kml
+
+hdf
+
+thredds/opendap
+
+other
+
+none
+
+                                    open: how do you keep yourself on track to reach project goals?                
+
+
+                                    open: do you consider yourself risk adverse as it relates to a project? why or why not?                
+
+
+                                    open: describe the importance of accountability on a team:                
+
+
+                                    open: to what degree do you typically read through project guidance and background information?                
+
+
+                                    open: how often did your previous supervisor (or peers) provide work guidance? would you have preferred more or less?                
+
+
+
+                                                        if we contact you for a phone screen, when should we call? (pick as many slots as you wish)
+                                  
+
+8am to 11am
+
+11am to 3pm
+
+3pm to 6pm
+
+6pm to 8pm
+
+any of these times
+
+
+
+
+                  submit                
+
+
+
+                  apply                
+
+
+
+                  continue                
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+

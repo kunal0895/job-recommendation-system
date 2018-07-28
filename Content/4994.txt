@@ -1,0 +1,326 @@
+
+
+
+        data scientist- finance -        sparkcognition -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+                                                                         sparkcognition                                                                        
+
+
+
+
+
+we’ve made a name for ourselves building systems that solve previously unsolved problems —and we continue to pursue worthwhile, industry changing goals with tremendous drive and commitment. our team is highly self-motivated, pursuing new innovations at a fast and furious pace. we love nothing more than the thrill of making it through a tough problem and seeing the final outstanding result. by the very nature of the goals we pursue, we push ourselves to go beyond limits perceived by others. impossible is nothing. 
+
+
+
+data scientist- finance
+
+
+austin, tx                    
+
+full time                
+
+engineering                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sparkcognition is looking for innovative data scientists to join our team to help create the next generation of analytics and artificial intelligence solutions. at sparkcognition, you will immerse yourself in cutting-edge research and work with the latest technologies to deliver value in financial trading and portfolio optimization.
+responsibilities
+building models to solve specific problems. this includes, but is not limited to:
+processing, cleansing, and verifying the integrity of data used for analysis
+feature engineering using various techniques for the enhancement of data
+performing feature selection on original and generated data
+using machine learning tools to develop and train models
+performing efficacy testing of the models
+building automated tools that enable data scientists to more effectively perform tasks such as data cleaning, feature generation, feature selection, or model building
+performing ad-hoc analysis and presenting results in a clear manner
+working with a team to help solve new, never-before-solved challenges in financial trading and portfolio optimization.
+skills and qualifications
+understanding and experience using machine learning techniques and algorithms, including but not limited : linear models, neural networks, decision trees, bayesian techniques, clustering, anomaly detection, and more
+experience with data science languages, such as python, r, matlab, etc
+experience with machine learning frameworks, such as pytorch, tensorflow, theano, keras, etc 
+strong statistics skills
+experience managing large volumes of data (terabytes or more)
+great communication skills
+good scripting and programming skills, especially python
+graduate degree (or equivalent industry experience), ph.d. preferred, in computer science, statistics, physics, mathematics, economics, or a related scientific discipline
+desirable skills and qualifications
+computational finance experience with modeling financial time series
+familiar with capital markets including equities, fixed income, foreign exchange, and commodities
+exposure to risk management and portfolio optimization techniques
+experience with tableau
+experience with distributed computing, such as hadoop, spark, or an mpp environment
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+the following questions are entirely optional.
+
+                        to comply with government equal employment opportunity / affirmative action reporting regulations, we are requesting (but not requiring) that you enter this personal data. this information will not be used in connection with any employment decisions, and will be used solely as permitted by state and federal law. your voluntary cooperation would be appreciated. learn more.
+                    
+
+
+
+gender
+
+decline to answerfemalemale
+
+ 
+
+
+race/ethnicity
+
+decline to answerwhite (not hispanic)african american/black (not hispanic)hispanic/latinoasianpacific islanderamerican indiannative alaskannative hawaiianmulti-racial
+
+ 
+
+
+veteran/disability status
+
+decline to answerdisabled veteranspecial disabled veteranvietnam era veteran3 yr. recently separated veteran1 yr. recently separated veteranother protected veterandisabled individualnot applicable
+
+ 
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

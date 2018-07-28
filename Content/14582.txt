@@ -1,0 +1,229 @@
+
+
+
+
+job application for backend software engineer at logichub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend software engineer
+
+        at logichub
+      
+(view all jobs)
+
+        mountain view
+      
+
+
+we are logichub and we are tackling a security problem that almost every enterprise faces: their it infrastructure is constantly under attack and their security analysts have to deal with billions of alerts every day. how do they know which 20 or 50 they actually need to chase down? this problem causes them to miss really critical breaches and early indicators of a compromise.
+we are a very young but well funded startup - 8.5m series a, founded jan 2016. we are reshaping the security intelligence landscape by creating an intelligence automation platform with an all-star team. our team has 15+ years of experience building products in the security space from companies like arcsight and sumo logic.
+there are two really interesting technical challenges here - massive data processing and intelligence automation. typically enterprises generate terabytes of security data every day from applications, devices, systems and so on. in order to detect an advanced threat in this sea of data, our systems need to be very performant and scalable. we are always looking at the latest technologies in the data processing space to solve this. we also need to apply scalable machine learning techniques to this huge amount of data - so that we can capture how security analysts investigate and automate that process.
+you are a strong software engineer who is passionate about large-scale systems. you care about producing clean, elegant, maintainable, robust, well-tested code; you do this as a member of a team, helping the group come up with a better solution than you would as individuals. ideally, you have experience with performance, scalability, and reliability issues of 24x7 commercial services.
+responsibilities:
+
+design and implement extremely high-volume, fault-tolerant, scalable backend systems that process and manage terabytes of data.
+analyze and improve the efficiency, scalability, and reliability of our backend systems.
+write robust code; demonstrate its robustness through automated tests.
+work as a member of a team, helping the team respond quickly and effectively to business needs.
+
+requirements:
+
+b.s., m.s., or ph.d. in computer sciences or related discipline..
+experience in multi-threaded programming and distributed systems.
+object-oriented programming experience, for example in java, scala, ruby, or c++.
+understand performance characteristics of commonly used data structures (maps, lists, trees, etc).
+ability to design and architect end-to-end solutions based on understanding of requirements from the product team a big plus.
+desire to learn scala, an up-and-coming jvm language (scala-lang.org).
+
+ desirable:
+
+experience in big data and/or 24x7 commercial service is highly desirable.
+experience building large scale distributed systems.
+you should be happy working with unix (linux, os x).
+agile software development experience (test-driven development, iterative and incremental development) is a plus.
+experience with docker and large scale data processing technology like spark.
+
+to apply, please submit your resume, no cover letter necessary. we encourage you to submit any work you have done in the open. (open source contributions, github repos, etc.)
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

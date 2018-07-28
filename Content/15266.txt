@@ -1,0 +1,453 @@
+
+
+
+
+careers | qc games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+
+home
+the team
+the studio
+careers
+blog
+
+
+home
+the team
+the studio
+careers
+blog
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+join qc games
+rise like the mythical quetzalcoatl and grab hold of your destiny.
+hint: your destiny involves making awesome games in austin.
+
+
+we love what we do
+want to be a part of something rare in this industry?â  at qc games we are a group of passionate gamers and developers creating new worlds and new gameplay for gamers.â  we are not beholden to ivory tower development or to preconceived notions of what players or the market want.â  we are not only willing to innovate, we are defining ourselves by our commitment to innovation.
+some of us at qc games are industry veterans who have been building the worldâs best online games for decades. some of us are relatively new to the business. no matter your particular background, we believe in empowering our team members and treating them the way we want to be treated â like adults. does that mean every single one of your great ideas is going to make it into the game? nope. most ideas are terrible. but you knew that already. bring your best work, and be prepared to battle it out to see what wins.
+
+
+we offer excellent benefits and perks, including:
+– medical, dental and vision insurance. because a healthy team member is far more productive than a not healthy one.
+ – flexible hours. we expect you to deliver on your commitments and make sure your project stays on track. how (and when) you do that is up to the you and your manager.
+ – unlimited vacation and sick time. for reals (with approval). see the above note about delivering on your commitments. if you are nailing it and the team is nailing it, then that’s all we care about.
+ – opportunities for ownership. we want our team to own a real piece of the success of the company.
+ – paid holidays. in addition to unlimited vacation, we will close the office down for 8 major holidays as well as the 5 days between christmas and new year’s day.
+ – austin living. austin is consistently rated one of the top cities in the us for quality of life.
+
+
+are you ready to take the plunge? 
+we’ve listed the jobs we are hiring over the next 6 months below. if you don’t see your gig listed but still want us to take a look,â that’s fine! we still want to hear from you..
+current openings
+art
+
+
+
+
+
+
+
+
+
+
+
+
+
+character artist
+
+
+
+
+
+qc games is looking for a passionate and talented character artist. the ideal candidate will have an amazing eye for human, animal and creature forms and anatomy.
+
+
+
+
+
+				view profile			
+
+
+
+
+
+
+
+
+
+character artist
+
+
+
+
+ 
+austin, tx
+qc games is looking for a passionate and talented character artist.â the ideal candidate will have an amazing eye for human, animal and creature forms and anatomy. he/she should be able to create animation ready meshes, be an expert digital sculptor and high poly modeler and understand what it takes to create aaa quality textures (ideally in a pbr pipeline – unreal editor preferred).
+qualifications:
+
+strong 3d portfolio showcasing top quality real-time characters, animals, creatures, weapons and garments
+strong 3d portfolio showcasing top quality detailed digital sculpts and high poly models
+expert texture painter, understands how textures bring amazing models to the next level
+experience with art pipelines for character customization (different body types, multiple hair sets, garment customizationâ¦)
+2+ years of industry experience as a character artist
+1+ shipped title
+strong understanding of the technical side of character creation for games, such as memory limitation, lods, texture bakes, mesh deformation, shader set up, etc.
+is able to work with minimal supervision, taking assets from concept all the way to integration in the engine
+accepts and gives constructive feedback
+willing to help reviewing work done by external vendors
+expert user of 3ds max or maya, photoshop and zbrush
+is a team player, understands the value of a collaborative/ethical working environment
+
+pluses:
+
+substance designer/painter experience
+marvelous designer experience
+pbr experience
+concept skills
+life model drawing/painting portfolio
+art, graphic design or related degree
+
+submit resume:
+
+
+ 
+ 
+
+
+if you are a human and are seeing this field, please leave it blank.			
+
+
+
+
+
+
+first name 				
+
+
+
+
+
+
+last name 				
+
+
+
+
+
+
+email 				
+
+
+
+
+
+
+position 				
+
+
+
+
+
+
+message / cover letter 				
+
+
+
+
+
+
+resume 				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or email:â jobs@qcgamedev.com
+
+
+
+
+
+
+
+
+audio
+no current openings. please check back later!
+design
+no current openings. please check back later!
+production/administration
+no current openings. please check back later!
+engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+
+
+
+the software engineer is responsible for owning the implementation and support of features for games, the creation of games, and game services. this includes working with art, design and production to fully understand the requirements of each feature and working with a team of engineers to ensure a quality and timely delivery.
+
+
+
+
+
+				view profile			
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+
+
+austin, tx
+the software engineer is responsible for owning the implementation and support of features for games, the creation of games, and game services. this includes working with art, design, and production to fully understand the requirements of each feature and working with a team of engineers to ensure a quality and timely delivery.
+responsibilities:
+
+author and publish technical design documents for game systems and/or services based on requirements from senior engineers and/or design
+implement and support game systems or services based on a technical designs
+analyze current programs including performance, diagnosis, and troubleshooting; design solutions to issues found
+review the work of other engineers and provide constructive guidance
+
+qualifications:
+
+bachelorâs degree in computer science (or equivalent)
+2+ years personal and/or professional experience with video game or on related technologies
+strong inter-personal communication skills
+excellent personal time management skills
+extensive knowledge of one or more programming languages including but not limited to c++
+self-driven with strong organization skills
+
+submit resume:
+
+
+ 
+ 
+
+
+if you are a human and are seeing this field, please leave it blank.			
+
+
+
+
+
+
+first name 				
+
+
+
+
+
+
+last name 				
+
+
+
+
+
+
+email 				
+
+
+
+
+
+
+position 				
+
+
+
+
+
+
+message / cover letter 				
+
+
+
+
+
+
+resume 				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or email:â jobs@qcgamedev.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+the team
+the studio
+careers
+blog
+
+
+hatched by ironegg 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

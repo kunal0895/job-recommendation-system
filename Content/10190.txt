@@ -1,0 +1,292 @@
+
+
+
+
+job application for data engineer at classy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at classy
+      
+
+        san diego hq
+      
+
+
+ position description:
+we want you to help us establish classy as the thought leader in social impact and fundraising. help us build our dataset and leverage it to publish reports that support awesome organizations achieve their goals to do good. 
+we’re looking for a data engineer who understands that the key to great analytics and machine learning is a clean, diverse dataset, and has experience building great datasets from challenging and varied sources: 
+
+accessing / querying a variety of data sources (relational databases, no-sql databases, salesforce, csvs, json apis, web scraping).
+filtering and transforming such data to dedupe records and clean the individual data fields.
+cross-referencing data with public datasets or paid apis, to augment the dataset.
+ability to use aws tools, such as lambda (via serverless), cloudformation, and redshift.
+
+you will work on a small, talented team of web developers, data analysts, and data scientists to help build the best dataset possible to guide our business and help guide our customers in online fundraising. with this dataset, we’ll aim to answer questions such as:
+
+what charities are most likely to succeed on our platform?
+what factors predict whether a fundraising campaign is successful?
+how do we identify top fundraising users as early as possible?
+can we automatically score how good a user’s text and images are for fundraising?
+much, much more!
+
+you will have chances to leverage your existing skills while learning new ones, in a fast-paced startup environment. you will be among the first to work with our unique in-house dataset, to help discover new insights in how classy can best support organizations and their supporters to do good in the world.
+who you are:
+basic requirements:
+
+2+ years of work experience in programming, data scraping, and data querying (preferably all three).
+prefer individuals who have completed one or more self-led data science projects, from data aggregation to publishing text and visualizations (the more diverse the data sources, the better!).
+great attitude
+eagerness to learn
+motivated self-starter
+excellent communicator
+
+desirable traits also include:
+
+ability to query such data to build analytic reports (e.g. mysql, mongodb, pandas/python, node/javascript).
+using appropriate statistical / machine-learning methods to analyze the data
+publishing insights (visualizations and text, internal presentations & blogging)
+prototyping tools (via web programming) to expose these insights internally and/or externally (to non-profit organizations)
+
+our awesome perks!
+
+new expansive office in downtown san diego overlooking petco park baseball stadium and the ocean
+29 days off annually including vacation + holidays
+10 half-day fridays a year
+20 hours paid volunteer time off
+monthly parking pass, public transit pass, or ride-share allowance
+employee stock options + health benefits available day one
+pet friendly office (woof!)
+
+*compensation will be competitive and commensurate with experience, including equity in a saas company backed by prominent technology investors, including jmi equity, mithril, salesforce ventures, and bullpen capital. classy has raised $53 million to-date in growth capital. for more information, visit www.classy.org or follow classy on twitter @classy
+about classy:
+ classy is a social enterprise that creates world-class online fundraising tools for nonprofits, modernizing the giving experience to accelerate social impact around the world – like curing disease, responding to disasters, providing access to education and other inspirational programs. classy’s goal is to be a growth engine for nonprofits and social enterprises, helping them engage with supporters through a remarkable giving experience. since 2011, fundraising on the classy platform has doubled each year—resulting in thousands of nonprofits collectively raising over half a billion dollars.
+did you know that over $390 billion is donated annually to u.s. nonprofits, yet only a small fraction of this number is donated online? this massive market has been devoid of significant innovation in technology for decades - with most modern technology companies focusing elsewhere. therefore, this market is ripe for disruption.
+classy is a vc-backed saas company headquartered in san diego, boasting a culture that is exciting, result-oriented, and above all else, committed to our mission. our customers deserve a technology solution—and a team— that can transform the giving experience. we’d love for you to be a part of it.
+today, the 225-person classy team services over 3,000 nonprofit customers and also hosts the collaborative and classy awards to recognize excellence in social innovation.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile (paste link)
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+please describe your work experience in programming, data science, data analysis, and/or machine learning. *
+
+
+
+
+
+
+
+by typing my name below i have reviewed this application personally, and i agree that all statements i have made on this application, in my resume, and other supplementary materials submitted by me are true and correct. i understand that any misrepresentation or omission of facts may be cause for a refusal to hire me or the termination of employment at any time during the period of my employment. i authorize classy to verify, in any manner, all statements made by me. i authorize any and all former employers, references, or educational institutions to release all information relevant to my employment or education to classy, without giving me prior notice.  *
+
+
+
+
+
+
+
+
+application consent for classy
+by clicking the “i accept” button you expressly make the following representations and warranties and give your consents as described below:
+classy collects your personal data for the purposes of managing classy’s recruitment related activities as well as for organizational planning purposes globally. consequently, classy may use your personal data in relation to the evaluation and selection of applicants including for example setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes including the final recruitment.
+classy does not disclose your personal data to unauthorized third parties. however, as a global corporation consisting of multiple affiliated companies in various countries, classy has international sites and classy uses resources located throughout the world. classy may from time to time also use third parties to act on classy’s behalf. you agree to the fact that to the extent necessary your personal data may be transferred and/or disclosed to any company within classy group of companies as well as to third parties acting on classy’s behalf, including also transfers to servers and databases outside the country where you provided classy with your personal data. such transfers may include for example transfers and/or disclosures outside the european economic area and in the united states of america.
+
+
+
+
+  i accept
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

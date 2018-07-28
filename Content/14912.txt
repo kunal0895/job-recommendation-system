@@ -1,0 +1,469 @@
+
+
+
+
+job application for software engineer - cloud foundry (denver) at pivotal software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer - cloud foundry (denver)
+
+        at pivotal software
+      
+
+        denver
+      
+
+
+pivotal’s story video  
+always be kind: a simple daily affirmation and one that feels more like a personal mission statement than a corporate motto -- but pivotal isn’t just any corporation. underpinning our world-class capabilities in cloud-native software delivery and agile development methodologies is one common thread: empathy. not only do we want to transform the way the world builds software, we also want to make sure that sustainable pace, kindness, and diversity are at the core of every enterprise.
+known for taking an iterative approach, our 2000+ employees are empowered every day to help shape the way we build software. pivotal is committed to open source, a diverse culture, and fostering safe spaces for all of our individual employees.
+you
+you are looking for a collaborative environment building distributed systems that enable enterprises to focus on their business rather than re-architecting a cloud platform from scratch. pair programming has always been something that you wanted to try out.
+furthering your education has always been a goal of yours. learning new programming languages and getting to work with golang piques your interest.
+contributing to open source software makes you feel good about the transparency it brings to an organization's code quality.
+us
+agile concepts are at the core of our process. we have a whole host of pivotal practices around test driven development, pair programming, team retrospectives, technical retrospectives and continuous integration. we are excited to teach these to you and innovate with you on their implementation.
+we stick to a strict 8 hour a day schedule (with flexible start and end times). although on-call rotations are part of most teams incidents are exceedingly rare.
+a majority of our time is spent pairing in our denver office but enabling remote teamwork is becoming increasingly important. we use slack to stay connected and screenhero or tmux for pairing. we are working hard to make sure that our distributed teams function as smoothly as our distributed systems.
+you'll rarely be alone when developing; from pairing all day to 1 on 1 time with your manager, there is always a pivot there to lend a helping hand. mentorship from senior engineering leadership is built right into our process - you’ll always be empowered.
+making an investment in each pivot’s professional development improves the organization as a whole. we encourage you to go to conferences or purchase those pricey o'reilly books - and we’ll give you a budget each year to do it.
+your day
+as cliche as it may sound, every day is completely different from the next. we have a general framework for what our day looks like and the majority of it will be spent with your pair:
+9:00 am - office-wide stand-up to build office cohesion and start the day off together.
+9:10 am - team standup - discuss any blockers, choose pairs, maybe even tell a joke.
+9:30-12:30 pm - start pairing, tackle an open github issue and open a pull-request.
+12:30-1:30 pm - lunch! eat on the balcony, run an errand, or join a book club.
+1:31-6:00 pm - get back with your pair and start an acceptance test for a big feature.
+while that schedule does look busy, don’t worry - we take ample breaks throughout the day. take a walk by the river, read a book on the balcony, play a game of ping pong, or chat with co-workers at the snack bar. sustainable pace is held in high regard. we know there is a life outside of work, we want you to be able to spend time with family and friends. we understand that attending ballet recitals is as important as building great software.
+ 
+desired skills/ experience:
+we know from experience that not ticking every box on the skills sections stops many from applying. you should apply regardless of your self-assessment because we want to hear from you.
+
+ability to dive into a large polyglot codebase and contribute as you learn
+being okay with the uncomfortable feeling that comes from learning new things
+interest in exploring new programming paradigms, languages, and patterns
+demonstrable ability to research problems and break them into discrete parts
+
+nice to haves
+
+ba/bs in computer science or related field
+operations or systems administration experience, particularly on unix
+worked with large go/java codebases
+experience with react js
+used test driven development (tdd) extensively
+worked in a pair programming environment
+contributed to an open source project
+experience with log analysis, streaming data,  streaming metrics
+experience with metric analysis and visualization
+on-call experience with production grade systems
+has mentored others in a professional setting 
+
+ 
+cloud foundry engineers participate in an on-call rotation with their team to support software they work on.
+ 
+pivotal is an equal employment opportunity employer that will consider all qualified applicants, regardless of race, color, religion, gender, sexual orientation, marital status, gender identity or expression, national origin, genetics, age, disability status, protected veteran status, or any other characteristic protected by applicable law. 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github
+    
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+other websites
+    
+
+
+
+
+
+what is it about pivotal that you find interesting or compelling?  *
+
+
+
+
+
+
+
+why do you feel you would be a good fit for pivotal? *
+
+
+
+
+
+
+
+have you previously applied for a position at pivotal? *
+
+
+
+
+
+
+
+are you legally authorized to work in the country in which you are applying? *
+
+
+
+--
+yes
+no
+
+
+how did you hear about pivotal? *
+
+
+
+please selectlinkedin job post
+stack overflow job post
+i was referred
+pivotal career site
+
+
+if you selected "other", please list source below:
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at pivotal software are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

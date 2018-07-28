@@ -1,0 +1,760 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mobile app developer jobs| employment in atlanta | health care apps 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ +1-678-462-4034
+
+info@appzoro.com
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+ 
+
+
+
+
+
+appzoro 
+
+
+
+
+
+
+
+
+
+home
+
+
+portfolio
+
+
+blog
+
+
+about
+
+
+team
+
+
+career
+
+
+contact
+
+
+press
+
+
+login
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+home
+
+
+portfolio
+
+
+blog
+
+
+about
+
+
+team
+
+
+career
+
+
+contact
+
+
+press
+
+
+login
+
+
+
+
+
+
+
+
+
+
+
+
+drop your message here
+we will be in touch shortly.
+
+
+your name
+
+
+
+your e-mail
+
+we'll never share your email with anyone else.
+
+
+your message
+
+
+submit
+
+
+
+
+
+
+
+opportunities for you
+
+appzoro is hiring, you can be the next
+
+
+
+
+
+
+
+
+
+career
+
+
+
+
+
+
+                                appzoro technologies is a leading mobile app and web development company, with in-house seo services. at appzoro, we believe in "work hard and play hard" motto! our work environment here is like that of facebook or google, wherein we encourage our employees to think of out of the box solutions like visionaries! we believe in skill development of our employees; so they may learn each and every day of their career here. become a part of our team and help us build our story!
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web developer
+
+
+
+
+php developer
+
+                                            we are looking for a php developer who is dedicated to his craft, writes code
+                                            that is proud of and can hit the ground running. we need you to write beautiful,
+                                            fast php to a high standard, in a timely and scalable way that improves the
+                                            code-base of our products in meaningful ways. you will be a part of a creative
+                                            team that is responsible for all aspects of the ongoing software development
+                                            from the initial specification, through to developing, testing and launching.
+                                        
+
+required work experience:
+1. good knowledge of php programming.
+2. mysql / soap database
+3. can able to create api's in json
+4. knowledge in fcm
+5. cms: magento/ wordpress
+6. good knowledge in payment gateway and api implementation.
+7. able to develop secure web portal.
+8. have good knowledge in e-commerce website.
+9. 2+ years of experience.
+apply now
+
+.net developer
+
+                                            we are looking for .net developers who can construct quality web applications
+                                            using the .net programming components. developers must be competent in using
+                                            microsoft’s technology to design, develop and implement these applications.
+                                            using their programming skills, developers are able to integrate their applications
+                                            with other technologies and deliver specifications as requested by clients.
+                                        
+
+                                            you will be a part of a creative team that is responsible for all aspects of
+                                            the ongoing software development from the initial specification, through
+                                            to developing, testing and launching.
+                                        
+responsibilities:
+1. write “clean”, well-designed code
+2. produce detailed specifications
+
+                                            3. troubleshoot, test and maintain the core product software and databases to
+                                            ensure strong optimization and functionality
+                                        
+4. contribute in all phases of the development lifecycle 
+5. follow industry best practices 
+
+                                            6. develop and deploy new features to facilitate related procedures and tools
+                                            if necessary
+                                        
+requirements:
+1. 2+ years of software development experience in asp.net. 
+2. knowledge of web technologies including html, css, javascript, ajax etc. 
+3. good technical knowledge on asp.net 3.5 or 4. 
+4. working experience on mvc. 
+5. hands on experience in sql server 2005 or 2008. 
+6. wcf or wpf experience added advantage. 
+
+                                            7. good knowledge of relational databases, version control tools and of developing
+                                            web services.
+                                        
+
+                                            8. passion for best design and coding practices and a desire to develop new bold
+                                            ideas.
+                                        
+
+apply now
+
+
+
+
+
+
+
+android developer
+
+
+
+
+
+                                            we are looking for someone who is passionate about building great mobile applications,
+                                            enjoys working with a team of talented developers, and who is eager to take
+                                            on big challenges.
+                                        
+qualification and requirement : 
+1. 2+ years experience in developing android applications. 
+2. design and build advanced applications for the android platform.
+3. collaborate with cross-functional teams to define, design and ship new features.
+4. work with outside data sources and apis.
+
+                                            5. continuously discover, evaluate and implement new technologies to maximize
+                                            development efficiency.
+                                        
+6. object-oriented programming concepts and design patterns.
+7. android java programming experience
+8. experience with android sdk.
+9. experience with working using remote data via rest and json.
+10. experience with third-party libraries and apis
+
+apply now
+
+
+
+
+
+
+
+ios developer
+
+
+
+
+
+                                            we are looking for an ios developer who possesses a passion for pushing mobile
+                                            technologies to the limits and will work with our team of talented engineers
+                                            to design and build the next generation of our mobile applications. the ideal
+                                            candidate will be comfortable in a high-paced environment and will bring
+                                            an energetic and creative approach to their work.
+                                        
+responsibilities : 
+1. design and build advanced applications for the ios platform.
+2. collaborate with cross-functional teams to define, design and ship new features.
+3. mentor & manage junior developers.
+
+                                            4. unit-test code for robustness, including edge cases, usability, and general
+                                            reliability.
+                                        
+5. work on bug fixing excellent debugging skills and improving application performance.
+
+                                            6. continuously discover, evaluate and implement new technologies to maximize
+                                            development efficiency.
+                                        
+requirements : 
+1. 1.5+ years experience in developing ios applications. 
+2. strong c++/objective c experience.
+3. a deep familiarity with objective-c and cocoa touch.
+
+                                            4. experience submitting an application to itunes with previously approved products
+                                            in itunes app store.
+                                        
+5. experience using version control repositories like git.
+6. comfortable with agile/scrum development process and code reviews.
+7. exposure to restful services, soap based web services, lightweight information.
+
+                                            8. experience working with ios frameworks such as core data, core animation,
+                                            core graphics and core text. experience with third-party libraries and apis.
+                                        
+9. solid understanding of the full mobile development life cycle.
+10. exposure to performance, security and user experience desirable.
+11. excellent verbal and written communication skills.
+12. self-motivated and able to work independently and with remote teams.
+13. good team member, commitment to quality.
+14. 2+ years of experience.
+
+apply now
+
+
+
+
+
+
+
+seo
+
+
+
+
+
+                                            vacancy for search engine optimization executive of at least 1-year experience
+                                            in a search engine marketing profile including search engine optimization
+                                            and social media marketing. managing all seo activities such as content strategy,
+                                            link building and keyword strategy to increase rankings on all major search
+                                            networks.
+                                        
+required skills:
+1. research and implement search engine optimization recommendations 
+2. develop and implement link building strategy
+
+                                            3. work with the development team to ensure seo best practices are properly implemented
+                                            on newly developed code
+                                        
+
+                                            4. work with editorial and marketing teams to drive seo in content creation and
+                                            content programming
+                                        
+
+                                            5. recommend changes to website architecture, content, linking and other factors
+                                            to improve seo positions for target keywords.
+                                        
+6. define requirements, tasks, and resources associated with seo strategy
+7. manage and execute implementation of seo strategy
+
+                                            8. communication to team and management on strategy/project development, timelines,
+                                            and results
+                                        
+9. implement and administer search engine programs (xml sitemaps, webmaster tools)
+10. monitor and evaluate web analytics dashboards and seo reports
+11. knowledge of google analytics would be an added advantage.
+12. 2+ years of experience.
+
+apply now
+
+
+
+
+
+
+
+graphic designer
+
+
+
+
+
+                                            we are looking for a web designer who can create a site or pages, including the
+                                            design and layout. this could be working on a brand new website or updating
+                                            an already existing site. the ideal candidate should possess an aesthetic
+                                            sense, imagination, creativity and attention to detail and be passionate
+                                            about designing.
+                                        
+responsibilities:
+1. creating website designs.
+2. producing sample sites
+3. designing sample page layouts including text size and colors
+4. designing graphics and animations
+
+                                            5. designing the website's visual imagery and ensuring it is in line with company
+                                            branding policy or the requirements of the client
+                                        
+6. interacting with clients to discuss requirements and/or project progress
+7. demonstrating and receiving feedback about draft sites
+8. interacting with clients to discuss requirements and/or project progress
+9. keeping up-to-date with recent technological and software developments
+10. producing products that are user-friendly, effective and appealing
+
+                                            11. working as part of a multi-disciplinary team with other web specialists including
+                                            web developers and graphic designers
+                                        
+12. 1.5+ years of experience.
+
+apply now
+
+
+
+
+
+
+
+business analyst
+
+
+
+
+business analyst
+the business analyst is a key role for the client focused on creating new and innovative services for our organization that will transform how we work together. you need to be a passionate, talented analyst who has outstanding project management, business acumen, intellectual curiosity, excellent analytical abilities, strong technical skills, superior written and verbal communication skills, and the ability to influence cross-functional teams to be successful in this role.
+requirements:
+1. bachelor’s degree in computer science, computer technology, business administration, engineering or related field required.
+2. 1-2 years experience working as business analyst in full sdlc lifecycle for software maintenance/development/implementation projects with in both agile and waterfall methodologies.
+3. project management experience, ability to manage multiple tasks concurrently with strong organizational, negotiation, documentation, and vendor management skills.
+4. proven ability to serve in a senior business analyst role for planning and requirements then transitioning to a project management role for implementation and on-going support.
+5. proven experience managing product and vendor selection process (rfi’s and rfp’s).
+6. strong communication skills (written and verbal) as well as analytical skills to critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details required for business requirements.
+7. ability to translate business needs into functional and non-functional requirements.
+8. an understanding of contemporary requirements elicitation, analysis, specification, verification, and management practices and their practical application within the organization.
+9. self-motivated and proactive with strong end users focus and ability to work in a collaborative environment required.
+
+apply now
+
+
+
+
+
+
+
+
+quality analyst
+
+
+
+
+quality analyst
+
+                                            you will develop automated test infrastructure to support leading-edge development and deployment such as continuous integration, continuous build and behavior-driven acceptance testing. as the quality team member responsible for integration tests, you will develop in close partnership with software engineers and quality engineers, automated test frameworks and suites that can readily adapt to a fast-changing business environment. you will help developers adopt techniques to improve product quality early, and help quality engineers use knowledge of technology to improve the practice of verification and validation.
+                                        
+responsibilities:
+1. analyst will operate as part of a cross functional agile team. the day to day activities will be identified and prioritized by the product owner for that team.
+2. the team will meet daily to decide the highest priority work items and complete working, tested and production quality software before moving on to additional work.
+3. analysts will be part of the team process of working with the product owner to estimate and break down the highest priority work item into smaller stories that can be completed within one iteration.
+4. team members are expected to leverage their primary skill area, but be open to learning and helping with other skill domains with the focus on getting the team's work complete.
+5. collaborate with team to decompose features into small pieces of working software that can be completed in a single iteration.
+6. analyze acceptance criteria to create test cases for unite test, integration test, acceptance tests.
+7. lead group in exploratory group testing.
+8. work with external load, performance, and regression testing teams to provide required input to execute respective tests.
+9. provide oral and written status to project lead and management.
+
+requirements:
+1. experience in manual and automation testing.
+2. 1-2 years of qa and testing experience within an enterprise-wide environment
+3. strong background in software design practice
+4. clear communication – must be comfortable and willing to openly discuss work items within a cross functional team
+5. cross functional skill development – qa expertise, but must be proactive in regards to learning the skills and methods used across the various roles of the team. ability to contribute to the work when their primary skill is not necessary to advance the highest priority work items
+6. knowledge of quality assurance and testing best and emerging practices
+apply now
+
+
+
+
+
+
+
+
+hr/ admin. executive
+
+
+
+
+hr/admin. executive
+
+responsibilities:
+1. recruitment
+2. hr policies and hr manual
+3. maintaining attendance and leave record
+4. performance management
+5. employee engagement
+6. workforce management
+7. exit formalities
+8. employee motivation
+
+requirements:
+1. experience of atleast 1 year.
+2. master's degree.
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appzoro technologies
+appzoro technologies
+
+
+
+name
+
+
+
+
+
+email
+
+
+
+
+
+
+mobile no.
+
+
+
+
+
+
+qualification
+
+
+
+
+
+resume
+
+
+
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+contact us
+
+
+ office
+                    
+
+
+                        atlanta tech village 3423 piedmont rd ne, suite 320 atlanta, ga 30305 +1-678-462-4034 info@appzoro.com
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+copyright 2017 © appzoro technologies inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+privacy policy
+terms & conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ close project
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            someone will be in touch shortly.
+                        
+
+
+done
+
+
+
+
+
+
+
+
+
+
+
+drop your message here
+we will be in touch shortly.
+
+
+your name
+
+
+
+your e-mail
+
+we'll never share your email with anyone else.
+
+
+your message
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

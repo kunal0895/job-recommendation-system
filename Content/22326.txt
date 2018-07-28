@@ -1,0 +1,330 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+careers - atomwise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+partners
+company
+news
+careers
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+ 
+help us invent the future of pharmaceutical research.
+
+	atomwise uses artificial intelligence to help discover new medicines. based in san francisco and funded by data collective, dfj, and khosla ventures, we created the first deep learning neural network for drug discovery and design – atomnet.
+	over the last 2 years, atomnet has been deployed to help invent new potential medicines for 27 disease targets. we work with leading research groups at top organizations including harvard university, stanford university, scripps research institute, and several large pharmaceutical companies, advancing the frontiers of human health.
+	atomwise’s notable successes have included promising compounds for the treatment of multiple sclerosis, ebola, and botulinum neurotoxin, as well as work in cancer, malaria, and metabolic diseases. today, atomwise searches 1 million potential drug molecules every 24 hours.
+	now, we are actively seeking new team members to help us do great science and make big discoveries. that’s where you come in.
+	we invite you to read more about atomwise on arxiv, bbc, vice, npr, the wall street journal, and techcrunch.
+ we are not currently offering visa sponsorships for these positions, please only apply if eligible to work in the u.s.
+
+ 
+
+
+
+partnering associate
+
+
+senior machine learning engineer
+
+
+
+partnering associate
+
+		we are looking for a partnering associate is to help foster, coordinate, and administer new collaborations with world-class universities and leading biotechnology companies.  your responsibilities will be to perform all the administrative tasks that underpin the creation and maintenance of great partnerships. your sophisticated stewardship of these relationships will help bring to life innovative research.
+		two partnering associate positions are available.  one will assist academic partnerships, and the other one will assist corporate partnerships. these are support positions with the potential for growth and advancement.
+you are:
+
+highly motivated and detail-oriented
+curious and excited about scientific research
+an engaging and professional communicator, in writing, on the phone, and in-person
+able to get quickly up-to-speed on unfamiliar subjects
+unintimidated by a high volume of emails and meetings
+
+you have:
+
+excellent time management and organizational skills with the ability to track numerous details
+a passion for consultative problem-solving to identify customer needs and opportunities
+a bachelor’s degree of any background, diverse and interdisciplinary backgrounds are particularly encouraged,
+experience in support, service, administration, business development, executive assistance, finance, grants administration, sales, or scientific-technical communications
+
+preferred:
+
+2 years of support or service experience
+educational background in biology, chemistry, business, marketing, legal, or paralegal
+
+you will:
+
+assist the partnering team
+communicate with scientists, business executives, and administrative staff
+schedule meetings and ensure their success
+prepare sales, marketing, and research documents
+read and summarize scientific and legal documents
+conduct research to provide supporting information about potential partners
+create and maintain a highly organized archive of contracts and documents
+skillfully conduct periodic partner check-ins to understand needs and communicate feedback
+critically and creatively reflect on how to improve business methods
+
+compensation & benefits:
+
+competitive salary, commensurate with experience
+stock compensation plan – you’ll be an atomwise co-owner
+platinum health, dental, and vision benefits
+flexible work schedule – take as much vacation you choose and work from home when you like
+
+when applying, please:
+
+share a one-paragraph statement helping us to envision how your skills, personality, and experience will help the atomwise team create and maintain great partnerships
+another one-paragraph statement telling us how atomwise can help you to achieve your career goals
+please speak to us candidly and conversationally – informality preferred
+
+
+		 
+
+
+apply to this job
+
+
+
+
+
+
+
+
+
+
+resume / cv (required)  -   
+full name (required): 
+email (required)  
+phone (required)
+ 
+select position: (required)
+partnering associatesenior machine learning engineer 
+are you legally authorized to work in the united states? (required)
+---yesno 
+current company
+ 
+linkedin url
+ 
+personal url
+ 
+github url
+ 
+twitter url
+ 
+additional information - add a brief cover letter or anything else you'd like to share.
+ 
+
+
+
+
+
+
+
+senior machine learning engineer
+
+		we are looking for a senior machine learning engineer to help develop our core ml algorithms and software tools to solve challenging questions in drug discovery research. you will develop, extend, and analyze new deep learning algorithms, as well as design and build data infrastructure and tools to manage, automate, and evaluate performance at scale.
+required qualifications:
+
+ph.d. or m.sc. in computer science, statistics, or related field, or equivalent practical experience
+5+ years of extensive practical experience and proven track record of developing, implementing, debugging, and extending machine learning algorithms
+strong software engineering skills and coding expertise in at least one high-level programming language (python, r, java, c/c++, etc.)
+experience developing data infrastructure and tools and familiarity with large-scale data processing technologies
+proficiency with the linux environment
+strong analytical and quantitative skills
+
+preferred qualifications:
+
+knowledge of modern neural network frameworks such as tensorflow, torch, or theano
+experience with cloud computing environments (aws/azure/gce)
+gpu programming using cuda
+some biomedical knowledge or experience in processing chemical or biological data is preferred but not required
+
+
+		 
+
+
+apply to this job
+
+
+
+
+
+
+
+
+
+
+resume / cv (required)  -   
+full name (required): 
+email (required)  
+phone (required)
+ 
+select position: (required)
+partnering associatesenior machine learning engineer 
+are you legally authorized to work in the united states? (required)
+---yesno 
+current company
+ 
+linkedin url
+ 
+personal url
+ 
+github url
+ 
+twitter url
+ 
+additional information - add a brief cover letter or anything else you'd like to share.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

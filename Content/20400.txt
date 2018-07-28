@@ -1,0 +1,40 @@
+front end - react developer at novo labs, inc.front end - react developerdallas, txfull-timejob openingsfront end - react developer%button_apply_to_position% apply using linkedinjob brief   
+we are looking for a javascript developer to design and develop our front end experience for our client facing application.  if you love a challenge, if you love to building beautiful interactions that empowers great user experiences and if you have a passion for developing amazing product features then this is the position for you.  if you have ever said, "i want to grew my development skills" to your manager.  if you have explored elixir but have not had the chance to use it in a commercial setting we have the perfect job for you.  come and join an energetic and fast-moving team that delivers incredible, innovative new products that touch and improve the interactions of millions of customers. we are passionate about providing our customers with a rich, interactive and engaging user experience. your days will be filled delivering next generation features in small, high performing teams. you’ll collaborate often with other developers to write the best code for the project and deliver amazing results that our clients and consumers love.
+education  
+bachelor's degree in computer science or stem (science, technology, engineering, math) majors or 4 additional years of related experience beyond the minimum required may be substituted in lieu of a degree.  masters preferred.
+required skills  
+
+2+ years of software development experience in:
+	
+javascript
+react
+graphql
+node.js
+
+
+ability to rapidly self-train on new technologies
+knowledge of web-based applications and architecture
+passion for solving complex problems
+keen interest in open source and learning new technologies
+enjoyment of sharing knowledge with teammates, and working collaboratively when you need help
+
+other required experience  
+
+2+ years of experience working with agile methodology
+experience in translating front-end mockups and wireframes into functioning applications
+2+ years’ experience in designing/coding for high availability and performance.
+2+ years of experience with rapid prototyping / simulations / iterative design
+understanding of http interaction with browsers (request types, request headers, synchronous/asynchronous requests).
+understanding of page rendering orchestration within a browser
+experience at using browser development tools within each major browser
+delivering software using a container based infrastructure
+familiar with docker, git, github, circleci, etc. around continuous integration and continuous delivery infrastructure
+experience testing in selenium frameworks
+
+location:
+
+dallas, tx (relocation not available)
+
+ 
+ 
+%button_apply_to_position%%footer_powered_by%breezy

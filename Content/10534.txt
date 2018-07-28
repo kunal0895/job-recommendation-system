@@ -1,0 +1,431 @@
+
+
+
+
+job application for data scientist at mojio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist
+
+        at mojio
+      
+(view all jobs)
+
+        palo alto
+      
+
+
+ mojio: connected car cloud platform
+want to be at the forefront of a highly scalable leading, connected car platform?
+the team at mojio work together to bring real time data from your vehicle directly to the palm of your hand….and our r&d teams are in the front seat.
+mojio is backed by deutsche telekom, amazon, relay ventures, 500 startups, bdc capital, and the bc tech fund. we are fast growth, fast-paced and technically-driven while remaining flexible and collaborative. after all, we’re disrupting one of the largest and most established industries in the world!
+we launched with tmobile in the us in nov’16 and tmobile in czech republic in dec’16 which has led to unprecedented growth and a need to to expand our team. we are looking for star server/platform developers to help get our platform ready for its next phase of expansion.
+who you are
+as a data scientist at mojio you will be a part of new product features from conception through deployment. you will have the opportunity to apply your knowledge of statistics and your analytical skills to mine data at scale and develop large-scale machine learning (ml) models to reveal customer value in data. you will support feature prototyping, and utilize industry best practices to write production-grade code. you will build data pipelines, implement ml-based analytical algorithms, and work closely with our software development team to set up back-end systems and interfaces that will deliver the next-generation analytics.
+specific job duties may include:
+
+writing or modifying big data pipelines to process and mine historical time-series data
+providing data insight from massive amounts of data using data cleaning, data visualization, and statistical analysis tools and techniques 
+prototyping and validating advanced ml and deep learning (dl) models and algorithms that transform big data into actionable information
+setting up and maintaining databases supporting analytics research and feature prototyping
+writing production code to deliver analytics feature content as an internet-of-things (iot) solution 
+
+required skills and experience:
+
+an advanced degree (m.s. or ph.d) in computer science (cs), electrical engineering (ee), operation research (or) and optimization, physics, applied mathematics, or a comparable analytical field from an accredited institution --or—bachelors degree plus 5 years of relevant industry experience.
+5+ years experience or demonstrated fluency with python and at least one other programming language (scala, java, c/c++/c# a plus)
+expert in data mining, machine learning, deep learning, statistical modeling and data visualization techniques using data-oriented tools and languages such python, r, and matlab
+2+ years experience writing sql-like as well as nosql queries and databases
+experience dealing with large amounts of unstructured data (experience with gis data is a bonus) 
+experience setting up and using large-scale distributed data-processing frameworks such as apache spark and hadoop map-reduce
+experience working with enterprise-grade cloud computing platforms such as microsoft azure and amazon aws
+demonstrated ability to develop high-quality code adhering to industry best practices (i.e., code review, unit tests, revision control)
+experience designing experiments and collecting data for the purpose of deriving data analytics insights and solutions
+understanding of error propagation and the limitations of data subject to measurement uncertainties
+work/project history reflective of a self-motivated professional who excels when given open-ended problems and broadly-defined goals, having an innate desire to discover the patterns and relationships in data that can be leveraged to provide business value
+
+all qualified applicants will receive consideration for employment without regard to race, sex, color, religion, national origin, protected veteran status, gender identity, social orientation, nor on the basis of disability.
+posted positions are not open to third party recruiters/agencies and unsolicited resume submissions will be considered free referrals.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+  indeed
+
+
+
+  glassdoor
+
+
+
+  linkedin
+
+
+
+  caljobs
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at mojio are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

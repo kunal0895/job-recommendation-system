@@ -1,0 +1,727 @@
+
+
+
+
+
+
+lead data scientist job at bp in denver | careers at bp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+students and graduates
+
+
+
+life at bp
+
+
+
+
+graduate opportunities
+
+
+
+business
+
+
+
+
+engineering
+
+
+
+
+science
+
+
+
+
+supply and trading
+
+
+
+
+
+
+your development
+
+
+
+
+student opportunities
+
+
+
+business
+
+
+
+
+engineering
+
+
+
+
+science
+
+
+
+
+supply and trading
+
+
+
+
+
+
+where you could work
+
+
+
+
+apply now
+
+
+
+hints & tips
+
+
+
+
+frequently asked questions
+
+
+
+
+
+
+
+
+professionals
+
+
+
+career areas
+
+
+
+
+locations
+
+
+
+
+application process
+
+
+
+
+apply now
+
+
+
+
+future leaders programme
+
+
+
+
+
+
+working at bp
+
+
+
+our businesses
+
+
+
+
+learning and development
+
+
+
+
+diversity and inclusion
+
+
+
+
+rewards and benefits
+
+
+
+
+expats and rotators
+
+
+
+
+
+
+application support
+
+
+
+candidate charter
+
+
+
+
+frequently asked questions
+
+
+
+
+search jobs
+
+
+
+
+
+
+hot topics
+
+
+m
+
+
+
+home
+application support
+search jobs
+
+
+
+
+
+jobs at bp
+
+search for jobs
+join over 70,000 people, working together in around 80 countries.
+
+search our jobs
+
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search our jobs
+
+
+
+
+
+
+
+
+
+
+
++students and graduates
+
+
+
+life at bp
+
+
+
+
++graduate opportunities
+
+
+
+business
+
+
+
+
+engineering
+
+
+
+
+science
+
+
+
+
+supply and trading
+
+
+
+
+
+
+your development
+
+
+
+
++student opportunities
+
+
+
+business
+
+
+
+
+engineering
+
+
+
+
+science
+
+
+
+
+supply and trading
+
+
+
+
+
+
+where you could work
+
+
+
+
++apply now
+
+
+
+hints & tips
+
+
+
+
+frequently asked questions
+
+
+
+
+
+
+
+
++professionals
+
+
+
+career areas
+
+
+
+
+locations
+
+
+
+
+application process
+
+
+
+
+
+
++working at bp
+
+
+
+our businesses
+
+
+
+
+learning and development
+
+
+
+
+diversity and inclusion
+
+
+
+
+rewards and benefits
+
+
+
+
+expats and rotators
+
+
+
+
+
+
+-application support
+
+
+
+candidate charter
+
+
+
+
+frequently asked questions
+
+
+
+
+search jobs
+
+
+
+
+
+
++hot topics
+
+
+
+rising stars
+
+
+
+
+female engineer returners
+
+
+
+
+making interviews count
+
+
+
+
+helping to break the 'glass ceiling'
+
+
+
+
+future leaders programme insights
+
+
+
+
+xiaoping yang career story
+
+
+
+
+tera brouwer career story
+
+
+
+
+getting involved in social enterprise
+
+
+
+
+m
+
+
+
+
+
+candidate charter
+
+
+
+
+frequently asked questions
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+lead data scientist
+req id 86094br job category operations countries (state/region) colorado location united states - colorado - denver
+bp.com #tag #lower48req
+apply now
+
+role synopsis
+data and analytics organization at bp lower 48the data and analytics organization are teams of highly experienced data scientists, data engineers, data management and quality experts, reporting and visualization professionals, and strategy and integration analysts. with core capabilities in data, analytics, solution implementation and strategy execution, we create data, analytical solutions, and actionable insights to drive towards the overall objective of intelligent operations and the path to premier at bp lower 48.description of the position:overviewdata scientist at bp l48 is a rare breed of computer programmer, mathematician, and business innovator. she/he manages a high level of complexity and leads rapid but managed change to transform the existing operations model and processes in the oil and gas industry. technical excellence is the foundation but yet just a start. being able to define the right business problem, develop proof of concepts, create and implement the solution, and integrate the new solution into existing business processes would be as important as building the best data and analytical models. with structured and unstructured data transmitted real-time, and all the latest data and analytical tools at your disposal, the opportunity is to shape and influence business decisions of multi-billion dollar impact. 
+key accountabilities
+· lead the creation of innovative data and analytical solutions to solve high impact business problems across all bus and centralized functions at bp lower 48, with actual and measurable improvement to safety, production, and cost performance.· mange and coach junior level data scientists directly or on project bases to deliver data and analytical solutions· drive the creation of new data and analytical capabilities that will transform the existing oil and gas operating model and processes leveraging a wide range of data sources from internal and external sources.· independently source data projects and apply advanced analytical techniques to identify problems/opportunities that are previously unknown to the organization· conceptualize, analyze and develop actionable recommendations for strategic challenges facing the organization.· work with key stakeholders and understand their needs to develop new or improve existing solutions.· develop analytical approaches to meet business requirements; this involves translating requests into use cases, prototypes/poc, development of actual models and solutioning, preparation of datasets and iterative algorithm development.· analyze unstructured data to extract new features and deliver insights into new and emerging solutions.· work with cross-functional teams to develop ideas and execute business plans.· stay current on new developments in statistics, machine learning, big data, related technology and innovative business processes.
+essential education
+· master’s degree in a quantitative field (statistics, mathematics, economics, etc.). phd preferred. 
+essential experience and job requirements
+· 10+ years experience in modeling and predictive analytics with experience working with structured and unstructured data· prior experience managing a team of data scientists, modelers, or statisticians· prior experience managing complex data and analytical projects from start to finish· excellent problem solving skills with the ability to design algorithms, which may include data cleaning, data mining, data clustering and pattern recognition methodologies· strong skills in statistical analyses with abilities in advanced data management and statistical programming using sas, r, stata, mathematica, scala, python, sql, hive, impala, or other programming and statistical or mathematical packages.· ability to work cross-functionally in a highly matrix driven organization, at times under ambiguous circumstances· experience with a range of big data architectures is a plus· track record in defining strategies in the area of advanced data analysis and fostering knowledge exchange in large organizations· proven research background, in industry work or academia· ability to rapidly prototype solutions by combing background in data manipulation with mathematical modeling to derive insights 
+other requirements (e.g. travel, location)
+n/a
+desirable criteria & qualifications
+foster an environment of safety first operations demonstrate ability to achieve high performance goals and meet deadlines in fast paced environmentpossess the grit necessary to tackle any challenge and a growth mindset to be on constant lookout for new solutionsdemonstrated use of impact principles: i -    innovated: learns from new ideas and applies solutions to add value.m - motivated: overcomes obstacles with an intense desire to succeed.p -   performance driven: makes value-based decisions involving measured risk to deliver business objectives.a -   accountable: takes responsibility and ownership of business performance. c -   collaborative: shares knowledge and works together for the good of l48.t -           trustworthy: keeps commitments, listens to others and authentically supports change necessary to achieve our path to premier. 
+relocation available
+negotiable
+travel required
+yes - up to 10%
+is this a part time position?
+no
+about bp
+bp's us lower 48 (l48) onshore business operates across a vast us geography, from texas north through the rocky mountains. the business manages a diverse portfolio which includes an extensive unconventional resource base of about 7.5 billion barrels of oil equivalent across 5.5 million gross acres in some of the largest and most well-known basins in the us. headquartered in houston (texas), l48 employs about 1,700 people across six states, operates more than 9,600 producing wells and has 70,000 royalty owners. our vision is to be the most respected and admired oil and gas company in the lower 48 us states.our wyoming operations are anchored on the giant wamsutter tight gas field in the south central part of the state. in the san juan area of colorado and new mexico we produce from tight gas sands and operate the largest coal-bed methane field in the us. our mid-continent operations cover the prolific anadarko, and is home to the famed east texas basin, along with the woodford shale gas play and arkoma basin. we also have non-operating interests in over 10,000 wells across the us with substantial positions in both the eagle ford and fayetteville shale basins.in 2015, the l48 onshore is being established as a separate business within bp’s upstream to manage its onshore oil and gas assets across the us onshore. this effort is being undertaken to improve competitiveness and help l48 remain at the forefront of innovation and development of technologies for unconventional resources.*li-nowrap
+segment
+upstream
+closing date
+[
+  "27-jan-2018"
+]
+
+apply now
+
+
+share with a friend
+use your facebook or linkedin account to login and share this page. alternately you can share it via email.
+
+facebook
+linkedin
+email
+
+
+
+register for job alerts
+upload your cv, receive job alerts and be seen by our recruiters. returning candidates can also login here.
+register or login
+
+
+similar jobs
+
+
+
+sr. data scientist/data integration
+denver, colorado
+13/12/2017
+
+
+security architect
+denver, colorado
+15/06/2017
+
+
+cloud infrastructure lead
+denver, colorado
+01/12/2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    sitemap
+
+
+
+
+
+                    legal notice
+
+
+
+
+
+                    privacy statement
+
+
+
+
+
+                    bp global
+
+
+
+
+© 1996-2017 bp p.l.c
+
+
+
+
+
+
+
+
+

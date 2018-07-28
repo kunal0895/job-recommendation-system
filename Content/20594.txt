@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+full stack developer - 6534
+
+
+
+
+work location
+
+
+us - az, phoenix
+
+
+
+
+req id
+
+
+6534
+
+
+
+
+job category
+
+
+r&d/software engineering
+
+
+
+
+apply now
+company: mentor graphics
+job title: full stack developer - 6534
+job location: us - az - phoenix
+job category: r&d/software engineering
+ 
+job duties:
+we are looking for a full-stack developer who is well-rounded in web development and back-end server technologies.
+we are a full-stack shop with emphasis on open source technologies and we are creating big data web applications in a micro-service architecture. in our environment, developers contribute to each stage of the development, design, troubleshooting, administration and qa processes. while some on the team have different levels of experience in each area of the stack, we strive for versatility and in having multiple people with overlapping skillsets. this allows us to avoid bottlenecks and meet the goal of continuous development and integration.
+because we are a team with these development goals, we are looking for someone who explores new technologies, and is constantly trying to learn new techniques and improve their current skill-set. our team is committed to mentoring each other through different areas of the stack (based on each person’s individual area of expertise) and so we are looking for a full-stack developer who can contribute both on the front-end as well as back-end services.
+ 
+job qualifications:
+requirements
+● executing design work consistent with big data analytics and rapidly adapts to customer feedback.
+● delivers design work on programs of any size with minimal training or oversight.
+● effectively negotiates trade-offs between product management and engineering.
+● leads design work on the web applications development, either doing the design work directly or providing oversight/direction to other developers on the project.
+● contribute directly to the software development process, especiallyon api development, micro-services, as well as ui front-end development.
+ 
+ technical skills required
+● bs computer science and 5+ years’ experience as a web developer or industry equivalent.
+● highly proficient with modern javascript framework (angular / react / vue)
+●experience with at least one of the following (c++, go, python)
+● experience with full lifecycle software development and best practices
+● experience with git
+● experience with creating restful web services
+● experience with sass or less
+ 
+desired skills
+● experience with linux
+● experience with docker and kubernetes / rancher
+● experience working in a micro-service oriented architecture
+● experience with pub/sub message bus based communication
+● experience with the vue javascript framework
+● experience with d3, taucharts, tableau or highcharts libraries
+● experience with database querying and administration (mysql, oracle, couchbase)
+● experience in server-side scripting using javascript (nodejs) or python or go
+● experience with reactive web application technologies (socket.io, webworkers, etc.)
+ 
+smile, you've found us!
+ 
+all qualified applicants will receive consideration for employment without regard to race, sex, sexual orientation, gender expression or identity, color, religion, national origin, disability or protected veteran status.
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

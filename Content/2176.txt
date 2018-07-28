@@ -1,0 +1,232 @@
+
+
+
+
+job application for software engineer, data engineering at ignitionone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer, data engineering
+
+        at ignitionone
+      
+(view all jobs)
+
+        atlanta
+      
+
+
+about ignitionone:
+ignitionone simplifies life for marketers, providing deeper insights and robust targeting of individuals through the use of proprietary engagement scoring and integrated marketing and advertising solutions. the ignitionone dms is full-featured digital marketing hub which significantly improves performance across all devices and channels. ignitionone allows marketers to better understand their customers and activate personalized 1:1 messaging across search, display, social, mobile, email, and website personalization. with a global footprint of over 450 employees in 17 offices across 10 countries, ignitionone is one of the largest independent marketing technology companies in the world.
+ignitionone currently scores over 300 million consumers monthly in 75 countries and powers more than $60 billion in revenue each year for leading brands, including general motors, centurylink, bridgestone, la quinta and fiat, as well as advertising agencies such as 360i, groupm and iprospect.
+ 
+the role:
+does the challenge of dealing with massive datasets (billions of transactions a day) in near real-time using the latest technologies (spark, scala, aws) get you excited? if so, then we want to talk to you. ignitionone data engineers are using cutting edge technologies to build new data products that aim to change the digital marketing landscape. you’ll be the tech leader of a data engineering team that primarily focuses on productionalizing data pipelines that drive our most critical applications. the tech lead position is the glue that makes sure projects get done.
+ 
+core responsibilities:
+
+we are a collaborative and data science/analytics team with diverse backgrounds and experiences; take a listen first approach but share knowledge and clearly articulate insights and best practices.
+be the liaison between the scrum product owner and data engineers translating product requests into scrum stories.
+build rock solid data pipelines that run 24 hours a day 7 days a week that are easily monitored and maintained by our dev ops teams.
+advise implementation teams and data scientists on best practices in data processing.
+clearly articulate your ideas and solutions to both technical and non-technical audiences.
+learn continuously, leveraging ignitionone training resources or through self-directed sites.
+
+ 
+qualifications:
+
+development experience with big data/nosql platforms, such as apache cassandra, dynamodb, hortonworks, redshift or amazon emr.
+development experience with traditional relational databases, such as sql server, mysql, or postgres
+excellent written and verbal communication skills.
+apache spark development experience using scala or python.
+experience with various messaging systems, such as kafka or kinesis.
+experience building dimensional models.
+implementing etl processes.
+
+ 
+desired qualifications:
+
+experience in digital media/programmatic advertising a plus.
+previous experience in leading a team of technical staff
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

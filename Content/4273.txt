@@ -1,0 +1,827 @@
+
+
+
+
+
+
+
+
+
+university graduate hire - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+                    by continuing to use and navigate this website, you are agreeing to the use of cookies.
+                
+                
+accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+featured jobs
+customer support
+engineering careers
+finance job
+general & administration careers
+hr jobs
+    information technology job
+    legal job
+    marketing job
+netapp university/training job
+    sales job
+university recruiting jobs
+apac job
+emea job
+
+
+locations
+join talent community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+featured jobs
+customer support
+engineering careers
+finance job
+general & administration careers
+hr jobs
+    information technology job
+    legal job
+    marketing job
+netapp university/training job
+    sales job
+university recruiting jobs
+apac job
+emea job
+
+
+locations
+join talent community
+
+
+
+
+
+
+
+
+language 
+
+deutsch (deutschland)
+english (united kingdom)
+english (united states)
+français (france)
+日本語 (日本)
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+more options
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+loading...
+
+
+
+
+
+
+
+                                            title
+                                        
+
+
+all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+                        join with linkedin
+                    
+
+
+
+
+
+
+
+                            join now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+
+
+title: 
+                        
+university graduate hire - data scientist
+                        
+
+
+
+
+
+
+
+
+
+location: 
+                        
+usa - north carolina - research triangle park
+                        
+
+
+
+
+
+
+
+
+requisition id: 
+                        
+1529
+                        
+
+
+
+
+
+
+
+
+job summaryorganizations count on netapp for cutting-edge ways to store, manage, move and protect their data. and we never let them down. continually breaking new ground is norm here. we make sure of it with an open, collaborative culture that fuels fresh thinking. right from day one, we’ll encourage you to share your views, challenge opinions and push boundaries. and thanks to mentoring and leadership programs that help you build on your personal and professional passions, you’ll develop your skills as fast as your ideas.
+
+the world’s data is exploding, in fact, more data has been created in the last 2 years than the previous world’s history. netapp’s customers are looking for innovative solutions to help them manage, protect and organize their dynamic data, and netapp is building and delivering the most sophisticated and innovative solutions for this new data driven world. come join the team that is solving these complex and challenging problems. we need your hard work and innovative ideas in the research triangle park site of netapp, where our team is integral to the success of the netapp product operations team. a team responsible for the entire life cycle of multiple hybrid cloud storage solutions. be part of a team that identifies industry trends, develops product architectures, build prototypes, designs and develops software, tests and develops test automation, as well as, creates solution specific collateral that is the handbook for customers to deploy and manage their complex data center and cloud deployments.
+
+in detail, you will:
+•work with internal stakeholders to deliver high value, actionable business insights
+•work with large amounts of structured and unstructured data
+•formulate and test hypotheses to evaluate business strategies and quantify impact
+•apply complex analytical techniques
+•design and implement ml applications
+•author reports and presentations to communicate your process and results
+•assist teammates in their understanding of data science models/methodologies
+
+experience and skills:
+•strong written and verbal communication skills
+•working knowledge of one or more database/sql languages: oracle, ms sql server, mysql, postgresql, redshift, etc.
+•working knowledge of one or more statistical analysis packages: r, spss, sas, numpy/scipy, etc.
+•experience with one or more business intelligence and visualization tools (e.g. ggplot, tableau, jmp, power bi, etc.)
+•development experience in at least one programming language: python, java, c++, etc.
+•knowledge of machine learning concepts: e.g., cross-validation, regularization, boosting, bootstrapping, etc.
+•experience with large data sets and distributed computing (hive/hadoop) is a plus
+•high level understanding of systems modeling and product lifecycle is a plus
+•leadership – this role requires holistic thinking and commitment to winning together
+•optimism – able to identify opportunities to succeed in the face of challenges
+
+we invest heavily in new talent. your energy and fresh ideas are vital to cementing our position as a market-leader. we’ll push you beyond your comfort zone with a belief that no idea is off limits. at the same time, you’ll have all the resources, mentoring and feedback you need to grow. what’s more, whatever your role, you can be yourself in a team that celebrates individuality and welcomes different perspectives.
+job requirementsrequirements:
+- strong oral and written communication skills.
+- ability to work collaboratively within a team environment to meet aggressive goals and pre-defined pre-defined measurement criteria.
+- familiarity with the basic concepts of hardware and software development.
+- strong aptitude for learning new technologies and utilizing project management applications.
+- creative approach to problem solving.
+- program management training or demonstrated experience.
+
+responsibility and interaction:
+responsibility:
+- the types of tasks this individual is responsible are a mix of structured and unstructured tasks. this individual will apply attained experiences and knowledge in solving routine to moderately complex problems.
+
+interaction:
+- this individual interacts primarily with staff to director level employees within the function, and the technical team on assigned projects. there may be communication with employees in other functions as required.
+- general direction is provided on routine work, and detailed direction is provided on new projects and assignments; as well as on-going review of activities and priorities.
+the ideal candidate will be an important contributor or lead on team projects.
+educationmust have graduated within the past 18 months or will graduate in may/june 2018 with a bachelor's, master's or ph.d. degree in data science, computer science, mathematics, physics or similar discipline.
+equal opportunity employer minorities/women/vets/disabled.
+
+
+
+
+
+
+
+
+
+job segment: 
+database, scientific, program manager, developer, oracle, technology, engineering, management
+                    
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+netapp university and training job,
+    information technology job,
+human resources,
+featured jobs japan,
+featured jobs
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+netapp.com
+view all jobs
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,264 @@
+
+
+energy transfer | careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+homecareers
+
+
+
+
+ 
+
+search current openingsupdate your profilecreate a job agentupdate job agent
+  
+
+
+
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					lead specialist-bi developer
+				
+
+
+						tracking code
+					
+
+						7818-323 
+					
+
+						job description
+					
+
+ 
+primary responsibilities
+ 
+
+deliver end to end bi solutions using microsoft bi stack, kimball methodology, and other visual analytical tools.
+lead initiatives for developing bi solutions/designs based on best practices, and by leveraging all available toolsets.
+work with the business users to capture the business/functional requirements
+work closely with the sap bw architect to design data warehouse solutions that meet the business needs.
+leverage functional/business requirements to design solutions including, but not limited to, data warehouses, etl processes using ssis and stored procedures, ssrs reports, ssas cubes (tabular, mdx, and pivot), ftp processes, power bi, and/or tableau visualizations.
+ensure etl processes run successfully and remain stable.
+take ownership and refactor legacy bi solutions, standardizing them according to the department’s policies.
+evangelize analytical self-service/ad hoc reporting capabilities using existing or future toolsets.
+prepare appropriate documentation and ensure that new functionality is properly transitioned to reporting users.
+participate and contribute to development and management work plans.
+participates in the planning for retirement of systems programs, and migration of systems infrastructure.
+work with business partners and internal staff on resolving platform production defects and performance issues.
+propose optimal ways to address business demands for bi with a goal of delivering maximum overall value for bi investments.
+participate and develop bi landscape strategy including optimal setup to support multiple/parallel project deliverables.
+coordinating technical aspects of operations such as solving production problems, making enhancements to the existing functionality, and fixing logical bugs in the applications
+maintain strong and effective working relationships with other applications owners, it infrastructure team and os/network team.
+develop, document, and adhere to standard procedures and best practices
+ensure requirements are being met in accordance with corporate compliance
+ensure proper communication to all levels of the organization
+
+ 
+essential requirements: experience, educational & special training required
+ 
+
+at least 7+ years of experience with designing, developing and deploying business intelligence solutions with the microsoft bi stack (ssis/ssrs/ssas).
+bachelor's degree in mis or computer science.
+a very deep and established knowledge of ssis and ssrs specifically.
+expert level ms sql script writing ability and ability to read an execution plan to diagnose and recommend solutions to poorly performing queries.
+experience coordinating development in team of 4 or more in tfs.
+experience with successfully implementing kimball data warehousing methodology.
+3+ years of data modeling experience and working knowledge of alternative data warehousing methodologies.
+lead prototype efforts in various bi tools for capability assessment and demonstrations.
+experience leading complex design and development solutions.
+fluent in relational database concepts and flat file processing concepts
+problem solver; can quickly assess a situation then develop and implement effective solutions
+proficient in developing and executing test scenarios including regression testing.
+strong tracking, coordination and project planning skills
+ability to identify and implement programing logic and/or application improvements
+must be able to work on multiple simultaneous tasks with limited supervision
+quick learner, motivated self-starter, team player
+excellent customer service, interpersonal, verbal and written communication, and team collaboration skills
+able to follow change management procedures and internal guidelines
+strong time management skills, initiative, commitment, and ability to work under pressure to meet tight deadlines while maintaining high quality standards and best practices.
+excellent analytical and problem solving skills, strong organizational skills, attention to detail
+
+ 
+preferred skills
+ 
+
+3+ years of experience developing and/or administering a front-end analytic visualization tool such as tableau, power pivot, or power bi.
+experience with big data solutions such as spark, hadoop, or cloudera
+data science experience using python machine learning, r statistical modeling, or other data mining techniques.
+experience with cloud based bi solutions.
+previous experience in energy industry is a plus
+experience working with sap business objects, or sap bw is a plus.
+itil certification or experience using remedy application is a plus.
+
+ 
+special characteristics/job requirements
+ 
+
+participate in a weekly on-call rotation several times a year.
+
+ 
+equal opportunity employer/ disability/vet
+#li-ck1
+
+
+						job location
+					
+
+						dallas, texas, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								connect
+							
+
+
+							who do you know at
+							
+energy transfer
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to search results
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+energy transfer is an equal opportunity employer and does not discriminate against qualified applicants on the basis of actual or perceived race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, pregnancy, veteran status, genetic information, citizenship status, or any other basis prohibited by law. to view a notice describing federal equal opportunity and pay transparency laws, please click here. if, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, please contactthe eeo coordinator at 713-989-2247. this number is for reasonable accommodation requests only. for technical assistance with your online application, please send an email to mailbox, recruiting
+
+ 
+energy transfer participates in the e-verify program.
+
+ 
+copyright 2017 energy transfer. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1961196
+												
+
+
+job title
+												
+
+embedded sensors software developer
+
+
+
+
+post date
+													
+
+12/11/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	cdma technology
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - software                          
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+qualcomm cdma technologies (qct) is the largest provider of 3g chipset and software technology in the world, with chipsets shipped to more than 50 customers and powering the majority of all 3g devices commercially available. qct partners with nearly 60 3g network operators around the globe and has the largest cdma engineering team in the wireless industry. qct provides complete chipset solutions and integrated applications from the launchpad suite of advanced technologies. our integrated solutions offer device manufacturers reduced bill-of-materials costs, time-to-market, and development time while benefiting from reduced power demands. qct values collaboration with its customers and partners and works closely with them to enable their success. we offer a wide range of tools to support the device development process, and develop new technologies based on the needs and demands of the wireless market. devices for all market segments can now include features enabled by latest wireless technology, in demand by a growing and increasingly sophisticated wireless community. with the advance of micro-electro-mechanical systems (mems) technology, it is now economically feasible to integrate mems-based sensors (e.g. accelerometer, gyroscope) into mobile devices on a mass scale. the real potential of sensors-based technology is in key applications such as navigation, gaming, smart user interface, multimedia, virtual reality and augmented reality. qualcomm, in continuing our long tradition of technology leadership and innovation, is looking for ambitious, bright, and innovative embedded software engineers who are interested in bringing the exciting sensors technology to the mobile device market. you will be responsible for the design, development, integration, and test of real time embedded sensors software within a very dynamic group setting. you will also work with a cross-functional team of dedicated engineers in the exciting effort of commercializing sensors in various kinds of commercial devices.
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+6 months to 6 years of academic or industry experience in the following:embedded software development in c/c++embedded real time operating systems including debugging skills
+
+
+
+preferred qualifications
+													
+
+
+
+linux/android operating system
+good understanding of software design and development process
+excellent written and verbal skills
+strong analytical skills and ability to work in a dynamic and fast paced team environment
+sensors technology
+developing demo applications (java etc), test scripts (python etc)
+digital signal processing 
+arm architecture
+experience with lauterbach jtag emulation and trace software.
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: bachelor's, computer engineering and/or computer science and/or electrical engineeringpreferred: master's, computer engineering and/or computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

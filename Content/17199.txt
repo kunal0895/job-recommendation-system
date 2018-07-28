@@ -1,0 +1,38 @@
+full-stack engineer at grab mobilefull-stack engineerhouston, txfull-timejob openingsfull-stack engineer%button_apply_to_position% apply using linkedinwe are seeking a developer to join the grab development team. the ideal candidate will be a self-directed, mid to senior level software development professional that has a clear track record of productive contributions to the delivery of successful mobile app and web development projects. the candidate should be able to communicate and collaborate in a team setting with other developers, managers, and end-users.
+requirements
+responsibilities include
+
+develop, design, test and implement new mobile, web, and desktop applications utilizing the agile development methodology
+adhering to good development guidelines to write good, clean, and reusable code
+work independently and display good attention to detail
+collaborate with the development team and management to scope out new projects and problem solve
+
+technical requirements
+
+minimum 2 years experience developing native mobile applications
+minimum 2 years experience developing c# applications
+strong programming experience with objective c, java (j2ee/ j2me)
+strong programming experience using object oriented c#, asp.net, sql server, and wcf
+familiar with web technologies, such as html5, javascript, jquery, ajax, mvc
+familiar with ios sdk (uikit, cocoa touch, core data, core location, etc)
+familiar with the android sdk
+strong with xcode
+familiar with android studio
+familiar with ms visual studio
+experience with software versioning tools (svn, tfs, etc.)
+
+preferred
+
+experience on web service integration (soap, rest, json, xml)
+experience developing applications for the hospitality and service industries
+experience developing mobile websites and/or self-service kiosk applications
+
+job requirements
+
+ability to work closely with all team members in a collaborative environment
+ability to think outside the box and multi-task
+strong work ethic, quick learner and highly motivated
+excellent communication skills and have a passion for coding and technology
+must be eligible to work in the u.s.
+
+%button_apply_to_position%%footer_powered_by%breezy

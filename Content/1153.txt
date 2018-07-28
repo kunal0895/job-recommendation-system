@@ -1,0 +1,257 @@
+
+
+
+
+job application for data engineer at segment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at segment
+      
+
+        san francisco
+      
+
+
+overview 
+at segment, we believe companies should be able to send their data wherever they want, whenever they want, with no fuss. we make this easy with a single platform that collects, stores and sends data to hundreds of business tools with the flick of a switch. our goal is to make using data easy, and we’re looking for people to join us on the journey.
+ 
+this is a unique opportunity to be the founding member of segment’s internal data engineering team. data engineering will enable segment to derive insights about our customers and product usage effectively and efficiently, and it is the backbone of all data-driven decisions we make to move the business forward.
+ 
+as our first data engineer and a key internal customer of the segment product, you’ll have the unique opportunity to provide feedback to product and engineering teams that will help shape the future of segment’s product. 
+you will:
+
+design, build and launch extremely efficient and reliable data pipelines to move data out of business ecosystem tools and segment’s core product to our aws data stack
+
+
+help drive go to market and engineering and product teams’ decision making by using your scripting and coding skills to consume web services (e.g., segment, salesforce, netsuite, gainsight, stripe, zendesk) to enrich and augment data
+
+
+own and optimize segment’s aws infrastructure to run the data warehouse and the data pipelines you build effectively and efficiently
+
+
+work with product, engineering and business teams to internalize new features and associated data for business use, and provide feedback to engineering and product teams
+
+you’re a great fit if you have…
+
+3+ years of sql (redshift, hive, etc.)
+
+
+3+ years of building custom data pipelines in any modern language
+
+
+2+ years of experience in custom or structured (i.e. fivetran/alooma/boomi/segment) etl design, implementation, and maintenance
+
+
+ability to write abstracted, reusable code components
+
+
+strong communication skills
+
+
+bs or ms degree in computer science or a related technical field
+
+
+ideally, experience working with aws technology stack, including redshift/athena/spectrum/glue
+
+ 
+this role requires being **full-time** in our san francisco office
+ 
+
+ 
+as a proud equal opportunity employer, we're committed to hiring top talent regardless of race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. we don't just accept difference - we celebrate you being who you are for the benefit of our employees, our products, and our community.
+ 
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+are you authorized to work in the united states?
+    
+
+
+--
+yes
+no
+
+
+how familiar are you with the tools on the segment platform?
+    
+
+
+
+
+
+a link to your linkedin profile: 
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

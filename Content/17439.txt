@@ -1,0 +1,776 @@
+
+
+
+
+
+
+
+		front-end engineer ii
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+front-end engineer ii
+platform development team – seattle, washington
+
+
+apply for this job
+
+
+
+
+department
+platform development team
+
+
+employment type
+full time
+
+
+minimum experience
+mid-level
+
+
+
+
+
+
+
+
+
+
+
+front-end engineer ii
+about subsplash
+at the forefront of innovation and technology in seattle, subsplash is a unique and exciting place to work. our team of highly skilled and passionate individuals are committed to upholding our core values of humility, innovation, and excellence. these values allow us to serve our clients and build products in such a way that we’ve maintained the leading spot in a fast-growing industry over the last 8 years. subsplash is a privately owned, family-friendly company, where culture is valued and prioritized. we’ve experienced significant growth over the last several years, and our team of 65 people now serves over 4500 clients and over 33 million end users across the globe. 
+ platform development team
+the platform development team is responsible for the subsplash app platform, the product at the core of our business. we are a super-star team of designers, developers, pm’s and qa professionals creating polished experiences for our clients and end-users. the platform development team is responsible for the entire user experience including: mobile apps (end-user facing), the subsplash dashboard cms (client-facing), web app, tv app, backend data feeds, analytics, and more. we serve thousands of clients, millions of end-users, and billions of individual app impressions. and with unlimited smoothie supplies, we know how to craft a mean smoothie.
+ about the role
+as a front-end engineer ii, you will report to the lead front-end engineer. in this role, you will be involved in building out new products and features, as well as maintaining existing code bases by completing bug fixes and feature requests. you will be working closely with both designers and developers and helping to bridge the gap between the two. you will contribute to the creative process by building elegant solutions to complex problems. you will work well with other members of the team, in a fast-paced environment, to implement working software early and often. if youʼre interested in creating high-quality software that delights millions of people around the world—and if you can challenge and inspire others to do the same—we invite you to apply!
+top 3 key outcomes in year 1
+
+develop a deep understanding of our front-end architecture and products.
+make contributions and help direct the build-out of our internal ui component library.
+own all of the front-end aspects of a project and see it through to production.
+
+your priorities
+
+implement new features and fix bugs by writing scalable and maintainable code
+follow the pre-established and assist in defining html, css and javascript development patterns and standards for the team
+maintain and build-upon our internal component library
+maintain great communication between our web developers and designers to help bridge the gap between backend implementation and visual excellence
+collaborate regularly with a small team of designers, developers, and project managers to grow the capabilities of the subsplash platform
+
+qualifications
+
+2–4+ years of full time web design/programming experience in a group/team environment
+exceptional knowledge of html, css, and javascript
+comfortable working within client-side javascript frameworks such as react, ember, angular, etc.
+familiar with good front-end engineering principles such as: bem, graceful degradation, dry, solid, etc.
+experience in building responsive user interfaces.
+familiar with server-side web technologies such as unix/linux, php, mysql, mongodb, mvc frameworks (rails, li3, etc.), apache.
+familiar with common tools and libraries such as sass/less, babel, jquery, etc.
+embraces the agile process (knowledge of continuous integration, continuous delivery, lean, and solid is a plus)
+b.s. in computer science or b.a. in design is a plus
+must be eligible to work in the us
+experience with developing codebases using git or svn.
+experience with design programs such as sketch, adobe photoshop, adobe illustrator, etc.
+restful api design, and web best practices
+
+you are…
+
+passionate: you desire to build apps and experiences that serve the church and make the gospel of jesus christ incredibly accessible
+a learner: you are not afraid to ask for help and you love to ask good questions
+a hard worker: people describe you as dependable, flexible, humble, teachable, proactive, and smart
+trustworthy: you understand the importance of confidentiality with sensitive information
+adaptable: you are organized and enjoy a rapidly changing environment requiring some adjustment of roles and duties
+collaborative: you possess the ability to work well and communicate effectively with a team of designers and developers
+a builder: you have a deep appreciation for beautiful design and a passion for building pristine user experiences.
+
+benefits
+generous paid time off, medical coverage, dental coverage, vision coverage, 401k, free smoothies and snacks, optional work-from-home thursday’s, and a public transportation subsidy. 
+this position is classified as full-time/exempt and therefore not eligible for overtime pay. core office hours are 8:30am to 5:30pm mon-fri.
+ note: employment with subsplash is contingent upon satisfactory proof of employee’s right to work in the u.s., as required by law and upon completion of a basic background check and;
+employment with subsplash is considered “at will,” meaning that either the company or the employee may terminate the employment relationship at any time without cause or notice.
+
+job posting created: 11/27/17
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+seattle, washington
+
+
+department
+platform development team
+
+
+employment type
+full time
+
+
+minimum experience
+mid-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

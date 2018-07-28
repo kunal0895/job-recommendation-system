@@ -1,0 +1,154 @@
+
+
+	view and apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    processing...
+                
+
+job requirement details
+
+here are the complete details of the job posting you selected. read all the details about it and click on the button to apply for this job.
+
+
+
+
+
+
+
+
+
+
+
+big data cloud analytics engineer (w2 position)
+
+
+posting date : 
+
+8/16/2017
+
+
+
+location : 
+
+saint louis, mo (remote)
+
+
+
+job description : 
+
+hi team,“we have exclusive requirement
+“.candidate should come to our w2(payroll).2 position and candidate can work remotely from any where once
+selected.but has to attend f2f interview.once selected client will pay all the
+expenses for the 2 weeks training.role: big data cloud analytics engineerlocation: saint louis, mono.of position : 2what you will do:you will be part of the analytics technical platform for the client
+that is responsible to run analytics at scale and integrate analytics with
+product platforms.partner with business stakeholders to help architect and build a data
+transformation pipeline that serves hundreds of billions of data points on our
+platform leveraging global scalability and shared services of aws, gcp and
+azureco-engineer solutions with the data science teams to build models
+thinking scale ahead, integrated with a provisioned infrastructure to serve
+data via apis and streams to integrate analytics with product platformsexperience and what you should be awesome at: 5+ years of software development experience in distributed systems and
+building large-scale applicationsextreme programming fluency with one or more of the following languages
+java, scala, r , python.leverage open source data processing technologies like hadoop, kafka,
+presto, spark, cassandra and neo4j in our infrastructure. familiarity with file
+formats such as avro and parquet is a plusin-depth understanding to instrument infrastructure as code via cfn
+templates, ansible, container orchestration via docker, ecs, kubernetes in the
+cloudindependent, self-starter, strong communication, collaboration and
+mentoring skillsentrepreneurial drive and demonstrated ability to achieve stretch goals
+in an innovative and fast-paced environment.excellent problem-solving and analytical skillsassociates degree plus 5 years of experience in computer science or
+other related field; or bs degree bonus points for:agriculture, genetics, bioinformatics domain knowledgeoperations research modeling platforms such as ibm odmeexperience with search/analytics tools such as elk, solrknowledge of ai and deep learning domain and exposure to cloudml,
+tensorflow, theano, neon etc
+
+
+
+
+additional details : 
+
+
+
+
+
+fill all the details here and upload your latest resume then click on the "apply" button to submit your resume to this position.
+                
+
+
+your name : 
+                
+
+
+
+
+                    
+                     
+                
+
+
+your e-mail :
+                
+
+
+
+
+                    
+                     
+                    
+                     
+                
+
+
+your resume : 
+                
+
+
+
+
+                    
+                     
+                
+
+
+ 
+                
+(upload your resume only in
+                    doc, docx, pdf, rtf
+                    format)
+
+
+optional message
+                    to employer : 
+                
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

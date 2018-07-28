@@ -1,0 +1,535 @@
+
+
+
+rackspace jobs/careers - database reliabilty engineer (elasticsearch) - objectrocket in austin, texas, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a racker?
+locations
+culture
+benefits
+stories
+jobs
+
+
+
+
+
+join us!
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+
+
+
+are you a racker?locationsculturebenefitsstoriesjobs
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								always ready, always accountable, always helpful 
+							
+
+
+
+
+
+
+
+being a racker means thinking about support in new and different ways. major hayden, principal architect, talks about how rackspace has redefined service.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								serious about your work, but don't take yourself too seriously
+							
+
+
+
+
+
+
+
+delivering results-obsessed customer service in a highly technical, competitive industry is serious business. rackers also enjoy cutting up and having a good time together.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								a cloud enthusiast with a heart for service
+							
+
+
+
+
+
+
+
+rackers are experts at building great products for our customers.  egle sigler, who is a principal engineer and rackspace board of director for openstack, shares how rackspace helps her tap into her passion for technology and service to deliver her best for customers.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								dedicated to making a positive impact
+							
+
+
+
+
+
+
+
+tony campbell, learning and development director, shares that finding opportunities to make things better for our customers and industry drives rackers to excel.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								committed to learning, growing & innovating
+							
+
+
+
+
+
+
+
+distinguished engineer and lead architect for open compute, aaron sullivan, explains that at rackspace innovation makes technology useful in really natural ways.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								mission inspired, values grounded, culture focused
+							
+
+
+
+
+
+
+
+courtney skarda, vp of racker experience shares how rackers bring their strengths and true, authentic selves to work every day to achieve our mission.
+read more
+
+
+
+
+
+
+
+
+
+		rackspace one of best workplaces for millennials     read more
+
+
+
+
+
+		connect: 
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+                
+                    rackspace jobs/careers
+                
+            
+        
+
+
+
+
+
+
+where
+
+city, state, country
+
+
+what
+
+job title, keywords
+
+
+
+
+
+
+
+
+
+
+
+home
+
+            view all jobs
+            
+(231)
+
+
+
+
+
+
+
+
+
+
+
+
+rackspace
+
+
+database reliabilty engineer (elasticsearch) - objectrocket in
+            
+austin, texas
+
+
+
+
+
+
+
+
+job overview
+overview & responsibilities
+objectrocket is seeking a mid to senior level dba\database engineer to join our support engineering team and work with our our scalable, highly-available dbaas platform team. we are looking for someone that has at least medium level of competence in search engines and search engine/index performance tuning.
+love a challenge? anyone can manage a single application - we manage and maintain thousands of production databases and data store technologies along with the components supporting billions of operations with very divergent workloads. you’ll be part of a highly capable and motivated nosql dba team working on solving the hard problems of scalability, availability, and performance on a global platform across multiple data store technologies. this position will involve supporting primarily nosql database technologies and our search engine technologies along with some big data add-ons and feeders
+
+expected tasks for this role: 
+manage and maintain thousands of production customer databases and elasticsearch nodes and indexes associated with search capabilities
+automate and innovate new ways to manage large database clusters and improve existing elasticsearch performance for our multitude of existing customer bases.
+push the limits of mongodb, elasticsearch, and other relational and nosql database technologies
+work with cutting edge technology in the cloud computing space
+provide fanatical support to all of our customers through innovative solutions
+create sustainable and maintainable environments for our nosql and elasticsearch arenas
+install, configure, update and troubleshoot very large database and search environments and applications
+collaborate with engineers, dba’s, and  system administrators on technical issues
+be part of the community. attend conferences, meetups then move towards contribution via wiki articles, then blogging, etc.
+our ideal candidate will be open to working 2nd shift support (2pm - 11pm).
+
+qualifications
+qualifications   -   position requirements & experience:
+
+3+ years experience with nosql databases such as mongodb and cassandra, etc.
+2+ years experience with relational databases such as oracle, postgres, or mysql
+2+ years experience with search technologies such as elasticsearch, solr or lucene
+2+ years managing highly available, scalable production systems in a fast-paced production environment
+experience building and developing in both a cloud environment as well as on the direct host level (non-cloud level).
+proficiency with python, perl, shell, mapreduce or other languages
+understanding of data architecture, replication, and administration
+extensive knowledge of linux/unix
+fast learner, creative thinker, problem solver
+team player, highly motivated and self-manageable
+responsible, dedicated and responsive in non-working hours as needed
+excellent interpersonal and communication skills
+comfortable with collaborative tools such as slack, wikis and basic ticket tracking systems (jira and zendesk)
+action and detail oriented. highly motivated to drive projects to completion
+
+nice to have:
+
+shell, ruby, c, java development or driver experience
+knowledge of big data pipelines such as hive, pig, spark, kafka
+some knowledge of load balancers, dns, networking, and/or client side drivers.
+bs/ms in computer science
+
+req # 36664
+location(s) us-tx-austin
+category dba
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+apply now
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current search criteria
+
+
+
+
+              database reliabilty engineer (el...
+            
+
+
+
+              austin
+            
+
+
+
+              texas
+            
+
+clear all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a racker?locationsculturebenefitsstories
+
+
+
+
+
+rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+
+about rackspace  |  investors  |  careers  |  privacy statement  |  website terms  |  trademarks  |  sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

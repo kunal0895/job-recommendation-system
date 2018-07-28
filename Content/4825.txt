@@ -1,0 +1,144 @@
+
+
+	scientist i/ii - bioinformatics 2017-166 #460627 boulder, co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scientist i/ii - bioinformatics 2017-166
+boulder, co
+
+
+
+
+
+apply
+
+view all jobs
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+
+	somalogic is a privately-owned biomedical science company that developed a revolutionary proteomics technology capable of measuring thousands of different proteins in a single small sample. we are a dedicated team of scientists, bioinformaticians, statisticians, and software developers working to build new tools based on our technology that will change the way life science research is done and healthcare is delivered. come apply your technical expertise to making healthcare better for your loved ones and the whole world.
+
+	somalogic is seeking a bioinformatics quantitative analyst to work with the clinical and corporate strategy & development teams to identify novel patterns in high dimensional proteomic data, discover proteomic signatures, and apply bioinformatics techniques to elucidate biological functions. this position will focus on the design, execution, and analysis of proof-of-principle studies and validation studies resulting in products, technical material facilitating market and business development activities, and scientific publications.
+
+	this role is an opportunity to work at the forefront of biomarker discovery conducting quantitative statistical analyses of high dimensional data produced by somalogic’s revolutionary proteomic measurement system. a successful candidate will be part of a dynamic, creative and innovative bioinformatics team performing exploratory analyses in key areas to facilitate business growth into new areas.
+
+key job responsibilities:
+
+
+		perform timely quantitative statistical analyses of high dimensional proteomic data, present findings, and generate written analysis reports
+
+		partner with internal clients to understand requests, propose analytic methods, define deliverables and produce timely analysis results and reports
+
+		develop modular and reusable statistical software tools to perform complex statistical analyses and prepare data displays for internal clients
+
+		work closely with assay development and assay bioinformatics groups to characterize and be able to communicate analytical performance of complex multi-analyte proteomics assay
+
+		keep abreast of new methodologies in high dimensional data analysis through literature review, workshops and professional meetings
+
+		present findings and results to various internal groups
+
+
+
+skills & requirements
+
+education
+
+	master’s degree with 12+ years of related experience or ph.d. in statistics/biostatistics, applied mathematics, bioinformatics, or related field
+
+skills and experience
+
+
+		experience performing both routine and complex statistical analyses (e.g., inferential statistics, regression, survival analysis); experience with machine learning methods highly desirable
+
+		solid background in theoretical and applied statistics including robust and non-parametric techniques
+
+		experience working with large data sets in a health science or clinical field
+
+		experience analyzing “wide” data sets (more covariates than observations)
+
+		proficiency in r statistical programming and experience with at least one object-oriented programming language (c++, java, python, etc.)
+
+		exceptional written and oral communication skills
+
+		detail-oriented pro-active working style capable of both self-directed independent work and participation in inter-disciplinary teams
+
+		experience working with genomic or proteomic signals desirable
+
+
+	 
+
+work environment:
+
+	work is in typical office environment. multiple hours per day of keyboarding time will be required.
+
+
+
+
+
+apply
+
+view all jobs
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+

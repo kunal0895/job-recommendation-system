@@ -1,0 +1,142 @@
+
+
+
+
+extrahop networks, inc. careers - senior data scientist, machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    extrahop networks, inc. careers                                            
+
+
+
+
+
+
+
+                senior data scientist, machine learning
+    
+    
+
+                            engineering - pm - it svcs            
+                    seattle,
+                            washington
+                
+                        
+
+
+
+        apply
+    
+
+
+
+the extrahop platform is a novel approach to processing vast amounts of wire data in real-time. want to join a collaborative team that builds solutions which provide deep performance insights, behavioral security analyses, and drive business analytics? keep reading.big data, the cloud, elastic computing, saas, aws, byod, hpc, sdn—we do it all. the solutions we build at extrahop are transforming the it industry. from retail websites and point-of-sale systems to financial services and the healthcare industry, extrahop helps modern businesses handle the growing demands on their applications and infrastructures.we’re growing fast and we’re looking for people who love to build things: products, companies, markets, and their careers!  come contribute and build with one of the best teams in the industry.this role will work on our analytics team and with extrahop’s atlas service, which monitors over 600,000 devices that process over 2.7 petabytes a day. the analytics team will drive projects to increase value of our real-time application performance metrics. this team will partner with the product and operations teams to identify actionable insights into network issues, application performance, and business analytics. we’re looking for passionate engineers that want to build the next-generation analytics feature at extrahop.duties & responsibilitieswork in across-functional team to research and build rich analytics into the extrahop system: investigate customer operation challenges, frame and structure questions, collect and analyze data, as well as summarize and present key insights in support of decision-makingdemonstrate and share your passion and understanding of data science  build analytics tools to develop actionable insights using the extrahop systemcontribute in all phases of development starting from the design proof of concept to laying down the scalable production coderequired skills & experiencea degree in statistics, computer science, physical sciences or a related technical fielda strong track record of performing data analysis using python (numpy, pandas, scikit-learn, etc.) or equivalent language and sqlat least 5 years experience using statistics and analytics to solve complex problemsversatility and willingness to learn new technologies on the jobability to write production-quality code utilizing knowledge of data structures and algorithms with python or related programming languagesdesired skills & experienceunderstanding of common software development practices around design, coding, and testing a large codebaseabout extrahopat extrahop, we create great products because we give talented employees the freedom to be intellectually curious and creative. we seek a diversity of perspectives and foster employee quirkiness and spunk to help drive innovation. every extrahop employee knows that we’re all in this together and that work is an important part of life so it should be fun. a sense of humor is required here, seriously!we are the global leader in real-time wire data analytics, a novel approach to it operational analytics. our market opportunity is greater than $15b and our solutions span all industries. pretty neat, huh? if you want to join a fun team that produces award-winning products that provide tremendous business value and delight customers, then extrahop is the company for you!founded by engineers, extrahop is a seattle-based technology company that delivers elegant solutions for the tech industry’s most challenging problems. as a privately held fast-growing technology leader in the $20b it operations management space, extrahop networks is positioned to be the next great systems company. we are known as innovators who take a smart, creative approach to solving problems. our extrahop team and product line have received many awards, including wins in multiple categories of best of interop, a gold medal prize in puget sound business journal’s annual list of washington’s best workplaces, and several gold stevie american business awards.extrahop is an equal opportunity employer. qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

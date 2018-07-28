@@ -1,0 +1,210 @@
+
+full stack developer - multiple positions - azure, api, db, web job - fiduciary exchange llc - berwyn, pa | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+full stack developer - multiple positions - azure, api, db, web
+
+fiduciary exchange llc
+     -
+berwyn, pa 19312
+
+full-time, contract
+
+
+
+overviewfiduciary exchange, llc is a fintech startup specializing in the wealth advisory arena. it is seeking motivated developers to build out a revolutionary financial services processing engine embracing cloud based, api driven, and modern standards. it will use microsoft based technologies (azure, c#, sql server) and employ an agile practice with consistent review from the technical and business stakeholders.we are looking for dynamic self-starters who thrive on learning new technologies on demand. while all positions have a full-stack element, we have three areas of focus in our development. extensive experience in at least one area is required.api development - c#design, development, and deployment of mission-critical apis hosted on iisa “security first” focus, with api services designed from the ground up to protect client datarestful api development – ideally you will have worked on an api that is consumed by other developers outside your organizationdatabase technologies - sql servertable and view designstored proceduresbulk file loading and processingdata validationexception handling and reportingbatch processing / automated processingssis / ssrsdatabase optimizationclr stored proceduresweb application development - multiple technologiesdevelopment of web solutions using a combination of server and client-side technologiesa “security first” focus, with applications designed from the ground up to protect client dataserver-side development using c#client-side development including javascript and jquery, html5, css3, and modern javascript librariesfiduciary exchange, llc is not currently an h-1b sponsor. candidates must be authorized to work in the united states.most positions are 3 month contract-to-hire.additional responsibilitiesdevelop high quality extensible and reusable code solutions for our clients in accordance with our coding standardsdevelop code and release through multiple environments in a timely mannermaintain documentation and deployment procedure for existing applicationsknowledge, skills & abilitiesc#, .net 4.6, visual studio 2015/2017 experiencemvc, webforms, web api experiencesql server 2014-2017 skills, including ability to troubleshoot, and optimize tables and queries. strong t-sql. clr development a plusexperience with azure cloud services, including setup and configuration of appliancesazure development experience (workers, redis cache, blob storage, azure apis)azure api managementshould be familiar with ado.netsecurity – including x509 certificates, ssl, asymmetric and symmetric encryption protocols and useswcf, microsoft workflow, business rules framework are a plusorm – entity frameworktelerik component suite, aspose component suitefamiliar with service oriented / domain driven architectures, and strong object-oriented design conceptscontinuous integrationunit testing using nunit or moqfamiliarity with sql server 2016 features, such as in-memory column stores, and json output / inputproven problem-solving skills, ability to systematically break down issuesability to communicate highly technical concepts to non-technical stakeholdersability to prioritize task and maintain high communicate with team membersability to pick up new languages and adapt to new technologiesagile software development (scrum or kanban)xml and xslt experienceunderstanding of modern security concepts and best practices for securing an applicationexperience with continuous integrationexperience working with windows server (especially iis) strongly preferredexperience with git or microsoft tfs source controlexposure to cdn technologiesexperience with various javascript frameworks such as react or angularexperience with jqueryswagger (openapi) formatnetworks, firewalls, security groups, and general azure infrastructureconfiguration of clusters / load balancersphp, java, mysql experience, a plusqualificationsproven history of successful independent delivery.bs in computer science or equivalent experience5+ years of experience implementing complex applications5+ years development experience with c#, transact-sql, or javascript5+ years of experience integrating front and back-end technologies to create modern and secure web applicationsjob type: full-timerequired experience:financial services: 3 yearssoftware development: 5 years
+
+6 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to fiduciary exchange llc.
+
+
+
+
+
+
+other jobs you may like
+
+
+full-stack c# .net developer
+
+liberty personnel services -
+					conshohocken, pa
+7 days ago
+
+ easily apply
+
+
+
+java developer - full-stack
+
+vanguard -
+					malvern, pa
+8 days ago
+
+ easily apply
+
+
+
+full stack developer
+
+vanguard -
+					malvern, pa
+14 days ago
+
+ easily apply
+
+
+
+full stack developer
+
+liberty personnel services -
+					philadelphia, pa
+13 days ago
+
+ easily apply
+
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

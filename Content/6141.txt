@@ -1,0 +1,158 @@
+
+
+
+
+1553 data spark scientist | reqroute,inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+log in
+
+
+
+
+register
+
+
+
+
+jobs
+
+
+
+
+back to website
+
+
+
+
+
+
+
+
+
+1553 data spark scientist
+
+
+
+email
+
+
+
+
+
+
+
+
+
+tweet
+
+
+
+
+location: charlotte, nc, united states
+
+
+date posted: 12-11-2017
+
+
+
+
+
+apply now
+
+
+
+
+
+
+role - data scientist
+type of hire - permanent     
+
+
+
+this job role requires 25% travel, expenses will be paid for.
+
+job description :
+1. overall 8-10 years of relevant hands on experience in handling various data driven decisions.
+2. experience in various statistical and machine learning models, data mining, unstructured data analytics in corporate or academic research environments
+3. must have strong of programming experience in python/scala in spark.
+4. should have hands on expertise on various analytics techniques such as classification, regression, clustering etc.
+5. work with large datasets / big data to extract insight on customers and platform.
+6. should have been exposed to dimensionality reduction techniques and feature selection techniques.
+7. should possess rich experience on various analytics libraries such as apache spark, python scikit learn and r.
+8. should have an exposure to big data tools such as hdfs, yarn, hive etc.
+9 need to have good understanding & working knowledge in natural language processing & conceptual modelling.
+10. experience leading or collaborating with a team of data scientists/machine learning engineers in developing and delivering machine learning models that work in a production setting.
+11. exposure to java and micro services is an added advantage.
+ 
+required technical and professional expertise
+
+at least 2 years’ experience - coding skills in one of the following: python, r, scala (preference for spark scala)
+at least 2 years’ experience - creating machine learning pipelines - data ingestion, feature engineering and model selection, training, validating and deploying
+at least 2 years’ experience - probability and statistics  
+at least 2 years’ experience - working with apis and ide like intellij for spark/scala (is an added advantage)
+
+ if interested pl. send your resume to savitha@reqroute.com
+
+regards,
+savitha
+reqroute,inc
+phone : 408 757 4336 (pst)
+email: savitha@reqroute.com
+
+ 
+
+
+
+
+
+companies across u.s. have engaged reqroute, inc to deliver skilled, dedicated it professionals. recruiting is our passion and we support fortune 1000 companies with their hiring needs. we always seek to deliver competitive and sought-after career opportunities to our potential consultants and employees. we invite you to review the position requirements and apply today if your skills match our needs.  
+ 
+reqroute, inc is an equal opportunity employer. qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, national origin or any other characteristic protected under federal, state, or applicable local law. (www.reqroute.com)
+
+
+
+
+
+
+
+apply now
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

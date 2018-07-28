@@ -1,0 +1,377 @@
+
+
+
+
+
+
+
+
+
+apply for siemens software development-implementation consultant job - engineering - charlotte, north carolina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+
+careers home
+search jobs
+
+
+					check application status / manage profile
+					
+
+
+
+global jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+siemens careers
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software development-implementation consultant
+
+
+locations:
+charlotte, north carolina
+
+
+
+
+job family: engineering
+
+
+
+
+
+apply
+
+english (us)
+
+
+
+
+
+
+job description
+
+
+
+division: digital factorybusiness unit: product lifecycle managementrequisition number: 207786primary location: united states-north carolina-charlotteassignment category: full-time regularexperience level: mid leveleducation required level: bachelor's degreetravel required: 10%division description:siemens is a global technology powerhouse that has stood for engineering excellence, innovation, quality, reliability and internationality for more than 165 years. as a global technology company, siemens is rigorously leveraging the advantages that this setup provides. to tap business opportunities in both new and established markets, the company is organized in nine divisions: power and gas, wind power and renewables, energy management, building technologies, mobility, digital factory, process industries and drives, healthineers and financial services.the siemens digital factory division offers a comprehensive portfolio of seamlessly integrated hardware, software and technology-based services in order to support manufacturing companies worldwide in enhancing the flexibility and efficiency of their manufacturing processes and reducing the time to market of their products.for more information, please visit: http://www.siemens.com/businesses/us/en/digital-factory.htmjob description:position overview:
+implementation consultants in siemens gdn services group, work with world-class cutting edge technology, to create and deliver high quality, robust and innovative solutions across siemens plm solutions portfolio. 
+ 
+ideal candidates are software developers with experience in programming\ software development, solution development, using industry standard sdlc methodologies. strong experience with a programming language such as c#, css, javascript and familiarity with sql preferred.
+ 
+it is preferable to have familiarity with one or more of the following: manufacturing execution systems (mes), qms (quality management systems), or other enterprise software with experience involving developing customization or configurations to suite the client needs.
+ 
+act under the guidance of solution architects, project manager and professional services team to understand customer requirements, and develop technical solutions. conform to project processes and communication protocols. collaborate with other implementation consultants and subject matter experts to contribute to an overall successful delivery of realized value to siemens customers.
+ 
+actively participate in knowledge-sharing and communities of practice, leveraging technical and industry best practices and templates to deliver project tasks, providing experiences to support continual improvement.
+ 
+ 
+responsibilities
+implementation consultants in siemens gdn services group, are primarily responsible for, but not necessarily limited to, the following duties:
+
+understand functional specifications, technical requirements or business justifications for a change. 
+developing software customizations, extensions using supported apis to meet client’s requirements, using established best practices to deliver a high quality, reliable and performant software solutions.
+executing data modeling activities where required, following siemens standard methodologies, and adhering to the expectations established in project design documentation.
+create documentation for technical procedures, installation processes, and whitepapers 
+assist in the creation of system designs and functional specifications.
+troubleshooting and helping resolve issues across the entire scope of the solution:  object model, design, web portal, and all other interfaces.  demonstrate capability with the platforms that govern these solution aspects.
+executing testing activities where required, attaining familiarity with existing automated and manual test suite. understand client’s technology, landscape, context and requirements to execute solution validation activities.
+executing data migration and data conversion activities where required, gaining expertise with siemens tools that support these activities.
+support client cutover and go live activities.
+knowledge/skills, education, and experience
+ 
+required
+
+experience developing a software solution using a programming language (2+ years required)
+
+c#, css, javascript knowledge required
+experience  using one or more of the following database programs (2+ years required)
+
+sql server or sql express
+oracle
+mysql 
+access
+working knowledge of the following related technologies:
+
+microsoft software
+microsoft windows 2008, 2012 and windows 8
+microsoft office
+work experience, co-op, or internship experience developing or implementing a process solution – ideally in manufacturing or distribution (preferred).
+services \ software development experience in manufacturing process ( preferred ).
+self- motivated to learn, develop, deliver and excel. 
+ability to prioritize, meet deadlines, communicate obstacles in a timely manner and manage changing priorities.
+a results oriented individual , capable of learning and contributing to a dynamic environment.
+strong analytical and problem solving skills.
+willingness to work occasionally outside of normal business hours. 
+excellent english oral and written communication skills.
+ 
+additional skills (not required, but preferred)
+
+experience in custom software development, user interface development, and system interface programming using the microsoft visual studio ide.
+experience or familiarity with ajax controls,  windows communication foundationsiemens camstar designer, siemens camstar portal studio, xslt, object oriented design experience, angularjs, html5, siemens simatic it product suite, web services (restful, wcf) json
+experience in custom software development with enterprise java, html5, jsp applications
+education: 
+
+bachelor’s degree in computer science, or related technical or engineering field.  
+travel 
+10%-15% travel may be expected.
+ 
+location
+charlotte, nc
+ 
+work authorization
+qualified applicants must be legally authorized for employment in the unites states. qualified applicants will not require employer sponsored work authorization now or in the future for employment in the united states.
+
+
+
+equal employment opportunity statement
+
+      siemens is an equal opportunity and affirmative action employer encouraging diversity in the workplace. all qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law.
+    
+
+eeo is the law
+
+      applicants and employees are protected under federal law from discrimination. to learn more,
+      click here.
+    
+
+pay transparency non-discrimination provision
+
+      siemens follows executive order 11246, including the pay transparency nondiscrimination provision. to learn more,
+      click here.
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+check application status / manage profile
+
+
+
+global jobs
+united states jobs
+
+
+us only: review accommodations for disability
+contact us
+
+
+
+
+© siemens ag, 1996 – 2017 |
+corporate information |
+privacy policy |
+cookie policy |
+terms |
+digital id
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+© siemens ag, 1996 – 2017 |
+imprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

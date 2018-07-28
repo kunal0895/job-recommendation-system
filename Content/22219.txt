@@ -1,0 +1,148 @@
+
+
+
+spr careers in technology |software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+job locations
+
+us-il-chicago
+
+
+
+
+
+id
+
+2017-2926
+
+
+# of openings
+
+1
+
+
+
+
+
+
+
+
+
+job description
+
+
+
+
+
+
+software engineer who is spr? spr guides organizations through digital transformations and rejuvenations, solving real problems for real people. as a strategic digital consultancy, we focus on business outcomes for our clients, helping them make data driven decisions and increase engagement with their customers, partners and employees. we evolve existing platforms and develop new products, and utilize technology to maintain operational effectiveness. we are technologists at our core and think beyond the math of the 1s and 0s to understand how to reach our human potential using the digital platform. we think about the end users and rigorously and creatively apply the latest technologies and frameworks to address our clients needs. to do this, we hire smart technologists and sharp business leaders who are excellent communicators and have an interest in working on multiple projects across industries. spr offers a great environment for employees to learn, to build systems that make an impact, and to tackle exciting challenges. with our office's maker space, you can explore your iot side and develop fun projects with 3d printing and cnc machining. we operate in a fun, casual work environment and have great benefits including: competitive salary, bonuses, generous vacation time, big fitness incentives, and medical/dental/vision insurance.  by joining the spr team, you'll be using your brain, working hard and making an impact through your projects and you'll be rewarded for it. what is the position? as a software engineer at spr, you must be passionate about working with cutting edge technologies, bring deep technical knowledge, have experience with distributed systems to drive technical design and be comfortable with implementing end-to-end solutions. the ideal candidate for this position is an experienced software engineer excited to work on cloud scale software and has a proven track record of architecting and building software. professional qualificationsstrong analytical skills, with excellent problem-solving abilities in the face of ambiguitydeep understanding of computing systems, software architecture, data structures and algorithmsable to manage your own time, and work well both independently and as part of a teampossess excellent interpersonal and organizational skillsability to handle diverse situations, multiple projects, and rapidly changing prioritiesassists in the interview and integration processes great attitude and commitment to get the job done technologies we use c# / asp.net (mvc, web api) / wpf / wcf / orm (entity framework, nhibernate) / automated testing (unit testing, bdd) / spa frameworks (angularjs, knockout, react) / tfs / powershell / visual studio / sql server and sql / nosql (mongo, raven, documentdb, cassandra, maria, riak) / java (spring, spring boot, guice, jpa, junit) / javascript (node.js, npm, karma, jasmine, phantom) / build tools (gradle, maven, ant) / cloud (azure, aws, cloud foundry, heroku, mesos, dc/os) / python / scala / big data/fast data (spark, hadoop, akka, sqoop, hive, pig, storm, azure stream analytics, kafka, flink, spark, nifi, hdfs) /elasticsearch / devops tools (docker, ansible, chef, puppet) / machine learning (tensorflow) / data visualization (grafana, kibana) / iot frameworks education & experience 3+ years of professional experienceba or bs, preferably in computer science, engineering or science / technology-based disciplineif this sounds like the kind of challenge you would be up for every day, we would love to hear from you.
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

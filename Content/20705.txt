@@ -1,0 +1,283 @@
+
+
+
+
+job application for backend developer at carvana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend developer
+
+        at carvana
+      
+(view all jobs)
+
+        phoenix headquarters
+      
+
+
+about carvana….
+ 
+at carvana, we sell cars, but we’re not salespeople. since 2013, we’ve been making it our mission to change the way people buy cars. we saw a huge problem with how much it can suck to buy a car the traditional way, so we committed ourselves to tackling one of the largest, yet-to-be-disrupted markets in the world – the $1t per year u.s. car market (yes, that’s $trillion with a “t”).
+with the ability to search thousands of vehicles from our expansive inventory, to high-resolution 360° photographs of our vehicles’ interior and exterior, to real-time financing and the ability to complete contracts without visiting the back room of a dealership, we provide a seamless, online car buying experience for consumers that can be completed from their desktop or mobile device. all our vehicles are inspected and reconditioned based on our 150-point certification checklist and come with a 7-day return policy. we also operate our own logistics network to deliver cars to customers as soon as the next day, as well as offer customer pick-up at our state-of-the-art car vending machine locations (yes, you read that right). by putting customer satisfaction at the core of our business, we’ve built a no-pressure, no-haggle online car buying experience that save our customers time and money.
+for more information on carvana, take a look at our company introduction video!
+ 
+working at carvana you will notice that...:
+you'll need to be a great communicator, a brand ambassador, and possess the know how to get the job done.
+we expect bright people, willing to roll up their sleeves, take on new assignments, and juggle many things at once.
+in return for your hard work, you'll have an opportunity to work at one of the fastest growing and creative technology companies around, as well as help us promote a life-changing product and develop a world-class team every day.
+in our down time we have ping pong and corn hole (or “bags,” depending on where you’re from) tournaments. however, the pace is pretty quick around here, so you'll need to be prepared to keep up.
+we also have wacky pants wednesdays…so you’ll have to come correct here to compete with our ceo ernie.
+ 
+job description
+you will create, maintain, and optimize source code for large web service and web applications using the above technologies. you will also be called upon to help design and build the next generation of enterprise applications to replace our legacy systems.
+ 
+responsibilities
+
+participate end to end in the product life cycle: requirements gathering, solution design, development, testing, and implementation
+participate in peer discussions on architecture and overall direction of carvana platforms.
+work with team members to design solutions that are supported by the architecture of the existing systems.
+
+ 
+required skills and experience
+
+you have 5+ years’ experience in .net development (c#, wcf, web services, asp.net)
+you should be very familiar with wcf and asp.net based web development and c# in general
+you have an understanding and experience in application security from the web service and web application perspective
+you have a good understanding of design patterns and n-tier architecture
+you have a bachelor’s degree or higher in related field, or professional experience working with related technologies
+you have strong debugging and troubleshooting skills
+you have good communication and collaboration skills - carvana developers work very closely with strong supporting teams and require great interpersonal skills including a positive attitude and sense of humor
+you will help us build a stronger company – every day.
+
+ 
+bonus skillz
+
+domain driven design (ddd)
+command query responsibility segregation (cqrs)
+event sourcing (es)
+nosql database (mongodb)
+
+ 
+what you can expect in return
+
+full-time salary position
+health, dental and vision benefits (employee health 100% covered by carvana)
+all the snacks and drinks your heart desires
+employee car discounts and perks
+401k with company match
+access to opportunities to expand your skill set and share your knowledge with others across the organization
+
+
+ 
+legal stuff
+hiring is contingent on passing a complete background check.
+ carvana is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+this role is not eligible for visa sponsorship.
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? if referred by employee, please list employee's name: *
+
+
+
+
+
+
+will you now or in the future require visa sponsorship? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

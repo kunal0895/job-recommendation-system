@@ -1,0 +1,133 @@
+
+
+
+
+
+
+career opportunities
+
+
+
+
+
+
+
+
+software developer
+
+
+location:
+san antonio, tx
+
+
+# of openings:
+1
+
+
+
+description
+job title:    software developer
+location:    san antonio, tx
+travel requirements:     travel to other axios locations or customer sites as necessary
+description
+axios, a wholly owned subsidiary of lgs innovations, is seeking a    software developer for our san antonio, tx location.
+in this position you will work under    general direction serve as a    software development expert and advise multiple development teams on technical development tasks and strategy.
+axios, a wholly owned subsidiary of lgs innovations, is dedicated to protecting america from harm by supporting the missions of the department of defense and its intelligence community partners. with a highly educated and experienced team, axios designs, develops, delivers, and operates leading-edge processing solutions and products in the fields of communications, digital signal processing, software, network engineering, system engineering, and system integration. axios puts a strong emphasis on innovation, agility, honesty, trustworthiness, and teamwork, and offers mission-focused technological innovation to address critical needs in the areas of rf communications, mission operations, frameworks and open processing architectures, software defined radio, and tactical programs.
+headquartered in dulles, virginia, axios provides mission-focused support across several u.s. and overseas locations. we provide our employees with competitive compensation packages and a full range of benefits, including vacation, medical, dental, life insurance, a 401(k) plan, tuition assistance, employee assistance program (eap), and paid parental leave.
+roles and responsibilities:
+
+develop custom software which creates effects based on government/stakeholder requirements
+refine pre-existing code into production grade software based on government/stakeholder requirements
+identify vulnerabilities in software and hardware coding
+analyze and reverse engineer software and hardware based on government/stakeholder requirements
+develop tools to detect, analyze and neutralize malicious logic traveling through the global information grid
+develop software utilities that assist in managing network resources
+develop tools to capture, analyze and neutralize network and host-based attack methodologies and unknown vulnerabilities
+document all phases of software development throughout the lifecycle
+review and coordinate documentation with government/stakeholders for software developed
+research and document technologies identified by the government
+provide developed capability demonstrations
+travel to other lgs locations or customer sites as necessary 
+understand and adhere to all lgs ethical and compliance policies 
+proactively ensure a safe work environment and adhere to lgs eh&s policies and procedures
+perform other duties as required
+if required, obtain/retain a government security clearance at the level to perform the job 
+
+qualifications
+basic qualifications:
+to be considered for this position, you must minimally meet the knowledge, skills, and abilities listed below:
+
+bachelor’s degree in electrical engineering, computer science or related field and 4-6 years of related experience or a combination of education, skills, and experience
+knowledge of microsoft software applications and other software applications as required
+active dod ts/sci clearance
+5+ years technical leadership experience
+demonstrated software development experience in cyber
+coding languages such as c, c++, java, c#
+scripting languages such as python, powershell, etc.
+assembly such as x86, x86_64, arm
+windows or linux kernel level development
+agile development experience, certifications preferable
+experience developing and normalizing software development standards and practices across multiple development teams.
+
+for a listing of all lgs innovations and axios open positions, please visit our website at http://www.lgsinnovations.com/careers.
+equal opportunity employer/veterans/disabled
+www.dhs.gov/e-verify
+e-verify® is a registered trademark of the u.s. department of homeland security.
+this business uses e-verify in its hiring practices to achieve a lawful workforce.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+

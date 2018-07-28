@@ -1,0 +1,286 @@
+
+
+forsythe | careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+homeemployment  listingspre-employment-guidelines
+
+
+
+ 
+
+employment  listingssearch current openingsupdate your profilecreate a job agentupdate job agent
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					big data developer
+				
+
+
+						tracking code
+					
+
+						692-180 
+					
+
+						job description
+					
+
+forsythe is a leading enterprise it company, providing advisory services, security, hosting and technology solutions for fortune 1000 organizations.  forsythe helps clients become more agile, secure, digital businesses as they optimize, modernize and innovate their enterprise it. we do this by using both new and traditional it effectively to meet their business needs. founded in 1971, forsythe is privately held and 100-percent employee-owned, with nearly 1,000 employees in 40 locations, and more than $1 billion in annual revenues. whether we are helping a company secure its data or envision a large data center transformation, we will do whatever it takes to help make it happen.
+ 
+job summary:  
+design, develop, document, test, and debug new and existing software systems and/or applications. responsible for implementation of big data storage and access solutions. solid understanding and hands on experience with hortonworks distribution and strong experience with spark 2.0 and hive hql knowledge and understanding of optimization techniques. solve a wide array of hive troubleshooting and related performance problems to meet client’s needs.
+ 
+serve as technical expert on development projects. participate in full development life cycle including requirements analysis and design. write technical specifications based on conceptual design and stated business requirements. support, maintain, and document software functionality. identify and evaluate new technologies for implementation. analyze code to find causes of errors and revise programs as needed. participate in software design meetings and analyze user needs to determine technical requirements. consult with end-user to prototype, refine, test, and debug programs to meet needs.
+ 
+duties and responsibilities: 
+ 
+primary duty:
+technical – design/development/test:
+
+assist with implementation of best practice in hadoop using hortonworks 2.x distribution
+perform data analysis of legacy rdbms and assist architects to translate specifications into quality designs in moving data to hadoop using spark and hql, which include documenting and, testing speed on emr aws.
+
+ 
+technical – define standards, review:
+
+enhancing coding standards and development guidelines and ensure best practice are being followed
+review:
+
+participate in design of hadoop eco-system environments reviews and capacity planning
+maintain and review technical documentation. review internal deliverables and deliverables received from vendor who might be delivering a set of modules/features.
+participate in technical reviews and suggest alternatives
+
+work closely with aws architects, big data managers and data scientists, and ask appropriate questions to understand scope of work and provide accurate schedule estimates.
+
+ 
+
+
+						required skills
+					
+
+skill requirements:
+ 
+
+technical skills
+
+hadoop eco-system – hdfs file orchestration and scripting
+hive – hql design and etl
+kafka message broker optimization and cluster management
+sqoop batch ingestion using sparksql
+spark 1.6 and 2.0 (streaming and sparksql)
+understanding zeepelin
+automating batch jobs using oozie
+java or scala programming
+
+
+ 
+
+methodologies
+
+de-normalization and data analysis
+agile, scrum
+
+
+ 
+
+business
+
+system decomposition, scope definition
+some level of domain expertise in insurance would be desirable
+
+
+ 
+
+process
+
+build management, release management, training, automation process, project management, reviews/inspections
+
+
+
+ 
+
+others
+
+ability to actively scan for technologies that offer new opportunities to differentiate, technology trend analysis
+ability to assess the relative merits of technology maturity against business need.
+ability to rely/draw on past technology experience to quickly integrate the key principles & issues with new technologies.
+quick grasp of technology and ability to see the big picture. strong problem solving skills and capable of delving into details when required. must be creative; can develop new simple approaches to complex design problems.
+excellent communications skills
+must be an experienced, motivated, self-starter - technical, business and solution focused
+must work well with team members, acting as a mentor to other engineers, helping in motivating and solving problems.
+must have ability to handle multiple concurrent activities and have a flexible positive attitude.
+
+
+
+ 
+physical requirements, if applicable: 
+
+ability to travel up to 50%
+general office activities
+
+ 
+
+
+						required experience
+					
+
+minimum and/or preferred qualifications: 
+ 
+education:
+ 
+
+bachelor’s degree in computer science or engineering required
+
+ 
+experience:
+ 
+
+6 years of experience in it industry
+
+3+ years hadoop eco-system as developer.
+2+ years of spark 1.6 and 2.0, hive and sqoop development
+1+ years kafka message broker
+1+ years aws
+
+
+
+ 
+forsythe is an equal opportunity/affirmative action employer.  we support a diverse workforce.
+
+
+						job location
+					
+
+						centennial, colorado, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to search results
+				
+
+
+
+
+
+
+
+
+©copyright 2017  forsythe technology | site map
+
+
+
+
+
+
+
+
+
+
+

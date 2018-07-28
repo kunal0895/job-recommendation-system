@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 16-00855
+
+
+
+
+analyst - research analyst - software development
+16-00855
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+analyze, design, develop, test, document, and install software for defense systems applications, including machine learning, information exploitation, radio direction finding, signal acquisition, signal processing and electronic warfare programs; tasks will include automated data analysis, development of human/machine and graphical user interfaces, data visualization and database applications development and administration; unser interface development will include both thick and thin client applications; collaborate with client technical representatives and swri engineering/software staff; software development work includes all aspects of requirements analysis, design,  applications development, testing and deployment including graphical user interfaces, hardware control, data management, documentation, peer reviews, unit testing in multi-tasking, and multi-threaded; prepare technical documents and support proposal preparations as required.
+
+                    education/experience:
+				
+requires a bs or ms degree in computer science or electrical engineering with at least a 3.3 gpa.  requires computer engineers with a computer science focus with 0 - 5 years experience. must have a working knowledge of software development processes including an ability to analyze and translate requirements into an application design, coding, unit and integration testing, software/hardware integration and software documentation with an emphasis on real-time operations, graphical user interfaces including web/browser based applications, network based multiprocessor system design and control, database application development; must be able to demonstrate capabilities in software development leadership; working knowledge of java, javascript, and c++  is required; excellent technically oriented verbal and written communications skills are required; experience in qt, html5, ext js, angular.js, node.js, other web based development, modern software development/scripting languages, iis, apache tomcat and middleware is highly desirable; familiarity with signal processing, large data management, and/or object oriented distributed applications is also highly desired. development may include windows, linux or other operating systems. must be able to work at swri laboratories and short-term travel to government facilities / military bases or other customer facilities, both in the u.s. and overseas, for system installations and to provide technical support. current dod security clearance is highly desired. a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d16/d16home.htm" target="_blank">defense & intelligence solutions</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+analyst - research analyst - software development
+
+16-00855
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

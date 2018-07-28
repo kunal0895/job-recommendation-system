@@ -1,0 +1,122 @@
+
+
+
+
+mashgin - jobs - full-stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+full-stack software engineer
+
+mountain view, ca
+software
+full-time
+
+
+
+apply for this job
+or email to: jobs@mashgin.com
+
+
+
+
+
+at mashgin, weâve built a self-checkout kiosk that uses computer vision to scan multiple items without barcodes, reducing checkout time by 10x. weâre completely recreating the checkout experience in an industry thatâs had little innovation in decades.
+after going through y combinator in 2015, mashgin has raised $10m+ from investors like matrix partners, kpcb, venrock and more. we just raised our series a round and are ready to scale.
+weâre looking for a full-stack developer to help us build the software that runs our kiosks and powers the extensive infrastructure behind them. in addition to building more traditional web stacks, youâll work on code that interfaces with our hardware and visual components, making sure kiosks are extra reliable and the user experience amazing. this is not a specialized position -- we believe in end-to-end ownership of projects, so youâll be contributing to many different parts of the codebase in multiple languages.
+
+
+
+you'll be...
+
+
+working with a small interdisciplinary team in hardware, software and design to build new versions of products from scratch.
+building new features and dreaming up new architecture to solve problems.
+rethinking and recreating existing codebases for scale.
+improving and maintaining code thatâs already in production.
+
+
+
+
+
+
+minimum qualifications
+
+
+b.s. or higher in computer science (or equivalent work experience).
+excellent knowledge of one or more of these languages: python, node.js, c++, go, c#, java.
+comfortable learning new languages, libraries, and frameworks when the solution calls for it.
+experience building production-ready code thatâs used regularly by lots of people.
+
+
+
+
+
+
+preferred qualifications
+
+
+experience in a fast-paced work environment, shipping quality code quickly and iterating.
+comfortable with deploying and managing cloud infrastructure.
+good knowledge of algorithms and data structures.
+strong proficiency with sql and other database tech.
+
+
+
+
+
+
+what we offer
+
+
+an opportunity to work on a small, multidisciplinary team with the potential to break new ground in many different industries.
+location: a few minute walk from the san antonio caltrain station in mountain view, across the street from the san antonio shopping center.
+food: free meals and snacks while at the office.
+excellent health and dental insurance.
+flexible pto policy.
+competitive salary and options in a small, rapidly scaling company.
+
+
+
+
+apply for this job   or email to: jobs@mashgin.com
+
+
+
+
+
+mashgin home page
+
+
+
+
+

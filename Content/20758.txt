@@ -1,0 +1,271 @@
+
+
+
+
+job application for frontend developer at carvana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+frontend developer
+
+        at carvana
+      
+(view all jobs)
+
+        phoenix headquarters
+      
+
+
+about carvana….
+at carvana, we sell cars, but we’re not salespeople. since 2013, we’ve been making it our mission to change the way people buy cars. we saw a huge problem with how much it can suck to buy a car the traditional way, so we committed ourselves to tackling one of the largest, yet-to-be-disrupted markets in the world – the $1t per year u.s. car market (yes, that’s $trillion with a “t”).
+with the ability to search thousands of vehicles from our expansive inventory, to high-resolution 360° photographs of our vehicles’ interior and exterior, to real-time financing and the ability to complete contracts without visiting the back room of a dealership, we provide a seamless, online car buying experience for consumers that can be completed from their desktop or mobile device. all our vehicles are inspected and reconditioned based on our 150-point certification checklist and come with a 7-day return policy. we also operate our own logistics network to deliver cars to customers as soon as the next day, as well as offer customer pick-up at our state-of-the-art car vending machine locations (yes, you read that right). by putting customer satisfaction at the core of our business, we’ve built a no-pressure, no-haggle online car buying experience that save our customers time and money.
+for more information on carvana and our mission, sneak a peek at our company introduction video!
+ 
+job description:
+
+
+
+we’re looking for experienced engineers with a passion for tackling big problems. we’re veterans who know how to get things done, and are also charged with future-proofing our architecture and implementations to scale for years to come. the ideal candidate for this position has extensive frontend/web skills (javascript, jquery, html 5, css, react). 
+you have a solid grasp of our basic toolset (visual studio, tfs).  you are willing to learn new plug-ins and ide enhancements in order to boost your productivity and are excited to introduce us to new tooling experiences that have worked for you in the past.                                                                                                
+you bring discipline and care to implementation practices.  you are familiar with agile/scrum processes, grok common design patterns, embrace clean coding principles, frequently practice tdd, and employ many other techniques in an effort to bring a high level of software craftsmanship to your finished product. you see regular code reviews as opportunities to learn from and educate your talented peers, and you're excited to constructively participate.
+you will see your work have an immediate, scaled impact every day in a well-funded and rapidly growing company.
+
+
+
+
+
+
+responsibilities:
+you will create, maintain, and optimize source code for large web service and web applications using the above technologies. you will also be called upon to help design and build the next generation of enterprise applications to replace our legacy systems.
+ 
+in addition:
+
+participate end to end in the product life cycle: requirements gathering, solution design, development, testing, and implementation
+participate in peer discussions on architecture and overall direction of carvana platforms.
+work with team members to design solutions that are supported by the architecture of the existing systems.
+
+ 
+
+
+
+
+
+
+required skills and experience
+
+3+ years experience in web based front-end development (javascript, ajax, html 5, css, react).
+should be familiar with the dom, dom manipulation and the ins and outs of asynchronous web development including a strong javascript skillset
+some experience with .net 
+an understanding and experience in application security from the web service and web application perspective
+a good understanding of design patterns and n-tier architecture
+a bachelor’s degree or higher in related field, or professional experience working with related technologies
+strong debugging and troubleshooting skills
+good communication and collaboration skills
+carvana developers work very closely with strong supporting teams and require great interpersonal skills including a positive attitude and sense of humor
+
+ 
+ legal
+carvana is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+this role is not eligible for visa sponsorship.
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? if referred by employee, please list employee's name: *
+
+
+
+
+
+
+will you now or in the future require visa sponsorship? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

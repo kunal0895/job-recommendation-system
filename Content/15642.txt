@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+engineering.tomorrow.together.
+
+
+
+
+at thyssenkrupp we have more than 155,000 employees in nearly 80 countries and annual sales of €43 billion. we are active in automotive engineering, logistics, plant technology, steel production, elevator manufacturing and much more. we work in large and small businesses all around the world – but we always work together. we have over 200 years of experience in industry and the latest cutting-edge technology. we have a position that‘s right for you, that piques your interest, and that puts your skills to the test. 
+
+software development engineer
+
+
+thyssenkrupp elevator corp, atlanta, {region10525}
+
+
+we strive to make cities the best ever places to live, by advancing an industry that moves over 1 billion people each day. we are transforming our business by driving the industry norm and challenging ourselves, fostering a culture of internal and external collaboration, and building on our unique engineering capabilities to optimize existing and create new products and solutions for our customers that cater to real mobility needs. thyssenkrupp elevator brings together the group’s global activities in passenger transportation systems. with sales of 7.2 billion euros in fiscal 2014/2015 and customers in 150 countries, thyssenkrupp elevator built its position as one of the world’s leading elevator companies from scratch in a mere 40 years’ time applying thyssenkrupp unique engineering capabilities. with more than 50,000 highly skilled employees, the company offers smart and innovative products and services designed to meet customers’ individual requirements. the portfolio includes passenger and freight elevators, escalators and moving walks, passenger boarding bridges, stair and platform lifts as well as tailored service solutions for all products. over 900 locations around the world provide an extensive sales and service network to guarantee closeness to customers. thyssenkrupp elevator americas is the largest producer of elevators in the americas, with more than 15,500 employees, in over 230 branch and service locations. thyssenkrupp elevator americas oversees all business for the operations in the united states, canada, central and south america. it is a subsidiary of thyssenkrupp elevator ag. 
+
+your responsibilities
+
+thyssenkrupp elevator americas is currently seeking an experienced software development engineer ii in atlanta, ga.
+ 
+essential duties and responsibilities:
+ 
+
+works under general supervision, relies on limited instructions and pre-established guidelines
+follows pre-established guidelines to perform the functions of the job
+reports to supervisor or manager
+read requirements and specifications to correctly resolve problems and add/modify product features
+create and maintain software specific requirements in doors or similar requirement management systems
+create and maintain software design requirements and other related documentation
+design elevator software systems and components associated with elevator systems
+maintain software compliance with a17.1 code requirements
+implement new features based on customer or marketing specifications
+implement software solutions related to quality improvement, cost reductions, and new customer requirements
+assist other departments with software related questions and technical support
+perform other related duties and assignments as required
+ability to perform special projects and other duties as assigned with limited direction or guidelines
+ 
+
+
+your profile
+
+
+bachelor’s degree in electrical engineering, software engineering, computer science, or physics is required
+2+ years’ experience in engineering with a focus in embedded software systems or related field required
+embedded programming using the c and c++ software language
+working knowledge of embedded real time kernels or real time operating systems, and other embedded operating systems – greenhill’s integrity, linux, etc.
+possesses some domain knowledge in one or more of the following areas, elevator systems, drive systems, elevator related peripherals like touch screen devices, user interface design, internet based technologies
+working experience with requirement management systems like doors
+experience with html5, angular framework, and java script a plus
+working experience with defect tracking tools, such as fogbugz
+working experience with source control tools, such perforce
+multi-threaded application development experience preferred
+practical experience working with embedded hardware
+must have strong trouble shooting and problem solving skills
+must be able to work within multi-disciplinary teams
+must possess strong technical communication and customer service skills
+must possess strong decision making abilities and ability to work well with others
+fluent in microsoft office suite (word, excel, powerpoint, and outlook)
+must be able to closely follow instructions and pre-established procedures/sop to perform the functions of the job
+must possess strong decision making abilities and ability to work well with others
+fluent in microsoft office suite (word, excel, powerpoint, and outlook)
+must be able to closely follow instructions and pre-established procedures/sop to perform the functions of the job
+experience with hands on technical wiring and assembly of mechanical equipment is a plus
+requires working in lab and test tower, therefore all employees must be willing to adhere to all safety procedures and company safety standards
+all employees must adhere to corporate compliance policy and will be expected to handle themselves in a professional manner and exhibit responsible behavior
+requires working in lab and test tower, therefore all employees must be willing to adhere to all safety procedures and company safety standards
+all employees must adhere to corporate compliance policy and will be expected to handle themselves in a professional manner and exhibit responsible behavior
+reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions
+ 
+
+
+
+job-details
+
+{location}:  atlanta, {region10525}
+{timeframe}:  {permanent}
+{startdate}:  {startdateval}
+{workload}:  {ft salaried}
+{jobid}:  us_901745_et_tkelecp03734
+{state.label}: {state}
+
+
+
+about thyssenkrupp
+at thyssenkrupp we have more than 156,000 employees in nearly 80 countries and annual sales of €39 billion. we are active in automotive engineering, logistics, plant technology, steel production, elevator manufacturing and much more. we work in large and small businesses all around the world – but we always work together. we have over 200 years of experience in industry and the latest cutting-edge technology. we have a position
+		that‘s right for you, that piques your interest, and that puts your skills to the test.
+
+
+about thyssenkrupp elevator corp
+we strive to make cities the best ever places to live, by advancing an industry that moves over 1 billion people each day. we are transforming our business by driving the industry norm and challenging ourselves, fostering a culture of internal and external collaboration, and building on our unique engineering capabilities to optimize existing and create new products and solutions for our customers that cater to real mobility needs. thyssenkrupp elevator brings together the group’s global activities in passenger transportation systems. with sales of 7.2 billion euros in fiscal 2014/2015 and customers in 150 countries, thyssenkrupp elevator built its position as one of the world’s leading elevator companies from scratch in a mere 40 years’ time applying thyssenkrupp unique engineering capabilities. with more than 50,000 highly skilled employees, the company offers smart and innovative products and services designed to meet customers’ individual requirements. the portfolio includes passenger and freight elevators, escalators and moving walks, passenger boarding bridges, stair and platform lifts as well as tailored service solutions for all products. over 900 locations around the world provide an extensive sales and service network to guarantee closeness to customers. thyssenkrupp elevator americas is the largest producer of elevators in the americas, with more than 15,500 employees, in over 230 branch and service locations. thyssenkrupp elevator americas oversees all business for the operations in the united states, canada, central and south america. it is a subsidiary of thyssenkrupp elevator ag.
+
+
+your responsibilities
+thyssenkrupp elevator americas is currently seeking an experienced software development engineer ii in atlanta, ga.
+ 
+essential duties and responsibilities:
+ 
+
+works under general supervision, relies on limited instructions and pre-established guidelines
+follows pre-established guidelines to perform the functions of the job
+reports to supervisor or manager
+read requirements and specifications to correctly resolve problems and add/modify product features
+create and maintain software specific requirements in doors or similar requirement management systems
+create and maintain software design requirements and other related documentation
+design elevator software systems and components associated with elevator systems
+maintain software compliance with a17.1 code requirements
+implement new features based on customer or marketing specifications
+implement software solutions related to quality improvement, cost reductions, and new customer requirements
+assist other departments with software related questions and technical support
+perform other related duties and assignments as required
+ability to perform special projects and other duties as assigned with limited direction or guidelines
+
+
+
+your profile
+
+bachelor’s degree in electrical engineering, software engineering, computer science, or physics is required
+2+ years’ experience in engineering with a focus in embedded software systems or related field required
+embedded programming using the c and c++ software language
+working knowledge of embedded real time kernels or real time operating systems, and other embedded operating systems – greenhill’s integrity, linux, etc.
+possesses some domain knowledge in one or more of the following areas, elevator systems, drive systems, elevator related peripherals like touch screen devices, user interface design, internet based technologies
+working experience with requirement management systems like doors
+experience with html5, angular framework, and java script a plus
+working experience with defect tracking tools, such as fogbugz
+working experience with source control tools, such perforce
+multi-threaded application development experience preferred
+practical experience working with embedded hardware
+must have strong trouble shooting and problem solving skills
+must be able to work within multi-disciplinary teams
+must possess strong technical communication and customer service skills
+must possess strong decision making abilities and ability to work well with others
+fluent in microsoft office suite (word, excel, powerpoint, and outlook)
+must be able to closely follow instructions and pre-established procedures/sop to perform the functions of the job
+must possess strong decision making abilities and ability to work well with others
+fluent in microsoft office suite (word, excel, powerpoint, and outlook)
+must be able to closely follow instructions and pre-established procedures/sop to perform the functions of the job
+experience with hands on technical wiring and assembly of mechanical equipment is a plus
+requires working in lab and test tower, therefore all employees must be willing to adhere to all safety procedures and company safety standards
+all employees must adhere to corporate compliance policy and will be expected to handle themselves in a professional manner and exhibit responsible behavior
+requires working in lab and test tower, therefore all employees must be willing to adhere to all safety procedures and company safety standards
+all employees must adhere to corporate compliance policy and will be expected to handle themselves in a professional manner and exhibit responsible behavior
+reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions
+
+
+
+our offer to you
+we work together closely and respect each other, for over 200 years now and up till today. if that is just as important to you as it is to us, apply now!
+to learn more about thyssenkrupp in north america, please visit our website: https://www.thyssenkrupp-north-america.com
+
+
+
+our offer to you
+
+we work together closely and respect each other, for over 200 years now and up till today. if that is just as important to you as it is to us, apply now!
+to learn more about thyssenkrupp in north america, please visit our website: https://www.thyssenkrupp-north-america.com 
+
+
+									apply now								
+
+
+thyssenkrupp elevator corp. is an equal opportunity employer. applicants will receive consideration for employment without regard to age, sex, race, color, religion, national origin, genetics, disability, gender identity, marital status, sexual orientation, veteran status or any other protected characteristic required by applicable law.
+applicants with disabilities who require reasonable accommodation in connection with the application process are encouraged to contact us directly at 1-844-427-5461.
+
+
+
+
+
+engineering. tomorrow. together.
+
+
+
+
+
+contact details
+
+https://thyssenkruppelevator.com/contact-us
+  http://karriere.thyssenkrupp.com
+
+
+
+
+software development engineer
+thyssenkrupp elevator corp
+{location}: atlanta, {region10525}
+{timeframe}: {permanent}
+{startdate}: {startdateval}
+{workload}: {ft salaried}
+{jobid}: us_901745_et_tkelecp03734
+{state.label}: {state}
+
+
+{actions}
+
+
+								{apply}
+							
+
+
+
+
+{favori}
+
+
+
+
+{print}
+
+
+
+
+{mail}
+
+
+
+
+{linkedin}
+
+
+
+
+{xing}
+
+
+
+
+{whatsapp}
+
+
+
+
+{your-application-label}
+					{your-application}
+				
+
+{similarjobs}
+ 
+
+        software engineer i - iv
+
+thyssenkrupp elevator corp | georgia
+
+
+
+
+        intern - software engineer
+
+thyssenkrupp elevator corp | georgia
+
+
+
+
+        superintendent - service & repair
+
+thyssenkrupp elevator corp | georgia
+
+
+
+
+
+contact details
+
+https://thyssenkruppelevator.com/contact-us
+  
+
+
+
+
+																					{professionals-testimonial}
+								{testimonial-content}
+			
+
+
+
+
+engineering. tomorrow. together.
+
+
+
+software development engineer
+
+
+
+						at thyssenkrupp we have more than 156,000 employees in nearly 80 countries and annual sales of €39 billion. we are active in automotive engineering, logistics, plant technology, steel production, elevator manufacturing and much more. we work in large and small businesses all around the world – but we always work together. we have over 200 years of experience in industry and the latest cutting-edge technology. we have a position
+		that‘s right for you, that piques your interest, and that puts your skills to the test.					
+
+we strive to make cities the best ever places to live, by advancing an industry that moves over 1 billion people each day. we are transforming our business by driving the industry norm and challenging ourselves, fostering a culture of internal and external collaboration, and building on our unique engineering capabilities to optimize existing and create new products and solutions for our customers that cater to real mobility needs. thyssenkrupp elevator brings together the group’s global activities in passenger transportation systems. with sales of 7.2 billion euros in fiscal 2014/2015 and customers in 150 countries, thyssenkrupp elevator built its position as one of the world’s leading elevator companies from scratch in a mere 40 years’ time applying thyssenkrupp unique engineering capabilities. with more than 50,000 highly skilled employees, the company offers smart and innovative products and services designed to meet customers’ individual requirements. the portfolio includes passenger and freight elevators, escalators and moving walks, passenger boarding bridges, stair and platform lifts as well as tailored service solutions for all products. over 900 locations around the world provide an extensive sales and service network to guarantee closeness to customers. thyssenkrupp elevator americas is the largest producer of elevators in the americas, with more than 15,500 employees, in over 230 branch and service locations. thyssenkrupp elevator americas oversees all business for the operations in the united states, canada, central and south america. it is a subsidiary of thyssenkrupp elevator ag. 
+
+software development engineer
+
+
+atlanta
+
+
+
+your responsibilities
+
+thyssenkrupp elevator americas is currently seeking an experienced software development engineer ii in atlanta, ga.
+ 
+essential duties and responsibilities:
+ 
+
+works under general supervision, relies on limited instructions and pre-established guidelines
+follows pre-established guidelines to perform the functions of the job
+reports to supervisor or manager
+read requirements and specifications to correctly resolve problems and add/modify product features
+create and maintain software specific requirements in doors or similar requirement management systems
+create and maintain software design requirements and other related documentation
+design elevator software systems and components associated with elevator systems
+maintain software compliance with a17.1 code requirements
+implement new features based on customer or marketing specifications
+implement software solutions related to quality improvement, cost reductions, and new customer requirements
+assist other departments with software related questions and technical support
+perform other related duties and assignments as required
+ability to perform special projects and other duties as assigned with limited direction or guidelines
+ 
+
+
+your profile
+
+
+bachelor’s degree in electrical engineering, software engineering, computer science, or physics is required
+2+ years’ experience in engineering with a focus in embedded software systems or related field required
+embedded programming using the c and c++ software language
+working knowledge of embedded real time kernels or real time operating systems, and other embedded operating systems – greenhill’s integrity, linux, etc.
+possesses some domain knowledge in one or more of the following areas, elevator systems, drive systems, elevator related peripherals like touch screen devices, user interface design, internet based technologies
+working experience with requirement management systems like doors
+experience with html5, angular framework, and java script a plus
+working experience with defect tracking tools, such as fogbugz
+working experience with source control tools, such perforce
+multi-threaded application development experience preferred
+practical experience working with embedded hardware
+must have strong trouble shooting and problem solving skills
+must be able to work within multi-disciplinary teams
+must possess strong technical communication and customer service skills
+must possess strong decision making abilities and ability to work well with others
+fluent in microsoft office suite (word, excel, powerpoint, and outlook)
+must be able to closely follow instructions and pre-established procedures/sop to perform the functions of the job
+must possess strong decision making abilities and ability to work well with others
+fluent in microsoft office suite (word, excel, powerpoint, and outlook)
+must be able to closely follow instructions and pre-established procedures/sop to perform the functions of the job
+experience with hands on technical wiring and assembly of mechanical equipment is a plus
+requires working in lab and test tower, therefore all employees must be willing to adhere to all safety procedures and company safety standards
+all employees must adhere to corporate compliance policy and will be expected to handle themselves in a professional manner and exhibit responsible behavior
+requires working in lab and test tower, therefore all employees must be willing to adhere to all safety procedures and company safety standards
+all employees must adhere to corporate compliance policy and will be expected to handle themselves in a professional manner and exhibit responsible behavior
+reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions
+ 
+
+
+our offer to you
+
+we work together closely and respect each other, for over 200 years now and up till today. if that is just as important to you as it is to us, apply now!
+to learn more about thyssenkrupp in north america, please visit our website: https://www.thyssenkrupp-north-america.com 
+
+
+								apply now							
+
+
+thyssenkrupp elevator corp. is an equal opportunity employer. applicants will receive consideration for employment without regard to age, sex, race, color, religion, national origin, genetics, disability, gender identity, marital status, sexual orientation, veteran status or any other protected characteristic required by applicable law.
+applicants with disabilities who require reasonable accommodation in connection with the application process are encouraged to contact us directly at 1-844-427-5461.
+
+
+
+contact details
+
+https://thyssenkruppelevator.com/contact-us
+  http://karriere.thyssenkrupp.com
+
+
+
+
+
+
+
+
+
+
+
+
+

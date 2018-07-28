@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+        algorithm engineer - machine learning - seal 1536 - georgia tech research institute
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+algorithm engineer - machine learning - seal 1536
+
+
+
+
+
+
+job number:
+
+
+1536
+
+
+
+
+
+job classification:
+
+
+research faculty
+
+
+
+
+areas of expertise:
+
+
+data science; radar; rf; other
+
+
+
+
+functional roles:
+
+
+algorithm development; modeling/simulation; researcher; signal processing; other
+
+
+
+
+degree:
+
+
+bachelor's; master's; phd
+
+
+
+
+field of study:
+
+
+computer engineering; computer science; electrical engineering; mathematics; physics; other
+
+
+
+
+rank:
+
+
+research engineer i (rei); research engineer ii  (reii); research scientist i  (rsi); research scientist ii  (rsii)
+
+
+
+
+
+professional areas:
+
+
+all
+
+
+
+
+
+
+location:
+
+
+smyrna, ga
+
+
+
+
+
+
+job type:
+
+
+all
+
+
+
+
+
+
+close date:
+
+
+05/31/2018
+
+
+
+
+
+
+labs/support units:
+
+
+sensors & electromagnetic applications laboratory (seal)
+
+
+
+
+
+
+
+
+
+description:
+
+
+
+
+
+
+job description: 
+the intelligence, surveillance, and reconnaissance division within georgia tech research institute’s sensors & electromagnetic applications laboratory (gtri-seal) is looking for a researcher with experience in machine learning and knowledge or interest in signal processing. the candidate will contribute to projects that require integration of machine learning techniques with advanced signal processing, adaptive sensor technologies, advanced algorithms, and modeling/simulation. applications include airborne radar, electronic warfare, and undersea systems. 
+ 
+
+
+
+
+required
+
+us citizenship and ability to obtain a u.s. security clearance
+bachelor’s degree in electrical engineering, computer science, physics, mathematics, or a similar related field.
+master’s degree in a related field, or intent to earn one in the near future
+experience with machine learning techniques, algorithms, and related development environments
+ability to work individually and as part of a team
+ability to work in a research environment with many unknowns and undiscovered paths
+
+preferred
+
+master’s or ph.d. degree in electrical engineering, computer science, physics, mathematics, or a similar related field
+experience with radar, electromagnetics, signal processing, acoustics, control theory, image processing, optimization
+existing u.s. security clearance
+excellent verbal and written communication skills
+programming in matlab
+
+ 
+other: candidate must be a us citizen capable of holding a secret dod security clearance; active clearance a major plus.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

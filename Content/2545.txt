@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer, full-stack at capital one - us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+usa
+united kingdom
+canada
+
+
+
+
+
+
+
+
+menu
+        
+
+
+
+
+
+teams & roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+life at capital one
+
+overview
+benefits
+inclusion
+military
+
+
+campus careers
+
+
+
+saved jobs
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer, full-stack
+apply now
+save
+job id r38245 updated date 11/17/2017
+location plano, texas
+plano 5 (31065), united states of america, plano, texasat capital one, we’re building a leading information-based technology company. still founder-led by chairman and chief executive officer richard fairbank, capital one is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. we measure our efforts by the success our customers enjoy and the advocacy they exhibit. we are succeeding because they are succeeding.                                               guided by our shared values, we thrive in an environment where collaboration and openness are valued. we believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. we elevate each other and obsess about doing the right thing. our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. together, we are on a quest to change banking for good.software engineer, full-stackdo you want to work for a tech company that writes its own code, develops its own software, and builds its own products? we experiment and innovate leveraging the latest technologies, engineer breakthrough customer experiences, and bring simplicity and humanity to banking. we make a difference for 65 million customers.at capital one, you'll be part of a group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. we want you to be curious and ask “what if”?as a capital one software engineer, you'll work on everything from customer-facing web and mobile applications using cutting-edge open source frameworks, to highly-available restful services, to back-end systems using the hottest techniques in big data.  you will drive the design, implementation, testing, deployment, and post-release support in an agile application development environment. you will execute on engineering and release priorities successfully through strong leadership and communication. whether a bug fix or an awesome feature, you will own your work and deliver the most elegant and scalable solutions.responsibilities:- work as part of forward leaning team of makers to design and develop software solutions- research competing platforms and contribute to the product development process- drive innovation through rapid prototyping and iterative development- identify and enable adoption of new technologies and patterns particularly in public cloud, api and web frameworks- demonstrate strong technical ability, awareness and track record of proposing and integrating technologies and solutions- maintain all-round view of solution, understanding both business and technical challenges and also both functional and non-functional needs of solution- provide technical leadership to the design, development/implementation, and testing of business solutions, integrating legacy and new technologies- work with the developers, quality engineers product managers and subject matter experts to design and develop end-to-end solution options- develop and recommending novel and innovative approaches to solving business and technical problems.- focus massively on delivering with speed and quality- keep up-to-date on new technology, standards, protocols and tools in areas relevant to the rapidly changing digital environment- apply sound dev ops and automation best practices- prepare and present potential technical solutions and advising the business on the technical and business value of the proposition- actively participate in internal and external communities of practicewho you are:you yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive schedulesomeone who is not intimidated by challenges; thrives even under pressure; is passionate about their craft; and hyper focused on delivering exceptional resultsyou love to learn new technologies and mentor junior engineers to raise the bar on your teamit would be awesome if you have a robust portfolio on github and / or open source contributions you are proud to sharepassionate about intuitive and engaging user interfaces, as well as new/emerging concepts and techniques in web designbasic qualifications:at least 3 years of hands-on experience in software engineeringat least 2 years of current experience with java developmentat least 2 years experience in jvm based web application developmentat least 2 years experience in html5 and cssat least 3 years of experience in api developmentat least 2 years of experience using angularjs or at least 2 years of experience with javascript preferred qualifications:bachelors degree or military experience3 +years of experience in javascript5+ years of current experience with java development5+ years of experience in object-oriented and functional programming in java and javascript2+ years of experience building restful web services with server-side frameworks2+ years of experience working with nosql and distributed storage technology including hadoop, hbase, cassandra, elasticsearch, and redis1+ year of experience with microservices architecture1+ year of experience with front end technology stack, such as react.js/angularjs and babel/typescript1+ year of experience with scala and groovy languages1+ year of experience in aws or similar cloud computing environments with infrastructure and configuration management toolsat this time, capital one will not sponsor a new applicant for employment authorization for this position.no agencies please.  capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. capital one promotes a drug-free workplace.  capital one will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, article 23-a of the new york correction law; san francisco, california police code article 49, sections 4901-4920; new york city’s fair chance act; philadelphia’s fair criminal records screening act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at 1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.for technical support or questions about capital one's recruiting process, please send an email to careers@capitalone.comcapital one does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.capital one financial is made up of several different entities. please note that any position posted in canada is for capital one canada, any position posted in the united kingdom is for capital one europe and any position posted in the philippines is for capital one philippines service corp. (copssc).
+apply now
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+
+our location
+
+
+
+
+
+job alerts
+sign up here for job alerts and other communications from capital one.
+email addressinterested inselect a job category from the list of options. select a location from the list of options. finally, click “add” to create your job alert.job category*select a job categoryanalyticsbrand/marketingbusiness bankingcafécafé ambassadorcafé coachcampus opportunitiescommercial bankingcompany builderscustomer advocatescustomer caredata engineeringdata sciencedesigndevopsengineeringfinanceinformation technologyinvestinglegalmachine learningmarket leadmclean data engineeringmclean devopsmclean engineeringmclean machine learningmclean softwareoperationspeople & workplacepersonal bankingproduct innovatorsproduct managementproject/process managementrisk management/auditsalessoftware engineeringstrategytechnology explorerstechnology operationsstate*select locationalabama, united statesarizona, united statescalabarzon, philippinescalifornia, united statescolorado, united statesconnecticut, united statesdelaware, united statesdistrict of columbia, united statesengland, united kingdomflorida, united statesgeorgia, united statesillinois, united statesindiana, united stateskansas, united stateslouisiana, united statesmaryland, united statesmassachusetts, united statesmichigan, united statesminnesota, united statesmississippi, united statesmissouri, united statesnebraska, united statesnevada, united statesnew jersey, united statesnew york, united statesnorth carolina, united statesohio, united statesoklahoma, united statesontario, canadaoregon, united statespennsylvania, united statesquebec, canadasouth carolina, united statestennessee, united statestexas, united statesutah, united statesvirginia, united stateswashington, united stateswisconsin, united statesaddinformation technology, plano, texas, united statesremoveengineering, plano, texas, united statesremovetechnology explorers, plano, texas, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+*required field
+
+
+
+
+similar jobs
+
+
+information security consultant--director
+plano, texas
+
+
+av support specialist
+plano, texas
+
+
+manager software engineering
+plano, texas
+
+
+
+
+
+
+
+
+
+keywords
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+match jobs to your linkedin profile.
+
+welcome back, login
+
+
+
+
+
+
+
+
+our take on interviews
+
+
+
+
+
+
+
+investing in communities
+
+
+
+
+
+
+
+more than just a bank
+
+
+
+
+
+
+
+
+
+facebook
+linkedin
+instagram
+twitter
+youtube
+glassdoor
+
+
+
+legal
+
+privacy
+security
+terms & conditions
+patriot act cert. *
+service members civil
+relief act
+
+member fdicequal housing lender
+
+
+capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. capital one promotes a drug-free workplace.
+all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, sexual orientation, gender identity, protected veteran status, disability or other protected status.
+if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at  1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+capital one is a federally registered service mark. all rights reserved. blank check® is a registered trademark of capital one services, llc. capital one does not provide, endorse, nor guarantee and is not liable for third party products, services, educational tools, or other information available through this site.
+fortune and fortune 100 best companies to work for are registered trademarks of time inc. and are used under license. from fortune magazine, march 15, 2017 ©2017 time inc. used under license. fortune and time inc. are not affiliated with, and do not endorse products or services of, capital one financial corporation.
+*plugins required [adobe®reader®]
+e-verify® is a registered trademark of the u.s. department of homeland security 
+
+
+this link opens in new tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

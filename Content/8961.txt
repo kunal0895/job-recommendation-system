@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist | impetus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+                                    solutions
+                                    
+
+
+data warehouse modernization
+
+streamanalytix & visual spark studio
+
+
+big data services
+
+
+
+
+                                    resources
+                                    
+
+
+events
+
+webinars
+
+white papers
+
+case studies
+
+solution briefs
+
+reports
+
+videos
+
+
+
+
+                                    company
+                                    
+
+
+about us
+
+partners
+
+industry buzz
+
+
+careers
+contact us
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ data scientist
+
+
+
+
+
+
+
+
+
+
+location:
+  dallas 
+
+
+
+qualification:
+  master’s in computer science, statistics, management or related technical fields
+
+
+
+experience:
+ 8-15 years of experience
+
+
+
+technology:
+   
+                                    big data                                    
+                                    
+
+
+
+role/skills:
+
+the data scientist will be responsible for modelling and analysis of big data for mining of useful patterns used for business and other purposes. he should be able to take data, to be able to understand it, visualize it, process it, extract value from it and communicate it. he will have a customer facing role with possible involvement in presales activities
+
+experience in analyzing massive and complex structured and unstructured data sets.
+ability to extract, and clean data, visualize it, communicate it and utilize it.
+8+years’ relevant experience with data mining/business intelligence/statistics/data analysis.
+practical experience with building analytical/statistical/mathematical algorithms such as predictive modeling, optimization, simulation, segmentation analysis, multiple regression and market mix modeling.
+strong ability and experience in crisp and powerful data visualizations methods and tools.
+excellent analytical, logical reasoning and problem solving skills.
+
+
+
+
+
+responsibilities:
+ 
+derive insights out of ambiguity - understand, process and interpret complex data.
+analyze complex business data and identify patterns in the data using algorithms from statistics and machine learning.
+develop and improve algorithms and methodologies to handle, browse, process and visualize structured and unstructured data.
+create powerful data visualizations for business stakeholders.
+communicate quantitative analysis in a clear, precise and actionable business-friendly language.
+explore and develop relevant business use cases with clear objectives and realization approaches.
+researching and implementing new algorithms data analysis.
+build knowledge and share via white papers, webinars, case studies and other marketing communications.
+
+
+
+
+personal attributes:
+ 
+degree in computer science, statistics, management or related technical fields. master’s required. phd preferred.
+exposure in few of r/sas/matlab/octave/mahout/excel/ with proficiency in one. proficiency in r a big plus.
+knowledge of hadoop (and other big data technologies), sql and java/c/c++ is desirable.
+
+
+
+
+
+
+                                    share:
+                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position 
+
+
+
+name *
+
+
+
+email *
+
+
+
+phone 
+
+
+
+preferred location 
+- none -usasilicon valleycanew yorknew jerseylos gatosbrookfield, wiatlanta
+
+
+upload resume 
+
+
+files must be less than 2 mb.allowed file types: pdf doc docx.
+
+
+linkedin profile id 
+
+
+
+message 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+services
+
+big data analytics
+
+
+
+
+products
+
+streamanalytix
+data blending
+
+
+
+resources
+
+events
+webinars
+white papers
+case studies
+solution briefs
+reports
+videos
+
+
+
+company
+
+about us
+partners
+industry buzz
+contact us
+
+
+
+careers
+
+
+openings
+
+why impetus
+life at impetus
+photo gallery
+
+
+
+connect with us 
+
+linkedin
+ twitter
+facebook
+
+
+
+
+
+
+
+
+
+               © 2017 impetus technologies, inc. all rights reserved.
+              
+
+legal |  sitemap
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,304 @@
+
+
+
+
+job application for front end engineer at pantheon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+front end engineer
+
+        at pantheon
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+company
+pantheon powers the world's professional websites. our multi-tenant, container-based cloud platform enables businesses to run mission-critical drupal & wordpress websites. developers, marketers, and it professionals can instantly scale in response to unplanned traffic spikes, without upgrading vms or clusters. large enterprises use pantheon, including intel, cisco, arizona state university, and the united nations. 
+we value teamwork, humor and hard work balanced with solid social time together throughout the day. we're enthusiastic participants in several open-source communities and have real relationships with many of our most active customers and that's where you come in.
+role
+pantheon is currently looking for a motivated, proactive and energetic individual to join the company's engineering team as a full-time employee that thrives in the confluence of interface design and software engineering.
+responsibilities
+your primary responsibility will be to collaborate with a small team that brings together product, design and engineering expertise to create and implement awesome, efficient user experiences. this will require your previous experience orchestrating javascript, html, css and apis to meet product requirements, achieve design goals and strive for technical excellence.
+generally, you will be involved in:
+
+development of new and evolving user-facing features
+establishing reusable code, libraries, and patterns
+ensuring the technical feasibility of product requirements and interface designs
+optimization of client-side concerns for durability, speed, and scalability
+working across teams to share architecture, evolve engineering standards, introduce testing approaches, mentor peers and celebrate our wins.
+supporting production operations and provide engineering level insight on platform issues.
+
+specifically, you will have opportunities to:
+
+implement mission-critical user controls for a complex hosting platform
+deliver cloud-based development environments and tools for professional web teams
+build user interfaces for the web and command-line power tools
+tackle challenges in building real-time interfaces for teams working in parallel
+
+growth opportunities
+engineering at pantheon operates in small mission-focused teams that are tasked with large business problems and armed with a fully capable set of engineering skills. they dig in, understand the problem and find the optimal path to success. you’ll have the opportunity to contribute at all levels of the stack -- and we mean the kernel tweaking to feature design kind of full-stack.
+we’ve got depth and breadth across the technologies we use to run the pantheon platform at scale.  you’ll have many opportunities to pickup and apply new skills and gain professional experience with some of our existing use of cassandra, mysql, redis, backbone, node.js, python, ruby, golang, c, chef, amazon swf, amazon s3, google cloud platform, kubernetes, docker, circleci, and more.
+qualifications
+
+experience with modern javascript frameworks like backbone, angular, react
+experience tangling (and untangling) markup, styles and behaviors appropriately
+experience building, maintaining and iterating on web applications employing backend apis
+experience with ddd, bdd, tdd and other effective product development strategies
+experience with unit, functional, integration and end-to-end testing strategies
+experience with front-end build pipeline tooling such as npm, bower, grunt, gulp, sass
+excited about working collaboratively, with different teams, on different parts of the product
+2-4 years of front-end web application development experience
+excellent verbal and written communication skills
+
+bonus points for:
+
+full-stack development experience
+mobile and/or responsive implementation experience
+accessibility principles
+front-end performance profiling and optimization
+familiar with good system design patterns and ha/scalable architectures
+loves to pair on difficult challenges with teammates
+strong opinions weakly held
+open source contributions
+drupal and/or wordpress development experience
+
+what we can offer you….
+we have all the usual perks and benefits but what we can really offer you is a fantastic work environment powered by an amazing team.
+pantheon's engineering team contributes to many open source projects, including fedora, systemd, sensu, and drupal. our core mission is based on open source content management systems, and our stack is built upon open source.  see more about our contributions at https://getpantheon.com/opensource
+oh yeah...here are a few other things we offer as well:
+
+industry competitive salary.
+stock options.
+vacation days and time off.
+full medical coverage (medical, dental, vision).
+top-of-line equipment.
+fun at drupal community events.
+discounts on custom bicycles - the founders of pantheon also founded mission bicycle.
+dog-friendly office.
+training stipend to attend industry conferences.
+fully stocked kitchen with lunches provided.
+
+notes:
+* this is a full-time onsite position at our offices in san francisco, ca.* visa sponsorship is not available at this time.* we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.* pantheon complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+do you, or will you require sponsorship to work in the us? *
+
+
+
+
+
+
+personal pronoun
+    
+it's important to pantheon that we gender our applicants correctly, please include your personal pronoun, thanks!
+
+
+please selecthe/him/his
+she/her/hers
+they/them
+zir/zer/zers
+other
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

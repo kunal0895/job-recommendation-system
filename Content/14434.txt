@@ -1,0 +1,180 @@
+
+
+
+
+
+
+nautilus, inc. - career opportunities
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+location:
+vancouver, wa
+
+
+division:
+it  (information technology)
+
+
+requisition number:
+2100
+
+
+number of openings:
+1
+
+
+
+description
+at nautilus, fitness isn’t just a job, it’s our passion.  we strive to improve the health and wellbeing of everyone who works with us because we see the benefits of a happier, more productive, engaged and creative workforce.  our culture is one that promotes work life balance; offers continuing education on topics ranging from improving workplace skills to better financial security; and promotes the importance of getting involved and giving back to the community.
+we're a leading marketer and developer of health and fitness products with some of the most recognized brands in the industry, including nautilus®, bowflex®, octane fitness®, schwinn® fitness and universal®.   we are currently recruiting for a software engineer to join our it team at our headquarters in vancouver, wa. 
+ 
+summary
+in this role, an individual will be expected to understand functional requirements to design and develop new functionalities while understanding and enhancing existing modules in a fast-paced, cloud-centric environment. communicating effectively and collaborating extensively in a cross-functional team environment, an individual in this role needs to operate with a sense of urgency and exhibit pride and ownership to create top-quality solutions, optimally aligned with the evolving needs of the organization.
+ 
+essential duties and responsibilities include the following. 
+
+acquire a complete and thorough understanding of the nautilus business systems.
+coordinate with business owners and analysts to develop a thorough understanding of the detailed requirements for new or existing processes.
+design, code and unit test changes per specifications.
+provide alternate solutions pertinent to business needs.
+build and deploy changes to different environments in sprint/release cycles.
+post-deployment, support the changes in the production environment.
+
+all employees are expected to perform any reasonable work requested that falls within the qualification but not specifically described.
+ 
+qualifications & experience
+to perform this job successfully, an individual must be able to perform each essential duty satisfactorily.  the requirements listed below are representative of the knowledge, skill, and/or ability required.  reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+degree in computer science.
+2+ years of software development experience in a cloud-centric environment.
+2+ years of experience in customizing netsuite using suitescript 1.0/2.0
+2+ years of integration experience using web services, restlets
+ability to analyze requirements and design scalable, robust solutions.
+
+
+excellent verbal and written communication skills.
+ability to deal effectively with a rapidly changing environment.
+
+ 
+preferred qualifications
+
+development experience in microsoft .net and c#
+working knowledge of rdbms, preferably sql server 2012+
+conversant with various sdlc methodologies
+familiarity with version control system, preferably github
+familiarity with aws
+
+ 
+we offer a competitive benefits package including medical, dental, 401(k) match, espp, life & accident insurance, disability insurance, paid vacation and holidays, wellness program, tuition reimbursement, product discounts and free use of our employee fitness center for yourself and spouse. 
+nautilus is an equal opportunity employer and is committed to diversity in its workforce. in demonstration of our commitment to a healthier lifestyle, we are proud to be a smoke-free campus.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copyright © 2016. nautilus, inc.  all rights reserved. contact us
+
+
+
+
+

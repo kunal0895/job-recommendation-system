@@ -1,0 +1,152 @@
+
+
+
+
+connexity careers - sr. software engineer - big data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    connexity careers                                            
+
+
+
+
+
+
+
+                sr. software engineer - big data
+    
+    
+
+                            data            
+                                                los angeles,
+                                        united states
+                                                
+                                        camarillo,
+                                        california
+                                                
+                                        san diego,
+                                        united states
+                            
+                        
+
+
+
+        apply
+    
+
+
+description
+
+position at connexity
+
+
+in the connexity audience solutions data science group, we build and maintain the analytic machinery (pipelines and processes) that generates and optimizes audiences for our clients.  we ingest big data (~100bs of records) and use machine learning methods to guarantee that the right consumers see the right advertisements.  we’re a small team, focused on creating big value across connexity’s audience products.we’re looking for a senior software engineer, a magical hybrid of quant and engineering disciplines, to join us in advancing the development of new and existing analytic audience products.  if you are passionate about data and solving business challenges with math and software development…if you want to move the needle by building, owning, and maintaining the production systems that directly drive revenue…if you’ve got the multidisciplinary chops for this business value-oriented role…then we should talk. responsibilitiestranslate business challenges into analytic frameworks and apply data operations and machine learning methods to massive data sets to create business value.rapidly architect, research, design, prototype, and implement scalable, efficient, analytic solutions.design and implement measurement instrumentation for method evaluation, monitoring, and optimization.work independently, but also collaborate within data science team and with other engineers and stakeholders. qualificationsminimum of 5 years software development experience.deep understanding of computer science, especially data structures and algorithm design.knowledge of theory and application of {machine learning, data mining, and statistics} methods for large, complex data sets. experience owning the complete modeling life cycle from data exploration, feature management, model building, and evaluation.experience with big data tools (map/reduce, hadoop, hive, spark, etc.).fluency with one or more high-level programming languages (python, scala, java, c, c++)ability to build quick prototypes to demonstrate value – and then improve them.proficiency in linux (shell tools, scripting, and basic admin).ability to communicate complex ideas in data science to relevant stakeholders.excellent organization skills and attention to detail.collaborative, positive attitude with desire to work in a demanding, fast-paced, and dynamic work environment.strong problem-solving skills with focus on business value creationself-sufficiency to understand problems and frame/execute their solutions.leadership, passion, and curiosity.prior experience in the domain of ad tech or online retail is a plus.headquartered in los angeles, we operate sites and business services in the united states, the united kingdom, italy, germany, australia! we offer top benefits including flexible time off, casual work environment, parental leave, competitive comp, free lunch and much more! 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

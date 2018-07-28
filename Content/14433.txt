@@ -1,0 +1,750 @@
+
+
+
+
+
+
+		software developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+software developer
+engineering – beaverton, oregon
+
+
+apply for this job
+
+
+
+
+department
+engineering
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+compensation
+salary based on experience
+
+
+
+
+
+
+
+
+
+
+nvoicepay’s state-of-the-art technology is boldly changing payments by providing straightforward, flexible interface that automates payment optimization – which saves our customers money and valuable resources. our growing business offers our team exciting challenges and opportunities to develop, collaborate and create daily. we hire team players who want to be part of something exceptional and are looking to focus on the customer and innovative solutions.
+senior software developerdevelopment • nvoicepay headquarters, beaverton, or (this is not a remote job/no relocation package offered)
+role description the senior software developer is responsible for implementing cloud-based desktop, web, and mobile solutions with microsoft’s windows azure cloud computing technology. the ideal candidate will have a deep knowledge of the microsoft.net technology stack be a self-motivated, technically-adept team player. it is important that they be a creative, solutions-based programmer with strong communication, collaboration and development skills who takes great pride in their work.
+required skills• 5+ years of .net c# and web development experience required• bachelor's degree in computer science or related field or equivalent experience required• excellent skills in microsoft technologies, including c#, asp.net, microsoft .net framework• excellent skills in javascript, ajax, jquery, css, css3, and html5, xml, soap, rest api, web services• skills in database technologies (microsoft sql server or oracle) including database development (t-sql or pl/sql)• ability to reach synergy with development team
+preferred skills• excellent knowledge of web architectural and design patterns• solid working knowledge of current technologies including object-oriented analysis and design practices (object modeling, use cases, activity diagrams, and uml).• azure storage• azure paas hosting• asp.net mvc• expression blend• wp7/monotouch/monoandroid• payment industry experience• knowledge of sdlc methodologies (agile, cmm, scrum, lean, etc.)
+qualifications5+ years of development experiencedemonstrated team focus that drives you to forward-thinking process and solutionsstrong communication skills (both verbal and written), and ability to effectively work within a teamrequires strong technical, people and solution-evaluation skills and knowledge of security best practices
+working for nvoicepaynvoicepay is a profitable, growing company that values people. we offer a many perks outside of the challenging and satisfying work– a new facility near portland, oregon; competitive pay and paid benefits; generous time off policy; flexible dress code; snack and drink pantry; and much more. our environment is comfortable and welcoming with many common areas and the ability to communicate and solve problems across departments. we are proud of the work we do to help other companies but also value work-life balance. 
+nvoicepay is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, ancestry, age, veteran status, disability, or any other protected class.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+college/university
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+references (name, company, and contact info)
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+beaverton, oregon
+
+
+department
+engineering
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+compensation
+salary based on experience
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

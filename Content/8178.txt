@@ -1,0 +1,675 @@
+ 
+
+
+
+bae systems: data scientist in buckley afb, co, united states (29823br)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+this website uses cookies. by navigating around this site you consent to cookies being stored on your machine
+
+accept
+edit your cookie settings
+
+
+ 
+
+
+
+
+skip to content
+
+
+search input
+search button
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+united states
+
+
+
+
+select your region
+
+ international
+
+
+
+ united kingdom
+
+
+
+ united states
+
+
+
+ saudi arabia
+
+
+
+
+
+
+
+							english
+							
+
+
+
+
+
+							ø§ùø¹ø±ø¨ùø©
+							
+
+
+
+
+
+
+ australia
+
+
+
+
+
+
+ 
+
+
+
+providing defense for business 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+multimedia
+contact us
+
+
+search input
+search button
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home 
+  what we do 
+
+
+
+
+products & services 
+
+future technologies
+
+
+air
+
+
+land
+
+
+cyber security & intelligence
+
+
+electronics
+
+
+services
+
+
+sea
+
+
+
+
+
+
+
+
+ suppliers 
+
+
+working with suppliers 
+													
+
+
+
+our key markets 
+													
+
+
+
+australia 
+													
+
+
+
+india 
+													
+
+
+
+saudi arabia 
+													
+
+
+
+united kingdom 
+													
+
+
+
+united states 
+													
+
+
+
+
+
+
+
+
+ our company 
+
+
+
+
+bae systems, inc. 
+
+
+about us 
+													
+
+
+
+community investment 
+													
+
+
+
+products & services 
+													
+
+
+
+newsroom 
+													
+
+
+
+us suppliers 
+													
+
+
+
+special security agreement 
+													
+
+
+
+
+
+our people 
+
+
+inc. board of directors 
+													
+
+
+
+inc. leadership 
+													
+
+
+
+board of directors 
+													
+
+
+
+executive committee 
+													
+
+
+
+
+
+corporate responsibility 
+
+
+code of conduct 
+													
+
+
+
+
+
+
+
+
+ inc. businesses 
+
+
+electronic systems 
+													
+
+
+
+intelligence & security 
+													
+
+
+
+platforms & services 
+													
+
+
+
+
+ our locations  
+
+ education  
+
+
+
+
+
+ investors  
+
+ newsroom 
+
+
+
+
+features 
+
+ investing in the next generation of engineers
+
+
+
+ their mission. our promise.
+
+
+
+ space resiliency:
+	navigating the space above
+
+
+
+
+
+
+
+
+
+ news 
+ 
+
+bae systems to help u.s. treasury investigate, track cash flow of organizations to protect national security
+may 10 2017
+
+
+
+
+2017 annual general meeting
+may 10 2017
+
+
+
+
+usafâs f-15 modernization program epawss successfully completes latest milestone
+may 1 2017
+
+
+
+
+
+ events 
+
+
+special operations forces industry conference (sofic) 
+may 15 - 18 2017 | tampa, fl, united states of america
+
+
+
+
+
+2017 geoint symposium
+jun 4 - 7 2017 | san antonio, tx , united states of america
+
+
+
+
+
+
+
+
+
+
+ careers 
+
+
+
+
+exploring your career at bae systems 
+
+
+career areas 
+													
+
+
+
+experienced professionals 
+													
+
+
+
+veterans 
+													
+
+
+
+interns and recent graduates 
+													
+
+
+
+
+
+
+
+
+ search jobs  
+
+ life at bae systems 
+
+
+inspired work 
+													
+
+
+
+benefits 
+													
+
+
+
+diversity 
+													
+
+
+
+talent referral program 
+													
+
+
+
+
+
+
+
+
+multimedia
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+careerssearch & applyjob results data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+search & apply
+
+search & apply
+
+
+ search jobs  
+ view events  
+ internship search  
+ life at bae systems 
+ exploring your career at bae systems  
+ create your profile  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job title: data scientist
+
+
+alternate job title: geospatial anst sr
+job id: 29823br
+posting date: 2017-07-26
+travel percentage: <10%
+
+
+
+
+location: buckley afb, co  80011-9599
+us citizenship required: yes
+shift: 1st shift
+required security clearance: ts/sci
+
+
+
+
+
+
+apply now
+         
+        back to results
+
+start new search
+
+
+
+job description:
+to be considered for this opportunity, candidates must have an active security clearance and willing to complete a polygraph. as a data scientist, you will leverage knowledge of data science, methodologies, and processing techniques to perform predictive analytics in the geospatial analysis domain.  the candidate will possess knowledge in applied mathematics, to include: statistical analysis, temporal and pattern analysis, correlation of events, predictive probability analysis, and regression testing. the candidate will employ programming skills to perform analysis leveraging visual basic and/or python scripting.  the candidate will document and visualize data both temporally and spatially, and present data to managers.  ad-hoc informational briefings may also be required to explain methodologies and analytical findings to peers and customer stakeholders.  the candidate will also investigate and implement new scientific analysis and methodologies to support big data analytics efforts and stay current with evolving technologies and capabilities.
+
+minimum education and experience:
+bachelor's degree and 5 years work experience or equivalent experience
+
+required skills and education:
+required education: high school/ged or bachelor's degree, depending on level of position.  skills: candidates must possess excellent oral and written communication skills and will interact with team members, customer representatives, external customers, and functional peer groups. candidate must have experience briefing customers, and have excellent writing skills to develop formal written reports.    
+
+about bae systems intelligence & security:
+bae systems is a premier global defense and security company with approximately 90,000 employees delivering a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support and services. information solutions, based in reston, virginia, is among the 10 largest it providers to the u.s. government, serving most of the federal defense and civilian marketplace. it provides network-centric command, control, computing, and intelligence (c3i) solutions; wideband networking radio systems; information systems for the u.s. intelligence community; geospatial information services; and information technology services. leveraging its knowledge of signals and data derived from signals, information solutions has attained a market-leading position in advanced information technology research, intelligence analysis and production, and geospatial exploitation software. equal opportunity employer/females/minorities/veterans/disabled/sexual orientation/gender identity/gender expression
+
+ 
+
+apply now
+         
+        back to results
+
+start new search
+
+ 
+
+
+
+
+
+
+
+print
+
+
+
+
+
+
+
+	search & apply
+
+
+
+search jobs
+check your application status (login required)
+life at bae systems
+exploring your career at bae systems
+veterans
+diversity
+benefits
+
+
+
+
+
+
+
+
+
+
+accessibility accommodations
+
+if you require an accommodation to navigate or apply to our career site, please send your request to: accessibility@baesystems.com or call 1-855-541-4654 or fax 704-541-4401.
+scam alert: bae systems always has great job opportunities, and apparently scammers think so too. donât be fooled by a scammer! during our recruitment process, bae systems will not: (1) ask you for money; (2) offer to send you a check before doing any work; (3) require you to provide sensitive personal information, like your driverâs license or social security number (this happens later as part of the background check process); or (4) send you emails from free email accounts such as yahoo, gmail, hotmail, and others. if you believe you have been scammed, please contact local law enforcement. please see further guidance from the u.s. federal trade commission.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility
+terms & conditions
+privacy
+sitemap
+
+copyright â© 2017 bae systems. all rights reserved
+
+
+
+
+
+
+
+
+
+
+

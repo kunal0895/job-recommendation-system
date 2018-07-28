@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+novartis - job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ?
+
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job detailstweetjob 1 of 1   apply to job   send to friend   save to basket          job id  217126br   posting title  data scientist/data visualization designer (cambridge, ma or basel,ch)   division  nibr   business unit  translational medicine   country  usa   work location  cambridge, ma   company/legal entity  nibri   functional area  research & development   job type  full time   employment type  regular   job description  the novartis institutes for biomedical research (nibr) is the innovation engine of novartis, focusing on powerful new technologies that have the potential to help produce therapeutic breakthroughs for patients. nibr includes about 6500 associates across 7 locations worldwide. translational medicine (tm) is the clinical research arm of nibr, and includes about 1000 associates globally. tm plays a pivotal role in bringing innovative medicines to patients, by building on research advances to develop new therapies, and bridging drug discovery and clinical application. the biomarker development department works in partnership with novartis and external translational biologists, physicians and companies to develop precision medicines for all stages of clinical development by applying state of the art imaging, proteomic, genetic, genomic, cellular and computational approaches which address clinical and biological pathway questions. bring your expertise of leveraging data and advanced analytics to help novartis translational medicine develop better and safer drugs for patients and revolutionize clinical practice. location: either cambridge (ma, usa) or basel (switzerland). please state in your application letter the locations you would like to be considered for  as a data scientist / data visualization designer within translational medicine integrated data sciences, you will facilitate the ease and speed of decision making by translational medicine scientists leveraging integrated preclinical, clinical, biomarker and omics data though the development of innovative generic and ad-hoc data visualization and management solutions. you will analyze the translational medicine data landscape, conduct gap analysis, and design ways to integrate data to speed up analysis and project delivery. you will create new capacities for translational medicine teams by easing access to data, relevant algorithms, and visualizations as part of the novartis digital strategy. the team: integrated data sciences (ids) is part of quantitative sciences & innovation (qs&i) within novartis translational medicine. qs&i delivers customized and innovative analysis of exploratory biomarker programs throughout novartis’ clinical development portfolio (proof of concept to ph iv) and ids organizes the data and knowledge to make it possible. qs&i is a group of 26 (15 basel, 10 cambridge usa, 1 other). included within this is ids - a team of 9 (6 basel, 2 cambridge, 1 other). qs&i are currently recruiting 7 new positions - 4 of those are in ids and this position is 1 of the 4. 1. work on textual and graphical representations of data in close collaboration with other data scientists. create visualization proof of concepts with scientists then release it to the novartis institutes for biomedical research translational medicine community2. push community adoption of methods and tools created by supporting power users and organizing training session3. be a liaison between partners: scientific teams having data-intensive needs; internal and external partners producing data; nibr teams designing enterprise solutions; “data rich” groups like computational sciences groups, statistics, pharmacometrics, pharmacovigilance and real world evidences teams4. maintain expertise in best practice for data handling especially as it applies to “big data” (data warehousing, data integration, archiving, scalable analysis solutions etc.)   eeo statement  the novartis group of companies are equal opportunity employers and take pride in maintaining a diverse environment. we do not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.   minimum requirements  required: - data science techniques including 1) data manipulation and visualization 2) data driven decision making- deep understanding of biology, statistics/data mining/deep learning, high throughput (omics, ngs) and biomarker data- data integration: experience integrating data from different sources. knowledge of key concepts of master data management (mdm). relevant data standards (ex: cdisc sdtm), code lists/ontologies (ex: meddra, snomed) use and maintenance- visualization: graphical representation of data to empower teams. classical (ex: edward tufte) and modern (ex: david mccandless) visualization theories - programming: to progress projects, discussion with it professionals and own manipulation of data are essential and enabled by your knowledge of programming/scripting/coding- statistics: skills in exploratory statistics to enable relation to data analysts and statisticians. this includes understanding hypothesis testing, multivariate modelling techniques including fixed/mixed effects linear models, different machine learning methods, time course analyses, cross-validation and re-sampling methods. basics of data mining (graphical, numeric and network-based methods)- databases: knowledge of data access including sql- competitive intelligence: used to being up-to-date with external trends and attending relevant conferences / working groups- strong communication skills and used to representing your group within your organization and the wider scientific community- good organizational and project management skills; used to working under pressure and meeting timelines within an international team in a matrix organization desirable: - biology: knowledge and experience in molecular biology, genetics, biochemistry and cell biology to enable support of tm labs and projects    apply to job   send to friend   save to basket        
+
+
+  use of this website is governed by our terms of use and privacy policy  
+
+
+
+   
+
+
+

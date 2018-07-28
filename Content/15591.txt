@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        architects
+
+
+
+home
+
+
+
+
+                                about us
+
+
+
+                                services
+
+
+
+                                contact
+careers
+
+our hiring policy
+our eeo policy
+college relations
+
+
+client login
+
+
+
+
+
+
+rss feed
+
+
+
+
+
+
+
+
+
+
+
+                                © copyright 2011 wood rodgers
+                                
+                                theme by zwwooooo & schiy | powered by wordpress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+home › page › careers
+            
+
+
+                    careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wood rodgers, inc. is an equal opportunity and affirmative action employer - eoe aa m/f/vet/disability
+
+start over with job search
+already have a profile?  login now
+
+gis application developer
+
+
+
+job typegis
+
+pt/ftfull time
+
+  
+
+
+
+job description
+
+the gis application developer works directly with clients to design, develop, and implement custom geospatial software solutions. the position is responsible for development of desktop and/or web-based gis solutions. the position is also responsible for gis and related technology research.essential duties and responsibilities: application design, development and collaboration in an on-site team environment     develop and apply service orientated architectures to enterprise solutions design and develop customized desktop solutions design and develop customized web applications    administrate existing databases and develop custom functions, views and maintenance plans server administration tasks to include arcgis for server, microsoft iis and various linux micro-hosts other duties and responsibilities required for the positionsupervisory responsibilities:  nonefiscal responsibilities:  none
+
+knowledge, skills, and abilities required
+
+ bachelor’s degree, or equivalent education and experience, in computer science, geography/gis, engineering or related field required 3+ years of experience as a software developer required (5+ years of experience as a software developer preferred) 5+ years of experience developing mobile and/or web gis applications preferredjob knowledge, skills and abilities: a passion for working with teammates and customers to solve problems excellent communication skills ability to multi-task, prioritize and meet deadlines ability to work in a fast-paced environment experience developing custom geospatial solutions using python and javascript.  (.net experience is a bonus but not necessary)  desktop to include esri’s arcgis for desktop arcpy python module web to include esri's arcgis for javascript api   experience with rdbms such as microsoft sql server, postgresql and microsoft access knowledge of internet architectures and technologies knowledge of geospatial concepts familiarity with standard software development protocols and coding standards     version control systems (git, svn) test driven development   application documentation including system design and technical specificationsphysical demands and work environment:  the physical demands and work environment characteristics described here are representative of those that must be met by an employee to successfully perform the essential functions of the job. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.physical demands:  regularly required to sit for long periods of time while viewing a computer monitor and using a keyboard and/or using a phone. periodically required to walk from building to building (3 total) at wood rodgers' headquarters site to meet with various staff members. may travel (drive/fly/etc.) to remote offices to support remote staff.work environment:  work is performed in a professional office environment that has a moderate noise level.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    © 2011 wood rodgers
+
+
+                    contact us: info@woodrodgers.com | 
+                        client login   
+
+
+
+
+
+
+
+
+
+
+
+

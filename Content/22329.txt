@@ -1,0 +1,325 @@
+
+
+
+      senior software engineer - machine learning - san francisco, ca - coinbase
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+ 
+please note that coinbase no longer supports this browser. we recommend upgrading to the latest google chrome or firefox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products 
+
+buy/sell digital currency
+gdax
+developer platform
+merchant tools
+
+
+help
+
+
+
+charts
+
+sign in
+sign up
+
+
+
+
+
+
+
+senior software engineer - machine learning
+san francisco, ca
+
+
+
+
+about
+
+
+careers
+
+
+mission
+
+
+press
+
+
+
+
+
+
+ back to all jobs
+ senior software engineer - machine learningsan francisco, ca
+our vision is to bring more innovation, efficiency, and equality of opportunity to the world by creating an open financial system. our first step on that journey is making digital currency accessible and approachable for everyone.
+two principles guide our efforts. first, be the most trusted company in our domain. second, create user-focused products that are easier and more delightful to use than any alternative. those principles guide every decision across the company from design through engineering, from operations through security.
+digital currency is fungible, instantly transferable and irreversible. this attracts sophisticated bad-actors. first, fraudsters use stolen bank accounts or cards to try to buy digital currency and immediately move it to a private wallet that’s only in their control. second, hackers target coinbase user accounts in an attempt to drain their balance. we’ve been able to stay ahead of bad actors via a combination of machine learning, data-driven rules based systems and anti-fraud analysts. to learn more check out slides and video for a talk on this topic at websummit 2016.
+responsibilities
+
+use machine learning to solve one of the hardest payment fraud and user security problems in the world 
+be the primary contact for data science and analytics for rest of the company
+
+requirements
+
+exhibit our core cultural values: add positive energy, communicate clearly, be curious, and be a builder
+experience with building and deploying machine learning models in a real product setting with demonstrated lifts in a metric
+experience with one of the ml platforms: python / scikit-learn, spark, vowpal wabbit, etc
+deep understanding of internals at least one ml algorithm
+experience working with the following ml algorithms: logistic regression, random forests, k-means
+
+preferred 
+
+experience working with some of the following ml algorithms: xgboost, spectral clustering, association rule mining, deep learning algorithms
+
+what to send
+
+a resume and a link to your kaggle, github, blog post showcasing something awesome you've built
+
+ 
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+
+
+apply for this job * = required field
+
+
+
+
+first name *
+
+
+
+
+
+last name *
+
+
+
+
+
+email *
+
+
+
+
+
+phone 
+
+
+
+
+
+resume/cv 
+
+
+
+
+
+cover letter 
+
+
+
+
+
+linkedin profile 
+
+
+
+
+
+website 
+
+
+
+
+
+how did you hear about this job? 
+
+
+
+
+
+are you a robot?
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+© 2017 coinbase
+
+
+products
+
+buy/sell digital currency
+gdax
+developer platform
+merchant tools
+
+
+
+learn
+
+buy bitcoin
+buy ethereum
+buy litecoin
+supported countries
+status
+
+
+
+company
+
+about
+careers
+press
+
+
+legal & privacy
+
+
+user agreement
+privacy policy
+licenses & disclosures
+
+
+support
+
+
+
+social
+
+blog
+twitter
+facebook
+
+
+
+
+language
+deutsch
+english
+english - united states
+español
+español - méjico
+français
+bahasa indonesia
+italiano
+nederlands
+português
+português - brazil
+
+
+
+
+
+
+
+
+
+
+
+
+

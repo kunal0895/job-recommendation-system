@@ -1,0 +1,141 @@
+
+
+
+
+getty images careers - data engineer - sql
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+culture
+careers
+
+
+
+
+
+data engineer - sql
+marketing   |   seattle
+
+
+
+
+
+        apply
+    
+
+        save for later
+    
+
+
+
+
+who you are:you are a data ninja and love using your expertise to tackle complex business challenges. you are eager to help the team make the most of the their marketing technology ecosystem by leveraging data and analytics to inform marketing and demand generation programs. you're ready to take the next step in your career and join the modern marketing team at an amazing company and brand. your next challenge:the marketing data engineer is a key role in the marketing operations team responsible for automating the data flows within an enterprise data warehouse, saleforce.com, and  eloqua marketing cloud environment that power our marketing and lead programs. this role works closely with business and enterprise data warehouse teams to clarify business requirements, perform complex data analysis, and automate programs through scripting stored procedures. the data engineer will tune programs for optimal performance as well as troubleshoot and make enhancements as needed.responsibilities:write and understand complex stored proceduresperform complex data analysis and understand how business processes tie to underlying datadetermine when the stored procedures should be optimized to meet the business needunderstand off-the-shelf api processes and programmatically send data to those systemswrite well designed and efficient codewhat you'll need:5+ years of  sql development experienceexpert knowledge of t-sql, ssis, ssrs, and other related sql server and db technologiesknowledge of a programming languages such as c#, scala, java or pythonexperience in reporting and visualization toolsthorough understanding of service-oriented architectures and data processing in high-volume applicationsexperience in performance tuning, query optimization using performance monitor, sql profiler and other related monitoring and troubleshooting toolsability to quickly identify and address operational and process issuesoutstanding analytical skills, excellent team player and delivery mindsetgood communication skills, oral and written, with technical and non-technical audiencesb.s. in computer science, management information systems or related field.#li-eb1who we are:getty images is the most trusted and esteemed source of visual content in the world, with over 200 million assets available through its industry-leading sites www.gettyimages.com and www.istock.com. the getty images website serves creative, business and media customers in almost 200 countries and is the first place people turn to discover, purchase and share powerful content from the world's best photographers and videographers. getty images works with over 200,000 contributors and hundreds of image partners to provide comprehensive coverage of more than 130,000 news, sport and entertainment events, impactful creative imagery to communicate any commercial concept and the world's deepest digital archive of historic photography.  visit getty images at www.gettyimages.com to learn more about how the company is advancing the unique role of still and moving imagery in communication and business, and enabling creative ideas to come to life.  for company news and announcements, visit our press room, and for the stories and inspiration behind our content, visit stories & trends. find getty images on facebook, twitter, instagram, linkedin, pinterest and tumblr, or download the getty images app where you can explore, save and share the world's best imagery.  getty images is an equal opportunity employer and strongly supports diversity in the workplace. 
+
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        apply
+    
+
+        save for later
+    
+
+
+            go back to current openings
+        
+
+
+
+
+
+
+about us
+press room
+stories & trends
+where we stand
+
+
+other sites
+istock.com
+photos.com
+
+
+follow us
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

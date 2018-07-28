@@ -1,0 +1,265 @@
+
+
+
+
+job application for software engineer (palo alto / remote - us) at quartzy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer (palo alto / remote - us)
+
+        at quartzy
+      
+(view all jobs)
+
+        quartzy hq or remote - us
+      
+
+
+we’re on a quest for an extraordinary software engineer who will join us to build and maintain clean, modern applications.
+you are a self-starter with a bias for action, and you can take projects from start to finish. you want to work as part of a small, tightly-knit team that moves quickly and pushes changes to production many times a day. you always admired your friends in science, but your knack for computers led you to programming.
+why quartzy
+quartzy is the world’s #1 lab management platform. every day, hundreds of thousands of scientists from all over the world improve the efficiency of their research by using quartzy. our team is passionate about accelerating scientific research through well-designed, meaningful tools for labs and companies alike. we value openness, transparency, and good communication, because, after all, we are in this together.
+what you'll do
+
+design and implement new functionality from the ground up
+work closely with your team to design and develop a robust rest api
+measure and improve site performance and scalability
+write well-tested code that is resilient to heavy iteration
+
+what we're looking for 
+
+demonstrable experience writing clean, thoughtfully crafted php that scales
+you have experience with other parts of our technology stack: mysql, redis, beanstalkd, rabbitmq, nginx, git.
+you have the ability and desire to own projects that directly impact quartzy's bottom line.
+an entrepreneurial attitude that gets high-quality projects done quickly
+you are a strong communicator. you write well and can easily explain complex technical concepts to non-technical people.
+
+what we'd love
+
+background working with mission-critical financial systems
+experience with the integration of external financial or erp systems
+familiarity with asynchronous worker queues
+experience working in a dynamic startup environment
+occasionally, you end the day with more lines of code removed than added; and that feels great
+
+does that sound like you? we'd love to hear from you. 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github profile or website
+    
+
+
+
+
+
+are you applying as a remote engineer? *
+
+
+
+--
+yes
+no
+
+
+where did you hear about this job? *
+
+
+
+please selectangel list
+hacker news
+heard about from someone (please specify below)
+linkedin
+qb3
+quartzy careers page
+ventureloop
+other (please specify below)
+indeed
+github
+stack overflow
+product hunt
+larajobs
+
+
+if other or heard about from someone, please specify:
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,306 @@
+﻿
+
+
+
+
+developer, web, sr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+
+ 
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+developer, web, sr.
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-00468
+
+location: 
+rocklin, california
+
+
+
+
+
+	lead software developer
+create a world-class technology experience to delight our internal customers and deliver business value. we are obsessed with our customers' success! 
+
+we are hiring a lead software developer to design, architect, code, test, deploy, iterate for multiple home-grown web-based tools and other tools such as mobile apps. you will not only find yourself writing code, but you will also be responsible for maintaining and troubleshooting the infrastructure, such as the web servers and database servers. all the tools that we are developing follow a design pattern based on customer experience and agile best practices. in other words, the features and technology we develop are based on the highest priority features and feedback directly from the users of the tools and other key stakeholders. it is imperative that you have a strong grasp of customer experience and agile best practices, having empathy for the users, and being a strong listener to understand their feedback, needs, and expectations. the success of this role is largely measured via nps (net promoter score) – how likely the users are to recommend these tools to others. we want all our users to be raving fans and we settle for nothing less. if we are not generating raving fans, then we need to regroup, reset, and drive the most critical changes. however, there are other business metrics that are important to the success of the projects including increased productivity and reduced operating costs. 
+
+required skills: this lead software developer position requires more than just a deep understanding of a coding language. we have a mission to create a technology experience never been seen before, and this will certainly require creative coding, but before any code is written we first need to ensure that it is the highest priority work that will delight our users. your technical aptitude and thought leadership will be very important.
+• php – most of the server-side code is written in php. much of the php code is implemented in the code igniter mvc framework, with other stand-alone php code such as web services and other integrations. some older apps do not follow an mvc pattern, and some have a mix of oop and procedural implementations. much of your code will be written in php.
+• angular – leveraged in most of the mvc view code, angular is the front-end language of choice. some of the apps have recently transitioned to angular, while some other apps still leverage basic javascript or jquery. you will also find yourself writing a lot of code in angular. • html – view code for web apps includes html code.
+• css – view code for web apps includes css code.
+• mysql – the data from multiple apps are stored in mysql databases. new and existing features will require an expertise in how to create/update/optimize both the mysql schema and build out the model code and queries in php.
+• git – ability to manage and maintain source code in git or other version control systems. • jenkins – use jenkins to deploy code.
+• linux – the web servers are primarily linux servers, so you will often find yourself in a linux shell checking on the web services.
+• apache – running on the linux servers is usually apache. you may need to make changes to apache configuration or spin up a new server running apache.
+• pivotal cloud foundry (pcf) – one app has recently migrated to pcf, so you will need to be able to manage and configure apps on this platform.
+• scrum – the team is organized as a scrum team so a comfort working in scrum or similar agile frameworks is critical.
+• lead software development experience – we need to fill a significant technical skillset gap so extensive industry experience is a must. as you can see, we are looking for someone that has both coding experience and a deeper understanding of how technology is implemented within the enterprise. competencies:
+• customer impact – you will need to respond to the users, understand the users and use-cases, and actively pursue details about the customer and marketplace.
+• resourcefulness – you will need to be able to react positively to challenging situations, seek understanding of situations to impact change, remain nimble and agile, and shifting self and resources as needed.
+• accountability – you will need to personally focus on details and deadlines and monitor your own performance to ensure results are delivered.
+• learning agility – you will need to be sufficient at acquiring new knowledge, embracing opportunities to learn, and motivated to learn new skills.
+	
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

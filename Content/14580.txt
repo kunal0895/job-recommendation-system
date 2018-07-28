@@ -1,0 +1,276 @@
+
+
+
+
+
+
+jobs at sqreen: internship - full-stack growth engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+product
+
+
+technology
+
+
+pricing
+
+
+resources
+
+
+docs
+
+
+schedule a demo
+
+
+
+
+log in
+
+
+try for free
+
+
+
+
+
+
+
+
+
+
+
+full-stack growth engineer
+type: internship
+location: san francisco, united states
+
+
+
+
+
+what is sqreen
+
+
+      software is eating the world. but the bad guys are hacking software products every day. we are a team from the apple internal security team, and we are on a mission to make application security simple for all developers.
+    
+
+      sqreen is a saas product that helps developers detect security issues, protect them from attacks, and gives engineering teams the information they need to build better applications.
+    
+
+
+
+the job
+
+
+      as our full-stack growth engineer, you’re the operational backbone of our sales and marketing teams. you’ll work on growth experiments to support sqreen’s growth. growth experiments may include the development of crawlers, scrapers, bots, landing pages, etc.
+    
+
+      this is a fast-paced environment, and the right candidate will need to learn fast, work hard, and have fun doing it. as the first growth engineer, you will be offered a unique opportunity to join a team of outstanding engineers and have a real business impact from day one.
+    
+
+      this is a 3 to 6 months internship with a possibility to be offered a full-time position at the end of the internship. you will be based in san francisco for the first 3 months of the internship.
+    
+
+
+
+responsibilities & qualifications
+
+
+responsibilities will include:
+
+come up with crazy growth experiment ideas and ship them quickly
+develop a lead generation engine to automatically score, identify, contact, track prospects, and clients
+create conversion-optimized landing pages for growth experiments
+set up automation strategies and tools to accelerate our marketing and sales efforts
+work closely with the ceo, sales and marketing teams
+
+
+
+qualifications wanted:
+
+entrepreneurial and hacker spirit
+engineer with business interest
+full-stack technology experience: strong experience with front-end technologies (html & css) and at least one backend technology (node.js, python, ruby)
+fluent in english is mandatory
+exceptional communication and team-work capabilities
+well organized and autonomous, you can easily multitask and prioritize your work efficiently
+
+
+
+
+
+
+
+
+
+
+
+
+  sqreen uses cookies to make its website easier to use.
+  
+learn more about cookies.
+
+
+apply now
+
+
+
+
+culture
+sqreeners are security focused people who care about developers
+
+
+
+
+
+sqreen relies on a virtuous community, which is why our culture is all about sharing and transparency. sqreen contributes to the open source community. much of our work is shared in conferences, meetups and articles.
+our work environment is modern, casual, and respectful. our engineering team is based in paris. you will join a highly technical and product-driven team and contribute to an extraordinary game changing technology.
+you will be proud to be part of it.
+
+
+
+
+
+
+
+
+ready to protect your app?
+1 min installation · try all features for 14 days · no credit card required.
+
+
+try for free
+or
+schedule a demo
+
+
+
+
+
+
+
+product
+
+protect your app from intrusions
+defend your users from data theft and fraud
+detect attackers early
+how it works
+pricing
+schedule a demo
+
+
+
+company
+
+about
+jobs
+terms
+privacy
+press
+
+
+
+docs & help
+
+documentation
+blog
+resources
+support
+change log
+service status
+security
+
+
+
+talk to sales
+
+
+              phone: +1 415-839-9986
+
+
+              email: sales@sqreen.io
+
+
+
+
+stay in touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 sqreen.io
+
+
+
+
+
+
+
+
+
+

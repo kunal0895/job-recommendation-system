@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+look beyond the ordinary
+
+careers overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+business intelligence / data engineer work-study intern - undergrad
+
+
+location:
+draper, ut
+
+
+
+description
+company overview
+at proofpoint, we’re a team of superheroes protecting people, data, and brands from today’s advanced threats and compliance risks. we scout the best people in the business to:
+
+build and enhance our proven security platform
+blend innovation and speed in a constantly evolving cloud architecture
+analyze new threats and offer deep insight through data-driven intel
+collaborate with customers to help solve their toughest security challenges
+
+it is our sole mission to help our allies protect what matters most. that’s why we’re a leader in next-generation cybersecurity—and why more than half of the fortune 100 trust us as a security partner.
+become a superhero-in-training
+to understand the threats impacting our customers, we also need to understand, visualize and take action on the data we consume from our products/services every second. the business intelligence team helps our engineers understand how their products/services are behaving in the real-world, and how our customers make use of those products and services.
+as an intern, you will be working with a diverse team of engineers in two week sprints using agile development methodologies. you will be learning, documenting, designing and coding tools to retrieve and/or stream data between our products/services and our data warehouse through etl and connectors. you will be working with both engineering leadership and product management to understand what data is needed to answer questions about the business activity, identifying any performance or functionality problems found in the data.
+your current super-skills
+
+experience with data exploration tools: sql, hive, hadoop. 
+experience writing code and connecting to database and/or web services
+experience with scripting languages: python, r.  excellent communication skills
+familiarity with business analysis tools a plus: pentaho, birst, etc
+familiarity with machine learning a plus!
+familiarity with data visualization tools a plus: tableau, power bi
+
+your superhero profile
+you have the ability and interest in working part time (an average of 20-30 hours/week) in our draper, ut office. you are currently pursuing an undergraduate degree, and are successfully maintaining an above average gpa, preferably 3.0 or higher. this part time internship is scheduled to begin immediately, and end approximately on august 31, 2018.
+launch your #lifeatpfpt
+as a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the proofpoint team. we believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. our work-study interns are highly valued, and we strive to ensure all interns are provided with a meaningful work experience, as well as projects that are relevant to our interns’ interests. as we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! we are a multi-national company with locations in 10 countries, with each location contributing to proofpoint’s amazing culture!
+#li-dnp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proofpoint is an equal opportunity employer and welcomes applications from all qualified individuals regardless of race, sex, disability, religion/belief, sexual orientation or age.
+proofpoint does not accept unsolicited resumes from external recruiters or employment agencies. in the absence of a signed recruitment services agreement, proofpoint will not consider or agree to payment of any recruiter or agency fee. in the event a recruiter or agency submits a resume or candidate without a previously signed agreement, proofpoint explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+view search results or all job openings
+
+
+new search
+
+
+
+
+
+
+
+

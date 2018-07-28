@@ -1,0 +1,997 @@
+ 
+
+
+
+
+
+
+
+software engineer - data mining - nlp - engineering - san francisco, ca - careers at yelp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yelpwbrsywsuvsxvwzqet
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+            home
+
+        
+
+
+
+
+
+
+            job openings
+
+        
+
+
+
+
+
+
+            who we are
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    home
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                    job openings
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                    who we are
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                software engineer - data mining - nlp
+            
+
+                engineering • san francisco, ca
+            
+apply now
+
+
+
+
+
+
+
+summary
+messaging is the next frontier in yelp’s mission to connect everyone in the world with great local businesses. we’re building the experiences and infrastructure that enable users to get quotes from local contractors, request their haircut appointment next tuesday, or book a birthday event for someone special. yelpers love being able to contact several businesses at once straight from the app, and business owners are thrilled to hear from them.our messaging intelligence engineers strive to optimize the business recommendations that strike the ideal balance between user interest, advertiser return on investment, and income for yelp. they banter about bandits, know their way down a gradient, and aren’t too naïve to kick back in our bay(es) area offices. we love new ideas and collaboration: don’t come here with any prior prejudices or you will maximize your likelihood of getting your posterior kicked.yelp messaging has seen explosive growth in the last twelve months, and we want you to help us make yelp the world’s most intelligent messaging platform! we are an agile team that creates an amazing experience for millions of yelpers. we are passionate engineers, sure, but we are also fire spinners, roller girls, pilots, bakers, cartwheelers, and makers (of burrito bombers and 3d-printed trophies). join our world-class team and be one of the personalities that make the yelp culture awesome.
+
+ what you will do:
+
+work with the team to come up with creative ideas for new products and signals, then carry those ideas all the way to launch.explore data to measure the impact of your changes and come up with ideas for how to maximize that impact.work closely with infrastructure engineers to make sure that your algorithms will effectively scale to large data sets and to ensure that the underlying system provides the flexibility needed for your ideas.mentor other engineers who are ramping up.continue to learn, grow, and help us tackle brand new challenges.be a key part of the larger machine learning community at yelp.
+
+we are looking for:
+
+a minimum of 2-years of industry experience in a machine learning, nlp, statistics, or related field.a passion for big data and creative ideas for what to do with it.the algorithms and data structures experience to make your ideas workable.the coding experience to turn those ideas into reality. we use python. you don’t need to be an expert, but experience is a plus and we will expect you to learn it on the job.minimum ba/bs degree in computer science, math, or related field.if you don't have at least two years of experience in a similar role please take a look at our college engineering roles instead!a real passion to make the business-to-consumer messaging experience the best!
+
+pluses:
+
+industry experience with search or ads ranking, online auctions or auction bidding strategies, text analysis or auto complete, messaging or chatbots.you quickly pick up new technologies, tools and platforms.
+
+
+pursuant to the san francisco fair chance ordinance, we will consider for employment qualified applicants with arrest and conviction records.*li-ms1
+
+
+
+
+                                yelp values diversity. we’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+                            
+
+
+
+                                note: yelp does not accept agency resumes. please do not forward resumes to any recruiting alias or employee. yelp is not responsible for any fees related to unsolicited resumes.
+                            
+
+
+
+
+
+
+back to all job postings
+                    
+
+
+
+
+
+
+
+
+
+
+about
+
+
+about yelp
+
+
+careers
+
+
+press
+
+
+investor relations
+
+
+content guidelines
+
+
+terms of service
+
+
+privacy policy
+
+
+ad choices
+
+
+
+
+
+
+discover
+
+
+the local yelp
+
+
+yelp blog
+
+
+support
+
+
+yelp mobile
+
+
+developers
+
+
+rss
+
+
+
+
+
+
+yelp for business owners
+
+
+claim your business page
+
+
+advertise on yelp
+
+
+yelp reservations
+
+
+business success stories
+
+
+business support
+
+
+yelp blog for business owners
+
+
+
+
+
+
+
+languages
+
+
+
+
+
+                    english
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                bahasa malaysia (malaysia)
+        
+
+
+
+
+
+
+
+                čeština (česká republika)
+        
+
+
+
+
+
+
+
+                dansk (danmark)
+        
+
+
+
+
+
+
+
+                deutsch (deutschland)
+        
+
+
+
+
+
+                deutsch (schweiz)
+        
+
+
+
+
+
+                deutsch (österreich)
+        
+
+
+
+
+
+
+
+                english (australia)
+        
+
+
+
+
+
+                english (belgium)
+        
+
+
+
+
+
+                english (canada)
+        
+
+
+
+
+
+                english (hong kong)
+        
+
+
+
+
+
+                english (malaysia)
+        
+
+
+
+
+
+                english (new zealand)
+        
+
+
+
+
+
+                english (philippines)
+        
+
+
+
+
+
+                english (republic of ireland)
+        
+
+
+
+
+
+                english (singapore)
+        
+
+
+
+
+
+                english (switzerland)
+        
+
+
+
+
+
+                english (united kingdom)
+        
+
+
+
+
+
+                english (united states)
+        
+
+
+
+
+
+
+
+                español (argentina)
+        
+
+
+
+
+
+                español (chile)
+        
+
+
+
+
+
+                español (españa)
+        
+
+
+
+
+
+                español (méxico)
+        
+
+
+
+
+
+
+
+                filipino (pilipinas)
+        
+
+
+
+
+
+
+
+                français (belgique)
+        
+
+
+
+
+
+                français (canada)
+        
+
+
+
+
+
+                français (france)
+        
+
+
+
+
+
+                français (suisse)
+        
+
+
+
+
+
+
+
+                italiano (italia)
+        
+
+
+
+
+
+                italiano (svizzera)
+        
+
+
+
+
+
+
+
+                nederlands (belgië)
+        
+
+
+
+
+
+                nederlands (nederland)
+        
+
+
+
+
+
+
+
+                norsk (norge)
+        
+
+
+
+
+
+
+
+                polski (polska)
+        
+
+
+
+
+
+
+
+                português (brasil)
+        
+
+
+
+
+
+                português (portugal)
+        
+
+
+
+
+
+
+
+                suomi (suomi)
+        
+
+
+
+
+
+
+
+                svenska (finland)
+        
+
+
+
+
+
+                svenska (sverige)
+        
+
+
+
+
+
+
+
+                türkçe (türkiye)
+        
+
+
+
+
+
+
+
+                日本語 (日本)
+        
+
+
+
+
+
+
+
+                繁體中文 (台灣)
+        
+
+
+
+
+
+                繁體中文 (香港)
+        
+
+
+
+
+
+
+
+
+
+
+countries
+
+
+
+
+
+                    united states
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                argentina
+        
+
+
+
+
+
+
+
+                australia
+        
+
+
+
+
+
+
+
+                austria
+        
+
+
+
+
+
+
+
+                belgium
+        
+
+
+
+
+
+
+
+                brazil
+        
+
+
+
+
+
+
+
+                canada
+        
+
+
+
+
+
+
+
+                chile
+        
+
+
+
+
+
+
+
+                czech republic
+        
+
+
+
+
+
+
+
+                denmark
+        
+
+
+
+
+
+
+
+                finland
+        
+
+
+
+
+
+
+
+                france
+        
+
+
+
+
+
+
+
+                germany
+        
+
+
+
+
+
+
+
+                hong kong
+        
+
+
+
+
+
+
+
+                italy
+        
+
+
+
+
+
+
+
+                japan
+        
+
+
+
+
+
+
+
+                malaysia
+        
+
+
+
+
+
+
+
+                mexico
+        
+
+
+
+
+
+
+
+                new zealand
+        
+
+
+
+
+
+
+
+                norway
+        
+
+
+
+
+
+
+
+                philippines
+        
+
+
+
+
+
+
+
+                poland
+        
+
+
+
+
+
+
+
+                portugal
+        
+
+
+
+
+
+
+
+                republic of ireland
+        
+
+
+
+
+
+
+
+                singapore
+        
+
+
+
+
+
+
+
+                spain
+        
+
+
+
+
+
+
+
+                sweden
+        
+
+
+
+
+
+
+
+                switzerland
+        
+
+
+
+
+
+
+
+                taiwan
+        
+
+
+
+
+
+
+
+                the netherlands
+        
+
+
+
+
+
+
+
+                turkey
+        
+
+
+
+
+
+
+
+                united kingdom
+        
+
+
+
+
+
+
+
+                united states
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+
+
+blog
+
+
+support
+
+
+terms
+
+
+
+
+            copyright © 2004–2017 yelp inc. yelp, ,  and related marks are registered trademarks of yelp.
+    
+
+
+
+
+
+
+
+
+

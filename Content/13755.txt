@@ -1,0 +1,106 @@
+
+
+
+
+
+
+careers at ui labs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menucareers homecurrent openings 
+
+
+careers at ui labs
+are you ready for new challenges and new opportunities?
+join our team!
+current job opportunities are posted here as they become available.
+
+software developer
+
+ department:
+technology office
+ location:
+chicago, il
+
+
+start your application
+software developer, ui labs
+ui labs is an innovation accelerator that leverages a network of hundreds of partners from university + industry.  along with startups, government, and community groups, we address problems too big for any one organization to solve on its own. our mission is to transform manufacturing and infrastructure with digital technologies, making the u.s. economy and workforce the most productive in the world.
++ position overview
+ui labs is seeking candidates for the position of software developer for full-time employment in our chicago office. this role is for full-stack development focused on ruby-on-rails in a web server/containerization environment.  the ideal candidate will also have good javascript skills with knowledge of angularjs and the ability to learn unfamiliar languages and frameworks in the course of breaking a large platform into smaller services.  primary responsibility is to prototype, launch and maintain a membership portal and modular micro-site applications that make research project outcomes available to our member companies.  work will require close collaboration with senior technical leaders, member companies and external technology providers to come up with creative solutions to technology and business problems.
++ essential responsibilities:
+
+lead the prototyping, development, test and maintenance of web applications based on a web server / containerization architecture utilizing ruby-on-rails
+contribute as a junior developer to the following activities:
+
+analyze project portfolio to identify research commercialization or transition opportunities involving follow-on software development
+architect and build point solutions with a larger platform architecture in mind that can enable extensibility, interconnection, seamless experiences
+capture high-level requirements from customers and translate into clear technical requirements for 3rd party sw development firms
+capture business requirements, architect and design software solutions that will be developed by either internal or external resources
+make and meet quality, budget and schedule commitments that will be determined in collaboration with senior management
+contract with external firms as necessary to deliver designed software solutions
+proactively lead make/buy/partner technology decisions supported with sound evidence and reasoning
+build on the organizations strategic intent by intersecting emerging technical insights with customer empathy, and co-lead the discovery and delivery of new customer value
+
+
++  position requirements: 
+
+software developer with experience building, launching and maintaining web apps based on ruby-on-rails 
+experience with cloud environments such as aws and azure, specifically with file management/storage (ex: aws s3) 
+experience with postgresql and orms such as activerecord 
+linux competency is required 
+ability to architect new database schemas to fulfill business requirements 
+competency with javascript and angularjs a plus 
+strong knowledge of oop principles 
+ability to build and iterate on full stack prototypes 
+knowledge of networking principles is a plus 
+familiarity with digital manufacturing processes, tools and technologies is strongly preferred 
+excellent technical skills and some experience in web development platforms, architectural paradigms/design patterns 
+strong knowledge of the web application architectures, trends, and emerging technologies 
+containerization, web server/services architecture 
+experience working with agile teams and scrum principles is a plus 
+
++ anti-discrimination policy and commitment to diversity
+ui labs is an equal employment opportunity employer. we encourage individuals of all ethnic and racial backgrounds to apply for this position.  we are committed to maximizing the diversity of our organization.
++ about ui labs
+ui labs is a tech organization driving the future of industries, starting with manufacturing and cities. we work with more than 300 partners across universities + industry, plus startups and government, to solve problems too big for anyone to solve on their own. by guiding these partners through complex collaborative projects, we help them deploy cutting-edge solutions, improve their financial performance, and transform their industries.
++ about dmdii
+in february 2014, ui labs launched the digital manufacturing and design innovation institute (dmdii), in partnership with the department of defense, to transform american manufacturing. dmdii provides u.s. factories with the tools, software, and expertise they need to build things more efficiently, less expensively, and more quickly, so they launch new products faster and win more business.
++ about city digital
+in 2015, ui labs announced the formation of its second innovation platform, city digital, which uses chicago as a testbed for improvements in the areas of buildings and other physical infrastructure, water and sanitation, energy management, and mobility. ongoing pilots include research to improve chicagos stormwater drainage system, which is frequently overloaded, and mapping chicagos underground to prevent construction work from disrupting utility service.
++ how to apply
+please apply online at www.uilabs.org/careers by clicking on the link to the position posting and submitting your resume and a cover letter explaining why you would make a great fit at ui labs.
+
+start your application
+
+
+© 2017 ui labs 
+
+applicant tracking system powered by 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

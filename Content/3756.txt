@@ -1,0 +1,672 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist - pricing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+language
+
+
+english (en_us)
+french (fr_fr)
+ simplified chinese (zh_cn)
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+featured jobs 
+
+770 broadway
+retail
+distribution center
+call center
+international
+internship
+creative
+
+
+
+talent community
+
+
+
+
+
+
+
+
+
+< back to careers home
+
+
+
+
+search jobs
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+search by postal code
+
+
+
+
+
+
+
+
+
+2 mi
+5 mi
+10 mi
+30 mi
+50 mi
+
+
+
+
+
+
+
+
+
+search by postal code
+search by location
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist - pricing
+
+apply now »
+
+apply now 
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+date: 
+nov 23, 2017
+                
+
+
+location: 
+new york, ny, us, 10003
+
+
+company: 
+j.crew group, inc.
+
+
+
+overview:  
+j.crew is seeking a data scientist with an emphasis on pricing analytics to join our team of highly successful predictive analysts. if you have a passion for “wowing” business leaders with exceedingly progressive analytics techniques, working with managers who “get” the work you are doing and support your efforts fully, consistently jumping into assignments focused on innovation rather than “minding the lever” of past projects, working alongside a highly professional and astute team with it support that’s lightning fast to jump to your aid, then j. crew is the place for you.
+ 
+primary responsibilities include but are not limited to:
+econometric modeling 
+
+utilizing knowledge of econometrics and time-series modeling to develop department and style-level elasticity and promotion response models to inform business decisions
+developing algorithms to help inform and/or optimize decisions around initial ticket price setting, promotion planning and execution, and markdown timing and depth
+implement formal modeling processes from end to end including data gathering, data profiling, numerical model building, calibration, cross-validation, putting product into production, etc.
+after building the models, pilot “scorecards” to track model performance and calculated improvement to business – including pre/post time-series analyses, and a/b testing where applicable
+explain complex modeling approaches in layman’s terms and discuss modeling results and business case impacts with non-technical business users
+
+ 
+data munging 
+
+collect data from a wide variety of corporate databases, including various sql databases, no-sql databases, access databases, big data and excel files
+utilize your toolset in regular expressions to extract information from un-structured text documents
+handle missing data through an algorithmic approach such as multiple imputations to enable insights in sparse and messy data.
+use your inner whiz-kid to feature engineer the data to boost model accuracy
+
+ 
+education & experience requirements
+
+master’s degree preferred in statistics, economics, econometrics, computer science, engineering, or mathematics with a strong quantitative background
+at least 5 years previous work experience with strong understanding and proficiency of econometric (including focus on price elasticity) and time-series modeling techniques. machine learning background a plus
+understanding of modeling techniques and specifically logistic regression, linear regression, cluster analysis, chaid, market basket analysis, etc.
+superior research, statistical, analytical, processing and mathematical skills with ability to structure and conduct analyses
+proficiency in microsoft office suite, sql and r and/or python
+exceptional troubleshooting skills and should thrive in high expectation scenario with many stakeholders
+excellent verbal and written communication skills; ability to present complex information in an easy-to-understand manner with clear recommendations based on data insight
+strongly motivated to be a player in a team which is constantly working to improve themselves through discovering new analytics techniques and software tools to improve the quality of our work
+
+ 
+we are committed to affirmatively providing equal opportunity to all associates and qualified applicants without regard to race, color, ancestry, national origin, religion, sex, marital status, age, sexual orientation, gender identity or expression, legally protected physical or mental disability or any other basis protected under applicable law.
+ 
+j.crew group, inc. is an equal employment opportunity (eeo) employer
+we are committed to affirmatively providing equal opportunity to all associates and qualified applicants without regard to race, color, ancestry, national origin, religion, sex, marital status, age, sexual orientation, gender identity or expression, legally protected physical or mental disability or any other basis protected under applicable law.
+
+
+
+nearest major market: manhattan
+                    
+                        nearest secondary market: new york city
+                    
+                
+
+job segment: 
+scientific, database, engineer, computer science, sql, engineering, technology
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+770 broadway opportunities
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+email*
+
+password*
+
+forgot password?
+
+sign in 
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+home
+top job searches
+view all jobs
+privacy policy
+
+
+get to know us:
+
+https://www.facebook.com/jcrew
+https://twitter.com/jcrew
+http://jcrew.tumblr.com/ 
+http://pinterest.com/jcrew/
+http://instagram.com/jcrew
+https://plus.google.com/+jcrew
+http://www.youtube.com/user/jcrewinsider
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1102 @@
+
+
+
+
+
+
+
+current openings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   support@cosoit.com 
+
+
+
+login
+sign up
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ menu  
+ home
+
+
+ consulting
+
+big data
+analytics
+cloud computing
+artifical intelligence
+system integration
+connected devices (iot)
+data security & governance
+startup consulting
+consult now
+
+
+
+ industry
+
+insurance
+banking
+healthcare
+education
+telecom
+retail
+space
+government
+
+
+ services
+
+big data services »
+
+hadoop
+spark
+solr
+kafka
+zookeeper
+
+
+nosql databases »
+
+cassandra
+mongo db
+
+
+big data analytics
+artificial intelligence
+cloud services
+internet of things (iot)
+platform: nextai
+
+
+ careers
+
+current openings
+post your resume
+benefits
+award and recognition
+
+
+education
+
+trainings
+cloud labs
+question/answer
+knowledgebase
+
+
+ aboutus
+
+blog
+news
+events
+white papers
+partners
+
+
+
+ contact us 
+
+
+
+
+
+
+
+
+
+
+
+current openings
+
+
+current openings
+
+
+
+
+
+
+
+
+
+
+
+                    apply online / post your resume
+
+
+
+
+
+job category
+
+select category
+internet services
+banking
+financial
+marketing
+management
+design
+web development
+app development
+
+
+
+ 
+job type
+
+select type
+full-time
+part-time
+
+
+
+
+
+date start
+
+
+
+
+
+date end
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+#
+job title
+job location
+job type
+job category
+action
+
+
+
+
+1
+senior big data consultant
+alexandria, va
+full-time
+app development
+detail view
+apply now
+
+
+
+2
+sales associate
+remote
+full-time
+marketing
+detail view
+apply now
+
+
+
+3
+junior big data developer
+los angeles, ca
+full-time
+app development
+detail view
+apply now
+
+
+
+4
+senior big data consultant
+reston, va
+full-time
+app development
+detail view
+apply now
+
+
+
+5
+senior java developer
+delhi, ncr
+full-time
+web development
+detail view
+apply now
+
+
+
+6
+big data administrator
+washingtion dc
+full-time
+app development
+detail view
+apply now
+
+
+
+7
+big data engineer
+new york, ny
+full-time
+app development
+detail view
+apply now
+
+
+
+8
+principal devops engineer
+delhi, ncr
+full-time
+management
+detail view
+apply now
+
+
+
+9
+spark/flume content analyst
+san jose
+full-time
+app development
+detail view
+apply now
+
+
+
+10
+senior infrastructure machine learning developer
+san jose
+full-time
+design
+detail view
+apply now
+
+
+
+11
+principal machine learning engineer
+los angles, ca
+full-time
+design
+detail view
+apply now
+
+
+
+12
+applications architect
+baltimore , md
+full-time
+app development
+detail view
+apply now
+
+
+
+13
+data scientist
+washington, dc
+full-time
+design
+detail view
+apply now
+
+
+
+14
+technical trainer
+remote
+part-time
+management
+detail view
+apply now
+
+
+
+15
+mongodb database administrator
+new york
+full-time
+app development
+detail view
+apply now
+
+
+
+16
+big data architect
+san francisco, ca
+full-time
+app development
+detail view
+apply now
+
+
+
+17
+sr. hadoop architect
+san francisco, ca
+full-time
+app development
+detail view
+apply now
+
+
+
+18
+interns
+remote
+part-time
+internet services
+detail view
+apply now
+
+
+
+19
+solr/solrcloud administrator
+alexandria, va
+full-time
+app development
+detail view
+apply now
+
+
+
+20
+html/css developer
+remote
+full-time
+app development
+detail view
+apply now
+
+
+
+21
+web developer
+remote
+full-time
+app development
+detail view
+apply now
+
+
+
+
+
+
+
+
+
+
+
+×
+senior big data consultant
+
+
+
+ key ares : hadoop, ambari, hdfs, mapreduce, hive, spark, kafka, nosqlmode       : contract corp-to-corp, c2h corp-to-corp, c2h independent, contractsalary      : negotiableremote    : telecommuting not availableresponsibilities: senior consultants will be responsible for designing and implementing strategies, architectures, ingestion, storage, consumption and delivery processes for complex, large-volume, multi-variate, batch and real time data sets used for modeling, data mining, and research purposes.senior consultants work within an engagement team and are not responsible for project management.design and implement data ingestion techniques for real time and batch processes for video, voice, weblog, sensor, machine and social media data into hadoop ecosystems and hdfs clusters.perform data studies and data discovery routines for video, voice, weblog, sensor, machine and social media data sources or mash ups of new and existing data sources.visualize and report data findings creatively in a variety of visual formats that appropriately provides insights to the organization.3+ years of relevant technology architecture consulting or industry experience to include experience in information delivery, analytics and business intelligence based on data from hybrid of hadoop distributed file system (hdfs), non-relational (nosql, mongodb, cassandra) and relational data warehouses.at least 1 year hands-on working experience one or more of the following big data technologies: hadoop, mahout, pig, hive, hbase, sqoop, zookeeper, ambari, mapreduce and r.bachelor’s degree or 4 years equivalent professional experience.willingness to travel to client locations (80%+, typically m-th).preferred skills:experience working as a data scientistexperience designing and implementing reporting and visualization for unstructured and structured data setsexperience designing and developing data cleansing routines utilizing typical data quality functions involving standardization, transformation, rationalization, linking and matchingknowledge of data, master data and metadata related standards, processes and technologyexperience working with multi-terabyte data setsexperience working with commercial distributions of hdfs (hortonworks, cloudera, pivotal hd, mapr)experience with hadoop cluster administrationexperience with data integration on traditional and hadoop environmentsability to work independently, manage small engagements or parts of large engagements.strong oral and written communication skills, including presentation skills (ms visio, ms powerpoint).strong problem solving and troubleshooting skills with the ability to exercise mature judgment.willingness to mentor junior staff.an advanced degree in the area of specialization is preferred.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+hadoop developers
+
+
+
+ job title – junior hadoop developer.no of opening: entry level - 7senior level - 3multiple locations: remote(work from home)ghaziabad(india) office bengaluruhyderabad.key responsibility areas of big data / hadoop developer  job description – the responsibility of actual programming or coding big data / hadoop applications is laid upon a hadoop developer, who has a role bit similar to a software developer. the major difference is that the hadoop developer pertains to a big data domain, which has been creating rewarding and lucrative job roles since its inception. a highly skilled hadoop developer can explore plenty of growth opportunities through deeper understanding of the job role and must have enthusiasm to smartly juggle between diverse areas of responsibilities.1. development and implementation of big data / hadoop strategy2. directing incongruent data sets into the system.3. use hive and pig for pre-processing of data.4. using advanced methods for designing, developing, setting up, configuring and supporting the hadoop ecosystem.5. preparing a detailed design for translating complicated technical and functional requirements.6. performing diverse analytical methods to unravel actionable insights.7. maintaining utmost data security and privacy while handling massive amounts of critical information.8. enabling data tracking by creating scalable and top performing web services.9. tuning the system for fast querying.10. deploying and managing hbase.11. initiate in the company’s efforts in creating new hadoop clusters.12. testing prototypes, conveying results to higher management levels and decentralising work to operational teams.13. making proposals for incorporating best big data practices and maintaining set standards.essential skills required- 1. in depth knowledge of hadoop.2. adept in back-end programming especially in technical areas of java, js, node.js and ooad.3. expert in writing top performance, accurate and highly maintainable code. 4. knowledgeable of database structures and related principles, practices and theories. 
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+hadoop developers (usa)
+
+
+
+ job title – junior hadoop developer.no of opening: entry level - 4senior level - 1multiple locations: remote(work from home)clarksburg, mdkey responsibility areas of big data / hadoop developer  job description – the responsibility of actual programming or coding big data / hadoop applications is laid upon a hadoop developer, who has a role bit similar to a software developer. the major difference is that the hadoop developer pertains to a big data domain, which has been creating rewarding and lucrative job roles since its inception. a highly skilled hadoop developer can explore plenty of growth opportunities through deeper understanding of the job role and must have enthusiasm to smartly juggle between diverse areas of responsibilities.1. development and implementation of big data / hadoop strategy2. directing incongruent data sets into the system.3. use hive and pig for pre-processing of data.4. using advanced methods for designing, developing, setting up, configuring and supporting the hadoop ecosystem.5. preparing a detailed design for translating complicated technical and functional requirements.6. performing diverse analytical methods to unravel actionable insights.7. maintaining utmost data security and privacy while handling massive amounts of critical information.8. enabling data tracking by creating scalable and top performing web services.9. tuning the system for fast querying.10. deploying and managing hbase.11. initiate in the company’s efforts in creating new hadoop clusters.12. testing prototypes, conveying results to higher management levels and decentralising work to operational teams.13. making proposals for incorporating best big data practices and maintaining set standards.essential skills required- 1. in depth knowledge of hadoop.2. adept in back-end programming especially in technical areas of java, js, node.js and ooad.3. expert in writing top performance, accurate and highly maintainable code. 4. knowledgeable of database structures and related principles, practices and theories. 
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+social media marketing manager
+
+
+
+ work from home/in office.>job type: freelance/full time.experience: 3-4 years of experience in social media marketing, 1-2 years in online education is required:ability to plan, strategize and oversee the social media marketing campaign and execute it.manage social media marketing campaign.optimize budget and roiengage existing user in social mediamanage published data.visit us at: www.cosoit.com
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+sales associate
+
+
+
+ we are looking for a result-driven sales associate to be responsible for all sales in technology consulting and education, from generating leads to closing sales in.responsibilitiesfollow and achieve department’s sales goals on a monthly, quarterly and yearly basis “go the extra mile” to drive sales actively seek out customers remain knowledgeable on products offered and discuss available option suggest ways to improve sales (e.g. planning marketing activities)
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+junior big data developer
+
+
+
+ the junior big data developer will be able to build data lakes and be able to extract, transform, and load (etl) large magnitudes of data. ideal candidates for this position must have experience with structured query language (sql), etl and scripting. they should have practical knowledge of big data frameworks. ideal candidates should also be experienced in data testing and troubleshooting, as well as other data as a service tools.required technical and professional expertise:at least 1 year experience in sql scripting/commands.at least 6 months experience in etl tool(s) (ab initio, informatica, etc).at least 6 months experience big data and/or data as a service tools and technology.exposure to one or more of the following: data lakes, hadoop, spark, hive, pig, big data platforms.at least 1 year experience in data testing specifically (vs. software testing).at least 6 months experience in programming.at least 1 year experience in reviewing/understanding user requirements.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+system administrator / infrastructure lead  
+
+
+
+ job title – system administrator / infrastructure lead   – coso it, a pioneering big data consulting firm is looking for suitable candidate for the role of admin / infrastructure lead for solely handling projects and expert technical support to the enterprise’s computing environment while working in tandem with other employees in leadership roles within the core it setup. the candidate must have utmost knowledge of dealing with projects ranging from patching, infrastructure deployment, troubleshooting of operating systems, etc. within the company’s established protocols. must be able to document and provide unique solutions for handling complex security requirements for the existing infrastructure in the most cost economic manner. expert articulation skills and proficiency in english through written and verbal methods is a must. >job responsibilities -•has eye for details and ensures that cost and quality are prioritized in the decision making process.•well versed with the basics of project management training.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+senior big data consultant
+
+
+
+ roles and responsibilities senior consultants will be responsible for designing and implementing strategies, architectures, ingestion, storage, consumption and delivery processes for complex, large-volume, multi-variate, batch and real-time data sets used for modeling, data mining, and research purposes.senior consultants work within an engagement team and are not responsible for project management.design and implement data ingestion techniques for real-time and batch processes for video, voice, weblog, sensor, machine and social media data into hadoop ecosystems and hdfs clusters.perform data studies and data discovery routines for video, voice, weblog, sensor, machine and social media data sources or mashups of new and existing data sources.visualize and report data findings creatively in a variety of visual formats that appropriately provides insights to the organization.3+ years of relevant technology architecture consulting or industry experience to include experience in information delivery, analytics and business intelligence based on data from hybrid of hadoop distributed file system (hdfs), non-relational (nosql, mongodb, cassandra) and relational data warehouses.at least 1-year hands-on working experience one or more of the following big data technologies: hadoop, mahout, pig, hive, hbase, sqoop, zookeeper, ambari, mapreduce, and r.bachelor’s degree or 4 years equivalent professional experience.in addition, successful big data senior consultants will also have the following preferred skills:experience working as a data scientistexperience designing and implementing reporting and visualization for unstructured and structured data setsexperience designing and developing data cleansing routines utilizing typical data quality functions involving standardization, transformation, rationalization, linking and matchingknowledge of data, master data and metadata related standards, processes and technologyexperience working with multi-terabyte datasetsexperience working with commercial distributions of hdfs (hortonworks, cloudera, pivotal hd, mapr)experience with hadoop cluster administrationexperience with data integration in traditional and hadoop environmentsability to work independently, manage small engagements or parts of large engagements.strong oral and written communication skills, including presentation skills (ms visio, ms powerpoint).strong problem solving and troubleshooting skills with the ability to exercise mature judgment.willingness to mentor junior staff.an advanced degree in the area of specialization is preferred.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+senior java developer
+
+
+
+ job title:  senior java developer.experience: 2-5 years.no of opening: 8location: multiple locations:remote ( work from home).bengalurupunehyderabadahmedabadgurugramroles and responsibilities:contribute in all phases of the development lifecycle.design and develop high-volume, low-latency applications for mission-critical systems, delivering high-availability and performance.write well designed, testable, efficient code.ensure designs are in compliance with specifications.prepare and produce releases of software components.support continuous improvement by investigating alternatives and technologies and presenting these for architectural review.hands on experience in designing and developing applications using java ee platforms.profound insight of java and jee internals.knowledge of relational databases, sql and orm technologies (jpa2, hibernate).
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+big data administrator
+
+
+
+ roles & responsibilities:8+ years of overall industry experience, with 3 + years in big data, hadoop and hadoop-ecosystem.responsible for researching, designing, building, testing, deploying, analyzing, administering and maintaining hadoop environments and associated hadoop hardware and software technology components to meet current and future business needs.monitoring and controlling the performance and status of technology components, and providing technology component support and problem resolution.direct the security work of more junior engineers serving as subject matter expert for security requirements within areas of responsibility.utilize proven systems, scripting and developer skills to execute on highly complex tasks related to hardware and software technology component analysis, integration, and incident and problem resolution.manage efforts to test, debug, support, and analyze performance, and document hardware and software technology components.experienced in deployment and administration for different hadoop distribution for leading organizations, which deal with strong enterprise-scale solutions architecture and implementation.experienced in anticipating problems and taking decisive action, to solve the issues without to the impact on both development clusters and production cluster.implementation and ongoing administration of hadoop infrastructure.experience in setup, configuration and management of security for hadoop clusters using kerberos and integration with ldap/ad at an enterprise level.working with data delivery teams to setup new hadoop users.experience in setting up linux users, setting up kerberos principals and testing hdfs, hive, pig and mapreduce access for the new users.expertise in cluster maintenance as well as creation and removal of nodes using tools like ganglia, nagios, cloudera manager enterprise, and other tools.experience in screen hadoop cluster job performances and capacity planning.worked on monitor hadoop cluster connectivity and security.experience in managing and reviewing hadoop log files.experience in file system management and monitoring.experience in hdfs support and maintenance.worked on database backup and recovery.excellent written and verbal communication skills.masters / bachelor degree in computer science, information systems, business or related field.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+ux / ui developer
+
+
+
+ job description – looking for a highly knowledgeable and skilled ux / ui developer adept in css3, html5, jquery and javascript. must be able to intelligently handle the position of an intermediate software application engineer and is capable of developing numerous cross platform applications and implementation of responsive design. the candidate will be responsible for ui implementation and along with ux and must get actively involved in creating the most efficient and cost economical ui development strategy. the role demands the candidate’s accountability in translating the visual designs provided by the ux team into functional and interactive experience on various devices. the ux / ui developer is expected to coordinate with the ux design team to ensure that the final ui experiences are in line with the look and feel design language to convey the brand message on visual grounds. the developer is also expected to have close communication with back-end developers and engineers to ensure seamless work flow between the design and development processes. also necessary is the capability to create stunning browser based ui solutions and user interfaces.job expectations and responsibilities:-operating effectively as an integral part of the development team.must be an expert in implementing a responsive ui and translating wireframes into working code.working effectively as a quick problem solver for initiating actions for enhancements and fixes.collaborate with the back-end developer and keep communication lines open with the api.building and managing clean, tested html5, javascript and css3 for web applications. creating unique solutions and conducting unit tests for new user-facing features with javascript, html5 and css3.delivering extraordinary performance even during pressure situations and tight deadlines.must be able to work as a team leader and a team member simultaneously and be open to suggestions from subordinates as well as easy to work with for others.exhibiting truly creative analytical and technical skills.demonstrating ability to communicate appropriately in both business and technical environments.extensive knowledge of code versioning tools.working proactively to meet expectations on time and deliver high-quality results.developing programs in a well defined and easily manageable format.essential skills:-•       adept in front end development.•       expert in markup skills utilizing html5, css3 and javascript.•       in-depth knowledge of css pre-processors.•       thorough understanding of design, mark up, development of the ui of websites and web   applications.•       extensive knowledge of ui and ux design with immense focus on maximizing usability.•       having great front-end skills along with basic understanding of working of back-end development.•       fluency in written and oral communication skills.•       willing to work in a flexible, collaborative, innovative and team-oriented environment.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+software engineer 
+
+
+
+ job description:at coso it, we employ the best talent for building and innovating technological marvels in line with our customer-centric approach. this has been our firm’s usp to focus intensely on customers. our products and services impact a large number of customers, sellers and developers. this makes us selective about hiring people and making them companion in this challenging journey. we are looking for the kind of developers at coso it who believe in taking the challenges head-on and build new services, features and platforms from the scratch while managing the ambiguity and pace of the company to contribute in its growth trajectory positively. primary roles and responsibilities:•maintaining open lines of communication with the top management level.•reviewing and making changes in the codes and the environment that can adversely impact the system performance.•quick and accurate problem solving.•in-depth understanding of concepts like networking and distributed computing environment.•having excellent communication skills with immense fluency in verbal and written communication.•boasts a positive attitude with the ability to bring out of the box solutions.•prepare reports and analysis showcasing progress, adverse trends and making suitable recommendations.•must be proactive in teaching or instructing co-workers.•must have highly advanced technical skills.•expert knowledge of computer logic, flow charting, computer languages, program designing and techniques, data structures, database vendor versions, etc.•must assist the programmer analysts in developing programs and databases.•productively work in a team.•expertise in writing program documentation.•in-depth knowledge of used operating systems.•expert in working with networking technologies.•immense knowledge of security and encryption.•can work in hostile environments and tackle challenges in writing, designing, editing, modifying and debugging the computer programs.•showcase ability in using standard computing tools such as spreadsheet, word processor, email and browser along with file compression software.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+big data engineer
+
+
+
+ as a big data engineer, you will provide technical expertise and aptitude to hadoop technologies as they relate to the development of analytics. you will be responsible for the planning and execution of big data analytics, predictive analytics and machine learning initiatives. you will help lead the plan, build, and run states within the enterprise analytics team and act in a lead role driving user story analysis. by creating optimization and stability to the platforms, you will play a key role in the architecture design and data modeling of the platform and analytic applications. you will engage in solving and supporting real business issues with your hadoop distributed systems and open source framework knowledge. you will perform detailed analysis of business problems and technical environments and use this data in designing the solution and maintaining data architecture. you will focus on creating strategy, researching emerging technology, and applying technology to enable business solutions within the organization. other responsibilities of the big data engineer include: designing and developing software applications, testing, and building automation tools. designing efficient and robust hadoop solutions for performance improvement and end-user experiences. working in a hadoop ecosystem implementation/administration, installing software patches along with system upgrades and configuration. conducting performance tuning of hadoop clusters while monitoring and managing hadoop cluster job performance, capacity forecasting, and security. defining compute (storage & cpu) estimations formula for elt & data consumption workloads from reporting tools and ad-hoc users. analyzing big data analytic technologies and applications in both business intelligence analysis and new service offerings, adopting and implementing these insights and standard methodologies. other responsibilities of the big data engineer include: required qualifications:8+ years' experience with big data platforms and tools and hadoop implementation experience including the following: 5+ years' experience in the transformation and delivery in hadoop ecosystem (hadoop, pig, hive, flume, ozie, avro, yarn, kafka, storm and apache ni-fi). 5+ years'experience in architecture and implementation of large and highly complex projects using hortonworks (hadoop distributed file system) with isilon commodity hardware. 5+ years' experience in unix shell scripting. 3+ years' experience using different open source tools to architect highly scalable distributed systems. preferred qualifications:experience with hadoop ecosystems and isilon storage. understanding of machine learning and artificial intelligence advanced analytics. experience in data warehouse and bi analytics. experience with spark, r, python, scala, java/c++, and sql/rdbm. 
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+principal devops engineer
+
+
+
+ devops engineer provide infrastructure collaborative engineering support to teams comprised of software development and operations engineers. the pipelines they design, implement, and support enable our projects to scale up and run as clean as possible.roles & responsibilities:work as a consultant engaged with other engineering team to oversee, design, implement, and manage devops capabilities in cloud offerings using ci/cd toolsets and automation.create highly robust infrastructure architectures with systems that support development of enterprise-class applications and services with high performance, availability, and scalability needs.ensure devops systems we build are robust in the sense they can scale, handle rapid growth, and limit exposure to single points of failure and security vulnerabilities.closely collaborate with software engineers to make it easy for them to roll out new code and test new features.work with other highly skilled devops focused engineers, to grow and learn from each other.demonstrated significant experience, 8+ recent years as a software developer and/or as a devops engineer, in a role responsible for planning, designing, and leading implementation of high volume software development infrastructure growth.software development background. understanding of the agile software development lifecycle.experience working alongside and supporting multiple agile development teams.understanding of how to assess situations, make customer recommendations on approaches to tackle the devops challenge, and implementing devops infrastructure in both greenfield and legacy environments.solid understanding of sql, relational and non-relational databases.experience with automation and cloud orchestration tools like chef, puppet or equivalent.strong understanding and familiarity with the fundamentals of unix systems administration.bs or ms in computer science, engineering or equivalent technical degree.excellent written and verbal communication skills.a desire to learn from some of the smartest industry leaders and apply your knowledge and experience in interesting and innovative ways.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+spark/flume content analyst
+
+
+
+ job summary:experience working with near real time campaign environments.proved experience working with spark and flume in projects.experience configuring and using queues (ibm mq, rabbitmq, kafka...).ability to analyze complex use cases for near real time campaigns and extract technical requirements. must possess solid analytical and technical capabilities and a demonstrated ability to broadly apply these skills autonomous/self starter. work with multiple groups including business / technical subject matter experts, architects, and software labs. ability to work independently. strong ms excel skills.    requested skills:        experience working with ibm db2 databases.        experience working with informatica powercenter.        experience in project management.        experience working in international environments.        ability to create ms powerpoint presentations to illustrate concepts.    responsibilities        analyze business use cases for near real time campaigns and extract technical requirements.        creation of functional documentation, process flows, business rules definition and documentation.        interaction with other teams to discuss the integration of the software with other tools .        management of deployment of software through the different life cycle environment.        validation (testing) of software received and installed in certification and production environments, reporting incidences and pre paring fix plans.        support the business testing of the software.        work with the architecture team to determine the best solution for the real time events needed.        work closely with developers and testers to ensure business needs are translated accurately into working systems
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+senior infrastructure machine learning developer
+
+
+
+ senior infrastructure machine learning developer will develop models using machine learning, deep learning and other similar technologies to predict and analyze systems within our infrastructure. developers will work on innovative and complex solutions with the use of machine learning and statistical analysis. fundamental components:independently designs and/or codes and may lead others in the development of cost effective application and program solutions.analyzes large amounts of data from our infrastructure systems.build models with the use of machine learning, deep learning and similar technologies. prototype these models by using software languages such as python or relevant modeling languages.interact with customers to develop an understanding of their business requirements and operational processes. independently supports processes related to the implementation of systems into production, including integration of purchased solutions.designs, codes, tests, debugs, and documents those models.receives some supervision and direction as regards prioritization of work but is competent to workindependently and to offer direction and oversight to assigned team.background/experience desired:experience in software development, or an equivalent combination of education and work experienceknowledge of machine learning, data mining, statistics, applied mathematics, or a related field2+ years of experience in machine learning with domain knowledge and experience in the following areas: data-driven statistical modeling, discriminative methods, feature extraction and analysis, supervised learningfluency in a software programming language such as python, java, c++, etc.experience with data extraction and analysis.bachelor's degree in computer science, mathematics or an equivalent combination of education and experience· team player: willing to teach, share knowledge, and work with others to make the team successful.communication: exceptional verbal, written, organizational, presentation, and communication skills.creativity: ability to take written and verbal requirements and come up with other innovative ideas.attention to detail: systematically and accurately research future solutions and current problems.strong work ethic: the innate drive to do work extremely wellpassion: a drive to deliver better products and services than expected to customers.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+principal machine learning engineer
+
+
+
+ job description:we are looking for a principal software engineer to join a growing world-class data science and engineering group dedicated to excellence. you will: provide technical leadership to a strong team of data scientists, engineers, and analysts.design and code highly scalable, machine learning applications processing large volumes of data.collaborate with others in crafting and implementing your technical vision.follow agile processes with a focus on delivering production-ready testable code in small iterations.participate in the entire development lifecycle, from concept to release.participate in all phases of quality assurance and defect resolution.requirements:8-10+ years software development experience with highly scalable systems involving machine learning and big data.demonstrated technical project or product development leadership.expertise with data analysis languages such as python, scala, or r.experience with hadoop and spark is a plus.experience with amazon aws services (specifically s3, emr, rds and ec2).experience with modern source control (git, hg, svn).a masters degree or phd in computer science or related field.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+applications architect
+
+
+
+ description:solid understanding of data analysis process, including problem specification, data exploration, data modeling, evaluation and recommendation.solid understanding of experimentation and statistical analysis.advanced knowledge and hands-on experience of machine learning methods.proven data visualization experience.experience in python.proficient in writing and understanding complex sql.understanding of algorithm design and data structures.excellent communication and presentation skills.experience with distributed computing (hadoop/spark).advanced knowledge of design of experiment.desired:expertise in recommendation systems and algorithms, such as collaborative filtering, content-based recommendation, and hybrid recommendation.experience with major supervised and unsupervised learning algorithms.solid understanding of how the machine learning algorithms work.experience with unstructured data analysis, like text mining.knowledge of online learning and reinforcement learning.ability to customize and implement ml algorithms on large scale of data in python/r/spark.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+data scientist
+
+
+
+ required qualificationswe are looking to hire data scientists with at least 5 years of technical experience working with data and deploying analytical solutions.  qualified candidates must have a bachelor’s of science degree in a technical field.   all applicants for cleared contracts must be a us citizen and have or be willing to apply for a top secret security clearance.  ideal candidates have technical skills and analytic tool experience in several of the following areas:technical areas: machine learning, predictive analytics, data mining, advanced analytics, statistics, workload prioritization, operations research, risk analysis, streaming analytics, anomaly detection, exploratory data analysis, etl, event log processing, mathematical modeling, graph/network analysis, data visualization, text mining, data access, storage and retrievalanalytic tools: r/shiny, python, sql, ibm spss modeler, java, pig, spark, oracle, rapidminer, knime, statistica, sas, matlab, neo4jqualifications:graduate degrees with 2 years of experience  domain expertise: national security, intelligence, counterintelligence, insider threat, biometrics, counter-terrorism, case support, executive protective, behavioral science, continuous evaluation, information security, cyber security, cbrn-wmd, emerging technologies/threats, s&t, r&dcoso it is an equal opportunity employer. all qualified applicants will receive consideration for employmentwithout regard to race, color, religion, sex, sexual orientation, genderidentity, national origin, or protected veteran status and will not bediscriminated against on the basis of disability.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+technical trainer
+
+
+
+ we are looking for trainers in who can assist us in the execution of our training services in following categories:rdata sciencepythonmachine learningartificial intelligencespark and hadoop.you can apply for any of the training services in above list. please attach your updated profile.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+mongodb database administrator
+
+
+
+ key ares : mongodbdeveloper/dbamode       : fulltimesalary      : negotiableremote    : yes we are looking for 2 mongodb developer/database administrators who are able to support our us clients. responsibilities:    install, deploy and manage mongodb on physical and virtual machines.    create, configure and monitor large-scale, secure, mongodb sharded clusters.    support mongodb in a high availability, multi-data center environment.    administer mongodb ops manager monitoring, backups and automation.    provide capacity planning.    perform upgrades and maintenance.    provide custom scripting support.    provide configuration management support with puppet and ansible.    continually provide improvements through automation and new functionality.required skills:    3+ years supporting mongodb in a production environment    3+ years linux os experience in a production environment.    some mongodb ops manager experience    scripting skills (javascript)    one or more of the following:    scripting skills (python/ruby)    devops automation experience with puppet or ansible.    professional experience with docker, kubernetes or openshift
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+big data architect
+
+
+
+ designation: big data architect mode    : contract corp-to-corp, c2h corp-to-corp, c2h independent, contractsalary  : negotiablerole & responsibilities:design and implement big data analytic solutions on a hadoop–based platform. create custom analytic and data mining algorithms to help extract knowledge and meaning from vast stores of data. refine a data processing pipeline focused on unstructured and semi-structured data refinement. support quick turn and rapid implementations and larger scale and longer duration analytic capability implementations.    hadoop development and implementation.    loading from disparate data sets.    pre-processing using hive and pig.    designing, building, installing, configuring and supporting hadoop.    translate complex functional and technical requirements into detailed design.    perform analysis of vast data stores and uncover insights.    maintain security and data privacy.    create scalable and high-performance web services for data tracking.    high-speed querying.    managing and deploying hbase.    propose best practices/standards.skills:    experience with hadoop and the hdfs ecosystem    strong experience with apache spark, storm, kafka is must.    experience with python, r, pig, hive, kafka, knox, tomcat and ambari    experience with mongodb    a minimum of 4 years working with hbase/hive/mrv1/mrv2 is required    experience in integrating heterogeneous applications is required    experience working with systems operation department in resolving variety of infrastructure issues    experience with core java, scala, python, r    experience on relational data base systems(sql) and hierarchical data management    experience with mapreduce    experience to etl tools such as sqoop and pig    data-modeling and implementation    experience in working with market / streaming data and time-series analytics    experience on working with different caching strategies    experience on working with multiple solutions for data movements such as – file copy, pub-sub, ftp, etc    development of web-based and digital framework for content delivery    experience with batch processing    experience working with hortonworks or cloudera (preferred)    data torrent / apex and pentaho is a plus    experience with navigator is a plus    experience with rest api is a plus    experience with streaming processing is a plus    exposure to encryption tools (hp voltage) is a plus    exposure to nosql store is a plusqualifications:    strong apache spark experience required.    2+ years working experience in usa, as this is with a federal client.    building the infrastructure using ambari (extensive knowledge on how to configure the servers, automating all the steps of installation of hdp stack using ansible, puppet/docker container services).    experience in capacity planning of the infrastructure (type of servers, memory, cpu requirements based on the type of the service needed  on the server).    extensive experience with hdp 2.4/2.6 stack.    extensive experience needed on apache spark (infrastructure  as well as the programming and architecture).    experience on apache nifi.    experience in hdfs, mapreduce2, yarn, hive, zookeeper, ambari metrics, kafka, log search    he/she needs to be hands-on architect who can write code as well as provide the solutions in hdp scope.    elasticsearch and visulization tools experience.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+sr. hadoop architect
+
+
+
+ key areas: spark, mapreduce, hive, kafkamode        :contract corp-to-corp, c2h corp-to-corp, c2h independent, contractsalary       :negotiableremote     :telecommuting not availableresponsibilities• analyze business requirements then design & develop applications to support them, suggesting the innovative use of newer technologies where appropriate.• understand & follow the complete agile sdlc methodology.• build and maintain positive relationships with internal clients & it co-workers.• possess excellent oral and written communication skills.• have the ability to manage multiple tasks and projects simultaneously.• possess the ability to associate past experience with current events in order to resolve problems or generate new ideas.• develop & execute test scenarios ensuring the stability/performance of applications.qualifications• bachelor's degree in computer science, engineering, or equivalent work experience.• minimum of 8+ years of experience working with java, linux/unix, shell scripting, and rdbms.• minimum of 5 years solid experience w/hadoop & related stack.• must have working knowledge of architecting mapreduce, pig , hive , spark, spark streaming, kafka applications.• knowledge of impala is a must.• cloudera/hortonworks certification added advantage.• minimum of 2 years’ experience with spark components. (spark core, spark sql are mandatory).• experience with architecture, design & development of big data & data marts utilizing hadoop and/or in-memory databases such as mongodb, hbase• knowledge of agile development methodology and devops is a plus.
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+interns
+
+
+
+ we are looking for five interns in education area who have good academic records and are proficient in english and match to help developing content material in the stem. responsibilities: as an intern, you will be responsible for following education content development     testing virtual tutor piolet program finding ways of innovative curriculum designdeveloping surveys to get feedback identifying future education trends     social media and marketing recruiting others 
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+solr/solrcloud administrator
+
+
+
+ designation: solr/solrcloud administratorkey ares: solr, solr cloud, rhel, zookeepermode    : contract corp-to-corp, c2h corp-to-corp, c2h independent, contractsalary  : negotiablelocation: new york, nyexperience:     expert in apache solr and solrcloud for large-scale search     knowledge of developing analyzers for indexing data from various repositories    ability to troubleshoot the infrastructure issues related to solrcloud    expert in performance tuning the solrcloud infrastructure.skills:     2+ years working experience in usa, as this is with a federal client.    hands on experience with solrcloud and zookeeper.    good working knowledge on red hat jboss platform.    we need a consultant who worked on solrcloud from infrastructure side. 
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+html/css developer
+
+
+
+ the candidate must have 3 to 5 years of following skills - html/css - bootstrap 4.0 - php - mysql - wordpress - open cart - adobe photoshop 
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+×
+web developer
+
+
+
+ key ares  : php, mysql, javascript, html, css, bootstrap, opencart, wordpress, mvc mode        : full time, part-time, employeeremote     : availablerequired skills: expert html, css, botostrap, javascript hand-coding skillsproficient using php and mysqlexperience with css preprocessors (less and sass)experience with mvc frameworksexperience with responsive web design and frameworks such as bootstrapexperience with cms systems like wordpress, opencart experience with website performance optimization, seo, and website analyticsversion control experience like githubstrong understanding of cross-browser compatibility and web standardsexperience with website securityexcellent communication and team collaboration skills
+email us:  
+
+
+
+close
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+coso it is a global company started in 2008 to provide product and services in big data, analytics, and artificial intelligence.
+                 	in today’s competitive era, reaching the pinnacle for any business depends upon how effectively it is able to use the huge amounts of rising data for improving its work efficiency. bringing a 360 degree transformation in the way businesses handle data through big data technology, is the major mission of coso it.
+                
+
+
+
+
+
+
+
+quick links
+
+  consulting
+ our services
+ current openings
+ latest news
+ upcoming events
+
+
+
+
+
+social network
+coso has made a big investment in building out a powerful expertise in big data and ai. check out the our social links!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© copyright 2017 coso it
+
+
+
+home
+contact us
+events
+news
+terms of use
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

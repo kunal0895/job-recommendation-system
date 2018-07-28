@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - software engineer, prod dev (big data) - career
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+software engineer, prod dev (big data) - career
+
+
+				apply
+			
+
+
+
+job number:
+								12079
+						
+
+position title:
+
+
+external description:
+job summary:as an engineer - big data platforms, you will develop strategic design and requirements on small systems or modules of large systems (large scale). the engineer - big data platforms is essential to guiding and mentoring junior developers in developing code and workflow procedures, as well as conducting code reviews. the engineer - big data platforms position is responsible for perform general application development activities, including unit testing, code deployment to development environment and technical documentation.additional responsibilities of the engineer - big data platforms include:be part of a team responsible for technical vision, architecture, design and development of platform components of the next generation bureau platform.participate in collaborative software and system design and development of the new platform.explore and evaluate new ideas and technologies.ensure conceptual and architectural integrity of the platform.work on large-scale, multi-tier big data engagements.play active role in communities of practice and organizing hackathon(s).be a mentor and role model to less experienced developers.required skills:knowledge of oop design and patterns5+ years of experience developing with modern jdk (v1.7+)strong knowledge of source code repository like svn/git & build tools like mavenproven use of open source frameworksexperience developing high throughput or high volume applicationsstrong experience with linuxfamiliar with agile development practicespreferred skills:1+ year of experience with big data technologies such as spark, kafka, elastic search and/or hadoop experience in working with un-structured or semi-structured data. experience with apache avro is a plus.experience in functional programming in scala, especially in spark programmingdevelopment experience with at least one nosql database development (2 years/skilled). cassandra preferred.devops: appreciates the ci and cd model and always builds to ease consumption and monitoring of the system.willingness to acquire new skillsexperience in building self-contained applications using docker, vagrant, puppet, chefprimary location:usa-atlanta-one-atlantic-centerusa-atlanta jv whitefunction:function - it product engineeringschedule:full time
+						
+					
+						
+city:
+								atlanta
+						
+
+location_formattedlocationlong:
+								atlanta, georgia  us
+						
+
+state:
+								georgia
+						
+
+community / marketing title:
+								software engineer, prod dev (big data) - career
+						
+
+company profile:
+
+
+requisition number:
+								j00051768
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+software engineer, prod dev - intermediate
+
+alpharetta, ga
+
+solutions architect
+
+alpharetta, ga
+
+senior software engineer
+
+leeds, uk-yh
+
+senior software engineer
+
+leeds, uk-yh
+
+ui/ux developer
+
+st. louis, mo
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

@@ -1,0 +1,347 @@
+
+
+
+		sr. full stack developer -		discogs - 		job board
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+go to our website »
+
+
+
+
+
+
+
+
+
+
+
+
+« go back to job listings
+
+
+sr. full stack developer
+
+
+
+location: portland, or		
+
+department: engineering		
+
+type: full time		
+
+min. experience: experienced		
+
+
+
+
+
+about us
+discogs is the largest database of music information. each month, millions of people use discogs to connect and learn about music as well as buy and sell it. we are a small and creative company where each team member’s contribution can have a large impact. as discogs continues to grow, we are looking for bright, dedicated, innovative, and highly motivated people to help us realize the vision of discogs: to be the premier website for music enthusiasts everywhere.
+
+what we're looking for
+a qualified candidate will have extensive experience working in a services-oriented architecture; the ideal candidate will have demonstrable experience orchestrating multiple services (a "forest") beyond contributions to individual services ("trees"). while this position will work primarily with python, sql, docker, and kubernetes, skills in javascript and css are a nice bonus. the candidate should be familiar with development best practices like tdd, ci, and domain-driven design. we want someone knowledgeable about industry trends, but also with the experience to know when to rely on time-honored principles and tools.
+as a member of a small cross-functional team focused on the discogs marketplace, you will help design, improve, and implement apis and infrastructure that power one of the largest music marketplaces in the world. empathetic communication and low-ego collaboration are core to how we work, whether that's inside the team, in concert with other development squads, or in conversation with nontechnical areas of the business.
+your wheelhouse
+
+provides mentoring to other developers
+guides technical decisions related to api design and services architecture
+familiar and experienced with common pitfalls and needs of a service-oriented architecture - short circuiting, transaction tracing, and caching
+develops and maintains software following agile and devops methodologies
+collaborates with team members on troubleshooting and creating elegant solutions to complex problems
+assists with estimation and prioritization of development efforts
+actively engages with product-focused teams to build a variety of features
+
+how you got here
+
+five or more years of experience building scalable and high traffic web applications
+three or more years of experience in a services-oriented architecture
+thorough understanding of full stack web development and object-oriented programming
+preference for open source software tools
+proven track record of shipping code and getting things done
+experience with automated testing and test-driven development
+demonstrates effective communication with a global team in multiple time zones
+
+compensation, benefits, and perks...oh my!
+
+competitive compensation: salary quarterly bonuses, profit sharing, and 401(k) match
+your choice of hardware: macbook air or pro are the most common among our team members
+tri-met pass: our office is conveniently located within steps of a blue line max stop
+healthy amounts of paid time off (pto), holidays, and paid maternity/paternity leave
+fully paid medical and dental insurance for you and your dependents
+gym membership or wellness stipend
+team member exchange program: eu office is located in amsterdam, netherlands
+annual continuing education allowance
+flexible work environment
+comfortable, well-stocked office (we like snacks)
+catered lunch on fridays
+fun and dynamic culture
+
+when applying please include a cover letter and tell us why you want to work at discogs. please also include links to your code and/or open-source contributions on github or bitbucket.
+discogs, inc. is an equal opportunity employer. applicants needing accommodation to apply should contact us at 503-597-6340.
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+forward this position
+
+
+
+
+				recipient email address (one)
+			
+
+ 
+
+
+
+				your name
+			
+
+ 
+
+
+
+				your email address
+			
+
+ 
+
+
+
+				enter a message (optional)
+			
+
+ 
+
+
+
+
+  
+
+
+
+
+« go back to job listings
+
+
+
+
+
+
+
+
+
+
+
+
+
+			apply for this position		
+
+			* required fields
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+
+
+last name*
+
+
+
+
+
+email address*
+
+
+
+
+
+location 
+
+
+
+
+
+phone number*
+
+
+
+
+
+resume*
+
+
+attach resume or
+					paste resume
+
+
+
+
+
+						attach resume as .pdf, .doc, or .docx (limit 2mb) or
+						paste resume
+
+
+
+ 
+
+
+
+
+						paste your resume here or
+						attach resume file
+
+
+
+ 
+
+
+
+cover letter*
+
+
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+
+
+
+
+what excites you most about the potential of working at discogs?*
+
+
+
+
+
+briefly describe the attributes of the best team you have worked on.*
+
+
+
+
+
+what would you improve on discogs?*
+
+
+
+
+
+links to your code samples at github, bitbucket, etc if applicable:*
+
+
+
+
+
+who are your top five favorite music artists?*
+
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

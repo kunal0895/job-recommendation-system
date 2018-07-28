@@ -1,0 +1,247 @@
+
+
+
+
+job application for data analytics engineer at nutonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data analytics engineer
+
+        at nutonomy
+      
+(view all jobs)
+
+        boston, ma or santa monica, ca
+      
+
+
+nutonomy aims to be the first company in the world to launch an autonomous taxi system, and we are building up an awesome team to make this goal a reality. we are developing the first-of-its-kind complete solution for providing point-to-point mobility via large fleets of autonomous vehicles. this includes software for autonomous vehicles, smartphone-based ride hailing, fleet management, and teleoperation. the company's software has been tested extensively on public roads in the u.s. and singapore. we offer a unique opportunity to work closely with experts from a wide array of backgrounds, to create ground-breaking technology with potential for huge impact. as a member of a fast-growing start-up, you will be able to make a large contribution to the final product. for more information about nutonomy, visit: www.nutonomy.com
+ 
+
+we are seeking a highly talented data/analytics engineer in santa monica, ca or boston, ma to support a variety of teams and projects, including the following:
+
+help define useful metrics to quantify performances of core vehicle software systems
+provide estimators of such metrics based on data
+provide insights and bounds on the amount of data required to be reasonably confident about the estimation
+mine for “outlier” cases
+leverage metrics to identify regressions and validate improvements in our software
+
+things you’ll work on:
+
+design machine learning algorithms from scratch
+translate generated algorithms into production-level code
+define system documentation, metrics, measurements
+collaborate with various teams to achieve objectives in improving the system with more data
+
+
+education and skills you’ll likely have:  
+
+practical experience in data science, statistics, and analysis of large data sets
+fluency in in a modern programming language, such as c++, python, r, or julia (and their related data processing, machine learning, and visualization libraries)
+ma in data science or similar preferred
+
+bonus points:
+
+experience using data modeling tools
+familiarity with autonomous robotics and vehicle systems
+
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you legally authorized to work in the united states?
+    
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

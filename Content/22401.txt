@@ -1,0 +1,884 @@
+
+
+
+
+
+
+
+
+
+
+
+
+smts design engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+view profile
+
+
+
+ menu 
+
+
+
+
+career home
+
+
+about us
+
+
+life at amd
+
+
+amd careers
+
+engineering
+sales & marketing
+corporate functions
+students
+
+
+
+global jobs
+
+
+join our talent network
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+search jobs by keyword
+
+
+
+
+search jobs by location
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+smts design engineer
+
+location: 
+austin, us
+
+
+company: 
+advanced micro devices
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+what you do at amd changes everything 
+ 
+at amd, we push the boundaries of what is possible.  we believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center. 
+ 
+developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results.  it takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world.   if you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+ 
+amd research seeks an experienced researcher to work on energy efficient pipelining techniques.  the candidate will investigate how architecture, microarchitecture, circuits, and system level control techniques can be used together to reduce energy consumption. development of dynamically data adaptive systems will result in prototyping and implementations in next generations of computing devices. deep understanding of data compression and encoding techniques, physics of data movement, and circuits design and evaluation are required. familiarity of machine learning technologies is beneficial. familiarity with gpu architectures and gem5 simulation environment is desirable. the individual will be working closely with engineering groups.  the candidate will have a demonstrated track record of publications and patents in the field.  
+ 
+general responsibilities:
+
+provide expertise in design, process and integration for advanced technology development.
+identify technology and manufacturing marginal areas and develop a bottom up dfm plan.
+specify technology metrics and milestones for yield improvement.
+
+general requirements:
+
+5-10 years of professional experience in the semiconductor industry
+experience with advanced semiconductor technologies such as 45/40nm, 32/28nm and 22/20nm preferable with opc and lithography background.
+familiarity with all design areas and tools and solid understanding of design/technology interactions
+database query and statistical analysis skills strongly desired
+calibre techfile expert (dfm, opc, tvf, drc, fill)
+skill and ample coder (pcells)
+c++ / sql / unix coder (scripting as well as cvs)
+design automation evaluation
+openaccess c++ programmer
+good understanding of computer organization/architecture.
+laboratory experience, including the use of equipment: oscilloscopes, logic analyzers, etc.
+strong analytical/problem solving skills and pronounced attention to details.
+must be a self-starter, and able to independently drive tasks to completion.
+good teamwork and communications skills are mandatory
+
+education:
+
+bs + 8 years or ms + 6 years or phd + 2-3 years electrical engineering and/or computer architecture work experience
+
+
+
+requisition number: 34842 
+country: united states state: texas city: austin 
+job function: design 
+ 
+amd does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. amd and its subsidiaries are equal opportunity employers. we consider candidates regardless of age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status. please click here for more information.
+
+
+
+nearest major market: austin
+                    
+                
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+engineering
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+search jobs by keyword
+
+
+
+
+search jobs by location
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+view all jobs
+top job searches
+products
+solutions
+innovations
+audiences
+shops
+amd
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©
+                2017  advanced micro devices, inc
+terms and conditions
+privacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

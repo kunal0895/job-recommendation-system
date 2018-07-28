@@ -1,0 +1,386 @@
+
+
+
+
+
+
+
+mimi's cafe | careers | the potential for exciting growth and change is greater than ever right now at mimi’s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nearest location
+
+
+more
+
+
+close
+
+
+
+to-go
+
+careers
+news
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home | menu | locationslocations | to-go
+
+menu | catering | gift cards
+
+join the e-club | our story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+breakfast
+lunch
+dinner
+wines
+kids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+business intelligence software engineer
+
+
+location:
+dallas, tx corporate office
+
+
+employment duration:
+full time
+
+
+
+about mimi's
+
+
+about mimi's
+the story of mimi’s started with people; arthur j. simms was inspired by the beauty, foods and flavor of france and a woman he met there named mimi. today at mimi’s we embody this inspiration and we strive to provide the same warmth and sincerity that one would welcome a guest into their home with. at mimi's, our associates are the most important resource in our service commitment to our guests. by applying the 'three standards of excellence' and embracing our values of trust, teamwork, respect integrity and commitment, we nurture and maximize talent to the benefit of each individual and the company. mimi's fosters a work environment where diversity is valued, quality of life is enhanced individual career aspirations are fulfilled and mimi's continued success is celebrated by all.
+when you work for mimi’s, you become family!
+
+
+
+description
+title:             business intelligence software engineer
+dept:              information technology
+reports to:  director, enterprise & it solutions
+ 
+position purpose 
+the business intelligence software engineer is responsible for the technical design, architecture and delivery of etl-based integrations and business intelligence solutions that enhance data flows between disparate operational systems and the enterprise data warehouse.  this position interacts with various internal business units and the technology team to discover and translate business requirements, to design, build, & maintain data models, and create complex reports and dashboards in various projects.  the position is responsible for developing dependable, well thought out integrations and applying bi subject matter expertise (data discovery, data modeling, and appropriate bi solution delivery) to provide the business units with the tools and data representations that will help attain strategic goals for those business units and the organization.  this position designs, develops, deploys and supports various integrations and bi applications utilizing the microsoft sql stack, including ssis, ssas, ssrs and power bi.  the position also performs ad-hoc analysis and supports business owners to identify performance trends.
+ 
+essential responsibilities & duties
+
+
+work with internal constituents to understand business requirements and goals, and help capture the strategy, content, and features for layout of our reporting environments.
+
+
+lead bi efforts for enterprise projects through entire project lifecycle; lead analysis, architecture, design and development of data warehouse and business intelligence solutions; analyze data sources, requirements and business rules, perform logical and physical data modeling, write prototype sql to prove data transforms, write specs for etl development, implement and test database design.
+
+
+design, develop, deploy, maintain, monitor, and tune esb and etl solutions to incrementally load enterprise data warehouse, populate summary data structures, analysis cubes and enterprise reporting systems.
+
+
+work with cross functional teams to collect requirements, analyze, identify critical metrics and kpis and design bi or reporting solutions to meet business needs.
+
+
+perform ad-hoc analysis and support business owners to identify performance trends.
+
+
+minimum requirements
+ 
+
+
+experience with business intelligence and enterprise reporting solutions, proficiency with microsoft tools including ssas, ssrs, ssis, visual studio and/or business intelligence development studio, excel analytical services, microsoft power bi, and oracle essbase
+
+
+expert experience in designing and developing ssis etl routines for data warehouses.
+
+
+tabular modeling experience including ssas cube development, fluent in mdx, power bi and ssrs.
+
+
+proven experience architecting, building and delivering enterprise reporting and business intelligence solutions.
+
+
+professional experience with high performance t-sql development methodologies; strong knowledge of sql server programming practices with solid sql optimization and relational database knowledge.
+
+
+an understanding of excel powerpivot, power query, power view, powerpivot galleries, and sharepoint integration around ms bi tools.
+
+
+must be detail-oriented data analysis expert with deep knowledge of relational database structures.
+
+
+excellent verbal communication skills.
+
+
+perform well under pressure, with ability to manage multiple projects and deadlines simultaneously.
+
+
+excellent analysis, development and requirements gathering skills
+
+
+outstanding communication skills (oral, written, presentation)
+
+
+strong analytical and problem solving skills, with strict attention to accuracy and detail, and the ability to evolve data into knowledge
+
+
+strong software development life cycle experience from requirements definition to design to development to testing to deployment with skills in documentation, it processes, and leading.
+
+
+education & experience
+
+
+bachelor’s degree in it or technical field preferred
+
+
+8+ years of experience, specializing in integrations and bi solution architecture, design, and development.
+
+
+technical specialization in: sql server integration services, sql server analysis services, sql server reporting services and other related technologies.
+
+
+strong background in data warehousing principles and data modeling, specifically design and delivery of star-schema based data marts
+
+
+strong aptitude for learning new technologies and analytics techniques
+
+
+highly self-motivated and able to work independently as well as in a team environment
+
+
+other requirements/working conditions
+
+
+occasional travel - 10%
+
+
+work is completed in a general office environment.
+
+
+90% work on a computer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+menu
+
+breakfast
+lunch
+dinner
+wines
+kids
+nutrition
+
+
+
+locations
+
+search by state
+
+
+
+to-go
+
+order to-go
+
+
+
+catering
+
+catering information
+catering menu
+
+
+
+join the club
+
+eclub sign up
+
+
+
+gift cards
+
+the perfect gift
+gift card balance
+
+
+
+about
+
+our story
+happenings
+fundraising
+careers
+guest relations
+
+
+
+
+
+© 2014 swh mimi's cafe, llc | terms & conditions | privacy policy 
+
+  
+
+
+
+
+  
+
+terms & conditions | privacy policy 
+
+
+
+
+
+
+
+

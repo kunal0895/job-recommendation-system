@@ -1,0 +1,303 @@
+
+
+
+		data scientist -		true fit - 		job board
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+go to our website »
+
+
+
+
+
+
+
+
+
+
+
+
+« go back to job listings
+
+
+data scientist
+
+
+
+location: boston, ma		
+
+department: science		
+
+type: full time		
+
+min. experience: mid level		
+
+
+
+
+
+company overview
+true fit is a data-driven platform that uses one-of-a-kind data to help people find clothes and shoes that they love and keep. we have the world's most complete fashion dataset allowing us to connect consumers, brands, and retailers across the entire industry.  this dataset is the fuel for deep personalization powered by ai and driven by our science and engineering teams. we are looking for energetic and motivated scientists at all levels to join us at our downtown boston location.
+our fashion retailer dataset is unparalleled, and our work is much more than analyzing sales and return patterns.
+what we do
+
+personalized recommendations -  using collaborative filtering and both style and shape based recommender systems for personalized affinity predictions and recommendations.
+large scale text classification - to categorize products and extract attributes which helps retailers better organize their product catalogs.
+entity disambiguation - to help make sense of the thousands of different product sizes and to translate them all to a common scale.
+anomaly detection - to identify strange user behavior and, to detect both internal and external system issues.
+
+what you will do
+
+define problems, research solutions, and figure out which data to use in your solution.
+query, assemble, clean, and refine datasets in preparation for analysis.
+analyze data using a variety techniques in order to build a proof of concept for your solution.
+build high-quality prototypes and collaborate with the engineering team to implement the solution in a scalable framework, e.g. spark.
+communicate findings to stakeholders and a broader audience of technical and non-technical co-workers.
+lead projects, work on teams, and mentor junior analysts/scientists.
+
+required experience/skills
+
+education and/or experience in a quantitative field. (phd/master’s degree)
+experience with statistics, mathematical modeling, and/or machine learning, and experience implementing such methods to tackle real world problems using real data. 
+experience with sql.
+experience with python (familiarity with a statistical programming package, such as pandas, is a plus).
+experience with big data tools and frameworks, such as spark, is a plus.
+excellent english communications skills (written and oral).
+experience with text analysis or computer vision is a plus.
+willingness to learn new tools as they become needed.
+
+we are proud to foster a workplace free from discrimination. we strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for the brands, retailers, and users that we work with. this is something we value deeply and we encourage everyone to come be a part of the digital revolution of fashion retail. 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+forward this position
+
+
+
+
+				recipient email address (one)
+			
+
+ 
+
+
+
+				your name
+			
+
+ 
+
+
+
+				your email address
+			
+
+ 
+
+
+
+				enter a message (optional)
+			
+
+ 
+
+
+
+
+
+
+
+
+human check*
+
+
+
+
+
+  
+
+
+
+
+« go back to job listings
+
+
+
+
+
+
+
+
+
+
+
+
+
+			apply for this position		
+
+			* required fields
+		
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+
+
+last name*
+
+
+
+
+
+email address*
+
+
+
+
+
+location 
+
+
+
+
+
+phone number*
+
+
+
+
+
+resume*
+
+
+attach resume or
+					paste resume
+
+
+
+
+
+						attach resume as .pdf, .doc, or .docx (limit 2mb) or
+						paste resume
+
+
+
+ 
+
+
+
+
+						paste your resume here or
+						attach resume file
+
+
+
+ 
+
+
+
+cover letter*
+
+
+
+
+
+who referred you to this position?
+
+
+
+
+
+what’s your citizenship / employment eligibility?*
+
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

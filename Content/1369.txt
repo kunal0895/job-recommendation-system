@@ -1,0 +1,189 @@
+
+
+
+mercy careers | mercy |data scientist-visualization/ui/ux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+data scientist-visualization/ui/ux
+
+
+
+data scientist-visualization/ui/ux
+
+
+
+
+requisition id 
+
+2017-756263
+
+
+
+
+category 
+information technology
+
+
+
+
+
+position type 
+
+full time
+
+
+
+
+shift(s) 
+days, varies/rotating
+
+
+
+
+
+department 
+
+analytics
+
+
+
+
+location 
+us-mo-chesterfield
+
+
+
+
+
+
+
+more information about this job
+
+
+
+
+overview
+
+
+
+
+
+
+
+ we’re a little different our mission is clear. we bring to life a healing ministry through our compassionate care and exceptional service.   we don’t believe in jobs at mercy, we believe in careers that match the unique gifts of unique individuals; careers that not only make the most of your skills and talents, but also your heart. at mercy, you’ll feel our supportive community every step of your day, especially the tough ones. we’re a team and love working that way. that team is expanding, and we currently have exceptional opportunities to help our communities grow. 
+
+
+
+
+
+
+
+responsibilities and qualifications
+
+
+
+
+
+
+
+the medical intelligence and analytics division at mercy is a small, agile, cross-disciplinary team that uniquely fuses together physician and nursing experience in the clinical domain with technical expertise in ehr database engineering, data modeling, bi development, ui / front-end development, machine learning and statistics. true to our team motto — 'transforming complexity into insight to enrich lives’ — we work closely with health care practitioners across the organization to build applications that reveal the insights hiding in our precious data resources in order to improve decision making and operational workflows that ultimately impact patient care. we are looking for a talented front-end engineer who specializes in data-driven analytical applications and visualizations. experience using bi frameworks like qlik and tableau is a must, and experience building custom visualizations using a javascript library like d3.js is also important. our team is made up of ’t-shaped’ people: people with an expertise in a specific domain, but who enjoy learning and applying their general problem solving skills across different roles. over time you will have the opportunity to branch out in directions like machine learning or automated analytics with ai bots! responsibilitiesconceptualize, design and develop powerful data visualization applications creatively and continually look for new and innovative ways to make our data tell a compelling story basic understanding of statistics and analytical skills engineering emphasis:understand qlik etl, data modeling, and scriptingbe able to create advanced charts, use variables and expressions, set analysis, etccarry out exploratory data analysis; brainstorming & problem solvingand/ordesign emphasisbuild the ui of a qlikview application: data model providedcreate mockups to facilitate brainstorming and iteration toward a ui solutionexperience with creating custom visualizations with d3.jsunderstanding of core design principlesexplore and experiment with the latest technologies and libraries, be willing to learn new areas such as clinical terminology in electronic health records, databases, statistics and python. be an active listener, probe requirements for all projects from relevant stakeholders, stay nimble and willing to produce rapid iterations. be capable of self-direction, within context.  because you’re committed to excellence, you understand the importance of being properly prepared for your role at mercy. that’s why you’ll bring to your role the right set of qualifications:education: bs or ba in a technical or design field, specialized training, or equivalent work experience.experience: practical experience building and evaluating visualizationsan understanding of the key techniques and theory used in visualization, including graphical perception and techniques for visual encoding and interactionexposure to a number of common data domains and corresponding analysis tasks, including multivariate data, networks, text and cartographyproficient in javascript and d3other skills & knowledge: strong collaborative skillsinterest in healthcare datacreative, out-of-the box thinkercritical thinking skills with the ability to quickly make decisive decisions from limited written and/or oral information; excellent reading comprehensionexcellence communication skills with ability to express oneself in writing and orally; and comfortable speaking in groups.ability to establish cooperative working relationships with diverse groups and individuals, medical staff and other health care disciplines and interact with all levels of employeesability to work flexible work schedules to accommodate provider rounding schedules and required medical staff presentationsadvanced degree preferred we’ll support you at work and home our foundations are built on dignity and respect. modern healthcare magazine named us as a “top 100 places to work.” we go out of our way to help people feel welcomed. we offer day-one comprehensive health, vision and dental coverage, pto, and employer-matched retirement funds, even to part-time employees. we’re proud to provide tuition reimbursement to help you grow and learn new skills. what makes a good match for mercy compassion and professionalism go hand-in-hand with us, along with exceptional quality care. having a positive outlook and a strong sense of advocacy is in perfect step with our mission and vision. we’re also collaborative and are not afraid to do a little extra to deliver excellent care – that’s just part of our commitment. if that sounds like a fit for you as well, we encourage you to apply.
+
+
+
+
+
+options
+
+apply for this jobapplyshareemail this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+connect with mercy
+
+
+
+
+what if i am not ready to apply? submit your resume here  and be considered for future opportunities!
+
+
+
+
+
+
+
+
+go back to the welcome page
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

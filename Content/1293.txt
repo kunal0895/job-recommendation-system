@@ -1,0 +1,101 @@
+
+
+
+
+
+
+careers at karmak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menucareers homecurrent openings 
+
+
+careers at karmak
+current job opportunities are posted here as they become available.
+subscribe to our rss feeds to receive instant updates as new positions become available.
+
+data integration engineer (located in carlinville, il)
+
+ department:
+client services
+ location:
+st. louis, mo
+
+
+start your application
+job title:           data integration engineer
+reports to:          vp of client services
+work location:    carlinville, il
+date prepared:     3-28-17
+ 
+vroom
+karmak is in the fast lane and building a successful team thats passionate about working with innovative technology. our customers are in the commercial transportation industry where streamlined operations have never been more important. karmak has been on the highway of this industry for 35 years, and we serve more than 1,500 locations across north america. we motivate, inspire and push each other because we are an employee owned company, where each employees success is a company investment.
+daily job functions  whats in your gps?
+
+perform test conversions and live conversions for each customer implementation
+accurately migrate data to the fusion business system
+perform data verification including tie out all balances to the existing system
+assist with mapping and converting all data required
+work with the configuration and data teams to verify business rules and/or clarify data analysis
+participate in the development and implementation of standardized procedures for common conversion routines
+develop and maintain scripts to automate common pre/post conversion tasks
+work with assigned project manager and team to identify risks to the project and participate in the solution
+maintain a high level of accuracy in modified or created scripts
+
+knowledge & skills  whats under the hood?
+
+experience in edi tool development
+api integration experience (soap, rest)
+2-4 years sql experience
+2-4 years of experience building web-based c# .net applications using microsoft visual studio
+proficient in c# and/or vb.net
+experience in an agile scrum environment a plus
+experience designing, developing, and deploying applications on the microsoft azure platform a plus
+deep understanding of object oriented development
+knowledge of the microsoft .net framework
+exceptional organizational, analytical and time management skills
+ability to adapt to the changing needs of a project and to meet deadlines
+ability to work with in a project management system (microsoft project)
+excellent verbal and written communication skills
+bachelors degree in computer science or equivalent, relevant experience
+
+driving privileges
+after the first 30 days of employment, you will be expected to understand the current edi process. within 4 months we would like you to be able to enhance and architect a new product direction. within 6 months you will be rapidly importing legacy systems into our fusion software, warehouse reporting, data shaping, and adapting to different technology as necessary. the position also requires team collaboration working in an open environment.
+meet the truck tech team
+you will be reporting to the vp of client services. you will be part of a team of two other conversion specialists with support from the database administration team.
+ 
+the above statements describe the general nature and level of work being performed in this job. they are not intended to be an exhaustive list of all duties. additional responsibilities may be assigned by karmak. 
+
+start your application
+
+
+© 2017 karmak 
+
+applicant tracking system powered by 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

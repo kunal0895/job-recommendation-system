@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+applicant home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  new window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job title: 
+
+
+
+
+application engineer ii
+
+
+
+
+
+job id: 
+
+
+
+
+5990
+
+
+
+
+
+location:
+
+
+pittsburgh, pa
+
+
+
+
+
+
+
+
+
+
+
+full/part time: 
+
+
+
+
+full-time
+
+
+
+
+
+regular/temporary: 
+
+
+
+
+regular
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return to previous page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+firm descriptionk&l gates llp delivers legal services on an integrated and global basis, with more than 2,000 lawyers across five continents. positioned at strategic intersections of the global economy, k&l gates has one of the largest contingents of lawyers and offices across the united states of any law firm and strong local presence in key capital cities and world commercial and financial centers. the firm’s extensive latticework of lawyers, practices, and offices - more than 300 lawyers in europe’s largest economies and one of the largest international practices in asia among us law firms - creates a worldwide network to serve clients’ growing international needs, with lawyers counseling clients on their most sophisticated legal challenges in all areas of corporate and regulatory law and litigation.watch our video, “grow your career at k&l gates,” to really get a sense of what sets us apart from other law firms.job summary     
+
+
+
+
+
+
+an engineer ii in the application engineering department owns, or has equivalent experience owning, one or more products end-to-end and working with various teams to support it. this person has a demonstrated ability for working with project managers, vendors and development teams to deploy the most complete solution possible to the end users. because there is no team above them in the support stack, they also responsible for assisting those support teams should they be unable to find a solution to an issue. this person has demonstrated experience training support staff, writing documentation and knowledge base articles to prevent unneeded escalations. specific duties include, but are not limited to:•	implement designed solutions running on microsoft platforms including windows, sql, iis, sharepoint and ad.•	upgrade and maintain firm software across multiple clients and servers.•	setup and maintain vendor relationships.•	investigate and recommends strategies for performance, scalability, manageability, availability and data retention.•	provide technical leadership to lower support tiers and project management.•	contribute to requirements gathering and solution design.•	develop and document operational procedures and processes for maintenance and support.•	develop visual architecture diagrams for deployed solutions or solutions being built.•	troubleshoot engineering level bugs for problem management.•	provide technical mentoring and training to lower support levels. knowledge, skills and abilities: •	one or more years of previous engineering or related experience is required.•	experience planning and accomplish goals while performing a variety of complicated tasks in a fast-paced work environment is required.•	good communication and interpersonal skills with technical and non-technical colleagues is required.•	experience with one or more pc or server operating systems, database solutions or web or cloud servers is required.•	experience working with vendors on product deployments is required.•	experience taking a basic application from the idea stage to a full supported deployment is required.•	basic understanding of n-tier application design, network (lan, wan, dmz, firewall) topologies and web or cloud services is required.•	experience working with or as a pm and ba is desirable.•	experience writing technical documentation and training others is desirable.•	basic understanding of systems administration and automation tools including shell scripting, wmi, vbs and powershell languages is desirable.•	basic understanding of or the ability to communicate application programming techniques, design patterns or frameworks is desirable. education:	bachelor’s degree in computer science or equivalent work experience in a related field.working conditions: •	manual dexterity required for typing, reaching and lifting of small objects, and operating office equipment.•	frequent computer use at workstation up to eight hours at a time.  •	frequently work at fast pace with unscheduled interruptions.•	responsibilities occasionally may require an adjusted work schedule, overtime, and evening/weekend hours in order to meet deadlines.•	office contact position requiring appropriate business-like apparel.•	mobility within the office including movement from floor to floor.•	access information using a computer.•	effectively manages and communicates confidential issues. any information contained on this form represents the usual method of accomplishing the duties in this job.  reasonable accommodations will be considered in appropriate circumstances.  however, as the nature of an accommodation may vary depending on the needs and desires of an individual with a disability, it is impossible to describe in advance specific accommodations which will be considered. note: nothing in this job description restricts the firm’s right to assign or reassign duties and responsibilities to this position at any time.
+
+
+
+
+
+
+ benefitswe offer a dynamic work environment and excellent benefits.equal employment opportunitythe firm is an equal opportunity employer. it is the policy of the firm that employment decisions shall be based on merit, qualifications and competence. employment practices shall not be influenced or affected by virtue of a person’s race, color, religion, sex, national origin, age, sexual orientation, gender identity or expression, marital status, disability, military status or any other characteristic protected by applicable law. this policy governs all aspects of employment including, without limitation, recruiting, hiring, compensation, benefits, promotion, assignment and dismissal. in addition, it is the firm’s policy to provide an environment that is free of unlawful harassment of any kind including, without limitation, that which is sexual, racial, age-related, disability-related or ethnic background-related.closing statementwe seek exceptional employees who want to become a part of our practice on all levels, to help us expand, challenge our limits, and push us to grow into the future. if you are motivated by job challenges and personal growth, then k&l gates could be the right place for you.if you feel that you meet the requirements and would like to apply for this position, please use the apply now button. please include a cover letter, salary requirements and an advertisement source in your application.notice: we participate in e-verify in certain firm locations for purposes of verifying employment eligibility.no phone calls, walk-ins, or agencies, please.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return to previous page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+test
+
+
+
+
+t
+ 
+
+
+
+
+help
+
+
+test     
+
+
+
+default local node:dbname:portal:node:workcenter id:url:
+

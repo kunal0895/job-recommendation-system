@@ -1,0 +1,784 @@
+
+
+
+
+
+
+		software engineer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+software engineer
+development – cambridge, massachusetts
+
+
+apply for this job
+
+
+
+
+department
+development
+
+
+employment type
+full-time
+
+
+minimum experience
+mid-level
+
+
+compensation
+based on relevant experience
+
+
+
+
+
+
+
+
+
+
+come join onezero financial systems! an exciting, fast-growing company with headquarters in cambridge ma, onezero empowers banks, brokerages and hedge funds with cutting edge trade routing and execution technology. our platform, deployed with 100+ entities globally, features a low-latency trading environment, integrations to the world’s leading execution venues, and reliable it infrastructure and technical support—all designed to be customized and scaled to serve any business model and any size of market participant. we take pride in our great work atmosphere and highly motivated team of engineers. we are currently looking for a motivated and talented software engineer to join our development team. 
+the engineering team at onezero is largely comprised of video game industry veterans who are now applying their skills to cutting edge trading technology. our team includes former game industry technical directors and senior engineers from the likes of irrational games (2k games), microsoft, and amazon. 
+please see onezero featured in e-forex magazine (september 2016) to learn more about the company and our talented and dynamic team (https://goo.gl/vbxw8i).
+ 
+throughout its history, our firm has been guided by three core principles: 
+
+never compromise on quality: we hire only the best people, giving them the best equipment and tools, so that we can build the highest performing, most stable, and best supported technology in the industry.
+operate with integrity: our products are designed to be uncompromisingly fair and transparent both to our clients as well as their customers.
+never take risk in the market: we are not a hedge fund, we're not a brokerage, and we never trade on our own behalf. by avoiding taking any side in financial transactions we are able to remain independent, impartial, and focused solely on making the best possible product for our customers.
+
+ 
+job purpose:
+our engineers are responsible for the technical aspects of designing, implementing and maintaining onezero financial software products and features, including both commercial products and internal tools. 
+duties:
+
+as part of a small international team of very senior developers you will be expected to help develop, enhance, and maintain of every aspect of the company’s technology suite. your software will be held to a very high standard of efficiency, reliability, clarity, and usability by the development team and our customers.
+you will write software primarily in c++ with a focus on performance and reliability; you may use modern language features so long as they don’t hurt performance or readability. occasionally you will need to develop and debug in c# and typescript/javascript.
+frequently you will be expected to collaborate with the business, design, operations, and qa teams as needed to refine product designs and advise on technical design.
+as needed, you will assist the operations team to efficiently diagnose and resolve issues that occur in production (e.g. forensic log and crash dump analysis, hotfix build generation).
+other duties as assigned.
+
+ requirements:
+
+significant and demonstrably strong c++ development experience.
+able to reliably estimate and complete assignments with a minimum of oversight, but able to take direction as necessary.
+a positive, team-oriented attitude. our team has exceptional productivity and high employee morale because we respect one another and work well together.
+must have legal authorization to work in the united states.
+
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+college/university
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+
+
+are you legally authorized to work in the united states?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+cambridge, massachusetts
+
+
+department
+development
+
+
+employment type
+full-time
+
+
+minimum experience
+mid-level
+
+
+compensation
+based on relevant experience
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

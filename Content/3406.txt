@@ -1,0 +1,14 @@
+
+software engineer
+location: houston, texas, united states
+share with: facebook
+linkedin
+twitter
+send to a friend
+
+
+since 2001, our software engineers have helped tackle the complex and interesting challenge of discovering value hidden in the world’s data. we are pushing the technical envelope to solve these problems, and in the process are helping to redefine investment management and other fields. as the world of data continues to grow exponentially, the issues they address will only increase in difficulty, scale and excitement.in order to meet these challenges, we’ve built a data accumulation platform that allows us to ingest over 10 terabytes of data per day, and a custom distributed storage solution to store the over 50 petabytes of information we’ve accumulated since our inception.  we’ve also built an entire suite of analysis tools that enable our quantitative researchers to utilize this data to produce predictive models that help us automatically invest each and every day.  this model-driven, technology-fueled approach to investing not only gives us a long-term advantage over old-school investors – it has also created a whole set of technical problems to solve that don’t always have an obvious solution.  this gives you the ongoing opportunity to build proprietary solutions and/or bring to bear the best open source options the market. we have created a robust infrastructure that empowers all of our engineers, and you will work within a collaborative work culture that ensures that a great idea can come from anywhere.problems at our level of complexity require you to possess a passion for learning as well as deep understanding across a wide array of technical competencies.  we’ve attracted technologists who possess special capabilities in a wide variety of domains including data transformation and visualization, performance optimization, cloud computing, and distributed systems.  while we face large-scale problems, we hire only the best to take them on. this enables us to keep your team size small and your individual impact significant.while there is no set recipe for success at two sigma, we find that you will tend to have the following qualifications:you have at least a bachelor’s degree in a technical or quantitative field, preferably in computer scienceyou have an understanding of data structures and algorithms.you have experience with java (or other jvm languages), python, c or c++.you have extraordinary programming skills.you have demonstrated experience in large-scale systems.we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+apply now
+
+

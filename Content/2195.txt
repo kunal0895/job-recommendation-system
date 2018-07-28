@@ -1,0 +1,377 @@
+
+
+
+
+
+data management engineer - edw description at aarons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+menu
+
+our brands
+our people
+our stories
+our community outreach
+our recruitment team
+store opportunities
+corporate opportunities
+warehouse opportunities
+i'm just starting out
+i have retail experience
+i'm management material
+quick apply form
+tech jobs
+
+
+
+
+
+facebook
+twitter
+
+glassdoor
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+search our jobs
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+returning applicants
+
+
+
+
+data management engineer - edw
+job id s0000ai date posted 09/12/2017
+address:
+        
+500 chastain center blvd.
+        
+kennesaw
+        
+georgia
+        
+30144
+
+apply now
+description: aaron’s has a long legacy as an industry leader with continued growth.  in business since 1955, we have grown to over 1,860 stores across north america built on a foundation of excellence, customer focus, quality products and services.  personally, and professionally, we hold ourselves to high standards and an unwavering commitment to do what’s right; treating every individual with respect, compassion and integrity.  we are highly invested in the communities we serve through our community outreach programs, donating time, products and services locally and nationally.as a potential aaron’s associate, you’ll share our purpose and passion for making a real difference in the lives of others and the rewards that come from creating strong personal connections for life. you’ll be a contributing team member in an environment that embraces challenge and has a strong drive to achieve.  we like to set the bar high, roll up our sleeves and work together to out-perform the competition.  you’ll have an opportunity to work in an environment which prides itself on recognizing and rewarding top performers.interested in being a data management engineer – edw at aaron’s?  the data management engineer – edw is responsible for a wide variety of tasks, which will primarily include working collaboratively with other teams to understand diverse datasets to plan and execute data integration packages into the enterprise data warehouse.  the information management technology team is seeking a data management engineer to assist in continuing grow the enterprise data warehouse into a knowledge repository for our business.come see why the difference is personal at aaron’s, connect with us today!job duties:responsible for the design, development, documentation of the enterprise data warehouse models. lead the development and documentation of etl processes for all data warehouse subject areas. lead etl design sessions with the data teams and project stakeholders. work with data management analyst to ensure proper documentation and definitions are incorporated into the enterprise data dictionary. responsible for the analysis, data profiling, development, and integration of disparate systems throughout all phases of the project life cycle. assist in ongoing development of technical best practices for data movement, data quality, data cleansing and other etl related activities. provide technical knowledge of extract, transform and load solutions for different projects. implement best practices and tune for automation and optimization.education and experience:bachelor’s degree in computer science, engineering, math, finance or related quantitative field. 1-3 years’ work experience in data mining, statistical analysis and/or forecasting. required skills:t-sql development skills including developing stored procedures and etl processes. strong research, analytical, and computer skills. extensive experience in ms sql server, ssis, ssas, and comparable data management tools. experience with lifecycle management – developing, testing, documenting, implementing, automating, and maintaining system changes. work experience with sql server or comparable database systems. high proficiency of microsoft excel and other ms applications (visio and powerpoint). familiarity of lean software development and agile methodologies. demonstrated ability to quickly adapt to learn new systems. excellent analytical and technical skills with high attention to detail: demonstrated strength in problem-solving. excellent verbal, written and interpersonal communication skills. demonstrated strong customer focus. strong organizational skills with the ability to manage multiple projects and analysis. at aaron’s, you will have access to a comprehensive benefits package that includes:paid time off including vacation days, sick days and holidaysongoing training and developmentmedical, dental & vision insurance401(k) planlife insurancedisability benefitsemployee purchase discounts a drug screen and criminal background investigation are required before beginning employment at aaron’s.  a job performance reference check is also required.aaron’s is an equal opportunity employer.  
+apply now
+
+
+
+
+share
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+sign up for job alerts
+interested insign up for job alerts by choosing a category and/or location. select a term from the suggestions and click “add”. you must have at least one category alert entered in order to subscribe.categorysearch and choose locationaddit/technology, kennesaw, georgia, united statesremovecorporate, kennesaw, georgia, united statesremoveremoveemail addressenter the email address you want to receive alerts withzip/postal code
+
+confirm email
+
+
+
+
+
+
+
+
+
+top talent wanted
+
+		aaron’s is a growing company, and jobs open frequently in the following areas. we encourage you to apply now for future consideration.
+	
+
+customer service rep »
+delivery driver »
+manager development »
+
+
+
+about call center jobs
+
+		at aaron’s, we have lots of jobs available for people with excellent customer service skills and a great phone presence! we’re always looking for passionate individuals who thrive in fast-paced environments and understand the importance of issue resolution to our business and our customers. whether it’s in our customer support center or as an it analyst helping customers with technical issues, you’ll be the voice of aaron’s and an important part of ensuring customer satisfaction. if a job in a phone-based support position at aaron’s is the career move you’re looking for, we encourage you to check out our available opportunities.
+	
+
+
+our people
+
+heather
+
+with aaron's
+5 years
+location
+daytona beach, fl
+
+
+		“aaron’s takes care of its associates in any way they can.”
+	
+learn more »
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+see all of our videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+facebook
+twitter
+youtube
+glassdoor
+
+
+
+
+about
+locations
+shop
+investor relations
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

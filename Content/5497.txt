@@ -1,0 +1,177 @@
+
+
+
+
+jda software group, inc. careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					r&d scientist / data scientist
+				
+
+
+						tracking code
+					
+
+						ln_ds_tx 
+					
+
+						job description
+					
+
+ 
+jda software is the leading supply chain provider powering today’s digital transformation.  we help companies optimize delivery to customers by enabling them to predict and shape demand, fulfill faster and more intelligently, and improve customer experiences and loyalty.  more than 4,000 global customers use our unmatched end-to-end solutions portfolio to unify and shorten their supply chains, increase speed of execution and profitably deliver to their customers.  our world-class client roster includes 73 of the top 100 retailers, 71 of the top 100 consumer goods companies, and 13 of the top 16 3pls.  running jda, you can plan to deliver.  www.jda.com
+ 
+position title
+data scientist / research scientist
+ 
+location
+dallas, tx / roswell, ga
+ 
+overview 
+as an active member of the data science team within r&d, contributes to jda's current and upcoming solutions and services offering through the improvement, research, design and development of innovative optimization and machine learning algorithms. a scientific researcher is a hands on contributor, with a strong analytical background.
+ 
+position description 
+
+expectations and responsibilities for a scientist reside in three intertwined poles:
+
+                   research
+                   development
+                   leadership, communication and business application
+
+responsible for designing, developing and testing new models or solving approaches for which assignments are received in the form of results expected with freedom to decide on the procedures to follow. delivers all tasks with quality and on time with limited assistance. interacts with internal teams and contributes in understanding the business problem, the scientific involvement and documents the requirements.
+develop and suggest multiple and efficient algorithms/models based on machine learning techniques to solve a jda business problem. expected to stay aware of the scientific literature and translate relevant applications into the jda business problem. the data scientist will have strong project oriented programming skills, a strong ability to manipulate data and the capacity to use visualization libraries and tools to present the results of his work.
+draft business requirements that a scientific solution needs to address and can validate the completeness and quality of the available data. continuously build their knowledge of jda domain expertise from jda domain experts and from available documentation. share acquired knowledge and synergies between solutions.
+as part of day to day work, the data scientist is involved in frequent coordination, communication, and/or team problem solving within department for work production or service quality. main contributor in translating scientific contributions into patents, publications or conferences. the data scientist can communicate up to senior director level colleagues and across with colleagues of the entire organization.
+
+ 
+responsibilities 
+
+understand the business context and develop new domain expertise. outline requirement, inputs, and objectives of the scientific problem in the business context.
+analyze problem to be solved, existing literature and think of ways of solving the problem.
+implement, test and evaluate different approaches to solve the problem
+package results into patents, whitepapers or scientific publication.
+present problems, modelization, solving approaches and results (conferences, customers or internal teams)
+interact with internal teams for planning, to get business validation and report on progress.
+
+
+
+						required skills
+					
+
+
+phd or master's degree in business intelligence / engineering / computer science / mathematics / statistics / physics
+experience as data scientist/ data mining researcher/ research scientist (phd experience counts)
+programming skills (experience in python coding is a plus) – 2 years
+experience in data manipulation queries/ data visualization /big data -2 years
+machine learning – 4 years
+ability to visually present data or analysis results to a non-technical audience
+good written and communication skills
+
+ 
+our values
+if you want to know the heart of a company, take a look at their values. ours unite us. they are what drive our success – and the success of our customers. does your heart beat like ours? find out here.
+ 
+let’s socialize 
+join the conversation online by connecting and following us on twitter @jdasoftware @jdacareers and facebook (http://bit.ly/9s2dve), and linkedin (http://bit.ly/2rv4kue) also, check out jda's b
+ 
+*li-ln1
+
+
+						job location
+					
+
+						dallas, texas, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+

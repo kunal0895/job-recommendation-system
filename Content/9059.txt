@@ -1,0 +1,265 @@
+
+
+
+
+
+database analyst 5 - sql server analyst 5 description at wells fargo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+close
+
+our benefits
+our values
+our hiring process
+
+
+
+social media
+
+twitter
+linkedin
+youtube
+glassdoor
+facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+search our jobs
+
+search our jobs
+
+keyword
+
+
+
+location
+
+
+
+radius
+select
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search our jobs
+
+
+
+
+    in order to provide you with a better search experience, we will be performing scheduled site maintenance starting saturday 12/16, 6:00am cst through 2:00pm cst. you will not be able to apply for jobs during this maintenance period. we are sorry for any inconvenience this may have caused but we look forward to you continuing your search soon.
+
+
+
+
+
+job description
+database analyst 5 - sql server analyst 5
+apply now
+job id 5375350 schedule type reg-time work hours 40 location minneapolis, minnesota, west des moines, iowa, shoreview, minnesota, chandler, arizona, phoenix, arizona, charlotte, north carolina, st louis, missouri;
+
+job descriptionan exciting opportunity for an experienced sql server database analyst to be a part of a world class team of similar peers.  inspired by teamwork, motivated to assist all partners with a “sense of urgency”, and a 100% commitment with every single interaction to exceed consumer expectations.  willingness to become an awesome positive force within a strong team immediately.  prepare to be challenged to become the best sql server dba you can be!!! plans, analyzes, designs, implements, maintains, and controls the organization's databases. consults with and provides guidance to database users and client groups, often recommending tactical and strategic solutions. performs moderately complex server-class database activities across various platforms and environments including one or more of the following: business requirement identification and analysis; conceptual, logical, and/or physical database design; data modeling and/or mapping; moderate tocomplex programming and coding to automate and/or support the database environment; performance monitoring and tuning; analyzing database metrics and assisting with capacity planning; planning, testing, configuration and execution of installations, upgrades and migrations; and implementing security controls. leads, mentors and/or provides guidance to less experienced database analysts, where applicable, including guidance for troubleshooting escalated issues. may participate in the development of data/ database architectures and management policies, procedures and standards; may lead moderately complex projects.required qualifications7+ years of database design and administration experience7+ years of sql dba experience3 + years of powershell scripting experience7+ years of experience writing microsoft sql server relational database queries, stored procedures ,query optimization and performance tuningdesired qualificationsstrong analytical skills with high attention to detail and accuracyexcellent verbal, written, and interpersonal communication skillsa bs/ba degree or higher in science or technologyexperience designing and optimizing complex sql queries involving table joins and correlated sub-queries on large scale data tablesknowledge and understanding of database querying and creating ad hoc reporting results using tsql or similar querying methodsknowledge and understanding of application profiling and performance tuning of highly scalable and available systemsknowledge and understanding of technology middleware: performance tuning and analyze bottlenecksknowledge and understanding of web systems: performance tuningother desired qualifications strong knowledgeable in db tuning parameters, administration, maintenance and monitoring for microsoft sql server 2008, 2008r2,2012, and 2014 sql server backup, windows clustering, database mirroring, database replication, transaction log shipping, always on availability groups experience experience working in a standards-based environment with strong change management processes strong problem solving and analytical skills transactional replication always on / availability groups sql cluster management/administration vldb (very large database) manage global dbs across multiple dcs sql 2014 sql 2016 sql migrations strong working experience with performance tuning and sql instance troubleshooting experience with sql partitioningstreet addressaz-chandler: 2600 s price rd - chandler, azaz-chandler: 2700 s price rd - chandler, azaz-phx-northwest phoenix: 2222 w rose garden ln - phoenix, azia-west des moines: 7001 westown pkwy - west des moines, iaia-west des moines: 800 s jordan creek pkwy - west des moines, iamn-minneapolis: 255 2nd ave s - minneapolis, mnmn-shoreview: 1801 parkview dr - shoreview, mnmo-saint louis: 1 n jefferson ave - saint louis, monc-charlotte: 401 s tryon st - charlotte, ncnc-charlotte: 1525 w wt harris blvd - charlotte, ncdisclaimerall offers for employment with wells fargo are contingent upon the candidate having successfully completed a criminal background check.  wells fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and federal law, including section 19 of the federal deposit insurance act.relevant military experience is considered for veterans and transitioning service men and women.wells fargo is an affirmative action and equal opportunity employer, minority/female/disabled/veteran/gender identity/sexual orientation.
+
+0064301 corporate finance
+apply now
+
+
+
+
+share
+
+linkedin
+twitter
+email
+
+
+
+
+about our location
+minneapolis office
+view map 
+
+
+sign up for our talent community
+sign up
+
+
+email addressselect your interestsjoin the wells fargo family, where we work together to help our customers and each other achieve success. explore our career opportunities and apply today. select a category and/or location to receive job alerts that match your interests then click “add.”categorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+related jobs
+
+
+performance engineer- apps systems engineer 4 - minneapolis, minnesota
+
+
+intake leader - business initiatives manager - minneapolis, minnesota
+
+
+analytic consultant 2 - business intelligence development on web portal for wells fargo marketing - san francisco, california
+
+
+
+
+find jobs near you
+
+
+
+
+
+working at wells fargo – our hiring process
+
+
+
+
+
+
+
+
+
+
+
+international jobs
+international jobs
+
+
+
+
+
+
+
+
+
+graduation guide
+graduation guide
+
+
+
+
+
+
+
+
+
+endless possibilities
+there's no ceiling on the level of success you can attain at our organization. hear our team member share how she transferred her military experience
+
+
+
+
+
+
+
+
+
+
+
+wells fargo is committed to hiring and retaining diverse team members including military veterans, veterans with disabilities, and transitioning military personnel. we are working to increase diverse representation throughout the company and create an inclusive environment for all team members. when recruiting, we work with talent resources that focus on diversity and veterans. we attend veteran-focused job fairs and identify military veteran job seekers through resources like military.com, recruit military.com, hire vets first, our internal veterans’ team member network and others. to learn more about career opportunities with our company, please visit us at wellsfargo.com/careers.
+we also welcome you to visit our military employment portal at wellsfargo-veterans.jobs. this innovative platform allows service men and women preparing to transition into civilian life to use their current military occupation code (moc) or military occupation specialty (mos) to easily find civilian jobs on corporate career sites. this technology provides the cornerstone all companies need to start effectively communicating their available employment opportunities to military men and women who are transitioning into civilian life.
+
+
+
+
+
+
+
+
+
+legal notices
+eeo is the law
+site map
+
+relevant military experience is considered for veterans and transitioning service men and women. wells fargo is an affirmative action and equal opportunity employer, minority/female/disabled/veteran/gender identity/sexual orientation. 
+© 2017 wells fargo bank, n.a. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+	
+	
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,928 @@
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sap employees
+join our talent community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sap employees
+join our talent community
+
+
+
+
+
+
+
+
+language 
+
+deutsch (deutschland)
+english (united states)
+français (france)
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+more options
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+loading...
+
+
+
+
+
+
+
+                                            work area
+                                        
+
+
+all
+
+
+
+
+
+                                            career status
+                                        
+
+
+all
+
+
+
+
+
+                                            country
+                                        
+
+
+all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+                        join with linkedin
+                    
+
+
+
+
+
+
+
+
+                        join with facebook
+                    
+
+
+
+
+
+
+
+                            join now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer job
+apply now »
+
+apply now 
+
+
+
+
+                        start apply with linkedin
+                    
+
+
+
+
+
+
+
+
+                        start apply with facebook
+                    
+
+
+
+
+
+
+
+
+                        start apply with xing
+                    
+
+
+
+
+
+
+
+                            apply now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+date: 
+dec 7, 2017
+                
+
+
+location: 
+south san francisco, ca, us
+
+
+company: 
+sap
+
+
+requisition id: 160881
+work area: software-development operations
+expected travel: 0 - 10%
+career status: professional
+employment type: regular full time
+company description
+as market leader in enterprise application software, sap helps companies of all sizes and industries innovate through simplification. from the back office to the boardroom, warehouse to storefront, on premise to cloud, desktop to mobile device – sap empowers people and organizations to work together more efficiently and use business insight more effectively to stay ahead of the competition. sap applications and services enable customers to operate profitably, adapt continuously, and grow sustainably.
+the platform services team at sap successfactors is looking for a software architect to provide product and technology vision in the bigdata area to scale our capabilities while driving aggressive growth. this opportunity presents a significant intellectual, technical and operational challenge with an enormous impact. the software architect will drive the evolution of the product vision and work on translating that vision into implementation designed for simplicity and scale.
+ 
+the software architect provides technical leadership at sap successfactors. they help establish technical standards and drive sap successfactors overall technical architecture, engineering practices, and methodologies. they work on our hardest problems, building high quality, architecturally sound systems that are aligned with our business needs. they think globally when building systems, ensuring sap successfactors builds high performing, scalable systems that works well together. software architects are pragmatic visionaries who can translate business needs into workable technology solutions. their expertise is deep and broad. they are hands on, producing both detailed technical work and high-level architectural designs.
+ 
+responsibilities:
+ 
+
+design and develop frameworks for highly scalable nosql/bigdata solutions
+production/operational troubleshooting in bigdata solutions
+research and resolve technical problems of the highest complexity
+define and evangelize best-practices for cloud platform programming & usage
+ability to make educated judgment calls on what pieces of technology should be created and further invested upon within the organization versus leveraging 3rd party or open-source components
+exert technical influence over multiple teams, increasing their productivity and effectiveness by sharing deep knowledge and experience
+	 
+
+
+required qualifications:
+ 
+
+bs/ms in computer science (ms preferred).
+strong technical credentials, with at least 10 years of overall software development experience particularly in nosql/bigdata space. 
+	
+preferred experience in solutions such as hadoop/hdfs, elastic search, cassandra, etc
+
+
+experience in working large scale deployment of bigdata (in pb size)
+expert knowledge in core java concepts and principles and java ee web application technologies.
+expert knowledge of ooa and ood
+expert knowledge of one more of the market-leading application servers/web containers
+solid knowledge of database concept and design
+solid experience solving application performance and scalability issues
+solid understanding of sql and familiar with data storage and management systems
+solid understanding of internet protocols and practice
+experience working in an agile development environment, preferably scrum
+familiarity with javascript, ajax, and html
+
+ 
+ 
+ 
+ 
+sap's diversity commitment
+to harness the power of innovation, sap invests in the development of its diverse employees. we aspire to leverage the qualities and appreciate the unique competencies that each person brings to the company.
+sap is committed to the principles of equal employment opportunity and to providing reasonable accommodations to applicants with physical and/or mental disabilities. if you are interested in applying for employment with sap and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to recruiting operations team (americas:careers.northamerica@sap.com or careers.latinamerica@sap.com, apj: careers.apj@sap.com, emea: careers@sap.com). requests for reasonable accommodation will be considered on a case-by-case basis.
+eoe aa m/f/vet/disability:
+qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, gender, sexual orientation, gender identity, protected veteran status or disability.
+additional locations: 
+
+
+
+nearest major market: san francisco
+                    
+                        nearest secondary market: oakland
+                    
+                
+
+job segment: 
+database, erp, engineer, developer, cloud, technology, engineering
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+                        start apply with linkedin
+                    
+
+
+
+
+
+
+
+
+                        start apply with facebook
+                    
+
+
+
+
+
+
+
+
+                        start apply with xing
+                    
+
+
+
+
+
+
+
+                            apply now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+erp jobs in oakland,
+developer jobs in the united states,
+developer jobs in san francisco,
+creative jobs in the united states,
+computer science jobs in oakland
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+sap careers
+sap.com
+top job searches
+view all jobs
+privacy policy
+impressum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

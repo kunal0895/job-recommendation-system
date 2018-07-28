@@ -1,0 +1,153 @@
+
+
+
+alloy | data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+why alloy
+product
+technology
+careers
+log in
+contact us
+
+
+
+
+
+
+data engineer
+san francisco, ca • full time
+
+about alloy
+over $20 trillion worth of goods flow through increasingly complex global supply chains each year--the items we use, wear and consume every day. alloy is building the first platform that provides a comprehensive, low-latency view of demand and inventory from production to consumption. our platform connects manufacturers, logistics providers, distributors, and retailers, allowing them to more efficiently manufacture, distribute, and sell their products.
+we are early stage, well funded by leading vcs, and growing. our small team studied at top institutions including mit, stanford, waterloo, and eth zurich and has diverse backgrounds and experience in analytics, large-scale enterprise software, and retail and financial technology. culture really matters to us: we value diversity in all forms and strive to foster respect, integrity and open communication.
+we're committed to making enterprise software inspiring. we use google compute engine, bigtable, postgresql, redis, python, java and react, all wrapped in strong design.
+about you
+you thrive in an environment where you can bridge the gap between engineering and its applications. you tend to be the most business-savvy person in the engineering team and the most technical person in the business team.
+you don’t shy away from even the most challenging problems and are relentless in always looking for better solutions. you are self-motivated and enjoy working with others towards a common objective; and when you know a better way, you voice your opinion. building software is the means to an end: you want to change the way an entire industry operates.
+about the role
+as a data engineer at alloy, you will oversee and expand our entire data integration layer, allowing alloy to seamlessly communicate with a wide variety of companies across the supply chain. this includes retailers, distributors, logistics operators and e-commerce platforms.
+specifically, you will:
+
+build, automate and maintain integrations with retailer/distributor portals, e-commerce platforms, logistics providers, erp platforms, manufacturers, and other relevant data sources
+build and improve internal libraries to streamline data integration across multiple sources, including web scrapers, edi files, rest apis and flat files 
+be the internal expert on how each player in the supply chain shares and interpret data. maintain internal alloy logic to automate the interpretation of data across channels through the unified alloy data model
+
+your experience will include:
+
+strong knowledge of python and sql, especially in data wrangling and etl applications
+familiarity with java is a plus
+experience in interpreting and manipulating supply chain-related datasets (point-of-sale, logistics/edi,  product master)
+working knowledge of selenium and other web-scraping tools
+
+
+        to apply, send your resume/cv to [email protected]
+
+
+
+
+
+
+                  © 2017 alloy technologies, inc.
+                  all rights reserved
+
+legal
+
+
+why alloy
+product
+technology
+careers
+log in
+
+
+contact us
+[email protected]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  alloy hq
+                  70 zoe street, suite 201
+                  san francisco, ca 94107
+
+                  alloy vancouver
+                  225 w 8th ave, suite 300
+                  vancouver, bc v5y 1n3
+              
+
+
+
+
+
+
+
+

@@ -1,0 +1,321 @@
+
+
+
+        full stack ui developer -        riversand technologies -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if you are interested in a challenging career that can provide you with diverse professional experiences, cutting-edge next generation technologies and a distinctive employee culture - look no further. riversand technologies is the place for you! we provide a flexible career path in addition to the stability, stimulation and the security you have been looking for.as a young company in a fast moving and fast growing market, we are always looking for people with the right attitude and the right skills to add to our team of consultants. our benefits package is extremely comprehensive and we add a new benefits feature every year. so please, check out the list of current opportunities. and do not hesitate to contact us should you need further information on any of our job opportunities. 
+
+
+
+full stack ui developer
+
+
+houston, tx                    
+
+full time                
+
+engineering                    
+
+entry level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+riversand technologies is a master data management (mdm) visionary and a product information management (pim) leader. we are a team of passionate people who are rethinking the industry’s approach towards mdm and pim and are committed to developing innovative solutions which transform the way our clients do business. riversand serves the world’s largest enterprises, in a variety of industries including retail, manufacturing, distribution, energy, healthcare, and food services. we are undergoing a significant period of growth and we are currently looking for a full stack ui developer with a diverse professional experience to expand our data management team of experts.
+as a full stack ui developer, you will become an integral part of our creative and agile product development team.  your primary responsibility will be to create cool and engaging user-facing features. you will reuse ui components and libraries for better collaboration. we want our clients to fall in love with your design. we also want to ensure they can achieve what we promise: perform tasks quickly and efficiently with the minimum resources.
+since you will be serving organizations who work with massive amounts of data, the products you will develop must scale fast to meet the growth requirements of our clients. furthermore, you will be working in a diverse cultural environment and collaborating with creative minds from all over the world.
+to be successful in this role you have to be a proactive individual, with excellent analytical and problem-solving skills and a track record of taking complex concepts and implementing practical solutions. we are looking for quick learners who can work efficient individual contributor and also collaborate with a team.
+ 
+ 
+here are some of your responsibilities. we are interested in knowing what else you can add to this
+
+develop and implement the front-end architecture for web applications using javascript, css, and html5
+use suitable javascript tools and libraries to contribute to all the phases of the software development lifecycle (analysis, design, implementation, and qa)
+cooperate with the stakeholders and the product team to understand and document software requirements, and ensure application ui meets the functional requirements
+work with our ui/ux team and designers to develop dynamic and customized solutions for individual enterprise customers
+assist back-end developers to implement their server-side code
+
+if what you read so far excites you about joining us, then we would like you to be already equipped with the following qualifications:
+
+bachelor’s/master’s degree in computer science or a related field (or equivalent experience)
+experience in web development framework, html5/css3, sass/less, flex layouts
+1+ year of with advanced object-oriented javascript and the ability to write high-performance, reusable code for ui components
+experience in web-based design concepts (view controllers, view routings, data caching, rendering patterns, lazy loading, components, etc.)
+good understanding of asynchronous request handling, partial page updates
+
+these are the list of the tools we use today:
+
+angularjs, polymer, ember.js, react, ajax, nginx
+nodejs, gulp/grunt, or any other css framework
+javascript libraries (passportjs, lodash, requirejs, formatjs, falcor, etc.)
+web load balancers, web servers, web authentication design patterns and libraries (oath, passportjs, saml, etc.), web sockets and libraries
+d3 (charts, maps, interactive graphics), socket.io and pusher
+git, gulp, vulcanize, bower, npm
+wireframes/prototyping (illustrator, balsamiq, axure, sketch etc.)     
+
+what’s in it for you?
+
+we foster a collaborative work environment. you will enjoy learning  with other creative and analytical minds
+we provide an opportunity for you to experiment and fail fast
+we want to make sure you get a competitive compensation and benefits
+riversand client roster features high profile enterprises which will provide you with industry-specific insights into data management and analysis
+beyond work, we compete at local 5ks, 10ks and have fun at various sporting events.
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+linkedin profile url:
+
+
+
+twitter
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

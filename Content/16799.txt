@@ -1,0 +1,324 @@
+
+
+
+careers | video on demand (vod) | over-the-top entertainment services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software
+
+player
+web player
+converter
+video codec pack
+video showcase
+mpeg-2 plug-in
+srs audiofusion
+divx hevc plug-in
+dfx audio enhancer
+
+
+devices
+
+browse
+
+at home
+on the go
+in the car
+other devices
+search all devices
+
+
+profiles
+video samples
+features
+tech specifications
+
+
+where to buy
+
+
+movies
+find movies
+new on dvd
+movie trailers
+
+
+technologies
+
+divx plus streaming
+hevc
+h.264
+mkv
+mp4
+avi
+mpeg-2
+aac
+dlna
+
+
+support
+register your device
+forums
+labs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+ for full functionality of this site it is necessary to enable javascript.
+
+
+
+
+
+
+
+software engineer
+
+
+
+job tracking id: 512535-525345
+job location: san diego, ca
+job level: mid career (2+ years)
+level of education: ba/bs
+job type: full-time/regular
+date updated: february 26, 2016
+years of experience: up to 2 years
+starting date: march 1, 2016
+
+
+
+
+
+
+
+
+
+
+«back to job search
+
+
+
+
+invite a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description:
+the big picture
+looking for a great opportunity to make an impact on millions of streaming media consumers, and have fun doing it? divx is a leader in internet streaming technology for users around the world.
+as a member of our team, you make significant contributions in building streaming media solutions from design to deployment.  our software engineers build scalable applications with current technologies like java, sql, docker, vert.x, javascript, react.js and aws.
+the neulion san diego office is looking for a software engineer with the skills and passion to deliver streaming video solutions to devices all over the world.
+ the everyday view
+the software engineer will be a part of a team of talented engineers collaborating in design, development and implementation of end-to-end solutions in an agile environment. the ideal candidate will be enthusiastic and self-motivated in applying solid engineering practices to build flexible, robust, and scalable solutions.
+experience and skills:
+required skills and experience
+
+mindset: customer oriented, self-starting, collaborative, flexible and adaptive
+strong communications skills and ability to work well on a team
+knowledge of agile/scrum and acceptance test driven development
+experience with multiple programming languages preferably including java and javascript
+experience with soap-based and restful web service frameworks and http methods
+experience with the following or similar build and deployment tools: maven, jenkins, git
+bachelor’s degree in computer science engineering
+
+the following experiences are optional but highly desired:
+
+digital video formats and encoding
+video streaming technology
+digital rights management
+multimedia frameworks
+cryptography and ssl
+knowledge of public key infrastructure (pki)
+application servers: tomcat, jboss or similar
+sql, mysql and/or sql server
+cloud computing platforms: amazon aws, microsoft azure or similar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if you are having difficulties with the application process, please click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+© 2017 divx, llc.  all rights reserved.  divx and associated logos are trademarks of divx, llc or its affiliates.
+privacy policy - terms of use - copyright policy 
+
+
+
+
+
+about ussolutionspress releases
+partner support
+blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+

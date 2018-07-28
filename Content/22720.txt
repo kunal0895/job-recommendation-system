@@ -1,0 +1,785 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cip intern - data transformation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english
+
+english
+
+
+
+contact us
+
+
+ihs online store
+
+
+press
+
+
+investor relations
+
+
+not finding a job?
+
+join our talent community
+view all jobs
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+products & solutions 
+
+
+our expertise
+
+
+events
+
+
+about us 
+
+
+search 
+
+
+
+
+
+search by keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+  menu
+
+search 
+
+
+
+english
+
+japanese
+
+
+
+contact us
+
+
+ihs online store
+
+
+press
+
+
+investor relations
+
+
+not finding a job?
+
+join our talent community
+view all jobs
+
+
+sign in
+
+
+
+
+products & solutions 
+
+
+our expertise
+
+
+events
+
+
+about us 
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cip intern - data transformation
+req id: 92318-en_us,
+date: 
+nov 16, 2017
+                
+,
+
+location: 
+us,tx,houston,1401 enclave pkw
+
+
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+for ihs markit prospects
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+find similar jobs: 
+
+all jobs at ihs
+
+
+
+
+cip intern - data transformation
+about ihs markit
+ihs markit harnesses deep sources of information, analytics and expertise to forge solutions for the industries and markets that drive global economies. our company partners with clients in business, finance and government to provide the unrivaled insights and perspectives that lead to well-informed, confident decisions. we call this the new intelligence. ihs markit serves more than 50,000 key customers in more than 140 countries, including 80 percent of the fortune global 500.  we help decision makers apply higher-level thinking to daily tasks and strategic issues across a host of industries and disciplines including energy, finance, automotive, engineering, technology, maritime and trade, aerospace and defense, chemical, and economics and country risk. 
+
+headquartered in london, ihs markit (nasdaq: info) is committed to sustainable, profitable growth.
+_______________________________________________________________
+ 
+ 
+internship opportunity
+technical research/ data transformation
+ 
+as an intern with ihs markit, you will undertake work on a real business project intended to add value to your team as well as provide you with a great learning opportunity. in this role, you will specifically support our latin america – frontier north america (latam – fna) team with data quality projects.
+the latam – fna team is responsible for data sourcing, extraction, analysis, and processing for database entry. you will be working with regional managers, field researchers, well analysts, and contract analysts on project(s) intended to increase the completeness, correctness, consistency, and currency of the edin database.
+the focus of this position will be to work closely with field researchers to review data which will be used to updated / create fields. the candidate will analyze the data from public domain as well as ihs markit in order to assess the fields. this will allow our group to continue to improve the data and provide the customers with a stronger data set. 
+ 
+overview of the technical researcher function:
+applies and integrates geological data from a variety of sources (both public and internal) in order to assist wells, fields and basin researchers in enhancing existing product offerings. the candidate will work closely with the african regional team receiving exposure to wells, fields, basin researcher and editorial workflows. in addition the candidate may partner with regional experts on a bespoke research topic for presentation at an industry conference.        
+ 
+role requirements:
+to be considered for this opportunity, candidates should demonstrate the following education, skills and experience
+
+currently pursuing a degree in the geosciences
+good communication skills to include writing, interpersonal and listening.
+good organizational skills with the ability to handle multiple tasks and effectively prioritize.
+ability to analyze, assess and interpret information.
+demonstrates flexibility and the ability to creatively problem-solve.
+strong database skills.
+enthusiastic team player willing to learn and manage challenges.
+work as a technical resource for management on special projects and quality improvement initiatives.
+understand and learn the quality processes of the team
+excel skills and proficiency with other ms applications (word and powerpoint)
+gis application skills
+the ability to work to deadlines and prioritize a complex workload
+strong analytical and quality control skills
+strong attention to detail
+
+ 
+other skills:
+ 
+
+ability to work well in a team or individually
+good presentation skills
+ability to present solutions to complex problems in simple understandable terms
+some understanding of spanish or portuguese.
+proficient in python, r, vba, sql or a similar programing language
+proficient in data analysis software such as tableau, spotfire, power bi, etc.
+
+ 
+2018 summer intern requirements:
+to be eligible to apply for a place on our intern program, you must be able to answer ‘yes’ to the following questions:
+
+are you legally eligible to work for the duration of the intern program in the country for which you have applied?
+will you have completed your studies in either 2019 or 2020?  this program is open to current students only.
+if you do not reside in the ihs markit office location for which you are applying, are you able to self-relocate in time for the program start date?
+
+ 
+program dates:
+participation for the full duration of the 10-week program is expected. please ensure you are available as per the dates below before submitting your application:
+
+north america – june 04 to august 10
+apac – may 21 to july 27
+emea – june 4 to august 10
+india – may 21 to july 27
+
+ 
+we are proud to be an eeo/aa employer m/f/disability/veterans. please refer to the  eeo is the law poster & supplement, right to work and pay transparency policy.  ihs is a participant in e-verify (see links below).  we maintain a drug-free workplace and perform pre-employment drug testing.
+ 
+eeo is the law
+eeo is the law supplement
+right to work
+pay transparency policy
+e-verify
+ 
+ihs markit endeavors to make our career sites accessible to any and all users. if you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact accommodation@ihs.com or call 303-858-6891. this contact information (email and phone) is intended for accommodation requests only.  unfortunately we are unable to accept resumes or provide information about application status through the email address above.
+ 
+resumes are only accepted through the online application process, and only qualified candidates will receive consideration and follow-up.
+
+
+
+nearest major market: houston
+                    
+                
+
+job segment: 
+intern, database, engineer, geology, gis, entry level, technology, engineering
+                    
+
+
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+email*
+
+password*
+
+forgot password?
+
+sign in 
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+products & solutions
+our expertise
+events
+company
+
+
+
+
+ ihs customer login 
+ corporate sustainability 
+ investor relations 
+ press 
+
+
+
+
+ http://shop.ihs.com 
+support
+ contact us 
+locations
+
+
+
+ connect with ihs 
+
+
+
+
+
+
+
+
+
+
+
+top job searches
+view all jobs
+privacy policy
+career home
+ihs
+
+
+
+copyright ©2014 ihs inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,758 @@
+
+
+
+
+
+
+
+
+
+
+data scientist - vincentbenjamin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+enter hours
+
+
+
+
+contact us
+
+
+
+
+                                phoenix                            
+
+                                (602) 595-9900                            
+
+
+
+                                los angeles                            
+
+                                (310) 730-5533                            
+
+
+
+                                orange county                            
+
+                                (949) 398-8000                            
+
+
+
+                                denver                            
+
+                                (303) 495-2400                            
+
+
+
+
+
+about us
+
+our history
+our team
+join vb
+in the news
+contact us
+
+
+local practices
+
+phoenix >>
+
+technology practice
+accounting practice
+
+
+orange county >>
+
+technology practice
+accounting practice
+
+
+los angeles >>
+
+technology practice
+accounting practice
+
+
+denver >>
+
+technology practice
+accounting practice
+
+
+
+
+our solutions
+
+technology recruiting
+financial recruiting
+contract staffing
+direct hire placement
+
+
+resource center
+
+resume formation
+interview tips
+resignation
+hiring tips
+
+
+blog
+ 
+
+
+
+
+about us
+
+our history
+our team
+join vb
+in the news
+contact us
+
+
+local practices
+
+phoenix >>
+
+technology practice
+accounting practice
+
+
+orange county >>
+
+technology practice
+accounting practice
+
+
+los angeles >>
+
+technology practice
+accounting practice
+
+
+denver >>
+
+technology practice
+accounting practice
+
+
+
+
+our solutions
+
+technology recruiting
+financial recruiting
+contract staffing
+direct hire placement
+
+
+resource center
+
+resume formation
+interview tips
+resignation
+hiring tips
+
+
+blog
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+                        welcome to ourphoenix office                    
+
+                        (602) 595-9900 
+
+
+
+(602) 595-9900
+
+
+
+
+ 
+
+
+get directions
+
+
+
+for
+
+driving
+walking
+bicycling
+
+                             
+                            show options
+hide options
+
+ avoid tolls
+ avoid highways
+
+
+
+from 
+to 
+
+
+
+
+
+
+
+
+fetching directions......
+
+reset directions
+print directions
+
+
+
+
+
+
+
+                            2415 e camelback road
+suite 1000
+phoenix, az 85016                        
+
+e-mail phoenix office
+
+
+
+
+
+
+
+
+
+
+
+
+search technology jobs
+
+
+                        search technology jobs
+                    
+
+
+
+
+
+
+
+
+select a region
+
+                                                        phoenix                                                    
+
+                                                        los angeles                                                    
+
+                                                        orange county                                                    
+
+                                                        denver                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+find local tech recruiters:
+
+
+phoenix
+
+
+los angeles
+
+
+orange county
+
+
+denver
+
+
+
+
+
+
+
+
+
+search accounting jobs
+
+
+                        search accounting jobs
+                    
+
+
+
+
+
+
+
+
+select a region
+
+                                                        phoenix                                                    
+
+                                                        los angeles                                                    
+
+                                                        orange county                                                    
+
+                                                        denver                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+find local accounting recruiters:
+
+
+phoenix
+
+
+los angeles
+
+
+orange county
+
+
+denver
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+receive job alerts
+
+first name*last name*email address
+
+our closest location*selectphoenixdenverlos angelesirvineexpertise*selecttechnologyaccountingresumetell us what you are looking for
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+ 
+
+
+
+
+hire now
+
+
+
+
+
+i need to hire now
+please fill out this short form, and a representative will get back to you.
+
+name*company / title*phone number*email address
+
+our closest location*selectphoenixdenverlos angelesirvinehiring need*selecttechnology talentaccounting talentbothtell us what you are looking for
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+ 
+
+
+ 
+
+
+
+
+
+
+apply now
+
+
+apply now
+
+
+
+first name*last name*email address*
+
+phone numberattach resumetell us what you are looking forare you:*humanrobot
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+ 
+
+
+
+call us
+
+
+
+
+
+
+
+                                                share job on linkedin
+                                            
+
+
+
+
+
+
+
+
+
+                                                share job on twitter
+                                            
+
+
+
+
+data scientist (96407)
+
+                                scottsdale area, arizona                                
+
+job type: permanent
+salary details: 100000.00 - 140000.00 per year (permanent) 
+
+
+company overview:our client is the first company to deliver an omni-channel lifecycle pricing solution for retailers that synchronizes prices, promotions and markdowns online and in-store to produce a consistent brand and shopping experience. our client uses its patented science that analyzes historical sales to understand shoppers’ sensitivity to price and generate price and promotion strategies that account for pricing rules, cost changes and competitor prices to achieve profit and revenue goals.  architected on big data and delivered as a software-as-a-service (saas), our client’s intelligent price maintenance and optimization (ipmo) solution can be administered from a public or private cloud. our client’s innovations in retail science simplify adoption and use, while allowing retailers to see value in just weeks with more transparency and minimal disruption to existing business. our client offers a competitive salary with stock options and a benefits package, including medical, dental, 401k.for immediate consideration email your resume to ntrigilio@vincentbenjamin.com job description – senior data scientist:our client has an immediate opening for a senior data scientist located in scottsdale, arizona. this is a permanent position with tremendous potential for growth. we are looking for a hands-on scientific programmer with experience solving mathematical problems. the candidate must be comfortable with regression, optimization, forecasting, statistics, and algorithms, preferably with experience in a business setting.  we’re looking for a candidate who can think creatively and execute ideas quickly. as senior data scientist, you will be a member of our client’s science team. you will work with product engineering and professional services to solve price, promotion, and forecasting problems for clients and develop industry leading software. this position involves trouble shooting production issues and will require a strong sense of urgency to meet client timelines and service levels. there will be occasional periods of travel to customer sites required. activities: software development  analytical tools for  data visualization  troubleshooting  management of product attribute data  store-zone clustering  kvi analysis  category strategy simulation tools to test algorithms documentation  data specifications  patents  user guide content  ppt slides for customer presentations
+required skills:knowledge, experience and proficiency with: python, r, and/or matlab linux and windows operating systems c, java, and/or .net big data (such as hadoop and mongodb)   desirable performance optimization and debugging sql desirable strong analytical skills in math and science.    experience working with large data volumes.    excellent written and oral communication skills   and comfortable in a client-facing role knowledge of retail pricing, merchandising, and   category management is desired experience in production software development   (git, jira, etc.) successful track record working in a   cross-functional software team including professional services, science, and   development previous experience in creating and   delivering  requirements documents   team player, self-starter, ability to multi-task   and work in a fast-paced environment proficiency in excel required. working knowledge   of sql and r is a plus bachelor’s degree required, master’s degree in a   quantitative field is strongly preferred (math, engineering, science, or   economics)  5 years related experience with software vendors   in retail knowledge, experience, and proficiency with software development technology displays superior business acumen and   communications skills to work effectively with corporate leadership teams.   adds value to the organization and ability to liaise effectively between   technical and non-technical stakeholders.  takes initiative to identify and address issues   and opportunities, and proactively contributes to the business. education: college degree in engineering, mathematics, or   physics is required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+first name*last name*email address*
+
+phone numberattach resumetell us what you are looking forare you:*humanrobot
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phoenix, az office
+(602) 595-9900
+irvine, ca office
+(949) 398-8000
+los angeles, ca office
+(310) 730-5533
+denver, co office
+(303) 495-2400
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+x
+join our team
+
+
+first name*last name*company*email address
+
+our closest location*selectphoenixdenverlos angelesirvinerole interested in:*selectrecruitersalessales managementoperationstell us about your experienceattach resume
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+
+
+
+
+x
+get hired
+
+
+first name*last name*email address*
+
+phone numberattach resumetell us what you are looking forare you:*humanrobot
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+
+
+
+
+x
+apply now
+
+
+first name*last name*email address*
+
+phone numberattach resumetell us what you are looking forare you:*humanrobot
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+
+
+
+
+x
+i need to hire now
+
+
+name*company / title*phone number*email address
+
+our closest location*selectphoenixdenverlos angelesirvinehiring need*selecttechnology talentaccounting talentbothtell us what you are looking for
+
+  
+
+
+
+
+
+
+
+
+
+
+this iframe contains the logic required to handle ajax powered gravity forms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    cookie data:object(utmz_cookie_parser)#2004 (11) {
+  ["utmz_source"]=>
+  string(6) "indeed"
+  ["utmz_medium"]=>
+  string(7) "organic"
+  ["utmz_term"]=>
+  null
+  ["utmz_content"]=>
+  null
+  ["utmz_campaign"]=>
+  string(6) "indeed"
+  ["utmz_gclid"]=>
+  null
+  ["utmz"]=>
+  null
+  ["utmz_domainhash"]=>
+  null
+  ["utmz_timestamp"]=>
+  null
+  ["utmz_sessionnumber"]=>
+  null
+  ["utmz_campaignnumber"]=>
+  null
+}
+
+

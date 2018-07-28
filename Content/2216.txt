@@ -1,0 +1,233 @@
+
+
+
+
+job application for senior data engineer at cardlytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+senior data engineer
+
+        at cardlytics
+      
+(view all jobs)
+
+        cardlytics headquarters - ponce city market
+      
+
+
+the big picture
+the senior data engineer is responsible for the design and coding of new etl & live data solutions, enhancing existing products, and implementing new technologies, paradigms, and practices to provide the best solutions to our customers. this includes technical design and development of cardlytics current and future systems as part of a team of other data engineers and across other engineering and business teams. the position reports to a technical manager and will be a part of a scrum team.
+cool stuff you get to do in this role
+cardlytics is on the bleeding edge of bringing new advertising and purchasing intelligence platforms to the market. we are on the cusp of turning the industry on its head, and we need the best of the best to help us take that next step. bring your rock star status sql server and burgeoning big data skills to the table and help cardlytics become the industry standard for what we do. in the process, you will have the ability to extend your skill set by working with multi-tb datasets as well as the potential to gain experience migrating to and developing in a cloud-hosted environment (aws, azure, etc.).
+what you will accomplish in this role
+
+this is not a dba role:  you will contribute to your team by maintaining existing applications, as well as coding new features and new applications.
+you will be a database expert on your team.  the team will look to you for guidance on how to implement highly performant code and design in the database.
+you will have the opportunity to innovate, reimagine current systems, and challenge the status quo to help the company move towards real-time data processing.
+
+what you bring to the table
+
+skills
+
+required: microsoft sql server, sql server integration services (ssis), microsoft visual studio,  strong t-sql/ansi-sql
+not required, but nice to have: sql server analysis services (ssas), hp vertica, aws development and migration experience, automation scripting language (python or powershell, ideally), some linux experience (bash, etc.), some exposure to big data/nosql would be helpful (scala, mapr, kafka, etc.).
+
+experience
+
+minimum of 7 years development experience with microsoft sql server and microsoft etl stack, proven background implementing scalable etl solutions for high volume, evolving datasets
+experience with data science and big data concepts and tools (r, python, mapr, scala, kafka) is a plus
+any experience with migrations to and development against cloud providers (aws, azure) is a big plus
+experience with financial, marketing and advertising fields are highly preferred
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how did you hear about this opportunity with cardlytics? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,191 @@
+
+
+
+mitchell :: careers ::machine learning / data scientist - summer 2018 - san diego
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+machine learning / data scientist - summer 2018 - san diego
+
+
+job location
+
+us-ca-san diego
+
+
+
+
+
+job id
+
+17-7764
+
+
+type
+
+intern
+
+
+
+
+
+
+
+
+
+company overview
+
+
+
+
+
+
+mitchell international, inc. is a leading provider of information and workflow solutions to the property & casualty claims industry and their supply chain partners. we solve interesting and complex problems that directly affect the customers our clients serve. we are constantly adapting to stay on the forefront of emerging technologies and we work diligently to maintain our position as a thought leader within our industry.
+
+
+
+
+
+
+
+
+job description 
+
+
+
+
+
+
+department description:at mitchell, we are building next generation suite of smart product solutions using computer vision, advanced analytics and artificial intelligence [deep learning]. we are looking for engineers and technologists to help build the next-generation of systems, tools and features for mitchell’s cutting-edge products and platforms that support millions of transactions. this team is the focal point in our work bringing the latest in search and discovery ideas to production at large scale. internship description: as a machine learning data scientist intern, you will have the opportunity to solve challenging problems or build predictive models across a broad range of mitchell products. you will apply machine learning techniques to improve mitchell's algorithms, workflows and core products to become more predictive.  you will partner with engineers to implement your ideas in production and analysts to evaluate and validate your improvements. you will have opportunity to work on several challenging machine learning problems, includinghow to build models at scale using vast amounts of structured and unstructured heterogeneous types of data.ensuring high accuracy based on industry’s stringent requirements around precision or recall and with minimum type i and type ii errors.generating predictions for millions of rows of data with high response timedealing with high data diversity (vast amounts of data will need to be classified and will have multi labelled outcomes)dealing with very high dimensionality (expect to work on large matrix computations, variable transformation & feature engineering and selection using pca and other novel ml techniques)dealing with noisy data (build models robust enough for unclassified and/or mislabeled data)
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+pursing a ms in mathematics, computer science, data science or related degreegpa of 3.0 or highergraduating in december of 2017 or june of 2018good understanding of machine learning theory, artificial intelligence [deep learning] and algorithms, such as cnns, k-nn, naive bayes, svm, decision forests, ensembles, decisions treesgood coding skills and knowledge around using scientific, distributed programming and scripting languages like r, python, pyspark and/or java.good foundation in statistics and machine learning algorithmsfamiliarity of modern statistical learning methods & machine learning frameworks like h2o, spark & hadoopknowledge on how to build prototypes and be able to understand the existing code base.a principled approach to solving algorithmic problems with a focus on what will make users happya pragmatic approach to rapidly evaluating new algorithmic ideasa very high attention to detail and ability to thoroughly think through problemsexcellent written and oral communication skills on both technical and non-technical topicsability to commit 40 hours per week for 10-12 weeks during the 2018 summer. learn more about our summer intern program: www.mitchell.com/internships  
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+connect with us!
+
+
+
+
+not ready to apply? connect with us via our talent pools.
+
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

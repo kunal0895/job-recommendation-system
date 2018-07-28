@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+ccc information services inc.
+
+
+
+
+
+
+
+
+
+
+big data engineer
+
+
+position title:
+big data engineer
+
+
+job function:
+technology
+
+
+job location:
+chicago, il
+
+
+
+
+
+
+description
+big data engineer
+position background
+the enterprise analytics team at ccc has an open position for a big data engineer. the team builds platforms to provide insights to internal and external clients of ccc businesses in auto property damage and repair, medical claims and telematics data. our solutions include analytical applications against claim processing, workflow productivity, financial performance, client and consumer satisfaction, and industry benchmarks.
+our data engineers use big data technology to create best-in-industry analytics capability. this position is an opportunity to use hadoop and spark ecosystem tools and technology for micro-batch and streaming analytics. data behaviors include ingestion, standardization, metadata management, business rule curation, data enhancement, and statistical computation against data sources that include relational, xml, json, streaming, rest api, and unstructured data. 
+the role has responsibility to understand, prepare, process and analyze data to drive operational, analytical and strategic business decisions. the big data engineer will work closely with product owners, information engineers, data scientists, data modelers, infrastructure support and data governance positions. we look for engineers who start with a base of big data skills but who also love to learn new tools and techniques in a big data landscape that is endlessly changing.
+responsibilities
+* build end to end data flows from sources to fully curated and enhanced data sets.  this can include the effort to locate and analyze source data, create data flows to extract, profile, and store ingested data, define and build data cleansing and imputation, map to a common data model, transform to satisfy business rules and statistical computations, and validate data content.  
+* produce data building blocks, data models, and data flows for varying client demands such as dimensional data, data feeds, dashboard reporting, and data science research & exploration
+* modify and maintain complex sql and pl/sql for oracle etl and bi/dw data flows
+* produce automated tests of data flow components
+* use knowledge of the business to automate business-specific tests for data content quality
+* automate code deployment and promotion
+* build automated orchestration and error handling for use by production operation teams
+* provide technical expertise to diagnose errors from production support teams
+* collaborate with team members in an agile team (e.g., scrum)
+* participate as both leader and learner in team tasks for architecture, design and analysis
+* coordinate within collocated on-site teams as well as with work plans for off-shore resources
+qualifications  
+* bachelor’s degree or two year technical program with a programming specialization
+* 3+ years’ experience with complex data flows
+* unix commands and scripting
+* hadoop fundamentals and architecture: hdfs, map-reduce, job performance
+* open source big data tools such as hive, hbase, parquet, spark sql
+* familiar with open source monitoring and orchestration tools such as ambari, oozie
+* advanced sql for data profiling and data validation
+* spark-sql and hive programming for advanced transformations and statistical computations
+* experience with development of metadata-driven and fully parameterized data processing tools
+* programming in a language such as python (preferred), scala, etc.
+* programming in streaming-data tools such nifi and stream analytics manager
+about ccc
+ccc provides leading automotive claims, repair and telematics solutions that drive efficiencies and enable our clients to make smarter decisions. ccc brings together what matters most – insight to make the best decisions, connections into the industry’s leading automotive claims network, and superior productivity through innovative cloud, mobile, hyper-scale technologies and apps.
+founded in 1980, ccc is the nation’s leading provider of advanced software, workflow tools, and enabling technologies to automotive collision repairers, property/casualty insurance carriers, oe manufacturers, and part suppliers. its client base includes more than 350 insurance companies and more than 22,000 repair facilities.
+our decision-support tools draw from insights contained in our extensive data warehouse, which includes aggregated claims and repair information from millions of claims-related transactions processed through ccc over the last 30 years. ccc leads the industry in technology innovation and continues to make strategic investments in areas that will help existing and future customers get consumers back in their cars quickly following an accident.
+why choose ccc
+we promote a healthy work-life balance and offer generous benefit plans and resources designed with employee satisfaction in mind.
+what we value is simple - customers, employee commitment, collaboration and clear communication.
+we hire people who will embrace the company’s goals and productively contribute in ways that help us serve the customer, innovate, and stay strong.
+we make it a priority to keep employees healthy, happy and enriched.
+* healthy - wellness programs and perkspot/employee discount program
+* happy – recognition programs, a confidential employee assistance program, and flexible work arrangements such as staggered start times
+* enriched – tuition reimbursement, training and learning programs, and leadership development opportunities
+our corporate headquarters is located in downtown chicago within the historic merchandise mart—a certified leed (leadership in energy and environmental design) building.
+ccc information services was ranked #15 in the top 100 digital companies in chicago in 2016 by built in chicago, an online community for digital technology entrepreneurs in chicago.
+ccc is a great place to work. join us!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+ccc information services is an equal opportunity employer

@@ -1,0 +1,198 @@
+ 
+
+
+
+
+
+
+
+
+
+data scientist #0054 job at parker institute for cancer immunotherapy in san francisco, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+informatics | san francisco, ca | full time
+
+
+
+
+
+
+job description
+
+
+overview of the role
+the data scientist will leverage their deep expertise in machine learning, informatics, cancer biology, data integration and/or immunology to work on projects that ultimately drive the development of new immunotherapies.
+ 
+there is a great deal of flexibility in this role, however data scientists and pici typically contribute to:
+
+developing new methods for integrative data analysis
+creating high-throughput pipelines to process any of the 10+ data types we work with
+building new tools to incorporate open data and knowledge from existing literature into analysis workflows
+evaluating novel technologies for immune profiling
+analyzing multi-modal data sets to uncover mechanisms of response and resistance to immunotherapies
+collaborating with pici investigators at our member sites
+
+ 
+reporting structure and team
+the data scientist reports to the vp, informatics and is a key member of the informatics team.
+ 
+essential job functions
+
+perform translationally-relevant research in cancer immunotherapy
+develop informatics methods to analyze one or more of the 10+ data types we work with, including cytof, mibi/imc/vectra, 16s ribosomal sequencing, atac-seq, whole exome sequencing, nanostring, and rna-seq
+develop methods to integrate and analyze clinical patient data as well as publically available data sources
+leverage a cloud-based compute environment based around tools such as docker, cromwell/wdl, google cloud platform, and deep learning frameworks such as tensorflow, to perform rigorous, reproducible analysis on large data sets.
+mentor and train postdoctoral associates and other research fellows
+contribute to the scientific environment at the pici by presenting at internal meetings, identifying relevant literature, and serving as an in-house expert on your research area.
+present at national conferences and/or make other contributions to the broader scientific and computational community through publications and/or community projects
+
+ 
+knowledge, skills, and experience
+
+complete their ph.d. in applied math, biophysics, bioinformatics, machine learning, computer science, immunology, cancer biology, or similar
+substantial experience using analytic packages in python, r or similar to analyze data. knowledge of both the practical and theoretical aspects of data science is essential
+experience with high performance computing, with an empahsis on cloud computing
+have a drive to translate your research ideas into practical tools and insights
+have a passion for collaborative, interdisciplinary research that generates real impact 
+be highly motivated and able to work independently
+have excellent oral and written communication skills
+
+ 
+introduction to the organization
+the parker institute for cancer immunotherapy (“pici” or the “parker institute”) is a not-for-profit organization whose mission is to accelerate the development of immunological cures for cancer through innovative science, advanced technologies and new modes of research collaboration.  the institute is based in san francisco, california and officially launched in april 2016.
+ 
+to achieve its mission, pici has established significant new cancer immunology research centers at six of the top cancer research and treatment institutions in the country (memorial sloan kettering cancer center, stanford medicine, the university of california, los angeles, the university of california, san francisco, the university of pennsylvania and the university of texas md anderson cancer center), and will organize and support a portfolio of advanced, collaborative research efforts across this consortium.  
+
+
+
+
+
+return to parker institute for cancer immunotherapy
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to parker institute for cancer immunotherapy
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

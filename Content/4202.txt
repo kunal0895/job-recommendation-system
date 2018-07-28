@@ -1,0 +1,60 @@
+
+
+
+
+threatmetrix - jobs: data scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data scientist
+
+data scientist
+san jose, california, united states · engineering
+
+descriptionabout threatmetrixthreatmetrix®, the digital identity company™, is the market-leading cloud solution for authenticating digital identities and transactions on the internet. verifying more than 25 billion annual transactions supporting 35,000 websites and 5,000+ customers globally through the threatmetrix® digital identity network, threatmetrix secures businesses and end users against account takeover, payment fraud and fraudulent account registrations resulting from malware and data breaches. key benefits include an improved customer experience, reduced friction, revenue gain, and lower fraud and operational costs. the threatmetrix solution is deployed across a variety of industries, including financial services, e-commerce, payments and lending, media, government, and insurance.about the teamthe threatmetrix engineering team is an international team that includes experts in digital identity, device intelligence, fraud detection, real time systems, software as a service (saas) applications, machine learning, and data analytics. we are an agile engineering team using concepts such as scrum, continuous integration, and continuous improvement. the team is led by andreas baumhof, cto and svp engineering, who is an internationally renowned cyber-security thought leader and former executive director, ceo and co-founder of australian-based trustdefender. we leverage many powerful open source packages including hadoop, impala, kafka, spark, cassandra, aerospike and many more to build our solutions.about youthreatmetrix is seeking an outgoing, curious, interdisciplinary machine learning scientist that has a passion for modeling and data analysis.  bring a combination of mathematical rigor      and innovative algorithm design to create recipes that extract      intelligence from billions of rows of data to improve our digital identity      solutions and fraud detection capabilities. build data pipeline and translate      unstructured, complex business problems into well-defined feature space, implement      elegant and efficient learning algorithms to work at scale. expected personal skills clear and effective english communicator      of technical issues team player who works effectively with      self-managed cross-functional teams  organized, methodical, and detail oriented ability to work with geographically dispersed teams committed to the success of the team and the company requirements hands-on analysis on large amount of historical data leading to the understanding of the data implications.  knowledgeable about statistical modeling, machine learning techniques and working experience from prototyping to production. deep understanding of feature engineering and variable selection. practical knowledge of regression models, decision trees, anomaly detection, and deep learning. experience with java, python and unix/linux platform. familiarity with best practices in software design and testing. experience with latest big data computation and analytics platforms (hadoop, spark, kafka, impala, etc.). experience in computer security and fraud detection is a plus. experience ms or phd in computer science, statistics, math, operations research, etc. 2+ years of quantitative experience with large data-sets, from prototyping to business impact. 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+threatmetrix website
+
+powered by
+workable
+
+
+
+
+

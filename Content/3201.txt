@@ -1,0 +1,289 @@
+
+
+
+
+
+software engineer description at general atomics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+jobs by category
+
+a&p/mechanics, avionics/electronics, logistics, product support, supply chain management jobs
+a&p/mechanics, manufacturing jobs
+a&p/mechanics, product support, technicians jobs
+a&p/mechanics, technicians jobs
+accounting and finance jobs
+administrative jobs
+administrative, legal/regulatory services jobs
+administrative, safety jobs
+administrative, strategic development jobs
+airframe and powerplant jobs
+avionics jobs
+avionics/electronics, engineering, technicians jobs
+avionics/electronics, manufacturing jobs
+avionics/electronics, marketing jobs
+avionics/electronics, product support, technicians jobs
+business development jobs
+business development, information technology jobs
+business development, product support, program/project management jobs
+business development, program/project management jobs
+business development, program/project management, strategic development jobs
+contracts and procurement jobs
+contracts/sub contracts/purchasing, finance/accounting jobs
+contracts/sub contracts/purchasing, information technology jobs
+contracts/sub contracts/purchasing, legal/regulatory services jobs
+contracts/sub contracts/purchasing, program/project management jobs
+contracts/sub contracts/purchasing, quality jobs
+electromagnetic systems jobs
+engineering jobs
+engineering, facilities jobs
+engineering, information technology jobs
+engineering, information technology, product support, scientists jobs
+engineering, manufacturing jobs
+engineering, product support jobs
+engineering, program/project management jobs
+engineering, safety jobs
+engineering, scientists jobs
+engineering, technicians jobs
+facilities jobs
+facilities, program/project management, safety jobs
+finance/accounting, product support, program/project management jobs
+finance/accounting, program/project management jobs
+finance/accounting, program/project management, strategic development jobs
+human resources jobs
+information technology jobs
+information technology, manufacturing jobs
+information technology, quality jobs
+internships jobs
+legal jobs
+logistics jobs
+logistics, program/project management jobs
+manufacturing jobs
+manufacturing, material and production control jobs
+manufacturing, product support jobs
+manufacturing, product support, technicians jobs
+manufacturing, technicians jobs
+marketing jobs
+material and production control, product support, supply chain management jobs
+pilot jobs
+product support jobs
+product support, supply chain management jobs
+program manager jobs
+program/project management, supply chain management jobs
+quality jobs
+quality, safety jobs
+safety jobs
+safety, scientists jobs
+scientist jobs
+supply chain management jobs
+technician jobs
+
+
+
+jobs by company
+
+general atomics
+general atomics aeronautical systems
+general atomics systems integration
+diazyme
+
+
+
+jobs by location 
+adelanto jobs
+alabama jobs
+albuquerque jobs
+arizona jobs
+beaver creek jobs
+california jobs
+china lake jobs
+district of columbia jobs
+fort drum jobs
+georgia jobs
+grand forks jobs
+hinesville jobs
+huntsville jobs
+indian springs jobs
+livermore jobs
+march air force base jobs
+mississippi jobs
+nevada jobs
+new mexico jobs
+new york jobs
+north dakota jobs
+ohio jobs
+palmdale jobs
+san diego jobs
+sierra vista jobs
+spanish fork jobs
+tupelo jobs
+united states jobs
+utah jobs
+washington jobs
+
+
+
+browse by job groups 
+palmdale facilities jobs
+san diego legal jobs
+san diego logistics jobs
+spanish fork manufacturing jobs
+san diego manufacturing, material and production control jobs
+san diego manufacturing, technicians jobs
+san diego engineering, information technology jobs
+san diego internships jobs
+san diego engineering, manufacturing jobs
+huntsville engineering jobs
+palmdale engineering jobs
+san diego human resources jobs
+palmdale airframe and powerplant jobs
+palmdale manufacturing jobs
+huntsville electromagnetic systems jobs
+san diego facilities jobs
+san diego supply chain management jobs
+san diego contracts and procurement jobs
+san diego manufacturing jobs
+adelanto manufacturing jobs
+palmdale avionics jobs
+palmdale pilot jobs
+san diego program manager jobs
+san diego quality jobs
+adelanto engineering jobs
+san diego information technology jobs
+san diego accounting and finance jobs
+san diego electromagnetic systems jobs
+san diego engineering jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+search
+
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+software engineer
+date posted 11/03/2017
+
+job id#: 14748brcompany: general atomicsjob title: software engineerjob category: engineeringcity: san diegostate: californiafull-time/part-time: full-time salaryjob summarygeneral atomics (ga), and its affiliated companies, is one of the world’s leading resources for high-technology systems development ranging from the nuclear fuel cycle to remotely piloted aircraft, airborne sensors, and advanced electric, electronic, wireless and laser technologies.general atomics electromagnetic systems (ga-ems) designs and manufactures first-of-a-kind electromagnetic and electric power generation systems. ga-ems’ expanding portfolio of specialized products and integrated system solutions support critical fleet, space systems and satellites, missile defense, power and energy, and process and monitoring applications for defense, industrial, and commercial customers worldwide.we have an exciting opportunity for an entry-level software engineer to join our lasers and advanced sensors group located in rancho bernardo, ca. under general supervision and with on-going review, this position supports the software information processing and exploitation group in the development and engineering of target detection and tracking algorithms and software for passive, active, and multi-spectral passive infrared and eo imaging systems. contributes to the completion of assigned engineering tasks in the software and algorithms group not limited to data analysis, algorithm design and test, and software implementation. these tasks involve the exercise of independent judgement and discretion about matters of significance in the development and testing of algorithms and software. the position contacts are primarily internal to the team; however, this position has the growth opportunity to have contact with internal and external customers with mentoring provided by the senior staff in the departments. may provide direction to other team members. this position provides documentation, results, and software and algorithms and communicates this work to the software and algorithm team.duties and responsibilities:support and performs test and evaluation of target tracking and detection algorithms and embedded software developed by the algorithm and software groupconvert matlab algorithms to c++ for implementation on embedded computing systemsperform data analysis on tracking and target detection algorithms applied to imaging data setsimplement test procedures and approaches for algorithms at various stages of developmentprovides high quality documentation and presentations on work products such as test and evaluation of algorithms and software, and algorithm development.performs other duties as required.we recognize and appreciate the value and contributions of individuals with diverse backgrounds and experiences and welcome all qualified individuals to apply.job qualificationstypically requires a bachelor’s degree in computer science, electrical engineering or other engineering field with computer software background and expertise. must be familiar and proficient with c++, matlab, and c programming environments and understand programming theory and approaches. must be able to understand new concepts quickly and apply them accurately through an evolving environment. good communication, computer, and interpersonal skills are required to enable an effective interface with other professionals, to produce appropriate documentation, and to present results to a limited internal audience. must be able to work both independently and on a team. able to work extended hours as required.travel percentage required  0% - 25%clearance required?  no
+
+apply now
+send to friend
+
+
+
+sign up for job alerts
+first namelast nameemail addressphone numbercurrent companycurrent titlekeywords: sign up for alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least one alert in the list below in order to subscribe.interested incategorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+job matching
+with just one click and a connection to linkedin we can find jobs for you that best matches your experience.
+start matching
+
+
+
+
+©2017 general atomics. all rights reserved. legal contact
+general atomics and affiliated companies is committed to hiring and retaining a diverse workforce. we are an equal opportunity/affirmative action employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, gender expression, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law. eeo is the law. to learn more click here. we prohibit compensation discrimination under all applicable laws. to learn more click here. u.s. citizenship is required for certain positions.
+we endeavor to make the online job application process accessible to any and all users. if you have a disability that impacts your ability to complete the job application process and would like to request assistance or a reasonable accommodation, please contact our human resources department at (858) 455-4545, or click here. this contact information is for accommodation requests only, not to inquire about the status of applications.
+
+
+
+
+
+
+
+
+
+
+
+

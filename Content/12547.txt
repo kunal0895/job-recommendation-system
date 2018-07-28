@@ -1,0 +1,525 @@
+
+
+
+rackspace jobs/careers - software developer big data in san antonio, texas, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a racker?
+locations
+culture
+benefits
+stories
+jobs
+
+
+
+
+
+join us!
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+
+
+
+are you a racker?locationsculturebenefitsstoriesjobs
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								always ready, always accountable, always helpful 
+							
+
+
+
+
+
+
+
+being a racker means thinking about support in new and different ways. major hayden, principal architect, talks about how rackspace has redefined service.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								serious about your work, but don't take yourself too seriously
+							
+
+
+
+
+
+
+
+delivering results-obsessed customer service in a highly technical, competitive industry is serious business. rackers also enjoy cutting up and having a good time together.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								a cloud enthusiast with a heart for service
+							
+
+
+
+
+
+
+
+rackers are experts at building great products for our customers.  egle sigler, who is a principal engineer and rackspace board of director for openstack, shares how rackspace helps her tap into her passion for technology and service to deliver her best for customers.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								dedicated to making a positive impact
+							
+
+
+
+
+
+
+
+tony campbell, learning and development director, shares that finding opportunities to make things better for our customers and industry drives rackers to excel.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								committed to learning, growing & innovating
+							
+
+
+
+
+
+
+
+distinguished engineer and lead architect for open compute, aaron sullivan, explains that at rackspace innovation makes technology useful in really natural ways.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								mission inspired, values grounded, culture focused
+							
+
+
+
+
+
+
+
+courtney skarda, vp of racker experience shares how rackers bring their strengths and true, authentic selves to work every day to achieve our mission.
+read more
+
+
+
+
+
+
+
+
+
+		rackspace one of best workplaces for millennials     read more
+
+
+
+
+
+		connect: 
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+                
+                    rackspace jobs/careers
+                
+            
+        
+
+
+
+
+
+
+where
+
+city, state, country
+
+
+what
+
+job title, keywords
+
+
+
+
+
+
+
+
+
+
+
+home
+
+            view all jobs
+            
+(229)
+
+
+
+
+
+
+
+
+
+
+
+
+rackspace
+
+
+software developer big data in
+            
+san antonio, texas
+
+
+
+
+
+
+
+
+job overview
+overview & responsibilities
+rackspace is looking for a software developer to join our data engineering organization. as a developer, you will be working on building and operating company wide data platform providing data warehouse, analytics and application services to other teams across the organization. you should have a passion for large-scale distributed systems from design to deploy, even if that means touching multiple repositories written in several languages within a single day. you’re opinionated about big data and data platforms. the platform you build would influence analytics and business decisions at rackspace. you make conscious choices and can explain the reasoning behind them or teach a teammate what they need to know to review your code. you are responsible for the decisions you make and the code that you ship.
+what you'll do
+
+write excellent, fully-tested code in java and python
+provide in-depth and always-improving code reviews to your teammates
+fix things before they break
+continually improve our software pipeline
+troubleshoot and support production, addressing technical debt to improve sustainability
+use an open-source collaborative development model, branching for each major feature, writing clear commit messages and pr descriptions
+implement product features and refine specifications with our data scientists, data analysts and data architects
+resolve operational issues by collaborating with upstream support groups and other engineering teams.
+work with other teams to reduce friction in the data ingestion and extraction pipelines
+
+qualifications
+
+3-5 years of software development experience
+bachelor’s degree or equivalent experience is required. preferred in computer science or related degree
+strong cs and software engineering fundamentals
+skilled with at least one of python, java
+experience building and operating distributed systems
+expertise with software build and deployment tools like jenkins, maven, rpm, pip
+experience working within an agile development process (scrum, xp, kanban, etc)
+familiarity with ci/cd concepts
+a working knowledge of linux
+demonstrated proficiency in creating technical documentation
+experience operating production systems
+appreciation of modular software design and api design
+experience contributing to open-source projects
+
+tools we use hadoop, hive, spark, zeppelin, sql server, cassandra, zookeeper, flume, airflow, ansible, jenkins, github
+req # 36093
+location(s) us-tx-san antonio
+category software development
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+apply now
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current search criteria
+
+
+
+
+              software developer big data
+            
+
+
+
+              san antonio
+            
+
+
+
+              texas
+            
+
+clear all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a racker?locationsculturebenefitsstories
+
+
+
+
+
+rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+
+about rackspace  |  investors  |  careers  |  privacy statement  |  website terms  |  trademarks  |  sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

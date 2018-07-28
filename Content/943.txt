@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: embedded software development engineer (4403) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+                              sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: embedded software development engineer (4403)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+req id 4403 - posted 12/07/2017 - experienced - engineering - regular - united states - north carolina - city (1)
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+                  apply using linkedin™
+                 
+               
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+analog devices (nasdaq: adi) designs and manufactures semiconductor products and solutions. we enable our customers to interpret the world around us by intelligently bridging the physical and digital worlds with unmatched technologies that sense, measure and connect.
+ 
+job description
+analog devices inc’s transceiver team is seeking an experienced and versatile embedded software engineer to join our wireless radio transceiver design group. come be part of this global team of algorithm and software engineers and work in a dynamic environment on state-of-the-art real-time embedded software technology for the rf transceiver!  here you will participate in the innovation of products and solutions with a wide range of market applications from communications to avionics to healthcare.
+ 
+as a critical member of the team, you will participate and add value in all phases of product development, actively participating in feasibility, requirement, architecture, design, implementation, integration, and verifications. you will be positioned within a multi-site development team and will be working closely with system, analog, digital, verification, and customer application teams to deliver embedded software as part of rfic transceiver products.
+ 
+qualifications:   ideal candidate will hold an ms in electrical or computer engineering with minimum 10 years of experience developing software in embedded multi-threaded environment.  additionally, they will have demonstrated:
+
+strong c/c++ programming skills
+experience with embedded platforms & embedded software development paradigms
+experience with embedded real-time operating systems
+ability to work in distributed development environment
+hands on experience integrating, building, and testing of multi-thread based applications
+in-depth knowledge of software development life cycle, software configuration management tools, and software release process
+experience with scm tools (git, svn, clearcase, perforce, etc.)
+strong analytical and problem-solving abilities
+experience with defect tracking tools (jira, svn, etc.)
+customer-facing experience is also desired, as this position may be dealing directly with customers and/or partners
+strong communication skills as they will be developing requirements and design documents
+
+ 
+preferred skills:
+
+strong working knowledge of a software development process (e.g. agile, waterfall)
+demonstrated knowledge of a scripting language (python, perl)
+demonstrated knowledge of rf systems
+demonstrated knowledge of digital signal processing (dsp) and algorithm development experience. [examples include digital filters, digital mixers, frequency/waveform synthesis, adaptive signal processing]
+demonstrated knowledge of 3gpp standards  
+
+ 
+ 
+ 
+for positions requiring access to technical data, analog devices, inc. may have to obtain export  licensing approval from the u.s. department of commerce - bureau of industry and security and/or the u.s. department of state - directorate of defense trade controls.  as such, applicants for this position – except us citizens, us permanent residents, and protected individuals as defined by 8 u.s.c. 1324b(a)(3) – may have to go through an export licensing review process.
+ 
+analog devices, inc. is an equal opportunity employer minorities/females/vet/disability
+ 
+eeo is the law: notice of applicant rights under the law
+ 
+education level: master's degree 
+travel required: yes, 10% of the time
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+                  apply using linkedin™
+                 
+              
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

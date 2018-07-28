@@ -1,0 +1,236 @@
+
+
+job information: web developer job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share
+
+
+
+
+
+
+												email opening
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title
+web developer 
+
+ 
+req number	
+inf-17-00119	 
+
+
+about the organization	
+mcsg technologies is a native american owned, sba certified 8(a) and hubzone certified small business based in oklahoma with operations across the united states.  we specialize in delivering world class technology solutions, cybersecurity/information assurance solutions, logistics solutions and services as well as healthcare services to both government agency clients and commercial entities nationwide.  today, mcsg technologies' teams are helping clients to develop new solutions to solve ever-evolving it, engineering, security and healthcare challenges. mcsg technologies has received multiple awards for our exponential growth, including earning the #2 spot on the okc metro 50 awards in 2014 and #13 in 2015. additionally, we were recognized on the prestigious inc 500 list with the #44 spot in 2014 and #111 in 2015.	 
+
+
+eoe statement	
+we are an equal employment opportunity employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.	 
+
+
+open date	
+12/5/2017	 
+
+
+full-time/part-time	
+	 
+
+
+position	
+web developer (usams)	 
+
+
+location	
+mcsg - lackland afb	 
+
+
+shift	
+ -not applicable-	 
+
+
+description	
+job summary: this position is located at joint base san antonio - lackland in san antonio, texas and will assist in web application, development and maintenance support on-site at jiowc headquarters. this position is contingent upon contract award.
+primary duty responsibilities:
+
+coordinate with jiowc staff for requirements for website design and development in a distributed web environment.
+create new web sites and new sub-sites as required for logical organization of content and be responsible for creating templates, custom scripts, and style sheets to implement a consistent look and feel to all jiowc web sites and sub-sites.
+document any scripts developed for use with the web and update, as required, the web architecture in the form of a site layout and develop a web content management plan.
+design and develop the website using the jiowc interface standards already in place and rapid development principles to achieve a user-friendly interface design.
+coordinate with the database administrator to create and tune databases required for jiowc administered web sites.
+develop and implement web site maintenance procedures and perform site content updates, as well as document the web environment and configuration.
+notify content owners (producers and/or management) of outdated material. the timeframe for outdated material is the decision of the chief, jiowc strategic intelligence, operations and plans division.
+post ready-to-publish items to the web within 24 hours of receipt monday through friday.
+coordinate with the network administration personnel on website security controls and grant and monitor read and write access privileges; coordinate mirror or replication servers with system administrators; and implement web-based security and access controls requested by content providers to ensure government directed levels of confidentiality, integrity, and availability.
+monitor web server traffic, performance, and tune websites as requested.
+provide monthly/period status reports which shall document the overall status of the web servers, system performance, new products and outstanding issues with providers of data. web traffic reports and analysis shall be provided as required
+create custom web forms as required to implement operational event tracking, surveys, event registrations, training compliance, and other web-based activities. the forms shall comply with the jiowc standards for web forms and data submittal.
+facilitate and negotiate the increasing demand for access to data and provide content authoring training to personnel appointed by jiowc divisions to be content managers. this shall consist of utilizing commercially available products or creating computer-based training presentations for self-paced training, as well as providing oral and hands-on training, as required, providing familiarization for the users.
+review web site content modifications submitted by jiowc content managers for compliance with federal regulations and standards, dod regulations and standards, office of the director of national intelligence (odni) regulations and standards, intelink regulations and standards and jiowc regulations and standards.
+participate on teams which create standards and the architecture for interfaces linking the corporate website to databases and the wide area networks. the contractor shall work with the jiowc staff (government employees, as well as contractors) to interface jiowc products to the websites.
+incorporate jiowc developed forms, scripts, interfaces, and databases into jiowc websites. interfaces shall include odyssey, task management system, and the future operations (fops) synchronization calendar.
+identify and resolve users' problems and reply to customer e-mails and incorporate a feedback mechanism for user's comments.
+design and develop web based graphics (banners, icons, buttons, backgrounds, etc.) adhering to jiowc standards and style sheets for a unified appearance. contractor shall use development tools for graphics design which include adobe creative cloud, adobe photoshop, microsoft visual studio, and adobe captivate. all graphics shall be designed and developed without any license, maintenance, or royalty costs.
+recommend, coordinate and implement web server upgrades and patches and coordinate activities with the network administration team to achieve optimum system performance levels and ensure system availability. recommend performance improvement strategies and work with all jiowc directorates in anticipating and preparing for growth on the web.
+perform daily inspections of applicable logs to ensure websites are functioning properly.
+
+	 
+
+
+position requirements	
+requirements: ?7 years’ experience in requirements analysis, design, coding and unit testing, system integration testing, implementation, deploying, providing service to, providing training for, maintaining or updating web based applications/websites. minimum of 5 years’ experience with at least one of the following web development software and technologies in use at the jiowc: adobe creative suite, photoshop, and captivate; .net; coldfusion; iis webserver; sharepoint. knowledge of industry-standard web application development software including perl, php, java, xml, and newer web technologies. knowledge of microsoft operating systems. iat level i certification active ts/sci clearance. relevant experience:minimum experiencecraftsman - 7 years’ experience in web design, coding, unit testing, etc.   education/certification:preferred educationcraftsman - bachelor’s degreecertifications a+, network+, or sscpsecurity clearance:  ts/sci	 
+
+            this position is currently accepting applications.  apply now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we also recommend
+
+
+other jobs within same category
+
+
+
+help desk technician  in san antonio, texasposted on: 12/5/2017[apply now]systems administrator (jny) in colorado springs, coloradoposted on: 11/27/2017[apply now]systems administrator (cft) in colorado springs, coloradoposted on: 11/20/2017[apply now]network administrator in colorado springs, coposted on: 11/16/2017[apply now]scrum master in oklahoma city, ok posted on: 11/7/2017[apply now]
+
+
+
+other jobs within 60 miles
+
+
+
+
+help desk technician  in san antonio, texasposted on: 12/5/2017[apply now]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+
+
+see who works here:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+appone.comtm   ©1999-2017 hr services, inc.click here for technical assistance.
+
+
+
+
+
+
+
+
+
+

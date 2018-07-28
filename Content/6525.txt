@@ -1,0 +1,336 @@
+
+
+
+        sr. robotics scientist -        bossanova robotics -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova, we create service robots for the global retail industry. our robots' mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we are passionate about solving big problems and bringing solutions to our customers. we are growing fast and have many exciting open positions. if you are up to the challenge, we want to hear from you.  
+
+
+
+sr. robotics scientist
+
+
+pittsburgh, pa                    
+
+full time                
+
+r&d                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova we create service robots for the global retail industry. our robots’ mission is to make stores run efficiently by automating the collection and analysis of on-shelves inventory data in large scale stores.  navigating smoothly along the aisles, we circulate autonomously among busy customers and employees.  if we were a self- driving car we’d be operating at level 5 autonomy.  yep, it is possible to move, scan and analyze all at the same time. it is not that simple though and we rely on computer vision, 3d image processing and deep learning techniques to accomplish our mission. oh, we should add, it’s real, happening today, you can meet our robots in some of the world’s biggest retailers.
+
+position: senior robotics scientist
+location: san francisco or pittsburgh
+
+responsibilities
+
+develop algorithms for perception, including calibration in production and in the field
+
+ 
+
+fuse various sensor inputs together to detect objects and people used by hri systems
+
+ 
+
+build out triggers and communication pathways to the cloud to support monitoring operations
+
+ 
+
+build and maintain robot software systems including acting as bridge between ros and communications to cloud.
+
+ 
+
+use a combination of simulation, experimentation and mathematical analysis to evaluate the performance of algorithms and robotic systems
+
+ 
+
+support testing of software and platforms for production
+
+ 
+nice to have: 
+
+develop algorithms for navigation, including mapping, localization, planning and hri
+
+ 
+qualifications
+
+6 years experience in robotics systems development and operation
+
+ 
+
+deep experience in robotics systems integrating software and hardware
+
+ 
+
+experience in two or more of the following: robot perception, point cloud algorithms, and machine learning.
+
+ 
+
+3+ years of experience with ros and linux development
+
+ 
+
+excellent c/c++ programing skills
+
+ 
+
+good command of python and matlab
+
+ 
+
+minimum degree: ms or phd in robotics or equivalent
+
+ 
+
+nice to have: availability for travel overseas
+
+ 
+
+nice to have: experience in management of robotics systems through ops tools such as ansible
+us work authorization
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

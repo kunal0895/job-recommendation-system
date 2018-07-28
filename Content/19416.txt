@@ -1,0 +1,185 @@
+
+
+	web technologies developer #313723 denver, co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web technologies developer
+denver, co
+
+
+
+
+
+apply
+view all jobs
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+
+
+job description
+
+	crownpeak provides web content management software-as-a-service (saas) to large global enterprises.  web content management enables digital marketers and e-business teams to create and manage web and mobile sites, target content to specific audiences and analyze visitor behavior.  as a saas software provider, crownpeak is a highly disruptive business, displacing last-generation solutions in a $1.5b market sector with rapid growth.
+	organizations such as metlife, the bank of new york mellon, aflac, prudential, eli lilly and deloitte have deployed over 3,500 major web and mobile sites on the platform. digital marketing and ebusiness teams benefit from unprecedented agility in launching, redesigning and managing large numbers of projects.
+
+
+	we are seeking a proactive, enthusiastic and passionate web technologies developer to join our growing teams in denver colorado.
+
+position responsibilities
+
+
+		develop and test cms templates using c#, html, javascript, css and crownpeak api routines
+
+		create business rules and workflows for creating, managing and publishing web content
+
+		work with the crownpeak team to understand and document client functional requirements
+
+		work directly with clients to adjust templates, html code, css, javascript or other front-end issues.
+
+		integrate search, analytics, crm and e-mail campaign management products into the solution
+
+		coordinating the testing process during the roll-out and user acceptance phases of delivery.
+
+		log, verify, document and track issues, reproducing and describing problems quickly and efficiently.
+
+		repair issues with front-end code.
+
+		contribute to creation of cms documentation and product improvements
+		 
+
+
+
+skills & requirements
+
+qualifications
+
+
+		1 - 2 years of experience working with one or more server-side languages/technologies (e.g. .net, c#, java)
+
+		1 - 2 years of experience working with html, javascript, css skills, working knowledge of javascript frameworks like jquery/angular etc
+
+		minimum 1-2 years of experience working with a web content management system 
+
+		experience in building and managing sites and/or web applications
+
+		strong scripting language skills, ideally with one or more multiple languages (e.g.  jsp, php)
+
+		working knowledge of web site related technologies, including web servers/hosting, internet protocols and other standards (e.g. ftp, sftp, xml, etc.)
+
+		strong written and verbal communication skills a must
+
+		excellent teamwork skills
+
+		minimum of a bachelors degree is required.
+
+		experience with content management systems a big plus.
+
+		be thorough, detail oriented, and self-motivated.
+
+		have strong analytical and troubleshooting skills.
+
+		work independently, as well as collaboratively.
+
+
+about you
+
+	we are currently looking for developers who can work with our customers to help implement our software. here are some of the key technologies we are interested in:
+
+
+		asp.net
+
+		c#
+
+		css
+
+		javascript
+
+		responsive design
+
+		html5 
+
+		jquery
+
+		bootstrap
+
+		patternlab.io
+
+
+	we are looking for innovated, motivated, and energetic team members that want to be part of this fast paced growing company! you are smart and passionate about what you do. you are accountable, self-motivated and always driven to do better. you have a high degree of initiative and are always looking for the best solution for customers. you have intelligent, risk taking tendencies - you are not afraid to fail, but fail fast, and learn from the mistakes making everyone around you better for it.
+
+	about crownpeak 
+	crownpeak is an established and fast growing software-as-a-service company, headquartered in denver, co with a large office in the u.k. we provide a suite of award winning, hosted software solutions to online marketers and web site managers. following recent investment, crownpeak is privately held and venture-capital backed, and the majority of its revenue is from multi-year, recurring contracts with a very high customer retention rate. 
+
+	compensation
+	crownpeak pays competitive wages based on requisite experience and skills.  the company has a 401(k) retirement plan, generous time off, a work-life balance approach, free ecopass, as well as health, dental, vision disability and life insurance. most importantly, each employee has an opportunity to build our business and become part of the successful future of crownpeak.
+
+	environment and culture
+	this position is based in denver colorado and may occasionally require travel to customer and company office locations, 50% for the first 3 months then reducing after initial onboarding & training. crownpeak has a casual, open office environment within walking distance of the light rail. we are looking for innovated, motivated, and energetic team members that want to be part of this fast paces growing company! you are smart and passionate. you are accountable, self-motivated and always driven to do better. you have a high degree of initiative and are always looking for the best solution for customers. you have intelligent risk taking tendencies - you are not afraid to fail, but fail fast, and learn from the mistakes making everyone around you better for it.
+
+
+
+
+
+apply
+view all jobs
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

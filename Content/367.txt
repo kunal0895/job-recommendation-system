@@ -1,0 +1,174 @@
+
+
+
+careers center - systems engineer (windows engineer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+systems engineer (windows engineer)
+
+
+job location
+
+us-pa-wayne
+
+
+
+
+
+job id
+
+2017-1526
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+medecision is transforming healthcare one cool app at a time! are you the kind of person that is motivated by the challenge of a dynamic, changing market? can you utilize and exploit progressive systems and processes to satisfy urgent business needs? are you a good partner with your teammates; driven to execute team and individual commitments that align with business vision? does the idea of a high visibility and high impact role in a medium sized, growing company excite you? are you interested in being part of a team that strives to achieve high business impact, execution excellence and has a lot of fun while we are doing it? are you ready? we are! join us in our journey towards liberating today’s fragmented healthcare systems to connect care everywhere. this job might be for you, if… you, as the systems engineer-windows, are a strong, highly visible systems engineer responsible for ensuring world class engineering support for it operations for the company. this includes services supporting servers, virtualization, disaster recovery, and mastery of our application framework. you are fully capable of delivering to the company strategy while meeting the ever-changing technology and service needs of the company. you will provide senior support for all operational team(s) and work efforts of business groups to enforce a culture of excellence based on leading by example, driving continuous improvement, performing root cause analysis for problem elimination, and doing all work right the first time. you will have a relentless focus on customer service, innovation, transparency and creating an extraordinary end user experience while remaining consultative and relationship-oriented with all departments in the organization.  reports to:  vp, infrastructure serviceslocation(s): wayne, pa 
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+you’re good at:participating in an efficient and cost-effective it department with a focus on a stable and advanced it environment.working closely with both insourced and outsourced teams as well as other leaders engaged in comprehensive management of it operations to ensure strategic initiatives are being met.identity and access management, security, and single sign on technologiesprioritizing in fast-paced, high-pressure environments.ensuring processes meet business requirements and system goals.ensuring new or enhanced processes are integrated with standard operating procedures.collaborating and understanding the business requirements, ultimately define our overall information technology road-map.determining technology development strategies for the company as a whole and for individual projects; working with top-level management and technology heads to organize these projects.application integrationcompute and storage capacity managementprimary responsibilities:server production support and managementconfigure and maintain windows operating system, front-end and back-end server components, and production application services according to defined requirements and data center operations standardsconfigure and maintain windows vm templatesinstalling code releases and software packages on serversparticipates in the implementation of monitoring systems for event monitoring, alerting, and metrics.responsible for gathering relevant data to determine system capacity needs and make plans for capacity expansions in a proactive manner.responsible for development and configuration practices that ensure a high level of performance and optimize capacity utilization.provides requirements to the systems monitoring group for metrics, alerts and escalations.serves as a point of escalation for performance problems that cannot be resolved by the support staff.researches new methods for enhancing performance and shares findings with the engineering team and the engineering leadership committee.participates in the bcp strategy of the it infrastructure.participates in on-call rotation for after-hours emergency support and maintenance of a 24x7 production environment.tier 3 support for it corporate services
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+you have: minimum of 5 years of experience in windows system engineering with demonstrated ability to guide technology decisionsexcellent communication and collaboration skills, excellent organizational skills, proven ability to prioritize multiple activities and objectives to thrive in a rapidly changing environment.ability to write effective technical documentation with attention to detail and accuracy.experience administering active directory domains.experience with adfsexperience with itil standards and change managementdesired skills:experience managing dns (internal and external) including mx and spf recordsproficiency in scripting languages (e.g. powershell, bash, python) and provisioning tools such as puppet, ansible, chef or othersdevelops detailed project plans for projects and drive to completionexperience in setup and configuration of monitoring toolsexperience in utilization and capacity managementexperience with linux a plusexperience with sdlc a plusexperience with database technologies (ms-sql, oracle, etc) a plus   our culture drives usit’s not all about what we do. it’s as much about how we do it. medecision team members show up. we consistently exemplify our 6 core values of success:execution. service – we deliver “standing ovation” service. speed – we are agile. ownership— we all take ownership and responsibility for how we deliver our promises, how we spend money, who we hire, what we build and how we help one another grow.passion. we show an infectious emotional commitment to our work because what we do is important to our customers, one another and ourselves.partnership. we are all in this together, without boundaries. our internal/external network contains the solutions we need: we’ll continuously seek them out, use them and improve them.leadership. we are medecision’s brand. we are experts in care management, care coordination and healthcare information and technology. we lead our clients to excellent results by providing our expertise on best practices, industry trends, solutions development and innovations. we are moving in sync with an evolving industry. there is no problem we cannot solve.innovation. we are in a constant state of discovery, inventiveness, thinking outside the box, and leading others internally and externally to do the same.candor. medecision communicates in a sincere, direct and famil­iar way. we address conflict directly and escalate issues internally and externally to address conflict with speed and partnership.join us in our quest to liberate healthcare! this description has been designed to indicate the general nature and level of work performed by an employee within this position. the actual duties, responsibilities and qualifications may vary based on assignment. medecision is an equal opportunity employer (eoe) and strongly supports diversity in the workplace.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,165 @@
+ 
+
+
+
+data scientist  | medic mobile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our team
+the tools
+deploy medic mobile
+use cases
+impact reports
+partners
+design
+blog
+contact
+careers
+donate
+phone donations
+
+
+
+
+
+  
+
+
+deploy medic mobile
+our tools are used by large organizations supporting thousands of frontline health workers, as well as local organizations and clinics. learn more about your options for deploying medic mobile.
+
+explore the tools
+want to learn more about our latest software toolkit? on our tools page you can request a walkthrough – our team is happy to give you a tour!
+
+
+
+
+
+
+
+
+
+
+
+
+
+get involved
+
+
+ start now
+
+
+
+
+
+
+careers
+
+
+
+
+data scientist 
+
+background 
+operating as a unique, nonprofit technology company, medic mobile develops free and open-source tools that support various health program areas. health workers currently use medic mobile to register every pregnancy in their community, ensure that infants are immunized against illnesses, track disease outbreaks faster, keep stock of essential medicines, and communicate about emergencies. our workflows and tools are designed through a human-centered process and we study our impact to determine what scales. medic mobile has worked with over 60 partners across 23 countries in africa, asia, latin america, and the us. 
+based in san francisco with regional offices in africa and asia, our technology supports over 17,000 frontline health workers, improving health systems for over 11 million people. at medic, creative solutions to complex problems are the norm. we work in environments with extreme constraints and are inspired by how technology can bridge gaps and reinvent workflows. we’re also a team of realists and shape our tools based on what is most useful and sustainable for our users and partners.
+position details and responsibilities
+we are searching for a teammate to spearhead our organization's efforts to use data to drive programmatic decisions and product features, with a focus on building algorithms and predictive analysis. in this role, we are looking for someone with a love for data, an ability to creatively problem solve and a drive to user their skills to enhance health equity. 
+this position will report to medic mobile’s director of impact, and will be based in north america. we have offices in san francisco, nairobi, and kathmandu. many of our teammates work remotely and we are open to discussing work locations for this position. 
+algorithms for global health (80%)
+the data scientist will conduct novel analysis of medic mobile app usage and project data and build models that result in data-driven product enhancements to improve healthcare delivery. the types of projects you will undertake include building risk identification and targeting algorithms that will support community health workers in their efforts to provide care where it is needed most. this position will be responsible for an end to end process, including problem scoping, data preparation (munging, cleaning, etc), preliminary exploration and analysis, model building, iteration and monitoring for quality and results. the data scientist will present methods and findings to various stakeholders, and will be expected to participate in writing publications. this position will also contribute to various data science partnerships, including preparing datasets, providing technical guidance, and incorporating results into medic mobile technology and practices. 
+other data analysis (20%)
+the data scientist will also conduct targeted and exploratory data analyses on strategic projects and questions across the organization, and communicate findings through data visualization and reports. the position will interface with the medic mobile product team to establish new requirements and feature requests related to data accessibility.
+we are looking for a data scientist with these qualities and qualifications:
+bachelor’s or master’s degree with a focus in data science, computer science, mathematics, or other relevant quantitative discipline4+ years relevant work experiencestrong math competency, including statistics, and expertise with key statistical and programming tools (r, stata, spss)extensive experience with machine-learning and predictive modelingexperience querying large datasets and proficiency with relational databases, including postgresql, and nosql databasesdiverse data analysis and data visualization experiencecomfortable with independent, self directed workable to communicate complex data concepts and methods to a non-technical audienceexcited to get to know our end users, including community health workersability to collaborate with a distributed team, located around the worldinterest in traveling to project sites in africa and asiabonus: experience conducting analysis in the field of health policy, health economics, medical informatics, or similarplease submit a resume, cover letter to jobs@medicmobile.org with “data scientist” in the subject line. we will be interviewing on a rolling basis. the ideal start date for this position is december 2017
+
+
+
+
+
+view all jobs
+
+
+no. 5 of 11
+
+
+
+ #}
+		
+
+
+
+contact
+3254 19th street, floor twosan francisco, ca 94110+1(415) 746-9758 
+send a message
+
+
+careers
+medic mobile is growing and we’re hiring great people.
+view jobs
+
+
+news
+stay up to date on the latest mhealth news and sign up for our newsletter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect
+
+
+
+donate
+
+
+
+we design, deliver, and support world-class software for health workers providing care in the hardest-to-reach communities.
+© 2017 medic mobile. all rights reserved.
+ privacy policy
+
+
+
+
+
+
+
+
+
+

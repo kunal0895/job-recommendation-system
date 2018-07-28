@@ -1,0 +1,28 @@
+data scientist at xaqtdata scientistchicago, ilfull-timedata sciencejob openingsdata scientist%button_apply_to_position% apply using linkedina world-changing company
+at xaqt, we’re passionate about building software that solves problems. we partner with the most important institutions in the world to transform how they use data and technology. 
+ 
+job description
+we are looking for a data scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products. 
+we are looking for awesome people in chicago, kansas city, mo or possibly remote for the right candidate. 
+responsibilities
+
+selecting features, building and optimizing classifiers using machine learning techniques
+data mining using state-of-the-art methods
+extending company’s data with third party sources of information when needed
+enhancing data collection procedures to include information that is relevant for building analytic systems
+processing, cleansing, and verifying the integrity of data used for analysis
+doing ad-hoc analysis and presenting results in a clear manner
+creating automated anomaly detection systems and constant tracking of its performance
+
+skills and qualifications
+
+excellent understanding of machine learning techniques and algorithms, such as k-nn, naive bayes, svm, decision forests, etc.
+experience with common data science toolkits, such as r, python, numpy, matlab
+great communication skills
+experience with data visualisation tools, such as d3.js, ggplot
+proficiency in using query languages such as sql
+experience with elasticsearch and redshift
+good applied statistics skills, such as distributions, statistical testing, regression, etc.
+good scripting and programming skills 
+
+%button_apply_to_position%%footer_powered_by%breezy

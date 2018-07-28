@@ -1,0 +1,252 @@
+
+
+	site reliability engineer #460154 portland
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+company web site
+
+
+
+
+
+
+
+
+about lithium
+build software. reach 500 million users. change lives. that’s what we’re doing at lithium. and you can do it, too. if you want to put your stamp on the digital customer space and enjoy yourself along the way, come join the team. we’re looking for seriously passionate, fun, collaborative & innovative thinkers to help us change the world.
+
+
+
+
+
+view all jobs
+site reliability engineer
+
+
+
+
+
+
+
+
+×
+email this job
+
+
+
+
+
+
+your first name
+
+
+
+your last name
+
+
+
+
+your e-mail address
+
+
+
+e-mail address to share with
+
+subject
+
+message
+
+
+
+
+
+
+
+
+
+
+ send e-mail
+close
+
+
+
+
+
+
+ portland
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+employee referral
+
+
+
+
+
+tell us who you are
+
+
+first name
+last name
+e-mail address
+
+
+
+                                please complete all 3 fields.
+                            
+
+
+
+
+how do you want to share?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+company information
+lithium offers a great working environment and competitive compensation and benefits packages. we're looking for fast-thinking, innovative, passionate team players who enjoy brainstorming new ideas, working with the best and brightest in the social media software industry.
+at lithium we encourage our employees to be real. in keeping with this philosophy, we appreciate diversity and welcome all qualified applicants regardless of race, religion, sex, age, national origin, sexual orientation, disability, veteran status, genetic information or criminal history.
+
+job description
+
+site reliability engineer (tooling) 
+about lithium
+lithium technologies is an award winning privately held venture-backed company garnering social crm market leadership from both gartner and forrester. lithium builds trusted relationships between the world’s best brands and their customers, helping people get answers and share their experiences. customers rely on our software platform to help them connect, engage and understand their total community.  in a world of extreme expectations lithium technologies has allowed our customers like airbnb, at&t, best buy, fitbit, sephora, skype, google, gopro and virgin atlantic meet the ever-growing expectations of their customer base by allowing them and drive the conversation through unique vibrant lithium powered communities.
+ 
+responsibilities 
+
+building and managing build and deploy 
+designing and developing tools and processes to maintain large applications and services at scale
+helping our engineers and data scientists build software that scales in terms of performance and stability
+ruthlessly identifying and removing system bottlenecks before they ever impact performance
+working side by side with on-call engineers to handle emergencies and then running postmortems to ensure they don’t happen in the future
+
+
+establishing best practices inside the organization, proving that they work and then bringing them to other teams at lithium
+    requirements
+
+
+
+2+ years of experience as a sre or software engineer
+fluency in java and understanding of jvm
+proficiency with linux/unix operating systems
+ability to articulate technical issues in a concise manner
+bs in computer science or equivalent experience
+experience with highly scalable web applications
+
+
+passionate about customer outcomes
+     
+preferred
+
+
+
+experience with mysql, redis, elasticsearch
+experience with cloud services
+experience with scripting languages: bash or python
+experience with deploying and maintaining services
+
+
+experience with open source projects
+
+ 
+why you should join our team 
+lithium offers a great working environment and competitive compensation and benefits package. we're looking for fast-thinking, innovative, passionate team players who enjoy brainstorming new ideas, work with the best and brightest in the social media software industry. build software. reach 500 million users. change lives. that’s what we’re doing at lithium. and you can do it, too. if you want to put your stamp on the digital customer space and enjoy yourself along the way, come join the team.
+skills & requirements
+
+qualifications
+
+
+
+
+
+
+ 
+ 
+
+
+powered by hirebridge
+
+
+
+
+
+
+
+
+
+
+

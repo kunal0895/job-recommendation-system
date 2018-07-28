@@ -1,0 +1,464 @@
+
+
+
+
+
+research programmer at mathematica policy research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+about mathematica
+career opportunities
+news
+events & conferences
+contact us
+
+
+
+
+
+tools & capabilities
+
+
+tools
+
+
+behavioral science
+
+
+communications
+
+
+data quality certification
+
+
+evaluation design and implementation
+
+
+performance management
+
+
+policy research
+
+
+rapid-cycle evaluation
+
+
+strategic philanthropy
+
+
+survey design and data collection
+
+
+systematic research reviews
+
+
+technical assistance in evaluation and program implementation
+
+
+
+
+people
+
+
+board of directors
+
+
+senior management
+
+
+senior fellows
+
+
+senior staff
+
+
+search our staff
+
+
+
+
+focus areas
+
+
+data analytics
+
+
+disability
+
+
+early childhood
+
+
+education
+
+
+employment
+
+
+enviroment
+
+
+family support
+
+
+health
+
+
+international
+
+
+justice
+
+
+nutrition
+
+
+
+
+
+resources
+
+
+publications
+
+
+selected projects
+
+
+blog posts
+
+
+case studies
+
+
+multimedia
+
+
+data visualizations
+
+
+centers
+
+
+center for improving research evidence
+
+
+center for studying disability policy
+
+
+center on health care effectiveness
+
+
+center for international policy research and evaluation
+
+
+educator impact lab
+
+
+
+
+
+
+
+
+
+
+
+mathematica careers
+at mathematica, we take pride in our employees and in their commitment to excellence. we encourage staff to collaborate in developing creative solutions to difficult problems and to share the responsibility and enjoyment of carrying out complex research. 
+read more
+
+
+
+
+search jobs and apply
+
+search jobs and apply
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+job description
+apply now
+research programmer
+job id 682-3
+position descriptionmathematica policy research is a pioneering nonpartisan research organization dedicated to improving public well-being.our diverse and dedicated staffconduct policy research, data collection, and data analytics that meet the highest standards of quality and objectivity, working with decision makers across the public and private sectors. drawing on more than 40 years of experience in disability, early childhood, education, family support, health, labor, and nutrition issues, our multidisciplinary staff develop innovative approaches to helping our clients and supporting effective, data-driven decision making.we currently have openings for research programmers in the human services business unit. as a research programmer, you will be part of our research team in either our princeton, nj, cambridge, ma, chicago, il, oakland, ca, or washington, dc office locations. we offer employees a stimulating, team-oriented work environment, competitive salaries, and a comprehensive benefits package, as well as the advantages of employee ownership. we provide generous paid time off and in some locations an on-site fitness center.we are seeking research programmers to perform tasks in the following areas:programming:write programs in sas, stata, or r to extract, clean, and format data and to create variables for use in analysesconstruct datasets and prepare data files from survey instrumentsproduce descriptive statisticsperform statistical analyses of dataprepare tables and graphs based on data analysesinterpret data outputs and articulate findings to researchersresearch:assist with writing reports and memosconduct site visits and/or interviews with organizations and study participantsassist with any other project activities as neededproject management:track financial progress of projects using excelprepare monthly assessment reportsassist with budgeting and contract proposalsposition requirementsstrong educational background and a ba/bs in relevant field (economics, public policy, sociology, statistics, mathematics, or political science)0 - 1 year of programming experience in an internship or academic environment using sas, stata, r, python or a similar language. gis experience is a plus.please submit a cover letter, resume, transcripts (unofficial are sufficient), and salary requirements. if possible, please submit a short programming code sample (sas, stata, r, or python). you will be asked to attach these materials during the online application process.available locations: princeton, nj; washington, dc; cambridge, ma; chicago, il; oakland, cawe are an equal opportunity employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+apply now
+
+
+
+
+jobs by category
+
+
+accounting jobs 1
+
+
+administrative services jobs 2
+
+
+business development jobs 7
+
+
+communications jobs 3
+
+
+computer infrastructure jobs 3
+
+
+computer programming jobs 44
+
+
+computer support jobs 3
+
+
+data analytics jobs 14
+
+
+data collection jobs 5
+
+
+health research jobs 63
+
+
+human resources jobs 1
+
+
+international/development research jobs 7
+
+
+project management jobs 17
+
+
+public policy jobs 201
+
+
+research jobs 36
+
+
+survey jobs 2
+
+
+
+
+jobs by location
+
+
+ann arbor jobs 22
+
+
+cambridge jobs 26
+
+
+chicago jobs 27
+
+
+oakland jobs 24
+
+
+princeton jobs 38
+
+
+seattle jobs 6
+
+
+washington dc jobs
+
+
+woodlawn jobs 17
+
+
+
+log in  and search jobs 
+that match your profile
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+about this location
+check out where you could be working before you apply.
+view map
+
+
+
+learn aboutprogramming at mathematica
+
+
+
+
+
+
+aboutcomputer programming
+at mathematica, we rely on computer programmers to design, develop, and build technical solutions to efficiently meet the ever-changing needs of our data-driven organization. we are continually seeking qualified computer programming talent for many of our locations. we offer competitive compensation, generous benefits, and on-site office amenities. our stimulating, team-oriented work environment is unique because mathematica is employee-owned. click on the opportunities below to learn more about specific job qualifications.  
+
+
+
+sign up for job alerts
+
+first namelast nameemail addressselect interestssign up for alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least one alert in the list below in order to subscribe.categorylocationaddcomputer programming, cambridge, massachusetts, united statesremovepublic policy, cambridge, massachusetts, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+mathematica policy research
+
+p.o. box 2393
+        princeton, nj 08543-2393
+p: 609.799.3535
+        f: 609.799.0005
+info@mathematica-mpr.com
+
+
+
+
+
+
+mathematica
+
+capabilities
+people
+publications & projects
+centers
+
+
+
+resources
+
+about mathematica
+career opportunities
+news
+events & conferences
+contact us
+
+
+
+
+
+
+connect with us
+
+twitter
+facebook
+instagram
+linkedin
+rss
+
+view all locations
+
+
+
+
+
+
+privacy policy
+site map
+
+© 2017 mathematica policy research
+
+
+
+
+if you are unable to complete an application online due to a disability, you can request an accommodation by contacting the human resources department at 609-799-3535 or humanresources@mathematica-mpr.com.
+mathematica is an equal opportunity/affirmative action employer. we consider applicants for all positions without regard to race; color; religion; sex; national origin; age; sexual orientation; gender identity or expression; marital; family; or veteran status; the presence of a non-job-related medical condition or disability; or any other legally protected status. in keeping with our commitment, we strongly encourage women, minorities, veterans, and people with disabilities to apply. if you’d like more information about your eeo rights as an applicant under the law, please click here.
+
+please see mathematica's pay transparency statement.
+
++
+pay transparency statement
+mathematica will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with mathematica’s legal duty to furnish information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

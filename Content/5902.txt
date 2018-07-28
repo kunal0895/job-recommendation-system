@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+senior software developer – analytics team - mailgun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company website
+          
+
+
+
+
+
+
+
+senior software developer – analytics team
+
+
+
+              engineering
+            
+
+
+              san antonio, united states
+            
+
+
+
+
+
+
+
+
+
+job openings
+
+
+senior software developer – analytics team
+
+
+
+
+
+
+
+
+
+
+
+senior software developer – analytics team
+
+job description
+
+
+mailgun is hiring a senior software developer to join our analytics team.  the team's mission is to empower customers to gather actionable insights so every message they send can perform better than the last.  as part of this team, you will be responsible for writing and maintaining software that collects and analyzes metrics from the sending pipeline and customer activity. you must be able to present the collected analytics in a way that's useful for end users, our dashboard, and our data visualization team.  
+
+mailgun is a high-growth, developer-focused email sending platform designed to attach to customers' applications to provide high-volume email automation. it was a y-combinator company acquired by rackspace in august 2012. in february 2017, mailgun spun back out as its own business focused on profitable growth. the platform serves customers like slack, github, and uservoice, all of which rely on mailgun to deliver services for their core business needs.
+
+we have a distributed engineering team and will consider qualified candidates anywhere in the world.  we maintain engineering offices in san francisco, austin, san antonio, and nizhny novgorod (russia).
+our team
+
+we believe in contributing back to the community. many of the tools and libraries we’ve developed are open source (https://github.com/mailgun)
+we move fast and don’t believe in having unnecessary silos and red tape that keep teams from shipping software. as a developer on the team, you are responsible for not only building great software, but ensuring it is operating properly once it’s been deployed.
+we have a passion for solving hard problems – our services are responsible for processing billions of messages each month and have to not only scale, but be highly reliable.
+
+
+responsibilities
+
+develop new features to improve the capabilities of the mailgun offering.
+refactor existing python services leveraging go and a microservice architecture.
+maintain and scale existing infrastructure.
+participation in the on-call rotation.
+
+
+
+requirements
+
+
+
+bs in computer science or related area.
+4+ years of a relevant work experience.
+experience with statistical programming, analytics or related.
+experience with distributed systems.
+experience building restful web services.
+experience working with python and/or go.
+solid knowledge of relevant databases, reporting and statistical packages, and programming languages.
+experience working with mongodb and/or cassandra preferred.
+outstanding analytical skills, especially synthesizing, dissecting, and interpreting big data.
+experience working with machine learning in support of data analytics is a plus.
+strong analytical abilities, statistical analysis and big data is a plus
+
+
+
+apply for this job
+
+
+
+
+apply for this job
+
+apply with linkedin
+
+
+  apply with indeed
+
+
+
+
+
+share this job opening
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+
+
+
+
+google+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hiring with
+
+
+
+
+

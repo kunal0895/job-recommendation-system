@@ -1,0 +1,189 @@
+ 
+
+
+
+
+
+
+
+
+
+software engineer - platform #0016 job at revolutionparts in phoenix, az, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - platform
+engineering | phoenix, az | full time
+
+
+
+
+
+
+job description
+
+
+revolutionparts is looking for a talented engineer to help evolve our technology to support our next phase of growth. you'll be joining a team of professionals that are dedicated to providing cutting edge e-commerce solutions to the auto parts industry.  
+if you want a clear-cut role with the same tasks for years, this is not for you. if you like to think big and work on a variety of projects, we need you! here's a sample of project descriptions:
+- we have 50 million parts in a db. create a technology stack that can support real-time dynamic search of these parts (google style) -- think "2010 accord water pump".
+keywords: elasticsearch, node.js, parallel processing
+- we have a history of 700,000+ orders. create a recommendation engine that will suggest other parts along with what a buyer already has in their cart. oh -- and the recommended part has to fit the same car. return the result in 100 ms or less.
+keywords: we're not sure, research technologies that might help accomplish this.
+- create a clean public rest api for parts dealers to import orders that they get from sources other than our stores.
+keywords: authentication, json, good api design.
+- create an internal shopping cart service that can manage millions of carts a month.
+keywords: memcached/redis, nosql, scaling, availability
+- we need to spin up 50 servers on aws to crunch some numbers every month. let's automate that.
+requirements: 
+- bachelor and/or masters in computer science or computer engineering
+- you have some experience - but most of all you are hungry for new challenges
+- a solid understanding of oo design and all computer science fundamentals
+- must like the dynamic and fast-paced nature of a smaller team working in a company doubling in size each year
+- gsd - get stuff done
+skills: 
+- design of apis (internal or external)
+- design of high-availability-self-healing systems
+- design of scalable systems
+- understanding of databases, relational or not. sql.
+- architecture decision making - real-time, batch, queue-based processing?
+- scripting languages (we do a lot of coding in php)
+benefits: 
+- top salary, stock options, and relocation assistance
+- retirement plan
+- medical and dental insurance
+- flexible hours
+- casual dress code
+- free lunch friday
+- fully stocked fridge and snacks
+- team happy hours
+
+
+
+
+
+return to revolutionparts
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to revolutionparts
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

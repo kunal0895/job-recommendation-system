@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+full stack software engineer (microservices) - spark platform
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+cisco
+cisco jobs
+
+
+menu
+
+
+
+
+english
+|
+français
+sign in
+
+
+
+
+
+
+search jobs
+careers home
+students and new grads
+events
+stay in touch
+
+
+
+
+ 
+
+
+
+
+
+
+
+< back to search results
+
+
+
+
+
+
+
+full stack software engineer (microservices) - spark platform
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+location:
+san jose, california, us
+
+
+additional location(s)
+san francisco, open to other us locations
+
+
+area of interest
+engineer - software
+
+
+job type
+professional
+
+
+technology interest
+cloud and data center, collaboration, video
+
+
+job id
+1217804
+
+
+new
+
+
+
+
+
+full stack software engineer, collaboration technology growth team   what you'll do  cisco’s newly-formed growth team is on a mission to find new users and delight customers for our flagship messaging and video-conferencing product, spark. we are laser-focused on improving spark’s user experience - from initial awareness and onboarding, to day-to-day usage and support. we conduct experiments and use insights from data to drive our new product feature decisions.   on the growth team, you will work alongside a group of designers, user researchers, data scientists, product managers, and other growth engineers to design & develop experiments (or hidden features) that will be seen or experienced by millions of people in a fast, collaborative process.   as a full-stack growth engineer, you will design, build, test, and release changes both front-end ui and backend services to the spark product and our marketing tools. in this highly versatile role, your day-to-day work will directly impact large areas of the product and challenge your technical expertise as you develop across our front-end windows client, back-end micro-services, and the tools we use to communicate with and understand our users.   who you'll work with  we are a creative, diverse, and data-driven team, focused on continuous learning about our customers’ behaviors. we care deeply about the customer experience, and cherish the insights we uncover through our experimentation and analytics. we constantly partner with product, marketing, and support teams to run a/b tests, share knowledge, and use data to inform and influence roadmaps and business decisions.   our tools empower us to move fast and dive deep - building and deploying tests to anticipate and rapidly respond to our customer’s needs. we measure in days, not weeks, and monitor our experiments’ results in real-time. we operate on evidence, evolving as we learn from our experiments.   who you are  you are biased towards action, pragmatism, and results - tangible outcomes that you can measure you think "outside the box" when developing a product or enterprise application you may have used a data driven approach or market intelligence to develop a productyou are at your best when tackling new territory, because learning and recognizing patterns in unfamiliar technologies excites you you enjoy the satisfaction of completing a project, more than the thrill of initiating one you are passionately curious about understanding how systems work you understand that rapid product iteration through experimentation is the best way to determine what users want in software   minimum qualifications   bs degree in cs, or similar technical field of study or equivalent practical experience  a minimum of 6-7 years of distributed software development experience  with a strong focus on full stack developmentstrong development background in core java with the ability to code in multiple languages such, c++, python and/or objective cexperience with building consumer-facing saas or microservices strong expertise with developing restful apis with secured endpoints  strong front-end development experience with javascript frameworksfamiliarity with the react web stack (react, flux, redux, and jest) is a plus  preferred qualifications:  experience with sql and a relational database, such as postgres, mysql, sqlite, etc.experience with a no-sql database, such as cassandra, mongo, influx, etc.  experience in modern c++experience with metrics gathering tools such as optimizely and segment why cisco  we connect everything: people, processes, data, and things. we innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. and we do it in style with unique personalities who aren’t afraid to change the way the world works, lives, plays and learns.   we are thought leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. we celebrate the creativity and diversity that fuels our innovation. we are dreamers and we are doers.   we are cisco.*li-tc1
+
+
+
+
+share
+
+
+
+
+share full stack software engineer (microservices) - spark platform with facebook
+share full stack software engineer (microservices) - spark platform with linkedin
+share full stack software engineer (microservices) - spark platform with twitter
+share full stack software engineer (microservices) - spark platform with google+
+share full stack software engineer (microservices) - spark platform with a friend via e-mail
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+share
+
+
+
+
+share full stack software engineer (microservices) - spark platform with facebook
+share full stack software engineer (microservices) - spark platform with linkedin
+share full stack software engineer (microservices) - spark platform with twitter
+share full stack software engineer (microservices) - spark platform with google+
+share full stack software engineer (microservices) - spark platform with a friend via e-mail
+
+
+
+
+
+
+job notifications
+sign up to receive notifications of similar jobs
+
+
+
+notify me
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility for applicants with disabilities
+e-verify participation poster
+right to work poster
+agency portal
+
+cisco is an affirmative action and equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+                cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+
+
+
+
+jobs help
+|
+terms & conditions
+|
+privacy statement
+|
+cookie policy
+|
+trademarks
+
+
+follow we are cisco
+linkedin
+twitter
+facebook
+snapchat
+instagram
+glassdoor
+
+
+
+
+
+
+

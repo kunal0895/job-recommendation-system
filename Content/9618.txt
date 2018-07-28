@@ -1,0 +1,150 @@
+
+
+
+
+
+career opportunities
+
+
+
+
+
+
+
+
+business/data analyst
+
+
+location:
+charlotte
+
+
+onsite required:
+
+
+
+travel required:
+tbd
+
+
+job code:
+1558
+
+
+# of openings:
+1
+
+
+
+description
+ntt data services
+ntt data services, currently seeks an business analyst to join our team in charlotte, nc.
+overview:
+at ntt data services, we know that with the right people on board, anything is possible. the quality, integrity, and commitment of our employees have been key factors in our company’s growth and market presence.   by hiring the best people and helping them grow both professionally and personally, we ensure a bright future for ntt data and for the people who work here. our consulting practice helps solve problems and drive change by providing the expertise and specialized counsel to clients with industry-centric solutions.  
+our consulting opportunities within financial services and insurance will challenge you to use your knowledge, skills, and experience to help clients lead transformative business initiatives.
+the data analyst is responsible for (1) performing as one of the traded products and market risk data subject matter expert (sme) who will be hands-on with the data, understanding the overall flow and usage of information from the upstream sources and consolidation points through the capital calculation engine and reporting, including understanding of the regulations, policy interpretation, product mix, derivations, risk drivers, calculation logic, and downstream capital processes, (2) driving operational excellence by ensuring critical process controls and data validation activities are performed as data are consumed by the capital calculators during the monthly production cycle, ensuring that dq scripts and measurement processes remain timely and relevant, and ensuring ad hoc requests and data incidents are researched, documented, and resolved, (3) analyzing data issues within established sla timelines and recommending defect or enhancement classification to the monthly research prioritization governance meeting and collaborating with upstream business and technology partners, prioritizing needs, and influencing actions to resolve identified data defects and delivering enhancements in a timely fashion, (4) acting as representative for the traded products and market risk work steams on all project initiatives developing requirements, testing strategies, identifying potential risks, impacts and ultimately defining the key success factors.
+basic qualifications:
+
+3-5 years’ experience in data analysis
+ 1 year of experience with retail product knowledge ie. credit card/loans etc.
+
+skills required/desired: 
+
+bachelor degree in quantitative finance, financial engineering, computer science, economics, or business administration
+working knowledge of sas, python, tableau, and unix
+must have a thorough understanding of basel iii. 
+proficiency with agile project management deliverables
+
+responsibilities:
+
+responsible for more complex finance activities around capital calculation, reporting and/or analysis to support the bank's capital initiatives.
+support achievement of business goals by working on more complex activities or projects within the unit and with partners.
+understand and explain traded products or market risk products and associate data to capital regulations, calculations, and reports.ability to access data from teradata, netezza, sql server, or hadoop and independent research problems, analyze data, determine root causes, and propose solutions.
+use sql in profiilng large datasets for analysis or testing efforts, with multiple/multi-type table joins, multiple keys, and nested queries.
+use advanced excel functions such as pivot tables and macros.
+develop test plans, cases, and scripts, executing tests, and managing defect and status reporting.
+reconcile work stream data to the general ledger and other definitive sources.
+develop project management deliverables and effectively coordinate project delivery between business and technology teams.
+provide clear oral and written communications to a variety of business and technical audiences including senior management and junior associates.
+strong business/data analyst. must have the ability to communicate and analyze multi-dimensional data (including aggregations and transformations), draw conclusions, and evaluate business gaps & requirements.
+experience at creating project documentation such as brds and functional specifications
+knowledge of financial/accounting concepts and acumen
+understanding agile scrum methodology
+self-starter with ability to manage multiple tasks/responsibilities simultaneously
+strong organization, communication and presentation skills
+ability to build relationships and collaborate to achieve results
+advanced experience with microsoft tools: excel, word, visio, powerpoint, etc.
+sap/eledger, oracle, or similar financial reporting system
+
+ 
+ 
+about ntt data services
+ntt data services partners with clients to navigate and simplify the modern complexities of business and technology, delivering the insights, solutions and outcomes that matter most. we deliver tangible business results by combining deep industry expertise with applied innovations in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services.
+ntt data services, headquartered in plano, texas, is a division of ntt data corporation, a top 10 global business and it services provider with 100,000+ professionals in more than 50 countries, and ntt group, a partner to 85 percent of the fortune 100. visit nttdataservices.com to learn more.
+the company is an equal opportunity employer and makes employment decisions on the basis of merit and business needs.  the company will consider all qualified applicants for employment without regard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law.  to comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the company would result.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+

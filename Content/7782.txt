@@ -1,0 +1,149 @@
+
+
+	job details | csu careers
+
+
+
+
+
+
+
+
+
+
+
+
+students
+faculty & staff
+teaching & learning
+administration
+alumni, parents & donors
+business, community & gov't
+public affairs
+
+
+   
+home  |  search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+advanced job search
+
+benefits
+csu campuses
+
+
+frequently asked questions
+job resources
+campus human resources
+about the csu
+systemwide
+							human resources
+my careers
+csu careers
+							home
+
+							admin login
+
+
+back to top
+
+
+
+
+
+
+
+
+
+
+csu job listing details
+
+printable version
+e-mail this listing
+
+
+campus:
+east bay
+
+job id:
+         5174
+
+job title:
+        data analyst - analyst/programmer - career
+
+appointment type:
+        probationary
+
+time base:
+full-time
+
+
+date posted:
+        september 15, 2017
+
+
+closing date:
+        open until filled
+
+link to apply online:
+http://www.csueastbay.edu/jobs
+
+campus employment homepage:
+http://www.csueastbay.edu/jobs
+
+description:
+        salary and benefits:salary range: $4,372.00/month to $9,877.00/month. please note: the starting salary will be between $4,372.00/month to $7,500.00/month.csueb offers a broad range of benefits that includes medical, dental, vision, retirement (calpers), 401k, 457, 403(b), dependent and health care reimbursement accounts, life insurance, vacation and sick, 13 paid holidays, one personal holiday and tuition fee waiver.for more information on the benefits program, please visit http://www.csueastbay.edu/af/departments/hr/benefits/index.htmlabout csu east bay:california state university, east bay's beautiful main campus is located in the hayward hills with panoramic views of the san francisco bay shoreline. situated above the city of hayward, the campus offers an ideal setting for teaching and learning and yet easy access to the many cities along the bay. the university has a satellite campus in concord, a professional development center in oakland and a significant presence online. founded in 1957, california state university, east bay is one of 23 universities of the california state university system (csu). with an enrollment over 15,800 students, california state university, east bay is recognized as a regionally engaged and globally oriented university with a strong commitment to academic innovation, student success, engaged and service learning, diversity, and sustainability.about the position:this position is a technical and functional resource responsible for managing the data integration between systems solutions and administering the customer relationship management (crm) system to support the university's student initiatives. under the direction of the director of data management and services, the incumbent will also be responsible for analyzing and understanding the campus data, maintaining the integrity of the data, designing, developing and implementing data system enhancements.responsibilities:*    understand the data structure of current crm, campus data sources and systems.*    perform all aspects of the system administrator function of the crm application.*    collaborate closely with solution vendors and consultants to deliver new functionality to the crm platform and other systems as needed.*    design, develop and implement infrastructure changes that integrate key data from campus applications into the overall architecture using best data practices.*    work in a cross functional environment with various campus groups and end users to identify, document, and communicate data solutions to support student marketing campaigns initiatives.*    analyze data sets to develop and implement modifications to systems to integrate and maintain high-quality data to meet campus needs.*    deliver reports, dashboards and other bi and reporting products.*    implement data management strategies which include validation of source data and the use of data in analytics and reporting.*    identify opportunities for standardizing data descriptions, integration and archiving, and elimination of unnecessary data redundancy.*    recommend to the director best approaches to bring additional data to support analytics and campus initiatives requirements. *    recommend to the director the best approaches to strengthen data integrity, quality and availability.*    work with internal and/or vendor representatives for the purpose of error resolution, including but not limited to the following: software, hardware, network, web application and security.*    write functional requirements into technical specifications and estimate work efforts.*    implement and test software changes and upgrades as needed.*    keep current on new technologies and solutions in data management area.other duties as assigned*    work collaboratively with other staff and departments. *    take on additional duties assigned by director.requirements:*    experience creating reports and dashboards using analytical tools (i.e. powerbi, tableau, etc.).*    experience with sql server bi tools and data warehousing concepts.*    strong data analytical skills and knowledge of data modeling.*    ability to work with end users to define functional requirements and to translate those requirements into technical specifications.*    ability to verbally communicate effectively.  must also have strong technical writing and documentation skills.*    ability to evaluate complex problems and provide straightforward recommendations and/or solutions, and successfully implement those solutions.minimum qualifications:*    bachelor's degree in information systems, information technology, computer science and/or engineering or related field.*    experience in coding object oriented programming (java, python, c, c++, etc).*    experience in system administration and data integration with a crm system (salesforce, microsoft, sap, etc).preferred skills and knowledge:*    5+ years' experience in object oriented programming (ie. c/c++, java, python, etc) and web development.*    3 + years' experience in system administration and data integration with a crm system (ie. salesforce, sap, microsoft, etc.).*    experience with salesforce.*    experience with marketing campaigns.*    experience with peoplesoft or other enterprise data system.*    experience in working for higher education.*    knowledge of itil and/or agile project management methodologies.how to apply:in addition to the standard csueb application, please submit a:1.	cover letter 2.	resume 3.	list of three (3) or more professional references  resumes alone will not be accepted in lieu of a completed online application.to apply on-line, please go to www.csueastbay.edu/jobs. if you are a first time user, you must register, create a user id and password, fill in your basic information, save and click on the position you are interested in, click on the "apply now" button to begin the online application.this position will remain open until filled and may close without further notice.applicants will receive a confirmation of receipt via automatic email reply regarding their application materials. in addition, all applicants who were not selected will receive email notification at the conclusion of the recruitment process. please be patient as this process may take several weeks.condition(s) of employment:california state university, east bay conducts pre-employment screening that may include, but is not limited to: criminal background check, verification of academic credentials, licenses, certificates, credit history, professional references and/or verification of work history.  candidates must submit to a background check before being offered a position with csueb.  unsatisfactory results of the background check may affect the application status of applicants or continued employment of current csueb employees who apply for the position.other information:all california state university campuses, including csueb, are smoke and tobacco-free.  for more information, please visit our website at http://www.csueastbay.edu/smokeandtobaccofree/in compliance with state and federal crime awareness and campus security legislation, including the jeanne clery disclosure of campus security policy and crime statistics act, the california state university east bay annual campus security report is available at: http://www20.csueastbay.edu/af/departments/upd/campus-security-report.htmlmandated reporter:all california state university, east bay employees are considered mandated reporters under the california child abuse and neglect reporting act and are required to comply with requirements set forth in the csu executive order 1083 as a condition of employment.sponsorship: csueb is not a sponsoring agency for staff or management positions.eeo statement:as an equal opportunity employer, csueb does not discriminate on the basis of any protected categories: age, ancestry, citizenship, color, disability, gender, immigration status, marital status, national origin, race, religion, sexual orientation, or veteran's status. the university is committed to the principles of diversity in employment and to creating a stimulating learning environment for its diverse student body.
+
+
+
+
+
+
+
+
+
+				 
+
+
+
+
+
+ 
+
+technical contact 
+
+webmaster@calstate.edu
+
+
+						 
+
+
+
+
+
+
+
+

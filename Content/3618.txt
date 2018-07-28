@@ -1,0 +1,14 @@
+
+quantitative researcher in machine learning
+location: new york, new york, united states
+share with: facebook
+linkedin
+twitter
+send to a friend
+
+
+two sigma combines massive amounts of data, world-class computing power, and statistical expertise to develop sophisticated trading models.  we believe that the scientific method is the best way to approach investing.    we are looking for talented researchers who can apply and develop machine learning algorithms for financial datasets.  researchers work on:  developing trading strategies using statistical and machine learning algorithms.advancing existing initiatives and opening opportunities to pursue new research topics.designing solutions for challenges in analyzing real world, large datasets. minimum qualifications:  phd in quantitative disciplines.expertise in statistics and machine learning.intermediate programming skills in java, c++, or python.financial experience is not a requirement.   preferred qualifications:  strong publication record.experience working on practical applications using real-world datasets.
+
+apply now
+
+

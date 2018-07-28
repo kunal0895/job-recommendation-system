@@ -1,0 +1,145 @@
+
+
+
+
+equifax - job - software engineer, prod dev - intermediate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+software engineer, prod dev - intermediate
+
+
+				apply
+			
+
+
+
+job number:
+								12298
+						
+
+position title:
+
+
+external description:
+responsibilities:    develop strategic design and requirements on small systems or modules of large systems (large scale).     guide and mentor junior developers in developing code and workflow procedures, and conduct code reviews.     perform general application development activities, including unit testing, code deployment to development environment and technical documentation.    works independently to support software through the entire software development life cycle.    works on one or more projects, making contributions to unfamiliar code written by team members.    diagnose and resolve performance issues.             participates in estimation process, use case specifications, reviews of test plans and test cases, requirements, and project planning.    documents code/processes so that any other developer is able to dive in with minimal effort.             introduces tools and automates repetitive processesposition requirements: bachelor's degree in business, software engineering or computer science and 3-5 years of technical experience in software design and product support  required experience working within development teams working in an agile methodology (preferably scrum) from initial requirements through delivery and maintenance. good analytical and design skills at multiple product level, good skills in research and analysis, project planning and implementation  experience with developing for the windows environment  experience with object oriented programming  experience working with and leading offshore teams required experience working within secured network environments ability to participate and contribute to multi-disciplinary scrum meetingspreferred qualifications experience in data ingestion, data transformation, analytics and big data preferredtechnical requirements: advanced use of sql and stored procedures  3+ years of experience working with c# experience of enterprise .net technologies, frameworks, libraries and tools (visual studio, c#, asp.net v4, ms sql server, entity framework) web api experience preferred experience with front end technologies such as html, css and javascript preferred experience with front end frameworks such as angularjs and jquery required experience with node.js is preferred experience with continuous deployment/continuous integration as well as data ingestion experience with test driven development and testing frameworks for automated quality assurance testing experience in linux preferredposition requirements: bachelor's degree in business, software engineering or computer science and 1-3 years of technical experience in software design and product support  required experience working within development teams working in an agile methodology (preferably scrum) from initial requirements through delivery and maintenance. good analytical and design skills at multiple product level, good skills in research and analysis, project planning and implementation  experience with developing for the windows environment  experience with object oriented programming  experience working with and leading offshore teams required experience working within secured network environments ability to participate and contribute to multi-disciplinary scrum meetingspreferred qualifications experience in data ingestion, data transformation, analytics and big data preferredtechnical requirements: advanced use of sql and stored procedures  2+ years of experience working with c# experience of enterprise .net technologies, frameworks, libraries and tools (visual studio, c#, asp.net v4, ms sql server, entity framework) experience with continuous deployment/continuous integration as well as data ingestion experience with test driven development and testing frameworks for automated quality assurance testingprimary location:usa-st. louis-lacklandfunction:function - it product engineeringschedule:full time
+
+city:
+								st. louis
+						
+
+location_formattedlocationlong:
+								st. louis, missouri  us
+						
+
+state:
+								missouri
+						
+
+community / marketing title:
+								software engineer, prod dev - intermediate
+						
+
+company profile:
+
+
+requisition number:
+								j00051711
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+ui developer
+
+atlanta, ga
+
+sr. devops engineer
+
+alpharetta, ga
+
+sr. technical development manager
+
+alpharetta, ga
+
+technical writer
+
+st. louis, mo
+
+solutions architect
+
+alpharetta, ga
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+applied research scientist, computer vision - spreemo health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company website
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+applied research scientist, computer vision
+
+
+
+              data science
+            
+
+
+              new york, united states
+            
+
+
+
+
+
+
+
+
+
+job openings
+
+
+applied research scientist, computer vision
+
+
+
+
+
+
+
+
+
+
+
+applied research scientist, computer vision
+
+job description
+
+
+at spreemo health we believe that advanced data science can prevent serious misdiagnoses and poor outcomes. using our proprietary framework, spreemo health has helped more than one hundred thousand injured employees at fortune 500 companies recover better, faster, and more affordably. join the brightest minds in medicine, technology, and venture investing in our fight to democratize access to high-quality, cost-efficient care.
+ 
+about the role
+as an applied research scientist in computer vision at spreemo health, you will work with a growing multidisciplinary team of talented data scientists, statisticians, and researchers to leverage unique healthcare data (in the form of mri images, clinical reports, claims data, and beyond) in creating deep learning models that can automate image analysis, diagnosis, and even identify diagnostic errors in clinical reports. you will have the opportunity to work with unique healthcare datasets that cover all phases of care delivery (referral, diagnosis, therapy, and outcome/follow-up) from the perspective of all key stakeholders (patients, providers, payers).
+ 
+your responsibilities will also include helping to further create, extend, and validate the predictive models that we use at spreemo to power our analytics. you will be helping to ensure that our models are accurate and parsimonious. you will also help to characterize, interpret, and share the results we achieve in our healthcare research studies. your responsibilities will also include helping to shape spreemo health’s data analytics strategy by identifying new opportunities and helping to lead and mentor junior members of the analytics team.
+ 
+our research scientists are full-time employees, with an industry competitive salary, stock options, and great benefits. benefits include: medical, dental, and vision insurance (premiums fully covered for employees), fsa, pre-tax commuter benefits, and flexible paid time off.
+
+
+requirements
+
+
+
+masters or phd in computer science, a related technical field, or equivalent practical experience
+3+ of years of professional working experience in machine learning and software development
+strong machine learning background and familiarity with state-of-the-art techniques including deep learning, computer vision, and natural language processing
+applied programming experience in python, c, and/or c++
+experience with tensor flow, keras, cuda, and/or theano
+contribution to research communities and/or efforts, including publishing papers at conferences such as nips, icml, acl, cvpr, etc.
+preferred - experience working with healthcare data
+experience working in cross-functional environments
+
+
+
+apply for this job
+
+
+
+
+apply for this job
+
+apply with linkedin
+
+
+  apply with indeed
+
+
+
+
+
+share this job opening
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+
+
+
+
+google+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hiring with
+
+
+
+
+

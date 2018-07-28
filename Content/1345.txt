@@ -1,0 +1,707 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+	software engineer | st. louis, missouri | tyler technologies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+register
+
+
+
+login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    facebook
+
+                    twitter
+
+                    linkedin
+
+
+
+home
+solutions & products 
+solutions
+appraisal & tax
+courts & justice
+erp | financial
+planning, regulatory & maintenance
+public safety
+records & documents
+school
+
+
+products
+aes
+brazos
+clt appraisal services
+document pro
+eagle
+eden
+energov
+executime
+fundbalance
+iasworld
+incode
+incode public safety
+infinite visions
+microsoft dynamics ax
+modria
+munis
+new world erp
+new world public safety
+odyssey
+orion
+softcode
+tax-wise
+traversa
+tyler cafr statement builder
+tyler citizen transparency
+tyler content manager
+tyler drive
+tyler incident management
+tyler meeting manager
+tyler parks & rec
+tyler pulse
+tyler sis
+tyler special ed
+tyler verify
+versatrans
+
+
+functions
+appraisal services
+cafr statements • schedules • gasb reporting
+cad • mobile cad • dispatch
+cama • appraisal • assessment
+citizen services • revenues
+civil processing
+content management • imaging
+county & state court case management
+court document e-filing • electronic filing
+data verification • street-level imaging
+data warehouse • analytics
+electronic citations • mobile ecitations
+financials • budgeting • fund accounting
+hr • payroll • personnel
+jail management • corrections
+land records • vital & official records
+law enforcement records management
+maintenance • assets • inventory
+meetings • agenda automation • minutes
+municipal court case management
+online dispute resolution • odr
+open government • government transparency
+parks & recreation • community programs
+permits • licensing • code enforcement
+property tax • billing • collections
+prosecuting attorneys • public defenders
+public safety • police • sheriff
+routing • planning • transportation
+school financials & hr
+special education management • iep development
+student information systems
+time & attendance • workforce management
+utility billing • online utility payment
+
+
+transformative technology
+cloud computing
+mobile computing
+connected communities
+tyler alliance
+tyler nexus
+
+
+
+
+
+
+the tyler experience 
+client services
+client successes
+events
+evergreen perpetual licensing
+tyler community
+tyler excellence awards
+tyler university
+tyler usability
+watch tyler videos
+
+
+about us 
+why tyler
+our leadership
+speaking from experience
+corporate history
+compliance
+technology partners
+media kit
+awards and accolades
+office locations
+press releases
+announcements
+
+
+client support 
+select your product
+brazos
+document pro
+eagle
+eden
+edp financial
+edp student
+energov
+fundbalance
+iasworld
+incode
+incode 10
+incode public safety
+infinite visions
+microsoft dynamics® ax
+munis
+new world erp
+
+
+select
+new world public safety
+odyssey
+orion
+softcode
+profund
+sisfin
+siswin
+schoolmaster
+tyler pension
+tax-wise
+traversa
+tyler pulse
+tyler sis v10
+tyler sis v9 (sisk12)
+versatrans
+
+
+
+
+careers 
+opportunities by location
+opportunities by function
+internship opportunities
+benefits
+employee spotlights
+join our career network
+
+
+contact us 
+contact sales
+contact support
+contact media relations
+
+
+investors
+
+
+
+
+
+
+
+
+
+
+                        software engineer - st. louis
+
+
+
+
+
+
+
+
+
+
+careers / opportunities by location / st. louis, missouri / software engineer - st. louis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers at tyler
+
+
+
+careers home
+regional openings
+software development |
+research openings
+opportunities by location
+opportunities by function
+internship opportunities
+benefits
+employee spotlights
+join our career network
+
+
+
+
+
+join the tyler development team!
+
+
+
+meet the tyler development team
+
+tyler product strategy
+
+tyler user experience
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+
+the software engineer is a member of a team that works on development projects. that team as a whole is responsible for reviewing, designing, implementing, and testing each project they work on. as a member of the team, the software engineer is responsible primarily for writing and testing code. consequences of error may carry a moderate risk to the organization.
+location
+st. louis, missouri
+responsibilities
+develop programs of moderate complexity adhering to established departmental standards.
+
+
+learn and implement new technologies and architectures within a reasonably quick timeframe while producing and testing high quality software.
+demonstrate proficient knowledge of software development practices, concepts, and technologies obtained through formal training and work experience.
+demonstrate proficient knowledge of sql server.
+demonstrate proficient knowledge of the technical/business environment.
+effectively partner, communicate, and negotiate with business analyst, development and support groups in order to gather and communicate business requirements.
+work on individual programs that are part of a much larger application.
+adapt to changing products and technologies.
+fix bugs in existing, often unfamiliar programs, under considerable time constraints.
+manage and prioritize often conflicting tasks and interruptions so as to minimize their impact on the current deadlines and workload.
+
+qualifications
+bachelor’s degree in computer science, computer engineering, or comparable work experience.
+
+
+typically two or more years of software development experience with sql server.
+demonstrated proficient knowledge of software development practices, computer science theory, and understanding of relevant technologies.
+relevant technologies:
+ 
+.net / c# (or similar high level language)
+sql server 2014 and above
+dhtml
+vb script
+xml/xsd/xslt
+visual basic 6 or
+relevant related technologies
+
+demonstrated ability to write and test code in reasonable timeframes.
+demonstrated basic understanding of product architecture and all underlying technologies.
+demonstrated basic understanding of development process.
+experience with data modeling tools, web services and/or service oriented architecture is beneficial. ability to work well both independently and within a team environment.
+good written and verbal communication skills.
+good interpersonal skills.
+ability to negotiate with various parties to ensure enhancements to applications are addresses while maintaining/balancing business situations and constrictions.
+well-developed logical thinking, reasoning and problem solving skills.
+well-developed time management skills.
+ability to prioritize and complete multiple tasks in a fast-paced, technical environment.
+keen attention to detail.
+
+apply online
+requisition number: 4517354
+ 
+ 
+lr
+inderp
+#diceerp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ an affirmative action / equal opportunity employer
+
+
+
+tyler is an affirmative action / equal opportunity employertyler technologies is proud to be an affirmative action / equal opportunity employer. all qualified applicants will receive consideration without regard to race, creed, gender/sex, marital status, sexual orientation, citizenship status, color, religion, national origin, age, disability, veteran status, or any other status protected under local, state or federal laws.
+
+
+
+
+
+
+
+
+
+tyler technologies careers
+
+
+
+at tyler technologies, we devote all of our time, energy and resources to help local governments and school districts become more efficient, accessible and responsive to the needs of their constituents. with more than 3,800+ employees (and consistent growth), tyler has a proven track record of supporting its people's careers and lives.
+
+
+
+
+
+
+
+
+
+more from tyler careers
+
+
+
+careers homecareers by locationcareers by job functioninternship opportunitiesupcoming career eventsworking at tylerstaff benefitscareer faqs
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+facebook
+twitter
+linkedin
+youtube
+instagram
+
+
+
+
+
+
+
+join tyler. make a difference. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2017 tyler technologies, inc. | all rights reserved
+
+                        |
+                        terms of use
+                        |
+                        privacy statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,581 @@
+
+
+
+        software engineer, frontend -        peaksware -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we started linjer two and a half years ago and we've come far with a small and scrappy team.we're ready for our next stage of growth. we're opening up an office in barcelona and have empty seats to fill. we're looking for like-minded people who dream big and who are excited by the opportunities that a young, fast-growing startup has to offer.here's your chance to get in on the ground floor.www.linjer.co 
+
+
+
+software engineer, frontend
+
+
+boulder, co                    
+
+full time                
+
+makemusic                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+come be a part of the team transforming music technology!
+makemusic has an opening for a frontend software engineer in our boulder, co office
+join our open and collaborative environment using lean agile software development processes and methodologies. work with our fantastic product and design teams to produce simple, elegant solutions that delight our customers. help architect and implement an intuitive user experience built on top of performant microservices. develop with and promote best practices and build in automation and operations, starting with ci/cd to production monitoring and usage. own the software the team develops end-to-end, from inception to the customer in production.
+makemusic is an industry leader in interactive music learning, notation software, and virtual instrument technology. our engineers share a passion for development, learning, self-improvement and technology. as a software engineer on a small self-directed cross functional team, you will keep up to date with the latest javascript and browser trends, mentor other developers on engineering best practices, provide front-end architectural structure and guidance, and continuously improve and ship our software.
+ 
+required qualifications:
+
+
+self-motivated with a strong passion to learn and grow your craft in software engineering
+
+
+bachelor’s degree in cs or engineering or comparable work experience and coursework/education
+
+
+5+ years of experience developing and shipping modern web applications and apis
+
+
+experience shipping in multiple programming languages and tooling
+
+
+experience refactoring and improving legacy code
+
+
+experience shipping software to production in multiple languages, utilizing varied toolsets
+
+
+experience using ci/cd principles and solutions including testing
+
+
+experience and deep understanding of oo and solid principles, refactoring, design patterns
+
+
+experience mentoring developers with various experience levels
+
+
+excellent communication and problem solving skills
+
+
+desired qualifications:
+
+
+experience with one or more of the following technologies: c#, asp.net, or .net core
+
+
+experience with one or more of the following technologies: react, angular, vue, or ember
+
+
+experience with javascript, html, css
+
+
+experience with python
+
+
+experience with git, github, pull requests and code reviews
+
+
+experience with aws and aws services
+
+
+our current stack:
+
+
+c# .net, .net core, python, ruby, react/redux, jquery, sql
+
+
+teamcity, nunit, xunit, pytest
+
+
+git using github for pull requests and reviews
+
+
+microsoft sql server, redis, rabbitmq, postgresql
+
+
+visual studio 2017, visual studio code, editor of your choice
+
+
+traditional and micro-service based web applications and apis
+
+
+aws hosting and services including s3, lambda, ses, sqs, etc.
+
+
+ 
+our story:
+makemusic joined companies trainingpeaks and trainheroic under umbrella company peaksware located in beautiful boulder, colorado. peaksware has been recognized as one of outside magazine's "best places to work" six years in a row. through a unique approach to deliberate practice, each company within peaksware develops software solutions and provides services focused solely on their respective markets to help guide people along their own journey of improvement and skill development.
+our philosophy:
+
+
+devops - we want developers to have insight and ownership over code in production, integration tools, infrastructure, and deployment process. developers should always ask what it takes to support their systems/code in production. we value the phoenix project as a reference guide.
+
+
+product efficiency is achieved upstream - the further down the development pipeline we have to fix bugs or rework features, the more expensive it is.
+
+
+small, cross-functional teams - qa, dev, design, ci, and product work on a focused and shared vision.
+
+
+complexity - it's easy to make something complex, but difficult to make it simple. we should always be fighting complexity. can we deprecate systems/code? let’s do it. does the system need to be that complicated? do we build vs. buy?
+
+
+small batch sizes - constantly work towards shorter release cycles as a means to shore up quality, helping to ensure we are working on the right things at the right time, stabilize operations, and cut down on waste.
+
+
+performance matters - we value engineers that know not to over-optimize solutions, but who always think about how code will perform at expected scale.
+
+
+minimum process necessary - we strive to be pragmatic. some process is necessary, but don’t forget the fundamentals of agile.
+
+
+managing technical debt - the vast majority of work is maintenance. engineers need to have practical philosophies on refactoring. we like the theory of broken windows, yagni, and refactor as you go. we appreciate clean code, working effectively with legacy code, and pragmatic programmer as reference guides.
+
+
+data driven - let’s use the data to help inform what to work on, what is causing performance issues, who is using our features... ultimately it's the objective plus the narrative that produces great product.
+
+
+ 
+benefits and perks:
+
+
+100% company paid medical plan for employees with buy-up options as well as dental and vision insurance for employees (dependent coverage available)
+
+
+$1,200/year fitness reimbursement to purchase any items related to healthy living
+
+
+3 weeks of pto for all new hires. increases in pto at various years of service
+
+
+4 week paid sabbatical for all employees after 7 years of employment
+
+
+stocked kitchen with snacks and drinks
+
+
+dog friendly office
+
+
+music studio for practicing, jamming and recording
+
+
+on-site workout area access: treadmill, bike trainers, rowers, and full weight lifting gym with crossfit equipment, with changing rooms and showers and towel service
+
+
+corporate discounts on gym memberships and top-brand gear
+
+
+beautiful north east boulder, co location
+
+
+flexible work schedule in a culture of trust with option of working remotely 1-2 days/week
+
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+are you willing to relocate?*
+no answeryesno 
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+linkedin profile url:
+
+
+
+desired salary*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+have you ever been convicted of a crime, misdemeanor or felony, other than minor traffic violations?*
+yesno 
+
+if “yes”, you have been convicted of a misdemeanor or felony crime, please explain the circumstances around the conviction(s):
+ 
+
+i hereby declare the information provided by me in this application for employment is true, correct and complete, to the best of my knowledge. i understand that if i am employed, any misstatement or omission of fact on this application may be considered cause for dismissal. i understand that my employment is not governed by any written or oral contract, and it is considered an "at-will" arrangement. no written or oral company policy or practice is intended to create, nor does it create, a contract of employment. this means that i am free, as is peaksware, to terminate the employment relationship at any time for any reason so long as there is no violation of applicable federal or state law.*
+i acknowledge and attest to the above statement 
+
+the following questions are entirely optional.
+
+                        to comply with government equal employment opportunity / affirmative action reporting regulations, we are requesting (but not requiring) that you enter this personal data. this information will not be used in connection with any employment decisions, and will be used solely as permitted by state and federal law. your voluntary cooperation would be appreciated. learn more.
+                    
+
+
+
+gender
+
+decline to answerfemalemale
+
+ 
+
+
+race/ethnicity
+
+decline to answerwhite (not hispanic)african american/black (not hispanic)hispanic/latinoasianpacific islanderamerican indiannative alaskannative hawaiianmulti-racial
+
+ 
+
+
+
+invitation for job applicants to self-identify as a u.s. veteran
+
+
+a “disabled veteran” is one of the following:
+                                        
+a veteran of the u.s. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the secretary of veterans affairs; or
+a person who was discharged or released from active duty because of a service-connected disability.
+
+
+a “recently separated veteran” means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the u.s. military, ground, naval, or air service.
+an “active duty wartime or campaign badge veteran” means a veteran who served on active duty in the u.s. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the department of defense.
+an “armed forces service medal veteran” means a veteran who, while serving on active duty in the u.s. military, ground, naval or air service, participated in a united states military operation for which an armed forces service medal was awarded pursuant to executive order 12985.
+
+
+
+
+veteran status
+
+ i identify as one or more of the classifications of protected veteran listed above i am not a protected veteran i don’t wish to answer
+		
+
+
+
+voluntary self-identification of disability
+
+                                voluntary self-identification of disability form cc-305
+                                omb control number 1250-0005
+                                expires 1/31/2020
+                            
+
+why are you being asked to complete this form?
+
+because we do business with the government, we must reach out to, hire, and provide equal opportunity to qualified people with disabilities.i to help us measure how well we are doing, we are asking you to tell us if
+                                    you have a disability or if you ever had a disability. completing this form is voluntary, but we hope that you will choose to fill it out. if you are applying for a job, any answer you give will be kept private and will not be used against you in any way.
+if you already work for us, your answer will not be used against you in any way. because a person may become disabled at any time, we are required to ask all of our employees to update their information every five years. you may voluntarily self-identify as having a disability on this form without fear of any punishment because you did not identify as having a disability earlier.
+
+
+how do i know if i have a disability?
+
+
+you are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+
+please check one of the boxes below:
+
+
+
+
+                                                yes, i have a disability (or previously had a disability)                                            
+
+
+                                                no, i don’t have a disability                                            
+
+
+                                                i don’t wish to answer                                            
+
+
+
+
+you must enter your name and date
+
+
+
+
+
+
+
+your name
+today's date
+
+
+
+
+
+reasonable accommodation notice
+
+
+federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. please tell us if you require a reasonable accommodation to apply for a job or to perform your job. examples of reasonable accommodation include making a change to the application process or work procedures,
+                                    providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+
+isection 503 of the rehabilitation act of 1973, as amended. for more information about this form or the equal employment obligations of federal contractors, visit the u.s. department of labor's office of federal contract compliance programs (ofccp) website at www.dol.gov/ofccp. 
+
+public burden statement: according to the paperwork reduction act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+careers - annik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+news
+people
+resources
+blogs
+contact
+careers
+
+
+
+
+login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+our journey
+
+vision & missioncertificationsannik awards
+solutions
+
+analyticsvisual analyticsemployee engagementdata managementresearch servicesrisk management
+products
+
+workflow automationenterprise fieldworkplusrapid dashboard frameworkcredit management systemoperational risk managementsurvey widgets
+industries
+
+banking and financial servicesinformation technologycommunication and media serviceshealthcare and pharmaceuticalconsumer packaged goodsretail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+current openings
+upload resume
+
+
+
+
+ 
+
+x
+opportunities at annik
+join our team and a world of opportunities!we at annik believe that right environment, combined with the right opportunities allow outstanding people to deliver exceptional results. our success and worldwide growth starts with our people, that is why there's always a place for your skills and interests at annik.explore the many exciting career opportunities at annik below.  
+usa
+india
+china
+poland
+
+
+
+position: data scientist
+no. of positions: 1
+location: bellevue, wa
+job id: 2.1
+description: responsibilities: collaborate and work closely with cross-functional teams - business stakeholders, product teams, data science and engineering teams to understand needs and devise analytics solutions. convert business requirements into analytical requirements and frameworks. apply expertise in analytics, machine learning and data mining to address project requirements and generate insights which are meaningful and help in optimizing business processes and/or making informed decisions. contribute on research and intellectual property generation. work with internal data engineering, visualization and data science teams to deploy analytics models. create story from the data and make recommendations inline with business problems. requirements: 4-6+ years of related work experience. advanced degree in computer science, applied statistics, mathematics, engineering or operations researchstrong skills and very hands-on in analytics area including predictive analytics, machine learning and text analytics. should be able to demonstrate knowledge of r – either through working experience or a recognized credential (training / certification). working knowledge of machine learning technologies / programming- python & azure machine learning. microsoft background and knowledge of cosmos. ability to prove business hypothesis and bubble new hypothesis from data and build scalable analytical models. should have worked on engagements involving analytical models deployment in production environments.  to apply, please send your resume with the above job id to lh_us_recruitingdesk@liquidhub.com
+apply
+
+
+
+position: technical pm
+no. of positions: 1
+location: bellevue, wa
+job id: 2.2
+description: responsibilities: responsible for overall design, development and team coordination on business intelligence business system/applications under deadlines.  drive program/project from project initiation through delivery. interface with client, as required on technical and/or project matters. create the functional specifications and/or requirements or scope that will be used as a tool in making decisions as to how the product, service and/or project will be implemented. provide technical and/or analytical information and receive input and approval as required. organize cross functional activities ensuring that the program/project is completed on schedule and within budget constraints. create and maintain program/project schedules and status reports. requirements: 5-7 years of related work experience. bachelor’s degree in a related field or equivalent work experience/training, advanced degree preferred. excellent knowledge of sql and bi stack (ssas/ssis/ssrs). managing business stakeholders and responsible for all business facing communication. excellent business analysis skills including understanding data in relation to the business and profiling the data to produce detailed artifacts for engineering. interface with engineering very closely and understand the various aspects of engineering to a detailed level. participate in business requirements and functional requirements meetings, identify gaps in requirements and drive discussion around appropriate solutions. participate in requirement analysis with the engineering team, providing estimation, defining scope based on the capacity and communicate with the stakeholders. own and drive uat including identifying uat testing groups and business sign off. drive broader client org bi level initiative that aligns with management commitments for bi. participate in design and development of bi systems/applications as part of monthly releases and data acquisition process needs.        communicate design, requirements, feature set, functionality, usability and limitations of subsystem. manage work allocation with in the team. be able to translate technical specifications into finished programs and systems and also have a thorough understanding of developing solutions to handle large volume data sets that are typical with bi solutions. assist in architectural design reviews and ensure technology stack selection is relevant. ensure development and testing follow industry and microsoft approved standards. ms sales experience is desirable.  to apply, please send your resume with the above job id to lh_us_recruitingdesk@liquidhub.com
+apply
+
+
+
+position: meta-data analyst 
+no. of positions: 1
+location: bellevue, wa
+job id: 2.3
+description: responsibilities: support the capture, publishing and maintenance of meta-data (both structured and non-structured) per the client’s meta-data standards. support the client’s data governance processes. improve the meta-data process. participate in requirements definition for existing meta-data tool enhancements. manage multiple, unrelated projects/tasks independently. working with the business to gather meta-data, document, publish using meta-data tools, and maintain. requirements: strong interpersonal communication and collaboration skills; great knowledge and experience in metadata management, taxonomy, and data governance; good business knowledge in several business areas, such as marketing, finance and operations management; strong analytical skills; strong learning skills. excellent understanding of the difference between meta-data and meta-data repositories versus operational data. ability to adhere to client’s meta-data standards. must be able to advance multiple, unrelated projects/tasks independently. ability to solve problems quickly and completely. bachelors of science in information management, information systems, or comparable to apply, please send your resume with the above job id to lh_us_recruitingdesk@liquidhub.com
+apply
+
+
+
+position: systems analyst
+no. of positions: 2
+location: bellevue, wa
+job id: 1.1
+description: responsibilities: gather and analyze computer systems requirements, procedures, and problems to automate/improve existing systems and review systems capabilities, work flow. analyze, design, develop, test and maintain computer applications through all phases of software development life cycle. prepare, standardize and review software requirements specification documentation, technical, and system design documentation. consult with management to ensure agreement on system principles. write technical documentation, specifications, and proposals. requirements:  require master’s degree or foreign equivalent degree in computer science, electrical/ electronics engineering, or any related field. must have at least one (1) year of work experience in the job offered or in the related occupations of software engineer, consultant, technology lead, programmer, or equivalent. in lieu of master’s degree and one year of experience, the employer will accept a bachelor’s degree or foreign equivalent degree in computer science, electrical/ electronics engineering, or any related field, and at least five (5) years of progressive work experience. other special requirements: qualifying experience must include 1 year of using sql server, asp.net, power bi, ssis, ssrs, ssas tabular models and c#. to apply, please send your resume with the above job id to kkaur@liquidhub.com
+apply
+
+
+
+position: lead ops service engineer
+no. of positions: 1
+location: india
+job id: 1631
+description: minimum job description (purpose of the position)- proven experience in database design, data modeling, sql server, t-sql, query optimization,   common dw principles and etl development a plus including ssas, ssrs, ssis.- detail oriented, with ability to produce high quality analytical reports and specifications.- reporting to offshore lead and communication with us based project manager (at times clients    too).- providing support to clients/customers over conference calls/emails/im.- documentation of activities performed.- ensure that established standards, processes and best practices are adhered to.- work under supervision executing the responsibilities of the job and ensure that all commitments    and deliverables are met.- manage and support sql server databases that include but not limited to- writing complex   sql queries, stored procedures, functions, triggers, managing permissions etc. – preferred.- in-depth understanding of ssis based solutions.- open to work in us/uk shift timings.key roles and responsibilities in detail- monitor, troubleshoot & resolve sql jobs (database processing & tabular cube processing)- communicating with teams upon success / failures- engaging with fte leads for any clarifications on timely manner- streamlining the job failures so it doesn’t fail again with similar reason- will be involved in development (sprint activities) depends on bandwidth- feature analysis, feature, code & output validation-- deployment release management (dev, uat & production)- job development- infrastructure management & run management- job logging & auditing-- feature testing- data analysis and profiling acquisition/usage i.e. ax7, crmol, any new product.competencies required other than skills: technical/ functional- advanced excel skills (pivot table modifications, data connections, power pivot, power query &   power bi)- advanced sql services skills (reading and writing sprocs, data models, data manipulation   queries & joins etc.) and intent to learn further- experience working in vstf & tfs (navigating source control explorer & opening tabular models,   managing source code)- experience reading and writing multidimensional expressions (mdx)- experience with navigating, modifying and managing ssas cubes- good verbal/written communication skills to comprehend assigned work and provide status.   should be able to work in a team of data analysts.- very good analytical and problem solving skills on given data to provide insights- experience in using ms office (excel, word, outlook and sharepoint).- perform in-depth statistical/data analysis for reporting purpose.- be able to independently work on multiple tasks under some supervision.- ability to "think outside the box" and ability to work productively in a team.- familiarity with the microsoft system & environment preferred.email us at:  neha.sood@annik.com
+apply
+
+
+
+position: systems analyst
+no. of positions: 1
+location: bellevue, wa
+job id: 1.2
+description: responsibilities: gather and analyze computer systems requirements, procedures, and problems to automate/improve existing systems and review systems capabilities, work flow. analyze, design, develop, test and maintain computer applications through all phases of software development life cycle. prepare, standardize and review software requirements specification documentation, technical, and system design documentation. consult with management to ensure agreement on system principles. write technical documentation, specifications, and proposals. requirements: require master’s degree or foreign equivalent degree in computer science, computer engineering, or any related field. must have at least one (1) year of work experience in the job offered or in the related occupations of software engineer, consultant, programmer, or equivalent. in lieu of master’s degree and one year of experience, the employer will accept a bachelor’s degree or foreign equivalent degree in computer science, computer engineering, or any related field, and at least five (5) years of progressive work experience. other special requirements: qualifying experience must include 1 year of using cosmos, c#, .net, sql server, tfs, scope. to apply, please send your resume with the above job id to kkaur@liquidhub.com
+apply
+
+
+
+position: systems analyst
+no. of positions: 1
+location: bellevue, wa
+job id: 1.3
+description: responsibilities: gather and analyze computer systems requirements, procedures, and problems to automate/improve existing systems and review systems capabilities, work flow. analyze, design, develop, test andmaintain computer applications through all phases of software development life cycle. prepare, standardize and review software requirements specification documentation, technical, and system design documentation. consult with management to ensure agreement on system principles. write technical documentation, specifications, and proposals.requirements: require master’s degree or foreign equivalent degree in computer science, computer engineering, or any related field. must have at least one (1) year of work experience in the job offered or in therelated occupations of software engineer, consultant, programmer, or equivalent. in lieu of master’s degree and one year of experience, the employer will accept a bachelor’s degree or foreign equivalent degree in computer science, computer engineering, or any related field, and at least five (5) years of progressive work experience. other special requirements: qualifying experience must include 1 year of using sql server, sql server integration services (ssis), sql server analysis services (ssas), sql server reporting services (ssrs), ms power bi, tfs. to apply, please send your resume with the above job id to kkaur@liquidhub.com
+apply
+
+
+
+position: systems analyst
+no. of positions: 1
+location: bellevue, wa
+job id: 1.4
+description: responsibilities: assist in gathering and analyzing computer systems requirements, procedures, and problems to automate/improve existing systems and review system capabilities. participate in customizing applications as per client requirements. assist in coding, testing, deploying and supporting client/server and web based applications to ensure to meet the business requirements. provide assistance in solving problems such as system malfunctions and performance issues. requirements: require bachelor's degree or foreign equivalent degree in computer science, computer information systems, or any related field. must have two years of i.t. work experience in the job offered or in related i.t. occupations, such as software engineer, test analyst, technical associate, consultant, or equivalent. in lieu of a bachelor's degree or foreign equivalent degree in computer science, computer information systems, or related field, employer will accept 2 additional years of i.t. work experience. other special requirements:  qualifying experience must include 1 year of using sharepoint development, vb scripts, power bi reports, sql server, visual studio team, asp.net to apply, please send your resume with the above job id to kkaur@liquidhub.com
+apply
+
+
+
+position: consultant/sr. consultant (murex)
+no. of positions: 1
+location: gurgaon
+job id: 1446, 1447
+description: have basic understanding of xml and xslt. basic knowledge of sql and unix. ability to work with or configuration, accounting, workflow, payment, settlement, market data, generators, views and reports.other skills required: effective verbal as well as written communication skills.effective time management skills.a commitment to quality and a thorough approach to workshould be able to travel across globe depending upon on the business requirement. should not be  location bound or preference. a commitment to quality and a thorough approach to workmin. experience required:                               2 yr in mlc & var module                                      email us at: kapil.kajal@annik.com
+apply
+
+
+
+position: lead bi analyst 2
+no. of positions: 2
+location: gurgaon
+job id: 1735, 1736
+description: seasoned bi manager having 5-7 years of experience in bi on large scale enterprise bi projectstechnical skillsexpertise in business requirement gathering, analysis & conceptualizing high- level architectural framework & designstrong exposure on bi tools and technologies, qlikview or qliksense expertise is a must.experience in bi performance optimizationexperience on other bi tools like tableau, power bi is preferredat least 1-2 years of experience in client’s engagement managementhave managed bi projects with teams.have good db query skills like sql /pl sql etc.strong client communication skills and project management skillseffective communication with the client on the approach, solution and insights generatedtake responsibility for technical skill-building within the organization (training, process definition, research of new tools and techniques, etc)email us at: kapil.kajal@annik.com
+apply
+
+
+
+position: ui developer
+no. of positions: 1
+location: gurgaon
+job id: 1955
+description: knowledge of web/graphic design tools and technologies.pro-actively reviews the application and researches areas of improvements from design perspectivedocuments and shares design recommendationscapable of working on customer related application issuesproblem research and resolutionneed to assist in multiple projectsrapid learning capacitystrong sense of ownership, urgency and responsibility for the health and well-being of the systemsbuild good relationships with business and it partnersability to provide weekly status on deliverables, issues, etc.respond quickly and effectively to production issues.take responsibility for seeing issues through to resolutionmust have good analytical skillshave an operational mindset – diligent about watching publishes, tuned into our audits/reconciliations that come outcan operate with some urgency when neededability and experience to work in cross cultural virtual teamscommunication skills - high level of proficiency (read and write) - excellent communication and stakeholder management skills across multiple remote locationsmulti-tasking – ability to drive multiple deliverables at the same timeproficient in ms office24x7 support of the production system for break/fix situations.skills required: photoshop, dreamweaver, html 5, javascript, jquery, bootstrap, flash,email us at:  ankit.chaudhary@annik.com
+apply
+
+
+
+position: sharepoint developer
+no. of positions: 2
+location: gurgaon
+job id: 1962, 1963
+description: knowledge of sharepoint development.experience in xslt, xml, manage meta dataexperience work flow services, access services, user profile services, translation services, rest api, event handlers, event receiversit experience in analysis, design, testing and implementation web applications experience working with sharepoint technologies.experience in developing custom web parts, web pages and user controls.expertise in creating, configuring and customizing document libraries, site collections, content types, web parts, custom lists and web applications.hands on experience in client object model.experience in managing cross site publishing, sharepoint search, multilingual web based sharepoint sites, managed navigation, term store.proficient in sharepoint branding feature using design manager. i.e. creating master pages, page layouts, navigation.good knowledge of sharepoint administration like permission management, backups, restores, monitoring servers, creating sites, sub sites, lists, list views, alerts, site templates, team sites, list templates etc.performed operational tasks and providing support to the customers using available tools and processes.assist users with basic problems using the ticketing tool.sharepoint environment operations management as per itil standards – cm, pm, im.ad and adfs integrationcross forest ad environment knowledgeexperience on multiple solutions deployment on sharepoint 2013 with integration of other componentsvalue add – sharepoint based development skills, sql developer and other microsoft platform integration skills.email us at:  ankit.chaudhary@annik.com
+apply
+
+
+
+position: sharepoint administrator
+no. of positions: 2
+location: gurgaon
+job id: 1957, 1956
+description: knowledge of sharepoint administration and development.sharepoint 2013 administration knowledge is mustsharepoint environment operations management as per itil standards – cm, pm, im.ad and adfs integrationcross forest ad environment knowledgeexperience on multiple solutions deployment on sharepoint 2013 with integration of other componentsvalue add – sharepoint based development skills, sql developer and other microsoft platform integrationskills required:sharepoint administration, sharepoint list and documents, sharepoint environment operations management as per itil standards – cm, pm, im, cross forest ad environment knowledge, .net, c#, sql server, javascript, jquery, angular js, sharepoint development, azure cloud, itil v3email us at:  ankit.chaudhary@annik.com
+apply
+
+
+
+thank you for your interest. we currently don't have any opening at this location.
+
+submit resume
+
+
+
+
+
+
+x
+upload your resume here
+
+
+
+
+
+
+
+
+
+
+
+
+name
+
+
+company name
+
+
+
+email
+
+
+
+phone
+
+
+
+position applied for
+
+
+
+job location
+
+
+
+upload file
+
+
+
+ 
+
+ 
+
+annik is a global organization that embraces diversity by being an equal opportunity employer. we look for remarkable people to join us-people who are curious, passionate and excited to explore the ideas that will shape the future. if that sounds like you and you want to be a part of this community who does meaningful work where their skills have impact and where teams work well together please contact us.
+ 
+culture at annik :
+we at annik are focused on strengthening the employee value proposition by rewarding and nurturing our people in a very unique and flexible environment. it is our constant endeavor to ensure our people are given the platform to express their creativity and contribute to the process of innovation. we at annik believe that a culture of openness and free thinking fosters exchange of ideas that culminates in innovation. transparency and open communication are central to annik’s culture. we offer platforms like employee opinion surveys, town halls, one to one meetings, leadership forums etc. for them to express their views and be heard. today 25% of our employees are female and 32% of our total employees have been with us for more than 3 years. we have globally diverse colleagues from various culture/nationalities with footprints in 7 locations.
+ 
+ career at annik :
+we offer opportunities catering to varied regions and sections that explore parts of annik’s global reach. if you have the will, skill and right attitude we will enable and facilitate for you to move towards meeting your aspirations. at annik people are the builders of their careers and has many levers like training and development offerings, internal movement framework, global mobility framework etc. to help accelerate their drive.
+
+
+
+
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+our journey
+people
+news
+contact
+careers
+ 
+
+solutionsanalytics
+business intelligence
+data process and consulting
+data management
+research services
+capital markets
+ productsworkflow automation
+enterprise fieldworkplus
+rapid dashboard framework
+credit management system
+operational risk management system
+survey widgets
+ industriesbanking and financial services
+information technology
+communication and media services
+healthcare and pharmaceutical
+consumer packaged goods
+retail
+ follow us on twitter tweets by @annikwire
+
+
+
+
+
+
+
+                         			© 2017 annik
+		                     
+
+
+                     			
+ terms & conditions  | 
+ privacy policy   
+
+		                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

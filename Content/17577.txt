@@ -1,0 +1,238 @@
+
+
+careers | mckean defense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            careers
+        
+
+
+
+
+
+
+careers homeyour profile/job agentmckean homecabrillo home
+
+
+
+
+ 
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					web/database developer
+				
+
+
+						tracking code
+					
+
+						2606-317 
+					
+
+						job description
+					
+
+mckean defense is an employee owned naval life cycle management, engineering, enterprise transformation and program management business headquartered in philadelphia, pa. mckean’s engineers, developers, technical staff, programmers, analysts, and program managers identify and deploy new shipboard technologies, integrate information technology across shipboard platforms, and develop strategies to support the warfighter. mckean’s employees create strategic solutions to help customers reach new levels of mission support and transform their organizations.
+ 
+specific tasks for web migration and ongoing operation for this position will be:
+- identify requirements for the web architecture
+- identify existing and help create tools, frameworks, apis, etc. that will satisfy migration requirements
+- write specifications for the web version (how the data will be secured, which components run on server/client, which frameworks/apis will be used, etc.) 
+- be involved in planning for porting all of the java app’s functionality to a secure “web,” based on the specifications
+ 
+ 
+
+
+						required skills
+					
+
+ 
+the candidate must have: 
+- degree in engineering or computer science, required
+ 
+- candidate must have an active secret security clearance (day 1), required
+ 
+- web ontology language (owl) or resource description framework (rdf)
+ 
+- languages:  python, java, or javascript
+ 
+the candidate must have experience with:
+ 
+- ontologies
+ 
+- machine learning
+ 
+- databases
+- sec+ or cissp
+ 
+ 
+
+
+						required experience
+					
+
+ 
+- triple-stores (neo4j, stardog, allegrograph)
+- cyber risk assessments
+- machinery control systems
+- industrial control systems
+- marine or shipboard control systems 
+ 
+equal opportunity employer–minorities/females/veterans/individuals with disabilities/sexual orientation/gender identity.
+mckean defense is an e-verify company.
+ 
+
+
+						job location
+					
+
+						philadelphia, pennsylvania, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								connect
+							
+
+
+							who do you know at
+							
+mckean-defense-group
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+search current openingsupdate your profilecreate a job agentupdate job agent
+  
+
+
+
+
+
+
+
+copyright 2017, mckean defense group. all rights reserved. 
+
+
+
+
+
+
+
+
+
+

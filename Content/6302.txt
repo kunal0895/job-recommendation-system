@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1960249
+												
+
+
+job title
+												
+
+deep learning  research engineer (qualcomm research, san diego)
+
+
+
+
+post date
+													
+
+11/29/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	corporate research & development
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - systems                           
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+qualcomm research is looking for world-class researchers in machine learning/deep learning. come join a high-energy team of engineers building best-in-class solutions for computer vision, speech processing and video processing. you will be part of a multi-disciplinary team in a world-class team that has repeatedly won the major deep learning competitions, such as the imagenet large scale visual recognition challenge. collaborate with cross-functional teams spanning hardware, software and systems. see your design in action on industry-leading chips embedded in the next generation of smartphones, autonomous vehicles, robotics, and iot devices.  
+
+the r&d work responsibility can include the development of new fundamental methods in the following areas
+research minimal computation techniques to for speed and power efficiency
+bayesian deep learning for mission-critical risk assessment
+adversarial learning for robustness
+generalized equivariance for data efficiency and model robustness
+reinforcement learning for behavioral planning and resource management 
+active learning on massive datasets for training efficiency
+training at the edge for personalization and privacy
+
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+3+ years in the following areas required: experience in deep networks (cnn, dbn, rnn, lstm, dcn) or reinforcement learning (rl)experience implementing dl/rl algorithms in high-level languages/packages (e.g. c++, java, matlab, or python) experience with classification and regression algorithms (e.g. svm, mlp)  
+
+
+
+preferred qualifications
+													
+
+
+
+strong understanding of machine learning algorithms & principles, and numerical optimization 
+experience using machine learning toolboxes (e.g. caffe, tensorflow, or pytorch) 
+experience implementing machine learning algorithms on embedded platforms 
+track record of research excellence and high quality publications 
+knowledge of application areas, such as computer vision or speech analysis  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: master or phd degree with a focus on deep learning and/or computer vision.
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

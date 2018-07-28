@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+      vistaprint careers & job openings    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+careers 
+
+
+
+analytics
+
+
+
+
+customer care
+
+
+
+
+manufacturing & engineering
+
+
+
+
+marketing
+
+
+
+
+operations
+
+
+
+
+technology
+
+
+
+
+
+locations 
+
+
+
+waltham-ma, usa
+
+
+
+
+venlo, netherlands
+
+
+
+
+tunis, tunisia
+
+
+
+
+toronto, canada
+
+
+
+
+sydney, australia
+
+
+
+
+silver spring-md, usa
+
+
+
+
+prague, czech republic
+
+
+
+
+montego bay, jamaica
+
+
+
+
+manila, philippines
+
+
+
+
+london, united kingdom
+
+
+
+
+berlin, germany
+
+
+
+
+barcelona, spain
+
+
+
+
+ahmedabad, india
+
+
+
+
+
+culture 
+
+
+
+lifeinvistaprint
+
+
+
+
+total rewards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all job types
+
+all job types
+business development
+corporate strategy
+creative
+customer analytics
+customer care
+default
+engineering
+facilities & administration
+finance
+human resources
+it/operations
+legal
+manufacturing analytics
+manufacturing production
+marketing
+project management
+region analytics
+retail
+software development
+strategic partnerships
+supply chain & logistics
+
+
+
+all cities
+
+all cities
+ca-on-windsor
+ca-toronto
+ch-winterthur
+cz-prague
+de-berlin
+es-barcelona
+in-ahmedabad
+jm-montego bay
+nl-venlo
+ph-manila
+tn-tunis
+us-ma-waltham
+us-mi-detroit
+us-nv-reno
+us-ri-providence
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+job title:   database engineer
+
+
+job id
+
+
+23780
+
+
+category
+
+
+default
+
+
+job description
+
+ we are looking for a database engineer to join the vistaprint data team, this team is focused on enabling business partners to make data-driven decisions that deliver value to our customers.  this includes enabling analytical insights into our business, driving intelligent product recommendations, and helping to optimize our website experience and functionality.  solving these challenges involves working with technologies on the leading edge of data movement, processing, and warehousing. reponsibilitiessupport the multi-terabyte vistaprint data warehouse used across several functions and geographiesdevelop procedures to extract-transform-load data from various sourcestroubleshoot data issueswork directly with marketing, analytics, finance, customer support stakeholders qualifications:data warehouse knowledge using the kimball approachsome experience with reporting/analytic/olap tools (e.g. ssas, tableau)expert knowledge in transact-sqlcomfortable developing primarily in a microsoft bi stack (powershell, vs, c#)attention to detailability to research data issues and resolve in a timely mannerfamiliarity with azure, aps, mdx, hadoop, spark, hive is helpfulwork with data movement tools (e.g. ssis), scheduling/jobsdata replication conceptscomfortable working in an agile / scrum environment, and interacting with internal clientssome experience with code management tools (e.g. git, subversion)  
+
+
+
+
+
+						apply now 
+
+
+
+
+						refer a friend 
+
+
+
+share on your newsfeed:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us!
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

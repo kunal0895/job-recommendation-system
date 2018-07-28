@@ -1,0 +1,206 @@
+
+
+
+careers center - data scientist - health data sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+data scientist - health data sciences
+
+
+
+data scientist - health data sciences
+
+
+
+
+job id 
+
+2017-4813
+
+
+
+
+# of openings 
+1
+
+
+
+
+
+job locations 
+
+us-pa-conshohocken
+
+
+
+
+posted date 
+11/15/2017
+
+
+
+
+
+category 
+
+healthcare
+
+
+
+
+
+
+
+
+
+more information about this job
+
+
+
+
+overview
+
+
+
+
+
+
+
+symphony health solutions, a wholly owned subsidiary of pra health sciences, is a leading provider of high-value data, analytics, technology solutions and actionable insights for healthcare and life sciences manufacturers, payers and providers. the company helps clients drive revenue growth and commercial effectiveness, while adapting to the transformation of the healthcare ecosystem, by integrating a broad set of patient, prescriber, payer and clinical data together with primary and secondary health research, analytics and consulting. symphony delivers a comprehensive perspective on the real dynamics that drive business in the healthcare and life sciences markets. at symphony health solutions, we pride ourselves on being collaborative and customer centric. we do this by focusing on five key values:love the customer by consistently exceeding expectationsfocus on brilliant execution by being detailed and accountableleapfrog the competition by differentiating ourselves and providing innovative solutionsbuild a high-performance culture that does not accept mediocritymake it fun by connecting as one passionate high-energy team.connect with symphony! collaborate with customers! differentiate yourself! 
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+
+health data services provides technology solutions and professional consulting services to our clients in three key areas: data integration, analytic tools, and cloud-based commercial marts and hubs.  leveraging symphony's comprehensive data assets, vantage applications, health cloud platform and data integration capabilities, the hds practice offers customized technology-enabled services to client and act as a key interact with internal technology and operations platforms. hds is hiring a data scientist to join our team. this professional will be intricately involved in creating various machine learning-based tools and processes using our symphony data assets (medical and rx claims, lab data, emr, remittance data…) along with customer and publically available datasets. the primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our reporting applications.  essential duties and responsibilities: works in collaboration with the hds team members to understand the needs for each category of products and solutions (commercial effectiveness, clinical and lab, patient journey…). suggest possible solutions, communicate results and ideas to key stakeholders. research and develop statistical learning models for data analysis. implement new statistical or other mathematical methodologies as needed for specific models or analysis. work closely with our bi development team to integrate the above solutions in our reporting solutions. keep up-to-date with the latest technology trends and educate the team members on predictive and prescriptive analytics. 
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+
+master’s degree in computer science or related field, and 1-2 years’ experience.experience in large volume data analysis and big data (rdbms/hdfs)machine learning algorithmsr and/or python, sas/wps a plusshinyetl (alteryx a plus).expertise in understanding relational database structures.proven exceptional internal or external customer serviceexperience with bi and reporting tools (tableau, qlik) is a plus travel requirements:  no travel is required at the beginning but might be up to 25% of the time as we launch products.   the above statements are intended to describe the general nature and level of work being performed by most people assigned to this job.  they’re not intended to be an exhaustive list of all duties and responsibilities and requirements. symphony health solutions is an equal opportunity employer.  
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+need help finding the right job?
+
+
+
+
+we can recommend jobs specifically for you!
+
+click here to get started.
+
+
+
+
+
+
+
+
+go back to the welcome page
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,103 @@
+
+
+
+umpqua bank job postings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					model risk analyst - portland - (kh24151)
+				
+
+
+
+
+									job requisition id:
+								
+
+									kh24151
+								
+
+
+
+								job title:
+							
+
+								
+								model risk analyst - portland 
+							
+
+
+
+									job type:
+								
+
+									full-time
+								
+
+
+
+								location:
+							
+
+								portland, or 
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+job description:
+						umpqua bank is seeking a model risk analyst for our portland office.     the model risk analyst will conduct independent model validation studies to manage and mitigate the risks that arise from the use of models that have fundamental errors and from the inappropriate use of model results.  analysis will include assessments of each model’s conceptual soundness, statistical analysis of empirical model performance, the development of challenger models for benchmarking comparisons, and composition of robust validation reports.  will identify items posing significant model risks to the bank, propose plans to address those risks, and present recommendations for continued model use or rejection to senior management and the model risk committee.  reviews to includes financial models used to drive business decisions including but not limited to:  financial planning, fraud detection, credit risk management, anti-money laundering, asset and liability management, and dodd-frank act stress testing (dfast). essential duties and responsibilities• perform reviews of existing model documentation. interview model developers and model owners to understand the business context for model use and to facilitate the adoption of model risk management standards.• design specific validation plans to provide “effective challenge” to models, including assessments of overall design, underlying theoretical approaches, data quality and controls, model specification and estimation, development testing, implementation, use, and approvals.• analyze empirical model performance using statistical techniques such as back-testing, scenario analysis, stress-testing, stability and sensitivity testing, and benchmarking against self-developed challenger models.  review computer code and input data to assess quality.• prepare robust reports documenting the findings of validation review and analysis.  present results and recommendations for changes, continued use or rejection of models to model developers, model owners, executive sponsors, and the model risk committee.• assist model developers, model users, and model owners in the completion of model documentation and the design of scorecards to track the on-going performance of models under their responsibility.• maintain the enterprise’s model inventory and model documentation library.• identify emerging model risk issues impacting the bank, changes in industry best practice related to model development and validation, and communicate to model developers, senior management and the model risk committee.• facilitate improved understanding of model risk by conducting individual educational presentations or roadshow sessions as assigned by the model risk manager.• demonstrates compliance with all bank regulations for assigned job function and applies to designated job responsibilities – knowledge may be gained through coursework and on-the-job training. keeps up to date on regulation changes. • follows all bank policies and procedures, compliance regulations, and completes all required annual or job-specific training. • maintain a working knowledge of bank's written policies and procedures regarding bank secrecy act, regulation cc, regulation e, bank security and other regulations as applicable to this job description.  • may be asked to coach, mentor, or train others and teach coursework as subject matter expert. • actively learns, demonstrates, and fosters the umpqua corporate culture in all actions and words.  • takes personal initiative and is a positive example for others to emulate.  • embraces our vision to become "the world's greatest bank."• may perform other duties as assigned. supervisory responsibilities n/a required knowledge, skills and abilities• master’s degree in economics, mathematics, statistics, financial engineering, quantitative finance, or actuarial sciences.  doctoral degree preferred.• certification as financial risk manager (frm), professional risk manager (prmia), chartered financial analyst (cfa), or certificate in quantitative finance (cqf) preferred.• 3-5 years in banking or financial services as a data scientist, statistician, quantitative risk analyst, model developer, model validator, or similar.• knowledge of regulatory requirements related to model risk management (frb/occ sr 11-7), basel ii/iii capital requirements, and dodd-frank act stress testing (dfast).• advanced understanding of statistical modeling, econometric forecasting, machine learning, data extraction and processing techniques; and demonstrated ability to apply such methods.• experience with analytics software (sas, r, spss, matlab, excel vba, sql), relational databases and/or ‘big data’ technologies.• possess communication skills, both oral and written, with ability to translate complex statistical or economic theories and analysis into practical implications for business teams and senior management.• demonstrate strong organizational skills, with the ability to manage multiple concurrent projects.• ability to proactively learn newly emerging statistical, econometric, and mathematical modeling techniques, and understand the implications of their use in a banking organization. physical and environmental demands • work involves extended periods of sitting, occasional walking, and lifting up to 10 pounds. requires close visual acuity. normal office environment.  travel not required for this position. umpqua bank is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. we maintain a drug-free workplace and may perform pre-employment substance abuse testing. *li-up 
+					
+
+
+
+
+
+
+
+
+
+
+

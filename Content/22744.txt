@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ cloud solution architect - data platform - customer success unit
+
+
+
+
+
+
+
+
+
+location can be:  &nbsp dallas, houston or st. louis  &nbsp microsoft envisions a world where passionate innovators come to collaborate, envisioning what can be and taking their careers places they simply couldn’t anywhere else.  &nbsp this is a world of more possibility, more innovation, more openness, and sky’s-the-limit thinking - a cloud-enabled world.  &nbsp our mission is to empower every person and every organization on the planet to achieve more. this mission is ambitious and at the core of what our customers and employees care deeply about. we have unique capability in harmonizing the needs of both individuals and organizations. we deeply care about taking our ideals and vision global and making a difference in lives and organizations in all corners of the planet. we are always learning. insatiably curious. we lean into uncertainty, take risks, and learn quickly from our mistakes. we build on each other’s ideas, because we are better together. we stand in awe of what humans dare to achieve and are motivated every day to empower others to do more and achieve more through our technology and innovation. together we make a difference. to learn more about microsoft’s mission, please visit:  &nbsp https://careers.microsoft.com/mission-culture;  &nbsp  check out all of our products at:  &nbsp http://www.microsoft.com/en-us microsoft aspires to help our customers achieve their own digital transformation, leveraging the power of microsoft cloud solutions and services. to this end, microsoft is investing in a dedicated customer success team that will help microsoft customers successfully adopt microsoft cloud solutions and services.  &nbsp we are looking for a cloud solution architect data platform to drive high priority customer initiatives on the microsoft data platform in collaboration with customers and the microsoft field.  &nbsp this is a customer facing role, responsible for providing end-to-end technical guidance and expertise on the microsoft data platform (azure and on-premises).  &nbsp  the impact you’ll be making?  &nbsp this role will own the data platform technical customer engagement including: architectural design sessions, specific implementation projects and/or proofs of concepts. the ideal candidate will have experience in customer facing roles and success leading deep technical architecture discussions with senior customer executives to drive cloud deployment. key responsibilities include:  &nbsp • &nbsp&nbsp&nbsp&nbsp drive the deployment of customer workloads onto azure data services and sql server to increase their consumption of the microsoft data platform by providing deployment guidance, supporting development of the customers cloud adoption model, and providing appropriate recommendations to overcome blockers.  &nbsp • &nbsp&nbsp&nbsp&nbsp develop deep relationships with key customer itdms and bdms, who drive long-term data platform adoption within their company. • &nbsp&nbsp&nbsp&nbsp you will also identify, validate, and grow opportunities to accelerate deployment and consumption in your assigned customer accounts, in partnership with the sales team, by driving solution architecture for both microsoft and 3rd party solutions.  &nbsp • &nbsp&nbsp&nbsp&nbsp lead deployment of projects, creation of collateral, and training of sellers and partners in your area of specialization.  &nbsp • &nbsp&nbsp&nbsp&nbsp maintain technical skills and knowledge, keeping up to date with market trends and competitive insights.  &nbsp • &nbsp&nbsp&nbsp&nbsp coach other technical sellers to become certified in the required data platform technical certifications.  &nbsp who we’re looking for?  &nbsp education, key experiences, skills, and knowledge: • &nbsp&nbsp&nbsp&nbsp deep understanding of data platform technologies, upgrading to modern sql server releases, migrating competitive databases to sql server, cortana intelligence, microsoft bi technologies, and emerging computing trends • &nbsp&nbsp&nbsp&nbsp proven record of accomplishment of building deep technical relationships with senior executives and growing data platform share in large or highly strategic accounts • &nbsp&nbsp&nbsp&nbsp proven record of accomplishment of driving decisions collaboratively, resolving conflicts and ensuring follow through with exceptional verbal and written communication • &nbsp&nbsp&nbsp&nbsp 5+ years of success in consultative/complex technical sales and deployment projects (where necessary, managing various stakeholder relationships to get consensus on solution/projects)  &nbsp • &nbsp&nbsp&nbsp&nbsp 5+ years of architecture, design, implementation, and/or support of complex application architectures (i.e. having an architectural sense for connecting data sources, data visualization, structured and unstructured data, etc.) • &nbsp&nbsp&nbsp&nbsp deep technical experience in one or more of the following areas: database architecture, etl, data mining, business intelligence, big data, machine learning, data governance, no-sql databases, advanced analytics • &nbsp&nbsp&nbsp&nbsp leadership experience on major transformation projects and successful transitions to implementation support teams• &nbsp&nbsp&nbsp&nbsp presentation skills with a high degree of comfort with both large and small audiences • &nbsp&nbsp&nbsp&nbsp prior work experience in a consulting/architecture position within a software and/or services company such as salesforce, amazon, vmware, google, ibm, avanade, t-systems, wipro, csc, hp, infosys, servicenow, dell, tcs, rackspace, softlayermicrosoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+324810
+1077406
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, houston (tx)
+
+
+
+
+
+
+job families
+
+
+
+
+
+sales
+
+
+
+
+
+
+teams
+
+
+
+
+
+sales
+
+
+
+
+
+
+
+
+
+
+microsoft sales. sales dynamo? if your version of the abcs is “always be closing,” check out our jobs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,259 @@
+
+
+
+
+
+
+
+
+centaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+ (972) 501 9858
+ 
+ 
+
+
+
+
+
+
+home
+about
+services
+
+technology staffing
+it infrastructure services
+application development
+mobility services
+
+clients
+testimonials
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+jobs at centaurus 
+
+
+
+ 
+
+
+centaurus is hiring! you'll get to work with great individuals on a variety of projects, and play an important role in the future of several products and teams. 
+if you're interested, send a note to jobs@centaurustek.com with your information, projects you've completed in the past, your online profile (github, website, personal blog, etc., and your resume. 
+job opportunities
+centaurus is always looking for the best and the brightest individuals to join our team of professionals. opportunities currently exist at all office locations.
+available positions
+
+
+
+
+senior data warehouse engineer
+
+job description
+
+build enterprise data warehouse, analytical solutions using qlikview/qliksense, sap business objects, informatica and oracle pl/sql.
+design, develop and test complex etl jobs using informatica.
+develop reports, scorecards, and dashboards using business objects and qlikview/qliksense.
+develop and maintain sap business objects universes.
+define implementation plan, sizing of the environments, setup and configuration of informatica, sap business objects, qliksense, smart data associations, beta map integrations and sharing apps through qliksense cloud.
+establish best practices for qlikview/qliksense development, deployment ,qliksense server installation (hub, sense qmc, engine, proxy, scheduler) and creation of reusable templates. optimize existing qlikview/qliksense reports with an emphasis on performance, usability and standardization.
+develop qlikview applications based on incrementally load transactions using qvd files.
+develop pixel perfect customized qlikview/qliksense reports as per the client requirements using nprinting reporting tool.
+troubleshoot and improve the performance of etl jobs, reports and dashboards by using best practices of oracle and sql server databases.
+develop and maintain enterprise data model for data marts using erwin modeling tool.
+write complex pl/sql statements and stored procedures to collect, analyze, and report data across multiple functional business systems.
+
+location: will work in irving, texas and/or various client sites throughout the u.s. must be willing to travel and/or relocate.  apply now or e-mail resumes to hr@centaurustek.com
+
+
+
+
+unix systems administrator
+
+job description
+
+responsible for installation, configuration and administration of unix systems such as solaris, red hat linux, aix. 
+responsible for building, configuring, and managing solaris servers in a zoned/virtualized environment. 
+perform installation and troubleshooting of apache web server and rectify performance issues. 
+responsible for installation and configuration of automation technologies such as puppet, chef, cfengine, urban code. 
+perform vmware/openstack installation and configuration on servers. perform os tuning, understand networking, perform user management, and perform security-hardening, review os logs as needed and perform system backups.
+develop perl scripts to automate routine activities and perform scheduled events and tasks as per queuing in batch processing.
+
+location: will work in irving, texas and/or various client sites throughout the u.s. must be willing to travel and/or relocate. apply now  or e-mail resumes to hr@centaurustek.com
+
+
+
+
+systems analyst-clinical applications
+
+job duties
+
+work with computational scientists, software developers to develop effective clinical applications.
+ investigate application issues, document findings, and troubleshoot problems.
+ install and update clinical applications in the research it environment, document system changes, write and maintain documentation for end users.
+ consult and collaborate with it coworkers to determine best red hat linux(rhel) systems configurations for applications. 
+ install and maintain physical as well as virtual red hat linux(rhel) servers based on project requirements.
+ support aws cloud infrastructure which included management and configuration of various aws services. create ec2 instances, update security group and iam policies.
+write and maintain shell scripts to automate the administrative tasks using cron.
+ install and configure the emc symmetrix vmax storage solution with existing infrastructure. 
+
+minimum requirements: b.s. computer science, biology, chemistry or related and 2 years of experience in 
+installing and maintaining red hat linux(rhel) servers, support aws cloud infrastructure, create 
+ec2 instances, write shell scripts, install and configure emc symmetrix vmax.apply now  or e-mail resumes to hr@centaurustek.com
+pwd alternative titles: systems administrator.
+
+
+
+
+in exchange for your hard work and dedication, centaurus offers benefits including:
+
+
+
+
+  competitive salaries	
+  long term disability
+
+
+
+
+401(k)
+ life insurance
+
+
+generous paid time off package
+room for growth and advancement
+
+
+ tuition reimbursement
+special summer hours
+
+
+ medical and dental benefits
+customized work arrangements
+
+
+
+
+
+to apply for a position at centaurus, please send us your resume. due to the volume of resumes we receive, we are unable to contact all applicants. if there are not any positions that match your qualifications at the time you apply, we will keep your resume on file for future positions. 
+send resume to:
+                attn: human resources
+                600 e. las colinas blvd
+                suite # 1350
+                irving, texas 75039
+                phone : 972-501-9858 , 972-823-9858
+                fax : 972-924-5425
+                e-mail: jobs@centaurustek.com
+
+
+
+technology staffing
+it infrastructure services
+application development
+mobility services
+team
+csr
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+centaurus
+home
+about
+clients
+team
+testimonials
+csr
+
+
+
+
+staffing services
+technology staffing
+it infrastructure services
+application development
+mobility services
+
+
+
+
+
+legal
+privacy policy
+terms & conditions
+
+office location
+400 e royal lane suite # 203, irving, texas 75039.
+
+
+
+contact & support
+contact
+careers
+ (972) 501 9858
+ info@centaurustek.com
+
+
+
+â© 2014 centaurus technology partners.
+
+
+
+
+
+
+
+

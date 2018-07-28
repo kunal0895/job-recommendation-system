@@ -1,0 +1,182 @@
+
+
+
+
+associated universities, inc. careers - electronics engineer ii-iv (4271)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    associated universities, inc. careers                                            
+
+
+
+
+
+
+
+                electronics engineer ii-iv (4271)
+    
+    
+
+                            engineers, technical specialists and technicians            
+                                                socorro,
+                                        new mexico
+                                                
+                                        austin,
+                                        texas
+                                                
+                                        colorado springs,
+                                        colorado
+                                                
+                                        tempe,
+                                        arizona
+                                                
+                                        tucson,
+                                        arizona
+                                                
+                                        san josé,
+                                        california
+                                                
+                                        dallas,
+                                        texas
+                                                
+                                        denver,
+                                        colorado
+                                                
+                                        el paso,
+                                        texas
+                                                
+                                        flagstaff,
+                                        arizona
+                                                
+                                        fort worth,
+                                        texas
+                                                
+                                        lubbock,
+                                        texas
+                                                
+                                        san diego,
+                                        california
+                                                
+                                        albuquerque,
+                                        new mexico
+                            
+                        
+
+
+
+        apply
+    
+
+
+description
+
+updated position description:  position summarythe national radio astronomy observatory (nrao) is seeking to hire a digital electronics engineer who is experienced in writing high-quality code in c or c++ for digital signal processing using gpus and cluster computing. this engineer will help extend the capabilities of the very large array and very long baseline array, and will work to model and design the next generation very large array.  the nrao has a long history of developing new technology to enable forefront research in radio astronomy. this development occurs in a collaborative environment with technicians, engineers, and scientists. by joining nrao, an employee has a direct contribution to expanding the observatory’s state-of-the-art facilities and equipment used by scientists around the world. nrao currently has development programs under way in high-speed sampling, dsp, modeling and simulation, cluster computing, interference characterization, and machine learning.  this position requires electronics engineering experience that includes digital signal processing. the position is initially funded for two years, but is anticipated to continue indefinitely. the position is based at the science operations center in socorro, nm on the campus of new mexico institute of mining and technology (www.nmt.edu). socorro is a small, historical town in the rio grande valley, 75 miles south of albuquerque. in addition to competitive pay, nrao provides excellent paid time off benefits (vacation and sick leave). medical, dental and vision plans are effective first day of employment. nrao’s retirement benefit contributes an amount equal to 10 percent of a qualified participant’s base pay. no contribution is required of the employee; we also offer an optional supplemental, tax-deferred plan for employee retirement contributions. job duties summarythe successful candidate will work independently and with three or more engineers in a dynamic team environment to support ongoing developments for both future and existing instruments. responsibilities will include architecting, implementing, testing, and maintaining software used to model and process real-time astrophysical, meteorological, and diagnostic data. functional responsibilities for this position include:architecting, implementing, testing, and maintaining dsp softwarespecifying hardware for gpu and cluster computingwriting performant gpu code using cuda or openclcreating databases with concomitant rest and user interfacesdocumenting, testing, and maintaining all designslearning and maintaining existing systemscommunicating daily with other engineers, scientists, and analystsperforming other duties as assigned work environmentwork is typically performed in a laboratory environment, but the successful candidate may occasionally be required to work outdoors such as at the vla site. the successful candidate may be required to travel domestically and internationally by air carrier and to travel by car between nrao sites. position requirements:  minimum educationa bachelor’s degree in software engineering, electrical engineering, computer science or related field. preferred educationa master’s degree in software engineering, electrical engineering, computer science or related field. minimum experienceat least one year of experience with design, implementation, testing, and maintenance of digital signal processing and related software; a master’s degree in a relevant field may be considered in lieu of experience. preferred experiencefive or more years of experience with design, implementation, testing, and maintenance of digital signal processing and related software. competency summarythe successful candidate will have skills and demonstrated competencies in:developing and testing well-structured, maintainable softwareusing fourier transforms, filters, correlation, and other dsp toolswriting robust, maintainable, and efficient c/c++ code practicing good verbal and written communicationbeing a self-starter in a technical environmentworking within and between teams to develop maximally useful designsembracing solid design methodology, e.g. design reviews, documentation, and testing physical demandsmost work will be performed on a computer at a desk or a lab bench for extended periods. the employee will occasionally be required to lift and carry heavy lab equipment (up to 40 pounds) for relocation or installation of test apparatus, and to squat, kneel, or crawl to reach electrical/physical connections in tight spaces behind racks of under lab benches. additional requirements must maintain a current driver's licensemay be required to drive observatory vehicles the nrao is an equal opportunity employer (m/f/d/v)   the national radio astronomy observatory is a facility of the national science foundation operated under cooperative agreement by associated universities, inc.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

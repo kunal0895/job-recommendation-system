@@ -1,0 +1,60 @@
+
+
+
+
+spots - jobs: back-end developer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spots
+
+
+
+all jobs
+→
+back-end developer
+
+back-end developer
+atlanta, georgia, united states · development
+
+descriptionwe are looking for a back-end web developer responsible for managing the interchange of data between the server and the users. your primary focus will be development of server-side logic, definition and maintenance of the central database, and ensuring high performance and responsiveness to requests from a mobile front-end. you will also be responsible for automated testing platforms and unit tests.  responsibilities  database creation, integration, and management  develop around the django web framework to build server-side software   managing aws linux servers  content management system (cms) development, deployment, and maintenance   api integration  generating user analytics and statistics  backup and restore technologies for website’s files and db requirements experience with django web framework  experience with postgres database management experience with agile software development practices  willing to go to above and beyond in a fast-paced starts-up environment preferred additional experience  swift 3 react native  benefits 60k / yr fixed salary  opportunity to gain benefits, bonuses, and a salary raise after securing next round of funding (estimated early 2018)  
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+spots website
+
+powered by
+workable
+
+
+
+
+

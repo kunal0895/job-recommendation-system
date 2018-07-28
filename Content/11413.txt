@@ -1,0 +1,220 @@
+
+
+unavco careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+careers homejob listingslife at unavcofrom our presidentfaqscontact us
+
+
+
+ 
+
+job listingssearch current openingsupdate your profilecreate a job agentupdate job agentrecruiting agency loginbenefits
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					data engineer i
+				
+
+
+						tracking code
+					
+
+						142-532 
+					
+
+						job description
+					
+
+ 
+ 
+term of position:  initial term is from start date to september 30, 2018
+ 
+please note: we are unable to provide sponsorship for work authorization.  we are an equal employment opportunity employer.  we encourage diversity and prohibit discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, national origin, age, disability, genetic information or any other legally protected class under state or federal law.  
+ 
+for consideration, please apply via our website by december 15, 2017.  be sure to attach your cv/resume and a cover letter explaining how your skills and experience are a good match for unavco and this position. 
+ 
+summary:  unavco seeks a data engineer i to support the geodetic data services and opentopography (ot - http://www.opentopography.org/) programs at unavco headquarters in boulder, co. the data engineer will be responsible for geospatial data archiving, documentation and user support, and software prototyping and testing.  specifically, this position emphasizes high-resolution topography data collected with technologies such as airborne and terrestrial lidar, and photogrammetry. these datasets are collected by unavco staff and community, or are submitted by ot’s partners and collaborators.
+ 
+essential functions:
+the data engineer will work closely with unavco geodetic imaging staff (project manager, data engineer, field engineers) and the ot team (project manager at unavco, software engineering team at the san diego supercomputer center) to prepare data for load, approve and enhance metadata, generate digital object identifiers, test data and software systems, oversee data releases into the production system, and to troubleshoot data-related problems when they occur. the data engineer will also play an active role in the development of new data access and processing tools and interfaces, providing expertise on data and end user requirements.  
+ 
+the data engineer will be first line help-desk support for the ot-user community on technical issues and will provide consultation on data processing and analysis techniques. the data engineer will also assist with outreach and education, generating content for the ot news, blog, and social media, assisting with short courses, and representing the projects at community conferences. 
+ 
+this position requires earth science training as well as hands-on experience with high resolution topographic and other geospatial data and related software, processing, and analysis methods.  the data engineer will be part of a diverse team of earth and computer scientists and will be expected to be a team player, and effective communicator who is able to work independently on a variety of complex tasks.
+ 
+ 
+
+
+						required skills
+					
+
+
+strong written and spoken communication skills
+strong geographic information system (gis) skills, including an understanding of raster versus point cloud data formats, geospatial coordinate systems, and geospatial data processing workflows.
+familiarity with gis software such as esri arcgis, gdal, qgis, global mapper, envi, google earth.
+ability to work independently and to manage numerous tasks simultaneously. must also be comfortable working closely with colleagues and collaborating with remote team members.
+
+ 
+ 
+
+
+						required experience
+					
+
+
+bachelor’s degree in physical sciences or related field, with a preference for earth sciences or physical geography.
+experience managing and processing large volumes of point cloud data with software such as lastools, liblas, pdal, quick terrain modeler, riegl riscan pro, leica cyclone.
+
+desired skills and knowledge:
+
+advanced understanding of the complete lidar and photogrammetry topographic data workflow, from data acquisition to dataset deliverables and processing and analysis.
+familiarity with html/javascript, web frameworks and content management systems.
+linux operating systems, and fundamental command line navigation and data management tasks including scripting.
+experience with imaging processing/analysis using scripting languages like python, matlab, r, or similar
+experience with graphic generation and editing software, (e.g., adobe suite).
+experience with project management/task tracking software such as jira.
+an understanding of geospatial metadata and related standards.
+proven attention to detail.
+
+
+
+						job location
+					
+
+						boulder, colorado, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+						salary
+					
+
+						48,000.00 - 60,000.00 usd
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+| site map |
+copyright 2017 unavco all rights reserved.
+
+
+
+
+
+
+
+
+
+
+

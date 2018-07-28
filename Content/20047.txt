@@ -1,0 +1,196 @@
+ 
+
+
+
+
+
+
+
+
+
+bi data engineer #0103 job at ptp in gold river, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+bi data engineer
+professional services | gold river, ca | full time and contract
+
+
+
+
+
+
+job description
+
+
+about us:
+we are a growing company with a solid customer base, excellent compensation and benefits, and a collaborative yet flexible work environment.  if you enjoy challenging projects, using new technologies to deliver innovative business solutions, and you're interested in working for an entrepreneurial company, we may have a home for you.
+bi data engineer
+
+
+ptp is seeking an experienced bi data engineer to join our team of qualified, diverse consultants. this position is located in sacramento, california.
+the bi data engineer position requires strong business and technical skills. responsibilities include data modeling, batch processing, data matching, data search, and duplicate record checking. it also includes integrating data quality tools in a microsoft environment. excellent communication skills and working as part of an integrated team are critical.
+tasks and responsibilities:
+
+assist with the design, development, implementation, and support of the customer’s business intelligence and business analytic (biba) platform’s data architecture, including assessment of the client's current model, and offer suggestions to improve performance, data handling, and development process efficiencies.
+lead developer to integrate new data quality components within the client's biba platform
+develop and support of detailed dimensional data models.
+develop detailed multi-dimensional (i.e. olap) databases in conjunction with team members.
+provide etl design, development, implementation and support of the customer’s business intelligence & business analytic data for the warehouse.
+assist and guide customer technical staff in extracting data from the source system into the data warehouse staging area, ensuring data validation, data accuracy, data type conversion, and business rule application.
+prepare documentation, as part of the knowledge transfer process, which will enable the customer’s technical team to continue with the ongoing maintenance and operations of the biba system.
+design, develop, refactor, and support web service calls to stored procedures to consume data.
+
+mandatory qualifications:
+
+a bs degree in information systems, computer science, or software engineering related field.
+experience with microsoft sql server 08/12/14, ssis, ssas, ssrs, pps; including experience with customer systems that have over 15 million record updates daily.
+experience developing and calling web service apis
+experience with microsoft visual studio 2010 and team foundation server 2010.
+experience with data requirements gathering and analysis.
+experience with integrating data quality tools from companies such as experian, trillium, informatica, etc.
+experience with data requirements gathering and analysis
+familiarity with multi-dimensional (olap) databases.
+experience translating dimensional data models into physical data structures.
+familiarity with data management and database administration concepts, principles, and processes.
+experience working as a bi data engineer on at least one project involving the design, development, implementation, and deployment of a bi software solution using the microsoft bi toolset.  for this requirement, the amount of experience gained on each project must have been at least six full-time equivalent months.
+experience working as a bi etl developer on at least one it project involving the design, development, implementation, and deployment of a bi software solution relatively large in size and complexity (over 15 million records).
+
+desired qualifications:
+
+experience with government technology projects.
+excellent verbal and written communication skills and the ability to interact professionally with a diverse group including executives, managers, and subject matter experts (technical and non-technical).
+
+salary is doe and is extremely competitive.  we are able to offer relocation assistance to the right candidate.
+ 
+
+
+
+
+
+return to ptp
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to ptp
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

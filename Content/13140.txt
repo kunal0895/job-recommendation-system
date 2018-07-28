@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+software engineer, core engineering at disney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+japen-menu
+back
+
+english
+简体中文
+繁體中文
+日本語
+français
+deutsch
+español
+português
+
+
+
+
+choose a language
+
+
+
+
+
+
+
+
+help tell our stories in the most innovative ways!
+
+
+
+
+
+
+job search
+
+
+keyword
+
+
+
+country
+
+select country
+united states
+canada
+mexico
+bahamas
+puerto rico
+china
+hong kong
+indonesia
+japan
+singapore
+malaysia
+thailand
+vietnam
+phillipines
+ireland
+spain
+italy
+sweden
+switzerland
+belgium
+czech republic
+denmark
+finland
+greece
+hungary
+luxemburg
+netherlands
+new zealand
+norway
+poland
+portugal
+turkey
+germany
+austria
+france
+argentina
+brazil
+colombia
+chile
+united arab emirates
+israel
+australia
+south africa
+united kingdom
+india
+
+
+
+state/region
+
+select state/region
+
+
+select state/region
+californiafloridashanghai shienglandnew yorkwashingtontexasconnecticuthawaiiguangdong shengbeijing shimaharashtracentral and westerncentral singaporesouth carolinaillinoispennsylvaniasichuan shengnorth carolinaarizonabangkokalbertabritish columbiadistrict of columbianevadanational capital regionvictoriabavariamarylandoklahomatennesseenew jerseyutahkarnatakadaerah khusus ibukota jakartawan chaiscotlandstockholmtel avivontariogeorgiamissouriohiocoloradooregonvirginiaho chi minh citynew south walesaragonwalesleinsterile-de-franceatticasan juanmanitobakansaslouisianamichigannew hampshirenew mexicoregion ile-de-francebuenos airesdistrito federalsao paulotokyo
+
+
+
+city
+
+select city
+
+
+select city
+burbankglendaleorlandonew yorklake buena vistashanghaianaheimlondonhammersmithsan franciscocelebrationseattlebristolkapoleibeijingmumbaihong kongsingaporehilton headlos angelesguangzhouphiladelphiahoustonchengduchicagodurhambangkokkissimmeesan antonioshenzhenwashingtonsan josedestinfresnolas vegasmakati citysouth yarraedmontonkelownavero beachtulsaculver citypasadenatucsonbengalurujakartacauseway baystockholmmunchentel avivcalgarytampamiamiclarksburgbransoncypressmercedesschaumburgparamuscentral valleyarcadiasherman oaksdaly citygilroyoremhonoluluwoodbridgeho chi minh citysydney cbdzaragozacardiffaberdeenglasgowwatfordgatesheadchelmsfordbristoldartfordleedsreadingmunichdublinparisathenssan juanrocky viewsurreyvancouverwinnipegbarrievaughanpembroke pinesjacksonvillelutzfort myersaventuradawsonvillealpharettaoverland parkmetairiehanovercharlottemyrtle beachnashvilleseviervillememphistexas citysan marcosmcallenthe woodlandsfort worthlaredocedar parkround rockcanutilloauroraauburn hillsmerrimackedisonelmhurststaten islandriverheadmonroecincinnatiemeryvillenewarkconcordhollywoodmontebellosanta monicavalenciasalinasrosevilletemeculasacramentomontclairel cajonsan diegosolana beachsanta clarasanta rosamodestothousand oaksventuralone treebroomfieldalbuquerquesalt lake citychandlergilbertglendaletempehappy valleywoodburnbellevuetukwilatulalipparistokyo 
+
+
+
+search
+
+
+
+already applied?
+view dashboard
+
+
+
+
+
+
+
+
+software engineer, core engineering
+apply now
+
+job id 
+                        508738br
+                    
+
+
+location 
+                    new york, new york, united states
+                
+
+
+business 
+                        the walt disney company (corporate)
+                    
+
+
+brand
+                    bamtech media
+                
+
+date posted
+                11/20/2017
+            
+
+bamtech media is a place for the creative and the bold. we’re seeking talent across disciplines to join our team. whether new york city, san francisco, manchester or amsterdam we provide opportunities to elevate your career and transform an industry.core engineering is a distributed team that owns internal tools used to deploy the services that make up bamtech's products. built for aws with a variety of open source software, our tools are used by dozens of engineering teams across the company. we strive to act as a productivity multiplier by offering our customers rich primitives for delivering their services, allowing them to focus more on product.as a member of core engineering, you will build tools and services to support exponential growth in bamtech's product and partner portfolios. you'll also collaborate to enable cloud-native practices and new developer workflows. you should have a passion for software engineering, distributed systems, and automation.this position can be worked remotely, or from our locations in nyc,or san francisco.                                    responsibilitiesdevelop and deploy tools and services to automate the infrastructure and software lifecyclesengineer restful and graphql-based services in go and rubybuild data pipelines for metrics, logs, and event streams using elasticsearch, dynamodb, and s3address persistence requirements in increasingly ephemeral environmentsease adoption of cloud-native concepts and technologies for the wider engineering organizationwork directly with our customers to drive adoption basic qualificationsexperience building software on *nix platformsyou're a self-learner, independent, and have excellent problem-solving skillsyou care deeply about craftsmanship in your software, and can work backwards from the customeryou have excellent written and verbal communication skills preferred qualificationsexperience with software containers (e.g. docker, rkt, runc) and schedulers (e.g. ecs, kubernetes, nomad)you have successfully applied immutable infrastructure patternsyou've worked with and improved the reliability of distributed systemsyou've deployed and operated geographically distributed, redundant servicesengagement with open source communitiestechnologies we love:languages: go, ruby, bashtools: docker, git, graphite, graphql, jenkins, logstash, packer, puppet, sensudata stores: dynamodb, elasticsearch, postgresql, redis required education
+bs or ms degree in computer science, or equivalent experience company overview
+bamtech is a streaming technology joint venture between the walt disney company, major league baseball advanced media, and the national hockey league. bamtech handles streaming for numerous partners, some of which include, hbo, mlb, nhl, eurosport, espn, and world wrestling entertainment.  fans demand access to content on their own terms on any device, anytime, anywhere. we are those fans. as a result, the bamtech media team helped pioneer live event streaming over the internet in 2002 for major league baseball. the passion to improve that experience led to many impressive firsts: the first 720p or “hd ready” stream, the consecutive record for concurrent streams and the first stream in 8k ultra hd. today, bamtech has a proven, scalable platform that powers direct-to-consumer applications for leading entertainment brands; and is now a major player in sports and esports rights acquisition.                                    additional informationthis position is a legal entity of the walt disney company, an equal opportunity employer.            
+apply now
+
+
+
+
+
+
+
+share this job
+
+facebook
+linkedin
+twitter
+google+
+email
+
+
+
+
+
+
+watch our jobs
+
+sign up to receive new job alerts and company information based on your preferences.
+email addressspecify locationssearch for a category and select one from the list of suggestions. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.categorylocationaddcorporate, new york, new york, united statesremovethe walt disney company, new york, new york, united statesremovetechnology, new york, new york, united statesremovebamtech media, new york, new york, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+facebook
+linkedin
+twitter
+youtube
+instagram
+
+
+
+
+jobs by location
+jobs by category
+jobs by group
+jobs by business area
+
+
+
+
+help & guest services
+site map
+terms of use
+privacy policy
+your california privacy policy
+children's online privacy policy
+interest-based ads
+about disney
+
+
+©2017 disney. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+

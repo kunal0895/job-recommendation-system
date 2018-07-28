@@ -1,0 +1,179 @@
+
+
+
+sayres and associates - careers -senior data systems engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+senior data systems engineer
+
+
+
+senior data systems engineer
+
+
+
+
+id 
+
+2017-1979
+
+
+
+
+job location 
+us-ca-san diego
+
+
+
+
+
+posted date 
+
+11/29/2017
+
+
+
+
+
+
+
+
+
+more information about this job
+
+
+
+
+overview
+
+
+
+
+
+
+
+sayres and associates corporation (sayres) is a dynamic, native american-owned, service disabled veteran owned small business that has been providing excellence in service to the federal government since 2001. we offer a broad spectrum of security, management, technical and engineering services including program administration, policy analysis, counterintelligence cyber security, acquisition management, acquisition logistics, integrated product support, production management, business financial management, systems engineering, systems integration, system test and evaluation. sayres is headquartered in washington, dc with offices throughout the united states and has a presence abroad. our success can be attributed first to a proven track record of performance excellence based on our customer-focused approach to services. we have demonstrated experience effectively managing large contractor teams across multiple functional areas for major programs. perhaps most importantly, sayres offers financial stability and organizational maturity comparable to a large company, coupled with the agility of a small business, providing cost effective solutions and best value to our customers. awarded the u.s. small business administration, washington metropolitan district office's 8(a) graduate of the year for 2017, sayres and associates corporation continues to grow in a highly competitive environment while exceeding customers' expectations and providing a work experience conducive to personal and professional development.  visit our website to learn more about sayres and current opportunities (www.sayresandassociates.com). 
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+
+the senior data systems engineer will provide support to peo c4i / pmw 160 tactical networks portfolio, which includes adns, canes, and legacy networks.  duties and responsibilities: develop technical roadmaps to identify new technology insertion opportunities that align with other pmw 160 programmatic roadmaps.build inventory of various data sources available and conduct preliminary analysis on data health and utility.perform analysis of mission, tactics, equipment, c4i interfaces, and resource allocations to new and developing systems/programs. identify areas to inject innovation and data science to support the mission.develop rapid proof of concepts and experiments to test feasibility of data science approaches, identify needed resources, and uncover lessons learned in implementing new techniques. analyze the results of tests and/or demonstrations of available or near-term technologies and report on the feasibility of a quick migration/deployment of the technologies ahead of the normal por cycle.support science and technology (s&t) concept of operations (conops) with technical analysis & assessments.contribute to and review acquisition and engineering documentation (e.g. spawar architecture working group artifacts, peo c4i masterplan, etc.)represent the technical director and participate in technical reviews, industry engagements, ipts, etc.manage innovation exploration opportunities, capture ideas and issues that need innovation, assist in execution of approved innovation events, and evaluate the results of innovation events.this position description is only meant to be a representative summary of the major responsibilities and accountabilities performed by the incumbents of this position.  the incumbents may be requested to perform position-related tasks other than those stated in this description.
+
+
+
+
+
+
+
+qualifications & clearance requirements
+
+
+
+
+
+
+
+basic qualifications: technical experience in machine learning and the implementation of such techniques in support of network system management, cybersecurity, and data analytics.2-4 years of experience implementing machine learning and/or assessing maturity and feasibility of such techniques through experimentation.5+ years of professional experience in data science/data analytics/data management.minimum of 2 years performing data science for large federal government organizations.1 year experience working with peo c4i programs and tactical networks.1 year experience running analytics on super computers or distributed computing. advance experience using machine learning programming languages like python or r.basic understanding of ship and shore-based navy communications and network infrastructure systems.secret clearance required, top secret preferred. verifiable in jpas.ma or ms degree. it security certifications are desired.all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, gender identity, disability or veteran status.
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+
+
+
+go back to the welcome page
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

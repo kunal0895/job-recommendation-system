@@ -1,0 +1,573 @@
+
+
+circle | data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+there was an error
+
+ok
+
+circle uses cookies - using this site or closing this alert means you agree to our policy on cookies.
+
+
+
+
+
+ui-close
+
+sign in
+get the app
+why circle
+
+      no fees. ever.
+    
+
+      your money is safe
+    
+company
+
+      about
+    
+
+      press
+    
+
+      blog
+    
+
+        careers
+      
+
+          trading
+        
+get in touch
+
+      contact us
+    
+
+        help center
+      
+
+
+
+
+
+sign up
+sign in
+
+ us 
+
+ us
+  uk
+ ie
+ es
+ fr
+ de
+ it
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+      about
+    
+
+        security
+      
+
+      press
+    
+
+      blog
+    
+
+      careers
+    
+
+      contact us
+    
+
+
+
+
+
+
+
+
+
+back to all openings
+all openings
+
+
+data engineer
+
+
+
+
+
+
+
+san francisco, caat circle, we're shaking up the global economy by making money simple. with us, you can send money like a text — instant, secure and free — whether your friend is across the table or across the ocean. how exactly are we doing this? unlike existing systems that are closed and proprietary, we use open internet standards and protocols, including the blockchain (allowing us to offer this service for free). our mission is to connect every person in the world by exchanging value across borders, between currencies and among friends.as a data engineer at circle, you’ll work closely with the data science team productizing machine learning solutions and developing the scalable data pipelines that support these solutions. you’ll have the opportunity to significantly impact internal data consumption and decision making (risk and compliance, growth, and marketing) as well as our customer experience. as part of our team, you’ll own software throughout the entire development life-cycle. you’ll contribute ideas to improve our product and processes, make decisions that have significant impact, and provide feedback so we can continue to get better. you’ll get the opportunity to develop your skills, collaborate across teams and continue to learn. 
+
+projects we are working on (and you may work on, too)
+
+productize machine learning models and build a world class automated evaluation system to manage risk exposure while delivering the best possible experience to our customersdesign, build, and implement scalable streaming data pipelines and etl frameworks to increase data access and decrease analysis and decision times across the organizationbuild an open transaction protocol where users can send money and exchange value that leverages both new and traditional technologies to deliver value the fastest and cheapest way possibleleverage blockchain technology in a new transaction framework so that financial institutions an exchange value and associated metadata in a compliant manner.
+
+what you'll bring to circle
+
+experience writing high quality code in python plus another oop language (java, scala, c++, go, etc)experience working with rdbm systems, particularly familiarity with sql3+ years experience building distributed solutions in spark, mapreduce or other mpp system with associated data models and datastores (e.g., redshift, cassandra, hbase, parquet)production development of event-based applications using frameworks such as kinesis, kafka, spark streaming, or similarfamiliarity with machine learning techniques, continuous deployment pipelines and tools, and aws technology stack a plusdesire to work across internal teams to identify requirements and iterate on solutionsdebug complex production issues across various levels of the tech stackinterest in impacting the way money moves between people
+
+
+circle was founded in 2013 by internet entrepreneurs jeremy allaire and sean neville and we're backed by $140 million from investors including jim breyer (facebook), goldman sachs, idg capital (baidu, tencent), general catalyst (airbnb, snapchat) and accel partners.check us out at circle.com and download circle pay for ios and android today.
+
+
+
+
+
+apply for this position
+
+
+
+
+
+
+first namerequired
+
+
+
+last namerequired
+
+
+
+email addressrequired
+
+
+
+phone numberrequired
+
+
+
+website/linkedin profilerequired
+
+
+
+attach resume
+
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!required
+
+0/150
+
+
+captcha is required
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we speak money. we believe sharing money should be instant, free, secure and fun — among friends, across borders and between currencies. so, no matter where you are in the world, everybody is part of the conversation.
+
+
+
+why circle
+
+
+
+                  no fees. ever.
+                
+
+
+
+                  your money is safe
+                
+
+
+
+
+get in touch
+
+
+
+                  contact us
+                
+
+
+
+                    help center
+                  
+
+
+
+
+
+
+company
+
+
+
+                  about
+                
+
+
+
+                  press
+                
+
+
+
+                  blog
+                
+
+
+
+                    careers
+                  
+
+
+
+                      trading
+                    
+
+
+
+
+
+
+get in touch
+
+
+
+                  contact us
+                
+
+
+
+                    help center
+                  
+
+
+
+
+
+
+
+
+
+social-icons
+
+
+social-icons
+
+
+social-icons
+
+
+ui-icon
+
+
+
+
+© 2017
+            
+              circle internet financial limited
+            
+          
+
+
+              privacy
+            
+
+              user agreement
+            
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,750 @@
+
+
+
+
+
+
+		full stack web developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+full stack web developer
+technology development – salt lake city, utah
+
+
+apply for this job
+
+
+
+
+department
+technology development
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+compensation
+doe
+
+
+
+
+
+
+
+
+
+
+company overview 
+readymed is a healthcare technology company in salt lake city that provides a platform and services designed to help healthcare organizations more effectively find, hire and work with leading industry experts.  
+job posting 
+readymed is a well-funded healthcare technology company in salt lake city looking for a full stack web developer to help build a world class user interface for our customers.  the ideal candidate will have the skills to work on architecting, designing and implementing our entire site from backend database design to application development.  this is a unique opportunity to get in on the ground floor within a fast growing business and help shape the future of the healthcare business.    
+-     <!--[endif]-->work with our ui/ux team to help implement product design thinking
+<!-- [if !supportlists]-->-     <!--[endif]-->lead a small team of developers to architect, design and implement our software solution.
+qualified candidates possess
+<!-- [if !supportlists]-->-     <!--[endif]-->bachelor’s degree – preferably in computer science or a similar degree.  
+<!-- [if !supportlists]-->-     <!--[endif]-->strong understanding of cs fundamentals, object oriented design and data structures
+<!-- [if !supportlists]-->-     <!--[endif]-->experience translating design mockups and prototypes into working application designs.
+<!-- [if !supportlists]-->-     <!--[endif]-->5 + years professional experience in software development.  experience using the following technology:
+<!-- [if !supportlists]-->o    <!--[endif]-->mongodb
+<!-- [if !supportlists]-->o    <!--[endif]-->node.js
+<!-- [if !supportlists]-->o    <!--[endif]-->angular 2
+<!-- [if !supportlists]-->o    <!--[endif]-->bootstrap 4aws
+<!-- [if !supportlists]-->o    <!--[endif]-->docker containers
+<!-- [if !supportlists]-->-     <!--[endif]-->be self-motivated and hard-working (able to maintain a high level of activity, management multiple competing priorities, and work effectively in a results-driven culture)
+<!-- [if !supportlists]-->-     <!--[endif]-->must have a positive attitude
+<!-- [if !supportlists]-->-     <!--[endif]-->excellent leadership, communication, project management, and organizational skills
+<!-- [if !supportlists]-->-     <!--[endif]-->genuinely excited about technology and strong interest in learning and playing with the latest technologies 
+<!-- [if !supportlists]-->-     <!--[endif]-->able to work in a collaborative environment
+ability to work in a fast paced and agile development environment
+what we offer
+readymed offers a competitive compensation commensurate with experience, along with a comprehensive benefits package including medical, dental and vision insurance, 401(k) retirement plan, health savings account (hsa), unlimited pto policy, incentives (gift cards, event tickets, etc.), on-site exercise room, and company-provided food/drink. 
+
+readymed is an equal opportunity employer. this company does not and will not discriminate in employment and personnel practices on the basis of race, sex, age, disability, religion, national origin or any other basis prohibited by applicable law. hiring, transferring and promotion practices are performed without regard to the above listed items.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+salt lake city, utah
+
+
+department
+technology development
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+compensation
+doe
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

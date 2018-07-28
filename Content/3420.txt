@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+monster solutions
+						    embedded software development engineer - (20627)
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+attention safari users: this site requires cookies to function. please click here to accept the cookie. cookies will be used strictly for the functioning of the site.
+
+
+
+
+
+
+ 
+
+
+
+
+jump to
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+ job search
+
+
+ view all jobs
+
+
+
+
+ create account
+
+
+ login
+
+
+ help 
+
+instructions on this page
+help on this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+job details
+
+
+
+embedded software development engineer - (20627)
+×close this details all the information about the job posting.     
+
+
+
+
+
+
+
+
+
+
+
+
+share this job as a link in your status update to linkedin.
+
+
+
+
+
+
+
+
+
+
+
+														
+																	category (for job seekers)
+																
+															
+
+								engineering
+															
+
+
+
+														
+																	location
+																
+															
+
+								13111 - oil gas sensorwise - houston, 77042 us (primary)
+
+
+
+
+														
+																	job description
+																
+															
+
+sanmina corporation (nasdaq: sanm) is a leading integrated manufacturing solutions provider serving the fastest-growing segments of the global electronics manufacturing services (ems) market. recognized as a technology leader, sanmina corporation provides end-to-end manufacturing solutions, delivering superior quality and support to original equipment manufacturers (oems) primarily in the communications networks, defense and aerospace, industrial and semiconductor systems, medical, multimedia, computing and storage, automotive and clean technology sectors. sanmina corporation has facilities strategically located in key regions throughout the world.
+as an individual contributor in a software development team, this position involves design and development of embedded software for new embedded products as well as provides software support and enhancements to existing embedded systems.
+ 
+nature of duties:
+
+design and develop robust software for data acquisition and control systems using c.
+
+
+architect and implement communication protocols for the embedded system.
+
+
+develop low level communication, flash, fram drivers.
+
+
+develop signal processing algorithms in matlab.
+
+
+study algorithms designed by customers and effectively implement these algorithms in the embedded system. this requires solid understanding of the dsp features available in the embedded processor.
+
+
+use emulators debuggers, scope to develop, test, troubleshoot software
+
+
+review and actively participate in electrical schematic reviews and provide input on processor selections.
+
+
+debug and test fundamental functionality of the developed software at a system level.
+
+
+provide test plan and conduct board level tests for prototype boards.
+
+
+document and release test software and application software using version control software.
+
+
+provide well documented test procedure to manufacturing and train manufacturing test group when the product enters production phase.
+
+         
+education and experience:
+degree: bachelors (masters preferred) degree in electrical and computer engineering
+experience: 5-8 years’ experience
+languages: c, c++, matlab, python, labview
+processors: arm, microchip pic, ti dsps, analog device dsps
+other:
+	
+familiar with communication protocols such as i2c, spi, can, uart, 1553, udp, tcp/ip.
+
+
+oil and gas industry experience preferred.
+
+
+familiar with software version control repository systems like tortoise svn or github.
+
+
+knowledge of rtos a plus
+
+
+ 
+eeo employer vets/disabled
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ apply to this job
+
+
+ 
+or
+
+
+
+
+
+
+
+ 
+ send to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ top of page
+
+
+						v14.3.5.1 | copyright © 2017 monster - all rights reserved - u.s. patent no. 5,832,497 - nyse: mww 
+													powered by monster.
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

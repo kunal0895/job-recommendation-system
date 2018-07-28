@@ -1,0 +1,240 @@
+
+
+
+
+job application for cloud software engineer at acquia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+cloud software engineer
+
+        at acquia
+      
+
+        boston,ma
+      
+
+
+job title: ​cloud software engineer department & organization: ​engineering level: ​professional location:​ boston, ma
+acquia, is transforming the digital strategies of companies all over the world with our open cloud platform. we are passionate and relentlessly committed to helping our clients create digital experiences that are more relevant, personalized, and built for a fast-changing, always-connected, mobile-first world. headquartered in the us, we have been named as one of north america’s fastest growing software companies as reported by deloitte and inc. magazine, and have been rated a leader by the analyst community and named one of the best places to work by the boston business journal. we are acquia. we are building for the future of the web, and we want you to be a part of it.
+summary:
+acquia runs one of the world's largest platform as a service (paas) offerings. our drupal optimized cloud runs on over 18,000 aws instances and delivers billions of page views monthly for our clients, running some of the largest and most mission-critical websites in the world. we are seeking exceptional cloud infrastructure engineers who desire to deliver world-class performance & reliability and build powerful tools for software developers to effortlessly scale their web applications. at acquia, we are obsessive about our customers' uptime, security, scalability and developer experience and are looking for engineers who are equally passionate.
+our cloud engineering team utilizes a variety of programming languages and technologies to tackle many interesting architecture and scalability challenges. although we run php & mysql at a massive scale for our drupal customers, on the backend we’re building scalable systems, automation and stack enhancements in everything from ruby to php to go, and storing data in everything from mysql to dynamodb.
+at acquia we work on a variety of exciting projects ranging from running massive microservice infrastructures, to building highly available database clusters using the latest technologies, to building streaming log pipelines and ultimately being the best place in the world to run drupal websites. we’re one of amazon’s largest partners and run our workloads in 9 aws regions. 
+job description:
+
+work in an agile devops team owning and operating the services you build
+design and develop the service that manages acquia cloud persistent data resources, business logic and aws integration
+research, specify, and test cloud hosting architectures leveraging your web, database, and architectural knowledge
+debug the toughest distributed systems production issues
+
+job requirements: 
+
+strong object oriented programming experience with a scripting language such as ruby, python, php, etc.
+knowledge of distributed file system or database replication technologies
+passion for services, websites and website delivery architecture
+deep, working knowledge of lamp stack--os, web server, and database systems (linux, apache, and mysql preferred)
+holistic understanding of the internet and hosting from the network layer up through the application layer.
+5+ years of related experience
+background with service oriented architecture, building scalable, reliable systems
+
+extra credit: 
+
+languages: php, ruby, go, python
+cloud hosting experience (e.g., amazon web services, google compute, azure, etc.)
+configuration management (e.g., puppet, ansible, chef, git)
+containerization:  docker, lxc, etc.
+web security and compliance experience (e.g., firewalls, ids/ips systems, dos prevention and pci, hipaa, fedramp, etc.)
+networking (e.g., tcp/ip, routing, dns, load balancing, http caching, clustering, vpn, etc.)
+linux packages (e.g., debian or rpm packages); rhel and ubuntu experience
+automated testing experience--jenkins, travisci, unit tests, system tests, etc. 
+
+acquia is an equal opportunity (eeo) employer. we hire without regard to age, color, disability, gender (including gender identity), marital status, national origin, race, religion, sex, sexual orientation, veteran status, or any other status protected by applicable law.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

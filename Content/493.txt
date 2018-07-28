@@ -1,0 +1,640 @@
+
+
+
+
+job application for data developer at cars.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data developer
+
+        at cars.com
+      
+
+        300 s. riverside
+      
+
+
+
+
+
+
+job description
+cars.com is one of chicago’s original tech companies. our online platform makes it easier for consumers to shop for, sell and service their cars. with our expert content, mobile app features, millions of new and used vehicle listings, a comprehensive set of research tools and the largest database of consumer reviews in the industry, cars.com offers innovative products to connect consumers with dealers across the country.
+data is the driver for our future at cars. we’re searching for collaborative, analytical, and innovative engineers to help utilize the almost 20 years of data we have at our disposal. if you are passionate about using data to solve problems and build game changing products, we’d love to work with you!
+responsibilities include:
+
+collaborate with product owners, data scientists or other developers in a lean/agile environment.
+develop, scale and optimize real-time etl or batch data processing jobs.
+analyze potential data issues to determine the root cause and implement effective solutions
+
+
+
+required skills
+
+
+
+expertise in sql programming, relational databases, and data modeling.
+3+ years of solid experience with either mpp databases or rdbms and nosql technologies like teradata, oracle, and couchbase.
+solid understanding of relational data structures and data integration techniques.
+experience with etl tools such as ibm datastage or talend.
+proficiency with one or more programming languages like java, r and scala.
+proficiency with scripting languages such as bash or python in unix/linux environments.
+strong written and verbal communications skills
+bs or ms degree in computer science, engineering, or similar field
+
+preferred:
+
+experience with internet scale data engineering in an e-commerce setting.
+understanding of hadoop or other big data platforms.
+prior experience extending or migrating existing data pipelines to cloud platforms such as aws
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ add another
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+country of residence *
+
+
+
+please selectafghanistan
+albania
+algeria
+andorra
+angola
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bhutan
+bolivia
+bosnia and herzegovina
+botswana
+brazil
+brunei
+bulgaria
+burkina faso
+burma
+burundi
+cambodia
+cameroon
+canada
+cabo verde
+central african republic
+chad
+chile
+china
+colombia
+comoros
+republic of the congo
+costa rica
+cote d'ivoire
+croatia
+cuba
+curacao
+cyprus
+czechia
+denmark
+djibouti
+dominica
+dominican republic
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+fiji
+finland
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+grenada
+guatemala
+guinea
+guinea-bissau
+guyana
+haiti
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+jordan
+kazakhstan
+kenya
+kiribati
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macau
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+namibia
+nauru
+nepal
+netherlands
+new zealand
+nicaragua
+niger
+nigeria
+north korea
+norway
+oman
+pakistan
+palau
+palestinian territories
+panama
+papua new guinea
+paraguay
+peru
+philippines
+poland
+portugal
+qatar
+romania
+russia
+rwanda
+saint kitts and nervis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south korea
+south sudan
+spain
+sri lanka
+sudan
+suriname
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+timor-leste
+togo
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+vanuatu
+venezuela
+vietnam
+yemen
+zambia
+zimbabwe
+
+
+address *
+
+please enter your full address. example: 123 main street chicago, il 60604
+
+
+
+
+
+primary contact method
+    
+
+
+please selectphone
+email
+
+
+are you authorized to work in united states? *
+
+
+
+please selecti am authorized to work in this country for any employer.
+i am authorized to work in this country for my present employer only.
+i require sponsorship to work in this country.
+my status to work in this country is unknown.
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+built in chicago
+cars.com website
+college campus recruiting
+facebook
+glassdoor
+handshake
+indeed
+ita
+job fairs / conferences
+linkedin
+referral (please specify)
+other
+twitter
+
+
+referrer's name *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        school name
+          *
+
+
+
+
+
+
+        degree
+          *
+
+
+high school
+associate's degree
+bachelor's degree
+master's degree
+master of business administration (m.b.a.)
+juris doctor (j.d.)
+doctor of medicine (m.d.)
+doctor of philosophy (ph.d.)
+engineer's degree
+other
+
+
+
+        discipline
+          *
+
+
+accounting
+african studies
+agriculture
+anthropology
+applied health services
+architecture
+art
+asian studies
+biology
+business
+business administration
+chemistry
+classical languages
+communications & film
+computer science
+dentistry
+developing nations
+discipline unknown
+earth sciences
+economics
+education
+electronics
+engineering
+english studies
+environmental studies
+european studies
+fashion
+finance
+fine arts
+general studies
+health services
+history
+human resources management
+humanities
+industrial arts & carpentry
+information systems
+international relations
+journalism
+languages
+latin american studies
+law
+linguistics
+manufacturing & mechanics
+mathematics
+medicine
+middle eastern studies
+naval science
+north american studies
+nuclear technics
+operations research & strategy
+organizational theory
+philosophy
+physical education
+physical sciences
+physics
+political science
+psychology
+public policy
+public service
+religious studies
+russian & soviet studies
+scandinavian studies
+science
+slavic studies
+social science
+social sciences
+sociology
+speech
+statistics & decision theory
+urban studies
+veterinary medicine
+
+
+
+        start date
+          *
+
+
+
+
+
+
+        end date
+          *
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

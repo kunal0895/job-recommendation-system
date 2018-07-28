@@ -1,0 +1,60 @@
+
+
+
+
+quantumblack - jobs: data engineer (boston) - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer (boston)
+
+data engineer (boston)
+boston, massachusetts, united states · engineering
+
+descriptionquantumblack helps companies use data to drive decisions. we combine business experience, expertise in large-scale data analysis and visualization, and advanced software engineering know-how to deliver results. from aerospace to finance to formula one, we help companies prototype, develop, and deploy bespoke data science and data visualisation solutions to make better decisions           you’re passionate about data and the opportunity it provides to organisations. you ‘get’ big data and cloud computing for more advanced data processing and analytics, and are excited about these technologies. you are equally comfortable talking to senior client stakeholders to understand their data as well as designing the ingestion process to store the data locally and preparing it for data analytics. you have experience in handling vast amounts of data – working on database design and development, data integration and ingestion, designing etl architectures using a variety of etl tools and techniques. you are someone with a drive to implement the best possible solutions for clients and work closely with a highly skilled data science team.  what you'll do  work with our clients to model their data landscape, obtain data extracts and define secure data exchange approaches plan and execute secure, good practice data integration strategies and approaches acquire, ingest, and process data from multiple sources and systems into big data platforms create and manage data environments in the cloud collaborate with our data scientists to map data fields to hypotheses and curate, wrangle, and prepare data for use in their  advanced analytical models have a strong understanding of information security principles to ensure compliant handling and management of client data this is a fantastic opportunity to be involved in end-to-end data management for cutting edge advanced analytics and data science requirements commercial client-facing project experience, including working in close-knit teams ideally have 3+ years of relevant data engineering/etl experience  a proven ability in clearly communicating complex solutions data security & governance expertise strong experience in traditional data warehousing / etl tools (informatica, talend, pentaho, datastage) experience and interest in big data technologies (hadoop / spark / nosql dbs)  experence working with cloud (aws and azure) strong sql experience, and optional python / scala / java / r exceptional attention to detail 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+quantumblack website
+
+powered by
+workable
+
+
+
+
+

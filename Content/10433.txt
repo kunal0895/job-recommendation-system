@@ -1,0 +1,583 @@
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist with cvs health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+cvshealth.com
+
+
+
+main menu
+
+
+aboutabout
+our servicesretail pharmacy
+pharmacy benefits management
+clinical services
+specialty pharmacy
+digital services
+
+leadership
+diversityemployee and consumer rights
+supplier diversity
+veterans
+workforce
+multicultural products and services
+
+cvs health at a glance
+our storyhistory
+
+
+social responsibilitysocial responsibility
+our givingfoundation giving
+corporate giving
+local community support
+community contacts
+
+corporate social responsibilityhealth in action
+planet in balance
+leader in growth
+reporting
+
+stakeholder engagement
+
+resource library
+
+be the first tobacco-free generation
+tobacco-free generation campus initiative
+
+
+community stories
+thought leadershipthought leadershiprising drug priceshealth care delivery & innovation
+opioid epidemic
+tobacco prevention & cessation
+
+cvs health research institute
+stay informedemail alerts & subscriptions
+
+
+careerscareers
+
+
+
+newsroomnewsroompress releases
+
+media gallery
+media contacts
+email news alerts
+
+investorsinvestors
+investor storyour business model
+growth drivers
+capital allocation
+long term targets
+
+results center
+2016 in reviewceo's shareholder letter
+health is where the heart is
+interactive annual report
+
+financial informationfive-year financial summary
+interactive financial history
+fixed income information
+annual report archive
+
+sec filings
+events & presentations
+stock informationstock chart
+stock calculator
+dividend history
+equity analyst coverage
+cost basis calculator
+
+corporate governanceleadership
+board of directors
+guidelines
+committee composition
+documents
+
+investor resourcesshareholder services
+shareholder information request form
+faqs
+contacts
+investor alerts
+
+
+
+
+
+
+
+
+search form
+
+search 
+
+
+
+
+
+ 
+
+
+
+other sites
+cvs/pharmacy
+cvs/caremark
+cvs/minuteclinic
+cvs/specialty
+ 
+
+
+
+prescription help
+contact
+ 
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+search jobs
+
+
+
+keyword search
+
+
+
+location
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+analytics careers
+
+
+
+
+
+
+
+
+
+
+
+
+share
+
+facebook
+twitter
+linkedin
+google+
+
+
+
+
+
+
+job details
+
+
+data scientist
+
+apply now
+
+save job
+remove job
+
+view saved jobs
+
+
+
+ job id:
+    706026br
+ business area:
+    cvs health
+primary location:
+    il ‒ northbrook
+ other locations: 
+    ma - boston, ri - woonsocket 
+ job type:
+    full time 
+ job category:
+analytics, corporate
+
+ clinical licensure required:
+    n/a 
+location code of145
+
+position summary:are you passionate about data and helping patients improve their health?   consider the position of data scientist, where your experience in advanced analytics and modeling will directly inform how cvs health helps patients on their path to better health.    as a key member of the enterprise analytics group, you will work with a variety of business partners from across the enterprise to both support the development of innovative programs to improve patient outcomes as well as reduce cost and improve efficiency across cvs health the role of data scientist will primarily be responsible for developing machine learning and other advanced models that drive business outcomes across cvs. the advanced analytics team is an interdisciplinary team of data scientists that partners with business groups across cvs to ideate, develop, and deploy analytic models and solutions that leverage advanced machine learning and analytics methodologies.   as a member of this group you will work with a highly collaborative team to apply state of the art analytic methods to solve real world problems. the successful data scientist will translate business needs into analytic questions; design and conduct rigorous analyses of clinical, financial, customer, and operational data; and translate these analytic findings into predictive models and evaluation results for our business partners. key job functions include, but are not limited to, the following:  consulting with key internal and external stakeholders to determine how best to leverage predictive modeling and advanced analytic methods to support business objectives across cvs health. able to select several potential appropriate modeling approaches for a given analytic problem (regressions, time series analysis, neural networks, decision trees, ensemble models). efficiently implement the models in a variety of modeling tools, achieving highly accurate models. understands the underlying statistical concepts and computational approaches that enable efficient execution of models and may be able to design and implement modifications and enhancements to the computations.developing sound analytic plans based on available data sources, business partner needs, and required timelines. able to apply innovative approaches to understand and predict what will happen across the business. managing deliverables across multiple projects in a deadline-driven environment and project related to a wide variety of business settings and clinical needs. presenting analytic findings in a variety of formats (reports, ppt, graphs, figures and tables), formulating recommendations, and effectively presenting the results to non-analytic audiences. #analytictalent#dcerequired qualifications:to be considered for this exciting opportunity on the advanced analytics team, candidates will need to have the following experience: a minimum of 5 years of professional post-graduate experience in constructing, validating, and executing predictive modeling solutions.advanced skills and training in machine learning data mining and other quantitative research analytics such as: non-linear regression analysis, multivariate analysis, bayesian methods, generalized linear models, decision trees and random forest, non parametric estimations, neural networks, ensemble models, etc. experience in translating business problems across disciplines into advanced analytic projects with measurable business value. experience with theoretical modeling approaches and matching analytic modeling approaches to a wide range of business applications. analytics experience within the retail and/or healthcare industries, with experience deploying capabilities across a wide range of business disciplines. demonstrated strong project management and time management skills. strong background in statistical languages technologies such as r, python, sas, etc. experience with computer development languages (java, c++).   preferred qualifications:phd in economics, statistics, mathematics or directly related field. education:master’s in in economics, statistics, mathematics or directly related field. business overview:cvs health, through our unmatched breadth of service offerings, is transforming the delivery of health care services in the u.s. we are an innovative, fast-growing company guided by values that focus on teamwork, integrity and respect for our colleagues and customers. what are we looking for in our colleagues? we seek fresh ideas, new perspectives, a diversity of experiences, and a dedication to service that will help us better meet the needs of the many people and businesses that rely on us each day. as the nation’s largest pharmacy health care provider, we offer a wide range of exciting and fulfilling career opportunities across our three business units – minuteclinic, pharmacy benefit management (pbm) and retail pharmacy. our energetic and service-oriented colleagues work hard every day to make a positive difference in the lives of our customers.cvs health is an equal opportunity employer. we do not discriminate in hiring or employment against any individual on the basis of race, ethnicity, ancestry, color, religion, sex/gender (including pregnancy), national origin, sexual orientation, gender identity or expression, physical or mental disability, medical condition, age, veteran status, military status, marital status, genetic information, citizenship status, unemployment status, political affiliation, or on any other basis or characteristic prohibited by applicable federal, state or local law. cvs health will consider qualified job candidates with criminal histories in a manner consistent with federal, state and local laws. cvs health will not discharge or in any other manner discriminate against any colleague or applicant for employment because such colleague or applicant has inquired about, discussed, or disclosed the compensation of the colleague or applicant or another colleague or applicant. furthermore, we comply with the laws and regulations set forth in the following eeo is the law poster: eeo is the law and eeo is the law supplementfederal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. if you require assistance to apply for this job, please contact us by clicking eeo aa cvs healthcvs health does not require nor expect that applicants disclose their compensation history during the application, interview, and hiring process.for inquiries related to the application process or technical issues please contact the kenexa helpdesk at 1-855-338-5609. for technical issues with the virtual job tryout assessment, contact the shaker help desk at 1-877-987-5352. please note that we only accept resumes via our corporate website: https://jobs.cvshealth.com/
+
+apply now
+apply later
+
+
+
+
+
+
+
+
+share
+
+facebook
+twitter
+linkedin
+google+
+
+
+
+
+
+
+
+location map & information
+learn about this job location and find nearby amenities.
+
+
+ 
+
+
+
+
+
+
+related jobs
+
+
+registered nurse rn-clinical sales liaison- boston ma
+733422br
+ massachusetts, boston, massachusetts
+
+
+advisor, retail pharmacy strategy
+734780br
+woonsocket, rhode island
+
+
+advisor, portfolio optimization and business insights
+734783br
+woonsocket, rhode island
+
+
+senior manager of pharmacy strategy
+734773br
+woonsocket, rhode island
+
+
+
+
+
+
+job alert notifications
+sign up to receive the latest career opportunities directly to your inbox.
+
+
+email addressinterested insearch for a category and select one from the list of suggestions. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.categorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+learn more about our privacy policy.
+
+
+
+
+application process
+we’re here to make our application process as easy as possible for you. here's what you can expect.
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+awards &recognition
+our hard work's been noticed, and acclaimed.
+learn more
+
+
+
+
+
+
+
+
+
+
+recruiting news
+find out what we've been doing and how you can join us in doing it.
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+cvs and ibm team up to predict patient health
+cvs health and ibm have formed a partnership designed to better predict deteriorating health of the pharmacy giant’s customers through predictive analytics.
+
+
+
+
+let's get started!
+before we redirect you into our applicant tracking system, please give us your email address.
+first namelast nameemail
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow cvs health careers on social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign up for our email alerts sign up now
+
+
+
+
+follow us
+facebook
+twitter
+youtube
+linkedin
+ 
+
+
+
+ 
+
+
+
+about cvs health
+millions of times a day, we’re helping people on their path to better health—from advising on prescriptions to helping manage chronic and specialty conditions. because we’re present in so many moments, big and small, we have an active, supportive role in shaping the future of health care.
+
+
+
+
+quick links
+
+code of conduct
+corporate integrity agreement policy
+diversity
+ethics & human rights
+political activities & contributions
+ 
+
+
+
+corporate information
+about
+careers
+newsroom
+thought leadership
+investors
+ 
+
+
+
+ 
+
+
+
+terms of use
+privacy policy
+patient privacy
+sitemap
+© copyright 1999 - 2017 cvs health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+etl engineer | careers | wargaming 100%careershomecareersрусский wargaming explore our offices homeaboutnewscareerswork at wargamingfaqgamestotal war: arenaworld of tanksworld of warshipsworld of warplanesworld of tanks blitzworld of tanks (xbox/ps4)master of orionhybrid warsservicespartnershomeaboutnewscareerswork at wargamingfaqgamestotal war: arenaworld of tanksworld of warshipsworld of warplanesworld of tanks blitzworld of tanks (xbox/ps4)master of orionhybrid warsservicespartnershomeaboutnewscareerswork at wargamingfaqgamestotal war: arenaworld of tanksworld of warshipsworld of warplanesworld of tanks blitzworld of tanks (xbox/ps4)master of orionhybrid warsservicespartnersetl engineer austin, usaengineering & programmingareaapply nowwhat you will do:support and perform activities involved in the design and development of etl/elt/data integration process and programs which include data analysis, source to target data mapping, job scheduling, and the development and testing of pl/sql packages.  provide architectural direction and implement infrastructure changes to the etl life cycle development environment.  build and maintain transformation scripts for different types of data, loader scripts for several different bi data stores, and distributed rollup system.  work with game engineers and dw architect to bring the data into the bi system.  create custom reporting frameworks where an off the shelf solution is not a fit.  build data integration processes within cloud environment.  create data integration routines to support hybrid data warehousing architecture (hadoop, oracle, nosql, graph dbs).  build and provision analytical sandboxes for data scientists and analysts.  produce impact and lineage analysis documentation for data integration tasks.
+requirements:
+master’s degree or foreign equivalent in computer science, computer engineering or related field.
+3 years of experience in the position offered or related occupation.
+oracle sql (dml & ddl), pl/sql, packages, stored procedures, triggers; database programming; logical and physical database design and data warehouse principles preferably dimensional modelling; using different types of data streams (real time, traditional warehouse, big data); hadoop technologies; scala/ spark; python, java and related frameworks; creating and optimizing large scale data loads; creating integration tasks for very large  mixed workload data warehouses (streaming/near real time, batch cycles); implementing information life cycle management (ilm) policies, data compression and archival/purging procedures; using unix command line tools, editors, and shell scripting; source code management tools such as perforce, git, cvs, and svn; and data-mining and analysis.
+
+additional info:location of position and interview:
+wargaming (usa), inc.
+10415 morado circle, suite 200, building iii
+austin, tx 78759
+ 
+send resumes via email to jobs_austin@wargaming.net.
+homeaboutnewscareerswork at wargamingfaqgamestotal war: arenaworld of tanksworld of warshipsworld of warplanesworld of tanks blitzworld of tanks (xbox/ps4)master of orionhybrid warsservicespartnersapplication formcomplete the form below, telling us why you’d be a great fit at wargaming, and you could be part of our awesome family.
+doc/xls/ppt/pdf/jpg/zip/rar/pages/numbers/keynote. < 25 mbdoc/xls/ppt/pdf/jpg/zip/rar/pages/numbers/keynote. < 25 mbdoc/xls/ppt/pdf/jpg/zip/rar/pages/numbers/keynote. < 25 mbdoc/xls/ppt/pdf/jpg/zip/rar/pages/numbers/keynote. < 25 mbapply for this jobhomeaboutnewscareerswork at wargamingfaqgamestotal war: arenaworld of tanksworld of warshipsworld of warplanesworld of tanks blitzworld of tanks (xbox/ps4)master of orionhybrid warsservicespartnerswargaming.netfind all your favorite titles in one placediscover a world of gamesonline storeitems from our premium shopshop now© 1998–2017 wargaming.net. all rights reserved.find us on facebook0 followersfind us on twitter0 followersfind us on linkedin0 followers
+
+
+
+
+
+

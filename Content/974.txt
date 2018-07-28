@@ -1,0 +1,337 @@
+
+
+
+
+
+data & analytics sr platform engineer at nike inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+shop
+
+
+nike+
+
+
+
+
+
+
+
+
+
+
+
+
+
+corporate careers
+retail careers
+benefits
+locations
+internships
+temporary opportunities – u.s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nike it careers
+nike corporate employees shatter limits daily at company headquarters and offices around the world.
+
+
+
+
+
+
+
+data & analytics sr platform engineer
+apply now
+
+become a part of the nike, inc. team
+nike, inc. does more than outfit the world's best athletes. it is a place to explore potential, obliterate boundaries and push out the edges of what can be. the company looks for people who can grow, think, dream and create. its culture thrives by embracing diversity and rewarding imagination. the brand seeks achievers, leaders and visionaries. at nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+nike technology designs, creates and implements the methods and tools needed to make the world’s largest sports brand run faster, smarter and more securely. global technology teams aggressively innovate the solutions needed to help employees navigate nike's rapidly evolving landscape. from infrastructure to security and supply chain operations, technology specialists drive growth through top-flight hardware, software and enterprise applications. simply put, without nike technology, there are no nike products. 
+description
+        amazon cloud engineer to support our team responsible for the management of day-to-day operations and maintenance of our cloud-based infrastructures to ensure smooth 24x7 operation.  the right candidate will contribute to system design, capacity planning, operations, maintenance, implementation and sustainment activities across development, staging and production environments and will work closely with engineering and program managers to ensure proper and timely deployment of customer’s solutions.additional responsibilities include:•	participate in system design planning, review, and implementation working groups.•	participate in providing technology assessments in support of automation and technology migration initiatives.•	recommend improvements; maintain/monitor production and non-production systems to ensure infrastructure performs at maximum efficiency.•	provide support of our applications including escalation and system performance of production platforms.•	develop and maintain plans to ensure successful recovery of operating systems in the event of a disaster, per dr policy.•	perform systems analysis and tuning to ensure optimal operating systems response for multi-user applications.•	implement/maintain it security guidelines.•	use innovative methods and technologies to identify and solve problems related to performance, scalability, reliability, and availability.•	automating operational processes using scripting languages.•	develop, implement, and continually improve system and network monitoring and alerting capabilities and procedures.•	write knowledge base documents to improve operations, sop and contribute to it organization.
+qualifications
+        •	amazon web services operation, maintenance, implementation and design.o	includes vpc maintenance/setup, emr clusters, ec2 management, iam, cloudtrail, cloudwatch, ebs management, ami and more.•	windows 2008 systems administration or linux systems administration•	strong scripting for task automation in python or other complex language•	cloud management system apis.•	strong written and verbal communication skills.required experience•	general linux (redhat, centos) or windows (2008, 2012) system administration practices.•	strong scripting background for task automation and experience with cloud management system apis.•	strong analytical and problem-solving skills.•	working knowledge of networking infrastructures, including lan, wan, vpn, etc.•	ensuring that solutions leverage industry best practices.•	demonstrated ability to generate and maintain technical documentation is required.•	experience with active directory, active directory federation services (adfs), saml, web single sign-on (sso), oauth and related authentication technologies•	transport layer security / ssl principles and management  qualifications: •	bachelors’ degree or equivalent work experience in a technical or quantitative field; masters or mba degree a plus.•	employment experience in a fortune 100 company is a plus.•	5+ years project experience deploying cloud solutions (aws)•	3+ years architecting and implementing amazon web services infrastructure and topologies
+nike, inc. is a growth company that looks for team members to grow with it. nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. no matter the location, or the role, every nike employee shares one galvanizing mission: to bring inspiration and innovation to every athlete* in the world.
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+job id 00361909
+
+apply now
+
+
+still looking?
+find the right career here.
+
+
+search
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+go
+
+
+
+
+
+
+job recommendations
+with just 1 click and a connection with linkedin, you can receive job listings that best match your previous positions.
+match my jobs
+
+
+
+share
+
+email
+linkedin
+facebook
+tumblr
+
+
+
+
+
+
+job alerts
+first namelast nameemail addressinterested insign up for job alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least 1 alert added in order to subscribe.categorylocationaddtechnology, portland, oregon, united statesremovedigital & technology, portland, oregon, united statesremoveit, portland, oregon, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+join our talent community
+didn't find what you're looking for? submit your information for future consideration.
+sign up
+
+
+
+
+
+
+internships
+get fully immersed in our culture of curiosity and innovation. start a corporate internship at nike.
+learn more
+
+
+
+
+innovation at nike
+take a behind the scenes look at how nike employees shaped product and experiences for the biggest football tournament in the world.
+learn more
+
+
+
+
+benefits
+as part of the world’s leading sports brand enjoy great benefits that fit, varied by position and location.
+learn more
+
+
+
+
+locations
+employees in six continents and 53-plus countries make up one global nike team.
+learn more
+
+
+
+
+
+
+
+
+mobile
+
+orders
+stories
+help
+
+
+
+first
+
+gift cards
+find a store
+sign up for email
+join nike+
+
+
+
+second
+
+get help
+order status
+shipping and delivery
+returns
+payment options
+contact us
+
+
+
+third
+
+news
+about nike
+careers
+investors
+converse careers
+sustainable innovation
+ca supply chains act
+
+
+
+
+social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+united states © 2017 nike, inc. all rights reserved
+
+
+guides
+
+nikeid
+running
+basketball
+nfl
+golf
+nike sprtswear
+soccer
+skateboarding
+tennis
+kids
+flyknit
+nike free
+lunarion
+dri-fit
+nike zoom
+tech pack
+football
+baseball
+nike innovation
+nike flyease
+nike grind
+
+
+terms & conditions
+privacy policy
+sitemap
+ca supply chains act
+
+
+
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. nike is committed to working with and providing reasonable accommodation to individuals with disabilities. if, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please call 503-671-4156 and let us know the nature of your request, your location and your contact information.
+for more information, please refer to equal employment opportunity is the law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

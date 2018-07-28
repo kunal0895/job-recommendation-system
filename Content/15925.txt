@@ -1,0 +1,99 @@
+
+
+
+view all jobs  | 
+				job search  | 
+				post resume  | 
+				member login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+java software engineer
+			
+
+
+category: 
+
+engineering
+
+
+
+type: 
+
+contractor
+
+
+
+description: 
+
+as a candidate for this opportunity you should have a good foundation in java and extensive experience working in a linux environment. the candidate should have a demonstratable understanding of software principles, theories, and concepts related to software engineering (including software development lifecycle and software development process), design patterns and object oriented analysis, design, and programming.  
+ 
+****must have an active ssbi clearance to start***
+ 
+job responsibilities:   • interpret requirements into software architecture and design  • design, develop and code software sufficient to meet the requirements of one or more components or systems  • perform integration, test and documentation duties to ensure proper operation of hardware and software platforms  • integrate a wide variety of applications from various sources; integrate and ensure they meet performance standards for stability and resource utilization  • adhere to accepted standards and processes for development, including writing unit tests which provide a high percentage of code overage; participating in code peer reviews, conducting design reviews, and generating test plans to ensure maximum stability and quality of code
+
+
+
+requirements: 
+
+
+
+
+
+required skills: 
+ 
+• 2+ years of software development experience in java in a linux environment
+• experience with restful services  
+• experience using source control tools associated with defect/issue tools
+• experience using jdbc to connect to relational databases (programmatic & command line) 
+
+ 
+
+
+
+
+
+
+location 
+
+richardson , tx
+
+
+
+minimum experience (yrs): 
+
+
+
+
+
+required education: 
+
+degree
+
+
+
+benefits: 
+
+
+
+
+
+return to search results
+
+
+
+
+
+*logged in members may also add jobs to their job cart

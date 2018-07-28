@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+cloud data engineer (sql azure)
+
+
+
+
+location
+
+
+dallas
+
+
+
+
+apply now
+us citizens or those authorized to work in the us are encouraged to apply.  we are unable to offer sponsorship at this time.
+quisitive is a digital technology consulting firm that leverages the strengths of technology, data insight and digital experience to empower organizations on their journey to digitally transform. quisitive, in its name and mission, was inspired by envisioning a new approach to the industry, one that began with asking the right questions to break down the barriers to business innovation rather than relying solely upon technology. this belief ensures the solutions we develop treat the underlying causes of our clients’ issues and lay the foundation for business transformation.
+ 
+we believe that a “one size fits all” solution simply doesn’t work – we tailor each solution to the unique challenges our clients’ face, bringing to the table an integrated team of consultants and a custom approach that creates a viable, valuable and feasible solution for our customers. we know innovation lies in the heads and hands of those who can blend the black and white world of technology with the shades of gray in business. we are looking for a data engineer that can bring their expertise, experiences and perspective to the quisitive team to help us build solutions that empower holistic and tangible transformation at every level.
+ 
+quisitive has offices in dallas, tx, and denver, co. 
+ 
+responsibilities:
+·        responsible for supporting the modern data and analytics portfolio by working with customer and internal stakeholders (business clients, business analysts, developers, other architects), defining customer solutions, and delivering engagements that are innovative and exceed business requirements. 
+·        collaborate with other team members to develop and enhance deliverables
+·        continuously improve team processes to ensure information is of the highest quality, contributing to the overall effectiveness of the team
+·        stay abreast of architectural/ industry changes; especially in the areas of big data and the cloud
+·        ability to blend quantitative and analytical skills, problem-solving and strategy consulting.
+·        this position will assist with the development of customer-focused solutions based upon market and customer needs.  this includes the development of solution and project artifacts for current and new service offerings along with the quality of the delivery to customers.
+·        meets with clients to determine needs and/or identify problem areas
+·        may be responsible for the development of statement of work and proposals which outline professional services required to meet client requirements
+ 
+education, experience and other skills
+requirements:
+·        general database administrator skills and knowledge
+·        knowledge of and experience with the azure data platform – azure data lake, data factory, data management gateway, azure storage options, documentdb, data lake analytics, stream analytics, eventhubs, azure sql.
+·        knowledge of tabular olap, including powerpivot and ssas tabular mode.
+·        knowledge of microsoft cortana intelligence suite.
+·        understanding of how traditional processes apply to the modern world (be able to talk about where big data and nosql can replace traditional enterprise data stores, how azure data factory can supplement/replace ssis, etc).
+·        hadoop and big data experience.
+·        experience with the setup and configuration of power bi (power query, data management gateway, ssas tabular connector)
+·        experience implementing master data services and data quality services.
+·        degree in information technology or business administration or equivalent experience.
+·        exceptional customer engagement, interpersonal, presentation and overall communication skills. 
+·        ability to successfully handle multiple work streams across multiple engagements, while maintain composure and professionalism to meet tight deadlines and shifting priorities.
+·        quickly learn and adapt to new business and technical concepts.
+·        goal-oriented team player committed to quality and detail.
+·        innovative thinker who is positive, proactive and readily embraces change.
+·        strong understanding of business intelligence concepts and best practices, with an understanding of its strategic importance to organizations.
+·        superior conceptual and analytical abilities, identifying opportunities for improvement through analysis and creative thinking.
+·        5+ years’ experience with a major bi technology sets
+·        5+ years, recent experience developing solutions in a microsoft sql server environment using sql, t-sql stored procedures, t-sql functions; and/or an oracle environment using sql plus and pl/sql coding languages as well as familiarity with complex sql server scaling concepts (alwayson, geo-scaling, sharding, large scale database management)
+ 
+ 
+additional capabilities a plus:
+·        experience with traditional statistical platforms is a major plus.  r, revolution analytics (pre-acquisition), sas, jmp, predixion, halo bi
+·        experience with modern reporting tools is a plus.  tableau, qliktech, panorama, domo
+·        mongodb
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

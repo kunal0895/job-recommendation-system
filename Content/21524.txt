@@ -1,0 +1,288 @@
+
+
+
+
+
+front end web developer description at general atomics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+jobs by category
+
+a&p/mechanics, manufacturing jobs
+a&p/mechanics, product support, technicians jobs
+a&p/mechanics, technicians jobs
+accounting and finance jobs
+administrative jobs
+administrative, legal/regulatory services jobs
+administrative, safety jobs
+administrative, strategic development jobs
+airframe and powerplant jobs
+avionics jobs
+avionics/electronics, engineering, technicians jobs
+avionics/electronics, manufacturing jobs
+avionics/electronics, product support, technicians jobs
+business development jobs
+business development, information technology jobs
+business development, product support, program/project management jobs
+business development, program/project management jobs
+business development, program/project management, strategic development jobs
+business development, strategic development jobs
+contracts and procurement jobs
+contracts/sub contracts/purchasing, finance/accounting jobs
+contracts/sub contracts/purchasing, information technology jobs
+contracts/sub contracts/purchasing, legal/regulatory services jobs
+contracts/sub contracts/purchasing, program/project management jobs
+contracts/sub contracts/purchasing, quality jobs
+electromagnetic systems jobs
+engineering jobs
+engineering, facilities jobs
+engineering, information technology jobs
+engineering, information technology, product support, scientists jobs
+engineering, manufacturing jobs
+engineering, program/project management jobs
+engineering, safety jobs
+engineering, scientists jobs
+engineering, technicians jobs
+facilities jobs
+facilities, program/project management, safety jobs
+finance/accounting, product support, program/project management jobs
+finance/accounting, program/project management jobs
+finance/accounting, program/project management, strategic development jobs
+human resources jobs
+information technology jobs
+information technology, manufacturing jobs
+information technology, quality jobs
+internships jobs
+legal jobs
+logistics jobs
+logistics, program/project management jobs
+manufacturing jobs
+manufacturing, material and production control jobs
+manufacturing, product support jobs
+manufacturing, product support, technicians jobs
+manufacturing, technicians jobs
+marketing jobs
+material and production control, product support, supply chain management jobs
+pilot jobs
+product support jobs
+product support, supply chain management jobs
+program manager jobs
+program/project management, supply chain management jobs
+quality jobs
+quality, safety jobs
+safety jobs
+safety, scientists jobs
+scientist jobs
+strategic development jobs
+supply chain management jobs
+technician jobs
+
+
+
+jobs by company
+
+general atomics
+general atomics aeronautical systems
+general atomics systems integration
+diazyme
+
+
+
+jobs by location 
+adelanto jobs
+alabama jobs
+albuquerque jobs
+arizona jobs
+beaver creek jobs
+california jobs
+china lake jobs
+district of columbia jobs
+fort drum jobs
+georgia jobs
+grand forks jobs
+hinesville jobs
+huntsville jobs
+indian springs jobs
+livermore jobs
+march air force base jobs
+mississippi jobs
+nevada jobs
+new mexico jobs
+new york jobs
+north dakota jobs
+ohio jobs
+palmdale jobs
+san diego jobs
+sierra vista jobs
+spanish fork jobs
+tupelo jobs
+united states jobs
+utah jobs
+washington jobs
+
+
+
+browse by job groups 
+san diego legal jobs
+san diego logistics jobs
+san diego engineering, information technology jobs
+spanish fork manufacturing jobs
+san diego manufacturing, material and production control jobs
+san diego manufacturing, technicians jobs
+palmdale facilities jobs
+san diego engineering, manufacturing jobs
+huntsville engineering jobs
+san diego internships jobs
+palmdale engineering jobs
+palmdale airframe and powerplant jobs
+san diego facilities jobs
+san diego human resources jobs
+palmdale manufacturing jobs
+huntsville electromagnetic systems jobs
+san diego manufacturing jobs
+san diego supply chain management jobs
+palmdale avionics jobs
+san diego contracts and procurement jobs
+adelanto manufacturing jobs
+palmdale pilot jobs
+san diego program manager jobs
+san diego quality jobs
+adelanto engineering jobs
+san diego information technology jobs
+san diego accounting and finance jobs
+san diego electromagnetic systems jobs
+san diego engineering jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+search
+
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+front end web developer
+date posted 10/30/2017
+
+job id#: 14986brcompany: general atomics aeronautical systemsjob title: front end web developerjob category: information technology, manufacturingcity: san diegostate: californiafull-time/part-time: full-time hourlyjob summarygeneral atomics aeronautical systems, inc. (ga-asi), an affiliate of general atomics, is a world leader in proven, reliable remotely piloted aircraft and tactical reconnaissance radars, as well as advanced high-resolution surveillance systems.we recognize and appreciate the value and contributions of individuals with diverse backgrounds and experiences and welcome all qualified individuals to apply.job summaryas a front end web developer at general atomics aeronautical systems, incorporated you will shape user-centric products that are critical to the development and execution of aircraft system’s delivery. you will work closely with ga-asi manufacturing business units to better understand their needs in order to create applications that anticipate and solve important problems they face. users throughout the company will marvel at the simplicity and usability of the interfaces you create. your work will revolutionize the productivity of the manufacturing community at ga-asi and directly impact our ability to deliver aircraft to our customers, quickly and reliably.duties and responsibilities:build ui components that are intuitive, beautiful and reusable across our entire platformbuild and improve our continuous integration to reliably deliver high-quality product releases to production multiple times a day.active participation in code reviews and pairinginfluence how and what we build with demonstrated technical expertise.develop front end standards and enforce themorganize and architect front end source filesrequired skills:experience with asp.net mvc and c# including razor syntaxfamiliarity with the whole web stack.excellent leadership, communication and teamwork skills.experience with jquery, bootstrap, ajax, asp.net mvcsignificant understanding of user experience design principals and ability to contribute in design sessions.experience with js unit testing frameworksexpert knowledge in writing clean, hand-coded x/html, javascript and css in consumer-facing web applicationsexcellent mastery of web standards, cross-browser compatibility, and building in accessibility from the ground upfluent in javascript and frameworks such as jquerystrong working knowledge of dom manipulation and ajax-enabled uissolid understanding of fundamental web technologies such as http, rest, and jsoncomfortable debugging client-side issues with firebug, web developer and similar toolsfamiliarity with sql and rdbmsdesired skills:experience with javascript frameworks (angular, vue, etc)experience with working on enterprise large scale data drive applicationsjob qualificationstypically requires a bachelors or master’s degree in computer science, information systems or related discipline along with two or more years’ progressive experience in internet and website development with bachelors. equivalent professional experience may be substituted in lieu of education. must demonstrate a general understanding of internet and website development standards, principles, theories, concepts, and protocols including a solid knowledge of the client-side and server-side environments; skills including organizing, scheduling, conducting, and coordinating work assignments to meet project milestones or established completion dates; and the ability to understand new concepts quickly and apply them accurately throughout an evolving environment. must be customer focused and possess: (1) the ability to identify issues, analyze and interpret data and develop solutions to a variety of moderately complex problems; (2) good analytical, verbal and written communication skills to accurately document, report, and present findings; (3) good interpersonal skills to effectively interface with all levels of employees including management; (4) the ability to maintain the confidentiality of sensitive information; (5) the ability to initiate, plan, and manage projects; and (6) good computer skills.ability to work independently or in a team environment is essential as is the ability to work extended hours as required.travel percentage required  0% - 25%clearance required?  no
+
+apply now
+send to friend
+
+
+
+sign up for job alerts
+first namelast nameemail addressphone numbercurrent companycurrent titlekeywords: sign up for alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least one alert in the list below in order to subscribe.interested incategorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+job matching
+with just one click and a connection to linkedin we can find jobs for you that best matches your experience.
+start matching
+
+
+
+
+©2017 general atomics. all rights reserved. legal contact
+general atomics and affiliated companies is committed to hiring and retaining a diverse workforce. we are an equal opportunity/affirmative action employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, gender expression, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law. eeo is the law. to learn more click here. we prohibit compensation discrimination under all applicable laws. to learn more click here. u.s. citizenship is required for certain positions.
+we endeavor to make the online job application process accessible to any and all users. if you have a disability that impacts your ability to complete the job application process and would like to request assistance or a reasonable accommodation, please contact our human resources department at (858) 455-4545, or click here. this contact information is for accommodation requests only, not to inquire about the status of applications.
+
+
+
+
+
+
+
+
+
+
+
+

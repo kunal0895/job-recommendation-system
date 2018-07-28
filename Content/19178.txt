@@ -1,0 +1,34 @@
+freelance back end developer at seafoam mediafreelance back end developerst. louis, mocontractjob openingsfreelance back end developer%button_apply_to_position% apply using linkedinif you love solving problems and working puzzles, this might job be your dream job. we need someone who can drop what they're doing and jump into a website to bug fix. we want you to be fast, thorough, and a perfectionist. if you've been told you care too much about the details, you get obsessed with fixing things, and you lose track of time when you're working on a project, we want you. you'll be in charge of making sure our clients' websites are running smoothly, any custom development that needs done, and building the more technical components of websites or applications that require in depth server side development knowledge.
+you:
+
+can do in 2 hours what takes most people 5 hours.
+love solving problems.
+should be able to take a design mockup and build a wordpress site out of it easily.
+have a robust knowledge of major cms's like wordpress and magento.
+have detailed experience with woocommerce.
+can write a custom plugin for wordpress in your sleep.
+don't mind in-person meetings and phone calls.
+are super organized and communicative.
+
+you shouldn't:
+
+hate talking with team members and clients.
+be stubborn.
+think you're smarter than everyone else.
+
+responsibilities:
+
+bug fixing
+server management (including migrating websites, modifying vps's, and dns management)
+building custom wordpress plugins
+writing and/or implementing javascript, javascript libraries, and library plugins
+working with various apis and web services
+making php and mysql modifications to existing applications
+custom server side development, mostly with php and mysql
+	
+knowledge and skill in .net is a plus!
+
+
+helping your teammates solve various problems they may be having with our clients' websites
+
+%button_apply_to_position%%footer_powered_by%breezy

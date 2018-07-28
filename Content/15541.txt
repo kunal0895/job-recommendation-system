@@ -1,0 +1,60 @@
+
+
+
+
+boomr - jobs: software engineering, front end developer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+software engineering, front end developer
+
+software engineering, front end developer
+sacramento, california, united states · software engineering
+
+descriptionas a front end developer at boomr you will work closely with our design, development and marketing teams to implement new pages for our public website as well and make aesthetic improvements to our web product. all designs, assets and specs will be provided and delivered in sketch and our design team will issue detailed instructions and specs. strong quality and process-based development are big part of our company culture.  we use test-driven development, code linters, continuous integration, pull requests and github team review tools to ensure strong code quality and best practices from the beginning to the end of a project.key responsibilities: implement new site pages and features with “pixel perfect” qualitydevelop landing pages for seo and paid ad campaignswork in web-based product implementing new features and layouts utilizing existing design patternswork closely with design, product and marketing teams to make designs come to lifeprovide strong attention to code quality and well-organized html/css/jswhen necessary refactor existing front-end code to reduce duplication, ensure best practices and fine-tune performancefunction seamlessly within our ruby on rails app codebase to make front-end developments and updateshandle front-end updates to our wordpress site from time to timesubmit pull requests via github and participate in peer reviewparticipate in daily team stand-ups and weekly sprint planningrequirementsba/bs preferred or equivalent work experience with demonstrated proficiency4+ years experience working as a front-end developerexcellent proficiency in html5, scss and javascriptlightweight with erb and ruby on railsexperience with front-end linters (js and scss)knowledge of es6 is a plusworking knowledge with bootstrap 3.x and 4.x frameworksbenefitsyour time at boomr will be some of the most important work you ever do. it has the potential to change the course of your career in an exciting and unreplicable way. join our rocketship! we can’t wait to meet you.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+boomr website
+
+powered by
+workable
+
+
+
+
+

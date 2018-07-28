@@ -1,0 +1,366 @@
+
+
+
+
+
+sr data scientist at monsanto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we hire
+working at monsanto
+inclusion & diversity
+student opportunities
+our benefits
+monsanto.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search our jobs  
+search our jobs
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+select radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+discover matches to jobs using your linkedin profile  »
+
+
+
+
+
+
+sr data scientist
+
+apply now
+apply later
+req id 01lhj date posted 10/19/2017
+produce more. conserve more. improve lives. that’s monsanto’s vision for a better world. achieving this vision demands revolutionizing agriculture through technology and data science is central to attaining this transformation. we are seeking exceptionally talented individual with a passion for innovation to become an integral part of our data science team within global breeding organization. we are a cutting edge group providing recommendations and solutions to accelerate and optimize monsanto’s product development. we foster new game-changing ideas to produce sophisticated, intelligent solutions. as part of our diverse, highly dynamic group, you will be exposed to highly exciting research challenges and will have ample opportunity to work with interdisciplinary scientists (mathematicians, optimization experts, engineers, operations managers, geneticists, and breeders) to foster your career growth and development while delivering next-generation analytical solutions. in this role, you will be expected to be influential and work with several stakeholders to help shape business and data science strategy for monsanto’s breeding organization. you will use advanced mathematical models, machine learning techniques, optimization and strong business acumen to deliver insight. you will be responsible for transforming large amounts of diverse data into descriptive knowledge using advanced quantitative analysis; formulate and apply mathematical modeling and other optimization methods to develop and interpret information that assists with decision making; work collaboratively with interdisciplinary scientists to address analytical scientific breakthroughs in the field of machine learning; utilize big data technologies to develop & deploy advanced analytics solutions for high throughput research strategies. you will present compelling, validated stories to all levels of organization, including peers, senior management and internal customers to drive both strategic and operational changes in business.  
+required skills: 
+ 
+
+ph.d. in mathematics, statistics, computer science, electrical engineering, bioinformatics or closely-related field.
+4+ years post graduate school experience building machine learning models leveraging statistical and mathematical programming packages (r, matlab, python)
+strong background in machine learning with an expertise in many of the following: monte-carlo simulations, stochastic modeling, estimation and prediction, recommender systems, boosting and bagging techniques, bayesian analysis, deep learning, reinforcement learning, optimization 
+strong object oriented and or functional programming experience with at least 5+  years of experience using python
+experience implementing machine learning algorithms in using frameworks such as graphx, mllib, tensorflow
+strong publication record in leading scientific journals 
+creative, proactive, bold and out-of-box thinking 
+strong business aptitude, the ability to rapidly learn new problem domains, and become conversant in the domain with subject matter experts 
+ability to work in a matrix environment, leading & influencing people at varying levels of responsibility. 
+proven ability to communicate complex qualitative analysis in clear, precise and actionable manner. 
+ 
+ 
+desired skills: 
+ 
+
+expertise in at least one or more of the following: network optimization, stochastic programming, portfolio optimization, efficient optimizer design for high dimensional convex/non-convex problems, optimal scheduling and routing, multi objective optimization
+experience with virtualized infrastructure and infrastructure as a service (iaas) such as amazon web services, or google compute engine
+experience with big data ecosystem including hbase, mongodb, mapreduce, and spark
+experience with relational databases and sql 
+experience working with agricultural/biological scientific data is highly desired
+ 
+ 
+ 
+
+apply now
+apply later
+
+
+
+
+map
+st. louis
+view the area
+
+
+
+share
+
+facebook
+google+
+twitter
+linkedin
+email
+
+
+
+
+related jobs
+
+
+data scientist
+st. louis, missouri
+
+
+procurement supervisor
+santa fe, federal district
+
+
+plant reproductive biologist
+st. louis, missouri
+
+
+dicamba e&i engineer
+luling, louisiana
+
+
+customer service coordinator
+santa fe, federal district
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get job news and event updates
+first namelast namephone numberemail addressinterested insearch for a category / location, select a term from the suggestions, and click “add.”categorylocationaddresearch & development, st. louis, missouri, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        		800 n. lindbergh boulevard
+        		
+        		st. louis, mo 63167
+        	
+
+facebook
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|
+legal notice|privacy policy|
+contact us
+
+
+
+
+
+
+
+news & stories
+
+
+conversation
+
+
+news releases
+
+
+
+
+innovation
+
+
+products
+
+
+our brands
+
+
+seeds
+
+
+agricultural biologicals
+
+
+crop protection
+
+
+safety information
+
+
+
+
+
+
+company
+
+
+investors
+
+
+careers
+
+
+contact us
+
+
+more
+
+
+america's farmers
+
+
+modern agriculture
+
+
+monsanto fund
+
+
+
+
+
+sign up for our email newsletter
+
+        				the monsanto newsletter brings you the latest modern agriculture news each month.
+        			
+
+
+first name *
+
+last name
+
+email *
+
+
+
+
+
+
+
+
+
+
+©2002-2017 monsanto company – all rights reserved sitemap|terms & conditions|privacy policy|contact us
+
+
+
+
+
+
+
+
+
+
+
+

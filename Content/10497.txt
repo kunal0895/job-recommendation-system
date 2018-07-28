@@ -1,0 +1,142 @@
+
+
+
+
+infogix careers - associate data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    infogix careers                                            
+
+
+
+
+
+
+
+                associate data scientist
+    
+    
+
+                            professional services            
+                    naperville,
+                            illinois
+                
+                        
+
+
+
+        apply
+    
+
+
+
+position overviewyour primary focus will be in applying data mining techniques, performing statistical analysis, and building enterprise grade prediction systems as part of an overall infogix solution.  you should be able to create, configure, and monitor predictive data models and perform quantitative analyses to create valuable insights from data.  the role will also require continuous evaluation of existing models for performance. job responsibilities work with team leaders and members to solve client analytics problems and documents results and methodologies.contribute to analytical solutions with limited guidance by leveraging pattern detection over potentially large datasets (billion+ rows).program and quickly develop prototypes for the full-service analytics value chain.apply and explain traditional, machine-learning, and deep-learning algorithms such as logistic regression, gradient boosted trees, random forest, and neural nets.employ the appropriate algorithm to discover patterns, segment customer, determine risk score using data mining skills in r, python, sas, or scala.communicate and work with business subject matter experts.performs other related duties as assigned. experience required 2-3 years of overall experience, including at least 2 years of quantitative data mining and analysis.1-2 projects demonstrating excellent understanding of data science algorithms such as boosted trees, ann, cnn, k-mean clustering, nlp, and text -mining.1-2 projects demonstrating data mining solution development in big-data and distributed computing environment, experience in hadoop and spark environment.2-3 years hands-on experience in developing and deploying predictive analytics projects using one or the tool such python, r, java, scala.ms in computer science, mathematics, or related field.exposure to healthcare or insurance is preferred. technical skill set required:proficiency in one or more common data science toolkits such as sql, r, python, java, scala, or sas.exposure to common data science libraries such as numpy, pandas, h2o, tensor flow, keras, and mxnet.proficiency in excel and powerpoint/visio.excellent communication and interpersonal skills.moderate project management experience is preferred.join our winning team and unique, team-spirited company culture. we offer numerous benefits for your contributions and teamwork. these include:comprehensive medical, dental and vision insurancepre-tax flexible spending plan for healthcare and childcarefifteen personal days the first year of employmenteight paid holidays and up to two floating holidays per yeara 401(k) with excellent company matchcompany-provided life and accidental death and dismemberment insurancecompany-provided short- and long-term disability insurancetraining and certification opportunities  infogix, inc. and its subsidiaries are equal opportunity employers. minority/female/disabled/veteran.for additional product information and company overview, please visit our website at www.infogix.com. 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

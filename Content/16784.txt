@@ -1,0 +1,422 @@
+
+
+
+
+
+uc san diego jobs | new | 89569
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+uc san diego jobs site
+
+
+
+
+
+
+
+
+home
+home
+tutorials
+help/contact us
+frequently asked questions
+my profile
+sign in
+contact info
+background
+education
+work history
+profile summary
+my resume
+upload resume
+create resume
+my resumes
+my jobs
+applications in progress
+my current status
+bookmarked jobs
+saved searches
+job bulletin
+search by category
+new jobs
+browse all jobs
+browse campus jobs
+browse health jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+|
+academic jobs
+|
+uc systemwide
+
+
+
+
+
+
+
+
+
+
+jobs home
+
+home
+tutorials
+help/contact us
+frequently asked questions
+
+
+
+my profile
+
+contact info
+background
+education
+work history
+profile summary
+
+
+
+my resume
+
+upload resume
+create resume
+my resumes
+
+
+
+my jobs
+
+applications in progress
+my current status
+bookmarked jobs
+saved searches
+
+
+
+job bulletin
+
+search by category
+new jobs
+browse all jobs
+browse campus jobs
+browse health jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+column content left
+
+
+
+
+
+
+uc san diego jobs home
+
+ ▶ 
+
+position overview
+
+bookmark this job
+
+
+new jobs
+95 of 102 positions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return to category listing  previous position  next position
+
+
+
+
+
+
+
+
+
+
+
+
+#89569 research programmer
+extended review date: thu 10/26/2017
+
+
+apply now
+
+
+
+
+
+
+ucsd layoff from career appointment: apply by 8/23/17 for consideration with preference for rehire. all layoff applicants should contact their employment advisor.  eligible disability counseling and consulting services (dcc) or special selection clients should contact their vocational rehabilitation counselor for assistance.
+
+
+posting will remain "open until filled"
+
+description
+applies skills as a seasoned, experienced software professional with a full understanding of industry practices, community standards and relevant policies and procedures to medium-sized projects or portions of large projects with moderate scope and complexity. resolves a wide range of issues. demonstrates competency in selecting tools, methods and techniques to obtain results.
+as part of the center for applied internet data analysis (caida) team, responsible for independently designing and developing applications as well as modifying existing codebases (e.g.,  manic, as rank, archipelago, henya, spoofer, bgpstream, drop/ddec) that enable large-scale scientific projects and experiments that measure and infer internet topology, interdomain routing relationships, performance, geographic location, and security properties of networks, and validate, visualize and report results. 
+this position integrates off-the-shelf software components (influxdb, elasticsearch, grafana) into larger system prototypes to support correlation and synthesis of disparate time-series measurements. this position will also design, develop and implement complex tools to integrate with and support comprehensive and production quality software programs and packages.
+advises researchers on visualization and reporting options for internet and interdomain traffic and topology data. develops prototype software and algorithms for collecting, analyzing and depicting internet data. 
+architects, designs, implements and maintains programs to perform multiple analyses on collected internet measurement data. works to automate and put into production ongoing measurements, analyses, and periodic/real-time reporting. 
+contributes written and graphical elements to web pages, scientific papers, software documentation, proposals and other publications that describe caida's scientific projects.
+for additional information, please visit caida.org 
+qualifications
+
+strong, demonstrated experience and knowledge of unix operating systems in addition to major variants of the unix os found on desktop and server computers.
+advanced skills associated with software design, modification, implementation and deployment, including object-oriented programming concepts. 
+extensive knowledge of and demonstrated experience with key programming languages, to include object-oriented variations of one or more languages in particular: compiled languages (java, c, c++, go); use of both clang and gcc compilers; and scripting languages (perl, ruby, python, and cgi and browser-based).
+experience with regression testing and troubleshooting issues of memory usage and runtime. 
+proven knowledge of and demonstrated experience with generic-style programming concepts including use of c++ templates and algorithms in support of sophisticated software development efforts.
+demonstrated competency with terms, technology, and constructs required for the development and documentation of software programs and packages that collect, process, analyze, transform, and visually report on data in support of large-scale scientific experiments that measure the internet at scale. 
+key domain topic areas include but are not limited to:
+protocols such as ip, tcp, udp, bgp, icmp; ipv4 and ipv6 address data representation and packet formats; networking concepts such as autonomous systems, bandwidth, rtt, latency, jitter, routing, peering; networking standards such as physical and link layer protocols; understanding of data interchanges such as ixps; and entities such as nanog, ietf, icann, and the rirs.
+familiarity with common internet datasets and programming apis (e.g., route views, whois, and dns, internet assigned numbers authority (iana), internet protocol (ip) address and autonomous system (as) number allocations), their data formats,  and their use in internet data analysis, geolocation of internet resources, and inferring autonomous system (as) siblings.familiarity with netacuity and maxmind data formats and use of the programming apis.
+demonstrated ability to understand functional needs and how systems can support those needs.
+demonstrated ability to develop conversion and system implementation plans. ability to parse and convert multiple different character encodings (unicode, iso 8859, etc...)
+ability to thoroughly understand other programmer's code and hand-made data structures to replace them with newer, standard structures. 
+ability to optimize or refactor existing code to improve performance and/or readability.
+ability to troubleshoot and track down obscure bugs in other programmer's code when unexpected failures occur.
+
+special conditions
+~ job offer is contingent on clear background check.
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+          the university of california is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, age, protected veteran status, gender identity or sexual orientation. for the complete university of california nondiscrimination and affirmative action policy see:  http://www-hr.ucsd.edu/saa/nondiscr.html
+
+
+	  uc san diego is a smoke and tobacco free environment. please visit smokefree.ucsd.edu for more information.
+	
+
+
+
+
+
+
+
+payroll title:
+applications progr 3
+department:
+san diego supercomputer center
+hiring salary range
+$59,700 - $92,000 / year
+worksite:
+campus
+appointment type:
+career
+appointment percent:
+100%
+union:
+uncovered
+total openings:
+1
+work schedule:
+days, 8 hrs/day, mon-fri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+getting help
+privacy
+hipaa agreements
+benefits
+feedback
+contact us
+
+
+about
+explore
+maps and tours
+diversity matters
+disability resources
+principles of community
+volunteer
+
+
+divisions
+arts & humanities
+biological sciences
+graduate division
+physical sciences
+scripps institution of oceanography
+social sciences
+
+
+schools
+jacobs school of engineering
+rady school of management
+school of global policy & strategy
+school of medicine
+skaggs school
+
+
+
+
+
+
+
+
+
+
+                        uc san diego is an equal opportunity / staff affirmative action employer
+                        
+
+                        regents of the university of california | terms of use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

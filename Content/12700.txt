@@ -1,0 +1,320 @@
+﻿
+
+
+
+
+data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+
+ 
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+data scientist
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-10541
+
+location: 
+charlotte, north carolina
+
+
+
+
+
+this opportunity is with a multibillion $ global giant based in united states, canada & mexico, with 16 different delivery centers and regional offices in north america & more than 300,000 people working worldwide. this job gives you an opportunity to work with an organization which has been consistently in the top 5 best employers in us & europe. we are sure that you wouldn't let this opportunity go by! sounds interesting? read on further to understand the role.
+
+job description:
+1. overall 8-10 years of relevant hands on experience in handling various data driven decisions.
+2. experience in various statistical and machine learning models, data mining, unstructured data analytics in corporate or academic research environments
+3. must have strong of programming experience in python/scala in spark.
+4. should have hands on expertise on various analytics techniques such as classification, regression, clustering etc.
+5. work with large datasets / big data to extract insight on customers and platform.
+6. should have been exposed to dimensionality reduction techniques and feature selection techniques.
+7. should possess rich experience on various analytics libraries such as apache spark, python scikit learn and r.
+8. should have an exposure to big data tools such as hdfs, yarn, hive etc.
+9 need to have good understanding & working knowledge in natural language processing & conceptual modelling.
+10. experience leading or collaborating with a team of data scientists/machine learning engineers in developing and delivering machine learning models that work in a production setting.
+11. exposure to java and micro services is an added advantage.
+
+required technical and professional expertise
+
+at least 2 years' experience - coding skills in one of the following: python, r, scala (preference for spark scala)
+at least 2 years' experience - creating machine learning pipelines - data ingestion, feature engineering and model selection, training, validating and deploying
+at least 2 years' experience - probability and statistics  
+at least 2 years' experience - working with apis and ide like intellij for spark/scala (is an added advantage)
+
+keywords:
+
+education qualification:
+bachelor's degree or foreign equivalent required from an accredited institution
+
+other benefits (as per client terms):
+standard healthcare + medical + dental & $401k plan 
+
+about us:
+axius technologies was started in the year 2007 and has grown at a rapid rate of 200% year on year. a team of over 200+ highly qualified technical employees mostly with engineering degrees with expertise in diversified fields of staffing, recruitment, hr services and consulting domain is the key strength of our organization . in true sense we are a corporate matchmaker, headhunting highly skilled technology candidates for each mandate entrusted in us by our esteemed clients . we cater to the client requirements across all technologies, industries and verticals of an it consulting company. you name it and we have it, specialized in verticals like banking & finance, healthcare & life sciences, media and hi-tech, energy & utilities, retail, public sector and insurance.
+
+for the past several years, we have established an impeccable reputation for filling open niche requisitions with exceptional talent. powered with seasoned recruitment professionals who have acquired extensive knowledge about it staffing from a technology and domain perspective, we ensure that we deliver the standard of service which is beyond the expectation of our clients. we pride ourselves on being a search firm with a huge commitment to excellence and our passion being the driving force for our achievements.
+
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position: 
+                            
+                            
+                                
+                                    software engineering, new graduate
+                            
+                        
+
+
+
+location: 
+                                
+                                    menlo park, ca
+                                
+                        
+
+
+
+job id: 
+                            
+                            
+                                
+                                    317
+                            
+                        
+
+
+
+# of openings: 
+                            
+                            
+                                
+                                0
+                            
+                        
+
+
+
+
+
+
+
+
+grail is a life sciences company whose mission is to detect cancer early when it can be cured. grail is using the power of high-intensity sequencing, population-scale clinical trials, and state of the art computer science and data science to enhance the scientific understanding of cancer biology and develop blood tests for early-stage cancer detection.  we are seeking passionate and talented individuals to join us in realizing our mission, which has the potential to dramatically reduce the global burden of cancer.
+
+as a software engineer, you’ll work on a broad array of software systems and projects. we pride ourselves on building effective, efficient, easy to use and scalable software systems to address grail’s many computational and automation related challenges.
+
+quality and operational excellence are our joint responsibility. each and every one of us takes ownership of the quality our products from design, through implementation, testing and production. we review code before check-in, have thorough unit and integration tests, continuous integration and reproducible production deployments that we jointly operate.
+
+projects may include:
+
+working with technologies like aws and google cloud for automation and service development.
+data storage design, apis and associate large scale data processing systems and algorithms.
+compression techniques and algorithms; algorithm design, implementation, and optimization particularly for processing dna sequencing data.
+lims (laboratory information management systems) and lab robotics and automation management systems
+edc (electronic data capture) system for conducting clinical studies
+mobile and web application development, user interface design and user experience research.
+
+your background may include:
+
+bachelor's degree in computer science, electrical engineering, bioinformatics or similar technical field.
+experience using frontend programming technologies like react and javascript.
+experience with one or more programming languages like c++, java, javascript, python, or go.
+experience using and designing algorithms for a production environment.
+one (1) or more years of relevant professional or internship experience designing, developing, testing and maintaining software.
+an interest in human biology and genetics.
+
+bonus points if you have:
+
+extensive experience in any of these areas: distributed systems, databases, security, storage, networking, web applications, ui or automation.
+experience driving self-directed projects from inception to production.
+demonstrated willingness to both teach and learn from others.
+experience with next generation sequencing data analysis (dna, rna, or epigenetic analysis.)
+
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+                                apply for this position
+                            
+
+
+
+
+
+
+
+
+                    apply with indeed
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+                go back to the job list
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+

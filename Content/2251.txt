@@ -1,0 +1,364 @@
+
+
+
+
+embedded software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+honeywell careers
+
+
+
+
+
+chinese (simplified)
+czech (czech republic)
+dutch (the netherlands)
+english (us)
+french (canada)
+french (france)
+german (germany)
+portuguese (brazil)
+spanish (spain)
+create a profile|log in
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+yes
+no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+show details
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+terms of use
+
+
+
+
+
+                    refer job:
+                        
+
+
+
+
+
+
+
+
+
+ add to saved jobs
+
+
+
+
+
+
+back
+
+
+
+
+embedded software engineer
+join a team recognized for leadership, innovation and diversity
+honeywell is a leading software industrial business, harnessing the power of cloud, mobile, data & analytics, iot and design thinking. with the addition of our state-of-the-art software and innovation center in midtown atlanta, we will incubate, deploy and scale breakthrough offerings that will impact the lives of those around us and the world. there is no better time to join our team, showcase your skills and play a key part in advancing our offerings, market presence and culture. join our atlanta team and…be the agent of change and a catalyst that is transforming a fortune 100 industrial company into a connected, digital, software industrial leader.work collaboratively with like-minded, innovative and passionate people and together bring ideas from inception through to market launch.have endless opportunities to progress your career as you develop new offerings that impact a wide range of industries, improve the quality of life, and truly change the world. as an embedded software engineer with honeywell, this is your opportunity to:designing, developing, testing, and release high quality embedded firmware.review functional and technical requirements, raising potential issues and participating actively in design discussionscollaborating with customers and product marketing / management teams to identify opportunities that can be exploited through great software featuresworking as a member of a design, build and test agile team continuously releasing new updates 
+
+
+
+25
+requirements and design
+
+
+50
+software architecture and coding
+
+
+25
+ability to code in multiple languages
+
+
+
+
+
+
+
+
+
+
+
+you must have bachelor’s degree in computer science, computer engineering or a software related discipline. 2+ years of progressive experience as a professional software engineer delivering world class software products and services using object oriented analysis, design and programming techniques.2+ years of developing for soc such as arm7/9, x86, pic, or mips2+ years of experience creating and/or integrating restful services and api's2+ years of experience and demonstrated proficiency in, at least, one modern programming language such as javascript, java or c/c++2+ years of experience working as a member of an agile team    we value excellent written and oral communication skillsa master’s degree in a related field is an added plus.embedded linux and rtos experience (uboot/cfe, kernel, driver)embedded microcontroller system design experience, utilizing on-chip peripherals and sub-systemsprogramming in real time operating system environmentssolid c/c++, multi-threaded skillscommunications protocol experience (i.e. tcp/ip, uart, spi, i2c, usb)the ability to adapt quickly to a fast-paced environmenta critical thinker that challenges assumptions and seeks new ideassomeone who seeks to understand the "why" and not just the "what"someone who actively solicits opposing perspectives and alternative ideassomeone who drives to deliver customer value versus meeting customer demands and someone who persistently drives activity to achieve resultsproactive sharing of accomplishments, knowledge, lessons, and updates across the organizationsomeone who makes everyone around them betterexperience designing, building, testing, releasing and operating software products and services consumed by external customersa strong background in creating secure and resilient embedded software with an emphasis on reliabilitydemonstrated functional and technical leadershipsomeone who works and collaborates with people across perceived boundaries and borders (think devops)demonstrated analytical and problem solving skills (ability to identify, formulate, and solve engineering problems)demonstrated understanding of algorithms, data structures, object oriented design, databases (sqlite)bash and python development experienceexperience with using hardware base debuggersexperience with command line toolsexperience in modeling business process on low resource embedded productsexperience with test-driven developmentexperience with agile software development frameworks and methodologies  
+
+
+
+exempt
+
+how honeywell is connecting the world
+includes
+
+relocation provided
+continued professional development
+
+
+additional information
+job id: hrd9423 category: engineering location: 715 peachtree street, n.e., atlanta, ga 30308 usa 
+honeywell is an equal opportunity employer. qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.
+
+
+
+
+
+
+
+send to a friend
+
+
+
+
+
+
+
+
+
+
+  
+                                    please wait...
+
+
+
+
+
+
+email this job ad to your friend(s) by adding their email address(es) along with your details to the field below:   *separate each recipient email address with a comma.
+
+recipient email address(es):
+                                            
+                         
+                
+
+your first name:
+ 
+                                                                                    
+                
+
+your last name:
+                                              
+                          
+                
+select which language the email should be sent in.
+
+language:
+
+chinese (simplified)
+czech (czech republic)
+dutch (the netherlands)
+english (us)
+french (canada)
+french (france)
+german (germany)
+portuguese (brazil)
+spanish (spain)
+
+
+
+
+
+send
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+						this job opening is already listed as one of your interests. you cannot add the same job opening to your list of interests more than one time.
+
+to see your list of interests, navigate to the application status tab within my profile
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account warning
+
+
+
+
+
+
+
+
+
+
+
+
+
+log in
+cancel
+ok
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+honeywell is an equal opportunity employer. qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.
+for more information on applicable equal employment regulations, refer to the  eeo is the law poster . 
+please refer to the eeo is the law supplement poster & the pay transparency policy.
+if a disability prevents you from applying for a job through our website, request assistance here. no other requests will be acknowledged.
+terms & conditions | privacy statement
+© 2017 honeywell international inc.
+
+
+
+
+
+
+
+
+

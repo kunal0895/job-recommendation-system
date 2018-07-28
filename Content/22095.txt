@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+schrödinger | leader in developing state-of-the-art chemical simulation software for use in pharmaceutical and biotechnology research.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+            schrödinger          
+ 
+
+
+
+home
+products & services
+
+small-molecule drug discovery suite
+biologics suite
+materials science suite
+discovery informatics suite
+pymol
+all software applications
+discovery services and collaborations
+it services
+request trial license
+request sales quote
+
+
+
+science
+
+biologics design
+catalysis and chemical reactivity
+dft-based pka prediction
+docking and scoring
+force field
+free energy methods (fep)
+machine learning & qspr for materials
+organic electronics
+shape-based screening
+water thermodynamics
+publications
+
+
+
+support
+
+contact support
+license information
+seminars
+training
+knowledge base
+documentation
+scripts
+python api
+known issues
+supported platforms
+
+
+
+downloads
+
+product suites downloads
+knime workflows
+free maestro
+
+
+
+about
+
+overview
+leadership
+careers
+news
+events
+newsletter
+partners
+schrodinger k.k.
+contact us
+
+
+
+
+
+search 
+
+
+>> search by topic
+
+search by topic:(select one or more) > back to keyword search
+topics 
+
+biologics 
+
+
+data analysis and visualization 
+
+
+lbdd 
+
+
+lead optimization 
+
+
+materials science 
+
+
+protein structure prediction 
+
+
+sbdd 
+
+
+target id and validation 
+
+
+virtual screening 
+
+
+
+>
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+senior scientist, machine learning and virtual screening
+
+
+location:
+new york
+
+
+job code:
+326
+
+
+# of openings:
+1
+
+
+
+description
+senior scientist, machine learning and virtual screening
+schrödinger, a technology leader specializing in software solutions for life science research and development, is seeking a computational scientist with outstanding skills in empirical scoring function development, parameterization and validation.  the ideal candidate is a scientist experienced in the application, development, and refinement of methods to rapidly predict protein-ligand complex geometries and ligand activities. the candidate should also have a demonstrated ability to adapt modern machine learning methods to virtual screening applications.  the candidate should also work well in a collaborative environment and be eager to adopt good software engineering practices. 
+required qualifications include:
+
+ph.d. in computational chemistry, chemical physics, or related fields
+unix/linux, fortran/c/c++, and python experience
+peer-reviewed publications in computational chemistry and/or chemical physics
+experience using modern machine learning methods including random forest, support vector machines, and/or deep learning
+experience developing empirical scoring functions for predicting protein-ligand complex geometries and binding affinities
+excellent communication skills, both written and verbal
+
+benefits include medical, dental, 401(k), flexible spending account, vacation, tuition reimbursement, and a flexible work schedule.
+schrödinger is an equal opportunity employer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get our newsletter 
+
+
+ 
+
+
+
+schrodinger. leader in computational chemistry, providing software solutions and services for life sciences and materials research.  
+
+
+
+copyright © 2005-2016 schrödinger, llc 
+
+
+
+privacy policies
+terms of use
+fcoi policy
+log in
+eula
+ 
+
+
+
+twittergoogle pluslinked inyoutube 
+
+
+
+

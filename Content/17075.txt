@@ -1,0 +1,60 @@
+
+
+
+
+wespeke - jobs: java/grails api developer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+java/grails api developer
+
+java/grails api developer
+pittsburgh, pennsylvania, united states · engineering · be-1-2017
+
+descriptionwe are looking for a java/grails api developer who will be responsible for designing and implementing rest apis used by our many clients:  web, mobile applications and third parties.  responsibilities will include working with front-end developers, ui/ux designers and third party companies to design and implement highly performant rest api access to our data.  you will work with the technical team to design and implement required apis, as well as necessary tests.responsibilities design and implement rest apis using grails or spring mvc design and implement domain objects that are persisted to mysql and/or neo4j utilize hibernate or gorm. design and implement business services using groovy and/or spring annotated beans. create junit and/or spock tests. create performance tests,and analyze and fix performance problems. maintain source code with adequate documentation for assigned modules in source control system work with quality assurance on resolving product issues in a timely manner participate in iteration planning meetings (provide time and risk estimates) provide regular feedback on progress and challenges notify management promptly about development issues affecting schedule requirementsrequired experienceminimum 3 years relevant experience in a commercial setting, working on similar projects.required skills java and/or grails rest interfaces mysql neo4j desired skills familiarity with linux/unix web hosting environment familiarity with aws elastic beanstalk, ec2, s3 familiarity with docker familiarity with jenkins hands-on knowledge of html5, css3 and javascript (including ajax) automated testing working knowledge of git working knowledge of agile software development processes performance testing and tuning required soft qualities passion for innovation cross-functional teaming preference for high-pace, goal-oriented environment active communicator high work ethics disciplined approach to software development learning agility problem solving and persistence skills benefits competitive salary commensurate with skills and work experience company stock incentive program for early employees exceptional medical insurance plan flexible work hours agile development process and open communication open space work environment with natural light free snacks, coffee and tea windows, mac or linux computers – per personal preference office building in beautiful green area plenty of free parking space 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+wespeke website
+
+powered by
+workable
+
+
+
+
+

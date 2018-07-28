@@ -1,0 +1,745 @@
+
+
+
+
+
+
+		data engineer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+data engineer
+minsights – new york, new york
+
+
+apply for this job
+
+
+
+
+department
+minsights
+
+
+employment type
+full-time, exempt
+
+
+minimum experience
+mid-level
+
+
+
+
+
+
+
+
+
+
+about murmuration
+murmuration seeks massively improved education outcomes for kids by providing information, infrastructure, and support for education-related public advocacy and community building efforts.  
+one of mumuration's key initiatives, minsights, is an online platform that allows users to aggregate data from a wide variety of sources such as partner organization’s member data, publicly available data, consumer data, voterfile data, and more. this data can then be used by partners to activate and expand their supporter bases effectively, and mobilize them for sustained political change. we also use this data to build predictive machine learning models that improve our partners’ efficiency. murmuration has the unique opportunity to build, with partners, a massive dataset that can leverage creative data science to profoundly change the way that advocacy efforts and service providers engage their bases.  
+about the position
+we are looking for an innovative data engineer to maintain and architect the data systems and pipelines to support our efforts. we use a variety of leading database technologies (aws redshift, mongodb) to store our existing data and the data engineer is core to maintaining those resources. the role calls for expertise in managing aws resources and maintaining python data ingestion pipelines. there is also the opportunity to architect new data stores for our ever-growing data needs, and so a creative, problem solving mindset is highly desirable. 
+the data team is a highly collaborative, friendly and hard-working group and we are looking for team members that embody those values. the data engineer will report to the director of data. 
+the data engineer will: 
+
+build, maintain and enhance a robust data warehouse to centrally hold data from partners, vendors and other data sources. 
+develop and deploy aws resources like redshift and rds clusters and ec2 instances to support our work, and manage the security around those resources through aws security groups and vpcs
+manage and improve the data ingestion pipelines that service our data warehouse, which are currently built in python. 
+collaborate with our data science team to help build out our data analytics automated pipeline in python
+architect new database solutions for our growing data needs, in a team that highly values new and innovative technologies as much as tried and trusted solutions
+make recommendations and provide strategic support regarding ways to make data and database operations more efficient and effective across murmuration
+
+candidate profile
+murmuration attracts employees with distinctive and diverse backgrounds and accomplishments. integrity, creativity, flexibility, and drive are key attributes of competitive candidates. 
+the ideal candidate will have: 
+
+msc or higher in computer science or equivalent degree
+>1 year experience managing large aws database resources, either rds, redshift or dynamodb, and the setup of vpcs and security groups to manage access to these resources
+excellent sql skills, with experience in building and interpreting complex queries 
+excellent python programming skills, with a track record of well-designed and maintainable code. you do not have to be a professional programmer but you should be able to demonstrate mastery of how to build a data processing pipeline, that scales and is easily maintained. 
+experience in database design and structure, with an emphasis on scalability
+a strong desire to develop new and innovative ways to improve our data storage and processing. 
+
+
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+new york, new york
+
+
+department
+minsights
+
+
+employment type
+full-time, exempt
+
+
+minimum experience
+mid-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

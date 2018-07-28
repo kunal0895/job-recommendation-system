@@ -1,0 +1,208 @@
+
+data scientist job - systematrix solutions - atlanta, ga | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+systematrix solutions
+     -
+atlanta, ga
+
+
+as a member of our data science team, you will be responsible for developing ai software that solves hard problems. we currently innovate within the banking, healthcare, agriculture, and energy industries, and are passionate about working as a team to explore new domains. our data science team is comprised of experts in machine learning, natural language processing, computer vision, bioinformatics, robotics, and social network analysis, amongst other specializations. we would love to see how your skills complement our team and to provide you with the resources to enhance your career.we are located in the business district of downtown atlanta. we also offer a competitive salary and benefits. the data scientist position offered (entry, intermediate, senior) will be based on industry experience, demonstrated proficiency in solving real-world problems, and other qualifications.key responsibilitiesdeveloping new ideas for solving seemingly intractable problemsimplementing these ideas into an algorithmic solution as an individual or in collaboration with your teammates.communicating with our clients to ensure the proposed solution meets their needs and expectationspushing solutions into production and ensuring their stabilityworking with our graph analytics / social network analysis team to implement analytics that push the state-of-the-art forward within one of our central products.minimum qualificationsbachelors degree in computer science, statistics, or related scientific fielddemonstrated proficiency in constructing an ai/machine learning solution outside of a classroom setting2+ years programming experience in python, r, or javacoursework in ai, machine learning, data science, social network analysis, etc.ability to work in atlanta, georgia ( remote work is not an option - relocation compensation may be provided)ability to work both as a team member and individuallyability to learn new algorithms, techniques, technologies, etc.demonstrated expertise in social network analysis/graph analytics/network sciencepreferred qualificationsmsc or phd in computer science, statistics, or related scientific field1+ years of industry experience within ai/machine learning/data science3+ years programming experience in python, r, or javastrong publications in journals or conferencesexpertise in natural language processingexpertise in distributed computing, especially in implementing solutions with apache sparkexpertise in data visualizationif interested in this position, please complete the following questions and submit your answers, in addition to items listed at the bottom of this job post.q. imagine you are asked to build a graph analytics framework to evaluate a set of 100 million customers. each customer has a unique id assigned to them, as well as other identifying information (e.g. name, address, phone, e-mail, etc.), information about their customer behavior (e.g. customer start date, product subscriptions, etc.), and relationships between customers (e.g. customer x and customer y share a phone number, etc.).how would represent and store the data? why?what would you use as a database for storing the data?what sort of analytics would you perform on these data in order to detect unusual nodes or edges in the graph/network? why?how would you ensure these analytics were scalable?what languages/tools/libraries would you use to accomplish this?please provide as much detail as possible for these questions, including citing specific algorithms, techniques, and pseudocode.*please submit the following with your application*resume/cvlink to your linkedin profileanswers to the questions provided aboveearliest availability to start at the jobphone number*list of available times for a phone interview over two week period after date applied*job type: full-timerequired education:master's
+
+30+ days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to systematrix solutions.
+
+
+
+
+
+
+other jobs you may like
+
+
+data scientist
+
+csra -
+					atlanta, ga
+1 day ago
+
+
+data scientist
+
+constant analytics, inc. -
+					atlanta, ga
+1 day ago
+
+ easily apply
+
+
+
+data scientist, commerce platform
+
+square -
+					atlanta, ga
+5 days ago
+
+
+senior data scientist
+
+ignitionone -
+					atlanta, ga
+4 days ago
+
+
+data scientist
+
+georgia tech research institute (gtri) -
+					atlanta, ga
+8 days ago
+
+ easily apply
+
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

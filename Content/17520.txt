@@ -1,0 +1,149 @@
+
+
+
+
+  javascript developer | tembo inc. | smart analytics. engaging designs. better decisions. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+work
+about
+careers
+news
+contact
+ 
+
+
+
+
+
+
+
+javascript developer
+
+
+details
+
+location: philadelphia, pa
+team: development
+manager: chief technology officer
+direct reports: none
+
+to apply
+send an email to careers@temboinc.com with the following:
+
+subject line javascript developer
+your email should describe why we need you
+attach a current resume
+
+about your role
+the javascript developer at tembo will analyze, develop, and manage small and large web applications. the javascript developer reports to the chief technology officer and will join a growing development team focused on providing web applications to achieve the ambitious goals of tembo and its clients.
+what you’ll do
+
+build small and large web applications from scratch, or maintain existing applications, using appropriate frameworks and/or microservices
+integrate with apis to extract data from existing data sources both internal and external
+build dynamic templates via templating libraries (handlebars, jinja2, etc)
+create and maintain js build processes using tools like webpack
+document and unit test applications
+troubleshoot and fix bugs in existing solutions
+interact with various stakeholders as needed including product teams, end users, and technology partners
+analyze technology and infrastructure choices faced by tembo and making recommendations, based on in-depth reviews and analysis of available options
+respect your coworkers and treat them well
+perform other related duties as assigned
+
+who we’re looking for
+we value technical and communication skills above years of experience. we encourage all candidates who feel they excel at the qualifications listed to apply.
+
+demonstrable experience working with javascript (vuejs or react experience a plus, charting experience with d3 a plus, product environment a plus)
+experience working with at least one server-side language (python-preferred)
+experience working with html, css
+ability to iterate and build working, tested software quickly
+working knowledge of database design, object oriented programming, and mvc patterns
+familiarity with agile concepts, pair programming, test/behavior-driven development (experience with any of these a plus)
+familiarity with sql, ajax, json, and version control systems (git, mercurial, etc)
+strong attention to detail and a fundamental concern for the accuracy of information, including the ability to organize large amounts of data and track multiple projects simultaneously
+
+what we offer
+
+competitive salary
+paid medical and dental program and 401k with 4% employer match
+paid continuing education benefit and peer-to-peer professional development
+loft, open-design office and passionate, intellectually curious colleagues 
+
+
+
+
+
+
+
+
+
+
+hello@temboinc.com
+                        215-427-3608
+                        © 2017 tembo inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

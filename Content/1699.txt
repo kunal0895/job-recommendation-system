@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: data engineer intern (summer 2018) (114205) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+                              sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: data engineer intern (summer 2018) (114205)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition id 114205 - posted 09/12/2017 - intern/co-op - cto - it - austin - texas - united states - americas
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+at ea, we thrive on outrageous thinking. it’s the fuel that inspires the best games in the world. we’re innovators and great storytellers. but it’s not just about amazing your peers – it’s about amazing yourself. take risks. collaborate with brilliant minds and dare to dream big. together, we can change the way millions play every day.
+job description:
+
+model,design and build data pipelines using  etl/elt  methods.
+
+
+develop new data models that provide intuitive analytics to business  users
+
+
+develop prototypes,proof o concept on modern technology stack and models.
+
+
+coding skills across a number of languages from python, java and using aws.
+identifying and correct data quality issues using statistical models.
+develop  automated regression suite for data ingestion process.
+develop statistical model to support advance analytics  and data visualization.
+
+required skills
+
+masters in computer science or related field, with a focus data management 
+experience working with data warehouses and data platforms.
+a solid foundation in computer science, with strong competencies in algorithms, data structures, and software design
+fluency in writing  sql and java/perl/python
+experience using any data visualization or reporting tool is a plus
+understanding of aws  and technology stack is a plus.
+fast prototyping skills, familiarity with scripting languages such as python,java
+experience working with columnar analytics databases or relational databases is a plus
+experience with data modeling and bi tools is a plus
+great communication, time-management, and teamwork skills
+must have an advanced computer science degree
+
+ea is an equal opportunity employer. all employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status or veteran status. we will also consider for employment qualified applicants with criminal records in accordance with applicable law.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

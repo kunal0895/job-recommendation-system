@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+monster solutions
+						    web software developer - (p16a-cm-co05073)
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+ 
+
+
+
+
+
+
+
+
+
+federal contracting subsidiaries
+
+
+
+
+
+
+
+
+
+saxman group subsidiaries
+
+
+
+
+
+
+attention safari users: this site requires cookies to function. please click here to accept the cookie. cookies will be used strictly for the functioning of the site.
+
+
+
+
+
+
+ 
+
+
+
+
+jump to
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+ job search
+
+
+ view all jobs
+
+
+
+
+ create account
+
+
+ login
+
+
+ help 
+
+instructions on this page
+help on this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+job details
+
+
+
+web software developer - (p16a-cm-co05073)
+×close this details all the information about the job posting.     
+
+
+
+
+
+
+
+
+
+
+
+
+share this job as a link in your status update to linkedin.
+
+
+
+
+
+
+
+
+
+
+
+														
+																	job title
+																
+															
+
+								web software developer
+															
+
+
+
+														
+																	job description
+																
+															
+
+concentric methods is seeking an experienced web software developer to support the department of interior it programming applications & services support for human resources directorate. essential functions and responsibilities 
+the web developer shall be responsible for:
+analyze program, subsystem requirements and specifications as well as to develop data flow and logic diagrams.  
+recommend software tools to increase efficiencies and increase accuracy where possible.  
+design and develops modules to accomplish system functions.  
+design web-based applications in support of analysis and validating migration efforts as well as in support of web-based training.  
+develop programs/modules from specifications using coldfusion, hyperion performance suite, oracle business intelligence or other appropriate applications as determined by the federal staff.  
+the contractor shall develop procedures to manage data and security using ibm mainframe utilities, unix/linux utilities and windows desktop operating system and other appropriate tools.  
+test, debug, and modify computer programs.  
+develop test data, test environments, and test procedures which allow modules/programs to run as part of the overall system.  
+prepare program documentation to identify all modifications done to any existing program.  
+assist in the implementation of clients onto the ibc systems and assist with the resolution of development and migration problems.  
+design and modify modules/programs to reduce operating time and improve efficiency where possible.  
+perform these functions in ibm main frame, unix/linux, pc/lan, and/or other computer environments as determined by federal staff.  
+when requested, the contractor shall assist other ibc divisions with special projects that are within the contractors area of expertise.
+other duties as assigned.
+ 
+
+
+
+
+														
+																	travel
+																
+															
+
+
+
+
+
+														
+																	shift type
+																
+															
+
+
+
+
+
+														
+																	job type
+																
+															
+
+								full-time
+															
+
+
+
+														
+																	date needed by
+																
+															
+
+
+
+
+
+														
+																	salary grade
+																
+															
+
+
+
+
+
+														
+																	job requirements
+																
+															
+
+high school diploma and two (2) years of experience in information technology (it) or related field
+must have authorization to work in the united states as defined by the immigration reform act of 1986. 
+cape fox corporation, its subsidiaries, and joint ventures will provide equal employment opportunities to all persons and prohibits employment decisions on the basis of race, religion, color, creed, national origin, sex, age, disabling condition, political affiliation, protected veterans status, or sexual orientation. cape fox corporation, its subsidiaries and joint ventures offer preference to cape fox corporation shareholders, descendants and other native americans pursuant to public law 100-241.
+
+
+
+
+														
+																	category
+																
+															
+
+								information technology
+															
+
+
+
+														
+																	career level
+																
+															
+
+								experienced (non-manager)
+															
+
+
+
+														
+																	hiring manager
+																
+															
+
+
+
+
+
+														
+																	location
+																
+															
+
+								department of interior - ibc - lakewood, co 80235 us (primary)
+
+
+
+
+														
+																	exemption type
+																
+															
+
+
+
+
+
+														
+																	education
+																
+															
+
+								high school
+															
+
+
+
+														
+																	# of hires needed
+																
+															
+
+								1
+															
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ apply to this job
+
+
+ 
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ top of page
+
+
+						v14.3.5.1 | copyright © 2017 monster - all rights reserved - u.s. patent no. 5,832,497 - nyse: mww 
+													powered by monster.
+											
+
+
+
+					cape fox corporation, its subsidiaries and affiliates provide equal employment opportunities to all persons and prohibit employment decisions on the basis of race, religion, color, creed, national origin, sex, age, disability, political affiliation, protected veteran status, or sexual orientation. cape fox corporation, its subsidiaries and affiliates offer preference to cape fox corporation shareholders, descendants and other native americans pursuant to public law 100-241.
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

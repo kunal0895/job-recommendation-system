@@ -1,0 +1,483 @@
+
+
+
+
+
+business analyst - infrastructure technology  in  houston, tx | jpmorgan chase & co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+referral sponsor portal
+sign up now!
+login 
+
+
+
+
+
+
+divisions
+locations
+programs
+why us
+
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+divisions
+locations
+programs
+why us
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+menu
+
+
+referral portal
+
+
+
+
+
+
+
+
+
+careers / job search / job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+business analyst - infrastructure technology
+
+req #: 170100581_2
+location:
+
+
+houston, 
+		tx,
+                us
+
+job category: technology
+potential referral amount: 5000 us dollar (usd)
+
+jpmorgan chase & co. (nyse: jpm) is a leading global financial services firm with assets of approximately $2.5 trillion and operations in more than 60 countries. the firm is a leader in investment banking, financial services for consumers, small business and commercial banking, financial transaction processing, asset management, and private equity.
+ 
+global technology infrastructure (gti) is the technology infrastructure organization for the firm, delivering a wide range of products and services, and partnering with all lines of business to provide high quality service delivery, exceptional project execution and financially disciplined approaches and processes in the most cost effective manner. the global technology infrastructure core foundation services team (gti cfs) is responsible for providing end to end support for critical technologies that are used across the company. this includes configuration and orchestration, identity management, name services, enterprise monitoring solutions, and automation tools used to manage these technologies.
+ 
+we are looking for a technical business analyst to join our growing engineering team and build out the next generation of automation technology for our platform. the ideal candidate is a hands-on person that has strong background in implementing complex technologies. we are looking for someone who can help the businesses implement solutions that help facilitate: 
+
+
+data analysis of the organization’s need to ensure automation development effort is focused on the biggest return on investment 
+
+recommending solutions to meet the business needs by working with technology teams that range from development and production support teams
+
+communicating with both management and non-management teams to design solutions
+
+working with a team of software engineers and infrastructure developers to deliver automation frameworks that will be adopted by all technologists
+as part of the configuration management and automation services (cmas) team you will businesses implement the next generation of automation frameworks to be adopted by all technology teams that transforms how jp morgan chase approaches resiliency, operational efficiencies, and adoption of modern devops practices.
+ 
+in the role of a technical business analyst, you will be responsible for:
+
+
+understanding the role and being a product owner
+
+develop agile product backlog items for presentation to development teams and business owners including appropriate assumptions, acceptance criteria, user details, and non-functional requirements
+
+understanding what the business does and how it is accomplished and key process dependencies that may exist
+
+analyze business functional requirements to identify information, procedures and decision flows
+
+assist in identifying scope of work
+
+elicit requirements and document in either a business requirements document format or, as agile backlog items
+
+elicit requirements and document in either a business requirements document format or, as agile backlog items
+
+ability to communicate technical information to a non-technical audience; communication of business information to a technical audience
+
+co-ordinate testing efforts with quality assurance
+
+collaborate cross functionality with infrastructure developers, support teams, and other software engineering teams
+
+working with a team of software engineers and infrastructure developers to deliver automation frameworks that will be adopted by all technologists
+
+provide recommendations for continuous improvementsqualifications:
+
+
+bachelor’s degree in computer science, information technology, or related field preferred; master’s degree preferred
+
+minimum of 4 years’ practical experience in business analysis required
+
+minimum of 3 years’ experience in scrum/agile environments; scrum certification preferred
+
+experience gathering requirements from the client/business and documenting
+
+experience with process improvement, workflow, benchmarking and / or evaluation of business processes required
+
+intermediate level of proficiency with pc based software programs and automated database management systems required (excel, access, powerpoint) required.
+
+ability to communicate analysis including trends and opportunities to clients and the business in writing and verbally required
+
+ability to problem solve including multiple priorities and research conflicting and/or inaccurate data as required.
+
+working knowledge of relational databases, database structures is required
+
+experience working on an agile/scrum team preferred
+
+excellent verbal and written communication skills
+
+working with teams that use the following software/tools:
+
+
+modern programming languages: java, python, etc.
+
+infrastructure automation technologies: ansible, puppet, chef, etc.
+
+build automation technologies: maven, jenkins, etc.
+
+monitoring technologies: nagios, tivoli, scom, etc.
+
+building apis and services using rest, soap, etc.
+
+creating a distributed streaming or messaging layer using qpid, rabbitmq, kafka, etc.
+
+scripting languages like python, perl, shell, etc.
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our talent community
+not ready to apply? leave your information with us and we will keep you up to date with new career opportunities.
+join now
+
+
+
+things to note
+sign in to our application system to continue your job search or update your profile.
+current employees sign in here.  contractors sign in here.
+any information you provide is confidential and will only be viewed by our recruiters in an effort to fill open positions. in addition, the information you provide is subject to our privacy policy practices.
+please note that j.p. morgan will not accept unsolicited approaches or speculative cvs, nor will j.p. morgan be responsible for any related fees, from third party firms who are not preferred suppliers.
+the firm invites all interested and qualified candidates to apply for employment opportunities.
+need disability related assistance?
+if you are a us or canadian applicant with a disability who is unable to use our online tools to search and apply for jobs, please click here.
+important links
+click here to view the "eeo is the law" poster.
+click here to view the "eeo is the law" supplemental poster.
+click here to view our u.s. pay transparency policy.
+jpmorgan chase is an equal opportunity and affirmative action employer disability/veteran.
+
+
+
+
+
+
+
+your career. your way.
+
+privacy & security
+terms of use
+cookies policy
+
+
+equal opportunities
+site map
+
+
+
+
+
+
+
+
+
+
+corporate twitter links
+
+
+
+
+jpmorgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+
+jpmorgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+jpmorganchase.com
+jpmorgan.com
+chase.com
+
+
+
+
+
+corporate twitter links
+
+
+
+j.p. morgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+j.p. morgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 jpmorgan chase & co. all rights reserved. powered by smashfly
+
+
+
+
+
+
+
+
+
+
+

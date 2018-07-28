@@ -1,0 +1,437 @@
+
+
+
+
+
+application developer - nov 9, 2017 - philadelphia, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us									
+
+
+
+inside luxoft 
+
+benefits
+excelian
+training & communities
+relocation program
+social responsibility
+discover us
+events
+referral program
+
+
+
+
+job opportunities									
+
+
+
+students & grads									
+
+
+
+
++
+
+
+has been added to your jobs
+
+
+
+ my jobs (0)
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+homecareers areaapplication developer
+
+
+
+
+
+
+
+
+
+position
+application developer
+
+project description
+
+                                    application developer                                
+
+responsibilities
+
+                                    perform all phases of software engineering including requirements analysis, application design, code development and testing
+• designs, codes, tests, debug, and documents software, and enhance existing components to ensure that software meets business needs
+• work very closely with architecture groups and drive solutions
+• develop code using modern approaches to software development
+• design reusable components, frameworks and libraries
+• develop reusable patterns and encourage innovation
+• conduct design and code reviews to ensure code developed meets coding best practices guidelines, unit testing, security, and scalability and maintainability guidelines
+• review code and provide feedback relative to best practices and improving performance
+• collaborate on the design with other team members and product owners, both inside and outside the scrum team
+• mentor and guide other software engineers within the team to promote modern approaches to software development
+• contribute to the design and architecture to enable secure, scalable, and maintainable software and should be able to clearly articulate the implications of design/architectural decisions, issues and plans to technology leadership
+• estimate engineering work effort for engineering team and effectively identify and prioritize the high impact tasks
+• drive a quality mindset within the team
+
+
+what software tools/skills are needed to perform these daily responsibilities?
+10 years or more of strong hand-on experience with java enterprise edition (java/j2ee) and web technologies
+spring, jboss, service-oriented architectures (soa), restful web services
+6+ years of experience with the spring frameworks
+6+ years of experience with automated unit testing technologies (such as junit, spock, or similar)
+6+ years of experience with mock data frameworks for unit testing
+3-5 years of solid agile experience (scrum preferred)
+3+ years of devops experience
+demonstrated success in building design patterns and software engineering best practices, especially related to business process management and rules management
+knowledge of web security, application security, web services security, common vulnerability remediation, certificate management and use                                
+
+skills required
+
+                                    spring, jboss, service-oriented architectures (soa), restful web services, experience with devops and agile (scrum or similar) is a must.
+
+what skills/attributes are nice to have?
+red hat bpm suite experience, or drools experience or similar experience working on rules engine. knowledge of web security, application security, web services security, common vulnerability remediation, certificate management and use                                
+
+
+
+
+
+
+
+where
+
+
+
+philadelphia
+
+
+
+
+
+
+                                                work type
+                                            
+
+
+                                                    javascript                                                
+
+
+
+
+add to my jobs
+
+recommend a friend
+ 
+
+apply
+
+
+
+
+
+
+check us out on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+more job opportunities in                javascript
+
+ 
+
+
+
+
+
+specialization
+position / title
+location
+
+
+send to a friend
+
+
+
+
+
+javascript
+
+
+
+                                front end developer            
+
+
+
+
+philadelphia, us                
+
+
+
+
+apply
+or
+add to my jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+back to the top
+
+
+
+ 
+
+
+
+
+
+
+luxoft
+privacy policy
+contact
+ 
+
+
+                © 2017 luxoft            
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+
+×
+let us know your thoughts
+
+
+
+
+
+
+
+
+
+how would you rate your experience?*
+
+
+
+-
+positive
+negative
+
+
+
+
+
+
+please select the category that best describes you*
+
+
+
+-
+looking for a job
+searching for information about luxoft
+looking for relocation possibilities
+recommending a friend
+recommended by a friend
+
+
+
+
+
+please share your comments*
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

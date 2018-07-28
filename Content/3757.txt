@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+data scientist – tilting point – mobile game publisher
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+ 
+
+        
+
+
+
+games
+services
+news
+jobs
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+by tilting pointdecember 7, 2017 no comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                                        
+                    tilting point                    
+                                        
+                                    
+
+                    published: december 7, 2017                
+
+
+
+
+
+location
+
+new york city, united states
+
+
+
+
+
+
+job type
+
+full-time
+
+
+
+category
+
+engineering & data
+
+
+
+
+description
+
+tilting point is looking for an awesome data scientist to join us in our nyc headquarters!
+responsibilities:
+reporting to the senior data scientist, you will:
+
+partner with all departments to meet all of their different data analysis needs by leading the design and building of both large systematic reports and small custom pieces.
+collaborate with product teams and help define data taxonomies for tracking of game events.
+ build end-user long-term value (ltv) projections and new data models for user acquisition tactics and games growth projections.
+design and build comprehensive game, database and programmatic ad buying data analytics system tools and oversee development of system tools by junior analysts and data engineering.
+serve as data team lead in communicating and presenting daily to all outside game studio partners:  data findings and insights, related strategic recommendations, and status of game tool systems development.
+
+required qualifications:
+
+bachelor’s or equivalent degree in data science, mathematics, statistics, operations research, or engineering technology with an emphasis on statistical analysis and 1+ years of data science experience in mobile/digital analytics.
+1 year of experience with: sql; statistical, machine learning, and bayesian knowledge with statistical significance testing, a/b testing, and predictive analytics skills; data modeling, design, and architecture principles; data mining, clustering, and segmentation; scripting languages python, r, php, javascript.
+1 year of experience building user behavior prediction using the following machine learning techniques: linear regression; lasso/ridge; logistic regression; naïve bayes; decision tree; random forest; support vector machine; neural network; deep learning; k-means; clustering; nearest neighborhood; and logit.
+experience creating and optimizing campaigns for facebook ads, adcolony, unity ads, apple search ads, tv advertising, and google adwords for a programmatic ad buying system.
+experience in a free-2-play mobile game company environment building automation services and working with facebook apis, amazon redshift, amazon web services aws, lambda, ec2, mobile analytics, quicksight, kinesis, and google bigquery and big plus!
+
+submit resume to jobs@tiltingpoint.com
+*direct applicants only - no agencies/headhunters please.*
+tilting point provides equal employment opportunity to all individuals regardless of their race, color, creed, religion, gender, age, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by state, federal, or local law. discrimination of any type will not be tolerated. this policy applies to all terms and conditions of employment, including recruiting, hiring, promotion, termination, time off, and compensation.
+
+
+
+
+related jobs
+
+
+
+associate recruiter / talent acquisition manager
+                  
+                new york city, united states
+new 
+
+            december 12, 2017            
+
+
+
+growth marketing manager
+                  
+                new york city, united states
+
+
+            december 4, 2017            
+
+
+
+senior data engineer
+                  
+                new york city, united states
+
+
+            november 28, 2017            
+
+
+
+senior qa analyst
+                  
+                new york city, united states
+
+
+            november 16, 2017            
+
+
+
+senior product manager
+                  
+                new york, united states
+
+
+            october 5, 2017            
+
+
+
+
+
+
+
+
+
+
+
+about tilting point
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+next post
+growth marketing manager 
+
+
+growth marketing manager
+
+
+
+
+            
+
+
+
+
+© 2017 tilting point media llc. all rights reserved. “game alliance” is a trademark of tilting point media llc.  privacy policy terms of service 
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+games
+services
+news
+jobs
+contact
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+

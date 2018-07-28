@@ -1,0 +1,287 @@
+
+
+
+clinical data manager iii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+home
+search jobs
+create account
+log in
+help
+
+
+
+
+
+
+
+
+clinical data manager iii
+
+bookmark this posting |
+    print preview |
+        apply for this job
+
+
+
+announcement
+
+
+
+details
+
+
+
+open date
+07/14/2016
+
+
+requisition number
+prn11762b
+
+
+job title
+clinical data manager iii
+
+
+working title
+clinical data manager iii
+
+
+job grade
+g
+
+
+flsa code
+administrative
+
+
+patient sensitive job code?
+no
+
+
+standard hours per week
+40
+
+
+full time or part time?
+
+
+
+shift
+
+
+
+work schedule summary
+tbd
+
+
+vp area
+
+
+
+department
+00952 - division of epidemiology
+
+
+location
+
+
+
+city
+
+
+
+type of recruitment
+external posting
+
+
+pay rate range
+60700 to 101649
+
+
+close date<br /><br /><strong>note:</strong> may close at anytime.
+
+
+
+open until filled<br /><br /><strong>note:</strong> may close at anytime.
+yes
+
+
+job summary
+this position is primarily a study / team lead clinical data manager. it supports multiple clinical study teams by ensuring all study related clinical data management deliverables are completed with a high degree of quality and within timelines. participates in and/or leads the cross-functional study team as the clinical data management knowledge expert.
+
+
+responsibilities
+duties and responsibilities
+•	utilize, process, and analyze elements of a comprehensive data warehouse containing clinical, financial, and patient experience data and integrate them into a single analytics platform.  
+•	perform varied analyses, design and construct data visualizations, perform data validation tests, provide technical oversight.
+required technical and functional skills
+•	strong understanding of analytics and statistics
+•	experience with relational database best practices
+•	strong technical skills in sql server experience including ssms, ssis, ssas, and ssrs
+•	working knowledge of database principles, processes, technologies and tools
+•	working knowledge of extract, transform, and load (etl) applications
+•	effective written and verbal communication and presentation skills and be comfortable presenting to all levels of client engagement (technical staff, clinical staff, managers, directors and executive teams).  ability to present key concepts to small and large audiences effectively.  ability to communicate in a group setting, concisely and at an appropriate detail level.
+•	self-motivated; comfortable working independently under general direction
+•	strong negotiation skills; ability to anticipate, diffuse and/or manage conflict resolution.  ability to lead and support technical resources through tenuous situations.
+•	excellent problem solving skills and ability to think creatively.
+•	ability to both educate and learn from others, including technical (analysts and data architects) and others who are non-technical (e.g., clinicians, physicians, executives) client team members.
+•	ability to adapt quickly and change direction as needed to address emergent client needs.
+•	ability to independently learn new software tools quickly and ask for help or training when necessary.
+•	advanced decision-making skills and ability to assimilate complex information to understand core issues, develop proposed solutions that align with va’s methodologies and support long-term interests of the client.
+•	ability to collaborate with study team members to prioritize the project management deliverables and understand risk and/or impact.
+•	strong sense of customer service to consistently and effectively address client needs
+
+
+minimum qualifications
+bachelor’s degree in the life sciences, pharmacy, nursing, a related subject, or equivalency.  requires five or more years of relevant clinical data management experience. possess in-depth understanding of the conduct and regulations involving clinical trials, clinical data management, and clinical data systems, such as federal (fda) regulations and requirements governing the conduct of clinical trials including, but not limited to, gcp and ich requirements.  possess in-depth knowledge and understanding of all data management systems and data handling procedures.  demonstrated ability to independently perform all data management activities associated with a clinical trial with minimal oversight and a high degree of quality. possess all skills, knowledge and competencies required of the cdm i, and cdm ii positions.
+
+
+preferences
+highly desirable skills
+•	software engineering experience (especially object-oriented code, unit tests, version control)
+•	fluency with healthcare data
+•	ability to productize your r or python code into a coherent package
+•	knowledge of mixed models
+•	experience with cube architecture and implementation
+•	experience with pyramid analytics
+•	experience with both iaas and paas offerings in azure or aws
+•	prefer experience supporting/leading quality improvement efforts with data from a data warehouse.
+•	agile development approaches
+•	facility with common techniques needed to preprocess raw data, avoid model over-fitting, tune hyperparameters, and perform feature selection
+•	knowledge of common r/python machine learning packages and their associated methods
+•	ability to lead and mentor other team members
+
+
+type
+benefited staff
+
+
+special instructions summary
+
+
+
+additional information
+
+the university of utah is an affirmative action/equal opportunity employer and is committed to diversity in its workforce.  in compliance with applicable federal and state laws, university of utah policy of equal employment opportunity prohibits discrimination on the basis of race or ethnicity, religion, color, national origin, sex, age, sexual orientation, gender identity/expression, veteran’s status, status as a qualified person with a disability, or genetic information.  individuals from historically underrepresented groups, such as minorities, women, qualified persons with disabilities, and protected veterans are strongly encouraged to apply. veterans’ preference is extended to qualified applicants, upon request and consistent with university policy and utah state law.
+to inquire about this posting, email: employment@utah.edu or call 801-581-2300.  reasonable accommodations in the application process will be provided to qualified individuals with disabilities. to request an accommodation or for further information about university aa/eo policies, please contact the office of equal opportunity and affirmative action, 201 s. presidents cr., rm 135, (801) 581-8365 (v/tdd), email: oeo@umail.utah.edu. 
+
+the university is a participating employer with utah retirement systems (“urs”). to be eligible for retirement contributions, you must be hired into a benefit-eligible position. certain new hires are automatically assigned to the urs retirement plan and other employees with prior urs service, may elect to enroll in the urs within 30 days of hire. regardless of whether they are hired into a benefit-eligible position or not, individuals who previously retired and are receiving monthly retirement benefits from urs must notify the benefits department upon hire. please contact utah retirement systems at (801)366-7770 or (800)695-4877 or the university’s benefits department at (801)581-7447 for information.
+
+this position may require the successful completion of a criminal background check and/or drug screen.
+
+
+
+
+
+
+posting specific questions
+
+required fields are indicated with an asterisk (*).
+
+ * 
+  do you have a bachelor's degree in a related area?
+    
+yes
+no
+
+
+
+
+applicant documents
+
+required documents
+
+resume
+
+optional documents
+
+cover letter
+appropriate discharge document (such as a dd-214 – member copy 4) – veteran only – call 801.581.2169
+addendum to the university of utah - veteran only - call 801.581.2169 after submission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

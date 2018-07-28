@@ -1,0 +1,155 @@
+
+
+
+
+
+
+		software developer - careers at obsidian solutions group	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities with obsidian solutions group
+a great place to work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    back to openings		    
+
+
+
+
+
+
+software developer
+
+ department:
+information technology
+ location:
+raleigh, nc
+
+start your application
+software developer
+1160
+primary location: raleigh, nc, us
+security clearance: secret
+
+job summary
+the defense threat reduction agency (dtra) assists the combatant commanders, services and government agencies in protecting themselves against, and executing us policy regarding, chemical, biological, radiological, nuclear, and high explosives (cbrne) threats. this assistance is provided through advanced computational analysis and development of counterforce and defensive planning capabilities through analytical models and software tools. these analytical capabilities include integrated munitions effects assessment (imea) and its characterization tool, underground targeting and analysis system (utas), as well as vulnerability assessment and protection option (vapo).
+
+key accountabilities
+
+implement 3d target interrogation routines and methods for 3d modeling of buildings, infrastructure, and equipment.
+develop fast-running engineering algorithms to predict post-detonation extreme environments such as blast, fragment, penetration, shock, and impact.
+develop algorithms predicting equipment and structural response to extreme environments including collapse and crater formation.
+develop software code that integrates engineering solutions.
+validate and verify software code for engineering-level models.
+perform full software engineering lifecycle product development.
+contribute to technical concepts and architectural design.
+coordinate with remote personnel who are providing supporting efforts.
+participate in coordination meetings with team members and customers.
+
+knowledge and skills
+
+must have good knowledge and recent experience with c++, experience with c++ 11 is a plus. 
+all personnel shall be highly proficient in using basic computer applications such as microsoft office.
+strong oral and written communication skills.
+desired:
+
+self-directed, detail oriented, problem solver.
+strong understanding of spatial relationships and search algorithm.
+familiarity with agile software and test driven development practices.
+
+
+
+experience and education
+
+bachelors degree or equivalent in cs or related field.
+c++ developer with experience developing simulation software.
+desired:
+
+experience developing multithreaded software applications.
+experience with large scale software design and architecture.
+some experience with computer graphics apis such as   openscenegraph.
+
+
+
+physical requirements and work environment
+
+normal office environment. 
+
+travel
+
+minimal travel expected.
+
+disclaimer
+the above information on this description has been designed to indicate the general nature and level of work performed by employees within this classification. it is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.
+company overview
+obsidian solutions group (osg) is a diversified consulting and technology company providing flexible and responsive solutions to federal, state, and local agencies and organizations. our core domains are overseas and domestic mission support operations, collection/analysis/identification, and information technology. obsidian solutions group is comprised of strategic and operational personnel who provide its clients deep domain expertise across a comprehensive spectrum of skill sets, allowing mission accomplishment and development of long-term capabilities.
+obsidian solutions group is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, any other non-merit factor, or any other characteristic protected by law.
+start your applicationor 
+
+
+
+
+
+
+ visit our home page © 2017 obsidian solutions group 
+
+applicant tracking system powered by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

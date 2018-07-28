@@ -1,0 +1,267 @@
+
+
+
+
+job application for backend engineer at resy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend engineer
+
+        at resy
+      
+(view all jobs)
+
+        new york, ny
+      
+
+
+who we arebuilt ‘by restaurants for restaurants’, resy is a saas company that’s challenging long-standing reservation tools and disrupting the status quo created by clunky, expensive reservation services. we use technology to redefine hospitality by offering a cutting edge real-time cloud-based system with flat pricing, resetting industry expectations about how much value restaurants should expect from technology partners. some of the best restaurants in the u.s., including union square cafe, chez panisse and the hillstone restaurants use our platform.voted one of fast company’s “most innovative companies,” we recently raised $13 million in a series a funding round led by airbnb and is airbnb’s exclusive partner for restaurants.we were co-founded by ben leventhal, cofounder of eater and restaurant industry entrepreneur; gary vaynerchuk, an entrepreneur, investor, author; and michael montero, founder of crowdtwist and fotolog and noted cto.
+about the roleat resy, we are tackling hard problems with elegant solutions and scaling very quickly. as one of resy’s backend engineers, you will be working to innovate pos integration and mobile payments, helping to extend our micro-services infrastructure, building new features for our flagship product resyos and pioneering a new yield management software we call the inventory optimization engine.
+requirements
+
+bachelor's degree in computer science or engineering
+2-3 years of experience working as a software engineer preferably in a fast-paced startup environment
+strong expertise with the following:
+
+python
+sql
+rdbms and database design
+test driven development
+mysql
+linux/unix/os x
+rest api design
+
+self-starter who’s comfortable working independently without a ton of supervision
+
+what we offer
+
+competitive salary
+full benefits (medical, dental, vision, fsa, commuter benefit, life insurance)
+unlimited paid time off
+airbnb discount
+equinox gym discount
+beautiful dog-friendly soho office with fully stocked kitchen and café
+company-sponsored social events, including friday family meal
+no shortage of good restaurant recommendations
+
+resy is committed to equal employment opportunity through attracting and retaining a diverse team of employees and creating an inclusive environment for all. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+salary requirement
+    
+
+
+
+
+
+what's your favorite restaurant on resy?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

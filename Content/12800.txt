@@ -1,0 +1,413 @@
+
+
+
+
+
+uc san diego jobs | new | 90673
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+uc san diego jobs site
+
+
+
+
+
+
+
+
+home
+home
+tutorials
+help/contact us
+frequently asked questions
+my profile
+sign in
+contact info
+background
+education
+work history
+profile summary
+my resume
+upload resume
+create resume
+my resumes
+my jobs
+applications in progress
+my current status
+bookmarked jobs
+saved searches
+job bulletin
+search by category
+new jobs
+browse all jobs
+browse campus jobs
+browse health jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+|
+academic jobs
+|
+uc systemwide
+
+
+
+
+
+
+
+
+
+
+jobs home
+
+home
+tutorials
+help/contact us
+frequently asked questions
+
+
+
+my profile
+
+contact info
+background
+education
+work history
+profile summary
+
+
+
+my resume
+
+upload resume
+create resume
+my resumes
+
+
+
+my jobs
+
+applications in progress
+my current status
+bookmarked jobs
+saved searches
+
+
+
+job bulletin
+
+search by category
+new jobs
+browse all jobs
+browse campus jobs
+browse health jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+column content left
+
+
+
+
+
+
+uc san diego jobs home
+
+ ▶ 
+
+position overview
+
+bookmark this job
+
+
+new jobs
+93 of 102 positions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return to category listing  previous position  next position
+
+
+
+
+
+
+
+
+
+
+
+
+#90673 scientific software developer
+extended deadline: thu 12/21/2017
+
+
+apply now
+
+
+
+
+
+
+posting/position will remain "open until filled" 
+
+description
+the scientific software developer will use his/her skills as a seasoned, experienced bioinformatics programming professional with a broad understanding of computational algorithms; identifies and resolves a wide range of issues / software bugs. s/he will demonstrate good judgment in selecting methods and techniques for obtaining solutions and operate independently.
+additionally, s/he will develop, implement, and maintain complex scientific and web-based software systems for the rcsb protein data bank (pdb; http://www.rcsb.org) at the university of california san diego (ucsd).
+the scientific software developer will work closely and collaboratively with other software developers and scientists at the san diego supercomputer center (sdsc) and the rcsb pdb partner sites to expand rcsb.org's functionality and reliability as a premier biological data and information resource.
+-develop new scalable algorithms for the mining and analysis of the rapidly growing pdb archive using leading edge big data technologies. design and implement user interfaces for the query, analysis, reporting, and visualization of 3d structural information and associated annotations.
+-integrate external database resources with rcsb pdb to provide a structural view of biology. help lead the design of databases and data warehouses to store and aid in the query of data.
+-be actively involved in the software development process, maintenance and system standards for analysis algorithms, tools, and infrastructure.
+-serve as expert on relevant scientific and technical aspects of the various web, web services, and database components of the rcsb pdb. stays abreast of the latest development in structural and computational biology and new technologies.
+-applies advanced bioinformatics concepts to design, develop, modify, debug, and evaluate highly complex software programs and web tools. translates scientific problems into scalable and maintainable software solutions that meet end user needs.
+-further science through scientific publications, written in collaboration with our team.
+for more information, please visit www.sdsc.edu
+qualifications
+
+thorough knowledge of bioinformatics methods, applications programming, web development and data structures. proven experience with workflows, automation, microservice, algorithms, and data structures.
+thorough knowledge of bioinformatics programming design, modification and implementation. proven experience with languages such as: java, python, javascript.
+understanding of relational databases, web interfaces, and operating systems. proven experience with cloud services and cloud native designs, docker, relational database, object database, mysql, mongodb, solr, elastic search, apache spark, rest service design, and git.
+advanced understanding of software/service architecture and design. ability to communicate this information in a clear and concise manner.
+advanced understanding of current software standards, methods and approaches. demonstrable ability to instruct other team members, raising the quality of a team's software development productivity and quality.
+
+special conditions
+~ background check required. 
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+          the university of california is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, age, protected veteran status, gender identity or sexual orientation. for the complete university of california nondiscrimination and affirmative action policy see:  http://www-hr.ucsd.edu/saa/nondiscr.html
+
+
+	  uc san diego is a smoke and tobacco free environment. please visit smokefree.ucsd.edu for more information.
+	
+
+
+
+
+
+
+
+payroll title:
+bioinformatics progr 3
+department:
+san diego supercomputer center
+hiring salary range
+$71,000 - $100,000 / year
+worksite:
+campus
+appointment type:
+career
+appointment percent:
+100%
+union:
+uncovered
+total openings:
+1
+work schedule:
+days, 8 hrs/day, mon-fri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+getting help
+privacy
+hipaa agreements
+benefits
+feedback
+contact us
+
+
+about
+explore
+maps and tours
+diversity matters
+disability resources
+principles of community
+volunteer
+
+
+divisions
+arts & humanities
+biological sciences
+graduate division
+physical sciences
+scripps institution of oceanography
+social sciences
+
+
+schools
+jacobs school of engineering
+rady school of management
+school of global policy & strategy
+school of medicine
+skaggs school
+
+
+
+
+
+
+
+
+
+
+                        uc san diego is an equal opportunity / staff affirmative action employer
+                        
+
+                        regents of the university of california | terms of use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

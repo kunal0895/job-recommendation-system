@@ -1,0 +1,317 @@
+
+
+
+        senior data scientist -        sidecar -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we’re on the hunt for top talent! take a look at our job openings to see if you're a fit. 
+
+
+
+senior data scientist
+
+
+philadelphia, pa                    
+
+full time                
+
+r+d                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+overview:
+we’re seeking an experienced senior data scientist who likes to get deep in the trenches – tackling the hardest data processing problems and delivering the most elegant and scalable solutions. we’re looking for the best and brightest data science talents to build and scale our infrastructure that supports the data capturing and processing that fuels sidecar for a large number of high volume e-commerce customers.  you’ll be working in one of the most collaborative offices in center city philly, developing and working with machine learning technology, surrounded by passionate, high-performing  individuals. 
+
+qualifications:
+
+talented and intellectually curious (advanced degree or equivalent experience in machine learning, statistics, data science or associated field preferred)
+experienced in developing statistical models and building them into scalable production systems
+excited at the mention of spark, hadoop, or apache kafka and has the desire to mine data, perform predictive analytics, collect and cleanse data, and develop machine learning algorithms
+comfortable working with large datasets and architecting and designing systems that can effectively work with them
+able to communicate complex statistical results to non-technical staff.
+comfortable in experimental design
+proficient with at least one commonly used language for data analysis, such as python, r, or scala
+at his or her best working in cross-functional teams with dynamic interactions
+
+
+responsibilities:
+
+help develop algorithms and predictive models to solve critical business problems
+build models which will run live in a production environment to achieve results for our customers
+work with our engineering team to build data collection and analysis into sidecar’s dna.
+incorporate data science best practices and processes into the infrastructure of our saas product
+design, execute, and analyze experiments to quantify customer impact of proposed product enhancements
+design and implement statistical models and business rules that enhance the sidecar product suite
+stay current with technical best practices and industry trends and advise and educate management on their importance
+
+ 
+who we are:
+sidecar built a technology from the ground up that’s dedicated to one mission: tackle the challenges retailers face in data-driven e-commerce channels. based on advanced machine learning algorithms and deep data science expertise, our technology digests and analyzes massive, real-time datasets, allowing it to spot trends and continually improve campaigns for google shopping, facebook dynamic ads, and bing shopping.
+these channels are changing every day—and have become too complex and competitive to manage manually or with outdated technologies. they require automated, sophisticated, and ever-evolving technology to stay ahead. that’s what sidecar is all about. we’re proud to work with retailers of all sizes and verticals in the u.s. and abroad, including under armour, crate & barrel, and boscov’s, to name a few.
+as a company, we’re a group of energetic people who work hard to make a lasting impact in the rapidly evolving world of e-commerce marketing. and our work is paying off—we are quickly becoming a tech leader and the go-to partner for e-commerce marketing pros.
+our open-floor work environment and slack-enabled team encourages collaboration, creativity, and growth as individuals and as a company. many of us come from e-commerce, statistical, or start-up backgrounds, but we certainly welcome talent with outside perspective and experience. we believe in regular company social events inspire friendships and strengthen our bond.
+
+benefits:
+
+competitive salary, based on experience
+medical, dental, and vision coverage
+company-paid disability and life insurance
+a company 401(k) plan
+unlimited pto (our policy is simple, respect your team, and take time off when you need it)
+flexible schedule
+choose your flavor of device: mac, windows, linux
+pre-tax deductions of public transportation costs for your commute
+discounted gym membership
+team and social events
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+have you ever been convicted of a felony?*
+no answernoyes 
+
+if “yes”, you have been convicted of a felony, please explain the circumstances around the conviction:*
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

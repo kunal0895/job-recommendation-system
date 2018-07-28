@@ -1,0 +1,936 @@
+
+
+
+
+
+
+
+
+
+
+
+
+master data management developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+language 
+
+english 
+french 
+
+
+
+ worldwide careers site
+
+
+
+sign in
+
+
+
+accessibility
+
+
+
+
+
+
+working at merck 
+
+why merck?
+diversity at merck
+from service to science
+prepare to launch
+compensation and benefits
+
+
+
+featured jobs 
+
+corporate jobs
+engineering jobs
+oncology jobs
+manufacturing and quality jobs
+sales and marketing jobs
+clinical research jobs
+research science jobs
+regulatory affairs and compliance jobs
+medical affairs and medical doctor jobs
+
+
+
+locations
+
+join our talent community
+
+
+
+ menu
+
+language
+english 
+french 
+
+
+ worldwide careers site
+
+
+
+sign in
+
+
+
+accessibility
+
+
+working at merck
+why merck?
+diversity at merck
+from service to science
+prepare to launch
+compensation and benefits
+
+featured jobs
+corporate jobs
+engineering jobs
+oncology jobs
+manufacturing and quality jobs
+sales and marketing jobs
+clinical research jobs
+research science jobs
+regulatory affairs and compliance jobs
+medical affairs and medical doctor jobs
+
+
+locations
+
+
+
+join our talent community
+
+
+
+
+
+ job search
+
+
+
+
+search all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+ share
+
+
+linkedin
+email
+facebook
+twitter
+googleplus
+more option
+
+
+
+
+
+
+
+
+
+master data management developer
+date: 
+dec 8, 2017
+                
+
+
+location: 
+austin, tx, us
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+requisition id: eng003470  merck & co., inc. kenilworth, n.j., u.s.a. known as merck in the united states and canada, is a global health care leader with a diversified portfolio of prescription medicines, vaccines and animal health products. the difference between potential and achievement lies in the spark that fuels innovation and inventiveness; this is the space where merck has codified its 125-year legacy. merck’s success is backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. merck’s information technology organization partners with colleagues across the business to help serve our patients and customers around the world. ours is a high energy team of dynamic, innovative individuals dedicated to advancing merck’s contribution to global medical innovation by leveraging information and technology to efficiently advance the business by driving revenue and productivity. how will you invent the future? as a master data management developer at merck’s austin it hub, you will be part of inventing tomorrow. our innovative centers are where great people come together and deliver solutions that save and improve lives. 
+ 
+we are seeking motivated talent interested in solving problems to improve tomorrow. you will: 
+
+be an active member of a team creating multiple leading edge master data repositories across the scientific domain. 
+design and build mdm hubs utilizing multiple data sources to load, cleanse, and establish trust rules to produce a single version of core data assets. 
+be responsible for the design and technical development of master data management objects including logical and physical data models, database schemas, creating and tuning of match rules, defining the optimum data publish integration layer and ensuring the services (etl and apis) improve data quality and create operational efficiencies across mrl. 
+engage with world-class scientists and regulatory documentation specialists in drug discovery and development. 
+you will work and learn more about: 
+
+pharmaceutical business as it relates to basic research, pre-clinical, and clinical drug development. 
+regulatory submission filing processes for gaining approval to market our products in targeted countries. 
+develop a deep understanding of key data and systems critical to the drug discovery and development processes. qualificationseducation:
+
+
+b.s. in computer science, information systems, or related fields. 
+required: 
+
+
+a minimum of 2 years of implementation experience using master data management tools and processes 
+
+hands on experience configuring master data management solutions 
+
+ability to negotiate across business and it functions to develop harmonized master data 
+
+strong skills in establishing and following data standards 
+
+implementation experience with data quality tools to improve quality of master data 
+
+experience with software design patterns, architecture specifications and full software lifecycle. 
+
+experience with sdlc documentation principles and practice. 
+
+interest in newest technologies and willingness to learn. 
+
+agile and lean product development mindset. 
+
+ability to work independently with excellent communication skills that cross language/culture/geographic boundaries. 
+
+hands-on experience with a service oriented approach including restful services. 
+
+excellent attention to detail and a passion for continuous improvement. 
+
+skills and proven experience in the definition of master data management (mdm) tools, end to end solution analysis, and mdm solution delivery. 
+preferred: 
+
+
+a minimum of 1 year of pharmaceutical related experience. 
+
+a minimum of 1 year of experience working with informatica master data management 
+
+information flow modeling hands on experience. 
+
+logical and physical data modeling experience. 
+
+ability to understand strategic it goals in order to be able to execute own tasks in support of technology integration initiatives. 
+your role at merck is integral to helping the world meet new breakthroughs that affect generations to come, and we’re counting on your skills and inventiveness to help make meaningful contributions to global medical advancement. at merck, we’re inventing for life. 
+ 
+if you need an accommodation for the application process please email us at staffingaadar@merck.com.
+  
+search firm representatives please read carefully: 
+merck & co., inc. is not accepting unsolicited assistance from search firms for this employment opportunity.  please, no phone calls or emails.  all resumes submitted by search firms to any employee at merck via email, the internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of merck.  no fee will be paid in the event the candidate is hired by merck as a result of the referral or through other means.
+ 
+visa sponsorship is not available for this position.
+ 
+for more information about personal rights under equal employment opportunity, visit:
+ 
+            eeoc poster
+            eeoc gina supplement 
+ 
+austin it hub, lhhjob: engineering, development & integrationother locations: employee status: regulartravel: yes, 5 % of the timenumber of openings: shift (if applicable): hazardous materials: company trade name: merck
+        
+
+
+nearest major market: austin
+                    
+                
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+emplois à nos bureaux,
+emplois en ingénierie,
+emplois en fabrication et qualité,
+corporate jobs,
+clinical research jobs
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+                    copyright ©
+                    2017
+                    merck & co., inc. all rights reserved.
+                
+
+
+
+
+
+
+
+
+merck.com/careers
+view all jobs
+top job searches
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+
+
+
+
+
+
+careers at allen institute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menucareers homecurrent openings 
+
+
+careers at allen institute
+are you ready for new challenges and new opportunities?
+join our team!
+current job opportunities are posted here as they become available.
+
+python developer  part time (data processing)
+
+ department:
+6240 - microscopy & image analysis
+ location:
+seattle
+
+
+start your application
+allen institute for cell science
+the goal of the allen institute for cell science is to understand cell behaviors in their normal, pathological, and regenerative contexts. the institute, located in a new facility on south lake union in seattle, washington, will employ a multi-disciplinary team approach to generate novel cellular reagents, models, and databases. the institute aims to understand cells, individually and in collectives, as integrated systems of organelles and molecular machines that are regulated by signaling complexes, determining how they integrate to generate the plethora of observed cellular behaviors. it will do this using human induced pluripotent stem cells (hipsc), genome editing, a large live cell microscopy pipeline, predictive modeling and theory, and by creating a novel multi-scale, dynamic and visual output for the experiments and models.
+position summary    
+we are seeking a talented and enthusiastic individual to join the new allen institute for cell sciences microscopy and image processing pipeline team. the software developer will work under the guidance of a software engineer and scientists working with the image processing and data analysis pipeline and report to the director, microscopy & image processing pipeline.
+we are developing python tools for multiple parts of our microscopy and image processing pipeline to meet immediate and long-term needs. the tools cover the following:
+-          controlling the microscope and capturing images based on assay definition and cell location metadata
+-          post-processing and analysis of captured images
+-          image file management, moving data into the aics file management system
+-          post-processed data management
+the successful applicant will develop and implement tools to evaluate image quality of light microscopy data. an understanding of the physics of image formation in a microscope and signal processing tools (e.g. fft, correlation, wavelets) will be useful. in addition, this position includes tasks related to the translation of matlab based code into python. a strong background in python programming is essential. typically, we use numpy based tools like scikit-image. being able to interpret matlab code will be helpful.
+job responsibilities 
+
+implement tools for image quality control in python.
+include image quality control tools into automation workflow based on cellprofiler and apache airflow.
+help to develop tools for image processing based on python, cellprofiler and apache airflow.
+help to translate code from matlab to python.
+
+basic qualifications  
+
+proficiency with python is required.
+experience creating distributable modules is a strong plus.
+experience with image processing is a plus.
+experience with matlab is preferred.
+
+additional qualifications 
+
+experience with techniques to improve user interactions is a plus.
+comfortable with and eager to learn new frameworks and programming languages.
+completed or currently working on a ba/bs in computer science or engineering.
+ability to work independently and with a team.
+strong communication skills.
+
+it is the policy of the allen institute to provide equal employment opportunity (eeo) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. in addition, the allen institute will provide reasonable accommodations for qualified individuals with disabilities.
+
+start your application
+
+
+© 2017 allen institute 
+
+applicant tracking system powered by 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

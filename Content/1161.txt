@@ -1,0 +1,993 @@
+ 
+
+
+
+
+
+
+
+business intelligence - data engineer - corporate infrastructure - san francisco, ca - careers at yelp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yelpsdccdzxf
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+            home
+
+        
+
+
+
+
+
+
+            job openings
+
+        
+
+
+
+
+
+
+            who we are
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    home
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                    job openings
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                    who we are
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                business intelligence - data engineer
+            
+
+                corporate infrastructure • san francisco, ca
+            
+apply now
+
+
+
+
+
+
+
+summary
+yelp’s business intelligence and data integration team works with groups throughout the organization and data from an array of diverse sources. the team creates business intelligence solutions that enable business leaders to make quicker, more informed decisions. we’re looking for someone who has a passion for diving into data, unraveling the complexities, and building powerful business intelligence solutions.the right candidate will be adept at data warehousing concepts including data profiling and analysis, data extraction and transformation, and dimensional modeling. the ideal candidate also should be very comfortable working with multiple teams and various levels of management to explore opportunities, elicit requirements, and collaborate on reporting and analytics projects.
+
+what you will do: 
+
+partner with business stakeholders to understand data needs, how business processes are accomplished in various data systems, business rules and definitions, and current data and reporting challenges.analyze source system data, design and implement etl pipelines, relational and dimensional data models, and other business intelligence infrastructure to address needs.create and distribute documentation and train analysts and other stakeholders.become a subject matter expert on yelp’s data and share knowledge with other analysts, engineers, and business stakeholders.explore emerging trends and new technologies to continue to improve yelp’s business intelligence capabilities.
+
+we are looking for: 
+
+degree in computer science or related field 3+ years professional experience building etl jobs and modeling data in a bi contextstrong expertise in creating and optimizing complex sql queriesstrong expertise in rest, soap, and other web api technologystrong expertise writing etl jobs (snaplogic preferred) and using scripting languages (python preferred)good understanding of financial management and human capital management systems like oracle ebs and workday, and crm systems like salesforce is a big plusknowledge of open source technologies like kafka, hadoop, hive, presto, and spark is a plusexperience with redshift database administration is a plus
+
+
+pursuant to the san francisco fair chance ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+
+
+
+                                yelp values diversity. we’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+                            
+
+
+
+                                note: yelp does not accept agency resumes. please do not forward resumes to any recruiting alias or employee. yelp is not responsible for any fees related to unsolicited resumes.
+                            
+
+
+
+
+
+
+back to all job postings
+                    
+
+
+
+
+
+
+
+
+
+
+about
+
+
+about yelp
+
+
+careers
+
+
+press
+
+
+investor relations
+
+
+content guidelines
+
+
+terms of service
+
+
+privacy policy
+
+
+ad choices
+
+
+
+
+
+
+discover
+
+
+the local yelp
+
+
+yelp blog
+
+
+support
+
+
+yelp mobile
+
+
+developers
+
+
+rss
+
+
+
+
+
+
+yelp for business owners
+
+
+claim your business page
+
+
+advertise on yelp
+
+
+yelp reservations
+
+
+business success stories
+
+
+business support
+
+
+yelp blog for business owners
+
+
+
+
+
+
+
+languages
+
+
+
+
+
+                    english
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                bahasa malaysia (malaysia)
+        
+
+
+
+
+
+
+
+                čeština (česká republika)
+        
+
+
+
+
+
+
+
+                dansk (danmark)
+        
+
+
+
+
+
+
+
+                deutsch (deutschland)
+        
+
+
+
+
+
+                deutsch (schweiz)
+        
+
+
+
+
+
+                deutsch (österreich)
+        
+
+
+
+
+
+
+
+                english (australia)
+        
+
+
+
+
+
+                english (belgium)
+        
+
+
+
+
+
+                english (canada)
+        
+
+
+
+
+
+                english (hong kong)
+        
+
+
+
+
+
+                english (malaysia)
+        
+
+
+
+
+
+                english (new zealand)
+        
+
+
+
+
+
+                english (philippines)
+        
+
+
+
+
+
+                english (republic of ireland)
+        
+
+
+
+
+
+                english (singapore)
+        
+
+
+
+
+
+                english (switzerland)
+        
+
+
+
+
+
+                english (united kingdom)
+        
+
+
+
+
+
+                english (united states)
+        
+
+
+
+
+
+
+
+                español (argentina)
+        
+
+
+
+
+
+                español (chile)
+        
+
+
+
+
+
+                español (españa)
+        
+
+
+
+
+
+                español (méxico)
+        
+
+
+
+
+
+
+
+                filipino (pilipinas)
+        
+
+
+
+
+
+
+
+                français (belgique)
+        
+
+
+
+
+
+                français (canada)
+        
+
+
+
+
+
+                français (france)
+        
+
+
+
+
+
+                français (suisse)
+        
+
+
+
+
+
+
+
+                italiano (italia)
+        
+
+
+
+
+
+                italiano (svizzera)
+        
+
+
+
+
+
+
+
+                nederlands (belgië)
+        
+
+
+
+
+
+                nederlands (nederland)
+        
+
+
+
+
+
+
+
+                norsk (norge)
+        
+
+
+
+
+
+
+
+                polski (polska)
+        
+
+
+
+
+
+
+
+                português (brasil)
+        
+
+
+
+
+
+                português (portugal)
+        
+
+
+
+
+
+
+
+                suomi (suomi)
+        
+
+
+
+
+
+
+
+                svenska (finland)
+        
+
+
+
+
+
+                svenska (sverige)
+        
+
+
+
+
+
+
+
+                türkçe (türkiye)
+        
+
+
+
+
+
+
+
+                日本語 (日本)
+        
+
+
+
+
+
+
+
+                繁體中文 (台灣)
+        
+
+
+
+
+
+                繁體中文 (香港)
+        
+
+
+
+
+
+
+
+
+
+
+countries
+
+
+
+
+
+                    united states
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                argentina
+        
+
+
+
+
+
+
+
+                australia
+        
+
+
+
+
+
+
+
+                austria
+        
+
+
+
+
+
+
+
+                belgium
+        
+
+
+
+
+
+
+
+                brazil
+        
+
+
+
+
+
+
+
+                canada
+        
+
+
+
+
+
+
+
+                chile
+        
+
+
+
+
+
+
+
+                czech republic
+        
+
+
+
+
+
+
+
+                denmark
+        
+
+
+
+
+
+
+
+                finland
+        
+
+
+
+
+
+
+
+                france
+        
+
+
+
+
+
+
+
+                germany
+        
+
+
+
+
+
+
+
+                hong kong
+        
+
+
+
+
+
+
+
+                italy
+        
+
+
+
+
+
+
+
+                japan
+        
+
+
+
+
+
+
+
+                malaysia
+        
+
+
+
+
+
+
+
+                mexico
+        
+
+
+
+
+
+
+
+                new zealand
+        
+
+
+
+
+
+
+
+                norway
+        
+
+
+
+
+
+
+
+                philippines
+        
+
+
+
+
+
+
+
+                poland
+        
+
+
+
+
+
+
+
+                portugal
+        
+
+
+
+
+
+
+
+                republic of ireland
+        
+
+
+
+
+
+
+
+                singapore
+        
+
+
+
+
+
+
+
+                spain
+        
+
+
+
+
+
+
+
+                sweden
+        
+
+
+
+
+
+
+
+                switzerland
+        
+
+
+
+
+
+
+
+                taiwan
+        
+
+
+
+
+
+
+
+                the netherlands
+        
+
+
+
+
+
+
+
+                turkey
+        
+
+
+
+
+
+
+
+                united kingdom
+        
+
+
+
+
+
+
+
+                united states
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+
+
+blog
+
+
+support
+
+
+terms
+
+
+
+
+            copyright © 2004–2017 yelp inc. yelp, ,  and related marks are registered trademarks of yelp.
+    
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,196 @@
+
+
+
+careers center - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+job location
+
+us-tx-san antonio
+
+
+
+
+
+id
+
+2017-1806
+
+
+# of openings
+
+1
+
+
+
+
+
+
+
+
+
+company overview
+
+
+
+
+
+
+acquiring, developing, financing and managing quality real estate investments since 1982, usaa real estate provides superior returns investing across the risk spectrum, with expertise in office, industrial, multi-family, retail and hotel assets. investing for the usaa membership and aligned with more than one hundred investment partners across the world, we maintain an “investor first” mindset with a significant co-investment in all programs. as the real estate investment management arm of usaa, a leading financial services company serving military families since 1922, usaa real estate has achieved a track record of success living up to the high standards set at usaa and sharing its culture. usaa’s balance sheet puts us in a position of strength – well capitalized to invest in multiple strategies. this is a distinct competitive advantage. usaa real estate is headquartered in san antonio, texas. www.usrealco.com
+
+
+
+
+
+
+
+
+job description
+
+
+
+
+
+
+the data scientist is responsible for conducting research with the objective of informing and enhancing company leadership, the real estate investment process, capital raising, and client services.  the primary focus of the role is on creating and maintaining proprietary research databases and models. data capture and management to support model building. take responsibility for data set creation and maintenance.conduct analysis using statistical modeling and machine learning techniques.develop functional and technical specifications and reports.present analysis and recommendations to usaa real estate management.programming capability using python, r, sas, or other programming tools.work in close collaboration with the u.s. quantitative research team ensuring that quantitative processes and analysis are integral to any recommendation.use in-depth economic and real estate market analysis to underpin investment recommendations.work with research team members to support the management of real estate databases and subscriptions. ensure the databases of reports, market data, and forecasts are maintained and up-to-date. engage the support of it as needed.automate and maintain presentation materials on key market trends.attend, and actively contribute to, research team meetings and discussions.communicate complex technical ideas in a non-technical manner as appropriate to the audience.work under broad supervision and substantial interdependence.carry out other duties as assigned.
+
+
+
+
+
+
+
+
+requirements
+
+
+
+
+
+
+bachelor’s degree in statistics, mathematics, computer science, computational social science, business analytics, computer engineering, quantitative finance or operations research program.graduate degree and/or professional designation preferred.sql experience, particularly in support of analytics and modeling.experience merging and analyzing large, diverse data sources.background and understanding of statistical modeling (r). preference for experience with design of experiment and hypothesis testing, regression modeling and forecasting.the ability to explain complex technical material to nontechnical audiences.knowledge of data mining techniques and tools with python, r, sas, matlab or other programming tools.experience with machine learning and developing predictive models.real estate research experience within a leading real estate consultant, investment manager, developer, investment bank, or a relevant alternative is a plus.must be able to work in the united states without employer sponsorship.qualifications may warrant placement in a different job level.key competencies: strong analytical and quantitative skills.  highly skilled in financial analysis.proficiency with microsoft office suite, with strong proficiency in excel.high level of proficiency with programming.exceptional written and verbal communication skills.physical requirements: regularly required to sit for extended periods of time; frequently required to stand, walk, and use business equipment daily such as computer, copier, fax, telephone, etc.; frequently required to reach overhead, bend, and lift objects of up to 25 lbs.ability to handle stress caused by multiple priorities, and other unforeseen situations associated with the organization.eyesight and hearing must be correctable to standard level. at usaa real estate our employees enjoy generous benefits packages including comprehensive medical, dental and vision plans, 401k, usaa membership eligibility, educational and professional designation assistance, business casual dress attire and much more! qualified applicants must successfully complete a pre-employment background and drug screen.  the above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job. usaa real estate is an equal opportunity and affirmative action employer of females, minorities, veterans and disabled.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshare
+
+
+<p style="margin: 0px;">we apologize for the share function not working properly at this moment. please try refreshing the page or try again later.</p>
+
+share on your newsfeed
+
+
+
+
+
+share this job on your social network!
+
+
+
+
+
+
+
+|
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

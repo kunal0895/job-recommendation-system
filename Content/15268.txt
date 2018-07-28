@@ -1,0 +1,60 @@
+
+
+
+
+self lender - jobs: software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+software engineer
+
+software engineer
+austin, texas, united states · engineering
+
+descriptionwe're a small team of engineers working to help people build credit and savings. we’ve been busy building an in-house banking core that allows us to underwrite and service loans for our customers. with this comes the operational challenge of having to maintain a high-level of security and reliability that’s expected of a modern financial technology stack. our infrastructure is mostly hosted on amazon web services. some tools we work with daily include docker, terraform, packer, gitlab, elasticsearch, postgresql. most of our code is written in python, but we’re open to using other languages if our needs align.candidate description:we're looking for a engineers to join our team to work on either improving our financial systems or improving the overall user experience. you'll have the opportunity to take ownership over important parts of our operations and make important technical decisions. you should enjoy developing backend systems, but not be afraid to occasionally dabble in the front-end.requirementsqualifications: bachelor’s degree in computer science or bachelor’s degree in a stem field. solid understanding and application of computer science fundamentals: data structures, algorithms and design patterns. diverse knowledge of various database technologies (including both relational databases and nosql stores) proficient with back-end web technologies such as python, mysql (or postgresql) familiarity with front-end web technologies html/css/js, reactjs and associated tools (ex: gulp, grunt, npm) working knowledge of at least one cloud infrastructure provider (aws, azure, google cloud platform, etc.) experience with common software engineering tools such as git (or other vcs), jira, confluence and similar platforms. ability to work in a unix-based operating system (linux, macos) recommended:  understanding of microservices architecture understanding of data architecture systems (including data warehousing). basic understand of containers (docker, kubernetes) knowledge of web protocols such as dns, http, ssl 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+self lender website
+
+powered by
+workable
+
+
+
+
+

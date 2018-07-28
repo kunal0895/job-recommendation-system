@@ -1,0 +1,52 @@
+iot software engineer at volteo volteoiot software engineer full-time in  chandler, azdescription
+volteo provides complete iot-based solutions to our customers.  we have an iot platform that securely connects devices to our public-hosted cloud system and provides outstanding experiences to our customers.  we are partnered with some of the biggest names in the industry and are currently working with customers on smart buildings, public transportation, smart stadiums and many other verticals.  we are always looking for talented people to take our solutions to new customers and new markets.
+we're looking for a software engineer that can help us design and build the next great features on this platform.
+ 
+things you'll work on
+
+help architect expanding connectivity options and capabilities of the cloud platform.
+machine learning algorithms in the cloud and on edge devices.
+manageability for iot devices.
+big data ingestion, management, storage.
+backend systems for mobile and low-latency web interfaces.
+some technologies we use and you should be comfortable with:
+	
+linux
+docker
+aws / azure / bluemix
+mongodb, mysql
+continuous integration
+git
+javascript (golang is a plus)
+
+
+
+ 
+requirements:
+you
+
+take pride in your work.  you get devops – you build it… you get to support it and make it better.
+can't imagine a project without source control and peer reviews.
+ know deployments have to be automated – no manual poking the buttons.  this thing has to run, scale and grow automatically.
+have excellent communications.  fluent in english, experience with remote teams, enough documentation to work across timezones.
+are excited to try new technologies without too much hand-holding.
+are able to translate the vision into collaborative design and production level code without much help.
+
+to apply
+send us your cv with some description of what you are passionate about and what you can bring to the team.  a link to a code repository where we can see what you’ve built is a big plus.
+when we move to the next step, we’ll have a brief online coding test to make sure we’re in the right ballpark.
+ 
+benefits
+
+work with a talented, diverse team on cutting edge technologies.
+the best tools and equipment available – your choice.
+option for remote work.  we have offices in several locations if that works better for you.
+flexible hours.
+flexible vacation.
+healthcare, 401k (depending on location)
+
+ 
+who are we
+our team is a hybrid-distributed team.  we have offices and we have remote team members.  we focus on results first, not location.
+ 
+apply now apply using linkedinpowered bybreezy

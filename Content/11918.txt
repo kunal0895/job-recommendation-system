@@ -1,0 +1,60 @@
+
+
+
+
+messagegears - jobs: data engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer
+
+data engineer
+atlanta, georgia, united states · engineering
+
+descriptionmessagegears is the first email marketing solution of its kind. by combining the power and security of on-premises software with the efficiency and scalability of cloud delivery, we enable marketers to capitalize on every email. we’re not interested in simply being another email service provider – we’re disrupting an industry by providing a solution that gives marketers complete control over their multi-channel programs through advanced tech. we’re experiencing exponential growth and need great technical talent like you to take ownership of our future. because we’re growing, we’ve moved to a newly renovated 10,000 square foot office space downtown. offering access to beautiful parks, an on-site gym, trendy shops, marta, free parking and world-class restaurants. you will be part of the engineering organization designing, developing and deploying services handling 100+ million marketing transactions daily.  the team designs services operating around the aws platform with over 99.99% uptime.  we leverage the latest technologies in streaming, data processing and data warehousing to deliver rich product features to our clients.we are looking for a savvy data engineer to join our growing team of analytics experts. in this role, you will build, maintain, and provide daily operational support for our growing cloud-based data platforms including rds/mysql, aurora, and redshift. you will expand and optimize our data platforms and data pipeline (etl) architecture. the ideal candidate is an experienced database administrator and data wrangler who enjoys building and optimizing data solutions. the data engineer will support the data needs of software developers, database architects, data scientists, customer support staff, and operations engineers. the right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and initiatives.        responsibilities     design, build, monitor, maintain, and provide operational support for all current and future message gears’ data platforms. ensure at all times our data infrastructure is highly available, fault tolerant, and readily scalable. ensure data is secure and complies with all required industry and international standards. develop guidelines, standards and processes to ensure data quality, integrity, and consistency in data stores. work closely with team members to understand data requirements for existing and future projects research industry trends and implementation patterns and develop use-case proof-of-concept platforms and reference implementations iterate within scrum team to deliver production ready solutions assemble large, complex data sets that meet functional and non-functional business requirements. requirements bs in computer science or engineering minimum 3 years relevant work experience ability to communicate effectively across teams to drive best practices for building, testing and deploying mission-critical systems experience with relational sql and nosql databases, including mysql, aurora, postgres/redshift, and cassandra/dynamodb experience with aws cloud services including ec2, vpc, rds, route 53, emr, lambda, s3, kinesis, firehose experience with data pipeline and workflow management tools: azkaban, luigi, airflow, aws data pipeline, etc. advanced working sql knowledge, experience, and tuning ability with a variety of relational databases strong analytic skills with both relational and unstructured data experience with big data technologies including spark, kinesis, athena, etc.  agile certification and experience  prior object-oriented programming exposure and close collaboration with software development teams benefits fun, fast-paced, professional and collaborative environment in downtown atlanta ability to solve interesting engineering challenges that require high-performance, highly scalable and resilient solutions use latest technology trends to service billions of requests for top tier customers casual dress all-day, everyday flexible hours health, dental, vision and life insurance 3 weeks pto onsite gym 401k use of company’s 4 season tickets to the atlanta braves  free covered parking or paid marta pass 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+messagegears website
+
+powered by
+workable
+
+
+
+
+

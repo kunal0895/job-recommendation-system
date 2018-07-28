@@ -1,0 +1,313 @@
+
+
+
+        software engineer -        automated insights -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for visiting our job board. please review our open positions and apply to the positions that match your qualifications. 
+
+
+
+software engineer
+
+
+durham, nc                    
+
+full time                
+
+scale                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+automated insights (ai) is the creator of wordsmith, the natural language generation (nlg) software that turns structured data into narratives that are indistinguishable from human-written content. this automated content can be used for important communication with customers, external publishing, or internal monitoring and knowledge sharing—all at a scale that would be impossible with manual efforts alone.in 2016, our wordsmith platform turned raw data into 1.5 billion written narratives for clients like activision, yahoo!, and the associated press.
+at automated insights, we are dedicated to treating all ai-ers with respect, dignity, autonomy, and generosity and creating a best-in-career work experience for every employee. our core values include “enjoy the journey”, “choose to be positive” and “no jerks”. we believe in creating delightful experiences for every potential candidate, new hire, and current employee. we know a strong company culture is a competitive advantage, and we're recognized for it. automated insights has been named a best place to work in the triangle 5 out of the last 6 years, and we're proud to have created an environment that empowers our team to do their best work.
+we're looking for an experienced backend software engineer to support the goals of our implementation squad.
+what you'll do:
+
+implement and maintain our managed services offerings for new clients
+contribute to internal apis and software that support managed services
+engineer well-tested, well-documented, and resilient programs to power custom client implementations
+collaborate with teammates via pr reviews, stand-ups, and sprint planning meetings
+support client-facing teams as needed
+
+we're looking for people who:
+
+have professional ruby experience with a strong understanding of oop and best practices
+design and implement db schemas and apis
+understand sql and nosql data stores
+are experienced with ruby on rails and object relational mappers such as activerecord
+have familiarity with infrastructure provisioning and/or any of the following:  aws, terraform, docker
+actively research and incorporate best practices
+problem-solve and take ownership
+are excited to work with new technologies and learn
+enjoy working with others in a team environment #nojerks
+
+automated insights is a proud equal opportunity/affirmative action employer supporting workforce diversity.  we do not discriminate based upon race, ethnicity, ancestry, citizenship status, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), marital status, registered domestic partner status, caregiver status, sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, genetic information, military or veteran status, mental or physical disability, political affiliation, status as a victim of domestic violence, assault or stalking, or other applicable legally protected characteristics.
+no recruiters, please. we respect your hustle, but please don’t contact us. we do not work with outside firms.
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+who referred you to this position?
+
+
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+linkedin profile url:
+
+
+
+desired salary
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,438 @@
+
+
+
+
+
+front-end web developer - dec 8, 2017 - redmond, us, washington, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us									
+
+
+
+inside luxoft 
+
+benefits
+excelian
+training & communities
+relocation program
+social responsibility
+discover us
+events
+referral program
+
+
+
+
+job opportunities									
+
+
+
+students & grads									
+
+
+
+
++
+
+
+has been added to your jobs
+
+
+
+ my jobs (0)
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+homecareers areafront-end web developer
+
+
+
+
+
+
+
+
+
+position
+front-end web developer
+
+project description
+
+                                    microsoft azure provides a comprehensive platform for developers to build, deploy, and scale applications in the cloud.  azure is now being used by over 80% of the fortune 500 companies and we are adding thousands of new customers per week.  new services and features for azure are being released constantly.  with azure we are building the next major business at microsoft and it is an exciting time to get involved.
+
+the azure web team is small and agile team responsible for the azure.com web site.  azure.com is the front door for new and existing azure customers.  from azure.com visitors learn and sign-up for azure, view documentation, calculate pricing, or monitor the status of their services.  we operate like a well-funded startup with a constant focus on agility and by helping the azure business grow customers and revenue.  we use the best tools available, release daily, and make data-driven improvements by leveraging a/b tests, user feedback, and analytics.
+we are growing our team and looking for several talented developers for azure.com and some exciting new web properties.                                
+
+responsibilities
+
+                                    •	prototype, develop, test and optimize best-in-class responsive websites.
+•	turn requirements such as wireframes, prototypes and interactive user interfaces into fully functional and highly performing web components
+•	collaborate with backend developers, product owner, ux designers, qas
+•	integrate restful web services utilizing json from multi-tiered web applications
+•	optimize existing code with engineering best practices
+•	maintain high code coverage with tests
+•	participate in the full development cycle engagements, including meetings, iterative development, estimations and design sessions.
+•	maintain third-party library dependencies; assure compatibility, scalability, and maintainability
+•	develop and maintain comprehensive technical design documentation - ui/ux style guide & development standards, system architecture, high level and detailed design, etc                                
+
+skills required
+
+                                    general experiences required
+•	experience with agile development/process - scrum, kanban
+•	solid communication skills
+•	experience with business application development
+•	ability to go above and beyond in solving technical problems
+•	well experienced with testing, devops, continuous integration etc.
+skills required
+•	5+ years of experience with html5, javascript, css/less/sass, angular/knockout/react or other modern javascript frameworks
+•	proficient understanding of cross browser development on a large scale public facing application
+•	strong ability to build data models to integrate with backend services
+•	solid understanding of responsive design, web standards, rest and ui/ux best practices
+•	experience of creation of adaptive mobile web applications
+•	experience with optimizing ui
+•	good understanding of asynchronous request handling, partial page updates, and ajax
+•	familiarity with front-end build tools, such as grunt and gulp.js
+•	experience with ui testing and automation frameworks (selenium, gemini, chai, mocha, sinon, etc.)
+•	knowledge of owasp standards
+•	proactive, solutions focused, and high standards for quality.                                
+
+
+
+
+
+
+
+where
+
+
+
+redmond, us, washington
+
+
+
+
+
+
+                                                work type
+                                            
+
+
+                                                    javascript                                                
+
+
+
+
+add to my jobs
+
+recommend a friend
+ 
+
+apply
+
+
+
+
+
+
+check us out on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+more job opportunities in                javascript
+
+ 
+
+
+
+
+
+specialization
+position / title
+location
+
+
+send to a friend
+
+
+
+
+
+javascript
+
+
+
+                                full stack web developer            
+
+
+
+
+redmond, us, washington, us                
+
+
+
+
+apply
+or
+add to my jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+back to the top
+
+
+
+ 
+
+
+
+
+
+
+luxoft
+privacy policy
+contact
+ 
+
+
+                © 2017 luxoft            
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+
+×
+let us know your thoughts
+
+
+
+
+
+
+
+
+
+how would you rate your experience?*
+
+
+
+-
+positive
+negative
+
+
+
+
+
+
+please select the category that best describes you*
+
+
+
+-
+looking for a job
+searching for information about luxoft
+looking for relocation possibilities
+recommending a friend
+recommended by a friend
+
+
+
+
+
+please share your comments*
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

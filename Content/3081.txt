@@ -1,0 +1,837 @@
+
+
+
+
+
+
+
+
+
+
+
+
+developer middleware integration 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+home
+
+
+locations
+
+
+not finding a job?
+
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+developer middleware integration 3
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+date: 
+nov 17, 2017
+                
+
+
+location: 
+san antonio, tx, us, 78205
+
+
+company: 
+cps energy
+
+
+we are engineers, high line workers, power plant managers, accountants, electricians, project coordinators, risk analysts, customer service operators, community representatives, safety and security specialists, communicators, human resources partners, information technology technicians and much, much more. we are 3,300 people committed to enhancing the lives of the communities we serve.  together, we are powering the growth and success of our community progress every day!
+ 
+seeking a very experienced middleware integration developer with expertise in sap po!
+position will be open until filled
+grade: 14
+ 
+position summary:
+design, develop, test and maintain solutions for enterprise application integration, using development standards and software development lifecycle process. duties include analysis, design, planning, programming, testing, documentation, error/exception handling, performance improvements and business process implementation and the creation or improvement of all related technical products, solutions and processes. works directly with core internal and external customers to assure system function, availability and reliability is maintained to meet all customer business needs. provides a stable, functional environment by ensuring efficiency, availability, connectivity, integrity and security of multiple integration systems and j2ee application servers. maintains metrics and enhances tools to support system monitoring, incident resolution/escalation.
+ 
+tasks and responsibilities:
+
+develops and supports application integration solutions to support business processes.
+implements and manages j2ee application server platforms to support web delivered business applications.
+manages work packages to ensure project deliverables are met through collaboration with application development, it infrastructure, communication services, service support, it operations and other it and technical support teams.
+works with business unit teams and provides proper guidance to ensure integration services and architectures are designed, tested, documented, implemented, enhanced and maintained according to the operations standards and expected service quality.
+provides 2nd level proactive and reactive service and performance management for mission critical systems. identifies requirements for real-time alerts to notify support groups of a current or potential performance problem.
+responds to real-time performance alerts to resolve performance problems, performs regular on-going review and analysis of performance data to identify current performance problems and proactively detects potential future performance problems.
+automates system administration tasks and scripting.
+ensures daily support and a high level of 24x7x365 service availability.
+independently performs complex troubleshooting, root-cause analysis, solution development and implementation.
+maintains host security (passwords, file permissions, file system integrity, security packages, ssh) and network security.
+supports of services and processes including appropriate issue escalation.
+cross-trains co-workers on new designs.
+use solid oral and written communication skills to communicate solution function and value.
+
+ 
+knowledge, skills, and abilities
+minimum qualifications           
+
+bachelor's degree in information systems, engineering, computer science or related field from an accredited university.
+several years’ experience and concentration in sap po. experience working with various eai software packages such as ibm websphere mqseries or broker, ibm websphere application server or energyip meter data management system.
+administration, performance tuning and development in sap po;
+websphere mqseries development, including the ability to write custom websphere nodes;
+administration and development in tomcat or websphere application server on unix and windows platforms;
+installation experience with websphere mqseries or websphere application server in a high availability configuration;
+java or abap programming;
+jvm tuning;
+service oriented architectures – soap, wsdl;
+oracle database administration on unix and windows systems;
+perl, c, sql programming skills.
+working knowledge of project management concepts, tools and techniques.
+ability to manage multiple priorities related to multiple projects at once and work collaboratively across organizational lines
+good written and verbal communication skills.  the ability to express oneself effectively within a group and in one-to-one conversations.  the ability to convey information clearly and effectively through both formal and informal documents.
+strong ability to organize information, manage tasks and use available tools to effectively contribute to a team and the organization.
+proficient in ms office package, including work processing, spreadsheets, presentation software, electronic mail and scheduling.
+must have favorable driving record.
+
+ 
+preferred qualifications:
+
+master’s degree in information systems or related field from an accredited university.
+sap po certification.
+utility industry experience.
+
+ 
+competencies:  
+
+action oriented
+communicates effectively
+customer focus
+nimble learning
+tech savvy
+
+ 
+working conditions
+general office and sedentary. use of sap administration tools and microsoft office applications is required. ability to travel to and from client meetings, training sessions and other business-related events. use of personal computing equipment, telephone, multi-functioning printer and calculator. after hours work may be required. overnight travel may be required. physical demands are industry standard office environment.
+ 
+ 
+cps energy does not discriminate against applicants or employees. cps energy is committed to providing equal opportunity in all of its employment practices, including selection, hiring, promotion, transfers and compensation, to all qualified applicants and employees without regard to race, religion, color, sex, sexual orientation, gender identity, national origin, citizenship status, veteran status, pregnancy, age, disability, genetic information or any other protected status. cps energy will comply with all laws and regulations.
+
+
+
+nearest major market: san antonio
+                    
+                
+
+job segment: 
+developer, middleware, erp, database, engineer, technology, engineering
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+technology jobs in san antonio,
+management jobs in san antonio,
+engineering jobs in san antonio,
+energy jobs in san antonio,
+database jobs in san antonio
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+home
+top job searches
+view all jobs
+socialmatcher
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

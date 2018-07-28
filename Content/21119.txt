@@ -1,0 +1,520 @@
+
+
+
+rackspace jobs/careers - senior javascript developer - managed google in san antonio, texas, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a racker?
+locations
+culture
+benefits
+stories
+jobs
+
+
+
+
+
+join us!
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+
+
+
+are you a racker?locationsculturebenefitsstoriesjobs
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								always ready, always accountable, always helpful 
+							
+
+
+
+
+
+
+
+being a racker means thinking about support in new and different ways. major hayden, principal architect, talks about how rackspace has redefined service.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								serious about your work, but don't take yourself too seriously
+							
+
+
+
+
+
+
+
+delivering results-obsessed customer service in a highly technical, competitive industry is serious business. rackers also enjoy cutting up and having a good time together.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								a cloud enthusiast with a heart for service
+							
+
+
+
+
+
+
+
+rackers are experts at building great products for our customers.  egle sigler, who is a principal engineer and rackspace board of director for openstack, shares how rackspace helps her tap into her passion for technology and service to deliver her best for customers.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								dedicated to making a positive impact
+							
+
+
+
+
+
+
+
+tony campbell, learning and development director, shares that finding opportunities to make things better for our customers and industry drives rackers to excel.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								committed to learning, growing & innovating
+							
+
+
+
+
+
+
+
+distinguished engineer and lead architect for open compute, aaron sullivan, explains that at rackspace innovation makes technology useful in really natural ways.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+								are you a racker?
+							
+
+
+
+
+
+
+
+
+								mission inspired, values grounded, culture focused
+							
+
+
+
+
+
+
+
+courtney skarda, vp of racker experience shares how rackers bring their strengths and true, authentic selves to work every day to achieve our mission.
+read more
+
+
+
+
+
+
+
+
+
+		rackspace one of best workplaces for millennials     read more
+
+
+
+
+
+		connect: 
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+                
+                    rackspace jobs/careers
+                
+            
+        
+
+
+
+
+
+
+where
+
+city, state, country
+
+
+what
+
+job title, keywords
+
+
+
+
+
+
+
+
+
+
+
+home
+
+            view all jobs
+            
+(229)
+
+
+
+
+
+
+
+
+
+
+
+
+rackspace
+
+
+senior javascript developer - managed google in
+            
+san antonio, texas
+
+
+
+
+
+
+
+
+job overview
+overview & responsibilities
+since we are a distributed team we are open to the rackspace location of your choice, including the option to work from home. rackspace office locations include san antonio or austin, tx and blacksburg, va.
+rackspace is seeking talented developers to help build our managed gcp business. you will work on a small team working to continuously grow this new business, so we're looking for developers who ship early and often while maintaining healthy engineering discipline. you will write automated tests for everything you build, and we deploy to production several times daily. because we're distributed, we're remote-friendly -- we collaborate with slack, screenhero, and video conferences.
+we use react, redux, and es6 in our customer-facing web application along with node for several api services that power specific features. we choose technologies that let us deliver quickly with high quality, and focus on our product's value.
+responsibilities:
+
+deliver product features for our ui and apis
+write clean, maintainable code using engineering best practices
+collaborate with other engineers, product managers, and user experience designers on a daily basis to identify the right technical solutions that achieve product goals
+continuously broaden and deepen your skill set to solve new technical challenges
+mentor and guide less experienced team members to provide technical direction
+provide fanatical support for our production system by fixing bugs and triaging alerts
+
+qualifications
+the ideal candidate will have the following:
+
+5+ years practical experience in one or more of the following domains:
+building web applications with a modern javascript framework (react, angular, ember, or similar)
+building and consuming http apis in a service-oriented architecture
+operating cloud applications in production (handling deployment, monitoring, logging)
+demonstrated passion for independent learning
+experience working in a team that practices continuous delivery
+bs in computer science or related field, or equivalent experience
+excellent verbal and written communication skills
+
+#li-od1
+req # 34352
+location(s) us-tx-san antonio
+category managed gcp, software development
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+apply now
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current search criteria
+
+
+
+
+              senior javascript developer - ma...
+            
+
+
+
+              san antonio
+            
+
+
+
+              texas
+            
+
+clear all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a racker?locationsculturebenefitsstories
+
+
+
+
+
+rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+
+about rackspace  |  investors  |  careers  |  privacy statement  |  website terms  |  trademarks  |  sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

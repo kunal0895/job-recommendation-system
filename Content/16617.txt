@@ -1,0 +1,269 @@
+
+
+
+
+job application for entry-level software and reliability engineer at lendingtree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+entry-level software and reliability engineer
+
+        at lendingtree
+      
+(view all jobs)
+
+        charlotte
+      
+
+
+ 
+lending tree is looking for entry level site reliably engineers to join our sre team.  this team owns the logging, alerting and responsibility for increasing reliability across the enterprise.  we work hand in hand with all teams and departments to ensure technical issues are detected and resolved with the least revenue impact.  you’ll be working with multiple teams, reviewing code, analyzing logs, developing and even yelling fire on occasion, so if you enjoy solving problems, making things better and have a good knowledge of the operations of websites, from the server to the front end – this is likely the job for you.
+we’re a .net shop for the most part, and this position requires knowledge in a curly brace programming language, which could be c#, node js, java, javascript or c.  experience with elastic and shell scripting a plus but not a must.  it seems we’re always playing with some of the latest technologies on the side (.net core on docker? yes! lambda’s of course!).  the site reliability team is a team with strong, broad skill sets in technology.  from servers to end user experience and all the parts between, we monitor, alert and assist in resolving issues – and it’s not uncommon to have to learn on the fly!
+quick intro…
+
+we’re highly selective = you’ll be working with other great engineers
+lendingtree thrives on helping consumers = you’ll be making a difference
+profitable = we can afford the latest technologies and some impressive perks
+400 employees = minimal bureaucracy
+household name = 98% of the people you meet still won’t understand what you do but at least they’ll recognize where you do it!
+
+a sample of what you might be doing: 
+
+quickly need to learn and understand functionality of existing code and systems, sometimes with the source code as the only source of documentation.
+develop processes which perform system checks and capture information. 
+have a good working knowledge of dns, networking and servers.
+recognize and suggest reliability upgrades to existing systems, hardware and procedures.
+interface with several different teams to provide reliable support.
+lead in the resolution of production issues.
+review logging and update alerts.
+participate in an on-call schedule
+work hand-in-hand with the business on the best way to solve problems
+
+requirements:
+
+have a passion for playing with new technologies from cars to arduinos to software – the passion to grow and learn on your own is essential for this position.
+ability to pick up a ball and run with it and learn on the fly
+to be able to think on your feet and focus on solving problems instead of finding blame
+the strength to power through hours of troubleshooting during highly visible outages.
+a passion for technology and willingness to voice your opinions
+strong development and critical thinking skills to solve complex problems
+full-stack development knowledge
+have a positive mental attitude, enjoy an occasional long day of fixing something and nerf.
+
+ why you’ll want to work here:
+
+we’re making a real difference in the financial lives of our consumers. the work you’ll do here matters.
+unique entrepreneurial environment. the ceo is the founding father of the company!  we’re a start-up company in a publicly traded suit. read: we have a lot of fun and can afford the grown-up toys. 
+you are empowered to speak up, and be the change.
+
+more about lendingtree:
+
+we are a meritocracy, not bureaucracy
+flat structure, very minimal oversight
+dress code – we don’t have one. (flip flops, shorts, jeans…   whatever.)
+we don't even keep track of how many paid vacation days you take! (of course, your manager's approval is needed before you take off on your family vacation.)
+great perks: $3 catered lunches mon. - thurs., free bagels every fri.,
+on site gym (employees are encouraged to work out during the day. “is that true?" yep.)
+great benefits and good work life balance
+
+our company      lendingtree was founded by ceo doug lebda to help people comparison shop and get a great deal on the single biggest transaction of their lives: their mortgage.  we’ve helped over 30 million people in the home buying process. we’re publicly traded (nasdaq: tree), we’re financially sound and we’re on a tear.  
+ 
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

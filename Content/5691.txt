@@ -1,0 +1,546 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+junior software engineer (analytics) - iprotech.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+cancel
+
+
+
+
+
+
+request a demo
+ 
+
+
+search ipro
+
+
+
+
+
+
+
+ 
+what we offer
+
+automated digital discovery
+
+self-service
+media manager
+processing
+eca & review
+reports
+administration
+
+
+review
+
+eclipse
+eclipse se
+
+
+processing & scanning
+
+ecapture
+escan-it
+premium scan
+copy+
+classic suite
+
+
+trial presentation
+
+trialdirector
+timecoder pro
+timelinexpress
+depoview
+depoview for ipad
+depoview dvd
+
+
+ipro cloud
+iconvert
+ipro-q
+
+
+partner program
+
+find a partner
+
+
+resources
+
+professional services
+training & certifications
+support
+myipro
+ipro community
+document library
+
+
+about ipro
+
+blog
+news
+upcoming events
+meet the team
+careers
+innovations conference
+
+
+ myipro
+sales
+support
+contact
+
+
+
+
+
+
+
+
+
+
+myipro
+sales
+support
+contact
+ 
+
+
+search
+
+
+go
+
+ 
+
+
+
+
+
+
+what we offer
+
+automated digital discovery
+
+self-service
+media manager
+processing
+eca & review
+reports
+administration
+
+
+review
+
+eclipse
+eclipse se
+
+
+processing & scanning
+
+ecapture
+escan-it
+premium scan
+copy+
+classic suite
+
+
+trial presentation
+
+trialdirector
+timecoder pro
+timelinexpress
+depoview
+depoview for ipad
+depoview dvd
+
+
+ipro cloud
+iconvert
+ipro-q
+
+
+partner program
+
+find a partner
+
+
+resources
+
+professional services
+training & certifications
+support
+myipro
+ipro community
+document library
+
+
+about ipro
+
+blog
+news
+upcoming events
+meet the team
+careers
+innovations conference
+
+
+ request a demo
+ 
+
+
+
+
+
+
+
+
+junior software engineer (analytics)
+
+title:   junior software engineer (analytics)
+location:  tempe, az headquarters
+reports to:  software engineering manager
+the successful candidate must have
+
+1-2 years of experience developing applications in an object-oriented language and utilizing a relational database (sql server, oracle, db2, mysql, etc.) you’ve written queries, stored procedures, functions, views by hand as opposed to using an orm
+knowledgeable of natural language processing (nlp) principles and methods related to statistics or machine learning
+an insatiable desire to learn new things – both domain specific and new technologies
+a degree in computer science or computer information systems
+
+ 
+the ideal candidate would possess
+
+experience developing applications in c#
+experience developing python scripts
+knowledge of scikit learn and numpy libraries
+knowledge of text analytics
+ability to design applications that perform well and scale well
+familiarity with no sql datastores
+
+ 
+about the role: how you will make an impact
+our software engineers directly impact our customer experience by creating clean, maintainable, high performance & scalable code. working alongside product managers, qa engineers, designers, and other fellow engineers, you will collaborate to create and release solutions through agile delivery. to help us stay fresh, you will research new technologies to improve existing systems and build new ones. as a senior engineer, you will cultivate your peers via code reviews and best practices training.
+ 
+we are looking for someone who
+
+is attracted to complicated, complex problems.
+is forward thinking and likes to learn & use new technologies.
+is attracted to the challenge of leveling up a product built with older technologies.
+is built to thrive in ambiguity and doesn’t mind frequent pivots.
+takes pride in creating high quality, clean enterprise products.
+plays well with others. you thrive while sharing knowledge and receiving input.
+
+challenges you will help us solve
+
+how do we incorporate the latest technologies into our products without creating more technical debt?
+
+ 
+we win with people. here’s how we support ours.
+
+named as a careerbuilder® top company to work for in arizona in 2015
+named 2015 az’s most admired company by best companies az
+100% company-paid benefits for the employee including: health, dental, short/long term disability and up to $50,000 in life insurance.
+15 pto days and 10 paid holidays.
+401(k) plan
+we offer flexible start and end times.
+we have a start-up company mentality with 28 years of industry experience.
+work/life balance is valued and upheld.
+progressive, hip environment with private food market, office puppy, onsite gym, lounge & game room, and casual office culture.
+
+aa/eoe m/f/d/v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to apply now, please fill out the information below:
+
+
+
+
+for security reasons, if you're not a person, enter your info for the next two form items.
+ check this box if you're not human:
+
+if you're not real, enter your password:
+
+
+
+
+name*
+
+
+
+email*
+
+
+
+phone*
+
+
+
+address*
+
+
+
+
+city*
+
+
+
+state*
+
+
+
+zip code*
+
+
+
+
+are you at least 18 years of age?
+yes
+no
+
+
+have you ever been convicted of a crime?
+yes
+no
+
+
+are you legally authorized to work in the united states?
+yes
+no
+
+
+will you now or in the future require sponsorship for employment visa status (e.g., h-1b visa status)?
+yes
+no
+
+
+type of position*
+---regularpart-timetemporaryinternco-opseasonalcontractorother
+
+
+salary desired*
+
+
+
+when you can start?
+
+
+
+what do you know or what have you learned about ediscovery?*
+
+
+
+how did you hear about us?
+ ipro tech career pagedice.commonster.comindeed.comjobing.comglassdoor.comlinkedinreferralother
+
+
+
+who referred you?
+
+
+
+
+resume upload*
+
+
+
+
+
+
+
+
+
+
+* form cannot be submitted until all required fields are completed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ sales
+
+
+ community
+
+
+ myipro
+
+
+ support
+
+
+ contact us
+
+
+ subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ipro tech, llc
+1700 n. desert drive
+suite 101tempe, az 85281
+
+
+connect with ipro:
+
+
+
+
+
+
+
+
+solutionsautomated digital discovery
+ipro cloud
+revieweclipse
+eclipse se
+processing & scanningecapture
+escan-it
+premium scan
+copy+
+classic suite
+resourcesmyipro
+ipro community
+professional services
+training & certifications
+support
+about usoverview
+blog
+news
+upcoming events
+meet the team
+careers
+innovations conference
+ 
+
+
+
+
+© 2017 ipro tech, llc all rights reserved.
+privacy statement • safe harbor • trademarks
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

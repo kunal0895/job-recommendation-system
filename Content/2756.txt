@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job openings | cehe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    job openings
+                
+
+
+
+browse open jobs
+                 | search open jobs
+
+                 | edit your profile
+                 | view submitted applications
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition number
+17-0703
+
+
+post date
+10/24/2017
+
+
+company name
+center for excellence in higher education
+
+
+title
+business intelligence analyst
+
+
+city
+salt lake city
+
+
+state
+ut
+
+
+description
+
+company overview
+ 
+the center for excellence in higher education (cehe) is a 501(c)(3) non-profit corporation headquartered in salt lake city, utah.  cehe operates degree-granting career colleges throughout the western united states and online.  the college brands include
+ stevens-henager colleges in utah and idaho; collegeamerica in colorado, arizona, and wyoming; california college san diego, and independence university (online platform). all of the colleges are accredited by accsc, a national accrediting body recognized by
+ the u.s. department of education. the colleges offer degree programs from the associate’s level through the master’s level in variety of disciplines including: computer science, graphic arts, business/accounting, medical specialties, nursing, and healthcare. 
+ cehe is an at-will employer.
+ 
+business intelligence analyst
+ 
+this position is responsible for the development and design of various business intelligence reports, dashboards, scoreboards, and other solutions for customers and business needs. the business intelligence analyst will work closely with different department
+ leaders to design, develop and support business intelligence reports and dashboards.
+ 
+essential functions: 
+ 
+
+generate standard or custom reports using ssrs/crystal reports 11 from summarized business, financial, or economic data for review by executives, managers, clients, and other stakeholders
+create or review business design documentation to ensure the accurate development of reporting solutions
+create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs
+conduct or coordinate tests to ensure that intelligence is consistent with defined needs
+provide technical support for existing reports, dashboards, or other tools must be able to lift 15 lbs. 
+ 
+qualifications:
+ 
+
+two+ years of experience in the area of bi data warehouse, data architecture, data modeling, cube building and systems analysis including substantial experience with microsoft sql 2012+ databases, sql tuning, stored procedures, and designing data structures
+ for data warehousing, reporting and analytics. sql server reporting services two+tableau desktop /server one+ year tableau administration two+ years ssrs report development documentation writing skills (brds/sows) great people skills, a positive and easy going demeanor. experience working in an agile/scrum environment. positive, people-oriented, and energetic attitude. analytical, creative, and innovative approach to solving problems. self-motivated and able to work independently with little supervision. highly analytical data junkie who enjoys coding - but doesn't want to be a software engineer.
+advanced ms office skills, particularly in excel and access. proven ability to deliver high quality deliverables under tight deadlines. the preferred candidate will have the following qualifications:
+
+advanced skills with sql queries and stored procedures bachelor’s degree in computer science, information sciences or another related field
+project management certification some qa experience sharepoint administration 
+
+ 
+ 
+ 
+measures of merit:
+ 
+
+tbd by supervisor within 90 days of hire. 
+ 
+disclaimer:
+ 
+this specification is intended to indicate management’s designation of the position’s essential functions, which include the kinds of tasks and levels of work difficulty that will be required of positions given this title, and shall not be construed as declaring
+ the entire description of specific duties and responsibilities of any particular positions. it is not intended to limit, or in any way modify, the right of any supervisor to assign, direct, and control the work of employees under his/her supervision.
+ the use of a particular expression or illustration describing such duties shall not be held to exclude other duties not mentioned. all positions, unless otherwise noted in an offer letter, are 40 hour a week positions, and regular and predictable job attendance
+ is a requirement of all positions. ability to competently perform all the essential duties of the position, with or without reasonable accommodation, demonstrated commitment to effective customer service delivery, and the ability to work productively as a
+ member of a team or work group are basic requirements of all positions at cehe. this job description is subject to change at any time.
+ 
+company culture
+ 
+we are people-focused - we respect the intelligence and potential of each staff member. we provide a working environment that permits freedom to think, speak, disagree, innovate, create, and initiate. we value and admire ambitious and productive
+ people, and we protect them, encourage them, and create a climate in which they flourish. we love, recognize, and reward producers and performers. in return, we require our employees to have a strong work ethic and be productive. we recruit broadly, and select
+ the highest caliber people available - ambitious, knowledgeable, and talented managers, instructors, admissions consultants, and administrators.
+ 
+sound values and virtues - the ethical conduct of our employees is of supreme importance. we hold the following as values and virtues: rationality, purpose, innovation, productiveness, profit, honesty, integrity, justice, and pride. these
+ values are the core of our ethical code. to be ethical means to apply, to work by, and to live by these values and virtues.
+ 
+credo - we are dedicated to helping our students graduate and get a much better job sooner. this is our mission. we pledge to provide the finest career education possible and to graduate satisfied students who have greater knowledge, skills
+ and self-esteem in the shortest possible time. our education is high value, clear, and interesting and achieves the highest level of learning and achievement for students. we want to deliver twice as much in half the time.
+ 
+cehe is a drug free environment and we perform drug testing.
+ 
+equal opportunity employer - we are an equal opportunity employer. no employee, or applicant for employment, shall be discriminated against in any term or condition of employment because of race, color, religion, national origin, sex, age,
+ or sexual orientation. we are constantly striving to make our colleges the best they can be. as an employee, you become part of that mission. we expect a commitment that you will be the best you can be.
+
+
+
+requirements
+see above 
+
+
+
+apply on-line
+
+
+
+send this job to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

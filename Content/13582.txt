@@ -1,0 +1,723 @@
+
+
+peoplecaddie: job apply
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+toggle navigation
+
+
+
+
+logo
+
+
+
+thanks
+how it works
+ jobs 
+downloads
+about us 
+
+
+sign up
+
+log in
+thanks
+
+
+
+
+
+
+
+
+
+
+
+java developerapply to jobapply
+
+
+
+
+
+job id:
+1248
+
+
+
+
+pay rate range: 
+
+
+
+
+
+$54 - $55
+
+
+
+
+city:
+philadelphia
+
+
+
+
+state:
+pennsylvania
+
+
+
+
+duration:
+01/08/2018 - 07/08/2018
+
+
+
+
+job type:
+contract
+
+
+
+
+job description
+large company(fortune 200) is looking for a contractor with very strong java (back end) development experience (5+yrs) and web services(3yrs). experience in javascript and angular js with strong communication skills and cable domain knowledge would be a plus
+
+job description :
+
+•	expert level object oriented programming skills in java 8
+•	strong functional programming skills
+•	extensive knowledge in developing restful apis using spring mvc, integration patterns, sprint boot and json
+•	deep understanding in implementing micro services and message-based loosely coupled architectures
+•	experience in deploying / scaling applications in pivotal cloud foundry(pcf)
+•	experience in designing data persistence system using both sql and nosql dbms (mongodb, oracledb)
+•	experience in use of source code management system git and build tools like ant, maven
+•	experience writing unit tests and using standard web testing frameworks
+•	good understanding of scrum/agile methodology
+
+nice to have:
+
+•	extensive experience in building complex applications using object-oriented javascript leveraging the best of modern web frameworks (reactjs, redux.)
+•	good devops skills able to get hands dirty on linux, aws, docker, ci pipelines, etc.
+•	experience with spark, kafka, camel, cloud
+
+
+eoe
+
+download the peoplecaddie mobile app to your smartphone, for real-time status updates and interview requests directly from hiring managers! peoplecaddie is available in the google play store and the app store! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply to job
+
+
+
+
+
+
+×
+
+
+apply to job
+
+
+
+
+
+
+
+
+step 1. requested qualifications for position
+
+
+
+*up to 5 qualifications 
+
+degree of proficiency 
+
+
+
+
+1
+
+
+
+
+very proficient
+proficient
+basic knowledge
+not acquainted with
+
+
+
+
+
+2
+
+
+
+
+very proficient
+proficient
+basic knowledge
+not acquainted with
+
+
+
+
+
+3
+
+
+
+
+very proficient
+proficient
+basic knowledge
+not acquainted with
+
+
+
+
+
+4
+
+
+
+
+very proficient
+proficient
+basic knowledge
+not acquainted with
+
+
+
+
+
+5
+
+
+
+
+very proficient
+proficient
+basic knowledge
+not acquainted with
+
+
+
+
+
+6
+
+
+
+
+very proficient
+proficient
+basic knowledge
+not acquainted with
+
+
+
+
+
+
+
+
+step 2. attach preferred resume/cv upload
+                                
+
+
+
+
+
+
+step 3. name your required hourly rate
+
+
+
+$54 $55 
+
+
+
+
+apply
+
+
+
+
+
+
+
+add reference
+
+
+
+
+
+name of former manager
+
+
+
+
+company
+
+
+
+
+title
+
+
+
+
+
+email
+
+
+
+
+
+phone number
+
+
+
+
+
+
+                    submit
+                
+
+                    cancel
+                
+
+
+
+
+
+
+
+
+
+
+find and apply to jobs on the go
+
+take our free app with you anywhere. enter your phone number and we’ll send you the download link.
+
+
+
++1
+
+
+
+
+
+
+app-store
+google-play
+
+
+
+
+
+
+
+
+
+
+
+
+
+ logo
+
+
+how it works
+ jobs 
+downloads
+about us 
+contact
+
+
+
+
+sign up
+log in
+
+
+
+
+
+
+
+
+© 2017 peoplecaddie. all rights reserved. 
+privacy policy
+terms of use
+
+
+
+
+
+
+
+
+
+log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create account
+
+
+forgot password?
+
+
+
+
+
+
+
+
+
+
+
+×
+
+sign up
+
+are you a contractor/temporary looking for a job
+                    or a hiring manager? please select one
+
+contractor
+hiring manager
+
+
+
+
+
+
+
+contractor sign up
+
+
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+email
+
+
+
+mobile phone
+
+
+
+state
+
+select state
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+
+
+
+password
+
+
+
+repeat password
+
+
+
+
+
+ 
+i agree to privacy policy 
+
+
+ 
+i agree to terms of use 
+
+
+ 
+
+already have an account? sign in
+
+
+
+
+
+
+
+
+
+
+
+
+thank you for registering.
+start by filling out your profile.
+let's start
+
+
+
+
+
+
+
+
+client registration request
+
+
+
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+company name
+
+
+
+city
+
+
+
+state
+
+
+
+email
+
+
+
+office phone
+
+
+
+
+
+ 
+i agree to privacy policy 
+
+
+ 
+i agree to terms of use 
+
+ 
+
+already have an account? sign in
+
+
+
+
+
+
+
+
+thank you for registering  with peoplecaddie!
+an activation email has been sent to your email address containing your temporary password and a convenient link to peoplecaddie’s client portal. just log in and begin creating job orders!
+
+
+
+
+
+
+
+
+
+
+forgot password?
+enter your e-mail to help us identify you.
+
+
+e-mail:
+
+
+
+
+
+
+
+                        next
+                    
+
+
+
+
+
+
+
+
+
+please check your email
+if  is associated with a peoplecaddie account, you should receive an email message shortly containing instructions on how to create a new password.
+
+
+didn't receive the email?
+check your spam or bulk folders for an email coming from admin@peoplecaddie.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

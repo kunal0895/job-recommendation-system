@@ -1,0 +1,252 @@
+
+
+
+
+
+
+software developer - chicago, il - group one trading jobs
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+jobs
+
+
+
+
+software developer - chicago, il
+
+toggle navigation
+
+
+
+
+
+
+
+
+software developer 
+
+jobslogin 
+
+
+
+
+
+
+
+
+
+
+
+ 05-sep-2017 to 31-dec-2017 (cst) development chicago, il, usa full time 
+
+
+
+email me similar jobs email me this job
+
+
+
+we are seeking highly-motivated software developers who are passionate about building great systems. we believe that designing thoughtful and consistent infrastructure yields exceptional, maintainable systems that enable agility from design and implementation through deployment. we desire candidates with strong problem-solving, critical thinking and communication skills as well as excellent programming chops.
+the focus of this position will be the hands-on development of new features for our options market making system built on the .net platform using c#. the system has enough variety to challenge and interest anyone an information-dense user interface, a high-throughput, low latency parallel computational core, server components, interfaces to exchanges, market data sources, and execution systems. the ideal candidate will be able to contribute at all levels of the application stack.
+requirements:
+
+bs or ms in computer science, computer engineering, or a related technical field
+2 4 years of experience as software developer, or a related occupation
+proficiency in a c-style object-oriented programming language; c# preferred
+solid understanding of concurrency, parallelism and synchronization
+experience with performance analysis and optimization in a managed environment, including algorithmic efficiency, memory allocation, and garbage collection
+experience with relational database programming, including experience working with an object relational mapping library such as entity framework or nhibernate
+ability to effectively communicate and collaborate with colleagues across different functional units and locations
+
+desired skills:
+
+passion for writing efficient and clean code
+experience writing automated unit tests
+ability to quickly learn new technologies and apis
+enthusiasm for adopting agile software development practices
+
+about group one:
+group one is a leading specialist and market maker in equity options. with over 25 years since our founding, group one has grown into one of the largest, privately held options trading firms in the united states. we maintain a floor presence in chicago, new york, san francisco and philadelphia and we have specialist posts in new york and chicago. our traders provide competitive liquidity across a broad range of securities by managing portfolios of several hundred issues and simultaneously streaming quotes across multiple exchanges. our software development team provides a diverse set of software for electronic trading, quoting, and trade analysis that is the lifeblood of our business.
+we offer competitive compensation including a performance-based bonus and comprehensive benefits, paid vacation, fresh fruit and snacks daily, casual dress environment, social events, and more! our development team is located in our new york and chicago offices.
+
+group one trading
+https://group1.applicantpro.com
+
+
+
+
+
+
+apply now
+
+
+
+you have javascript disabled on your browser. you will not be able to apply for this position without enabling javascript. if you need assistance with enabling javascript, please click here for assistance.
+
+
+
+
+
+ 
+
+* fields are required
+
+
+
+
+what is your full name?
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+
+
+how can we contact you?
+
+
+email
+
+
+
+
+
+phone number
+
+
+
+number type
+
+home
+cell
+work
+
+
+
+
+
+
+what is your preferred method of communication?
+
+
+email
+text message
+
+
+
+
+
+
+apply for this position
+apply for this position
+by clicking the button above, i agree to applicantpro's applicant information use policy. 
+
+
+
+
+
+
+sign up for job alerts!
+
+
+
+
+
+
+
+
+resources
+
+
+employee referral portalgroup one trading website 
+
+
+share this page
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+hiring software maintained by applicantpro - © 2017
+
+
+
+refresh
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+go
+common questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

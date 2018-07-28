@@ -1,0 +1,194 @@
+
+
+
+careers in health care | cambia health solutions |data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+job locations
+
+us-or-portland
+
+
+
+
+
+requisition id
+
+2017-22887
+
+
+category (portal searching)
+
+analyst/data analytics
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+data scientist - deep learningportland, or we are always looking for talented and qualified data scientist individuals for future opportunities. within the data science and advanced analytics department, we offer exciting opportunities depending on your level of experience and qualifications! 
+
+
+
+
+
+
+
+
+responsibilities & requirements
+
+
+
+
+
+
+cambia health solutions is working to create a seamless and frictionless health care experience for consumers nationwide. this presents a unique challenge and opportunity for innovative and disruptive solutions from the data office.our data scientists design, develop, and implement data-driven solutions using machine learning technologies and advanced statistical analyses. you should be passionate about finding insights in data, comfortable with large and fragmented data sets, and command a variety of analytic tools at your disposal. the ideal candidate is an independent, solution-oriented thinker with a strong background processing types of data sets (e.g. images, text dataset, etc.), applying deep learning and computer vision methods, and driving toward actionable insights and novel solutions. responsibilities  research, design, develop, and implement machine learning, especially deep learning and computer vision technologies..  work in a multi-disciplined team where you’ll take full ownership of turning discoveries and ideas into machine learning models. you’ll use the model’s output to create and improve products for our customers.  design, implement, and analyze online experiments, including a/a and a/b testing, in a variety of configuration environments. requirements  ba/bs degree (or equivalent experience) in a strongly quantitative field such as: statistics, applied mathematics, physics, operations research, computer science, or econometrics and 3 years of database analytics experience or equivalent combination of education and experience. master's or phd degree preferred. ideally, with a specialization in deep learning, computer vision.  experience with state-of-the-art techniques in machine learning algorithms, including object recognition, image processing, deep neural networks, nlp, kernal methods, dimensionality reduction, ensemble methods, graph algorithms, and hidden markov models.  strong analytical skills and comfortable work with large data sets and ability to transform data into actionable insights.  strong programming skills in at least one language such as python, java, scala, c++, julia  experience in deep learning frameworks such as tensorflow, torch, theano and caffe.experience with sql and relational databases.  experience with unstructured & semi-structured data sources and requisite processing tools.  ability to work in an agile environment. preferred capabilities & responsibilities  passion for helping healthy people stay well and for improving the comfort and health level of sick people as efficiently and compassionately as possible. experience in new algorithm development, model enhancements, around some key research areas regarding deep learning, object/image recognition and image processing. experience in hadoop, spark, storm or related paradigms and associated languages such as pig, hive, mahout.experience in working with gpu accelerated environments, or cuda programming. experience in aws, azure, or other cloud ecosystems. familiarity with nosql databases: dynomodb, cassandra, mongodb, or neo4j.  familiarity with elasticsearch, soir, or lucene.  published work in academic conferences or industry circles.  demonstrated ability to guide and contribute to research of new analytic approaches, inference algorithms, and machine learning techniques.  this position is posted at levels i, ii, senior or principal doe.
+
+
+
+
+
+
+
+
+about us
+
+
+
+
+
+
+at cambia, we advocate for transforming the health care system. you aren’t satisfied with the status quo and neither are we. we're looking for individuals who are as passionate as we are about transforming the way people experience health care. we offer a competitive salary and a generous benefits package. we are an equal opportunity employer dedicated to workforce diversity and a drug and tobacco-free workplace. all qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, age, sex, sexual orientation, gender identity, disability, protected veteran status or any other status protected by law. a drug screen and background check is required.cambia’s portfolio of companies spans health care information technology and software development; retail health care; health insurance plans that carry the blue cross and blue shield brands; pharmacy benefit management; life, disability, dental, vision and other lines of protection; alternative solutions to health care access; and free-standing health and wellness solutions.we have nearly a century of experience in developing and providing health solutions to serve our members. we had our beginnings in the logging communities of the pacific northwest as innovators in helping workers afford health care. that pioneering spirit has kept us at the forefront as we build new avenues to improve access to and quality of health care for the future.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+need help finding the right job?
+
+
+
+
+we can recommend jobs specifically for you!
+
+click here to get started.
+
+
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

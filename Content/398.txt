@@ -1,0 +1,455 @@
+
+
+
+
+
+big data developer - intelligent solutions  in  wilmington, de | jpmorgan chase & co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+referral sponsor portal
+sign up now!
+login 
+
+
+
+
+
+
+divisions
+locations
+programs
+why us
+
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+divisions
+locations
+programs
+why us
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+menu
+
+
+referral portal
+
+
+
+
+
+
+
+
+
+careers / job search / job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+big data developer - intelligent solutions
+
+req #: 170077767
+location:
+
+
+wilmington, 
+		de,
+                us
+
+job category: technology
+potential referral amount: 3000 us dollar (usd)
+
+jpmorgan chase & co. (nyse: jpm) is a leading global financial services firm with assets of $2.6 trillion and operations worldwide. the firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. a component of the dow jones industrial average, jpmorgan chase & co. serves millions of consumers in the united states and many of the world's most prominent corporate, institutional and government clients under its j.p. morgan and chase brands. information about jpmorgan chase & co. is available at www.jpmorganchase.com.
+jpmorgan intelligent solutions (jpmis) is a new group considering ways to transform and leverage jpm proprietary data assets into opportunities for jpm.  protecting and managing intellectual property effectively as well as utilizing it to develop solutions that are both customized and scalable will enable jpm to create additional shareholder value. 
+  
+
+jpmis (jpm intelligent solutions) creates & commercializes solutions based on the firm’s information & analytic resources that enable consumers, businesses & governments to make better decisions and achieve their objectives.
+ 
+
+
+reporting to the data operations team manager for jpmis data operations, the data operations - data engineer is responsible for executing the growth strategy of jpmis by expanding key data assets with both internal firm resources as well as external data. the candidate to be results-driven with a passion for transforming large disparate data sets into actionable information. this person will be an integral part of building a best-in-class data management and governance framework leveraging big data technologies. the ideal candidate will possess strong data mining and analytical skills, along with exceptional relationship management skills and commitment to delivering high quality solutions.
+ 
+responsibilities
+
+effectively partner with the data insights team to drive usage and improvement of the intellistor data asset that drives analytics within jpmis and for our strategic partners
+develop java code to handle large data sets including json, xml and csv data
+write sql functions to handle data transformations and processing requirements
+apply quality assurance best practices to all work products
+ building relationships and using influence
+
+self-evident interpersonal skills
+recognizes nuances in reading others and leverages these to influence key stakeholders
+excellent communicator and listener who is able to present across all levels in the organization
+ executing for results
+
+possesses high levels of energy and endurance
+rigorously holds oneself and others accountable for achieving high levels of individual and organizational performance
+financial services background or experience preferred across different lobs. (consumer, commercial, asset management & cib)
+proven proficiency with data and quantitative research techniques 
+proficiency across the full range of database and business intelligence tools; publishing and presenting information in an engaging way 
+intensive, recent experience in assessing and sourcing data needs 
+detail oriented with a commitment to innovation
+ business acumen
+
+consistently evaluates decisions in terms of impact to the business
+uncovers hidden opportunities in disparate data and translates them into actionable information
+technical expertise regarding data management frameworks and etl solutions
+technical expertise regarding data models and database design development
+experience with sql, etl frameworks and data visualization tools
+ knowledge/technical skills 
+
+5 years’ experience in big data technologies and utilities (hadoop, spark sql, hive, impala, pig, kafka, sqoop, hbase) is required.
+5 years’ experience with mpp databases like greenplum, neteza is preferred. ability to troubleshoot issues and develop functions in an mpp environment is highly desired.
+3 experience utilizing and extending etl solutions (e.g., informatica, talend, pentaho, ab initio) in a complex, high-volume data environment is highly desired
+3 years’ experience with scheduling & data integration tools like control-m and ni-fi is highly desired.
+proficient in java, spring and able to produce/consume xml and json format 
+proficient in sdlc process and agile methodology for project delivery
+experience in data mining techniques and procedures and knowing when their use is appropriate
+ability to present complex information in an understandable and compelling manner 
+knowledge of statistics, at least to the degree necessary in order to communicate easily with statisticians is a plus
+knowledge of python or java development is a major plus
+knowledge of industry leading business intelligence tools
+experience with machine learning is preferred
+bachelor's or advanced degree in information management, computer science, mathematics, statistics, or related fields desired
+overall 6+ years of experience
+ 
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our talent community
+not ready to apply? leave your information with us and we will keep you up to date with new career opportunities.
+join now
+
+
+
+things to note
+sign in to our application system to continue your job search or update your profile.
+current employees sign in here.  contractors sign in here.
+any information you provide is confidential and will only be viewed by our recruiters in an effort to fill open positions. in addition, the information you provide is subject to our privacy policy practices.
+please note that j.p. morgan will not accept unsolicited approaches or speculative cvs, nor will j.p. morgan be responsible for any related fees, from third party firms who are not preferred suppliers.
+the firm invites all interested and qualified candidates to apply for employment opportunities.
+need disability related assistance?
+if you are a us or canadian applicant with a disability who is unable to use our online tools to search and apply for jobs, please click here.
+important links
+click here to view the "eeo is the law" poster.
+click here to view the "eeo is the law" supplemental poster.
+click here to view our u.s. pay transparency policy.
+jpmorgan chase is an equal opportunity and affirmative action employer disability/veteran.
+
+
+
+
+
+
+
+your career. your way.
+
+privacy & security
+terms of use
+cookies policy
+
+
+equal opportunities
+site map
+
+
+
+
+
+
+
+
+
+
+corporate twitter links
+
+
+
+
+jpmorgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+
+jpmorgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+jpmorganchase.com
+jpmorgan.com
+chase.com
+
+
+
+
+
+corporate twitter links
+
+
+
+j.p. morgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+j.p. morgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 jpmorgan chase & co. all rights reserved. powered by smashfly
+
+
+
+
+
+
+
+
+
+
+

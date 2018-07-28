@@ -1,0 +1,157 @@
+ software engineer / research scientist - machine learning team | new york | bloomberg careers
+
+
+
+
+
+bloomberg the company & its productsbloomberg anywhere remote loginbloomberg anywhere loginbloomberg terminal demo request 
+
+
+
+
+
+bloomberg
+connecting decision makers to a dynamic network of information, people and ideas, bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+for customers
+bloomberg anywhere remote loginsoftware updatesmanage products and account information 
+support
+americas+1 212 318 2000emea+44 20 7330 7500asia pacific+65 6212 1000 
+
+
+company
+bloomberg londonaboutcareersdiversity and inclusionphilanthropy and engagementsustainabilitytech 
+communications
+press announcementspress contacts 
+follow
+facebooktwitterlinkedininstagram 
+
+
+products
+bloomberg terminalexecution and order managementdata and contentfinancial data managementintegration and distributionbloomberg tradebook 
+industry products
+bloomberg lawbloomberg taxbloomberg governmentbloomberg environmentbloomberg new energy finance 
+
+
+media
+bloomberg marketsbloomberg technologybloomberg pursuitsbloomberg politicsbloomberg opinionbloomberg businessweekbloomberg live conferencesbloomberg mobilebloomberg radiobloomberg televisionnews bureaus 
+media services
+bloomberg media distributionadvertising 
+
+
+
+
+company
+bloomberg londonaboutcareersdiversity and inclusionphilanthropy and engagementsustainabilitytech 
+communications
+press announcementspress contacts 
+follow
+facebooktwitterlinkedininstagram 
+
+
+products
+bloomberg terminalexecution and order managementdata and contentfinancial data managementintegration and distributionbloomberg tradebook 
+industry products
+bloomberg lawbloomberg taxbloomberg governmentbloomberg environmentbloomberg new energy finance 
+
+
+media
+bloomberg marketsbloomberg technologybloomberg pursuitsbloomberg politicsbloomberg opinionbloomberg businessweekbloomberg live conferencesbloomberg mobilebloomberg radiobloomberg televisionnews bureaus 
+media services
+bloomberg media distributionadvertising 
+
+
+bloomberg
+connecting decision makers to a dynamic network of information, people and ideas, bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+for customers
+bloomberg anywhere remote loginsoftware updatesmanage contracts and orders 
+support
+americas+1 212 318 2000emea+44 20 7330 7500asia pacific+65 6212 1000 
+
+ 
+
+careers at bloombergour businesscorporate functionsfinancial productsglobal dataindustry verticalsmedianews and researchtechnologystudents & graduatesinternship opportunitiesfull-time opportunitiescareers calendarworking hereaboutmeet our peopleblogloginloginsearch jobs日本語connecttwitterfacebooklinkedinyoutubeabout bloombergsearch jobs< back to searchsoftware engineer / research scientist - machine learning teamcareers at bloomberg
+similar jobs
+software engineer / research scientist - machine learning teamnew yorkposted aug 25, 2017 - requisition no. 60908 apply now 
+
+bloomberg’s core product, the terminal, is a must-have for the most influential people in finance. in addition to being the second largest producer of news in the world, bloomberg ingests more than 1.5 million news stories per day from more than 120,000 different sources to help our clients stay in the know. this data would be unmanageable without our help. news stories move markets. we build machines that understand them.
+
+who are we? bloomberg's machine learning group - a group of scientists, researchers and software engineers who have a passion for solving complex data problems. we develop applications such as question answering, sentiment analysis of financial news, market impact indicators, social media analysis, topic clustering and classification, recommendation systems, risk analysis and predictive models of market behavior.
+
+who are you? a research scientist and engineer who wants to apply machine learning to solve challenging open-ended problems. you want to be part of a team making a big impact on the financial industry and are not afraid to get your hands dirty in data.
+
+we'll trust you to:
+ design and build systems that solve difficult problems involving text, time series and other complex data sources
+
+ analyze bloomberg’s unique data to build novel prediction models
+
+ write, test and maintain production-quality c++ and python code
+
+ publish in leading academic venues and represent bloomberg at industry conferences
+
+you'll need to have:
+ strong computer science fundamentals (algorithms, data structures)
+
+ solid background in natural language processing and/or machine learning
+
+ industry experience programming in c++ and python; working knowledge of stl & boost
+
+ strong communications and interpersonal skills
+
+we'd love to see:
+ strong mathematical background (probability and statistics)
+
+ a phd in machine learning or natural language processing
+
+ publications in top-tier conferences or journals (acl, emnlp, icml, nips, kdd)
+
+ experience with building machine learning models using time series data
+
+ industry experience developing latency sensitive applications
+
+ working knowledge of spark
+
+ apply now 
+
+software engineer / research scientist - machine learning teamnew yorkposted aug 25, 2017 - requisition no. 60908 apply now 
+bloomberg’s core product, the terminal, is a must-have for the most influential people in finance. in addition to being the second largest producer of news in the world, bloomberg ingests more than 1.5 million news stories per day from more than 120,000 different sources to help our clients stay in the know. this data would be unmanageable without our help. news stories move markets. we build machines that understand them.
+
+who are we? bloomberg's machine learning group - a group of scientists, researchers and software engineers who have a passion for solving complex data problems. we develop applications such as question answering, sentiment analysis of financial news, market impact indicators, social media analysis, topic clustering and classification, recommendation systems, risk analysis and predictive models of market behavior.
+
+who are you? a research scientist and engineer who wants to apply machine learning to solve challenging open-ended problems. you want to be part of a team making a big impact on the financial industry and are not afraid to get your hands dirty in data.
+
+we'll trust you to:
+ design and build systems that solve difficult problems involving text, time series and other complex data sources
+
+ analyze bloomberg’s unique data to build novel prediction models
+
+ write, test and maintain production-quality c++ and python code
+
+ publish in leading academic venues and represent bloomberg at industry conferences
+
+you'll need to have:
+ strong computer science fundamentals (algorithms, data structures)
+
+ solid background in natural language processing and/or machine learning
+
+ industry experience programming in c++ and python; working knowledge of stl & boost
+
+ strong communications and interpersonal skills
+
+we'd love to see:
+ strong mathematical background (probability and statistics)
+
+ a phd in machine learning or natural language processing
+
+ publications in top-tier conferences or journals (acl, emnlp, icml, nips, kdd)
+
+ experience with building machine learning models using time series data
+
+ industry experience developing latency sensitive applications
+
+ working knowledge of spark
+
+
+similar jobs
+
+ apply now xour termsplease read our full terms & conditions before applying{{{legaltermshtml}}}i agreeby applying for this job, you agree to the full terms of the above legal statement.job alertget an email when new listings match your search for:criteria{{criteriastring}}settingssend updatesonce a dayonce a weekend alertwhen i cancelin one monthin three monthsin six monthsemailcreate job alertsuccessemail alert createdpro tip: get connectedconnect, we'll use this information you provide to help us get in touch with you to align your expertise with our opportunities and better direct our conversations, or keep searching.connect with usemail sentcheck your inbox for a link to activate this alert.keep searchingthe bloomberg talent networkstay connected with us and be among the first to learn about new job opportunities. we’ll use the information you provide to help us get in touch with you to align your expertise with our opportunities and better direct our conversations.connect with us twitterlinkedinfacebookyoutube bloomberg is committed to attracting, developing and promoting the most qualified individuals without regard to race, color, religion or belief, sex, national or ethnic origin, ancestry, age, marital status, sexual orientation, gender identity, genetic predisposition or carrier status, veteran status, disability, or any other classification protected by law in your region.
+if you are an individual with a disability who may need assistance with our employment application process, please email us at access2@bloomberg.net to request an accommodation.© 2017 bloomberg l.p.  all rights reserved. privacy and termslog inemailpasswordforgot your password?log inuse your linkedin account to access your profile:inlog in with linkedindon't have a profile? create one now.application waiting for youyou have one or more applications created by recuiters on your behalf. would you like to review them now?if you like to review them later, you can find them under 'applications' tab in the 'my profile' section.yesnot nownot nowxforgot passwordenter the email address associated with your account and we will send you a new password.emailsend new passwordori remember my passwordan email has been sent to  containing a link to reset your password! please check your email.create a profileemailpasswordconfirm passwordcreate my profileor use your linkedin account to create and pre-fill your profileincreate with linkedinalready have a profile? log in.

@@ -1,0 +1,315 @@
+﻿
+
+
+
+
+data analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+data analyst
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-20469
+
+location: 
+charlotte, north carolina
+
+
+
+
+
+ global financial firm located in charlotte,nc has an immediate contract opportunity for an experienced data analyst 
+
+responsibilities:
+• partner with business colleagues and data owners to identify, understand and define critical data elements, write complex queries to extract and analyze enterprise data.
+• identify and ensure implementation of the best approaches for tracking and resolving data quality issues
+• perform data quality analysis, document and maintain source to target mapping.
+• perform data extracts, assessments from various platforms/sources such as hadoop/hive, oracle, and teradata etc.
+• define and maintain data quality controls based on data profiling results
+• define and communicate business rules and terms governing use of the data including security and data lifecycle management
+• work with our data quality it partners for dashboard monitoring
+
+required qualifications:
+• ba/bs
+• five to ten years of experience dealing  with large scale data analysis and management preferably financial services
+• strong technical, analytical and business skills.
+• experience with sql, ability to query in hadoop/hive, xml, oracle, excel, visio, tableau, scripting
+• experience using tools such as sql developer, toad etc for oracle db.
+• experience/knowledge with identifying critical data elements, data quality and data governance techniques
+• quick learner and able to glean insights from the data and present it clearly.
+• demonstrated oral and written communication skills
+
+preferred qualifications:
+• strong communication skills
+•  splunk knowledge preferred
+• experience with data quality concepts, best practices and tools
+• familiarity with financial services products such as retirement, brokerage, mutual funds and retirement products a big plus.
+• experience with fraud prevention and management; demonstrated knowledge of data structure, data systems/tools and related software and data management policies and practices in a complex organizational environment preferred
+• deep understanding of how data supports business strategy & how data  is used within business processes and its impact
+• communication and conflict resolution skills.
+• effective time management & maintaining a focus on high standards and quality
+ interested in learning new technologies and adapting quickly.
+
+
+
+
+apply by creating/using  account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

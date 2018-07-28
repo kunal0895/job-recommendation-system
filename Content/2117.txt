@@ -1,0 +1,307 @@
+
+
+
+
+verifone careers - sr. security software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+insights
+
+
+
+
+thought leadership
+
+
+case studies
+
+
+paybook
+
+
+
+
+
+
+solutions
+
+
+
+
+retail
+
+
+hospitality
+
+
+acquirers
+
+
+taxi
+
+
+
+
+
+
+devices
+
+
+
+
+integrated pos
+
+
+mpos
+
+
+countertops & pin pads
+
+
+portables & transportables
+
+
+unattended
+
+
+
+
+
+
+services
+
+
+
+
+payment services
+
+
+device services
+
+
+app marketplace
+
+
+omnichannel commerce
+
+
+unattended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+support
+
+
+
+
+
+
+
+job description
+
+
+
+
+
+
+                sr. security software engineer
+    
+    
+
+                            engineering            
+                    rocklin,
+                            california
+                
+      r-14579                                           
+                    
+
+
+
+        apply
+    
+
+
+description
+
+for over 35 years, we’ve been making history. now, we’re creating the future.techs on the beachon april 14, 1981, in honolulu, hawaii, william “bill” melton incorporated his new tech company. the original intention was to provide a recourse for retailers who’d been swindled by people handing out bad checks. bill's product was a kind of verification device using phone lines—a verification phone.but then a pivot. the credit card industry was relatively new at the time and processing was still being done with carbon paper. bill saw a way to reduce costs for companies like visa and mastercard, while capitalizing on this new technology. instead of verifying checks, we would provide local businesses a means to electronically process credit card payments. and thus, the verifone payment device was born.now, verifone is one of the world’s largest pos terminal vendors and a leading provider of payment and commerce solutions. we operate in more than 150 countries and employ nearly 6,000 people globally. our steady growth has come organically, through a dedication to innovation and strategic partnerships, as well as from savvy acquisitions."we believe great work comes from incredible people. we’ve established a team with dedication to committed support and unmatched expertise. whether it’s building significant client experiences or paving the way for the future breakthrough in payment technology, verifone is a place where growing your career means making a global impact. let’s shape the future of commerce together."position summary: senior security software engineerwe are currently seeking a senior software development engineer with exposure to designing system software architecture and experience developing software products with security (digital certificate/signature/encryption). this position will be part of our product security team in our rocklin, ca office.this role will offer an exciting fast-paced opportunity to become involved with a number of enterprise software systems and point-of-sales security activities integral to the success of the business. this position will focus primarily on supporting program efforts by designing system components and developing software in a complex, multi-tier environment, reviewing and evaluating code provided by project contributors, customizing code, and implementations as appropriate. this position will work closely with our software security architects. the candidate should have knowledge of traditional languages c, c++, windows 2008 r2, linux, client/server architectures, web services, and n-tier architectures.  experience with application security including cryptographic authentication, encryption and general knowledge of applied cryptography is desirable.your essential responsibilities:• work with security architects, marketing team, internal departments, and customer to determine product requirements• develop software requirements documents / engineering requirements specifications• design, architecture, and development of software security services, applications and interfaces,• reviewing and evaluating code, customizing code,• working with sqa to test software development and releases.• able to prepare estimates for software development and execution,• investigating issues escalated from the various component partners,• investigate product functionality related issues,• troubleshoot issues remotely,• must be able to work with many different groups (internal/external, regional/international) in order to resolve issues and obtain software requirements for current projects,• ability to work with vendors on evaluation platforms for overall system integration,• ability to work with third party consultants as necessary.• able to support and/or provide procedural, process, and project documentation.your knowledge & experience:• bs degree in computer science, computer engineering, electronics engineering, or related field, 7+ years’ experience in software development.• knowledge and good understanding of c, c++, and ability to add enhancements and features as necessary. c# and .net - java experience a plus.• working knowledge of windows , windows apis and developing in a windows environment.• you know linux/unix operating system, linux apis and developing in a linux/unix environment including shell scripting using bash or shell languages.• web technologies experience: html, json, xml, javascript, ajax, web services.• ability to write software test cases for investigation and testing of software.• experience co-developing projects and/or programs with remote teams, including international.• knowledge and work experience on software security, data encryption and authentication, ssl/tls, inter-service security, symmetric and asymmetric cryptography, cryptographic key management, and cryptographic devices – a major plus.• knowledge and work experience with openssl (api or command line) – a major plus.• knowledge and work experience on payment systems hsms, enterprise hsms, pkcs #11, and certificate authority systems – a plus.• knowledge and work experience on payment systems, pos and credit cards – a plus,• knowledge and work experience of relational (or no-sql) databases – a plus,• current working knowledge of owasp secure development recommendations highly desired• experience in developing within a security development lifecycle ( sdl ) or secure sdlc process.• you love to solve problems and think through problems and logically present solutions.• you enjoy both domestic and international travel to verifone offices, design centers and customer locations.verifone is proud to be an equal opportunity employer.#li-priority
+            
+                            
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+insights
+
+thought leadership
+case studies
+paybook
+
+
+solutions
+
+retail
+hospitality
+acquirers
+taxi
+
+
+devices
+
+integrated pos
+mpos
+countertops & pin pads
+portables & transportables
+unattended
+
+
+services
+
+payment services
+device services
+app marketplace
+omnichannel commerce
+
+
+support
+
+security
+verifone support
+
+
+company
+
+about us
+investors
+newsroom
+contact us
+careers
+social responsibility
+
+
+
+
+copyright © 2017 verifone. all rights reserved. legal & privacy
+powered by jobvite
+
+
+
+
+united states
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,398 @@
+
+
+
+research scientists - machine learning | luminoso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who uses us
+
+
+
+customers
+
+
+partners
+
+
+
+
+
+products
+
+
+
+analytics
+
+
+compass
+
+
+
+
+
+science
+
+
+
+conceptnet
+
+
+tech blog
+
+
+
+
+
+resources
+
+
+
+blog
+
+
+become a partner
+
+
+luminoso support
+
+
+
+
+
+get to know us
+
+
+
+about
+
+
+press
+
+
+leadership
+
+
+investor information
+
+
+work here
+
+
+
+
+
+partner portal
+
+
+contact us
+
+
+request pricing
+
+
+schedule a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who uses us
+
+
+
+
+customers
+
+
+partners
+
+
+
+
+
+|
+
+products
+
+
+
+
+analytics
+
+
+compass
+
+
+
+
+
+|
+
+science
+
+
+
+
+conceptnet
+
+
+tech blog
+
+
+
+
+
+|
+
+resources
+
+
+
+
+blog
+
+
+become a partner
+
+
+luminoso support
+
+
+
+
+
+|
+
+get to know us
+
+
+
+
+about
+
+
+press
+
+
+leadership
+
+
+investor information
+
+
+work here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i am interested in
+
+
+
+
+using luminoso
+
+
+learning what luminoso can do
+
+
+partnering with luminoso
+
+
+luminoso's science
+
+
+investing in luminoso
+
+
+working at luminoso
+
+
+
+
+
+
+schedule a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+request demo
+
+
+
+partner portal
+
+
+
+request pricing
+
+
+
+contact us
+
+
+
+
+research scientists - machine learning
+cambridge, ma
+
+luminoso is expanding its research team, hiring innovative research scientists with applied experience using machine learning to create state-of-the-art techniques in natural language understanding that provide value to our customers. we use the latest techniques in vector-based semantics (including deep learning approaches), combined with a powerful knowledge graph, to push the boundaries of computers’ understanding of human language.
+is this the right place for you?
+you will work in our cambridge, ma headquarters with our software engineers to discover, invent, and build techniques that work across multiple languages and multiple domains. you stay connected to your research roots as an active contributor to the wider research community, keeping up with the literature and publishing breakthrough results.
+your work will involve modeling both the broad understanding that comes from up to terabytes of natural language data, and the targeted understanding that can be extracted from a smaller number of documents in a particular domain. problems to be solved include automatically organizing documents into explainable topics, discovering what makes one set of documents different from another, evaluating the correctness of knowledge in a knowledge base, and recognizing the intent of a user who is talking to an automated chat system.
+if you have an entrepreneurial spirit, know how to deliver, love to work with data, and long for the opportunity to make computers understand people better in real-world situations, we want to talk with you.
+key responsibilities:
+establish scalable, efficient, reproducible processes for large scale data analyses, model development, model validation and model implementationresearch and implement new approaches to machine learninguse vector-based semantics and transfer learning to provide valuable insight into a customer’s line of businesswork closely with the software engineering team to implement new models that lead to new features
+minimum qualifications:
+master’s degree in cs machine learning, statistics or a highly quantitative fieldexperience in natural language processing, machine learning and artificial intelligenceexpertise in some area of mlproficiency in pythoncomfortable with linear algebra
+nice to haves:
+relevant work experience, including full time industry experience or as a researcher in a labcommunication and data presentation skillsexperience working in a linux environmentfamiliarity with running deep learning algorithms on a gpu (graphics processing unit)familiarity with high-performance languages such as rust, cython, or lua
+to apply, send your resume to hiring@luminoso.com
+
+
+
+                        view all open positions
+                    
+
+
+
+
+
+
+
+
+
+                                675 massachusetts avenue, 
+                                sixth floor
+                                cambridge, ma 02139
+                            
+617-682-9056
+
+
+
+client login:
+
+
+analytics
+compass
+
+
+privacy policy
+
+
+
+
+
+
+sign up for our newsletter!
+
+
+
+
+
+
+
+
+
+
+
+                        copyright 2010-2017 luminoso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,866 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer | red ventures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what we do
+who we are
+careers
+blog
+press
+
+join our team
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+data engineer
+
+
+
+
+
+
+
+
+
+
+data engineer
+charlotte, nc
+
+
+
+
+
+
+the mission of our data team at red ventures to make data easy-to-use for everyone. we are hiring brilliant data engineers who are excited to overcome challenges, work with the latest aws technologies, and continue making our data better.
+our data engineer will collaborate with the data team in all aspects of database management, pipeline building and data warehouse design. this role requires experience in engineering, etl development, data transformation, data modeling, and bi dashboard development. if you want to be a part of a dynamic team solving business problems using data, this is the role for you.
+what we're looking for:
+
+bs in computer science/similar field or equivalent work experience
+experience with scala and spark
+familiar with microsoft sql server 2012 and/or above
+microsoft bi stack experience
+sql ssis and ssrs
+experience with t-sql
+
+we'd be ecstatic if you have any of the following:
+
+knowledge of git, biml, c#
+experience with business intelligence visualization software (such as microstrategy, tableau, jaspersoft, spotfire, or looker)
+experience with big data technologies like hadoop or hive 
+
+about red ventures:
+red ventures is a leading digital consumer choice platform based in charlotte, north carolina. through deeply integrated brand partnerships and consumer-facing assets, red ventures connects online customers with products and services across high-growth industries including home services, financial services, and healthcare. founded in 2000, red ventures has more than 2,700 employees in offices across the carolinas, seattle, washington, and sao paulo, brazil.   
+
+expand description 
+
+
+
+
+
+
+
+
+
+
+
+
+first name
+
+
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+resume/cv
+
+
+drag and drop files here, or choose file (word or pdf format only)
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+drag and drop files here, or choose file (word or pdf format only)
+
+
+
+
+
+
+
+
+
+linkedin profile
+
+
+
+
+
+
+education history
+please tell us more about your educational history. when entering school name, if the school is a university/college, begin typing the name and select the correct school and location from the auto-populated list.
+
+
+
+
+
+
+ delete
+
+
+
+institution type
+
+select type
+high school
+trade/vocational school
+university/college
+
+
+
+
+
+
+
+institution name
+
+
+
+
+
+
+
+degree type
+
+high school diploma
+ged
+associates degree
+bachelors degree
+doctorate
+masters degree
+
+
+
+
+
+
+
+field of study
+
+
+
+
+
+
+graduated
+
+yes
+no
+
+
+
+
+
+
+gpa
+
+
+
+
+
+
+
+expected graduation date
+
+
+
+
+
+
+
+ add education history
+
+
+
+
+how did you hear about us?
+
+please choose 1
+indeed.comcareerbuilder.comsearch engine (google/yahoo/bing)glassdoor.comonline/print newsradio advertisementtv advertisementred ventures employee referralalumni networklinkedinotherfacebooktech talent south
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+address line 2
+
+
+
+
+
+
+
+city
+
+
+
+
+
+
+
+zip / postal
+
+
+
+
+
+
+
+state / province
+
+please choose 1
+
+
+
+
+
+
+
+country
+
+please choose 1
+united states
+canada
+-------------------
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+ashmore and cartier
+australia
+austria
+azerbaijan
+bahrain
+baker island
+bangladesh
+barbados
+bassas da india
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+british virgin islands
+brunei darussalam
+bulgaria
+burkina faso
+burma
+burundi
+cambodia
+cameroon
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+clipperton island
+cocos (keeling) islands
+colombia
+comoros
+congo, democratic republic of the
+congo, republic of the
+cook islands
+coral sea islands
+costa rica
+cote d\'ivoire
+croatia
+cuba
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+europa island
+falkland islands (islas malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern and antarctic lands
+gabon
+gaza strip
+georgia
+germany
+ghana
+gibraltar
+glorioso islands
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard island and mcdonald islands
+holy see (vatican city)
+honduras
+hong kong (sar)
+howland island
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+jan mayen
+japan
+jarvis island
+jersey
+johnston atoll
+jordan
+juan de nova island
+kazakhstan
+kenya
+kingman reef
+kiribati
+korea, north
+korea, south
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia, the former yugoslav republic of
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+man, isle of
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia, federated states of
+midway islands
+miscellaneous (french)
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+navassa island
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+palmyra atoll
+panama
+papua new guinea
+paracel islands
+paraguay
+peru
+philippines
+pitcairn islands
+poland
+portugal
+puerto rico
+qatar
+réunion
+romania
+russia
+rwanda
+saint helena
+saint kitts and nevis
+saint lucia
+saint pierre and miquelon
+saint vincent and the grenadines
+samoa
+san marino
+são tomé and príncipe
+saudi arabia
+senegal
+serbia
+serbia and montenegro
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+spain
+spratly islands
+sri lanka
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+the bahamas
+the gambia
+togo
+tokelau
+tonga
+trinidad and tobago
+tromelin island
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states minor outlying islands
+uruguay
+uzbekistan
+vanuatu
+venezuela
+vietnam
+virgin islands
+virgin islands (uk)
+virgin islands (us)
+wake island
+wallis and futuna
+west bank
+western sahara
+western samoa
+world
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+
+what is your current annual salary?
+
+
+
+
+
+
+
+what is your desired annual salary?
+
+
+
+
+
+
+
+work authorization
+
+please choose 1
+i am authorized to work without sponsorship or restrictions for any employer in the usi am only allowed to work for my current employer in the usi will require sponsorship now or in the future to work in the usmy status to work in the us is unknown
+
+
+
+
+
+
+
+when could you start?
+
+please choose 1
+i can start this position asapmy current employer requires a two week noticemore than a two week notice will be needed
+
+
+
+
+
+
+
+referring red ventures employee name (if applicable)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what we do
+
+
+who we are
+
+
+careers
+
+
+blog
+
+
+press
+
+
+leadership
+
+
+community
+
+
+contact us
+
+
+privacy policy
+
+
+
+
+
+
+analysts
+
+
+creatives
+
+
+engineers
+
+
+sales
+
+
+director/vp
+
+
+college
+
+
+it / dev ops
+
+
+corporate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+who we are
+
+
+what we do
+
+
+careers
+
+
+blog
+
+
+press
+
+
+leadership
+
+
+
+
+
+
+
+leadership
+
+
+community
+
+
+contact us
+
+
+analysts
+
+
+creatives
+
+
+engineers
+
+
+director/vp
+
+
+college
+
+
+it / dev ops
+
+
+corporate
+
+
+
+
+				headquarters
+				1101 red ventures drive
+				fort mill, sc 29707
+				704.971.2300
+			
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

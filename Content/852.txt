@@ -1,0 +1,448 @@
+
+
+
+
+
+
+		software engineer - full stack
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+software engineer - full stack
+ – raleigh, north carolina
+
+
+apply for this job
+
+
+
+
+employment type
+full-time
+
+
+minimum experience
+mid-level
+
+
+
+
+
+
+
+
+
+
+about agari
+agari is solving the email phishing problem through a combination of big data based machine learning analytics, a scalable and highly available event stream processing system and a next generation web application.  our goal is to spread the dmarc standard and ensure no one gets their personal data stolen ever again. our customers include some of the world’s largest banks, ecommerce sites and the worlds largest social networks. using our service, customers protect their brands and decrease the damage done by cyber criminals and nation state actors. the biggest email providers in the world partner with us and look to agari for leadership in fighting spam and email phishing.
+agari engineering
+we believe strongly in autonomy for our engineering team; in collaboration with the product owners and engineering colleagues, our engineers are empowered to make decisions about every aspect of our architecture and development process. we value learning through pairing on unfamiliar areas of the stack with someone knowledgable and by attending conferences and classes.
+responsibilities
+
+work with product owner and scrum team to scope and prioritize feature requirements and engineering backlog.
+investigate technologies and design products and services with other top engineers.
+create applications that fundamentally protect people on the internet.
+practice secure development methodologies during design, implementation and maintenance of agari products and services
+address vulnerability and security issues in application development maintenance according to industry best practices (i.e., owasp top 10, sans cwe)
+
+what we’re looking for
+
+experience developing distributed systems which can handle data at scale.
+proficient with ruby on rails or other web framework combined with a willingness to learn ruby.
+experience with javascript frameworks like ember.
+experience with web application development.
+experience building and scaling applications and components using amazon web services.
+experience with automation tools like terraform and ansible
+bs or ms in computer science or comparable experience.
+experience leveraging build and continuous integration (ci) frameworks such as jenkins and git.
+comfortable using linux in a development, test, and production environment.
+
+nice to have
+
+
+knowledge of email authentication technologies (spf, dkim, dmarc).
+front-end (ui design, js, ajax) experience.
+experience with relational databases and sql. postgresql experience is a big plus.
+big data experience (spark, emr, hadoop). 
+
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+raleigh, north carolina
+
+
+employment type
+full-time
+
+
+minimum experience
+mid-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

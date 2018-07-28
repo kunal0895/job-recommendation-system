@@ -1,0 +1,303 @@
+ 
+
+
+
+
+
+careers : about us : emporos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+speak with a sales consultant: 877.716.2403
+
+training & support
+about us
+contact us
+
+
+
+menu
+
+products
+getting started
+news and events
+about us
+contact us
+training & support
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+
+
+
+merchantsoft
+merchantsoft is designed from the ground up to support the needs of any size pharmacy.
+find out more
+
+
+
+
+
+
+emporosair
+this cloud-based tool is designed to ensure you’re always well-stocked.
+find out more
+
+
+
+
+
+getting started
+news & events
+
+
+
+
+
+
+
+
+
+
+careers
+emporos is always looking for the best and the brightest to carry our products and company into the future. 
+
+
+
+
+
+
+
+
+
+
+overview
+partners
+testimonials
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position: 
+                            
+                            
+                                
+                                    junior php developer
+                            
+                        
+
+
+
+location: 
+                                
+                                    charlotte, nc
+                                
+                        
+
+
+
+job id: 
+                            
+                            
+                                
+                                    125
+                            
+                        
+
+
+
+# of openings: 
+                            
+                            
+                                
+                                1
+                            
+                        
+
+
+
+
+
+
+
+
+emporos systems corporation, a charlotte, nc based company, is the leading provider of pharmacy point-of-sale solutions to independent pharmacies, hospitals, clinics, and regional chains. the emporos merchantsoft system addresses the unique needs of pharmacies by verifying prescriptions, providing state-of-the-art checkout, and maintaining compliance with state and federal regulations.
+ 
+job summary
+ 
+the junior php developer is responsible for managing back-end services and the interchange of data between the server and client pos devices and stations. the primary focus will be the support of all server-side code and the maintenance of the central database. 
+ 
+essential roles and responsibilities
+the essential roles and responsibilities are outlined below:
+
+maintain php modules
+solve complex performance problems and architectural challenges
+participate in designing, coding, testing, debugging, configuring, and documenting developed software
+perform software maintenance and repair activities for both deployed and local applications
+plan and execute software version upgrade releases and monitor post release customer feedback
+participate in formal and informal peer code review sessions
+must be able to perform second tier support duties with quick code turn-around for high visibility clients
+must be able to identify the defects and offer a solution and/or a workaround quickly
+
+ 
+qualifications
+ 
+experience, knowledge, and skills
+successful candidate will possess 2-5 years’ experience in software development, to include:
+
+a basic understanding of the following program languages: php 5.x, zend 1.0 and above, apache, javascript, gridui (required)
+nice to have understanding of the following program languages: asp, javascript and jquery, html 5, css3, sql/t-sql
+experience doing both web development and windows based application development
+
+ 
+education and certifications
+
+bachelor’s degree in computer science/related field or university program certificate; or 2-5 years related experience and/or training; or equivalent combination of education and experience.
+
+ 
+compensation
+this is a contract to hire position. the salary for this position is negotiable based on qualifications and experience. it does not include benefits for the duration of the contract.
+ 
+work environment
+the noise level in the work environment is usually quiet.
+ 
+
+additional notes
+emporos systems corporation is an equal opportunity employer and a drug free environment. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, or national origin.
+
+
+
+
+
+
+                                apply for this position
+                            
+
+
+
+
+
+
+
+
+                    apply with indeed
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+                go back to the job list
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+applicant privacy policy
+
+
+
+
+
+
+
+       what they’re saying laura powers, the pharmacy manager/owner of powers pharmacy of loris, knows that the good customer service and support that she has with emporos systems goes hand in hand with the high level of service that she can provide to her customers. as an independent pharmacy owner, powers relies on her emporos point of sale registers to provide her with [...] laura powerspowers pharmacy of loris view more testimonials     upcoming webinars  wednesday, november 12, 2014 merchantsoft point of sale: selling prescriptions gotomeeting: attend now  wednesday, november 19, 2014 merchantsoft enterprise: credit card reconciliation gotomeeting: attend now     see us at  october 6 – 8, 2014 health connect partners: 2014 fall hospital pharmacy conference chicago, il  find out more  december 7-11, 2014 american society of healthcare professionals: mid-year meeting (ashp) anaheim, ca find out more        home products training & support news & events about us contact us  speak with a sales consultant: 877.716.2403  copyright ©2013 emporos systems corporation – all rights reserved                                     

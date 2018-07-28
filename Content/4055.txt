@@ -1,0 +1,673 @@
+
+
+uchicago jobs - applicant site : posting details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+search postings
+
+
+create profile
+
+
+login
+
+
+
+
+
+
+
+                    uchicago
+
+        
+
+
+
+
+                    student employment
+
+        
+
+
+
+
+                    benefits
+
+        
+
+
+
+
+                    compensation
+
+        
+
+
+
+
+                    our setting
+
+        
+
+
+
+
+                    our employees
+
+        
+
+
+
+
+                    frequently asked questions
+
+        
+
+
+
+
+                    applicant definition
+
+        
+
+
+
+
+                    affirmative action/equal opportunity employer
+
+        
+
+
+
+
+                    job opportunities at the university of chicago medical center
+
+        
+
+
+
+
+
+posting details
+
+
+return to search results
+
+
+
+printer-friendly version
+
+
+
+
+
+
+
+
+
+
+
+*the standard summary is designed to indicate the general nature and level of work performed by employees within this classification. it is not designed to contain or be interpreted as a comprehensive inventory of all duties and responsibilities required of employees assigned to this job.note: after applying for this position you will receive a confirmation number. if you do not see the confirmation number, you have not completed applying for the position.the university of chicago is an affirmative action/equal opportunity/disabled/veterans employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected classes under the law. for additional information please see the university's notice of nondiscrimination.   staff job seekers in need of a reasonable accommodation to complete the application process should submit a request via the  applicant   inquiry form  or call 773-702-5800.   the university of chicago's annual security & fire safety report provides information about university resources, statistics and policies, including: offices and programs that provide safety support; crime and fire statistics; emergency response and communications plans; and other policies and information. the report can be accessed online at: http://commonsense.uchicago.edu/. paper copies of the report are available, upon request, from the university of chicago, human resources, 773-834-2044, 6054 s. drexel avenue, chicago, il 60637.
+
+
+
+
+
+
+
+
+
+
+
+position information
+
+
+
+
+
+
+
+
+
+
+requisition number
+
+
+
+
+	            		103148
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+departmental job title
+
+
+
+
+	            		data scientist
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+type of position
+
+
+
+
+	            		staff
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+number of positions available
+
+
+
+
+	            		1
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+division
+
+
+
+
+	            		urban labs
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+department
+
+
+
+
+	            		13760 - crime lab
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+*standard summary
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+
+about the unit
+
+
+
+
+	            		who we are:by 2050, the global urban population will nearly double to 6.4 billion. this unprecedented growth in the global urban population creates incredible opportunities but also intensifies the most difficult problems cities face, such as concentrated poverty, crime, poor-quality schooling, and pollution. the university of chicago founded urban labs to help address these challenges. urban labs is a set of highly synergistic labs focused on undertaking inquiry and having impact on five essential dimensions of urban life: crime, education, health, poverty, and energy & environment. urban labs partners with cities to identify and rigorously evaluate the policies and programs with the greatest potential to improve human lives at scale. urban labs' evidence-based approach gives policymakers and practitioners the knowledge they need to effectively achieve the greatest social good per dollar spent. in sum, uchicago urban labs:- identifies promising solutions to urban challenges- tests the most promising urban policies and programs- scales-up the most effective and cost-efficient policies and programs for more information about the uchicago urban labs, go to http://urbanlabs.uchicago.edu/
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+unit job summary
+
+
+
+
+	            		the role:the university of chicago crime lab is seeking a data scientist to work on social science research projects designed to test the effectiveness of predictive models. the position offers the opportunity to work directly with leading social policy researchers, at the university of chicago and nyc-area universities, local city agency staff, as well as a team of administrative staff, research managers, analysts, and student research assistants. the data scientist will be working directly with faculty director, jens ludwig, and faculty affiliate, sendhil mullainathan from harvard university.  duties and responsibilities: - under the guidance of the faculty director contributes to the design, implementation, and evaluation of predictive models that draw on disciplines such as machine learning, natural language processing, and social network analysis and which require entity disambiguation and the merging of large datasets. - builds and maintains strong relationships with researchers working on machine learning and all participating partner organizations, government agencies, nonprofits, and other relevant stakeholders.- prepares project memos, summaries, presentations, manuscripts, and other work for dissemination targeting policymakers, academic researchers, and other stakeholders. required application materials: submit resume, cover letter, writing sample, and unofficial transcripts.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+education
+
+
+
+
+	            		bachelor's degree in computer science, statistics, economics or a closely related field required; master's degree preferred.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+experience
+
+
+
+
+	            		a minimum of two years related work experience (may be part-time) required. experience with statistical data analysis using python, r, stata, sql, c++, and/or java strongly preferred.experience working with large and complex datasets strongly preferred.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+competencies
+
+
+
+
+	            		strong interpersonal skills and ability to maintain positive relationships with various stakeholders required.strong initiative and a resourceful approach to problem solving and learning required.ability to work independently and as part of a team in a fast-paced environment required.sound critical thinking skills required. strong attention to detail with superb analytical and organization skills required.excellent written and verbal communication skills, with the ability to present data in a simple and straightforward way for non-technical audiences required.knowledge and understanding of crime policy and violence research literature strongly preferred.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+required job seeker documents
+
+
+
+
+	            		resumecover letterotherwriting sample
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+optional job seeker documents
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+
+work location
+
+
+
+
+	            		other
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+other work location
+
+
+
+
+	            		33 n. lasalle st., 16th floor, chicago, il. 60602
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+work schedule
+
+
+
+
+	            		full-time
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+hours/week
+
+
+
+
+	            		37.5
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+if other than regular hours (m-f, 8:30-5:00) please detail
+
+
+
+
+	            		flexible
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+benefits eligible?
+
+
+
+
+	            		yes
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+union (if applicable):
+
+
+
+
+	            		non-union
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay grade
+
+
+
+
+	            		na
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay range
+
+
+
+
+	            		depends on qualifications
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay frequency
+
+
+
+
+	            		monthly
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+does this position require incumbent to operate a vehicle on the job?
+
+
+
+
+	            		no
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+is a background check required?
+
+
+
+
+	            		yes
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+is drug testing required?
+
+
+
+
+	            		no
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+employee referral bonus amount
+
+
+
+
+	            		none
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+posting date
+
+
+
+
+	            		07-21-2017
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+remove from posting on or before
+
+
+
+
+	            		01-21-2018
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+return to search results
+
+
+
+
+
+
+
+
+
+*the standard summary is designed to indicate the general nature and level of work performed by employees within this classification. it is not designed to contain or be interpreted as a comprehensive inventory of all duties and responsibilities required of employees assigned to this job.note: after applying for this position you will receive a confirmation number. if you do not see the confirmation number, you have not completed applying for the position.the university of chicago is an affirmative action/equal opportunity/disabled/veterans employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected classes under the law. for additional information please see the university's notice of nondiscrimination.   staff job seekers in need of a reasonable accommodation to complete the application process should submit a request via the  applicant   inquiry form  or call 773-702-5800.   the university of chicago's annual security & fire safety report provides information about university resources, statistics and policies, including: offices and programs that provide safety support; crime and fire statistics; emergency response and communications plans; and other policies and information. the report can be accessed online at: http://commonsense.uchicago.edu/. paper copies of the report are available, upon request, from the university of chicago, human resources, 773-834-2044, 6054 s. drexel avenue, chicago, il 60637.
+
+
+
+
+
+
+
+
+
+for additional support, please visit http://peopleadminsupport.com/5-8/
+
+
+
+
+
+
+

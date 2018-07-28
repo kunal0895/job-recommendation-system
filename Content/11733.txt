@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+novartis - job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ?
+
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job detailstweetjob 1 of 1   apply to job   send to friend   save to basket          job id  217129br   posting title  data scientist, computational biology (cambridge, ma or basel,ch)   division  nibr   business unit  translational medicine   country  usa   work location  cambridge, ma   company/legal entity  nibri   functional area  research & development   job type  full time   employment type  regular   job description  the novartis institutes for biomedical research (nibr) is the innovation engine of novartis, focusing on powerful new technologies that have the potential to help produce therapeutic breakthroughs for patients. nibr includes about 6500 associates across 7 locations worldwide. translational medicine (tm) is the clinical research arm of nibr, and includes about 1000 associates globally. tm plays a pivotal role in bringing innovative medicines to patients, by building on research advances to develop new therapies, and bridging drug discovery and clinical application. the biomarker development department works in partnership with novartis and external translational biologists, physicians and companies to develop precision medicines for all stages of clinical development by applying state of the art imaging, proteomic, genetic, genomic, cellular and computational approaches which address clinical and biological pathway questions. bring your expertise of leveraging data and advanced analytics to help novartis translational medicine develop better and safer drugs for patients and revolutionize clinical practice. location: basel (switzerland) or cambridge (ma, usa): please state in your application letter which locations you want to be considered for.  as a data scientist/computational biologist within novartis translational medicine integrated data sciences, you will enable massive online analysis of translational medicine genetics, proteomics, transcriptomics and epigenetics data through the development of optimized bioinformatics pipelines. the team: integrated data sciences (ids) is part of quantitative sciences & innovation (qs&i) within novartis translational medicine. qs&i delivers customized and innovative analysis of exploratory biomarker programs throughout novartis’ clinical development portfolio (proof of concept to ph iv) and ids organizes the data and knowledge to make it possible. qs&i is a group of 26 (15 basel, 10 cambridge usa, 1 other). included within this is ids - a team of 9 (6 basel, 2 cambridge, 1 other). qs&i are currently recruiting 7 new positions - 4 of those are in ids and this position is 1 of the 4. main responsibilities: - help design, develop, test, implement and maintain data pipelines that fulfill scientists’ requirements for complex analysis of high throughput data - automate translation medicine data pipelines and connect them to central nibr repositories. make these data inter-operable with other data types such as clinical endpoints and biomarker data- consult and advise scientists regarding study design, data analysis requirements, data pipelines- ensure reports of data processing and analysis of data are accurate, understandable and acceptable for line functions - conduct competitive intelligence internally and externally, keeping data pipelines best in class and proactively suggesting new data processing techniques   eeo statement  the novartis group of companies are equal opportunity employers and take pride in maintaining a diverse environment. we do not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.   minimum requirements  - bioinformatics skills including hands-on experience processing main types of high throughput data (genetics, transcriptomics, proteomics) and analyzing it (outlier detection, biological pathway analysis, set enrichment). integrating data from different sources- strong programming skills in r language and other programming languages (e.g., perl, java, c, etc.). basic knowledge of databases access technologies including sql. deep knowledge of bioconductor - statistics: skills in exploratory statistics to enable relation to data analysts and statisticians. this includes understanding hypothesis testing, multivariate modelling techniques including fixed/mixed effects linear models, different machine learning methods, time course analyses, cross-validation and re-sampling methods. basics of data mining (graphical, numeric and network bases methods)- strong communications skills: represented your colleagues / teams across your organization and wider scientific community- good organizational and project management skills; used to working successfully to tight deadlines within a matrix environment desirable:- biology: knowledge and experience in molecular biology, genetics, biochemistry and cell biology to enable support of tm labs and projects- knowledge of translational medicine questions and data- knowledge of key concepts of master data management (mdm)    apply to job   send to friend   save to basket        
+
+
+  use of this website is governed by our terms of use and privacy policy  
+
+
+
+   
+
+
+

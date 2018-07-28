@@ -1,0 +1,256 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail: learn more about the position & apply today! | tekpartners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+close
+
+
+skip to content
+home
+about
+
+about us
+our story
+culture
+testimonials
+community outreach
+awards & recognition
+internal opportunities
+tekpartners incentive program
+
+
+leadership team
+
+executive leadership
+corporate leadership
+field leadership
+
+
+services
+
+professional staffing
+managed services
+it project solutions
+
+
+search jobs
+newsroom
+
+the techie times archive
+
+
+locations
+contact us
+ facebook
+google+
+twitter
+linkedin
+youtube
+pinterest
+contact menu
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail  
+
+
+search jobsdata engineerprofession:information technologyspecialty:data warehousecity:charlottestate:ncstatus:openterm:contractjob id:55749descriptiontitle: data system engineer
+location: charlotte nc 
+work requirements:
+third-party candidates are not being considered at this time; candidates must have valid authorization to work in the us for any employer as a w-2 employee.
+the position 
+the data systems analyst engineer role is responsible for creating, maintaining and optimizing the data architecture in support of multiple product and business lines. the ideal candidate should have a positive attitude, strong focus on attention to detail, a proactive approach in problem solving, critical thinking and process improvements, and excellent communication skills. the data engineer will gather and analyze requirements, make architectural and design recommendations, code, document, and test their contributions in a high-energy, team- oriented environment. 
+
+job responsibilities: 
+• design, develop, test and deploy business intelligence solutions 
+• design and document data structures/models and data flows 
+• interact with various business units and technical teams to gather requirements 
+• review, optimize and document current etl processes 
+• ensure data quality, completeness and accuracy 
+• collaborate with team members in code reviews, discovering better practices and patterns and continuous improvements 
+• provide significant contributions to the growth of our data infrastructure 
+• participate in routine agile and scrum principles 
+
+
+knowledge & skills: 
+requirements: 
+• bachelor's degree in a related field 
+• 3-5 years of relevant work experience in business intelligence, data engineering, data warehousing or related field 
+• extensive working knowledge of sql 
+• working knowledge of multiple database programming languages 
+• proficiency in relational and columnar databases 
+• experience with python, r, java, scala or equivalent languages 
+• experience with integration of data from multiple data sources 
+• experience processing large amounts of unstructured data 
+• experience with data modeling and documentation 
+• experience building etl pipelines with different technology stacks 
+• experience with manipulating data with sql, pig, hive, java and/or python 
+• working knowledge of unix/linux systems 
+• working knowledge of data security management policies and procedures 
+• remain active in learning emerging practices and technologies 
+• experience working in the financial industry 
+
+additional desired knowledge & skills: 
+• experience with cloud technologies (preferably aws) 
+• experience with big data components (apache spark/hadoop/presto/etc) 
+• working knowledge of agile methodologies (scrum, kanban, lean, xp) 
+• experience working with continuous integration systems (teamcity, octopus, jenkins) 
+• passion, positive attitude, engagement and desire to take over challenging assignments as part of a team, making things work 
+
+3315724tekpartnersquick apply
+
+
+first name*last name*email*
+
+phone*citystatestatealabamaarizonaalaskaarkansascaliforniacoloradoconnecticutdelawarefloridageorgiahawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotaohiooklahomaoregonpennsylvaniarhode islandsouth carolinasouth dakotatennesseetexasutahvermontvirginiawashingtonwest virginiawisconsinwyomingzip coderesumetracking idpageview idvisitor idjob idsource nameprofessionspecialtytitledownload resume
+
+ 
+
+
+
+
+
+
+
+
+
+more infocontactcorporate headquarters
+					5810 coral ridge drive
+					suite 250
+					coral springs, fl 33076
+					phone: 954.656.8600
+					fax: 954.282.6070
+hq@tekpartners.comsimilar positionsprogram manager  in miami fljunior programmer in orlando flsr. enterprise program manager - agile in milwaukee wihot jobsc# developer in charlotte ncsr. cloud systems engineer in weston flit business analyst w/ salesforce experience in orlando fljob detail page
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+email
+phone
+location
+social
+facebook
+google+
+twitter
+linkedin
+youtube
+pinterest
+contact menu
+ 
+
+
+
+
+copyright © 2012 – 2017 tekpartners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,401 @@
+
+
+
+
+
+full stack software developer | searchdex | dallas, tx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        back to jobs
+                    
+
+
+
+
+
+
+
+
+full stack software developer
+dallas, tx,  tx,   united states    full time
+                
+apply for position now
+
+growing marketing technology company seeking full-stack developer:the company:searchdex is a digital marketing technology firm looking for a full-stack developer to add to our talented team of engineers in dallas, tx. searchdex’s mission is to create scalable software solutions to enable marketers to place their websites in front of their key audience. our small team of developers is passionate about learning new technologies, finding creative solutions to complex problems, and leveraging teamwork to enable the best software delivery possible. candidates for this job should expect to work on-site at our dallas, tx office with several other experienced developers and collaborate directly with searchdex’s internal end-users.searchdex has multiple software solutions that are leveraged on enterprise level ecommerce sites that enhance their search engine optimization. though a combination of world-class client services and cutting-edge development, searchdex provides an outlet to stakeholders who are struggling to achieve their goals and drive performance to the website.the job:the position requires the ability and willingness to be a jack of all trades. candidates will be expected to write back-end code that manages database interactions and automated processes as well as develop web-based user interfaces for those functions. we’re looking for flexible developers who are comfortable working at any layer in our stack and eager to learn new technologies. our new software offering is currently in a beta period, and scaling up features and greenfield development should be expected.the two primary searchdex platform offerings are written in java using postgresql and python (drango).html, css, and javascript are as significant a piece to our stack as the server-side technologies. we also utilize several frameworks including jquery, knockout, react, bootstrap with sass, and more.our systems are deployed to linux servers hosed in aws.a working knowledge and competency in the full stack quickly is expected as developers will be tasked with implementing features that span the database layer to the ui.the perks:searchdex offers the unique opportunity to work with enterprise-scale technologies without the red tape and bureaucracy typically found in large it organizations. our culture welcomes developers who are looking for creative solutions to problems, and encourages open collaboration between all levels of the organization.while we have the culture of a small business, we also offer competitive benefits:health, dental, and vision benefits401k packageemployee gym membershipflexible work hourscasual dressthe requirements:the only true requirements for this position are a working knowledge of java and web technologies.additionally, you must be comfortable working on a team composed of individuals with a variety of backgrounds and skill sets. most importantly, a passion for learning new things and completion of projects independently while integrating with our strong team.nice-to-haves:amazon aws services – ec2, s3, etc.mysql, postgresqljsonpython (django)spring frameworklinux – admin, cron, etc.applicants must also be authorized for work in the us. searchdex is not currently offering sponsorship.
+
+
+
+
+apply for position now
+
+
+apply with linkedin
+
+
+
+
+
+
+
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+
+address
+
+
+
+country
+
+united states 
+canada 
+united kingdom 
+ireland 
+australia 
+new zealand 
+south africa 
+germany (deutschland) 
+-----------
+various locations
+undefined 
+afghanistan (افغانستان) 
+aland islands 
+albania (shqipëria) 
+algeria (الجزائر) 
+american samoa 
+andorra
+angola 
+anguilla 
+antarctica 
+antigua and barbuda 
+argentina 
+armenia (հայաստան) 
+aruba 
+austria (österreich) 
+azerbaijan (azərbaycan) 
+bahamas 
+bahrain (البحرين) 
+bangladesh (বাংলাদেশ) 
+barbados 
+belarus (белару́сь) 
+belgium (belgië) 
+belize 
+benin (bénin) 
+bermuda 
+bhutan (འབྲུག་ཡུལ) 
+bolivia 
+bosnia and herzegovina (bosna i hercegovina) 
+botswana 
+bouvet island 
+brazil (brasil) 
+british indian ocean territory 
+brunei (brunei darussalam) 
+bulgaria (българия) 
+burkina faso 
+burundi (uburundi) 
+cambodia (kampuchea) 
+cameroon (cameroun) 
+cape verde (cabo verde) 
+cayman islands 
+central african republic (république centrafricaine) 
+chad (tchad) 
+chile 
+china (中国) 
+christmas island 
+cocos islands 
+colombia 
+comoros (comores) 
+congo 
+congo, democratic republic of (congo, democratic republic of the) 
+cook islands 
+costa rica 
+côte d'ivoire 
+croatia (hrvatska) 
+cuba 
+cyprus (κυπρος) 
+czech republic (česko) 
+denmark (danmark) 
+djibouti 
+dominica 
+dominican republic 
+ecuador 
+egypt (مصر) 
+el salvador 
+equatorial guinea (guinea ecuatorial) 
+eritrea (ertra) 
+estonia (eesti) 
+ethiopia (ityop'iya) 
+falkland islands 
+faroe islands 
+fiji 
+finland (suomi) 
+france 
+french guiana 
+french polynesia 
+french southern territories 
+gabon 
+gambia 
+georgia (საქართველო) 
+ghana 
+gibraltar 
+greece (ελλάς) 
+greenland 
+grenada 
+guadeloupe 
+guam 
+guatemala 
+guernsey 
+guinea (guinée) 
+guinea-bissau (guiné-bissau) 
+guyana 
+haiti (haïti) 
+heard island and mcdonald islands 
+vatican city (città del vaticano) 
+honduras 
+hong kong 
+hungary (magyarország) 
+iceland (ísland) 
+india 
+indonesia 
+iran (ایران) 
+iraq (العراق) 
+isle of man 
+israel (ישראל) 
+italy (italia) 
+jamaica 
+japan (日本) 
+jersey 
+jordan (الاردن) 
+kazakhstan (қазақстан) 
+kenya 
+kiribati 
+north korea (조선) 
+south korea (한국) 
+kuwait (الكويت) 
+kyrgyzstan (кыргызстан) 
+laos (ນລາວ) 
+latvia (latvija) 
+lebanon (لبنان) 
+lesotho 
+liberia 
+libya (ليبيا) 
+liechtenstein 
+lithuania (lietuva) 
+luxembourg (lëtzebuerg) 
+macao 
+macedonia (македонија) 
+madagascar (madagasikara) 
+malawi 
+malaysia 
+maldives (ގުޖޭއްރާ ޔާއްރިހޫމްޖ) 
+mali 
+malta 
+marshall islands 
+martinique 
+mauritania (موريتانيا) 
+mauritius 
+mayotte 
+mexico (méxico) 
+micronesia 
+moldova 
+monaco 
+mongolia (монгол улс) 
+montenegro (црна гора) 
+montserrat 
+morocco (المغرب) 
+mozambique (moçambique) 
+myanmar (burma) 
+namibia 
+nauru (naoero) 
+nepal (नेपाल) 
+netherlands (nederland) 
+netherlands antilles 
+new caledonia 
+nicaragua 
+niger 
+nigeria 
+niue 
+norfolk island 
+northern mariana islands 
+norway (norge) 
+oman (عمان) 
+pakistan (پاکستان) 
+palau (belau) 
+palestinian territories 
+panama (panamá) 
+papua new guinea 
+paraguay 
+peru (perú) 
+philippines (pilipinas) 
+pitcairn 
+poland (polska) 
+portugal 
+puerto rico 
+qatar (قطر) 
+reunion 
+romania (românia) 
+russia (россия) 
+rwanda 
+saint helena 
+saint kitts and nevis 
+saint lucia 
+saint pierre and miquelon 
+saint vincent and the grenadines 
+samoa 
+san marino 
+sao tome and principe (são tomé and príncipe) 
+saudi arabia (المملكة العربية السعودية) 
+senegal (sénégal) 
+serbia (србија) 
+seychelles 
+sierra leone 
+singapore (singapura) 
+slovakia (slovensko) 
+slovenia (slovenija) 
+solomon islands 
+somalia (soomaaliya) 
+south georgia and the south sandwich islands 
+spain (españa) 
+sri lanka 
+sudan (السودان) 
+suriname 
+svalbard and jan mayen 
+swaziland 
+sweden (sverige) 
+switzerland (schweiz) 
+syria (سوريا) 
+taiwan (台灣) 
+tajikistan (тоҷикистон) 
+tanzania 
+thailand (ราชอาณาจักรไทย) 
+timor-leste 
+togo 
+tokelau 
+tonga 
+trinidad and tobago 
+tunisia (تونس) 
+turkey (türkiye) 
+turkmenistan (türkmenistan) 
+turks and caicos islands 
+tuvalu 
+uganda 
+ukraine (україна) 
+united arab emirates (الإمارات العربيّة المتّحدة) 
+united states minor outlying islands 
+uruguay 
+uzbekistan (o'zbekiston) 
+vanuatu 
+venezuela 
+vietnam (việt nam) 
+virgin islands, british 
+virgin islands, u.s. 
+wallis and futuna 
+western sahara (الصحراء الغربية) 
+yemen (اليمن) 
+zambia 
+zimbabwe 
+work remotely
+
+
+
+
+current company
+
+
+
+current title
+
+
+
+email
+
+
+
+phone
+
+
+
+resume / cv 
+
+icloud files currently not available
+
+
+cover letter
+
+
+
+
+
+
+
+apply for position now
+
+
+
+
+
+
+
+
+
+            © searchdex 2017. powered by
+            
+
+
+
+
+
+
+
+
+
+

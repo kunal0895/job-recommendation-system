@@ -1,0 +1,211 @@
+
+software data engineer job - evariant, inc. - austin, tx | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+software data engineer
+
+evariant, inc.
+     -
+austin, tx
+
+
+the data engineering team is at the core of building evariant’s next generation of data applications. as a data engineer, you’ll be responsible for developing scalable components to store, transfer, process, and analyze large amounts of data. you’ll be instrumental in establishing the scope, infrastructure requirement and design of our data products, and you’ll seek guidance from product owners and other stakeholders to ensure that your work product remains consistent with product needs. the initiatives you’ll contribute to will touch all parts of our data ecosystem (i.e. big data clusters, mpp appliances, etc.), so the ability to operate comfortably in a diverse technical environment is a must. strong collaboration and communication skills are also required in our environment. if you’re passionate about the intersection of engineering and big data, we want to hear from you!create robust softwarewrite clear, efficient, and well documented codeperform thorough code reviewscreate and maintain technical documentationcreate and maintain continuous integration processescreate and maintain tests ranging from specific (unit) to broad (system)ability to problem-solve / troubleshootdevelop, optimize, and support data pipelines and other data application components.analyze, evaluate, validate structured and unstructured data sets.be a key agile contributor: actively contribute to sprint planning, grooming sessions, technical and user story writing, retrospectives, and demos.help manage, secure, and scale data infrastructure.partner with data scientists to implement new data models.be a strong, committed, and reliable team player5+ years of professional back-end infrastructure software developmentbs or ba (computer science or related discipline preferred)cloudera certifications (such as cloudera certified developer (ccd), cloudera certified administrator for apache hadoop (ccah), etc.)technology: fluency in python and/or java.advanced hadoop expertise with technologies such as hive, impala, spark, sqoop, pig, kafka, zookeeper, samza (cloudera experience is a plus).strong affinity with sql (e.g. postgresql, netezza).nosql experience (e.g. hbase) is a plus .familiarity with jenkins / hudson or other ci tools is a plus.familiarity with web services frameworks (rest or soap) is a plus.exposure to the atlassian stack (jira, bitbucket/git, confluence) is a plus.exposure to the luigi framework is a plus.knowledge: understanding of full software development life cycle, agile development and continuous integration.understanding of data structures, algorithms, scalability and various tradeoffs in a big data setting.understanding of object oriented programming concepts and design patterns.experience working in unix/linux/bash environment and an ability to troubleshoot system related issues.ability to manage, optimize, and troubleshoot infrastructure issues is a plus.exposure to machine learning techniques is a plus.familiarity with secure code principles is a plus.industry experience (healthcare) is a plus.job type: full-timerequired education:bachelor's
+
+12 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to evariant, inc..
+
+
+
+
+
+
+other jobs you may like
+
+
+software engineer - java multithreaded app
+
+providence partners -
+					austin, tx
+23 hours ago
+
+
+deep learning software engineer
+
+advanced micro devices, inc. -
+					austin, tx
+14 days ago
+
+ easily apply
+
+
+
+software test engineer
+
+kapsch -
+					austin, tx
+kapsch - 
+					13 days ago
+
+ easily apply
+
+
+
+intern - software engineer, sustainability
+
+vmware -
+					austin, tx
+1 day ago
+
+
+software engineer - innography
+
+cpa global limited -
+					austin, tx
+9 days ago
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+
+

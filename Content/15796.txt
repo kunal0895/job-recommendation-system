@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ bank of america job - java developer , plano, tx, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+menu
+
+
+
+
+
+navigation
+
+home 
+our company
+
+our business
+
+
+working here
+
+culture, inclusion, people
+military & veterans
+benefits & advantages
+career development & learning
+recruitment tips
+
+
+locations
+career areas
+
+search jobs
+events
+applicants with disabilities
+
+united states
+change location
+
+argentina
+australia
+bahamas
+bahrain
+belgium
+brazil
+canada
+cayman islands
+chile
+china
+colombia
+costa rica 
+france
+germany
+greece
+hong kong
+india
+indonesia
+ireland
+isle of man
+israel
+italy
+japan
+jersey
+lebanon
+luxembourg
+malaysia
+mexico
+monaco
+netherlands
+norway
+panama
+peru
+philippines 
+poland
+portugal
+russia
+saudi arabia
+singapore
+south africa
+south korea
+spain
+sweden
+switzerland
+taiwan 
+thailand
+turkey
+united arab emirates
+united kingdom
+united states
+uruguay
+venezuela
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+java developer
+plano, tx, united states
+job number: 17023664
+back to job search results
+
+
+apply now for this job >
+
+
+
+job description
+
+job description:**candidates requiring visa sponsorship will not be considered for this position**enterprise role overview:develops, enhances, debugs, supports, maintains and tests software applications that support business units or supporting functions. these application program solutions may involve diverse development platforms, software, hardware, technologies and tools. participates in the design, development and implementation of complex applications, often using new technologies. may provide technical direction and system architecture for individual initiatives. serves as a fully seasoned/proficient technical resource. will not have direct reports but may lead projects and direct activities of a team related to special initiatives or operations. may have responsibility for a project and project budget. may collaborate with external programmers to coordinate delivery of software application. routine accountability is for technical knowledge and capabilities. works under minimal supervision, with general guidance from more seasoned consultants. typically requires a minimum of 5-7 years of hands-on work experience.job specific description:bank of america is looking to build out their application development capabilities in the plano, tx market. the developer work side by side with business partners to ensure expected quality software is built to serve our customers and clients. they will be responsible for understanding the business requirements, build/enhance application components to support the requirement, enabling testing organization to certify the application, support technology infrastructure team in production deployment and transitioning to support team. the developer is expected to learn the business and technical components of an application and work with their peers to follow enterprise software development methodologies. grow your career in our dynamic and fast paced environment of diverse software platforms and challenging projects that shape the future of the banking industry. will not have direct reports. routine accountability is for technical knowledge and capabilities.responsibilities:the primary responsibility is to provide strong technical leadership and development for data services and middle tire application using java, spring boot, swagger, rest api and service orchestration using mule soft. this resource will provide the end to end solution, design, development and delivery of new service development, enhancements, upgrades and implementations of end to end applications in financial systems. responsibilities include design, coding, leading and mentoring technical a functional resources, coordinating with engineering teams, provider teams & consumer application teams and delivering high quality solutions and standardize service interfaces that meet technical specifications and design requirements. lead the specification and software design phases of the software development life cycle and work closely with offshore team.• provide strong technical/ functional leadership in developing middle tire services for financial applications• working closely with internal, external tech partners, sa and project managers in delivering the projects• review day to day offshore team’s deliverables before dropping the code to any manage environment• independently troubleshoot the issues in distributed environment• coordinate with virtual/offshore teams• design and implementation of new service interfaces and enhancement and software testing with java, spring boot, swagger and mulesoft.• contribute to and often lead the specification and design phases of the sdlc.required skills:7+ years of relevant it software experience (development sdlc lifecycle)5+ years of experience in java developmentone or more of the requirements listed below in each category.:languages:  java  7, sql, pl/sql, c, c++j2ee technologies : servlet,  jsp, ejb, jdbc, jstl.web technologies: html, css, xml, xsd, xml parsers, jquery, javascript.app/web servers: jboss, web logic, tomcatframeworks: struts 2, spring 3, spring boot, mvc, hibernateapi technologies: swagger, mulesoftsoa: web services (soap, wsdl)tools: maven, log4j, rational rose.ides: eclipse, netbeans, web storm.version control: svn, accurev, tfs, gibhubdatabases: oracle 10g and sql server 2008, db2operating systems: windows, linux, unixauto build & deployment, testing : jenkins, ms azure cloude, junit etc.authentication/authorization: certificate , saml, oauth2 etc.desired skills:.net, wcf, wwf, .net core, rest api using mvc•must be a self-starter, motivated, innovative, capable of, providing technical solutions.•adaptability and ability to work under pressure.•prior banking/finance experience of working with globally distributed teams•able to contribute to automation, system analysis and develop shared/common solutions•able to identify risks and mitigation•comfortable working in a matrix environment
+
+
+posting date: 11/28/2017 
+location: plano, tx, building c, 7105 corporate dr,  - united states 
+
+travel: no 
+
+
+full / part-time: full time 
+hours per week: 40 
+shift: 1st shift  
+
+
+
+
+already have a candidate profile? log in to access and update your current profile to access and update your current profile.  
+assistance for applicants with disabilities
+bank of america is committed to ensuring that our online application process provides an equal employment opportunity to all job seekers, including individuals with disabilities. if you believe you need a reasonable accommodation in order to search for a job opening or to submit an application, please visit the applicants with disabilities page. 
+diversity & inclusion
+at bank of america, our commitment to diversity and inclusion is helping us to create not only a great place to work, but also an environment where our employees, our customers and our communities around the world can reach their goals and connect with each other. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
+frequently asked questions 
+need to know how to apply online, view a list of your submitted job applications or reset your password? visit our faq section for answers to these questions and more.
+
+bank of america employees
+bank of america employees should access the internal jobs database.
+
+
+
+
+
+
+return to top
+
+
+faq | 
+events | 
+campus | 
+about us | 
+returning job seekers | 
+pay transparency | 
+privacy policy | 
+eeo statement | 
+site map 
+
+
+© bank of america, n.a. member fdic. equal housing lender. © 2014 bank of america corporation. all rights reserved.
+
+follow us:
+
+go to twitter page
+
+twitter page :  bofa_careers
+twitter page :  ml_careers
+
+
+go to facebook page
+go to linkedin page
+
+linkedin page :  bank of america
+linkedin page :  merrill lynch 
+
+
+
+
+
+
+life's better when we're connected 
+
+
+
+
+
+
+
+
+thanks for your interest in this job
+we're updating our website and regret that we cannot accept your job application right now. please try again after 1 a.m. gmt monday, 12 december. 
+thank you for your patience!
+life’s better when we’re connected ®
+
+
+
+
+
+
+
+
+
+
+

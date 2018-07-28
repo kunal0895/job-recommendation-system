@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+apply for siemens senior cloud software engineering manager job - engineering - charlotte, north carolina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+
+careers home
+search jobs
+
+
+					check application status / manage profile
+					
+
+
+
+global jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+siemens careers
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior cloud software engineering manager
+
+
+locations:
+charlotte, north carolina
+
+
+
+
+job family: engineering
+
+
+
+
+
+apply
+
+english (us)
+
+
+
+
+
+
+job description
+
+
+
+division: digital factorybusiness unit: product lifecycle managementrequisition number: 214338primary location: united states-north carolina-charlotteassignment category: full-time regularexperience level: senior leveleducation required level: bachelor's degreetravel required: 15%division description:
+siemens is a global technology powerhouse that has stood for engineering excellence, innovation, quality, reliability and internationality for more than 165 years. as a global technology company, siemens is rigorously leveraging the advantages that this setup provides. to tap business opportunities in both new and established markets, the company is organized in nine divisions: power and gas, wind power and renewables, energy management, building technologies, mobility, digital factory, process industries and drives, healthcare and financial services.
+　job description:as part of the siemens plm mindsphere organization, this position is a key part of advancing the state of the art relative to iot, big data, machine learning, and performance analytics.  we deliver state of the art applications based on iaas in an agile-based environment. reporting to the head of r&d, mindsphere, you will be responsible for a 7 person team that is developing micro services to leverage the hadoop stack and other big data technologies to deliver product performance intelligence applications. you will be a key influencer for best practices, technology selection, and organizational culture as we continue to adopt devops and ci/cd.
+ 
+duties and responsibilities:
+ 
+•design, develop, modify, and implement software programming for products.•build platform components using java, web services and hadoop technologies.•build and enhance components for big data search and high volume data processing.•assist technical manager in planning and development of new and enhanced functionalities.•apply coding standards and best practices during the software development life cycle.•analyze and fix issues reported in qa and production environments.
+ 
+key relationships: 
+ 
+•work closely with the software engineering manager to create and enhance mindsphere platform components.•work with product owners, product validation, operations, and technical publications teams as part of agile scrum. 
+ 
+required experience:
+ 
+•bachelors and/or masters degree in engineering, it, computer science, engineering, business administration, (or lower qualification with relevant work experience)•10 years of software development experience using java and jee.•2+ years’ experience managing developers in an agile, devops environment•4 years of software development experience using hadoop hdfs, mapreduce and hbase or equivalent technologies.•5 years of experience in creating and consuming web services.•5 years of experience working with sql, soa and unix/linux.•2 years of experience using eclipse, maven, git, jenkins, nexus, tomcat webserver or similar technologies.•2 years of experience supervising senior engineers.
+ 
+desired experience:
+ 
+•experience with solr and elastic search•experience with etl including real time data ingestion
+
+
+
+equal employment opportunity statement
+
+      siemens is an equal opportunity and affirmative action employer encouraging diversity in the workplace. all qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law.
+    
+
+eeo is the law
+
+      applicants and employees are protected under federal law from discrimination. to learn more,
+      click here.
+    
+
+pay transparency non-discrimination provision
+
+      siemens follows executive order 11246, including the pay transparency nondiscrimination provision. to learn more,
+      click here.
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+check application status / manage profile
+
+
+
+global jobs
+united states jobs
+
+
+us only: review accommodations for disability
+contact us
+
+
+
+
+© siemens ag, 1996 – 2017 |
+corporate information |
+privacy policy |
+cookie policy |
+terms |
+digital id
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+© siemens ag, 1996 – 2017 |
+imprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

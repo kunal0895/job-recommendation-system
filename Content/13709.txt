@@ -1,0 +1,60 @@
+
+
+
+
+intelligent flying machines, inc. - jobs: ai & robotics perception engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+ai & robotics perception engineer
+
+ai & robotics perception engineer
+chicago, illinois, united states
+
+descriptionintelligent flying machines, inc. (ifm) is looking for a senior ai & robotics perception engineer who is excited to join a small and experienced team developing an intelligent perception platform for logistics.location: downtown chicagotype: full timecompensation: competitive salary + equity packagewho we are looking for:ifm is looking for a rock-star ai & perception engineer who has previously designed and implemented systems using machine learning methods. as an ideal candidate you should be excited about working on intellectually challenging problems in a supportive and collaborative environment.at the core of our products is a perception stack that enables high level scene understanding for decision making and navigation. we use a combination of deep convolutional neural networks and conventional machine vision methods to help our systems understand where they are and where to go. in this role, you will develop and test new models and architectures, as well as tune and optimize existing ones for real time inference on our robots.requirements: experience building large scale software products leveraging test-driven principles at a startup pace expert knowledge in c++ and python familiarity with cuda, opencv, tensorrt, and one of tensorflow, darknet, pytorch, caffe deep understanding of convolutional neural nets and familiarity with different architectures such as resnets, imagenet, detectnet, yolo, gans, and everything that's cool in dl right now ability to break down large problems and create effective development and testing strategies excellent team working skills and demonstrated ability to work with highly technical engineers on complex systems experience working with embedded systems in a linux environment nice to have: familiarity with ros, pcl, robotics control & state estimation, drones & flying stuf about ifm:ifm is a technology company developing a “google maps”-like platform for warehouses powered by computer vision, machine learning, and robotics. we provide real time visibility into warehouses, without installing any extra infrastructure. our goal is to maximize the efficiency and throughput of workers and their manual processes without replacing them.in 2017, ifm was named chicago’s startup of the year by the chicago manufacturing society, and very recently introduced as one of the top 5 nvidia inception startups demonstrating “unlimited ai potential”. ifm raised a seed round earlier this year and is growing rapidly, currently operating out of a spacious 2 story loft office in downtown chicago.no recruiters, please
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+intelligent flying machines, inc. website
+
+powered by
+workable
+
+
+
+
+

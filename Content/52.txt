@@ -1,0 +1,144 @@
+
+
+
+
+okcupid careers - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    okcupid careers                                            
+
+
+
+
+
+
+
+                data engineer
+    
+    
+
+                            software engineering            
+                    new york,
+                            new york
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+okcupid is looking to hire a data engineer!if you're a data engineer that likes the idea of working on a product used by millions of people, read on.what's it like being a data engineer at okcupid?we're a tight-knit team of engineers and data scientists that manage all aspects of okcupid's bi and data stack. every person we hire is given lots of ownership; your input will be a big part of what we do and how we do it.there's also a sense of satisfaction that comes from helping millions of people find love. if that's the kind of thing that appeals to you, you're probably a good fit for okcupid!we're seeking someone who:has 2+ years’ experience with etl or bi platformsis fluent in sql and pythonhas a bachelor's degree, preferably in a related field (engineering, computer science, statistics, applied math)what you'll work on:write complex and efficient code to transform raw data sources into easily accessible models for our teams (e.g., product, growth, finance, fraud)select the right tools for the right job and make them all work well togetherinterpret and analyze data from various source systems to support data integration and data reporting needswork with team leads to prioritize business and information needsdata quality control, metricstroubleshoot & determine best resolution for data issues and anomaliesmanage exploratory data analysis to support database and dashboard development, as well as advanced analytics effortsbonus points if you have:experience with a mass market consumer facing productfamiliarity with the pydata stack (numpy, scipy, pandas)what’s in it for you?competitive salary and full benefits w/insurance including medical, dental, vision, and 401kworkstation and tools of your choicefree drinks, snacks and regularly catered breakfast & lunchmonthly company/team happy hourspaid attendance to conferencesa bright and fun office full of amazing people
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

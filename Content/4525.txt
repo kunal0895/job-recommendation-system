@@ -1,0 +1,221 @@
+
+
+
+
+job application for machine learning engineer  at homelight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+machine learning engineer 
+
+        at homelight
+      
+
+        san francisco
+      
+
+
+homelight is changing the face of real estate one homeowner at a time. we empower consumers to use real agent performance data to make a more informed choice on the biggest financial decision of their lives. our proprietary, machine learning algorithms analyze over 30 million transactions from 2 million agents to determine the best agents to meet clients' specific home buying or selling needs.
+we’ve raised $55 million in funding, and our most recent $40 million series b round was led by menlo ventures. with the support of menlo and other top vc’s like google ventures, we are expanding our lean, versatile engineering team by hiring our first machine learning engineer!
+what you’ll do here:
+
+create predictive models for real estate transactions using a dynamic dataset.
+refine our agent matching algorithm to improve our core product.
+design, model, and build a large-scale data warehouse, using etl and other related technologies.
+build infrastructure and systems for tracking data quality, usage, and consistency.
+design and develop new data products.
+be the thought-leader for how we could use data and predictive algorithms to improve user experience and revenue potential from the ai products. 
+
+you have:
+
+professional experience in developing a data pipeline with custom etl that accommodates data from multiple sources of data in multiple formats. more is better. 
+experience in hadoop ecosystem products and frameworks: hdfs, hbase, sqoop / flume / kafka, kudu.
+experience in end-to-end big data architecture: pipeline, machine learning environment, and persistent machine learning models design.
+experience with one or more scripting language: r, python, or scala.
+application deployment using aws, virtual machines, or docker
+
+the perks
+
+medical, vision, dental, and paternity/maternity benefits.
+401(k)
+commuter benefits
+flexible time off policy
+catered lunches and snacks
+corporate gym membership
+company events: happy hours, bowling, bocce league, etc.
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

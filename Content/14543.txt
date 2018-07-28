@@ -1,0 +1,447 @@
+
+
+
+
+
+software engineer - web and mobile at go daddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+careers
+open menu
+
+
+godaddy life
+our teams
+benefits
+university students
+
+
+blog
+godaddy home
+
+
+
+facebook
+twitter
+glassdoor
+youtube
+instagram
+linkedin
+
+
+
+
+0
+
+saved jobs
+
+there are no jobs saved
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+keyword
+
+
+
+category
+category
+business development
+commercial
+corporate operations
+customer consultation & care
+data, network and security system
+finance & accounting
+ict and information systems
+marketing and product
+other
+other education
+people operations
+pr/social/communications
+project management
+project/program management
+software engineering
+user experience
+workforce management
+
+
+
+country
+country
+brazil
+china
+france
+germany
+mexico
+philippines
+serbia
+united kingdom
+united states
+
+
+
+state/region
+state/region
+acre
+alsace
+arizona
+bavaria
+california
+central serbia
+england
+iowa
+massachusetts
+north rhine-westphalia
+shanghai shi
+washington
+
+
+
+city
+city
+belgrade
+cambridge
+carlsbad
+cologne
+encinitas
+england, united kingdom
+gilbert
+hiawatha
+hürth
+ismaning
+kirkland
+london
+los angeles
+nottingham
+san francisco
+scottsdale
+shanghai
+slough
+strasbourg
+sunnyvale
+tempe
+woking
+
+
+
+go
+
+
+
+or
+search jobs based on your linkedin profile
+
+
+
+
+
+
+share:
+
+email
+facebook
+twitter
+linkedin
+
+
+
+
+
+
+
+
+software engineer - web and mobile
+cambridge, massachusetts; kirkland, washington; san francisco, california; sunnyvale, california
+
+
+apply
+
+
+
+
+overview
+success profile
+job description
+benefits
+trending
+map
+
+
+
+overview
+godaddy engineers are shifting the global economy to support small businesses worldwide to create beautiful online experiences for their customers that help them grow and manage their business. we work fearlessly to build innovative solutions, platforms and business applications tailored to the unique needs of the small business owner. using a collaborative, agile, small team approach we make cutting edge technologies simple and effective. our team of technologists do the heavy lifting, so our customers can focus on making their dreams come true.
+
+
+
+full-time
+
+
+
+level: mid
+
+
+
+travel: yes
+
+
+
+
+
+
+
+
+success profile
+what makes a successful software engineer - web and mobile employee at godaddy? check out the traits we're looking for and see if you have the right mix.
+
+
+problem-solver
+focused
+organized
+self-starter
+stratetgic
+visual
+
+
+0
+10
+
+
+adaptable
+detail-oriented
+communicator
+multi-tasker
+creative
+perceptive
+tech savvy
+quick-thinking
+
+
+
+
+job description
+godaddy is looking for a full-stack front-end engineer to join our next generation customer experience engineering team in kirkland. the team is building our next generation experiences for our small business customers to help them start, grow and run their venture. if you have the passion, enthusiasm and ability to create compelling web and mobile interactions for customers on their way to making their small businesses great, we would like to talk to you!godaddy’s (nyse: gddy) mission is to radically shift the global economy toward life-fulfilling independent ventures. with over 15 million customers worldwide and more than 61 million domain names under management, godaddy gives small business owners the tools to name their idea, build an appealing online presence, attract customers and operate their business.we are looking for a full-stack engineer with a front-end focus to be a part of our team working on the next generation of user experiences for our customers. we are a dynamic and growing company that loves what we do and are looking for passionate people to share our vision. we focus on mobile first design and interactions that will help solve the problems and needs for people trying to be great at what they do in their small business.the ideal candidate will be passionate about doing the right thing for the customer and want to learn and grow with new technologies and opportunities. if you want to work with smart people doing work that will be used by millions of people every day, we would like to talk to you!responsibilities:write great code with tests that prove it.participate in planning, architecture, implementation and maintenance of a client-side and server-side javascript platform to deliver the next generation of personalized interactions with our customers.perform code reviews and participate in suggesting and supporting coding best practices.participate in devops, release and on-call activities in support of the platform.engage with engineers across the company to solve problems that span multiple teams.participate in developing a high quality and performant system that engages and delights customers.support other software engineers in the team.requirements:you enjoy working on leading edge technologies and languages like nodejs, es2015, react, react native, relay and graphql.you have experience working with highly agile development teams.you work closely with a team of experts across disciplines to design and implement very high quality code.you have worked with some front end technologies such as javascript, css, html, less, sass, react, react native, ember, backbone and jquery.you have some experience creating middle tiers via restful apis and other technologies such as graphql and websockets.you have experience with devops and understand what deployment means using systems like docker, aws, openstack, artifactory and kubernetes.you have been active in the professional development community for at least 2 years.about godaddygodaddy powers the world's largest cloud platform dedicated to small, independent ventures. with nearly 17 million customers worldwide and over 72 million domain names under management, godaddy is the place people come to name their idea, build a professional website, attract customers and manage their work. our mission is to give our customers the tools, insights and the people to transform their ideas and personal initiative into success. to learn more about the company visit www.godaddy.com.godaddy is proud to be an equal opportunity employer. we will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. godaddy will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.if you need assistance completing an application for a position with us, please reach out to our recruiting team at recruiting@godaddy.com
+apply
+
+
+benefits
+
+
+
+healthcare
+godaddy helps keep employees fit and healthy with generous health benefits. from the best medical, vision, dental, and disability to on-site health and wellness assessments and employee assistance plans.
+
+
+
+tuition reimbursement
+godaddy is a strong believer in the value of higher education. the education reimbursement program encourages our employees to pursue further education and advancement at the company.
+
+
+
+professional development
+godaddy offers programs to help advance the careers of our employees. programs include instruction led by our trainers, as well as opportunities for tuition reimbursement.
+
+
+
+pto
+godaddy encourages employees to take time away from work to live passionately. godaddy goes above and beyond to provide opportunities to enjoy time away from work and we provide generous time away to rest & recharge.
+
+
+
+work/life balance
+we know that maintaining a work/life balance is the key to success. at godaddy, we provide many perks and amenities to help facilitate this balance.
+
+
+
+retirement plans
+godaddy looks closely at the retirement provisions and provides a competitive 401k employer match program. our retirement plans are designed to fund a comfortable retirement for our employees.
+
+
+
+
+
+
+the amazing thing about godaddy wasn't that we were able to define a company standard and have that standard meet or exceed our goals in defining it. the amazing thing was how open the teams were to joining forces to investigate, decide, evangelize and engage on a change like this.
+
+chris evans,
+vp of engineering
+
+
+
+i haven't met a developer yet who doesn't want to change the world for the better with their work.
+
+blake irving,
+chief executive officer
+
+
+
+the product team combines data and customer insight to deliver impactful experiences around the world.  working here is an opportunity to make a difference globally by helping individuals make a living and bring their ideas from inception to reality.
+
+steven aldrich,
+chief product officer
+
+
+
+
+
+>
+<
+
+
+
+
+the innovative soul of an engineer, by sam ng - senior director of engineering at godaddy
+read more
+
+
+
+
+hiring for culture, by chris evans - vice president of engineering at godaddy
+read more
+
+
+
+
+mastering the feedback loop, by steven aldrich - chief product officer at godaddy
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ work at godaddy:
+view available locations for this position
+
+
+
+explore our city:
+work at godaddy:
+
+
+
+
+
+
+
+
+
+
+
+
+learn more about engineering at go daddy
+engineering
+
+
+learn more
+
+
+
+
+
+
+never underestimate the power of a toy
+employee spotlight - joshua
+
+
+learn more
+
+
+
+
+
+
+learn more about the cambridge, ma office
+cambridge office spotlight
+
+
+learn more
+
+
+
+
+
+
+
+
+
+our diverse employee population reflects the customers we serve. we support and celebrate everyone on our team through our employee resource groups, open and inclusive to all.
+learn more
+
+
+
+
+
+
+
+
+legal
+privacy policy
+advertising preferences
+cookies
+
+copyright © 1999 - 2017 godaddy operating company, llc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

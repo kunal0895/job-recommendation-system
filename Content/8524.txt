@@ -1,0 +1,348 @@
+
+
+
+hris business analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+home
+search jobs
+create account
+log in
+help
+
+
+
+manage recruitments
+
+
+back to sacramento state
+
+
+
+
+
+
+
+hris business analyst
+
+bookmark this requisition |
+    print preview |
+        apply for this job
+
+
+
+posting details
+
+
+
+position information
+
+
+
+working title
+hris business analyst
+
+
+classification title
+information technology consultant - career
+
+
+job summary
+under the general supervision of the associate vice president of human resources, the hris business analyst (information technology consultant-career) will coordinate human resources (hr) information technology (it) resource needs, with an emphasis on both business process improvement, enterprise systems, and use of data for decision-making. the incumbent will provide primary coordination between hr and our central it organization on these issues, with regular interface with the workflow, enterprise systems (common management system (cms)/peoplesoft), and data services components of information resources and technology (irt). provides day-to-day first-tier operational, functional and technical support and training for enterprise systems essential to hr functions, including but not limited to cms/peoplesoft hr, peopleadmin talent management software, onbase and related workflow software, and ibm cognos data systems.
+the hris business analyst will work with the hr team to understand hr business process requirements and work with other hr and campus it personnel to recommend and implement best practice solutions. in cooperation with campus cms support personnel, this position is responsible for researching and testing cms/peoplesoft system upgrades, bundled releases, maintenance packs and postings, and work with it personnel from irt to develop thorough test scripts and operational procedures and to implement solutions that optimize hr business processes. the incumbent will also analyze and communicate hr’s needs for data warehousing and data analysis, working with the data services team to devise solutions that best meet hr needs.
+
+
+flsa
+exempt - this position is covered by health benefits, and is exempt, (not eligible for overtime compensation) according to the fair labor standards act. 
+
+
+classification salary range
+$4,372 – $9,877 monthly
+
+
+hiring range 
+$4,372 - $9,877 monthly
+
+
+salary grade/range
+2
+
+
+step
+n/a
+
+
+is this position hourly or intermittent?
+no
+
+
+regular or temporary
+regular
+
+
+full time or part time
+full time
+
+
+pay plan
+12
+
+
+work hours 
+monday - friday 8:00 a.m. - 5:00 p.m.; hours may vary based on department/project needs.
+
+
+department information
+attracting, developing & engaging a quality workforce
+the office of human resources supports the goals and objectives of the university through the development, implementation, and maintenance of human resource programs, policies, and processes which include the recruitment, development, and retention of diverse, competent, and talented academic, professional, and support personnel. services performed in human resources are mandated by university policy, trustee policy, memoranda of understanding, and state and federal statutes and regulations.
+our mission statement
+“we are a valued campus resource for ensuring that the university attracts, develops, engages, and retains a quality workforce in support of the university’s mission.”
+http://www.csus.edu/hr/index.html
+
+
+minimum qualifications
+to enter this classification, a basic foundation of knowledge and skills in technical information systems and application program packages is a prerequisite. this foundation would normally be obtained through a bachelor’s degree in computer science, information systems, educational technology, communications, or related fields, or similar certified coursework in applicable fields of study. foundation knowledge and skills for the information
+technology consultant, depending on the nature of the position assignment, may include working knowledge of common software application packages, equipment platforms, reference database systems and sources, and training methods and a basic understanding of networks, data communication, and multimedia systems.
+
+
+required qualifications
+experience:
+1.	experience developing, coordinating, and/or implementing plans to test and improve business and functional processes.
+2.	experience translating functional needs into it solutions (e.g. integrate multiple applications and systems to match user and business process needs).
+knowledge, skills, abilities:
+3.	working knowledge of enterprise systems for business intelligence (bi) and business-process improvement (i.e. workflow) such as ibm cognos and hyland onbase or similar, industry-standard workflow, imaging and bi systems.
+4.	working familiarity with enterprise resource planning systems (erps) such as common management system (cms)/peoplesoft with emphasis on hr modules, including workforce administration, temporary faculty handling, position management, time and labor, absence management, benefits administration and recruiting.
+5.	effective communication skills with the ability to describe and explain technical issues and solutions in clear and concise language for a technical and/or a non-technical audience.
+6.	excellent analytical, research, and problem-solving skills (e.g. evaluation of the use of enterprise systems in terms of their ability to meet business needs of the organization, especially in regard to creating easy-to-use self-service hr systems).
+7.	strong interpersonal skills to work effectively with internal and external contacts, as well as outside vendors/manufacturers.
+8.	ability to work independently on desktop support and user consulting.
+9.	ability to collaborate in a team environment with functional users and technical staff. 
+10.	ability to support business applications (e.g. writing data queries, developing data reports, supporting database use, automating processes).
+
+
+preferred qualifications
+11.	working knowledge of peoplesoft human resources modules, including absence management, benefits administrations, position management, time & labor, workforce administration, payroll related module, and query reporting writing, sql, excel and other report tools.
+12.	working knowledge of peopleadmin talent management software. 
+13.	ability to perform system and application needs analysis.
+14.	demonstrated knowledge of workflow systems.
+15.	experience with document imaging systems, software development, configuration, testing, application upgrades, and implementations.
+16.	ability to collaborate with the information resources & technology (irt) department in the development of operations and procedures for collection, editing, verifying, and managing human capital management (hcm; cms/peoplesoft) data.
+
+
+physical demands
+
+
+
+required licenses/certifications
+
+
+
+is background check required
+yes
+
+
+background check disclaimer
+a background check (including a criminal records check) must be completed satisfactorily before any candidate can be offered a position with california state university, sacramento. failure to satisfactorily complete the background check may affect the application status of applicants or continued employment of current california state university, sacramento employees who apply for the position.
+
+
+eligibility verification
+candidate will be required to provide official transcripts of their highest degree earned and must furnish proof of eligibility to work in the u.s..  california state university, sacramento is a sponsoring agency ( ie. h-1-b visa).
+
+
+hiring preference
+eligible on-campus applicants in california state university employees union (csueu) bargaining units 2, 5, 7, and 9 will be given first consideration in the recruitment.
+
+
+conflict of interest
+the duties of this position include participation in decisions that may have a material financial benefit to the incumbent. therefore, the selected candidate will be required to file conflict of interest form 700: statement of economic interest when they first occupy the position, an on an annual basis, complete ethics training within 6 months of appointment, and attend this training every other year thereafter.
+
+
+california child abuse and neglect reporting act
+the person holding this position is considered a “mandated reporter” under the california child abuse and neglect reporting act and is required to comply with the requirements set forth in the california state university executive order 1083 as a condition of employment.
+
+
+equal employment opportunity
+california state university, sacramento is an affirmative action/equal opportunity employer and has a strong institutional commitment to the principle of diversity in all areas. we consider qualified applicants for employment without regard to race, color, religion, national origin, age, sex, gender identity/expression, sexual orientation, pregnancy, genetic information, medical condition, marital status, veteran status, or disability. sacramento state hires only those individuals who are lawfully authorized to accept employment in the united states.
+it is the policy of california state university, sacramento to provide reasonable accommodations for qualified persons with disabilities who are employees or applicants for employment. if you need a disability related reasonable accommodation as part of the application and/or interviewing process, visit http://www.csus.edu/hr/departments/equal-opportunity/index.html.
+the university is committed to creating an education and working environment free from discrimination, sexual harassment, sexual violence, domestic violence, dating violence, and stalking. for more information on mandatory training for new employees, visit http://www.csus.edu/hr/departments/equal-opportunity/information%20for%20job%20applicants.html.
+jeanne clery disclosure of campus security policy and crime statistics act and campus fire safety right-to-know act notification. for additional information, visit http://www.csus.edu/aba/police/.
+
+
+
+
+posting detail information
+
+
+
+posting number
+as0182p
+
+
+number of vacancies
+1
+
+
+open date
+11/02/2017
+
+
+close date
+
+
+
+open until filled
+yes
+
+
+first priority review date
+11/16/2017
+
+
+special instructions to applicants
+
+
+
+
+
+for questions regarding this search, contact:
+
+
+
+contact name
+employment services
+
+
+contact phone
+916-278-6326
+
+
+contact email
+
+
+
+
+
+
+supplemental questions
+
+required fields are indicated with an asterisk (*).
+
+ * 
+  please select the highest level of education obtained.
+    
+ged
+high school diploma
+associates degree
+bachelor's degree
+master's degree
+doctoral or professional degree
+some college
+none of the above
+
+
+ * 
+  please describe your experience developing, coordinating, and/or implementing plans to test and improve business and functional processes.
+    (open ended question)
+
+
+
+documents needed to apply
+
+required documents
+
+resume/curriculum vitae
+cover letter
+
+optional documents
+
+
+
+
+
+
+
+
+
+
+
+
+california state university, sacramento
+6000 j street
+sacramento, ca 95819
+(916) 278 - 6011
+back to top
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

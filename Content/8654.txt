@@ -1,0 +1,134 @@
+
+
+
+data scientist | simplepart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+visit our website
+ 
+
+
+data scientist
+ simplepart
+ - atlanta, ga
+
+
+
+we are looking for an experienced data scientist to join our business analytics group and help us use data to tackle our most challenging questions. our analytics group includes analysts, our data warehouse, as well as components of our professional services team - all in support of strategy for simplepart, our dealers, and our oems. at our core, we are a data company - and the foundation of that is our analytics group, which is responsible for making critical data available and useful so that it can guide the choices we make across the company.we have an incredible amount of data, including a decades long end-to-end view of market, product and shopper behavior crossing thousands of web properties. our data is layered with complex seasonal and environmental demand factors, on top of traditional retail and e-commerce competitive and user behavior data. you need to comfortable writing complex sql to interact with a robust sql data warehouse, and writing sql to refine and manipulate large datasets. we are looking for information, insights and analysis - someone who can see the real world story behind the numbers, and can communicate well with both technical and non-technical audiences. while we have long term modeling, machine learning, statistics and mathematics problems coming - the near term is low hanging fruit.simplepart helps the world’s leading car and motorcycle brands sell parts and accessories to owners working on their own cars. we created and manage catalog data covering every part for every car made or sold in this country in the last four decades. we host thousands of websites for dealerships and their parent brands, on an ecommerce platform we created - which runs on our catalog data. our internal marketing agency teams connect owners shopping online to our oem and dealer websites. shoppers buy from one of our dealer websites, and dealers use our back office tools to manage customers and fulfill orders. this lifecycle view gives us a unique perspective on the effectiveness of marketing, performance of channels, profitability impacts of strategy - as well as endless opportunities to optimize.we are a nimble, bootstrapped company - and have consistently grown 50-100% year-over-year for the last decade. our customers are the world’s leading car companies (subaru, toyota, vw, audi and volvo to name a few) - so an interest in cars, motorcycles, motorsports or powersports is a big plus.key attributes:self driven. be the kind of person who is always exploring, always questioning, always learning.independent. understand the problem, and what a solution could look like - get us there.excellent knowledge of sql querying.experience using visualization tools to communicate complex concepts.experience building automation, tools and dashboards.experience working in ecommerce is a plus.experience working in support of digital marketing teams is a plus.experience working with web user behavior data is a plus.this is a fun, fast-paced, close-knit environment with plenty of room to grow and be creative. we are an established, solidly profitable company with a start-up working environment and a brilliant team. we offer full-time w2 positions with company-paid health/dental/vision/life benefits, fsa, matching 401(k), paid vacation, dog-friendly office, relaxed dress code, eclectic company culture, and a great office location in downtown atlanta.simplepart is a comprehensive e-commerce solution for automotive manufacturers and dealers interested in engaging the online auto parts consumer. our dynamic suite of platforms and marketing services are proven to facilitate buyer engagement throughout every step of the purchase process and stage of vehicle ownership. through constant innovation, simplepart helps connect drivers with the best parts for their vehicles, one site at a time.we are a nerdy and data-driven group, using design hand-in-hand with science to stand out in a dynamic retail market. our portfolio of 1700+ national and dealer websites serves a worldwide user base of more than 3,700,000 unique monthly website visitors and delivers more than 12,000,000 daily page-views.in your application, please be sure to include a cover letter that gives us an idea of your personality, who you are and what you're all about. please send your resume and cover letter.candidates must be authorized to work in the u.s. without sponsorship. no recruiters, please. 
+posted on: wednesday, december 6, 2017						
+compensation: $75,000 - $110,000 doe
+				
+
+
+
+				
+
+
+
+
+
+
+
+
+
+ 
+				apply to this job
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email
+
+
+
+
+phone
+
+
+
+
+
+
+additional documents
+
+please type or copy your cover letter here.
+ 
+
+
+
+
+
+
+			submitting
+			
+
+
+
+
+
+
+ 
+
+
+
+want to work for simplepart, but don't see your position? send us your resume and cover letter, and tell us why you'd be a good fit. send to: careers@simplepart.com
+
+
+powered by crelate
+
+
+
+
+

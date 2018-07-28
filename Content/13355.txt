@@ -1,0 +1,60 @@
+
+
+
+
+azuqua - jobs: data engineer - backend - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer - backend
+
+data engineer - backend
+seattle, washington, united states · engineering
+
+descriptionthe world is exploding with cloud services! crucial data is now spread out all over the web. companies need to bring this data together to run their businesses. up until now this has been an incredibly difficult task requiring lots of complicated programming resulting in brittle and unmaintainable code. enter azuqua… at azuqua, we connect the web in minutes not months, with a beautiful, easy-to-use experience built on top of a scalable platform using some of the most sophisticated technology on the web.  we are looking for a high performance individual to join our data engineering team and build upon a versatile system while exposing data insight, throughout the platform, by promoting a data and analytics driven culture with transparency at its core. if you’re excited to play with new technologies and improve existing systems while working with a team of passionate engineers, this is the job and the company for you.  this is a full time position with primary focus on database solutions design, and engineering implementation on top of nodejs. you should be comfortable managing and building apis on top of large data sets in key/value stores and rdbms’, and have an interest or experience in nosql data stores. in addition, you should be comfortable designing and implementing highly modular distributed systems.requirements·3+ years’ experience in software engineering role·deep understanding of relational and nonrelational database methodologies·experience designing and extending generic data layer apis on top of rdbms'·comfort with asynchronous javascript on top of nodejs·experience with functional programming concepts·passion for software quality, customer experience, and simplicity in engineering·ability to deeply and intelligently discuss high level design patterns·familiarity with postgresql, cassandra, and redis a plus·bachelor’s degree in computer science, mathematics or similar is required. a related masters or phd is a plus
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+azuqua website
+
+powered by
+workable
+
+
+
+
+

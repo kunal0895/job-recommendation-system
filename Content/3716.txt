@@ -1,0 +1,754 @@
+
+
+
+
+
+
+		data scientist
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+data scientist
+engineering-6 – new york, new york
+
+
+apply for this job
+
+
+
+
+department
+engineering-6
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+
+
+
+
+
+
+
+
+retail businesses are the backbone of the american economy as they bring communities and jobs together. facility management is one of the toughest and least predictable aspects of the retail business. solving this problem will help businesses and local communities thrive.for last 17 years, service channel is on a mission to take facility management under control. we manage over 200,000 locations and have an unparalleled historical dataset of addressing all aspects of the problem. our work environment is dynamic, collaborative, and entrepreneurial. we are looking for energetic, positive, creative problem solvers who don’t mind digging in and getting their proverbial hands dirty. we are committed to creating a great product for our customers and a great work environment for our employees to succeed professionally and personally.the mission of service channel ai labs is to move the retails industry forward by bringing the power of ai and iot to solve the problems we all experience in the physical world. this is a groundbreaking opportunity as you will help to define our ai and product strategy. you are a skilled data scientist with the following powers:
+
+
+
+critical thinking. you will gain the deep understanding of the business problem and convert it to mathematical models.
+data wrangling (python, sql, api calls, unstructured files)
+good understanding of applied mathematical methods
+deep data mining and machine learning expertise. 
+hands-on mathematical modeling in python
+data visualization and the ability to communicate the results of your findings.
+
+nice to have:
+
+deep learning with tensorflow and keras 
+
+additional perks:
+
+we embrace distributed teams and working families. very flexible hours and work location.
+strong 401k matching
+great healthcare plan for you and the whole family
+conferences and online learning
+growth opportunities
+
+the preference is given to applicants with a portfolio in form of jupyter notebook or blog demonstrating end to end solution for a chosen problem statement.
+why work for us?
+we are firm believers in working to live and not living to work. don’t get us wrong, we work hard and do what it takes to get the job done, but we value a healthy work/life balance and have a lot of fun along the way. our office is very relaxed and filled with foodies, music lovers, travelers and sports nuts. 
+we always strive to create the best possible benefits for our servicechannel team members. in addition to offering the basics: health insurance, life insurance, 401k with match, and paid time off, we also offer paid family leave, mobile phone reimbursement, and flex-time / telecommuting options (to name a few). our greatest benefit, however, is our amazing servicechannel team!
+please include the following in your package:
+
+salary/compensation requirements/expectations
+
+us citizen or permanent alien resident applicants considered.  
+
+servicechannel is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, or national origin
+
+
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+new york, new york
+
+
+department
+engineering-6
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

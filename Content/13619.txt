@@ -1,0 +1,284 @@
+
+
+
+
+
+
+software development engineer  job in chicago, il at schwab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+charles schwab corporation
+
+
+
+
+who we are
+what we do
+leadership
+careers
+citizenship
+perspectives
+
+
+
+
+
+investor relations
+
+governance
+news room
+
+
+
+
+
+
+
+
+
+diversity
+financial consultants
+grads and students
+veterans
+women
+events
+
+
+
+
+
+
+
+ careers home
+> job details
+
+
+
+
+software development engineer
+
+
+
+
+
+apply now
+       
+
+
+
+
+
+
+
+job id: 20171031-5572
+job category: information technology
+relevant work experience: it-distributed and web development-2-5 yrs
+current licenses / certifications: none
+
+
+position located in: il - chicago
+education: ba/bs
+job type: full time
+
+
+
+
+
+description:
+we believe that, when done right, investing liberates people to create their own destiny. we are driven by our purpose to champion every client’s goals with passion and integrity. we respect and appreciate the diversity of our employees, our clients, and the communities we serve. we challenge conventions strategically to create value for our clients, our firm and the world. we live and bring to life the concept of ‘own your tomorrow’ every day. we champion our employee strengths, guide their development, and invest in their long-term success. we hire optimistic, results-oriented, curious, innovative, and adaptable people with the desire to help our clients and one another succeed.
+as a company, we were established by chuck over 40 years ago to champion main street over wall street, and to help americans transform themselves from earners to owners. through advocacy and innovation, we work to make investing more affordable, accessible and understandable for all. as we enter our fifth decade, we are looking for talented, innovative and driven people who believe they can help themselves, and our clients, create a better future.
+our opportunity:
+charles schwab’s software applications engineers thrive in a leading-edge work culture while developing products that help schwab customers learn, explore and make life-impacting moves on their paths to achieving their goals.  this position requires a self-motivated individual with strong problem solving skills who can contribute in a highly collaborative culture and agile team environment. the ability to deliver innovative, low cost, reliable solutions is key to success in this role.  our software applications engineers are driven to learn, grow and continuously contribute to evolving the schwab experience and technology. 
+what you’ll do:
+
+work with business team and project managers to understand the business requirement and translate them in to complete program specification and technical deliverables. this includes ensuring proper documentation and relevant test modules are produced.
+be self-driven to effectively manage the time, and prioritize the assigned tasks in order to finish the deliverables on time.
+ability to work within a team and coordinate with all relevant stakeholders, across the team, if needed.
+should be willing to take initiative and should have to ability to track the tasks and follow-up to closure. 
+
+what you have:
+basic qualifications:
+
+should possess a bachelor's degree in computer science or equivalent discipline.
+a minimum of 8 years of experience in the software development field is required.
+must have worked in agile development methodology and experience with atlassian set of tools (jira, bitbucket, bamboo, etc.)  is required.
+should possess excellent verbal and written communication skills; must demonstrate the ability to communicate efficiently with business and other teams.
+
+ technical qualifications:
+
+8+ years of experience in developing and maintaining applications on microsoft .net platform (version 4-4.6.x) using visual basic .net, c#, javascript, asp.net/mvc.
+excellent knowledge and implementation experience using higher level framework facilities like asynchronous programming, linq, threads, parallel processing & concurrency and security.
+must possess very extensive hands-on experience in using wcf for implementing web services across multiple protocols; working knowledge of legacy asmx is a plus. such experience should include dealing with multiple serialization (xml infoset, json, protocol buffers, etc.) and encoding (text, mtom, etc.) practices.
+should have hands-on experience in developing rest style web services across multiple web api platforms, with or without mvc design. such experience should consider instancing and throttling model for implementation and hosting.
+should have hands-on experience in working with messaging technologies like ibm mq, solace mq, msmq and rabbit mq. in-depth understanding of messaging technology/framework is a plus.
+must have comprehensive experience in using client-side languages, technologies and frameworks like javascript, jquery, angular 4, ajax (any toolkit), html5/xml.
+must possess excellent skills for writing sql queries, t-sql stored procedures, views and ssis packages. advance data modeling and architecture skills are a plus. 
+
+what you’ll get:
+
+comprehensive compensation and benefits package
+financial health: 401k match, employee stock purchase plan, employee discounts, personalized advice, brokerage discounts
+work/life balance: sabbatical, paid parental leave, new mothers returning to work program, tuition reimbursement programs, time off to volunteer, employee matching gifts program
+everyday wellness: health and lifestyle wellness rewards, onsite fitness classes, healthy food choices, wellness champions
+inclusion: employee resource groups, commitment to diversity, strategic partnerships
+not just a job, but a career, with an opportunity to do the best work of your life
+
+learn more about life@schwab.
+
+charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce. it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression, national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law. schwab also does not discriminate against applicants or employees because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. at schwab, we believe that every employee, through their diverse abilities and experiences, can contribute to our growth, innovation and client loyalty. we embrace diversity and are committed to providing equal opportunity to all employees and applicants. if you have a disability, and require reasonable accommodations in the application process, call human resources at 800-725-3535. we will be happy to assist you. schwab will only share your accommodation request with those individuals who have a specific need to know. the request for an accommodation will not affect schwab's hiring decisions. all other submissions should be performed online. 
+
+job specifications
+
+
+
+relocation offered?:
+no
+
+
+work schedule:
+days
+
+
+languages:
+english - spoken
+
+
+current licenses / certifications:
+none
+
+
+relevant work experience:
+it-distributed and web development-2-5 yrs
+
+
+position located in:
+il - chicago
+
+
+education:
+ba/bs
+
+
+job type:
+full time
+
+
+
+
+category:information technology
+activation date: thursday, november 16, 2017
+expiration date: saturday, february 17, 2018
+apply here
+
+apply now
+       
+
+
+
+link for schema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    brokerage products: not
+                    fdic insured • no bank guarantee • may lose value
+                
+
+
+
+            charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.  it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex  (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression,  national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law.  schwab also does not discriminate against applicants or employees because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+        
+
+            at schwab, we believe that every employee, through their diverse abilities and experiences, can contribute to our growth, innovation and client loyalty. we embrace diversity and are committed to providing equal opportunity to all employees and applicants. if you have a disability, and require reasonable accommodations in the application process, call human resources at 800-725-3535. we will be happy to assist you. schwab will only share your accommodation request with those individuals who have a specific need to know. the request for an accommodation will not affect schwab’s hiring decisions. all other submissions should be performed online.
+        
+
+            the charles schwab corporation provides a full range of securities, brokerage, banking, money
+            management, and financial advisory services through its operating subsidiaries. its broker-dealer
+            subsidiary, charles schwab & co., inc. (“schwab”), 
+                member
+                sipc
+            , offers investment services and products, including schwab brokerage accounts. its banking
+            subsidiary, charles schwab bank (member fdic and an equal housing lender), provides deposit and lending
+            services and products.
+        
+
+
+
+
+
+
+
+
+ © charles schwab & co., inc. (member sipc) all rights reserved. (1115-7068)
+
+contact
+
+site map
+schwab.com
+
+
+
+
+facebook
+twitter
+youtube
+linkedin
+google plus
+
+
+
+powered by smashfly
+
+
+
+
+

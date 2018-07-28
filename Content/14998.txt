@@ -1,0 +1,123 @@
+
+
+
+view all jobs  | 
+				job search  | 
+				post resume  | 
+				member login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+			
+
+
+category: 
+
+it
+
+
+
+type: 
+
+
+
+
+
+description: 
+
+ ts/sci or top secret -  devops software engineer opening
+ 
+use your clearance and make a difference! long term contract (3 years+)  benefits available...
+pay rate doe: $50-82 per hour
+ 
+work with systems engineers to design ideal solutions with the end user and operational needs in mind. software engineers will gain experience with the full software lifecycle including design, development, test, delivery, and maintenance. developers apply various technologies including java, j2ee, jms, webservices, python, ruby, chef, c++, oracle, mongo.
+ 
+responsibilities:
+• developing new functional capabilities within software applications to meet a wide range of customer requirements and operational needs
+•responsible for performing development, integration, test and documentation duties to ensure proper operation of hardware and software platforms
+• integrating a wide variety of applications from various sources, and ensuring they meet performance standards for stability and resource utilization
+•develop software, tailor reusable software, and integrate software components
+•adhere to accepted standards for development, including writing unit tests which provide a high percentage of code coverage, participating in peer code reviews, conducting design reviews, and generating test plans to ensure maximum stability and quality of code
+ 
+requirements:
+•united states citizen and active ts/sci ssbi level clearance is required
+•6 or more years software development or software maintenance
+•programming skills java and/or c++
+•object oriented analysis (ooa) and object oriented design (ood) skills
+•proficiency in windows, unix and/or linux
+ 
+desired skills depending on project and position:
+•experience with the entire software lifecycle (preliminary design through test, and maintenance phases)
+•experience and knowledge related to one or more specific technologies:
+•satellite ground systems
+•mission management systems
+•planning and scheduling
+•command and telemetry
+•flight dynamics models
+•digital signal processing (ffts, modulation/demodulation techniques)
+•experience with software design tools such as rational rose, rhapsody, or comparable tools
+•experience with requirements and use case analysis
+•experience with scripting (ruby, perl, python, php, etc.)
+•experience with agile (scrum, kanban, scrumban, safe, etc)
+•experience and/or knowledge with :
+
+devops and continuous integration
+service oriented architecture
+integrated development environment (ide) like eclipse
+web service design and development,
+ security related software development
+one or more databases (mongo, postgres)
+•geographical mapping and plotting using nextmidas or some other c++/java/web frameworks
+
+ 
+bachelor of science computer science, mathematics, aerospace engineering, physics, electrical engineering. **equivalent experience accepted      
+                             
+to apply, please send your resume to me at gkushan@geologics.com.  thank you!
+ grace kushan  technical recruiter, geologics consulting  (303) 457-5235  gkushan@geologics.com 
+
+
+
+location 
+
+aurora , co
+
+
+
+minimum experience (yrs): 
+
+6+
+
+
+
+required education: 
+
+degree
+
+
+
+benefits: 
+
+
+
+
+
+return to search results
+
+
+
+
+
+*logged in members may also add jobs to their job cart

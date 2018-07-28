@@ -1,0 +1,208 @@
+
+
+
+decisive analytics corporation : careers :machine learning software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+machine learning software engineer
+
+
+job locations
+
+us-ca-san diego | us-va-arlington
+
+
+
+
+
+id
+
+2017-2227
+
+
+security clearance requirements
+
+top secret sci
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+decisive analytics corporation is looking for a machine learning software engineer to join our team in san diego, ca or at our headquarters in arlington, va! decisive analytics corporation is focused on developing and implementing advanced algorithms for managing large amounts of unstructured and structured data. whether this data is in the form of text, imagery, video, or audio, we build the machine learning software that enables our customers to extract information from the sea of data produced from a multitude of sources. we are seeking applicants with strong software development skills, and a keen interest in machine learning to join our team.  in this role you will have the opportunity to develop state of the art machine learning algorithms and deploy them in the big data stack of hadoop, mapreduce, spark, storm, accumulo, and mongo db. in this role, the successful candidate will have the opportunity to work at an employee-owned company that is consistently rated as one of the best places to work by washingtonian magazine and the washington business journal.  dac employees enjoy generous benefits, flexible work schedules, company sponsored events, and a collegial, small-company culture.
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+using your creative and technical skills, implement cutting edge machine learning algorithms in java, c++, or other object oriented languages as appropriate.implement these algorithms in the big data stack, including hadoop, mapreduce, spark, storm, accumulo, and mongodb.collaborate with co-workers, leadership, and clients to understand client problems, identify solutions, and demonstrate their software solutions.collaborate with co-workers to execute standard software development activities including design, development, implementation, test, documentation, and support using standard established software engineering principleseagerly pursue the current and emerging trends in software development best practices, service oriented architectures, web development, and cloud computing
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+desired experience:bachelor’s degree or higher in computer science, engineering, mathematics, or a related discipline from an accredited university.a demonstrated interest in machine learning through course work or experience.one or more years of experience developing software solutions in java or c++. school experience is sufficient.excellent verbal and written communication skillsmust be a us citizenmust have an sci security clearance or be able to obtain an sci clearance upon hirepreferred qualifications:familiarity with a high-performance database management system (e.g., accumulo or mongodb)working knowledge of version control systems such as subversion or git, and bug tracking tools such as jira. school experience is sufficient.
+
+
+
+
+
+
+
+
+eeo statement
+
+
+
+
+
+
+all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status or disability. vevraa federal contractor
+
+
+
+
+
+options
+
+apply for this job onlineapplysharerefer this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+connect with us!
+
+
+
+
+if you are not ready to apply or do not see a position of interest, click the 'connect with us' link to:  
+* sign up for job alerts that align with your interests (based on the criteria you set)
+* be visible for future opportunities in a function or location that best suits your background and desires
+* receive updates from our organization
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

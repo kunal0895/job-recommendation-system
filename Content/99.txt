@@ -1,0 +1,60 @@
+
+
+
+
+pymetrics - jobs: data engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer
+
+data engineer
+new york, united states
+
+descriptionusing neuroscience-based assessments and machine learning algorithms, pymetrics is reinventing the recruiting industry by matching candidates to jobs and companies where they are most likely to succeed. we are leading the charge in an evolving industry, and growing our amazing team to support the mission of using data to unleash one's full potential.we are looking for a talented data engineer to help scale all aspects of our business. you will have the opportunity to work with multiple teams to design and build data driven solutions. therefore the ideal candidate will be able to wear multiple hats to solve a wide variety of data related challenges while working alongside both technical and non-technical team members.what you’ll do build batch and real-time data pipelines collaborate with data scientist and machine learning experts to optimize and scale the predictive modeling process design well-structured apis, services, and architectures for new project objectives help improve and expand internal tools for data delivery, access, and analysis analyze and visualize data for both internal and client facing use cases data quality control work with team leads to prioritize business and technology needs find and use the right tool for the job and integrate with existing architecture current technologies python/django/flask javascript/angular/react jupyter aws/azure mysql/postgressql/redshift/mongodb/cosmosdb rabbitmq/celery airflow docker/packer/terraform requirements highly proficient in python proficient working with data and distributed systems experience with python scientific libraries such as scipy, scikit, pandas, and numpy experience conducting methods using any of the following: machine learning, predictive modeling, statistical inference, experimental design, data mining, and optimization experience in linux/unix environment and shell scripting experience with etl deep understanding of data structures and schema design familiarity with both sql and nosql technologies experience with aws and azure platforms a plus knowledgeable about data modeling, data access, and data storage techniques critical thinking: ability to track down complex data and engineering issues, evaluate different algorithmic approaches, and analyze data to solve problems creativity: conceive of new data driven products, features, and technologies benefits health care plan (medical, dental & vision) paid time off (vacation, sick & public holidays) family leave (maternity, paternity) training & development wellness resources stock option plan transportation reimbursement 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+pymetrics website
+
+powered by
+workable
+
+
+
+
+

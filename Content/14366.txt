@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+        at puppet, inc.
+      
+
+        portland, or
+      
+
+
+summary of role
+ 
+we're building a company built by developers for developers. we reward ownership, customer focus and operational excellence. we abhor bureaucracy and mindless meetings. if you've spent 30 minutes in a daily standup that should have taken 5, you know what we're talking about.
+ 
+we're building the best infrastructure automation the world has seen and we're looking for the best and brightest to join our team and make a real impact in the server management space.
+ 
+this is a hands on role where you'll be responsible for building and owning one of the most publically visible elements of our business. you'll produce well architected, carefully implemented and well tested code that runs in production from day one. we practice continuous delivery and often deploy updates to production multiple times in a single day.
+ 
+if the following are true we would love to talk with you:
+ 
+
+you thrive in a dynamic environment where you will be regularly learning new skills and technologies
+you love building highly available services & web apps
+you have experience designing, implementing and consuming json-based rest apis
+you have a passion for the whole stack, from html to sql
+you take pride in writing well tested software
+you navigate cloud services (aws, azure, google cloud platform, etc.) in your sleep and know how to pick the best components to achieve the functionality and performance you need
+you have 2+ years professional experience
+
+ 
+key skills
+ 
+
+javascript, css, html
+ruby (or similar dynamic programming language)
+postgresql (or similar)
+git (or similar dvcs)
+aws ec2, s3, rds
+rest services and apis
+
+ 
+bonus skills
+
+familiarity with sass/scss, handlebars/mustache templates
+familiarity with backbone.js, underscore.js, and gulp.js libraries and tools
+familiarity with sinatra and sequel ruby gems
+advanced sql concepts such as triggers, stored procedures, ctes, etc.
+advanced practical git skills including working with multiple forks, interactive rebases, etc.
+
+ 
+ 
+ 
+working for puppet
+puppet is leading the movement that will define the next decade of software.
+today it’s characterized by the general realization that for companies to remain relevant, they have to constantly provide great software to their users.
+tomorrow it’s defined by a world of frictionless software change – where any company can deliver a better experience to their users, at any moment.
+we’re building a world of unconstrained software change. where the software that powers everything around us is always available, is constantly modern, and accessible from anywhere
+the company is growing fast and we're determined for everyone here to have a real impact on the company and our customers every day. we're driven and restless. we encourage creativity and collaboration. by challenging each other, we foster continuous improvement. 
+here at puppet, our values are our "culture code" and guide all that we do. they embody who we are as a team, as a community, and as a business. that’s why we hire carefully for individuals who clearly represent our company values. that means being connected to the communities we serve (around the globe and online), having an understanding that candid conversations can drive innovation, those who know how to ask themselves the right questions to drive customer benefit, and those who understand that the many people, perspectives and places that makeup our company are key to our success. 
+puppet offers excellent health benefits for employees and family, a flexible time-off policy (that we do insist you use), and a variety of methods to grow your skills and further your career.  we have employees all around the us, the uk, sweden, canada, the czech republic and australia.  our headquarters in downtown portland, oregon, is one block off tom mccall waterfront park with​ views of mt. hood, mt. st. helens and the willamette river.
+more than 30,000 companies — including more than two thirds of the fortune 100 — use puppet’s open source and commercial solutions to achieve situational awareness and drive software change with confidence. we power companies including twitter, yelp, disney, google, citrix, ebay, nyse, cisco webex, salesforce, bank of america and paypal.
+our investors include kleiner perkins caufield & byers, vmware, google ventures, cisco, true ventures, radar partners, and emerson street partners.
+puppet is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, ancestry, age, veteran status, disability, or any other protected class.
+if you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact +1-877-575-9775 for assistance.
+ 
+pm16
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+street address *
+
+
+
+
+
+
+city *
+
+
+
+
+
+
+state *
+
+
+
+
+
+
+zip code *
+
+
+
+
+
+
+are you legally authorized to work in the united states?
+    
+
+
+--
+yes
+no
+
+
+will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?
+    
+
+
+--
+yes
+no
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at puppet, inc. are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+application consent for puppet, inc.
+by clicking the “i accept” button you expressly make the following representations and warranties and give your consents as described below:
+puppet, inc. collects your personal data for the purposes of managing puppet, inc.’s recruitment related activities as well as for organizational planning purposes globally. consequently, puppet, inc. may use your personal data in relation to the evaluation and selection of applicants including for example setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes including the final recruitment.
+puppet, inc. does not disclose your personal data to unauthorized third parties. however, as a global corporation consisting of multiple affiliated companies in various countries, puppet, inc. has international sites and puppet, inc. uses resources located throughout the world. puppet, inc. may from time to time also use third parties to act on puppet, inc.’s behalf. you agree to the fact that to the extent necessary your personal data may be transferred and/or disclosed to any company within puppet, inc. group of companies as well as to third parties acting on puppet, inc.’s behalf, including also transfers to servers and databases outside the country where you provided puppet, inc. with your personal data. such transfers may include for example transfers and/or disclosures outside the european economic area and in the united states of america.
+
+
+
+
+  i accept
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

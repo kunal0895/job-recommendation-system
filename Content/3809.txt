@@ -1,0 +1,187 @@
+
+
+
+amazon.jobs:machine learning scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+machine learning scientist
+
+
+
+machine learning scientist
+
+
+
+
+job id 
+
+557770
+
+
+
+
+location 
+us-wa-seattle
+
+
+
+
+
+posted date 
+
+7/31/2017
+
+
+
+
+company 
+amazon corporate llc
+
+
+
+
+
+recruiting team 
+
+..
+
+
+
+
+
+
+
+
+
+
+
+job description
+
+
+
+
+
+
+
+have you ever wanted to work on machine learning challenges that will make a lasting impact on society and solve key problems that impact the experience of millions of amazon customers? do you like to own and solve complex, ambiguous, and hard problems? we are looking for brilliant machine learning scientists who have the passion to tackle tough problems to help inform a new product from the very early stages. together with a multi-disciplinary team of scientists, engineers, economists, product managers, and subject domain experts you will work on building a product with machine learning at its core. you will define the research and experiment strategy with an iterative approach to create machine learning models and progressively improve the results over time. we are looking for candidates who thrive in a fast paced environments and want to invent the future.
+
+
+
+
+
+
+
+basic qualifications
+
+
+
+
+
+
+
+phd in machine learning (or in a highly related area) or equivalent experiencepractical experience in applying fundamental machine learning algorithms to solve complex problemsexperience with modifying standard algorithms (e.g. changing objectives, working-out the math, implementing and scaling)3+ years in one or more major programming languages (python, java, c++, c, perl/ruby, etc.)
+
+
+
+
+
+
+
+preferred qualifications
+
+
+
+
+
+
+
+at least 1 year of industry or postdoctoral experience with machine learningprevious experience solving business problems through machine learning, data mining and statistical algorithms in a fast paced environmentexperience in building production quality and large scale deployment of applications related to machine learningexperience with developing prototypes by manipulating and analyzing complex, high-volume, high-dimensionality data from varying sourcessolid background in statistical learning techniqueseager to learn new algorithms, to keep up-to-date with literature, explore new application areas and new toolsexperience in the real-time processing of high-velocity time series dataexperience working with big data and relevant techniques, e.g. unsupervised learningexcellent written and verbal communication skills, and the ability to clearly articulate rigorous technical concepts and considerations to non-expertsstrong problem solving skillsexperience with sequential data modelling, time-series analysis, signal decomposition, deep learning, and multi-modal learning algorithmstrack-record of novel algorithm development, e.g. publications in one or more of the following: kdd, nips, sigir, icml, etc.ability to work both independently on ambiguous problems and in highly collaborative team environments amazon is an equal opportunity-affirmative action employer – minority / female / disability / veteran / gender identity / sexual orientation 
+
+
+
+
+
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

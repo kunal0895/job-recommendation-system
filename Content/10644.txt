@@ -1,0 +1,143 @@
+
+
+
+
+c3 iot careers - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    c3 iot careers                                            
+
+
+
+
+
+
+
+                data scientist
+    
+    
+
+                            data science            
+                    redwood city (hq),
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+in this capacity, you will participate in the definition of new analytics capabilities able to provide our customers with the information they need to make proper decisions to support our customers in operating the internet of things (iot). in addition, you will help find the appropriate machine learning / data mining algorithms to answer these questions. finally, you will be responsible for implementing this into the product and making it available to our customers.  qualified candidates will have an in-depth knowledge of most common machine learning techniques and their application. you will also understand the limitations of these algorithms and how to tweak them or derive from them to achieve similar results at large-scale.  required skills & experience:ms or phd in computer science, electrical engineering, statistics, or equivalent fieldsapplied machine learning experience (regression analysis, time series, probabilistic models, supervised classification and unsupervised learning)strong mathematical background (linear algebra, calculus, probability and statistics)experience with scalable ml (mapreduce, streaming)experience with javascript and prototyping languages such as python and r. experience with java and scala is a plusknowledge in electrical engineering and cyber-physical systems is a plusability to drive a project and work both independently and in a teama portfolio of projects (github, papers, etc.) is a plussmart, motivated, can do attitude, and seeks to make a differenceexcellent verbal and written communication
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

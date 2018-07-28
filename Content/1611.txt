@@ -1,0 +1,250 @@
+
+
+software engineer - job at inteliquent, inc. in denver, co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  log in  or register menu  log in  or register find a jobjob searchcompany searchadvanced searchresourcesemployment resourcescareer eventscategoriesjob searchresume writingcover lettersjob interviewsprofessionscareer issuesemployeesstudentsdiversityemployerscontributorsjob search toolsgetting startedupload your resumereceive job notificationsjobs briefcasejobs applied toemployerslocal recruitingsolutionscommunity & diversity outreachbranding & social mediaapplicant tracking systemofccp compliancesolutionsvevraa mandatory job listingdocumentationcommunity & diversity outreachoutreach management systemapplicant tracking systempricingwebinarsofccp resourcesofccp regulationsthe ofccp digestask the expertsdol highlightsesds maplogin/registerlogin to your accountregister a new accountnot authorized×you are currently not authorized to access this section.  please contact your administrator to change your authorization settings.
+
+
+
+
+
+
+homefind a jobsoftware engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+denver, co us
+
+
+
+share
+
+
+
+                posted 13 days ago
+            
+
+
+
+
+
+
+apply nowprocessing...
+
+
+
+email job 
+
+
+
+
+
+
+
+
+
+apply nowprocessing...
+
+
+
+email job
+
+
+
+
+
+
+
+job description
+inteliquent is building a next generation communications platform for voice, messaging and mobility services and we need your help! if you're looking for a fun, fast-paced environment where your decisions have a real impact on our company's continued success... then we want to hear from you!
+ 
+our entire solution stack is built using some of the latest technologies such as java 1.8, mongodb, and angular. our system processes volumes of data in real time supporting millions of end user clients with services such as voice, sms/mms, and mobility.
+ 
+we have an immediate need for software engineers. we're generally interested in the usual: bs or ms in computer science, a few years years experience, etc. however, if you think you have what is takes to take on development of a new communications platform and you're lacking in one or more of those formal requirements, we still want to hear from you!
+ 
+in general, you are someone smart that gets stuff done. in particular, you would benefit from experience with some or more of the following:
+- extensive java experience
+- mongodb
+- spring and spring mvc (grails experience a plus)
+- telecom including (but not limited to) smpp, sip, etc.
+- unit testing
+- continuous integration and deployment
+- using tools such as coverage analysis, stylistic analysis and complexity analysis to help inform code quality
+- building large and highly transactional systems
+- creating custom solutions to monitor system performance and help troubleshoot issues that come up during normal operation
+- deploying and monitoring java web applications
+- container technologies like docker
+- building and consuming an api
+- building and maintaining a ui (currently angularjs)
+ 
+if this is you, submit your resume and apply! we offer generous compensation, health / vision / dental insurance, generous vacation time and an amazing team of folks ready to take our company to the next level.
+ 
+
+ onvoy is an affirmative action and equal opportunity employer 
+read more
+
+
+
+
+
+
+apply nowprocessing...
+
+
+
+
+
+
+        job summary
+    
+
+company
+
+
+inteliquent, inc.
+
+
+
+
+employment term and type
+regular, full time
+
+
+required education
+bachelor's degree
+
+
+required experience
+2+ years
+
+
+
+ this company is a federal contractor
+
+
+
+
+
+
+        email this job to yourself or a friend
+        
+×
+
+
+
+
+
+
+
+
+
+        indicates required fields
+    
+
+
+to
+
+
+
+
+
+
+
+from
+
+
+
+
+
+
+
+subject
+
+
+
+
+
+
+
+enter your message
+
+
+
+
+
+
+
+
+
+
+
+
+cancel
+send email
+
+
+
+
+
+
+
+jobsinminneapolis.comabout usjoin our teamaffiliationsfind a jobjob searchcompany searchadvanced searchemployerspost a joblocal recruitingofccp solutionsdol highlightsesds maprequest a demoresourcesemployment resourcescareer eventsjob search toolswebinarsthe ofccp digestcontact us612-331-1533800-984-3775send an emailcontact us612-331-1533800-984-3775send an emaillegalterms of useprivacy policyaccessibilitystay connected  sign up for the ofccp digest  sign upterms of use | privacy policy | accessibilitycopyright © 1994-2017 the infosoft group llc all rights reserved.
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+senior developer  - denver | thoughtworks✖our site uses cookies
+for analytics. if you're unsure about it, take a look at our privacy policy.españolportuguêsdeutsch中文search termsubmit searchnewscontact usclientsservicesproductsinsightseventsabout uscareersmenu✖search termsubmit searchhomeclientsservicesfinancial servicesdigital platform strategygovernmentretailtravelbusiness agilityproductsinsightseventsabout uscareersoverviewinclusivityapplication processgraduatesbrowse jobsnewscontact usespañolportuguêsdeutsch中文senior developer apply for this job ▸denver, usa
+thoughtworks is a global software consultancy, made up of around 4,500 passionate technologists across 15 countries. we specialize in strategy, portfolio management and product design, combined with digital engineering excellence. 
+as software consultants, our teams work on a huge variety of projects. you could be helping to influence the digital strategy of a retail giant, building a new mobile application for a bank or redesigning platforms using event sourcing and intelligent data pipelines. you’ll use the latest lean and agile thinking, solve mission-critical problems and challenge yourself everyday.
+examples of what you’ll be doing:
+
+using continuous delivery practices to improve software delivery speed
+working in collaborative, product-focused teams to build innovative customer experiences
+creating large scale distributed systems out of microservices
+applying the latest technology thinking from our tech radar to client problems (with a healthy amount of skepticism)
+helping our clients become data-driven businesses by making real-time data available and using machine learning for competitive advantage
+utilizing devops tools and practices to build and deploy software in the most efficient ways
+
+what we’re looking for:
+
+ability to write high-quality, well-tested code. we don’t limit ourselves to one language; experience in any of java, scala, c#, javascript, ruby or python is preferred
+experience working with agile, lean and/or continuous delivery approaches such as continuous integration, tdd, infrastructure as code, etc.
+knowledge and appreciation of cloud technology such as aws, docker or kubernetes is a plus
+a passion for automation; you don’t like doing the same thing twice
+we value diversity; we support traditional and nontraditional career paths
+
+an important note:
+projects are almost exclusively on customer site, so thoughtworkers should be flexible and open to extensive travel. while we do work with clients in our city, many of our consultants travel to other cities every week and fly home for weekends.
+ 
+residing near one of our north america offices in chicago, dallas, new york, atlanta or san francisco is preferable although not necessary.
+ 
+
+it is the policy of thoughtworks, inc. to provide a work environment free of discrimination. the company will take affirmative action to ensure applicants and thoughtworks employees are treated without regard to race, color, religion, sex, national origin, ethnic origin, veteran status, family status, disability, sexual orientation, gender expression or gender identity.  this also includes individuals who are perceived to have any of the aforementioned attributes.  thoughtworks will adhere to all federal, state, and municipal laws and regulations governing employment.
+
+#li-naapply for this job ▸about thoughtworkswe are a software company and a community of passionate, purpose-led individuals. we think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the it industry and create positive social change.connect with uswechat×homeclientsservicesproductsinsightseventsabout uscareerscontact uspress & media |   privacy policy | © 2017 thoughtworks, inc. 

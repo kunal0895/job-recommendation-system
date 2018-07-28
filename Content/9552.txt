@@ -1,0 +1,109 @@
+
+
+
+
+bi developer - rez-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities >> bi developerbi developersummarytitle:bi developerid:1031department:information technologylocation:charlotte, ncmore about this job >descriptionconsider a career as a bi developer with rez-1, a saas provider, in charlotte, nc. rez-1 is a leader in developing innovative solutions and services for the freight transportation marketplace. in this role, you will be responsible for the creation and maintenance of business intelligence solutions to our customers, clients, and internal users, with a focus on timely, accurate and consumable information that enables key decision making. role is located in our charlotte, nc location.
+essential duties and responsibilities include:
+
+work with business and/or clients on understanding business intelligence needs
+define, build, test, document and audit business intelligence offerings
+
+trending, planning, optimization and forecasting
+outputs may take the form of
+
+ad-hoc reports
+custom/guided reports
+dashboards
+self-service offerings
+data feeds
+
+
+
+
+product support
+
+external user interface (training)
+interpretation of results
+data quality questions/concerns
+
+
+define, test and audit the execution of custom metric logic that lives in etl code
+develop and maintain build, testing and documentation standards, including automated testing efforts
+develop and maintain monitoring, auditing and benchmarking processes, including
+
+technical processes to ensure etl executes
+data accuracy
+on-time delivery
+periodic audits of processes and bi offerings
+
+
+develop and maintain performance standards (benchmarking)
+
+external user interface
+backend processes
+sql query performance optimization
+
+
+
+must have the following knowledge, abilities and skills:
+
+strong analytical, conceptual, and problem solving abilities. 
+strong knowledge of sql 
+strong knowledge of available query/bi development tools.  
+strong knowledge of data warehouse etl and relational databases
+knowledge of data modeling, statistical analysis, optimization and forecasting
+ability to manage, execute, and follow through with multiple tasks.
+good listening, written and oral communication skills. 
+experience with cloud-based products preferred
+database experience (mysql and infobright a plus)
+reporting tools such as jaspersoft, sap preferred
+visualization software and subversion (or comparable source control application) preferred
+agile methodology (scrum, xp methodology) preferred
+microsoft office products
+recent graduates with related internships are welcome to apply
+
+qualifications:
+
+2 to 5 years of relevant experience 
+bachelors of science in a quantitative field or equivalent experience
+
+rez-1 is an eeoe. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.   apply now     refer to a friend  alternatively, you can apply to this job using your profile on one of the following sites:
+
+ 
+
+
+
+
+
+
+copyright 2017 rez-1. all rights reserved.powered by applicantstack™ applicant tracking
+
+
+
+

@@ -1,0 +1,282 @@
+
+
+
+student/graduate assistant - earthquake database and web support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+home
+search jobs
+create account
+log in
+help
+
+
+
+uei home
+about
+
+
+
+
+student/graduate assistant - earthquake database and web support
+
+	below you will find the details for the position including any supplementary documentation and questions you should review before applying for the opening.  to apply for the position, please click the apply for this job link/button.
+
+	if you would like to bookmark this position for later review, click on the bookmark link. if you would like to print a copy of this position for your records, click on the print preview link.
+
+bookmark this posting |
+    print preview |
+        apply for this job
+
+
+please see special instructions for more details.
+        please complete all fields of the employment application. include your educational history in the "educational experience" section and any employment history in the "employment experience" section of your application.
+      
+
+
+job details
+
+
+
+job information
+
+
+
+job title
+student/graduate assistant - earthquake database and web support
+
+
+student classification
+student assistant or graduate assistant
+
+
+job code
+c50118
+
+
+posting type
+student/nonbenefited (nstu)
+
+
+posting number
+pe337f17
+
+
+job description summary
+the department of conservation, california geological survey is seeking a student/graduate assistant. this is an opportunity for a student/graduate assistant to work with a team at the california geological survey on the center for engineering strong motion data (cesmd). the cesmd, a joint center of the california state and federal government, receives and processes the u.s. and international earthquake strong motion data and uploads data to the cesmd database. the student/graduate assistant will help to modify and develop scripts to work with the center’s database and web interface.
+
+
+conditions of employment
+this is a part-time, temporary, non-benefited, student position. employment in all positions with university enterprises, inc. is dependent upon the mutual consent of university enterprises, inc. and the employee. this means that either university enterprises, inc. or the employee can, at any time, terminate the employment relationship at will, with or without cause.
+depending on the type of position you are applying for, a pre-employment background check consisting of one or more of the following may be conducted, employment history, professional references, criminal check, educational verification (i.e., degree, license, or official transcript) and physical exam and drug urinalysis test. applicants will be required to pass required pre-employment checks to the satisfaction of university enterprises inc., (uei) and the hiring agency or department.
+
+
+work schedule
+monday through friday, between the hours of 8:00 am to 5:00 pm. flexible.
+
+
+additional work schedule
+student assistant and graduate assistant employees generally work up to 20 hours per work week (sunday – saturday) during the academic year and up to 40 hours per work week during breaks; winter, spring & summer.
+student assistants are not permitted to telecommute or work remotely.
+
+
+area
+sacramento
+
+
+on/off sacramento state campus
+off campus
+
+
+worksite city
+sacramento
+
+
+pay range
+$12.00 - $18.00 per hour
+
+
+department/agency
+conservation, department of (doc)
+
+
+unit/division
+california geological survey
+
+
+project description
+in april 1860 the california legislature established the geological survey of california that has evolved during its 150 years of service, and several name changes, into today’s modern california geological survey (cgs). of course, the earliest history of cgs has its founding roots entwined with the discovery of gold in 1848.
+cgs is dedicated to the fulfillment of its mission to provide scientific products and services about the state’s geology, seismology and mineral resources that affect the health, safety, and business interests of the people of california.
+cgs geoscientists, engineers and support staff take great pride in upholding the heritage of an organization that has a 150 year legacy of providing the highest quality of scientific and engineering products and services to the state of california.
+to learn more about the ca geological survey visit our website at www.consrv.ca.gov/cgs/pages/index.aspx
+
+
+majors/fields of study
+computer science and engineering, mathematics, physics, statistics
+
+
+minimum qualifications
+knowledge of scripting languages.
+knowledge of working on mysql database.
+
+
+prerequisites
+must be a college student attending classes during the regular term (fall, spring and winter, if applicable), at one of the accredited colleges or universities on our affiliation list.
+to view our current affiliation list please paste the following url into your browser: http://www.calinterns.org/wp-content/uploads/affiliation_list.pdf 
+
+students must be enrolled at a minimum in; six semester units or nine quarter units for undergraduate students; four semester units or six quarter units for graduate students.
+
+students declared major must match the major(s) listed in the job posting.
+
+
+
+
+position description
+
+
+
+preferred qualifications
+familiarity with programming languages and web development is a plus.
+
+
+duties and responsibilities
+assist with preparing incoming earthquake strong motion data and upload data to the center’s database. assist with the improvement of the center’s web interface and databases.
+
+
+physical requirements
+sit for extended periods; frequently stand and walk; manual dexterity and hand-eye coordination; corrected hearing and vision to normal range; verbal communication; use of office equipment including computer workstations, telephones, calculators, copiers, printers, scanners, and fax machines, with or without a reasonable accommodation.
+
+
+working conditions
+work is performed in an office environment.
+
+
+hours per week
+students (part-time) 0-20 hours per week during the academic year, up to 40 hours per week during breaks; winter, spring and summer. (nstu)
+
+
+posting date
+12/05/2017
+
+
+closing date
+01/05/2018
+
+
+open until filled
+no
+
+
+special instructions to applicant
+please complete all fields of the employment application. include your educational history in the “educational experience” section and any employment history in the “employment experience” section of your application.
+
+
+quick link for internal postings
+http://ueijobs.peopleadmin.com/postings/8643
+
+
+
+
+
+applicant documents
+
+required documents
+
+
+optional documents
+
+resume
+cover letter
+
+
+supplemental questions
+
+required fields are indicated with an asterisk (*).
+
+ * 
+  how did you hear about this position?
+    
+sacramento bee
+careerbuilder
+university enterprises website
+internal job posting
+personal referral
+indeed
+other
+
+
+
+  if other, please specify.
+    (open ended question)
+
+ * 
+  are you a college student attending classes during the regular term (fall, spring and winter, if applicable), at an accredited college or university and enrolled in at least 6 semester or 9 quarter units as an undergraduate or 4 semester or 6 quarter units as a graduate student? 
+    
+yes
+no
+
+
+ * 
+  is your major/field of study on of the following: computer science and engineering, mathematics, physics or statistics?
+    
+yes
+no
+
+
+ * 
+  do you have knowledge of working on mysql database?
+    
+yes
+no
+
+
+ * 
+  do you have knowledge of scripting languages?
+    
+yes
+no
+
+
+
+
+
+
+
+
+
+
+
+© 2017 university enterprises, inc. all rights reserved. privacy statement.
+
+
+
+
+
+
+
+
+
+

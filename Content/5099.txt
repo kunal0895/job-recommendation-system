@@ -1,0 +1,64 @@
+
+
+
+
+corvus insurance - jobs: data scientist / machine learning engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data scientist / machine learning engineer
+
+data scientist / machine learning engineer
+boston, massachusetts, united states
+
+descriptionlooking for a company that embraces new technology? are you interested in data science, machine learning and the internet of things?data scientist / machine learning engineer rolecorvus insurance seeks a talented data scientist who is is proficient in building machine learning solutions to join our early stage company and technology team. we are a dynamic team of entrepreneurial professionals with backgrounds in insurance and technology creating a commercial insurance company that combines the latest technology with traditional insurance. you will be instrumental in building predictive models and risk scores so we can build intelligible insights from our data so we are better able to better price our products and keep our customers safe. you will report to the cto.responsibilities you will analyze data from sensors (internet of things), corvus data partners, and insurance systems and be be able to clean, scope and understand the data so we can create risk scores and predictive models to help our underwriters with potential customer selection and policy pricing scoping: you can capture requirements and look at data and figure out what’s missing and how to cleanse datasets data modeling: you will find useful data patterns in our data. you will write production code so that new data is always informing our models and serving our users strategy: you will help develop our overall machine learning strategy and staffing plans you will help build the systems infrastructure, database schemas and integrations so we can scale our systems. you keep up to date with relevant research and implement new methods when appropriate you will be an active, creative, agile team member that will help corvus build our crowbar platform. you will collaborate with our underwriters, product managers, software engineers, designers, and data/business intelligence teams. requirements mid level data scientist, technical masters or phd preferred experience developing and productionizing machine learning models (supervised/unsupervised learning, linear/logistic regression, neural networks, deep learning) strong math, linear algebra and statistical analysis skills experience with open source machine learning tools such as scikit-learn, tensorflow, keras, h2o, etc. relational database and sql experience such as redshift, postgres, mysql you write readable, quality code you're comfortable working at an early stage startup and are ready to build a greenfield system (no legacy codebase or systems) you are curious and able to adapt to different domains insurance industry experience a plus you collaborate well with others and are dedicated to the company's success corvus believes in building a diverse team, and we strive to make our office a welcoming space for everyone. we encourage talented people from all backgrounds to apply.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+corvus insurance
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+corvus insurance website
+
+powered by
+workable
+
+
+
+
+

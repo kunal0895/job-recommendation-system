@@ -1,0 +1,245 @@
+
+
+donnelley financial solutions careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+show navigation
+hide navigation
+
+work@dfs 
+
+benefits
+
+
+why work for us?
+
+
+employment listings 
+
+search current openings
+
+
+update your profile
+
+
+create a job agent
+
+
+about usfaqs
+
+
+
+
+
+
+
+
+ 
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					senior data engineer
+				
+
+
+						tracking code
+					
+
+						486-304 
+					
+
+						job description
+					
+
+donnelley financial solutions (dfs) is a leading financial communications services company with approximately 3,500 employees and 2015 revenues of $1.1 billion. dfs serves capital market and investment market clients by delivering products and services to help create, manage and deliver accurate and timely financial communications to investors and regulators.
+ 
+position summary
+ 
+ 
+donnelley financial solutions is seeking a senior data engineer to join our data and analytics team. the ideal candidate is a self-starter who is effective working with large development teams in a highly collaborative environment.
+ 
+ 
+job description
+ 
+ 
+
+develop, maintain, test, and troubleshoot data solutions, including database development, etl / data migration development, and big data development.
+collaborate with technical and non-technical resources to solve issues and develop new functionality.
+participate in requirements gathering and analysis meetings with team members, internal customers, and stakeholders.
+mentors and assists data engineers and data developers as needed.
+
+ 
+
+
+						required skills
+					
+
+
+database development skills (sql, t-sql)
+sql server 2012 or later
+sql server 2016 experience is a plus
+etl / data integration
+azure and cloud based technologies
+sql azure
+ssis
+sql performance tuning and optimization
+troubleshooting of complex data solutions
+big data technologies including (azure data factory, spark, nosql, hadoop, hdinsight, big data architecture) a plus
+data analysis
+requirements analysis
+
+
+
+						required experience
+					
+
+
+bachelor’s degree in computer science, information technology or relevant experience.
+5 + years development experience with sql and tsql using sql server 2012 or later.
+5 + years development experience using etl / data integration tools (ssis preferred).
+3 + years of experience performing data analysis / data profiling.
+5 + years of requirements analysis experience.
+5 + years of experience working in environments with formal sdlc (software development life cycle) experience, 3 + years of experience working on teams utilizing agile methodologies.
+3 + years authoring technical and functional documentation.
+experience working on large teams a plus.
+experience with project planning and more specifically sprint planning a plus.
+
+
+
+						job location
+					
+
+						chicago, illinois, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+employee referral bonus eligible
+no
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+site map  
+©2017  donnelley financial solutions. all rights reserved.
+
+
+
+
+
+
+
+
+
+

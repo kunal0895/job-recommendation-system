@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+senior datacareers at intel insolution deployment and development engineer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    intel 
+
+
+
+
+explore intel
+
+
+
+
+
+
+life at intel
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+benefits at intel
+
+
+
+
+
+
+ careers at intel
+
+x
+
+
+
+
+jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+
+
+global student center
+
+explore global student center
+internships
+rotation programs
+
+other languages
+
+visit our hebrew career-site
+
+explore
+
+explore more careers
+
+
+
+
+
+
+
+
+
+accessibility 
+
+
+
+
+
+ join the talent network 
+
+
+accessibility
+
+
+
+
+x
+  menu 
+
+ jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+
+ jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+ global student center
+
+explore global student center
+internships
+accelerated leadership program (alp)
+rotation programs
+venture program
+
+
+ carees site in other languages
+
+hebrew
+
+
+explore more careers
+ explore intel
+
+life at intel overview
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+explore benefits at intel
+ advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+› senior datasolution deployment and development engineer 
+
+
+
+
+
+apply
+
+
+search all jobs
+
+
+
+
+
+apply now
+       
+
+
+
+
+job id: jr0036388
+job category: engineering
+primary location: raleigh, nc us 
+
+other locations: 
+job type: experienced hire
+
+
+senior data-solution deployment and development engineer
+job descriptionintel is in the midst of an exciting transformation, going beyond being a company that makes the world's best chip to one that also delivers ai experiences to people.this is no longer about system libraries and device drivers at intel. big data technologies like hadoop, kafka and samza, multi-tenant and distributed applications are in the center of it all and the cutting-edge cognitive computing platform.qualificationsabout this position... the data solution deployment and development engineer would develop and deploy software solutions. you will be a part of the data-science research team assisting data scientists in development and deployment of innovative data mining and machine learning solutions to stake holders.opportunities…you will becoming a key technical asset of applying company's flagship machine learning product and developing a wide variety of machine-learning algorithms, applications, and processes.  your professional communication (internal and external) will give you high visibility/impact across multiple teams.what you will do... the candidate will:  learn machine-learning platform and perform standardized deployment processes.  be a self-starter who seeks to solve problems when they are identified.  balance time between support work and solution development.  negotiate with customers to follow best practice processes and minimize risk to the business. communicate proactively with teammates and customers regarding work status, issues and risks. requirements:you must possess the below required qualifications to be initially considered for this position.  qualifications listed as preferred will be considered a plus factor for applicants.  required qualifications:·         bachelor of science degree in computer engineering, computer science, electrical engineering or related discipline and 2-4+ years of relevant experience in the following areas:·         4+ years’ experience in a linux computing environment·         4+ years’ experience in the following:·         writing, documenting, and supporting development and scripting languages java, bash, python- packaging and/or deploying software to unix/linux platforms·         developing utilities/applications in java and script languages ·         must be able to:- troubleshoot and maneuver comfortably within the following operating systems: redhat/centos linux, macos, windows.·         adapt to learning new specifications on products/platforms in an ever-changing environment·         understanding of unix/linux file system security·         command line experience within unix·         experience in scripting languages like bash, and python·         experience in parsing and processing data files in xml, json, and csv.·         experience in packaging and/or deploying software to unix/linux platforms·         experience in using and configuring web server·         knowledge of software configuration management tools such as git·         strong understanding of http/rest/api architecture·         strong organizational, written, and prioritization skills·         strong customer service skills·         familiar with supporting and/or deploying to j2ee environmentspreferred qualifications:·         docker image construction and deployment·         data science and machine learning basics and/or application·         data manipulation and transformation processing·         experience in nlp and parsing unstructured data sources·         computer network security·         experience in developing utilities/applications in jquery and javascript·         version control systems such as github- sql database query and jdbc of mysql·         knowledge of tomcat, apache- agile methodology inside this business groupintel labs, the new business initiatives group (nbi), the perceptual computing group and the new devices group (ndg). additionally, new devices group and the new business initiatives group were combined into the new business group (nbg) which nests into ntg.posting statement. intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+what would you like to do now?
+
+
+
+
+
+
+
+get job alerts
+
+get started
+
+
+
+
+
+find out more about working at intel
+
+learn more
+
+
+
+
+
+jobs@intel blog
+
+learn more
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+grow your network of opportunities
+ facebook twitter linkedin glassdoor instagram intel student spot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+our commitment
+investor relations
+contact us
+newsroom
+site map
+jobs
+
+
+
+
+
+
+
+
+
+© intel corporation
+terms of use
+*trademarks
+privacy
+cookies
+supply chain transparency
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

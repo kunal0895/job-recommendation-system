@@ -1,0 +1,207 @@
+
+
+
+careers at grubhub -data scientist ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist ii
+
+
+job locations
+
+us-ny-new york
+
+
+
+
+
+job id
+
+2017-4361
+
+
+category
+
+data
+
+
+
+
+
+
+
+
+
+about the opportunity 
+
+
+
+
+
+
+welcome!hungry for a new venture?we work with awesome people every day. we don’t mean “awesome” like how other people use “awesome”—in some conjunctive form with “sauce” or “balls.” we really mean it. we work with some of the greatest people in the tech industry here at grubhub. we’re looking for more.grubhub leads in the mobile food-ordering industry with a portfolio of brands that includes grubhub, seamless, menupages and allmenus. we’re dedicated to connecting hungry diners with local restaurants with our internal delivery network. with offices in new york city, chicago and london, grubhub supports every order with 24/7 customer service.we want you to enjoy where you work. who you work with. what you work on. at grubhub, you can order your cake and eat it too.
+
+
+
+
+
+
+
+
+some challenges you’ll tackle
+
+
+
+
+
+
+building and improving large scale deep learning and collaborative based recommender system to provide accurate user recommendations. explore large volumes of diverse data sets (clickstream, user orders, geo location) to find cohorts and fine tune/personalize recommendations to improve user conversion (e.g: using factor analysis).using sound scientific guiding principles in analysis, model training, testing and validation of the data models to create precise, high performing and reliable models to be used in product.using software principles to write functional, scalable, tested and clean deployable code, during the implementation stage of algorithms. collaborate and work closely with engineering, product and design to create high quality reliable products.
+
+
+
+
+
+
+
+
+you should have
+
+
+
+
+
+
+5+ years of hands-on experience in predictive modeling and analysisexperience building and fine tuning deep learning based systems or large scale collaborative and content based recommendation systems for several mission-critical projectsprogramming - our team pushes very hard to scale through automation. advanced python and spark skills are very relevant to this job. strong cross-functional communication skills - the algorithms we develop are central to how the business runs. so it's critical for you to understand the drivers of our business very deeply, and to be able to explain your approach to a wide variety of both technical and non-technical stakeholders and take input from them where appropriate. sql experience - experience in transactional and data warehouse environments using mysql, hive, or other database systems. must deeply understand joins, subqueries, window functions, etc.humility - admit when you’re wrong and make a mistake, then let’s laugh about it. you might even make our achievements board!phd or masters in quantitative discipline. got these?  even better:good understanding of data structures and computational complexity.working knowledge of scala or interest to pick up new programming languages.you know how to sell an idea to a large group of people. internal pr is important.predictive analytics- clustering, regression, neural networks, etc.blog/portfolio/github links
+
+
+
+
+
+
+
+
+and of course, perks!
+
+
+
+
+
+
+unlimited paid vacation days. choose how your time is spent.never go hungry! we provide weekly grubhub/seamless credit.regular in-office social events, including happy hours, wine tastings, karaoke, bingo with prizes and more.company-wide initiatives encouraging innovation, continuous learning and cross-department connections.we deliver favorites every day. join us as we move eating forward.grubhub is an equal opportunity employer. we evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. the eeo is the law poster is available here: dol poster. grubhub is committed to working with and providing reasonable accommodations to individuals with disabilities. if you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to talentacquisition@grubhub.com and let us know the nature of your request and your contact information.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+connect with us!
+
+
+
+
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

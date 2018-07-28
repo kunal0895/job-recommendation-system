@@ -1,0 +1,292 @@
+
+
+
+
+job application for data engineer at experticity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at experticity
+      
+(view all jobs)
+
+        salt lake city, ut
+      
+
+
+experticity (www.experticity.com) - we work with hundreds of the world’s most respected consumer brands – companies like the north face, marmot, 5.11 tactical, reebok, arc'teryx, yeti and 600 plus more as well as retailers like dillard’s and cabela’s – to engage influential everyday experts, and to build, track and reward their helpful expertise.  
+if you want to consider an adventure of a lifetime, then look no further. experticity is building the social network for helping people decide what to buy. we are connecting category experts with brands and their products because we believe experts help people make better buying decisions. experticity offers a variety of marketing solutions for consumer companies. 
+we’re based in the heart of salt lake city, the new hub of disruptive innovation in the west. why drive hours to get to the slopes when you can get there in 25 minutes? longing for a short commute? do you want mountain living with crystal clear lakes and streams shared by diverse wildlife? or are you more of a desert explorer? love being in a thriving, historic downtown with awesome restaurants, bars, arts, and shopping, all walk-able? yep, we have all of that. and when you need to hop on a flight to visit friends and family, grab a direct flight to almost every major city from our international airport that’s just 10 minutes from downtown.
+so let’s get down to the nitty gritty on what we are looking for in a data engineer. we don’t want to think about day one, but day 365 and beyond.
+the big data analytics team is responsible for ingesting and processing the millions of diverse signals that our social network of experts generates (both online and offline) and transforming them to provide valuable insights to our clients and internal business teams. our clients in turn use the power of those insights to better optimize their campaigns on our platform. the internal teams use these insights to inform new strategies across marketing, sales, client success, product and engineering.
+do you enjoy designing and implementing data pipelines?
+do you feel motivated tackling and crunching enterprise scale big data?
+do you want to leverage your experience and skills in data analytics and reporting?
+we are looking for a big data engineer with a passion for data driven culture, commitment to teamwork, and passion for customer satisfaction.
+responsibilities:
+
+build and maintain data apis to retrieve data from data warehouse and other data sources
+design and develop bi environments to support reporting, analysis and visualizations requirements
+design data storage tables in a data warehouse for optimal storage and quick reporting
+develop and tune database applications
+ensure data quality through testing
+extraction, transformation and load (etl) to support data integration needs
+provide and maintain data feeds to internal applications (such as an esp) and client systems
+build and maintain a modern data pipeline, to collect, cleanse and process diverse signals and data from disparate sources
+
+basic qualifications:
+
+bachelors degree or higher in computer science or related discipline
+experience with etl tools, bi tools and sql based databases
+experience coding with java or c#
+experience with the linux operating system
+experience with unstructured data (i.e. json)
+experience with data streaming pipelines
+
+ preferred qualifications:
+
+experience with big data tooling such as hadoop  
+experience with aws technologies like s3, rds, kinesis, emr, redshift, dynamodb
+experience with the mdx analytical querying language
+experience with the pentaho reporting suite
+experience with spark
+experience with microservices and rest apis
+ability to understand business needs and translate them into technical specifications.
+strong ability to explain advanced data concepts to database developers and architects as well as non-technical end users, and senior executives.
+strong understanding of complex relational / dimensional data models
+
+ this is a full time position in our salt lake city, utah office.
+the benefits of being on the experticity team:
+
+great culture! great people.
+excellent benefits including: medical, dental, vision, long term disability, 401k (with match), maternity/paternity benefits, flex spending, ad&d and life insurance.
+open pto.
+company sponsored humanitarian trips.
+autonomy and ownership in problem solving as well as a highly collaborative work environment.  
+a beautiful salt lake city downtown location near: city creek, gallivan center, library square, the leonardo, capital theater, the twilight concert series, and mountain foothills
+accessibility to discounted yoga classes, bike and running trails, basketball, local gyms and an office locker and bike room.
+discounts with some local ski resorts and downtown vendors.
+parking or trax pass provided!
+and finally.......our clients frequently extend their incentive purchase programs to our employees. 
+
+about experticity
+experticity helps the world's largest community of influential category experts and retail sales professionals gain critical product expertise that translates into stronger sales, better shopping experiences and satisfied customers. through our services you can identify and educate influential experts, foster first-hand product experience, and collect important retail insights on your brand and products. learn more at https://www.experticity.com/business/.
+experticity is not accepting unsolicited assistance from search firms for this employment opportunity. all resumes submitted by search firms to any employee at experticity via-email, the internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of experticity. no fee will be paid in the event the candidate is hired by experticity as a result of the referral or through other means.
+experticity is an equal opportunity employer that makes employment decisions without regard to race, color, religious creed (including religious dress and grooming practices), national origin, ancestry, sex (including pregnancy, childbirth, breastfeeding, and medical conditions related thereto), sexual orientation, gender, gender identity and expression, age (40 and older), mental or physical disability (including hiv and aids), medical condition (cancer and genetic characteristics), veteran status, citizenship, marital status, genetic information, or any other basis that is prohibited by applicable law.   the company also makes reasonable accommodations to applicants or employees with qualifying disabilities who request them and who otherwise meet the requirements of applicable law. if you would like to request an accommodation during the application process, please contact our director of recruiting.
+ 
+li-post
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile *
+
+
+
+
+
+
+current compensation *
+
+
+
+
+
+
+desired salary range *
+
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you a current employee? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

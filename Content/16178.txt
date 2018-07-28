@@ -1,0 +1,21 @@
+software developer at taskeasysoftware developersalt lake city, utfull-timeitjob openingssoftware developer%button_apply_to_position% apply using linkedinwe are looking for software engineers to help build one of the largest and fastest-growing on-demand home services companies. taskeasy has a fast-moving, highly collaborative team that works in concert with product design and quality assurance. we value creativity, critical reasoning, code quality, and teamwork. you will not just be coding, but also actively helping to invent and design features for the system that make our company go. as a senior software developer you will be expected to help guide our infrastructure as we grow and be able to mentor junior devs as necessary. you will be working within existing code bases and migrating deprecated applications into new paradigms. 
+what we look for 
+●     work in a fast-paced, agile team environment 
+●     be able to communicate clearly and effectively 
+●     production experience with modern deployment strategies 
+●     be an engineering leader and promote any new technologies as they fit 
+●     become fluent with the full stack of taskeasy’s software 
+●     care about coding standards and develop efficient, elegant, clean code with no unnecessary complication 
+ 
+code requirements 
+●     3-5 years' object oriented programming experience working with java, python, node, and/or ruby (preferably in a web environment) 
+●     strong experience in javascript and javascript frameworks 
+●     unit testing experience and ability to provide good code coverage 
+ 
+extra credit 
+●     react 
+●     es6 
+●     spring framework 
+●     python/ruby/node 
+●     css3 
+amazon cloud services (sqs, s3, etc)%button_apply_to_position%%footer_powered_by%breezy

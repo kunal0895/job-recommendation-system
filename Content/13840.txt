@@ -1,0 +1,228 @@
+
+full stack web application developer nasa near earth objects research/20674 job - logyx, llc - mountain view, ca | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+full stack web application developer nasa near earth objects research/20674
+
+logyx, llc
+
+
+2 reviews
+ -
+mountain view, ca 94043
+
+
+job summarys3vi project background:  the small spacecraft virtual institute (s3vi) is a virtual institute within the small spacecraft research community with a physical presence established at nasa ames research center (arc). the mission of s3vi is to advance the field of small spacecraft systems and allied sciences by promoting collaboration, innovations, exploring new concepts, identifying emerging technology opportunities, and establishing effective conduits for sharing and dissemination research results relevant to small spacecraft systems and its subsystems.the s3vi will establish a common web portal into nasa for all small spacecraft activities, both internal to nasa and external to the diverse small spacecraft communities. the s3vi web portal will capture information on nasa-funded small spacecraft activities, identify small spacecraft collaborative opportunities, and provide nasa points of contact (pocs) for a variety of small spacecraft activities across nasa centers.neo project background:  the space science and astrobiology division (code ssa) at nasa ames research center (arc) has created a public website to assist researchers of near earth objects (neos). the neo characterization group within the arc planetary defense project has been tasked with building an online resource for the planetary defense community to collate and disseminate physical characteristics of a majority of near earth asteroids (nea) and some meteorites (hence objects). the data and its sources will be heterogeneous.responsibilities and dutiesas a key member of these two projects, you will contribute to the software design and development activities as follows:assist with gathering requirements from the stakeholders, scientists, and primary users.document the requirements and evolve the requirements into user cases and/or user storiestransform use cases and/or user stories into concrete development tasks that can be completed in an iterative manner.develop full-stack, multi-tiered enterprise web applications.lead the effort to migrate neo from .net-centric back-end to a linux stack preferably using python/django.develop restful web services for data management and operations.assist in the design and development of web user interfaces.follow tailored nasa procedure requirements (npr) 7150.2 software engineering requirements process using an iterative software development approach.required skills and experiencesbachelor’s degree (ba/bs) in computer science/software engineering/computer engineering/electrical engineering4+ years of software design and development using django/python or java4+ years developing web services, web apis, and data cleaning and scrubbing software using python/django4+ years developing web ui; skilled in jquery, javascript, ajax, html5, css3, dom, json, xml2+ years with ui frameworks: angularjs, kendoui, telerik controls, bootstrap, foundation.4+ years with unix/linux - redhat families of linux distributions (e.g., rhel, centos) and/or macos2+ years with scripting languages, such as, php, perl or other unix/linux shell.2+ years developing and using restful web services.2+ years with database technologies (e.g., mysql, mongodb and sqlite)1+ years of search technologies: elasticsearch, lucene, solrexcellent written and oral communication skillsdetail-oriented, proactive, and capable of conducting both self-directed independent work, and participating in inter-disciplinary teams*other desired skills: *familiarity with c# and asp.netfamiliarity with sql serverfamiliarity with r and r studio for statistical analysisfamiliarity with agile development practicesfamiliarity with atlassian family of products – jira, confluence, and bambooastronomy, space sciences, and/or astrobiology interests are a plus, especially with learning and understanding neo characteristics and physical properties (e.g., diameter, taxonomy)logyx, llc provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. in addition to federal law requirements, logyx, llc complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.eoe/m/f/vet/disabilitiesjob type: full-timejob location:mountain view, carequired education:bachelor'srequired experience:developing web services: 4 yearssoftware design and development: 4 yearsdeveloping web ui: 4 yearsdjango/python or java: 4 yearsrestful web services: 2 years
+
+9 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to logyx, llc.
+
+
+
+
+
+
+other jobs you may like
+
+
+java full stack developer at apple inc.
+
+tekhiring.com -
+					sunnyvale, ca
+1 day ago
+
+ easily apply
+
+
+
+full stack web application developer
+
+hx5 -
+					mountain view, ca
+8 days ago
+
+
+frontend developer
+
+mashgin -
+					mountain view, ca
+13 days ago
+
+ easily apply
+
+
+
+full stack web developer
+
+axcient -
+					cupertino, ca
+20 hours ago
+
+
+senior full stack web developer/nasa genelab...
+
+logyx, llc -
+					mountain view, ca
+9 days ago
+
+ easily apply
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                        logyx, llc
+
+
+
+2 reviews
+
+                logyx llc (“logyx”) is a professional it and engineering services company located in the heart of silicon valley.  logyx provides it...
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

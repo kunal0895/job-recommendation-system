@@ -1,0 +1,23 @@
+web developer - django expert at digital defense, inc. digital defense, inc.web developer - django expert full-time in  san antonio, tx -  mid level -  r&dare you a server side web application designer who is ready to create highly innovative and interactive web applications using high performance django, redis and sql/no-sql databases? do you prefer to squeeze milliseconds out of optimized database queries and high performance caches over html and css design. we are a san antonio, texas based computer security firm and are looking for a new web developer to work with a small team, tasked with building our next generation user interface. you must have a solid understanding of django and common web programming languages, good design skills, and a passion for excellence.
+skills / requirements:
+
+skilled in designing and building large web applications that utilize high performance principles including database and view caching, denormalized table design, and high performance data structures.
+demonstrated skills using django or similar web frameworks which utilize orm abstraction. experience with django rest framework is a plus.
+good understanding of postgresql (or similar database) features including composite indexes, sharding/partitioning, replication, database connection pooling, and query optimization.
+strong skills using developer tools to optimize querysets, views, and database queries
+familiarity with testing frameworks including unittest and unittest2
+good understanding of json and restful api interaction
+good written and verbal communications skills
+3+ years experience
+
+personality:
+
+highly motivated and self-disciplined
+detail-oriented
+desire the simple, elegant solution over the complex solution
+
+other information: 
+
+all applicants must pass a credit and criminal background investigation prior to employment
+relaxed dress code and work environment
+apply now apply using linkedinpowered bybreezy

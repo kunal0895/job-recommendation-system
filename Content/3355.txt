@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+academic
+
+
+customer portal
+
+
+resource library
+
+
+
+
+
+
+
+
+
+global sites
+
+benelux
+china
+france
+germany
+india
+israel
+italy
+japan
+korea
+netherlands
+spain
+nordic
+taiwan
+united kingdom
+united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+products
+
+
+
+
+academic
+electromagnetics
+embedded software
+fluids
+
+
+
+
+multiphysics
+semiconductors
+structures
+systems
+
+
+
+
+platform
+all products
+
+
+
+
+
+
+solutions
+
+
+
+
+solutions by industry
+aerospace & defense
+automotive
+construction
+consumer goods
+energy
+healthcare
+high-tech
+industrial equipment & rotating machinery
+materials & chemical processing
+
+
+
+
+solutions by application
+electronics applications
+embedded software applications
+fluids applications
+multiphysics applications
+semiconductor applications
+structures applications
+systems applications
+
+
+
+
+solutions by role
+engineers
+executives
+it professionals
+product designers
+managers
+professors
+students
+
+
+
+
+
+
+services
+
+
+
+
+consulting
+ansys training center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+support
+
+
+
+
+customer portal
+
+
+
+
+platform support
+
+
+
+
+
+
+
+
+
+
+about ansys
+
+
+
+
+events
+careers
+news center
+ansys advantage magazine
+dimensions magazine
+
+
+
+
+investor relations
+business ethics
+contacts & locations
+ansys partner network
+
+
+
+
+quality assurance
+social media
+ansys blog
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+home
+about ansys
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer ii - meshing
+
+
+posting location(s):
+united states-pa-pittsburgh metropolitan area
+
+
+company order number:
+17n22017103c
+
+
+# of openings:
+1
+
+
+
+description
+software engineer ii
+pittsburgh, pa
+ 
+job summary
+
+the electronics business unit (ebu) is seeking a software engineer to join ansys development team. the successful candidate will participate in the design, development, support, and maintenance of new and existing meshing algorithms to be used in industry-leading electromagnetics simulation products such as hfss, maxwell, siwave, etc.  this role is part of an ongoing effort to expand the capabilities and advance the performance, and quality of meshing algorithms for large scale electronics applications.
+essential functions
+- responsible for development, support, and maintenance of new and existing finite element meshing algorithms used in electronics simulation products. performs product design and development activities which may require research and analysis.
+- participate in the entire development process including specification, planning, scheduling, development, testing, and support. employ best software practices.
+- work with qa and proxy customers to assess the needs and develop solutions. work across multiple teams to advance meshing algorithms.
+- understand, employ, and maintain best software practices through design and code review, testing, and validation.
+
+job minimum requirements and qualifications
+- master’s degree in computer science, engineering, or related technical field, or a bachelor’s degree in computer science, engineering, or related technical field with three or more years of relevant experience.
+- prior experience developing mesh generation algorithms for cfd, mechanical/stress, or electromagnetics applications.
+- strong software development experience using c++.  good knowledge of data structures, algorithms, and object-oriented design.
+
+other information
+- master’s degree is preferred.
+- knowledge of acis geometry kernel is desired.
+- knowledge of unstructured tetrahedral or triangle mesh generation is desired.
+- prior experience with hpc software development is a plus.
+- prior experience with microsoft visual studio is a plus.
+
+about ansys, inc.
+if you’ve ever seen a rocket launch, flown on an airplane, driven a car, used a computer, touched a mobile device, crossed a bridge, or put on wearable technology, chances are you’ve used a product where ansys software played a critical role in its creation. ansys is the global leader in engineering simulation. we help the world’s most innovative companies deliver radically better products to their customers. by offering the best and broadest portfolio of engineering simulation software, we help them solve the most complex design challenges and engineer products limited only by imagination. join our nearly 3000 professionals in more than 75 strategic locations around the world in making a difference in the world of engineering simulation and product development. visit www.ansys.com for more information.
+
+ansys inspire values
+innovation
+strive for excellence
+passion & intensity
+integrity
+respect & trust
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+          search for jobs
+          
+
+
+
+
+ 
+
+
+
+ 
+          how to apply
+          
+
+
+
+
+ 
+
+
+
+ 
+          life at ansys
+          
+
+
+
+
+ 
+
+
+
+ 
+          benefits
+          
+
+
+
+
+ 
+
+
+
+ 
+          culture and values
+          
+
+
+
+
+ 
+
+
+
+ 
+          community partnerships
+          
+
+
+
+
+ 
+
+
+
+ 
+          campus recruiting
+          
+
+
+
+
+ 
+
+
+
+ 
+          faqs
+          
+
+
+
+
+ 
+
+
+
+
+
+click below to start a conversation with ansys
+ 
+        contact us
+        
+
+
+
+
+
+
+
+
+
+products
+academic
+electronics
+embedded software
+fluids
+multiphysics
+semiconductors
+structures
+systems
+platform
+all products
+
+
+
+
+solutions
+solutions by industry
+solutions by application
+solutions by role
+
+
+
+
+services
+consulting
+ansys training center
+
+
+
+
+support
+customer portal
+platform support
+
+
+
+
+about ansys
+events
+careers
+news center
+ansys advantage magazine
+dimensions magazine
+dimensions magazine
+investor relations
+business ethics
+contacts & locations
+ansys partner network
+quality assurance
+social media
+ansys blog
+
+
+
+
+
+
+
+
+© 2016 ansys, inc. all rights reserved.
+terms and conditions 
+legal notices 
+export control compliance 
+privacy policy 
+site map 
+
+
+
+
+
+
+
+
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

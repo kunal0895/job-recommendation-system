@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ machine learning scientist
+
+
+
+
+
+
+
+
+
+we are building machine learning into office to create intelligent features. we are looking for people who want to build models that will go into production - our current partner teams include word, powerpoint, excel, outlook, office online, office natural language experiences and more.  &nbsp who are we? the oxo machine learning team leverages machine learning and the vast quantities of data from office users to build amazing features in office. we are a growing team with a goal-oriented, startup-like atmosphere, where varied skills are highly valued and the focus is on customer impact and execution speed. we are looking for someone with experience in applied machine learning and a desire to ship machine learning solutions to customers. our team works closely with partner teams to understand places where machine learning can be leveraged for customers, then partners to ship those features.  &nbsp what do we do? build models, improve metrics, innovate. on our team, understanding the customer is just the beginning. you will analyze customer data, work to understand customer problems, build models to assess these problems and then work with partner teams to build and ship machine learning models as customer-facing features. a flexible problem-solving attitude with the ability to work independently are vital. you will work cross-team to produce models that will be learned at scale and deployed at scale to office customers.  &nbsp who are you? an ideal candidate would be experienced in a wide array of ml techniques, with a focus on problem solving rather than a particular method or tool kit. opportunities include user modeling, nlp, data insight generation and many more. experience building and deploying ml models is a definite plus. a desire to do so is required!  &nbsp   &nbsp ideal candidates should have the following:• experience building practical machine learning models with applications to real-world problems.• experience with ml tools to build models and analyze data (e.g. r, python, matlab, scikit-learn).• knowledge of distributed computing systems a plus (e.g. spark, hadoop, hive, cosmos). • demonstrated coding skills.  &nbsp  • natural language processing experience is a plus.  &nbsp  • master’s degree in computer science or statistics, or equivalent work experience.basic qualifications:3+ years of experience building practical machine learning models with applications to real-world problems.microsoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+320240
+1067235
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, redmond (wa)
+
+
+
+
+
+
+job families
+
+
+
+
+
+data & applied sciences (engineering)
+
+
+
+
+
+
+teams
+
+
+
+
+
+office
+
+
+
+
+
+
+
+
+
+
+empower your future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

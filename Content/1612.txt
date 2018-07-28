@@ -1,0 +1,818 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english
+
+english
+
+
+
+contact us
+
+
+ihs online store
+
+
+press
+
+
+investor relations
+
+
+not finding a job?
+
+join our talent community
+view all jobs
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+products & solutions 
+
+
+our expertise
+
+
+events
+
+
+about us 
+
+
+search 
+
+
+
+
+
+search by keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+  menu
+
+search 
+
+
+
+english
+
+japanese
+
+
+
+contact us
+
+
+ihs online store
+
+
+press
+
+
+investor relations
+
+
+not finding a job?
+
+join our talent community
+view all jobs
+
+
+sign in
+
+
+
+
+products & solutions 
+
+
+our expertise
+
+
+events
+
+
+about us 
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+req id: 89486-en_us,
+date: 
+dec 7, 2017
+                
+,
+
+location: 
+us,co,lakewood,1819 denver wes
+
+
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+for ihs markit prospects
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+find similar jobs: 
+
+software development and it jobs,
+all jobs at ihs
+
+
+
+
+software engineer
+about ihs markit
+ihs markit harnesses deep sources of information, analytics and expertise to forge solutions for the industries and markets that drive global economies. our company partners with clients in business, finance and government to provide the unrivaled insights and perspectives that lead to well-informed, confident decisions. we call this the new intelligence. ihs markit serves more than 50,000 key customers in more than 140 countries, including 80 percent of the fortune global 500.  we help decision makers apply higher-level thinking to daily tasks and strategic issues across a host of industries and disciplines including energy, finance, automotive, engineering, technology, maritime and trade, aerospace and defense, chemical, and economics and country risk. 
+
+headquartered in london, ihs markit (nasdaq: info) is committed to sustainable, profitable growth.
+title:  software engineer
+summary
+the primary responsibility of this position is to develop and deliver commercial software solutions for ihs markit for internal and external use. solutions will include support and growth of north american land products using web technologies and database technologies, incorporation of third party gis technology (e.g. esri), and web data/map services.  incumbent has knowledge across a broad spectrum of programming languages and techniques and applies both existing and new technologies in developing solutions.
+general job duties 
+
+collaborate with strategic marketing, product management and customers to determine best solution to meet customer’s business needs.
+work in conjunction with sales, strategic marketing and product management to execute the portfolio process.
+design, plan and develop solutions based on industry requirements.
+resolve complex design problems.
+establish testing procedures to ensure application are thoroughly tested
+perform other duties as required.
+work with highly innovative and dynamic development team.
+take initiative and work independently on certain projects, while contributing to a large team on others.
+	 
+
+
+specific job duties
+duties will include but may not be limited to:
+
+
+ensure consistent implementation of company software development processes and standards.
+
+
+coordinate closely with the system architect to create appropriate designs and provide input to the architecture.
+
+
+ensure system capacity, performance and failure recovery architecture including design and execution of both functional and non-functional tests.
+
+
+tight collaboration with product managers and expert business analysts. comprehension of business specifications and an ability to implement well designed solutions based off of the defined requirements.
+
+
+provide input to requirements regarding development limitations.
+
+
+apply knowledge of industry trends and developments to improve service to our clients.
+
+
+education/experience requirements
+
+
+bachelor’s degree in computer science or related field
+
+
+4+ years of experience in software development
+
+
+asp.net 3.5/4.5+ c#
+
+
+sql server 2008 - 2016 (very strong sql skills, database design, sql performance optimization techniques required)
+
+
+hands on web front-end ui development experience: html, css, javascript, jquery, ajax, xml
+
+
+experience in all phases of the sdlc.
+
+
+visual studio 2015 / 2017
+
+
+git/team foundation server
+
+
+proficient with object oriented analysis, design concepts and design patterns.
+
+
+ability to critically review, debug and diagnose existing application codebase across all application tiers.
+
+
+experience working with messaging technologies such as mq, jms, soap, wcf, rest, and fpml is a big plus.
+
+
+familiarity with agile development process is a plus.
+
+
+experience with test driven development is a plus
+
+
+organizational relationships
+
+reports directly to senior manager, product development and delivery
+acts in a supporting capacity on small to mid-sized programs, but has no direct supervisory responsibility.
+interacts with other colleagues at all levels in the conduct of day-to-day activities.
+	 
+
+
+external relationships
+
+frequently interacts with customers at the executive level.
+actively participates in industry forums and user groups
+
+ 
+we are proud to be an eeo/aa employer m/f/disability/veterans. please refer to the  eeo is the law poster & supplement, right to work and pay transparency policy.  ihs is a participant in e-verify (see links below).  we maintain a drug-free workplace and perform pre-employment drug testing.
+ 
+eeo is the law
+eeo is the law supplement
+right to work
+pay transparency policy
+e-verify
+ 
+ihs markit endeavors to make our career sites accessible to any and all users. if you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact accommodation@ihs.com or call 303-858-6891. this contact information (email and phone) is intended for accommodation requests only.  unfortunately we are unable to accept resumes or provide information about application status through the email address above.
+ 
+resumes are only accepted through the online application process, and only qualified candidates will receive consideration and follow-up.
+
+
+
+
+
+job segment: 
+developer, engineer, geology, gis, software engineer, technology, engineering
+                    
+
+
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+email*
+
+password*
+
+forgot password?
+
+sign in 
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+products & solutions
+our expertise
+events
+company
+
+
+
+
+ ihs customer login 
+ corporate sustainability 
+ investor relations 
+ press 
+
+
+
+
+ http://shop.ihs.com 
+support
+ contact us 
+locations
+
+
+
+ connect with ihs 
+
+
+
+
+
+
+
+
+
+
+
+top job searches
+view all jobs
+privacy policy
+career home
+ihs
+
+
+
+copyright ©2014 ihs inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,439 @@
+
+
+
+hub jobs - big data engineer in chicago, illinois, united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+join talent community
+current employees
+returning candidates
+
+
+languages
+spanish
+french
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+about hub
+life at hub
+sales
+account management
+everything else
+canada
+veterans
+
+
+
+
+
+
+
+
+
+about hub
+life at hub
+
+career areas
+
+sales
+account management
+everything else
+
+
+canada
+transitioning military
+
+
+
+
+
+
+
+
+
+
+
+
+where
+
+
+
+
+what
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                
+                    hub jobs
+                
+            
+        
+
+
+
+
+
+
+where
+
+city, state, country
+
+
+what
+
+job title, keywords
+
+
+
+
+
+
+
+
+
+
+
+home
+
+            view all jobs
+            
+(352)
+
+
+
+
+
+
+
+
+
+
+
+
+hub international
+
+
+big data engineer in
+            
+chicago, illinois
+
+
+
+
+
+
+
+
+about us:
+hub international limited (“hub”) is the 7th largest global insurance and employee benefits broker, providing a broad array of property, casualty, risk management, life and health, employee benefits, investment and wealth management products and services.  with over 10,000 employees in 450 offices throughout north america, hub has grown substantially, in part due to our industry leading success in mergers and acquisitions. the company is headquartered in chicago and is currently owned by hellman & friedman.
+about the position:
+the hadoop developer will develop applications utilizing big data and machine learning. if you have experience with big data solutions, you have a wealth of opportunities to grow your career.
+responsibilities:
+
+responsible for designing, developing, testing, and deploying distributed machine learning systems and large-scale data mining solutions
+designs and implements data-oriented applications using a wide variety of technologies, including microsoft’s cloud technology stack (azure).
+implement data-intensive, horizontally-scalable systems (such as on map-reduce frameworks like hadoop, spark, etc.).
+develops distributed applications to solve large scale processing problems, utilizing various languages like java, scala, shell etc.
+implements, troubleshoots, and optimizes solutions based on modern big data technologies like hadoop, spark, elastic search, storm, kafka, etc. in both an on premise and cloud deployment model
+establishes strong teamwork with client technical resources, and effectively communicates project status, technical issue options and resolution, and operational requirements to client stakeholders
+research and development of novel technologies and methodologies for extreme scale data analytics, big data processing, data mining, and machine learning on traditional and emerging computing architectures
+serve as a member of a data team that solves complex challenges and builds working database solutions using sql server, t-sql, ssis, stored procedures, views, user-defined functions, and table functions
+
+requirements:
+
+bachelor’s or master’s degree in computer science, engineering, information systems or related field preferred
+overall 3-5 years’ experience with minimum of 1 year on hadoop or a closely related technology
+experience with one or more of the cloud products: azure, amazon aws
+expert in the hadoop framework & java programming (i.e. spark, mapreduce, pig, hive, kafka, storm, etc.) including performance tuning
+good understanding of algorithms, data structure, and performance optimization techniques
+experience with agile development methodologies like scrum
+self-motivated, and has the ability to drive technical discussions
+organized, detail oriented, able to work both independently and in a team
+excellent problem solver, analytical thinker and quick learner
+strong verbal and written communication skills
+proficient in data architecture, master data management and governance
+experience in nosql db such as cassandra and mongodb
+certifications a plus: amazon, cloudera, spark
+
+#li-mp1
+location:  united states, illinois, chicago 
+required education:  bachelor's degree (4-year degree) 
+required experience:  7-10 years 
+required travel:  no travel required 
+date published:  18-aug-2017 
+department:  information technology 
+ref#:  p1391_20170816
+hub international limited is an equal opportunity and affirmative action employer that does not discriminate on the basis of race/ethnicity, national origin, religion, age, color, sex, sexual orientation, gender identity, disability or veteran's status, or any other characteristic protected by local, state or federal laws, rules or regulations. the eeo is the law poster and its supplement is available here  at http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm .
+we endeavor to make this website accessible to any and all users. if you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact the us recruiting team toll-free at (844) 300-9193 or usrecruiting@hubinternational.com . this contact information is for accommodation requests only; do not use this contact information to inquire about the status of applications.
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+apply now
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current search criteria
+
+
+
+
+              big data engineer
+            
+
+
+
+              chicago
+            
+
+
+
+              illinois
+            
+
+clear all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with hub
+
+
+
+
+
+facebook
+
+
+
+
+
+linkedin
+
+
+
+
+
+twitter
+
+
+
+
+
+youtube
+
+
+
+
+
+glassdoor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+explore office locations
+
+
+products
+
+
+industries
+
+
+programs & associations
+
+
+blog
+
+
+
+
+
+
+about hub
+
+
+management
+
+
+caring and giving
+
+
+mergers & acquisitions
+
+
+press releases
+
+
+
+wholesale
+
+
+
+
+
+
+how we get paid
+
+
+investor relations
+
+
+
+
+
+
+
+
+
+
+
+						©  hub international limited. all rights reserved.
+					
+privacy policy
+terms & conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

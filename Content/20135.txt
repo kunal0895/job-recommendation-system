@@ -1,0 +1,702 @@
+
+
+
+
+
+.net developer at conduent
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      what we do what we dowhat we dowhat we dowhat we doindustriesautomotive, aerospace and defensebanking and capital marketscommunications and mediahealthcarehigh techindustrials and energyinsurancepublic sectorpublic transportation and mobilityretail and consumertravel and hospitalityservicescompliance servicescustomer experiencedigital paymentsdigital processingfinance and accountinghealthcare solutionshuman resource serviceslearning serviceslegal solutionsprocurement servicespublic sectorworkers compensationwhy conduentinsights insightsinsightsinsightsinsightsservice insightscompliance servicescustomer experiencedigital paymentsdigital processingfinance and accountinghealthcare solutionshuman resource serviceslearning serviceslegal solutionsprocurement servicespublic sectorworkers compensationindustry insightsautomotive, aerospace and defensebanking and capital marketscommunications and mediahealthcarehigh techindustrials and energyinsurancepublic sectorpublic transportation and mobilityretail and consumertravel and hospitalityblogsconduent blogconduent ediscovery and compliancehr insightsinsights for government agenciesinnovation innovationinnovationinnovationinnovationconduent labs u.s.conduent labs indiaabout aboutaboutaboutleadershipexecutive councilboard of directorscorporate leadershipcorporatecorporate governanceenvironment, health and safetysupplier relationsresearch and innovationinnovationconduent labs u.s.conduent labs indianewsinvestorscareerscontact
+skip navigation
+
+
+
+
+
+
+search
+
+
+keyword
+
+
+
+category
+select
+accounting
+administrative / clerical support
+administrative support
+attorneys
+audit & compliance
+benefits
+buck consulting-actuarial
+buck consulting-nonactuarial
+business & market segment development
+business operations
+business performance & improvement
+business process improvement
+client services
+client solution development
+communications (int., ext., pr)
+compensation
+credit & collections
+customer business operations
+customer care
+customer care - inactive
+customer support & administration
+design & development engineering
+direct sales
+electrical & electronics engineering
+external project management
+facilities & maintenance
+financial planning & analysis
+general management
+government relations
+group or unit gm
+human resources
+im architecture
+im business analysis
+im engineering
+im security
+im service delivery
+im support
+information management
+inside sales (telesales)
+investor relations
+mail room & print services
+marketing
+materials handling production support
+organization learning & development
+payroll
+pricing, bid or contract management
+product & systems design engineering
+professional services
+project management
+purchase ordering
+purchasing
+quality assurance
+r&d, computer science & engineering
+real estate services
+sales management
+sales support
+security
+service delivery client network services
+service delivery healthcare
+service delivery management
+service delivery operations
+service delivery payment services
+service delivery site coordination
+service delivery transaction processing
+software engineering
+staffing & resourcing
+strategic & large account management
+technical helpdesk
+training
+treasury
+workforce administration
+
+
+
+country
+select
+brazil
+canada
+colombia
+czechia
+dominican republic
+france
+germany
+guatemala
+india
+jamaica
+malaysia
+mexico
+netherlands
+philippines
+poland
+puerto rico
+romania
+turkey
+united kingdom
+united states
+
+
+
+state
+select
+alaska
+arizona
+auvergne-rhône-alpes
+bogota d.c.
+calabarzon
+california
+central visayas
+chihuahua
+colorado
+connecticut
+delaware
+departamento de guatemala
+england
+florida
+georgia
+guaynabo municipio
+hamburg
+hauts-de-france
+hawaii
+hesse
+idaho
+île-de-france
+illinois
+indiana
+iowa
+istanbul
+judeţul iaşi
+kansas
+karnataka
+kentucky
+kerala
+kingston
+kuala lumpur
+limburg
+lodz
+louisiana
+lower saxony
+maryland
+massachusetts
+mecklenburg-vorpommern
+michigan
+minnesota
+mississippi
+missouri
+montana
+moravskoslezský kraj
+nacional
+national capital region
+new hampshire
+new jersey
+new mexico
+new york
+north brabant
+north carolina
+north dakota
+north holland
+north rhine-westphalia
+nuevo león
+ohio
+oklahoma
+ontario
+oregon
+pennsylvania
+provincia de santiago
+provincie flevoland
+provincie overijssel
+provincie utrecht
+rhode island
+saint catherine
+saint james
+são paulo
+saxony-anhalt
+schleswig-holstein
+scotland
+selangor
+sonora
+south carolina
+south holland
+tamil nadu
+tennessee
+texas
+ústecký kraj
+utah
+uttar pradesh
+virginia
+washington
+washington, d.c.
+wisconsin
+wyoming
+
+
+
+city
+select
+albany
+albuquerque
+allen park
+almere stad
+amarillo
+amersfoort
+anchorage
+anderson
+arkansas city
+arlington
+atlanta
+austin
+bakersfield
+baltimore
+basking ridge
+baton rouge
+bengaluru
+berkeley
+berwyn
+bethesda
+bloomington
+boca raton
+bogotá
+boise
+boston
+bristol
+buffalo
+camarillo
+carol stream
+carrollton
+cary
+cebu city
+charlotte
+chattanooga
+chennai
+cherry hill
+chesapeake
+cheyenne
+chicago
+ciudad juárez
+cologne
+colorado springs
+columbia
+columbia
+columbus
+concord
+crown point
+dallas
+dearborn
+detroit
+east hartford
+easton
+edinburgh
+el paso
+elkridge
+endicott
+enschede
+erlanger
+everett
+falls church
+fargo
+farmers branch
+federal way
+fishers
+florence
+florham park
+fort myers
+fort wayne
+fresno
+frostburg
+gardena
+germantown
+glen burnie
+göttingen
+greenwood village
+guatemala city
+guilherand-granges
+halle
+hamburg
+hamilton
+harrisburg
+helena
+henderson
+hermosillo
+hilversum
+honolulu
+houston
+iași
+indianapolis
+irvine
+istanbul
+jackson
+jacksonville
+jefferson city
+kassel
+kiel
+kingston
+knoxville
+kochi
+kuala lumpur
+lacey
+lakeland
+lansing
+lexington
+łódź
+london
+los angeles
+lübeck
+lynnfield
+maastricht
+madison
+magdeburg
+manchester
+manila
+maumee
+memphis
+miami
+middletown
+milwaukee
+minneapolis
+mississauga
+montego bay
+monterrey
+monticello
+naperville
+nashville
+new castle
+new orleans
+new york
+newark
+noida
+norcross
+north charleston
+north haven
+north wales
+ocoee
+orlando
+ostrava
+overland park
+palmdale
+paranaque city
+paris
+pasadena
+philadelphia
+phoenix
+pittsburgh
+plano
+pomona
+poole
+portland
+portland
+portmore
+providence
+quincy
+raleigh
+rancho cordova
+redmond
+richmond
+richmond
+ridgeland
+rochester
+rosemont
+rotterdam
+roubaix
+sacramento
+san antonio
+san francisco
+san jose
+sandy
+santo domingo
+são paulo
+savannah
+schwerin
+scott air force base
+seattle
+secaucus
+somerset
+st louis
+stockbridge
+stroudsburg
+subang jaya
+tallahassee
+tarrytown
+tempe
+terre haute
+tigard
+tilburg
+toledo
+toronto
+troy
+tucson
+urbandale
+ústí nad labem
+valence
+waite park
+warren
+washington
+webster
+west lafayette
+west sacramento
+west windsor
+wismar
+yukon
+zwolle
+
+
+
+search
+reset
+
+
+
+
+
+
+
+
+
+
+
+.net developer - west sacramento, california
+
+
+apply
+
+
+
+
+
+overview
+success profile
+rewards
+responsibilities
+location
+
+
+
+
+overview
+
+as a member of the corporate team, you’ll focus on enhancing the relationship with our clients as we provide outstanding business solution services. within departments like accounting & finance, human resources, and engineering, conduent is actively staffing all teams with roles like recovery analyst, client services specialist, and senior management consultant. at conduent, we give our employees the opportunity to further develop their career skills with the intention of growing them into leaders within the organization.
+
+full time
+experienced
+professional development opportunities
+
+
+back to job navigation (overview)
+
+
+success profile
+what will make you successful at conduent? check out the traits we’re looking for and see if you have the right mix.
+
+
+adaptable  9
+detail-oriented 9
+multi-tasker 8
+strategic 10
+expressive presenter 6
+conceptual 4
+
+traits are on a scale of 1 to 10
+addtional traits
+
+insightful
+organized
+consistent
+efficient
+focused
+logical
+responsible
+versatile
+
+
+back to job navigation (success)
+
+
+
+rewards
+
+
+
+healthcare
+comprehensive coverage with flexible options, including fsa and hsa.
+
+
+
+balance
+maintaining a work/life balance is the key to success.
+
+
+
+collaboration
+department learning opportunities and company-wide digital knowledge share.
+
+
+
+compensation
+competitive salaries.
+
+
+
+family support
+additional resources to support employees with families.
+
+
+
+professional development
+conduent offers programs to help advance the careers of our employees.
+
+
+back to job navigation (rewards)
+
+
+
+responsibilities
+
+requisition id: 17027728primary location:united states-california-west sacramentovitrual/work from home:nocategory:software engineeringdescriptionconduent is the world's leading enterprise for business process. its services, technology, and expertise enable workplaces - from small businesses to large global enterprises - to simplify the way work gets done so they operate more effectively and focus more on what matters most: their real business. conduent offers business process outsourcing and it outsourcing services, including data processing, healthcare solutions, hr benefits management, finance support, transportation solutions, and customer relationship management services for commercial and government organizations worldwide. conduent serves clients in more than 160 countries. for more information, visithttps://www.conduent.com/..net developerresponsibilitiesdesign, build, deploy, and maintain efficient, reusable, and reliable codeintegrate data storage solutionsensure the best possible performance, quality, and responsiveness of applicationsidentify bottlenecks and bugs, and devise solutions to mitigate and address these issueshelp maintain code quality, organization, deployment, and automatingdocument any new or existing undocumented processeshelp sr. developers with tasks for any development work neededhelp technical support team with any tasks that require research and analysis with the applicationrequirementsstrong expert-level knowledge of .net web frameworkstrong proficiency in c#, with a good knowledge of object oriented programming.strong skills in writing reusable librariesgood knowledge of various design and architectural patternsgood knowledge of concurrency patternsstrong knowledge of microsoft sql server & microsoft sql server reporting services.strong knowledge of popular web application frameworksstrong knowledge of writing clean, readable, and easily maintainable codestrong understanding of fundamental design principles for building a scalable applicationexpert-level knowledge in creating database schemas that represent and support business processesgood understanding of common language runtime (clr), its limitations, weaknesses, and workaroundsstrong knowledge of automated testing platforms and unit testsstrong knowledge of developing technical documentationgood interpersonal and communication skills to work with technological team members and business analystsat least 5-7 years of experience as a technical developer3-5 years of experience in mmis (medicaid management information systems) / slr (state level registry) platformseducational requirementsbachelors degree in the computer field preferredappropriate microsoft certifications preferredconduent is an equal opportunity employer and considers applicants for all positions without regard to race, color, creed, religion, ancestry, national origin, age, gender identity, gender expression, sex/gender, marital status, sexual orientation, physical or mental disability, medical condition, use of a guide dog or service animal, military/veteran status, citizenship status, basis of genetic information, or any other group protected by law. people with disabilities who need a reasonable accommodation to apply for or compete for employment with conduent may request such accommodation(s) by clicking on the following link, completing the accommodation request form, and submitting the request by using the “submit” button at the bottom of the form. for those using google chrome or mozilla firefox please download the form first:click here to access or download the form.#a13travel:nojob type:experiencedorganization:public sector
+
+                
+apply
+
+
+
+
+
+
+share
+
+facebook
+linkedin
+twitter
+email
+
+
+
+conduent employees - enter your email to refer a friend
+
+want to share this job with a friend? please enter your email address below, and then use the icons to let people know about this great opportunity!
+
+
+email
+
+
+submit
+
+
+
+
+
+
+
+work in west sacramento
+view map
+
+back to job navigation (location)
+
+
+
+
+
+
+the conduent difference
+we’re the world’s largest business process services company — and we’re modernizing the constituent experience.
+learn more
+
+
+
+
+
+industries
+we improve moments in millions of lives in a variety of industry sectors.
+learn more
+
+
+
+
+
+innovations
+we celebrate new ideas and turn them into unique customer value.
+learn more
+
+
+
+
+
+related jobs
+
+
+customer care associate ii
+tallahassee, florida united states
+
+
+benefits, associate ii
+cary, north carolina united states
+
+
+qa sr. associate
+somerset, new jersey united states
+
+
+
+
+job matching
+let us search jobs for you based on the skills and experience listed in your linkedin profile.
+
+
+
+
+
+
+
+sign up for job alerts
+join our talent network and get conduent news and job alerts delivered to your inbox.
+
+
+emailinterested insearch for a category, location, or category/location pair, select a term from the suggestions, and click "add."categorylocationaddsoftware engineering, west sacramento, california, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about conduent
+sitemap
+
+
+
+
+
+
+follow
+
+facebook
+twitter
+linkedin
+youtube
+instagram
+xing
+
+
+
+
+
+ newsinvestorscareersprivacylegalprivacy choices© 2017 conduent business services, llc. all rights reserved. conduent and conduent agile star are trademarks of conduent business services, llc in the united states and/or other countries.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,316 @@
+
+
+
+
+
+
+senior engineer – machine learning – spotify jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job categories
+locations
+backstage
+students
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+job categories
+locations
+backstage
+students
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior engineer – machine learning
+
+data & analytics / machine learning in new york, usa 
+
+
+
+spotify is looking for a senior machine learning engineer to join our team. you will work on a variety of problems such as content recommendation, personalization, optimization, user intelligence, and content classification. you will work with a team to come up with new and interesting hypotheses, test them, and scale them up to huge data sets with hundreds of billions of data points. above all, your work will impact the way the world experiences music.  what you’ll do
+
+apply machine learning, collaborative filtering, nlp, and deep learning methods to massive data sets
+prototype new algorithms, evaluate with small scale experiments, and later productionize solutions at scale to our 75 million active users
+collaborate with a cross functional agile team of software engineers, data engineers, ml experts, and others to build new product features
+help drive optimization, testing and tooling to improve data quality
+iterate on recommendation quality through continuous a/b testing
+work from our office in new york or boston
+
+who you are
+
+ph.d. or m.sc. in machine learning, or related field preferred
+you have experience implementing machine learning systems at scale in java, scala, python or similar (not just r or matlab)
+you have a strong mathematical background in statistics and machine learning
+you care about agile software processes, data-driven development, reliability, and responsible experimentation
+you preferably have experience with data processing and storage frameworks like hadoop, scalding, spark, storm, cassandra, kafka, etc.
+you preferably have machine learning publications or work on open source to share with us
+
+we are proud to foster a workplace free from discrimination. we strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our users and our creators. this is something we value deeply and we encourage everyone to come be a part of changing the way the world listens to music.
+
+
+
+
+share
+
+						save					
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+
+
+
+job
+category
+location
+
+
+
+
+
+
+data engineer
+
+
+
+analytics, data & analytics, engineering & it, software engineering 
+
+london, uk 
+
+
+
+
+product insights manager – advertising product and platforms
+
+
+
+data & analytics, design & ux, product design, user research 
+
+new york, usa 
+
+
+
+
+user researcher
+
+
+
+data & analytics, design & ux, product design, user research 
+
+stockholm, sweden 
+
+
+
+
+user researcher
+
+
+
+data & analytics, design & ux, product design, user research 
+
+boston, usa 
+
+
+
+
+
+
+
+
+
+
+
+							more jobs						
+
+
+
+
+
+
+
+related content
+
+
+
+
+
+
+
+ 
+
+								data & analytics							
+see more jobs in data & analytics.
+
+
+
+
+
+ 
+
+								new york							
+see more jobs in new york.
+
+
+
+
+
+
+
+
+spotify
+company
+
+about
+press
+news
+
+
+communities
+
+for artists
+developers
+brands
+
+
+useful links
+
+help
+gift
+web player
+
+
+
+
+
+
+
+
+instagram
+
+
+
+
+
+twitter
+
+
+
+
+
+facebook
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+legal
+cookies
+
+
+© 2017 spotify ab  |  powered by wordpress.com vip
+
+powered by wordpress.com vip
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,422 @@
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+								about us
+
+
+
+
+
+
+
+corporate overview
+
+
+mission statement
+
+
+certifications/partnerships
+
+
+training
+
+
+
+
+
+
+
+								services
+
+
+
+
+
+
+
+customized it solutions
+
+
+software products & solutions
+
+
+it consulting/staffing
+
+
+erp / sap consulting
+
+
+outsourcing/offshore development
+
+
+temporary staffing
+
+
+
+
+
+
+
+								industries
+
+
+
+
+
+
+
+									government
+									
+
+
+
+
+
+
+government solutions
+
+
+contract vehicles
+
+
+
+
+
+
+financial
+
+
+energy and utilities
+
+
+pharmaceuticals
+
+
+retail
+
+
+technology & telecom
+
+
+healthcare
+
+
+
+
+
+
+clients
+
+
+
+								careers
+
+
+
+
+
+
+
+open positions
+
+
+work culture
+
+
+training
+
+
+benefits
+
+
+
+
+
+
+
+								contact us
+
+
+
+
+
+
+
+contact details
+
+
+request for information
+
+
+
+
+
+
+
+
+
+
+			  careers  open positions
+
+
+
+
+
+
+open positions
+
+
+
+
+work culture
+
+
+
+
+training
+
+
+
+
+benefits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						job details
+
+
+
+
+
+
+
+
+					job id
+				
+
+					:
+				
+
+pru-206
+					  
+				
+
+
+
+					position title
+				
+
+					:
+				
+
+javascript developer
+
+
+
+
+					job duration
+				
+
+					:
+				
+
+12 months
+
+
+
+
+					employment type
+				
+
+					:
+				
+
+contract 
+
+
+
+
+					compensation
+				
+
+					:
+				
+
+doe
+
+
+
+
+					compensation type
+				
+
+					:
+				
+
+w2 hourly
+
+
+
+
+					location
+				
+
+					:
+				
+
+charlotte,nc
+
+
+
+
+					start date
+				
+
+					:
+				
+
+30 oct 2017
+
+
+
+
+					job description
+				
+
+					:
+				
+
+we are looking for a javascript developer who is motivated to combine the art of design with the art of programming. responsibilities will include implementing visual elements and their behaviors with user interactions. you will work with both front-end and back-end web as designer & developer to build all client-server logic. you will also be bridging the gap between the visual elements and the server-side infrastructure, taking an active role on both sides, and defining how the application looks and also functions.
+
+responsibilities
+•             develop new user-facing features
+•             build reusable code and libraries for future use
+•             ensure the technical feasibility of ui/ux designs
+•             optimize applications for maximum speed and scalability
+•             assure that all user input is validated before submitting to back-end services
+•             collaborate with other team members and stakeholders
+•             design server side logic using node js
+•             integrate with various providers of data like solace, oracle coherence
+•             implement asynchronous implementation and focus on performance and usability to provide more of a thick client look and feel
+
+skills and qualifications
+
+•             strong understanding of javascript
+•             understanding of web markup, including html5 and css3
+•             good understanding of advanced javascript libraries and frameworks such as angularjs, nodejs
+•             good experience with javascript frameworks such as react, socket.io, d3
+•             good understanding of asynchronous request handling, partial page updates
+•             proficient understanding of chromium engine
+•             experience with openfin
+•             familiarity with front-end build tools, such as grunt and gulp.js
+•             proficient understanding of code versioning tools, such as git / svn
+
+
+
+
+					required skills
+				
+
+					:
+				
+
+•             good understanding of browser rendering behavior and performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 
+				
+
+
+
+
+
+
+					 
+
+
+
+
+					                
+				
+
+
+
+
+
+
+
+
+				© 2011 prutech solutions, inc. all rights reserved.
+			
+
+
+					developed by prutech solutions
+
+
+
+
+

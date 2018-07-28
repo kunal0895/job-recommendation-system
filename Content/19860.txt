@@ -1,0 +1,385 @@
+
+
+front end developer - careers at ef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+about ef
+all ef programs
+ef offices
+careers at ef
+
+
+international
+
+
+
+
+
+
+
+中文
+
+
+
+
+
+
+
+
+
+
+
+
+                        shortlist ({{jobslist.length>0 ? jobslist.length : 0}})
+                    
+
+
+
+ all jobs
+                    
+
+
+
+international
+
+
+
+
+
+
+
+中文
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about ef
+all ef programs
+ef offices
+
+careers at ef
+
+
+
+                                            overview
+                                        
+
+
+
+                                            job categories
+                                        
+
+
+
+                                            locations
+                                        
+
+
+
+                                            working at ef
+                                        
+
+
+
+
+
+
+
+
+
+
+
+                            shortlist (1)
+                        
+
+
+
+
+
+
+
+
+                            all jobs
+                        
+
+
+
+
+
+
+
+
+
+
+                            overview
+                        
+
+
+
+                            job categories
+                        
+
+
+
+                            locations
+                        
+
+
+
+                            working at ef
+                        
+
+
+
+
+                    shortlist
+                
+
+start adding jobs to your shortlist
+
+
+
+{{job.title}}{{ job.city.name }}
+{{ job.department }}{{ (job.experiencelevel != 'not applicable') ? ' - ' + job.experiencelevel : ''}}
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+o9rv6fwl
+
+
+
+front end developer
+ef education first
+
+
+cambridge
+                    
+
+                        full-time
+                    
+
+                        mid-senior level
+                    
+
+ technology
+
+
+
+
+
+apply for this job
+
+ share
+shortlist
+shortlisted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+front end developer who are we and what do we do?  labs @ ef tours is the group of technology and creative professionals empowering ef to send groups of students and educators on guided educational tours across the world. we power every step of our customer’s journey with us, from browsing our many tour offerings and enrolling on the web, through collecting feedback after the tour. over the course of your career with us, you’ll have the opportunity to try your hand at everything from designing beautiful customer front end interactions, to solving large scale resource allocation problems, and everything in between. what specifically will you be doing?you will be working on a small, largely autonomous product team (around seven people), focusing on delivering quality applications, tools and enhancements within our larger front-end ecosystem. working closely with the product owner, backend developer and ui/ux designers, you will develop modern web applications, collaborate with ui/ux designers, help gather requirements and set expectations. so in sort, you’ll be doing things like: working with javascript, react, .net, sitecore and sass to help us build an efficient and sustainable front-end ecosystembuilding new features and applications in order to better serve our usersworking closely with ui and ux designers to iterate on our customer experienceidentifying and addressing performance issuescontribute to the front end chapter by building and iterating on site-wide features and changes, discussing new technologies, patterns and tools, and maintaining best practices. who are we're looking for:we are looking for someone who is passionate, and thrives in a collaborative, cooperative environment. someone who gets excited about new technology and new approaches to enhancing the quality and value of the software we deliver. we ask that you have at least 2-3 years of experience with: javascript / es2016react and other libraries and frameworksthe latest html, css and sass we also ask that you have: experience with developing responsive, mobile optimized applicationsexperience with webpack, task runners and node/npmexperience with cross-browser/device compatibility issues and client-side performance considerationsenthusiasm about learning and following best practicesbonus points: experience with .net mvc and visual studio let’s talk about the perks. we believe that happy people do great work. what makes us happy? things like: the opportunity to travel internationally with our customers (and without too, of course)three weeks paid vacation your first year, and four weeks after your first yearfree in-house language classesfree in-house workout classesa restaurant and bar right inside our buildingdiscounts on ef products including our travel and language programsmarket-leading benefits package including top of the line health coverage, 401k with company match, tuition reimbursement, and more
+
+
+
+location and category
+
+
+
+
+
+cambridge
+
+
+
+
+                     two education circle cambridge, ma, 02141 usa
+                
+
+
+
+
+
+
+
+technology
+back to top
+
+
+
+
+                building the future of learning: web & application development, system administration and technical support in addition to hardware, software and networking management.
+            
+
+
+
+
+what our people say
+
+
+
+
+                        knowing i could move departments to better harness my strengths was empowering and has helped me grow professionally and personally.
+                    
+gretchen carey
+ux researcher, labs @ ef tours
+
+
+
+
+                        ef's mission is to create global citizens, and the work culture perfectly embodies that. i’ve been given the opportunity to transfer to shanghai... i'm writing this from the office in jiao’tong!
+                    
+alex zito-wolf
+front-end developer, learning labs
+
+
+
+
+
+apply for this job
+
+share
+shortlist
+shortlisted
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+location and category
+what our people say
+
+all jobs
+
+
+
+
+
+
+
+            back to top
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ef home
+ about ef
+ careers
+ contact us
+
+
+
+                        follow ef on 
+
+
+
+more  
+
+
+
+
+                            copyright © ef education first ltd. all rights reserved.
+                        
+privacy policy
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

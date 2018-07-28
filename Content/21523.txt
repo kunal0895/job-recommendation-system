@@ -1,0 +1,678 @@
+ 
+
+
+
+bae systems: jr. software engineer â server-side developer in san diego, ca, united states (31868br)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+this website uses cookies. by navigating around this site you consent to cookies being stored on your machine
+
+accept
+edit your cookie settings
+
+
+ 
+
+
+
+
+skip to content
+
+
+search input
+search button
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+united states
+
+
+
+
+select your region
+
+ international
+
+
+
+ united kingdom
+
+
+
+ united states
+
+
+
+ saudi arabia
+
+
+
+
+
+
+
+							english
+							
+
+
+
+
+
+							ø§ùø¹ø±ø¨ùø©
+							
+
+
+
+
+
+
+ australia
+
+
+
+
+
+
+ 
+
+
+
+providing defense for business 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+multimedia
+contact us
+
+
+search input
+search button
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home 
+  what we do 
+
+
+
+
+products & services 
+
+future technologies
+
+
+air
+
+
+land
+
+
+cyber security & intelligence
+
+
+electronics
+
+
+services
+
+
+sea
+
+
+
+
+
+
+
+
+ suppliers 
+
+
+working with suppliers 
+													
+
+
+
+our key markets 
+													
+
+
+
+australia 
+													
+
+
+
+india 
+													
+
+
+
+saudi arabia 
+													
+
+
+
+united kingdom 
+													
+
+
+
+united states 
+													
+
+
+
+
+
+
+
+
+ our company 
+
+
+
+
+bae systems, inc. 
+
+
+about us 
+													
+
+
+
+community investment 
+													
+
+
+
+products & services 
+													
+
+
+
+newsroom 
+													
+
+
+
+us suppliers 
+													
+
+
+
+special security agreement 
+													
+
+
+
+
+
+our people 
+
+
+inc. board of directors 
+													
+
+
+
+inc. leadership 
+													
+
+
+
+board of directors 
+													
+
+
+
+executive committee 
+													
+
+
+
+
+
+corporate responsibility 
+
+
+code of conduct 
+													
+
+
+
+
+
+
+
+
+ inc. businesses 
+
+
+electronic systems 
+													
+
+
+
+intelligence & security 
+													
+
+
+
+platforms & services 
+													
+
+
+
+
+ our locations  
+
+ education  
+
+
+
+
+
+ investors  
+
+ newsroom 
+
+
+
+
+features 
+
+ investing in the next generation of engineers
+
+
+
+ their mission. our promise.
+
+
+
+ space resiliency:
+	navigating the space above
+
+
+
+
+
+
+
+
+
+ news 
+ 
+
+bae systems to help u.s. treasury investigate, track cash flow of organizations to protect national security
+may 10 2017
+
+
+
+
+2017 annual general meeting
+may 10 2017
+
+
+
+
+usafâs f-15 modernization program epawss successfully completes latest milestone
+may 1 2017
+
+
+
+
+
+ events 
+
+
+special operations forces industry conference (sofic) 
+may 15 - 18 2017 | tampa, fl, united states of america
+
+
+
+
+
+2017 geoint symposium
+jun 4 - 7 2017 | san antonio, tx , united states of america
+
+
+
+
+
+
+
+
+
+
+ careers 
+
+
+
+
+exploring your career at bae systems 
+
+
+career areas 
+													
+
+
+
+experienced professionals 
+													
+
+
+
+veterans 
+													
+
+
+
+interns and recent graduates 
+													
+
+
+
+
+
+
+
+
+ search jobs  
+
+ life at bae systems 
+
+
+inspired work 
+													
+
+
+
+benefits 
+													
+
+
+
+diversity 
+													
+
+
+
+talent referral program 
+													
+
+
+
+
+
+
+
+
+multimedia
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+careerssearch & applyjob results jr. software engineer â server-side developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+search & apply
+
+search & apply
+
+
+ search jobs  
+ view events  
+ internship search  
+ life at bae systems 
+ exploring your career at bae systems  
+ create your profile  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job title: jr. software engineer â server-side developer
+
+
+alternate job title: eng ii - sw
+job id: 31868br
+posting date: 2017-10-19
+travel percentage: <10%
+
+
+
+
+location: san diego, ca  92127-1874
+us citizenship required: yes
+shift: 1st shift
+required security clearance: eligible - top secret
+
+
+
+
+
+
+apply now
+         
+        back to results
+
+start new search
+
+
+
+job description:
+gxp is seeking a motivated candidate to join its software engineering team as a full time software engineer.  in this exciting opportunity you'll be responsible for designing and developing software solutions as part of a dynamic team. general daily responsibilities include:- implementing new features to our web-based and server-based products- investigating new technologies and open-source software for inclusion into our products- development in java or javascript or related languages- design of new enhancements- code reviews and unit testing developers are expected to prototype/design to the goals of functionality and operational utility while considering ease of component re-use, connectivity, long term architecture, and schedule commitments. the position requires the ability to perform critical analysis, work well in teams, and self-manage.about gxpthe geospatial exploitation products (gxpâ®) business provides licensed software capabilities and geospatial technology r&d. gxpâs ability to draw on internal data production and technology expertise has allowed it to deliver superior products to the user community. gxp often finds ways to improve software implementation through user conferences and regional workshops, where important feedback and insight is gathered from customers. gxp commercial software, gxp xplorerâ®, gxp webviewâ¢, socet gxpâ®, and socet setâ® provide customers with comprehensive image and video analysis, data management and geospatial production capabilities. these products serve government and civil customersâ needs for photogrammetry, mapping, gis, image exploitation, precision targeting, geospatial intelligence, 3-d visualization, simulation and mission planning.
+
+minimum education and experience:
+bachelor's degree and 2 years work experience or equivalent experience
+
+required skills and education:
+- bachelor's degree in computer science or related field with 2 years of actual work experience- gpa 3.0 and above in major- excellent knowledge java or a similar language such as c#- ability to quickly learn and integrate with emerging technologies- good communication and teamwork skills; a team player with a proactive attitude- ability to identify, trouble shoot and debug software discrepancies- u.s. citizenship required.  candidates selected for some positions will be subjected to a government security investigation and will need to meet eligibility requirements for access to classified information.
+
+preferred skills and education:
+- experience with javascript, c++, or sql- familiarity with data storage systems such as rdbms, document stores(solr, elasticsearch), or rdf stores.- coursework, certifications or other experience in any computer security or software security topic- familiarity with cloud computing systems, such as aws, google cloud platform or ms azure- familiarity with enterprise integration technologies, such as osgi, apache karaf, apache camel- experience developing web-based user interfaces and applications, possibly using tools like nodejs, express or react- strong foundation of software development/engineering, including requirements analysis, development, integration, evaluation, maintenance, test and problem diagnosis/resolution.
+
+about bae systems electronic systems:
+bae systems is a premier global defense and security company with approximately 90,000 employees delivering a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support and services.the electronic systems (es) sector spans the commercial and defense electronics markets with a broad portfolio of mission-critical electronic systems, including flight and engine controls; electronic warfare and night vision systems; surveillance and reconnaissance sensors; secure networked communications equipment; geospatial imagery intelligence products and systems; mission management; and power-and energy-management systems. headquartered in nashua, new hampshire, es employs approximately 13,000 people globally, with engineering and manufacturing functions primarily in the united states, united kingdom, and israel. equal opportunity employer/females/minorities/veterans/disabled/sexual orientation/gender identity/gender expression
+
+ 
+
+apply now
+         
+        back to results
+
+start new search
+
+ 
+
+
+
+
+
+
+
+print
+
+
+
+
+
+
+
+	search & apply
+
+
+
+search jobs
+check your application status (login required)
+life at bae systems
+exploring your career at bae systems
+veterans
+diversity
+benefits
+
+
+
+
+
+
+
+
+
+
+accessibility accommodations
+
+if you require an accommodation to navigate or apply to our career site, please send your request to: accessibility@baesystems.com or call 1-855-541-4654 or fax 704-541-4401.
+scam alert: bae systems always has great job opportunities, and apparently scammers think so too. donât be fooled by a scammer! during our recruitment process, bae systems will not: (1) ask you for money; (2) offer to send you a check before doing any work; (3) require you to provide sensitive personal information, like your driverâs license or social security number (this happens later as part of the background check process); or (4) send you emails from free email accounts such as yahoo, gmail, hotmail, and others. if you believe you have been scammed, please contact local law enforcement. please see further guidance from the u.s. federal trade commission.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility
+terms & conditions
+privacy
+sitemap
+
+copyright â© 2017 bae systems. all rights reserved
+
+
+
+
+
+
+
+
+
+
+

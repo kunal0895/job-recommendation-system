@@ -1,0 +1,320 @@
+
+
+
+
+job application for principal software engineer at recursion pharmaceuticals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+principal software engineer
+
+        at recursion pharmaceuticals
+      
+(view all jobs)
+
+        salt lake city
+      
+
+
+what we do
+poised at the crossroads of biology and computation, recursion is disrupting the pharmaceutical industry’s approach to drug discovery. our unique platform leverages the most advanced biology, high-throughput automation, and artificial intelligence to rapidly discover treatments for rare diseases, inflammatory diseases, cardiovascular diseases of aging, and more (think immuno-oncology).
+we knit together big data, biology, and bleeding-edge robotics to capture hundreds of thousands of observations each week. using genetic manipulation, we create disease models in relevant human cell types, then use high throughput imaging coupled with automated image analysis to identify compounds that reverse cellular disease phenotypes (observable characteristics). we are focused on conducting scalable biology, and leveraging automation to extract maximum value from every minute we spend in the laboratory. this is where you come in...
+how you’ll contribute
+the high-level job description has only one item: do whatever is necessary to help us progress in identifying treatments for diseases. at recursion, we are highly goal oriented and data driven, which gives us this freedom to explore new and innovative solutions. as a software engineer, you will help the company to get things done faster, cheaper, and more reliably—finding ways to remove barriers that would prevent us from treating as many diseases as possible as quickly as possible. you will work closely with biologists and automation scientists to more efficiently and reliably run experiments in a wet lab. once the images are captured, you will work with data scientists to apply deep learning and artificial intelligence to terabytes of experiment data generated daily.
+we currently use go, javascript, python, and some clojure, along with kafka, postgresql, docker, and kubernetes, on cloud services provided by amazon web services and google cloud platform.
+for this role, we are looking for people who are eager to:  
+
+experiment - we want software engineers who think critically and use data to measure results.  rigorous use of the scientific method allows our software engineers to quickly understand the critical aspects of the problems we’re trying to solve and whether we’re moving in the right direction.
+
+
+collaborate - we want software engineers who play well with others.  the role will require close collaboration with our biological, high throughput screening, and data science teams to help the company achieve its mission to discover transformative new treatments. expect to spend time in the lab as well as the terminal.
+
+
+imagine - we want software engineers who are forward thinking.  a thorough understanding of both fundamentals and creative approaches are critical when developing software to enable advancement of our biology and analysis. our software engineers develop innovative solutions through a deep understanding of computer science fundamentals and software development.
+
+
+ask “why?” - we want software engineers who aren’t satisfied with the status quo. our software engineers openly discuss the tradeoffs inherent in how we build software, and go beyond the traditional boundaries of engineering teams to enable recursion to get things done faster, cheaper, and more reliably.
+lead - we want software engineers who inspire. you will actively mentor individuals across engineering teams on advanced technical issues, as well as non-technical teams on fundamentals to help guide career growth and technical literacy.
+
+ here are some past and upcoming projects:
+
+distribute computations that extract geometric features and deep learning embeddings from terabytes of cell images, daily. computations are dockerized, and run on up to 10,000 cores at a time.
+build a web app to view superimposed cell segmentation boundaries on cell images, with zoom, contrast, and composite functions.
+sync terabytes of high-resolution cellular images daily from a growing number of high-content microscopes to cloud storage for processing — at our last office we were contacted by both the u of u and aws for our high network traffic.
+build a web app to view thumbnails across related experiments using html5 canvas and angularjs.
+color-composite and generate thumbnails of cellular images on aws lambda in real-time. we run millions of gb*sec of λ computations monthly.
+develop an in-house laboratory information management system (lims) that pulls iot data from complex biological machines.
+build a responsive front-end for the lims that biologists can actually use in a lab — a great ux challenge.
+write the cluster infrastructure for our deep-learning experiments.
+
+if you're interested in coding for a meaningful purpose (and a massive human impact) and building distributed systems, web apps and tools for biologists, let us know. you don't need a biology background, but it doesn’t hurt. we offer competitive compensation, a structured leveling program with multiple tracks, and our hiring process is fast.
+what you’ll need
+
+be a solid coder with experience in non-scripting languages.
+be self-driven and able to single-handedly complete large projects. we don't have much in the way of project managers.
+be adept with the nooks and crannies of software engineering, such as linux command-line usage, sql scripting, and version control. bonus for docker, kubernetes, and distributed systems.
+have a good understanding of computer science fundamentals.
+be comfortable writing tests for your own code and automating deployment, logging, metrics collection, and monitoring.
+demonstrate expert knowledge to learn from or teach peers in areas of performance, scalability, and system architecture.
+exert technical influence across multiple teams, increasing their productivity and effectiveness by sharing your deep knowledge and experience.
+
+perks you’ll enjoy
+
+coverage of health, vision, and dental insurance premiums (in most cases 100%)
+401(k) with generous matching
+flexible, generous vacation/sick leave
+company-provided lunches, snacks, and beverages to keep you fueled up and focused
+generous paid maternity, paternity, and adoption leave
+two one-week company closures during the winter holidays and during the peak of summer
+short and long-term disability insurance
+impressive office & laboratory space located in research park (near the university of utah)
+showers, lockers, bike parking, nearby trail access - to facilitate an active and outdoorsy lifestyle
+
+recursion pharmaceuticals is an equal opportunity employer. all qualified applications will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, or disability status.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why recursion? *
+
+tell us what motivates you to apply here. the more, the better -- we appreciate candidates who are interested in our mission.
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+where are you in your career right now? *
+
+
+
+
+
+
+
+what's really important to you at work? *
+
+for example: a fresh challenge, your choice of projects, competent management, free food -- you name it!
+
+
+
+
+
+
+anything else?
+    
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+link to github or other shared code.
+    
+
+
+
+
+
+are you authorized to work in the u.s.? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require recursion pharma to commence (“sponsor”) an immigration case in order to employ you (for example, h-1b or other employment-based immigration case)? this is sometimes called “sponsorship” for an employment-based visa status.* *
+
+
+
+--
+yes
+no
+
+
+anything else about your u.s. work authorization?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,421 @@
+
+
+
+
+job application for staff big data engineer at smartdrive systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+staff big data engineer
+
+        at smartdrive systems
+      
+(view all jobs)
+
+        san diego, ca
+      
+
+
+we are looking for an experienced data-focused engineer to join our transportation analytics platform team, leading the design, development, and delivery of our high performance analytics engines (computer vision, machine learning, sensor fusion, running in vehicle and in the cloud), high throughput and high accuracy vehicle event analysis engines (in vehicle and in the cloud), and robust and flexible coaching workflow, reporting, and alert management engines.
+our business is nearly doubling every year, and our people and our platforms are the foundation and enabler of that growth. we are significantly expanding our team, and are looking for technologists with a passion for high performance software development, and a drive to deliver software products that make a meaningful difference in the lives of others.
+responsibilities:
+
+lead design and development of transportation analytics data collection, modeling, processing, and storage to enable smartdrive services and solutions
+help define and implement the strategic roadmap for data management, identity management, and platform data security
+assist in migration of monolithic data (sql) into appropriate persistence models for improved horizontal scale and micro-service based architecture
+effectively represent our technical capabilities, findings, and strategies to diverse internal teams, as well as to external partners and customers
+design and build quality, performance, and reliability in from day one, and inspire other team members to do the same
+partner with product, q/a, and other technical team leads in test strategy, release planning, coordination, and overall production quality
+work with partners and customers to integrate single-sign on (sso) and other cross-organizational identity/security needs
+be a key technical leader in driving the architectural evolution and technology roadmap for our products
+identify, prototype, and champion significant new technologies and refactoring opportunities, and drive execution consistent with the benefit we hope to achieve
+drive technical execution as a scrum leader, including design reviews and code reviews for teams
+document and communicate module and framework functions, interfaces, and performance criteria to diverse audiences
+diagnose, characterize, and address performance and stability issues
+be a respected technical role model and mentor for the engineering team
+
+qualifications:
+
+bs degree in computer science (or related field) or equivalent
+minimum 6 years’ experience in enterprise/ internet / e-commerce commercial software development environments
+minimum 3 years of experience in the area of data architecture, data modeling, big data, and highly scalable systems development
+proven experience with nosql stores (cassandra, mongodb, influxdb, hbase/hdfs, elasticsearch…) and their application (such as analytics, restful services, and machine learning)
+experience with identity management, including authn/authz, sso / idp integration, saml, oauth, jwt
+expertise in a distributed microservices and/or serverless (lambda) cloud software architecture
+experience with applied cryptography, including tls/ssl, pgp, and other common techniques and protocols
+preferred expertise with integration of complex and large data from multiple data sources, data and sensor fusion, and migration to newer methodologies
+strong preference for internet of things (iot), large scale telematics, autonomous/semi-autonomous driving, machine learning, and computer vision experience
+expertise with a variety of data processing systems, both batch and event/stream based (hadoop/mapreduce, spark, storm/spark-streaming)
+preference for demonstrated experience with public cloud compute platforms (aws, azure, etc.) in addition to private deployments
+experienced in agile software development lifecycle, and how to drive the technology roadmap concurrent with the feature roadmap
+experience leveraging ci/cd and robust build/test automation, with a preference for cross platform stacks and containerization (git, jenkins, crucible, sonar, docker, etc.)
+demonstrated ability to prioritize the work effort across geographically distributed teams and ensure that tasks are completed on schedule
+strong people skills - able to communicate with colleagues while building credibility and rapport, modifying behavioral style to respond to the needs of others while maintaining objectives
+an organized individual who is very detail oriented and can develop plans necessary for teams to meet specific goals
+an aggressive problem solver who can provide creative solutions to complex situations and obtain buy-in from those affected
+an independent worker who can take the initiative to define and prioritize specific goals and objectives, and to do the same for others
+a team player that works hard, admits his/her strengths and weaknesses, and has the flexibility to improve by learning new things
+
+ 
+about smartdrive
+smartdrive systems, the recipient of frost & sullivan’s customer value leadership award for video safety solutions, gives fleets and drivers unprecedented driving performance insight and analysis, helping save fuel, expenses and lives. its video analysis, predictive analytics and personalized performance program help fleets improve driving skills, lower operating costs and deliver significant roi. with an easy-to-use managed service, fleets and drivers can access and self-manage driving performance anytime, anywhere. the company, which is ranked as one of the fastest growing companies by deloitte’s technology fast 500™, has compiled the world’s largest storehouse of more than 200 million analyzed risky-driving events. smartdrive systems is based in san diego, and employs over 650 people worldwide.
+smartdrive systems, inc., is proud to be an equal opportunity employer – m/f/veteran/disability. we are committed to attracting, retaining, and maximizing the performance of a diverse and inclusive workforce.
+ 
+#li-sr1
+*dice
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at smartdrive systems are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

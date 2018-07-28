@@ -1,0 +1,306 @@
+
+
+vallen careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+show navigation
+hide navigation
+
+career homeemployment listings 
+
+search current openings
+
+
+update your profile
+
+
+create a job agent
+
+
+update job agent
+
+
+recruiting agency login
+
+
+benefitsfaqs
+
+
+
+
+
+
+
+
+ 
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					web applicaton developer
+				
+
+
+						tracking code
+					
+
+						br-517b67 
+					
+
+						job description
+					
+
+can you represent our company in this technical role?
+#cb
+ 
+the opportunity
+rapidly growing company is seeking a web developer/designer to join an ambitious team. you will be responsible for developing enterprise class web applications and maintaining the installation, configuration, and support of web applications and web services through best practices and industry standards. you will also be responsible for learning business processes to review requirements and develop applications to support those requirements. you will:
+
+
+develop, code, install, test, debug, and document web applications
+design and maintain nosql and mssql databases
+conduct research into emerging web technologies in support of web development efforts
+assist in development of new web features and applications in conjunction with business leaders and department managers
+ensure security of all websites and related applications
+
+
+ 
+skill set:
+full lamp stack, mysql/mssql, nosql (e.g. monogdb), doctrine and/or propel orm, javascript, jquery, and/or angularjs, html5, css, sass, git, docker, jenkins, test driven development, agile, jira, cli, rest, soap, xml, json, ajax
+ 
+ 
+about vallen
+vallen is an industry leader in delivering flexible supply chain solutions and services along with a comprehensive range of maintenance, repair, operating, production, safety and electrical products to meet the growing supply needs of customers in facilities across north america and around the world. vallen is headquartered in belmont, nc and is a subsidiary of sonepar usa, part of the global sonepar family.
+ 
+working at vallen
+at vallen, we are committed to the success of our customers and our co-workers and do what it takes to get the job done right. we work diligently to improve and drive results that create value. we’re hands-on, responsive and team-oriented. we apply our insights, experience and relationships to find the best solution to every challenge. we hold ourselves to be personally accountable to do what we say we will do.
+ 
+ 
+qualifications & benefits
+
+
+
+
+
+computer science, mis or related degree (or relevant experience) required.
+must have in-depth knowledge of back-end php development and other internet programming languages, web technologies, protocols, and tools including html, css, javascript, jquery, ajax, xml angularjs and other related tools.
+java (spring framework) experience is a plus.
+python experience is a plus.
+symfony 2/3 or other php framework experience is a plus.
+experience with codedeploy or other aws services, jenkins, capifony or other deployment methods
+a strong understanding of oop and mvc required
+knowledge of database development, including design, creation, administration and optimization of relational databases is a plus.
+experience with elasticsearch a plus.
+experience in gathering and analyzing business requirements.
+should have good documentation skills (pre and post), testing of code and some understanding of sales and marketing.
+experience working with agile teams is a plus.
+
+ 
+ 
+
+
+
+
+401k plan, health insurance (medical, dental, and vision), paid vacation, paid sick, paid personal, paid holidays, flexible spending accounts (health and dependent care), employee assistance program, tuition reimbursement, employee discounts and a definitive career path.
+ 
+eoe m/f/disability/veteran
+
+
+						job location
+					
+
+						charlotte, north carolina, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vallen supply
+
+blog
+promotions
+idg racing
+msds search
+
+
+
+about us
+
+about vallen
+careers
+privacy policy
+terms & conditions
+
+
+
+resource center
+
+vallen distribution inc. w-9
+vallen (with speciality business) w-9
+credit application
+resale exemption certificates
+
+
+
+company info
+
+vallen is the market leader for industrial distribution and supply chain solutions.
+order today. ships today.
+800-932-3746
+
+
+
+
+
+
+
+vallen © 2016. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

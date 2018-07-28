@@ -1,0 +1,142 @@
+
+
+
+
+minted careers - software engineer, full stack - ecommerce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    minted careers                                            
+
+
+
+
+
+
+
+                software engineer, full stack - ecommerce
+    
+    
+
+                            engineering            
+                    san francisco,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+
+about the rolewe are looking for a full-stack software engineer to be a part of our e-commerce/discovery team. as a member of this team, you will be building beautiful, cutting-edge, and performant web applications to showcase the beautiful products from our artist community and provide users with a world-class shopping and customization experience.we’re in the middle of a massive effort to revamp our core e-commerce architecture, and as part of the team, you’ll be tackling complex problems on the entire tech stack. on the front-end, you’ll work closely with a truly cross-functional team to design the next generation features, streamline user experience and enhance the shopping funnel. on the backend, you will be solving scaling challenges that come with a rapidly expanding business as we continually move toward a service-oriented architecture. in the past year, we have:rebuilt our product catalog from the ground up using elasticsearch and celery, supporting hundreds of thousands of skus with millions of variations as well as filter and curation functionalities.created a graphql-enhanced product api and product details page that allow us to link together a complex web of related products and services.designed a pricing engine that supports advanced marketing and analytics requirements on promotion, cross-sale, and ab testing.in the next year, we plan to work on similarly ambitious projects that will position minted not only as the leader in unique design, but also in shopping and customization user experience.we are looking for software engineer who thrives in a fast pace environment where analytics and customer-driven feedback loop continually shapes product decisions as we learn about the impact of our work. you can quickly pick up new technologies and flexible in adapting your problem-solving approach to the challenge at hand.specific responsibilitiesdesign and develop a beautiful and responsive world-class web experienceown high impact and high visibility engineering projects to increase traffic, drive conversion, and/or experiment with new business models and verticalsbuild systems and services that have an immediate impact on our artist community and customers.build and maintain backend architecture for our high-traffic e-commerce platform that is scalable, extensible, and efficient in usage of system resources (memory, disk, i/o, etc)collaborate with a world-class product development, user experience, production, and marketing teams to deliver projects with measurable business resultsensure a high-quality codebase with design and code review as well as automated test coverageadvance your technical knowledge and skill set with talks, training sessions, and 1:1 mentorship from senior engineers.help interview engineering candidates and grow the south bay engineering teamexperience and skills1+ years professional experience developing and maintaining components on high-traffic websitestechnical design skills with an emphasis on distributed and/or cloud-based design and scalingexperience working on, and an understanding of, both client-side and server-side codeexperience designing complex front-end components and accurately estimating scope and risksstrong programming skills preferably in python, php, javascript, html, cssexperience with sql, database modeling, and ormsability to juggle competing priorities in a fast-moving dynamic environmentbs in computer science or equivalent work experiencebonus pointsexperience working in a fast-paced, agile e-commerce environmentexperience dealing with resource contention and scalability issues in multi-threaded web applicationsexperience with scripting, managing and deploying amazon aws services such as ec2, elb and asgexperience programmatically manipulating photos, pdfs, or other graphics formatsreact.js, redux experience a plusabout minted engineeringwe are a growing, hands-on, flat organization. our engineers to take on multiple roles and challenges not defined by titles. regardless of who you are on the engineering team, you will contribute to and have a big impact on the final product from day one. we have a strong culture of mentoring and promoting from within, as well as project roadmap that enables us to cross-train and learn from one another. we place a lot of emphasis on good engineering practices while retaining the flexibility of allowing each engineering team to have independent agile processes. diversity is important to us, and we treat each other with respect and empathy.we are a metrics-driven organization and strive to measure the impact of every feature and improvements we make. we believe in true internal transparency and share information widely across teams and departments. we believe that an engineer who fully understands the business considerations and long-term vision builds better products. about mintedminted is a lifestyle brand and design marketplace connecting you with the world’s best artists to create something one of a kind. minted crowdsources graphic design and artwork from a global community of independent artists and sells these as products addressing the $10 billion stationery market, $48 billion art market, and $100 billion home decor market.minted’s mission is to enable the design independence of both consumers and artists around the world, and the company is a platform for the strongest emerging artists in the world to be seen and discovered. we aim to build a lasting brand representing the most commercially successful design community in the world. minted was founded by successful serial entrepreneur mariam naficy.minted is located in a beautiful office in downtown san francisco and is backed by benchmark capital, idg ventures sf, menlo ventures, and angel investors including marissa mayer of yahoo and jeremy stoppelman of yelp. minted is comprised of an experienced and entrepreneurial team. we come from google, amazon, microsoft, ebay, yahoo, and goldman sachs and numerous disruptive startups. we are a passionate, creative, ambitious team. we provide a great opportunity to work with a stellar team and on a world-changing mission, all supported by a proven business model.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

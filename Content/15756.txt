@@ -1,0 +1,182 @@
+
+
+
+
+
+
+career opportunities
+
+
+
+
+
+
+
+
+software engineer
+
+
+location:
+atlanta, ga
+
+
+job code:
+15-2017g
+
+
+# of openings:
+1
+
+
+
+description
+ 
+zelis is a healthcare information technology company and market-leading provider of end-to-end healthcare claims cost management and payment solutions.
+company background/culture
+zelis healthcare is an information technology company which utilizes an end-to-end technology platform to fulfill the claims cost management and payments needs of healthcare payors including large and medium-sized health plans, tpas, taft-hartley plans, providers and individuals.  the company provides a comprehensive portfolio of network management, claims integrity, payment remittance solutions and analytical services for medical, dental and workers' compensation claims to over 500 payor clients.  additionally, the company delivers electronic payments and explanation of payments to over 200,000 healthcare providers and serves individuals with provider lookup and medical referral services.
+position overview
+the software engineer role is a key participant application design and best practice coding techniques. in this role, they have responsibility to mentor & coach junior engineers/developers as well as ensure that application/infrastructure projects meet the stakeholder expectations for both quality and timeliness of delivery. this role will mature the organization towards a culture of customer service, process orientation and cost effective management of the services and resources. 
+key responsibilities
+
+
+software development processes, including analysis & design, development, and testing.
+
+
+responsible for application design and development of proprietary software that creates competitive advantage in the marketplace.
+
+
+software maintenance processes, including release planning and capacity management, prioritization, problem diagnosis, and break/fix resolution.
+
+
+work closely with other departments as they provide quality assurance, business process design, configuration management, change management and environment management to the organization.
+
+
+leads organization in following a culture of customer service, process orientation and cost effective management of the services and resources.
+
+
+effectively communicate with business area leaders and customers
+
+
+effectively assimilate new product and technology acquisitions.
+
+
+mentor & coach members of the engineer team to include best practice & code reviews.
+
+
+professional experience/qualifications
+
+
+entity framework
+
+
+agile process methodology
+
+
+motivated self-starter who likes to work in fast-paced entrepreneurial environments.
+
+
+good project management and leadership skills.
+
+
+experience with tfs (team foundation server) is a plus.
+
+
+bachelor's degree or equivalent experience.
+
+
+5+ years of experience in software engineering, including design, development and implementation of complex systems.
+
+
+team lead experience of a technical staff helpful
+
+
+3-5+ years ofc#, .net experience
+
+
+3-5+ years of webapi/webservices/soa experience
+
+
+3-5+ years sql server experience
+
+
+3-5+ years web development
+
+
+asp.net mvc w/razor
+
+
+javascript / jquery
+
+
+strong, hands-on experience in microsoft environment is preferred
+
+
+ 
+compensation:
+an attractive compensation package as well as comprehensive benefits plans are available to attract outstanding candidates.
+ 
+ 
+thank you for your interest in the zelis team!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

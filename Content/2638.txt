@@ -1,0 +1,203 @@
+
+
+
+career opportunities - isagenix careers - isagenix.com -sql report developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+sql report developer
+
+
+job locations
+
+us-az-gilbert
+
+
+
+
+
+job id
+
+2017-1971
+
+
+category
+
+information technology
+
+
+
+
+
+
+
+
+
+position summary
+
+
+
+
+
+
+the report developer is responsible for gathering and translating business requirements into functional specifications and developing reports. this role is expected to work with our database team to develop and maintain data related solutions and reports. the developer will design, develop, test and deploy assigned reports while writing necessary queries and maintaining related stored procedures and user defined functions.
+
+
+
+
+
+
+
+
+essential duties & responsibilities (other duties may be assigned)
+
+
+
+
+
+
+meet with business owners regarding their reporting needs and create reports based on their requirements.responsible for developing and testing stored procedures, user defined functions and reports that meet customer requirements.develop reports using ssrs or other industry tool.work with the business to clarify ambiguous or conflicting information while bringing clarity to the end goal.investigate and troubleshoot issues, errors, and questions regarding data.reverse engineer stored procedures, user defined functions etc. that generate reports, views or impact data movement and storage.implement reports in line with established plans and standards.understand the impact of project scope changes and make relevant modifications to stored procedures, user defined functions and reports.make prompt, technically sound decisions and recommendations that add value to business priorities and needs.validate reports and escalate issues in a timely manner suggesting improvements.maintain a strong background with t-sql – i.e., creating efficient queries, stored procedures, functions, views, and triggers.perform assigned duties in an agile development environment. keep working knowledge of latest features made available in sql releases and apply as applicable.
+
+
+
+
+
+
+
+
+minimum qualifications (these are the requirements that all applicants must have to be considered for this position)
+
+
+
+
+
+
+bachelor’s of science degree from an accredited institution or equivalent professional experience.5 years of experience as a sql developer.2 years of experience with ssrs.experience with sql server 2008 or greater.a strong knowledge of versioning control systems (primarily microsoft team foundation server).experience with sql server 2008 or greater.strong background with t-sql, i.e., creating efficient queries, stored procedures, functions, views, triggers, etc. ability to profile data and ascertain data quality issues.understanding of relational databases, data analysis, extracts, and reporting. experience with the microsoft office suite.strong written and verbal communication and data presentation skills, including an ability to effectively communicate with both business (non-technical) and technical teams.
+
+
+
+
+
+
+
+
+preferred qualifications
+
+
+
+
+
+
+experience in a microsoft-centric development environment. familiarity with source control including tfs 2010-forward.knowledge developing in the presentation, business logic, and data access tiers. knowledge of data modeling, performance tuning, and optimization.experience supporting global applications in 24 x 7 x 365 environment.understanding of the sql server stack 2014/2016.experience with database query optimization techniques.experience with power pivot and power view tools.experience with dynamics ax.
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+company overview:
+
+established in 2002, isagenix provides systems for weight loss, energy, performance, healthy aging, and wealth creation. with more than 550,000 customers worldwide and more than 100 life-changing products, packs, and systems globally, the company is committed to producing solutions to transform lives(tm). in 2016, isagenix reached nearly $1 billion in global sales through an independent network of associates in the u.s., canada, puerto rico, hong kong, australia, new zealand, taiwan, mexico, singapore, malaysia, colombia, and indonesia. isagenix is a privately owned company with headquarters in gilbert, arizona. for more information, visit isagenix.com.
+
+
+eeo:
+
+isagenix international, llc is an equal opportunity employer and affords equal opportunity to all applicants for all positions without regard to race, color, religion, sex, national origin, age, disability, veteran status or any other status protected by law.
+
+
+
+application faqs
+
+
+
+
+
+
+
+
+

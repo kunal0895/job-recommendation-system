@@ -1,0 +1,59 @@
+
+
+
+
+commonwealth computer research, inc. - jobs: junior data scientist/software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+junior data scientist/software engineer
+
+junior data scientist/software engineer
+charlottesville, virginia, united states
+
+descriptiondo you like to look at data sets to find trends and tendencies? do you like dealing with complex, multi-variable problems using cutting-edge analytics? do you like solving complicated software design puzzles with code that is clean and elegant? ccri is looking for smart, innovative data scientists with analytical and software engineering skills. we conduct research and development in data mining and machine learning techniques to solve complex problems and then implement scalable solutions in data-driven environments.our engineers take cutting edge research and build reliable products out of it. you'll help build massively distributed machine-learning systems, like graph-based embedding frameworks or gpu-clustered neural networks. these tools will be used to attack some of today's most pressing problems like relief planning, image processing, and force protection.technology: hadoop ecosystem, cuda  languages: scala, python, java develops: machine learning runs on: linux, browserstools we use:   statistical computing: r, numpy, scipy, mathematica, matlab  modern programming: java, c++, python, scala, or ruby  enterprise development: ee, rest web services, jpa, orm, dependency injection  traditional databases: postgresql, mysql, oracle  nosql databases: accumulo, mongodb, hbase  gis: geoserver, postgis, openlayers, quantum gis, arcgis  cloud computing: hadoop, map-reduce, storm, spark, scalding, hive  web development: javascript, ajax, css, angularjs, d3  machine learning: neural networks, deep learning, random forest  data processing and analytics: graph analytics, natural language processing, image processing  data visualization: ggplot, d3 our tech stack: we use scala, python, and javascript on centos 6+, ubuntu 14+, and windows server machines, managed by pxe, cobbler, puppet, and beaker. our workflow is built around git with jira for issue tracking and jenkins for continuous integration. most ccri software is built on the hadoop ecosystem. we rely on accumulo and spark, with storm seeing significant use as well. we maintain on-premises clusters and use aws for larger-scale work.about you: you’ve got a year or more of professional engineering under your belt on significant projects or you have compelling personal projects grounded in machine learning or high-performance computing. ideally, you have a bachelor’s in statistics, mathematics, systems engineering, computer science or a related field. you are fluent in at least two modern languages including scala, java, or python.requirements us citizenship required we do not offer sponsorships or contracting work. this position is for charlottesville only. bachelor’s      degree in a technical field prior work experience in a related field and/or a working portfolio that clearly demonstrates your abilities.  in compliance with federal law, all persons hired will be required to verify identity and status as a us citizen, and to complete the required employment eligibility verification document form upon hire. failure to do so can and will result in dismissal.benefitsthe company: ccri is a small engineering firm located in charlottesville, virginia. we develop and deploy novel machine-learning approaches to real problems at massive scale. since 1992, we’ve been stopping bombs, predicting piracy, and guiding disaster relief. casual work environment intellectually challenging work health insurance short term disability insurance generous defined benefit retirement very flexible vacation policy want to know more? check out our recruitment video: https://www.youtube.com/watch?v=w_b2ey1tlrm  commonwealth computer research, inc. does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits. 
+
+apply for this job
+
+
+
+
+
+
+
+commonwealth computer research, inc.
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+commonwealth computer research, inc. website
+
+powered by
+workable
+
+
+
+
+

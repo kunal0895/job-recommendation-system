@@ -1,0 +1,263 @@
+
+
+
+			analytics consultant -			blast analytics & marketing -
+			job board
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+analytics consulting
+digital marketing
+industries
+resources
+blog
+about
+contact
+
+
+ 
+ 
+ 
+
+
+
+analytics consultant
+blast analytics & marketing
+location: rocklin, ca | type: full time | level: mid level
+
+
+
+
+
+
+view all openings
+works with: director, analytics strategy; analytics strategists; director, optimization; digital marketing and reporting team members; other subject matter experts
+position summary: we are actively seeking an analytics consultant who can generate customized digital analytics collection code (javascript, tms setup, html markup, etc.) and assist with its implementation and deployment with an understanding of our clients’ businesses, industries, and environments. specifically, the analytics consultant will be responsible for developing structured/modular javascript code and processes.
+functioning as a key member of our analytics consulting team, the analytics consultant integrates analytics code customizations into client sites. performs auditing, documentation for analytics implementations and help companies explore their data. this client-facing role will help organizations capture data and turn insights into actionable recommendations to achieve their analytics goals. this is a full-time opportunity that can work from our any one of our u.s. locations. 
+who we are: blast analytics & marketing is a leading analytics and digital marketing consulting company supporting leaders to evolve their organizations. through our deep expertise and proven process honed over 19 years working with clients worldwide, we help enterprises transform their data into actionable insights and better decision making — to do more of what works and less of what doesn’t. our company is driven by smart, talented people who have a strong desire to learn and apply their knowledge, constantly evolving and pushing ourselves each day.
+
+why work at blast: at blast, we believe in meaningful work. regardless of role, you'll have the opportunity to make your mark every day, solving challenges and seeing the positive impact of your contributions, as we support leaders to evolve their organizations. join us to make your mark — on each other, our clients, our company, our industry, and the community. ask any employee why they come to work at blast, and they'll say "to make my mark!"
+to be successful
+
+you will demonstrate your experience creating websites
+must tell us a complicated concept in a simple way
+you'll deliver in-depth knowledge of all search engines
+
+desired knowledge, skills, & qualifications
+
+proven knowledge of javascript and analytics tools
+must know the fundamentals of traditional marketing & a passion for continued learning
+bachelor’s degree preferred, or any equivalent combination of education and experience
+
+primary responsibilities
+
+develop structured/modular javascript code and processes
+configure user profiles, goal funnels, and set up custom dashboards for google analytics accounts
+integrate ga code customizations into client sites
+audit ga accounts, document findings, and identify areas on the front end which would be beneficial to track
+perform discovery and create documentation outlining processes for client reference
+aid in tracking setup for the a/b testing of web pages
+create performance reports and troubleshoot issues with data tracking setup
+meet with clients to explain how accounts were configured and the capabilities of the advanced configuration we performed
+
+javascript test
+using http://www.blastam.com/analytics-consulting as your source page, write javascript that would accomplish the following:
+change the blast logo to redirect to the www.blastam.com/core-values instead of www.blastam.com
+rearrange the order of the six analytic tiles within the body of the page to show the "testing & personalization" as the first tile.
+using the same six tiles, dynamically generate a javascript object which will list each of the tiles displayed along with set of properties, including position, title and link url.
+using the google tag manager datalayer that is already present on the page, push an event with these values:
+event : jstest
+event_category : application
+event_action : <<your name>>
+event_label : <<position applying for>>
+when a user presses the mouse down on the tealium partner icon, trigger an alert with your favorite icecream flavor.
+rules of the test:
+yes, you can use jquery.
+your solution must be entirely done via javascript. this means that you cannot alter the existing html code. we are taking your snippet of javascript code that you write and applying it to the live page via the javascript console. we recommend you test your script the same way.
+you are not disqualified from being considered if you are unable to deliver a complete solution; your technique in how you approach the problem is most important.
+technical questions
+identify two tracking opportunities on this page and explain their value. example: tracking the "request a proposal" link on the cta (call-to-action) can help with lead generation conversion analysis by page.
+in the tag management tool(s) you have expertise in, explain how you would fire a facebook event conversion hit based on the click of the "request a proposal" link. explain the requirements to deploying this tag.
+provide an example documentation on how to track the "learn more" links to trigger a ga event via gtm and include category to be a static value "learn more", action to be a dynamic value based on the title of the tile and label to be a dynamic value based on the link url.
+for single page apps (spa), explain the best method to capture screen views as pageviews?
+please attach your response for the javascript test and technical questions as an additional page in your resume.
+are you a fit?
+blast analytics & marketing is a small yet rapidly growing company that is continuously inspired to learn and tackle challenges in digital analytics and marketing. to get an idea of whether or not you would be a fit within our culture, please review our core values.
+compensation & benefits
+in addition to a competitive salary based on experience, blast offers extensive benefits for full-time employees, including medical, dental, and vision insurance, paid time off, a 401(k) plan, and much more. we provide a supportive, challenging, and fun work environment to ensure teamwork, productivity, and employee happiness.
+how to apply
+if you like what you’ve read thus far, please complete the application form and submit your cover letter and resume in .pdf format. ​ we read cover letters and weigh them heavily in our decision to consider an applicant.​ we are not interested in placement agencies or companies at this time.
+blast analytics & marketing is an “at will” employer. compensation, benefits, and job descriptions are subject to change based upon individual performance and business conditions.
+
+
+
+apply for this position
+
+
+
+
+
+
+
+
+
+
+
+			* required fields
+		
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+
+
+last name*
+
+
+
+
+
+email address*
+
+
+
+
+
+location 
+
+
+
+
+
+phone number*
+
+
+
+
+
+resume*
+
+
+attach resume or
+					paste resume
+
+
+
+
+
+						attach resume as .pdf, .doc, or .docx (limit 2mb) or
+						paste resume
+
+
+
+ 
+
+
+
+
+						paste your resume here or
+						attach resume file
+
+
+
+ 
+
+
+
+cover letter*
+
+
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+

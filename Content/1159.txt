@@ -1,0 +1,228 @@
+ 
+
+
+
+
+
+
+
+
+
+data science engineer #0520 job at sojern in san francisco, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+data science engineer
+technology | san francisco, ca | full time
+
+
+
+
+
+
+job description
+
+
+about us: 
+want to join a company on the cutting edge of technology and travel? want to be part of a fantastic and fun company that’s revolutionizing the online travel advertising space? 
+specializing in traveler path-to-purchase data for over a decade, sojern is travel's direct demand engine for thousands of brands -- from global enterprises to boutique operators -- across the hotel, airline, cruise, transportation, tourism industries, and more. analyzing the world's travel intent signals with its proprietary data science methods, the company delivered $10b in generated bookings for its clients to date by activating multi-channel branding and performance solutions on the sojern traveler platform.
+recognized on the top company cultures list by entrepreneur magazine, sojern is headquartered in san francisco, with teams based in dubai, dublin, hong kong, london, mexico city, new york, omaha, paris, singapore, and sydney.
+ 
+the role: 
+it is an exciting time to join the data science team at sojern:  business is booming, the engineering platform is rock-solid, and there are increasing opportunities for data science to make an impact to sojern’s bottom line.  each of our data scientists owns their own high-impact projects, whether it is a new modeling technique delivering better predictions, a new analysis and visualization highlighting weak spots in our pipelines, or a new tool that can help the team’s workflow. we’re looking for senior data scientists who can leverage their prior ad tech experience to identify high impact opportunities, propose and implement practical solutions, and work with our product team to get them integrated as part of sojern’s offerings.
+ 
+your day-to-day:
+
+
+develop new algorithmic approaches -- our algorithms are at the core of our advertising business and small improvements can have big impact. we’re always looking to improve both performance and efficiency.
+
+
+shine light onto our data -- sojern’s traveler profiles contain glimpses into the human decision-making process regarding travel. the scope is immense, and the potential questions endless. we need talented people to help explore the data, identify the important patterns, and communicate these insights to the team.
+
+
+tool development -- we can only do the above two items effectively if we aren’t constantly re-implementing simple tasks.
+
+
+represent data science -- work alongside our product team to conceive and bring to life new functionality/products that impact sojern’s performance and value.  represent the data science team throughout sojern.
+
+
+ 
+requirements:
+
+
+python proficiency -- it’s our lingua franca, and we’re big jupyter fans
+
+
+ms of phd in cs or stem -- ability to transform concepts into practical solutions
+
+
+machine learning experience -- successful implementation of ml solutions
+
+
+communication ability -- experience/comfort in presenting abstract concepts
+
+
+experience -- 1 years of professional experience with data science/ml techniques.
+
+
+ 
+perks:
+
+
+culture: our team loves a good time
+
+
+snacks: well-stocked kitchen to fill your breakfast, lunch, and snack needs
+
+
+opportunities: be part of a growing team with training and support to help you grow
+
+
+give back: we give 40 hours a year to volunteer and organize office volunteer programs with local organizations
+
+
+ownership: lead creative and challenging projects
+
+
+meals: monthly catered lunches & happy hours
+
+
+wealth: stock options
+
+
+time off: flexible vacation days
+
+
+ 
+at sojern, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+return to sojern
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to sojern
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+
+
+
+software engineer - infrastructure and tools - external careers
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+
+about
+benefits
+departments
+locations
+view all jobs
+sign in
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+software engineer - infrastructure and tools
+
+
+                    austin
+                
+
+
+
+
+
+
+
+
+
+apply now
+
+
+facebook
+linkedin
+twitter
+google plus
+send to a friend
+
+
+
+
+
+
+
+
+ref#: r0001237
+
+our mission.
+as the world’s number 1 job site, our mission is to help people get jobs. we need talented, passionate people working together to make this happen. we are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+
+
+the team.
+we are a rapidly growing and highly capable engineering team building the most popular job site on the planet. every month, over 200 million people count on us to help them find jobs, publish their resumes, process their job applications, and connect them to qualified candidates for their job openings. with engineering hubs in seattle, san francisco, austin, tokyo and hyderabad, we are improving people's lives all around the world, one job at a time.
+
+
+your job.
+you will build the infrastructure that ensure that our code is high quality and can survive anything.  you will see your customers every day because they’ll be the developers and sysadmins working by your side. you’ll be drawing on and learning many different technical skills to build new libraries, tools, applications, services, and systems. an outage of indeed.com prevents millions of jobseekers from being unable to find the right job.  we can’t afford any downtime. we have world class engineers doing high quality work, but that’s not enough. we want software systems to be able to put our applications and infrastructure through the paces to help us make it better.  you will help make this organization faster, better, stronger by building systems to automatically run, test, and report on our software. you will build an automated infrastructure that rapidly detects problems with our software and fixes them. you will enable us to experiment with new ideas and prototypes, and help turn those prototypes into bulletproof production software. you will provide tools and insights that help our developers build better software in less time to help keep our teams small and productive.
+
+
+about you.
+what do you need?strong java, go, python or similar programming languagelinux system internalsa passion for automationstrong networking knowledgeknowledge of data structures and algorithms for writing scalable, high-performance software5+ years of industry experienceother desired skills and experiencedestructive and/or chaos testingweb applications, ideally in java, python, or goshell scripting skillsrelational databasesnosql databases, ideally mongodbsystems administrationautomated provisioning, e.g. puppet or chefa degree in computer science or closely related disciplinemonitoring production systems using tools like nagiosfamiliarity with docker or similar systems and related automationsystem or runtime (eg. jvm) instrumentationprevious experience as an sre or sdetaws or similar cloud providerfamiliarity with service oriented architecturesdevops experienceindeed provides a variety of benefits that help us focus on our mission of helping people get jobs. view our bounty of perks: http://indeedhi.re/indeedbenefits  
+
+
+
+apply now
+
+
+
+< back to search results
+
+
+
+
+
+
+indeed is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+
+
+
+
+
+                                facebook
+                            
+
+
+                                twitter
+                            
+
+
+                                youtube
+                            
+
+
+                                instagram
+                            
+
+
+
+
+©2017 indeed. all rights reserved.  *comscore, total visits march 2017
+
+
+
+
+
+
+
+
+

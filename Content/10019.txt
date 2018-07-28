@@ -1,0 +1,797 @@
+
+
+
+
+
+
+		data scientist
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+data scientist
+delos labs – new york, new york
+
+
+apply for this job
+
+
+
+
+department
+delos labs
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+
+
+
+
+
+
+
+
+about delos labs:
+delos labs is a highly dynamic and interdisciplinary team of scientists, engineers, and health professionals passionate about improving occupant health through improved indoor environmental quality. we work closely with experts in academia and industry to advance our understanding of how buildings and behavior impact human health and well-being.
+delos labs’ responsibilities are organized into primary and secondary research. 
+we conduct secondary research across a wide array of disciplines analyzing how environmental, behavioral, and metabolic factors impact human health, comfort, and performance. this research drives the discovery and development of new solutions and preserves the organization’s high standards of scientific integrity across all divisions of delos. 
+we conduct primary research through our unique research facility, the well living lab in rochester, mn, a collaborative enterprise in partnership with mayo clinic. the well living lab is the first scientific research center to use exclusively human-centered research to investigate the interaction between health and well-being and indoor environments. we conduct research aimed at fostering the creation of healthier indoor spaces in which we live, work, and play.
+position summary: 
+delos labs is seeking an exceptional and detail-oriented data scientist with experience in statistical modeling, machine learning, and engineering to lead the development and implementation of predictive models and algorithms focused on the real-world impact of the built environment on human health. the candidate will work closely with scientists within delos labs to design and build internet-scale products to promote human health, performance, and well-being in a variety of indoor environments, including homes, offices, schools, and other spaces. the ideal candidate is someone who is extremely knowledgeable about the entire development stack, capable of working in multiple languages and platforms, and is innovative and passionate about answering engineering-related questions with data.
+responsibilities:
+
+
+apply your knowledge of fundamental statistical concepts and methods to lead the development of analytical plans; evaluate, modify, and innovate methodologies; and implement appropriate quality control procedures for analysis and reporting.
+
+
+lead statistical analyses and modeling (e.g., bayesian inference, mixture models, gee), and provide technical support on statistical issues (e.g., dispersion, bias, multicollinearity) as part of a multidisciplinary team of research scientists.
+
+
+apply your programming and analytical skills to lead the development of software and data-driven algorithms and applications.
+
+
+apply predictive modeling techniques (e.g., data mining, statistics, machine learning, artificial intelligence) to translate structured and unstructured data data into stories, graphical representations, and informed, actionable insights.
+
+
+design and implement architecture to handle web-scale data and its organization.
+
+
+develop high performance, distributed computing tasks using big data technologies (e.g., hadoop, map/reduce, nosql).
+
+
+
+
+communicate complex concepts concisely and clearly to research scientists, data scientists, technologists, and product team members using technical and non-technical language.
+
+
+candidate profile & prerequisites:
+
+
+ph.d. degree or master’s degree with 3-5 years of experience, in one or more of the following fields: data science, computer science, engineering, mathematics, statistics, or another advanced quantitative modeling-oriented field.
+
+
+mastery of fundamentals of statistics and probability
+
+
+strong skills in linking data of varying type (e.g., integers, characters, dates and times, geospatial) and size (including ‘big’).
+
+
+very experienced in building advanced statistical models, including mixed effects models, generalized linear and additive models, time series models, and forecasting, from both the classical frequentist approach and a bayesian approach.
+
+
+highly proficient in python, sql, r, matlab 
+
+
+experience implementing machine learning techniques and algorithms
+
+
+experience in hadoop/spark/scala/java/javascript/c++ is a plus.
+
+
+genuine interest in finding, developing, and testing meaningful and innovative real-world solutions using data, statistics, and technology.
+
+
+demonstrated ability to make effective decisions independently and to work in a fast-paced environment with minimal supervision.
+
+
+excellent interpersonal and communication skills, and a collaborative, constructive outlook.
+
+
+exceptional attention to detail, organizational skills, and commitment to delivering high-quality work.
+
+
+compensation: salary for this position is competitive and commensurate with prior experience.
+
+please note: applications must include a cover letter for consideration.
+applicants are selected based upon their qualifications for this position and without regard to the applicant’s race, color, ethnic or national origin, religion, creed, age, disability, sex, sexual orientation, gender identity or expression, pregnancy, marital or partnership status, citizenship or alienage status, veteran status, whether children are, may be or would be residing with a person, or any other characteristic protected by law.   
+about delos:
+as the pioneer of wellness real estate™ and founder of the well building standard™, delos is transforming our homes, offices, schools, and other indoor environments by placing health and wellness at the center of design and construction decisions.  the delos platform includes research, consulting, merchandising, and programming and licensing innovative solutions for the built environment, creating spaces that nurture and promote human health and wellbeing.
+exploring the intersection between humans and the built environment, delos creates spaces that actively contribute to human health, performance and wellbeing by marrying the best innovations in technology, health, science, design, and enterprise. we see the built-environment as an asset to maximize human-potential and envision environments that enhance us. environments that are proactive, enabling us to live better by cultivating better lifestyle choices and by solving health problems before they are created.  we have broadened the scope of environmental sustainability, extending the concept beyond the best of green technology to an integrated solution that addresses human sustainability.
+our mission is to build a better world. join us.
+
+for additional information, please visit us at www.delos.com
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+new york, new york
+
+
+department
+delos labs
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

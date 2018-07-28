@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+software backend engineer- hyperconverged infrastructure
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+cisco
+cisco jobs
+
+
+menu
+
+
+
+
+english
+|
+français
+sign in
+
+
+
+
+
+
+search jobs
+careers home
+students and new grads
+events
+stay in touch
+
+
+
+
+ 
+
+
+
+
+
+
+
+< back to search results
+
+
+
+
+
+
+
+software backend engineer- hyperconverged infrastructure
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+location:
+san jose, california, us
+
+
+area of interest
+engineer - software
+
+
+job type
+professional
+
+
+technology interest
+cloud and data center, networking, software development, testing
+
+
+job id
+1220014
+
+
+new
+
+
+
+
+
+what you'll doyou will design, develop, test, and debug state of the art software modules for the management plane. these software modules allow a user to provision configuration and manage cisco hyperflex, a highly scalable distributed system of next generation hyperconverged nodes and services. these software modules and sub-systems will run on-premise and in the cloud for managing a large number of cisco hyperflex nodes and services.as a member of an engineering team, you will design and implement innovative software, and deliver comprehensive automated tests to ensure high quality software development. you will debug and fix defects, and deliver a high performance and high-quality software product.who you'll work withyou will work with product management on writing detailed functional specifications for the features. you will work with various management plane engineering and data plane engineering teams to integrate your software modules into the product. you will work with qa on test plans, and on defect fixing. you will work with product support to interface with customers using your product. you will collaborate with other members of your team and cross-functional team to develop and integrate your components, and enhance your expertise as a systems software engineer.who you areyou have 5+ years of experience in design and development of scalable,distributed management and virtual infrastructure management software modules in a linux environment.you are a hands-on engineer with a passion for programming and data structures, and proficiency in java, golang and/or scala (or any similar functional programming language). you also have strong scripting skills in python.in addition, following skills are highly desirable:      naturally think of apis, or restful apis to enable automation         experience in implementing algorithms for large-scale system configuration,     system upgrades, monitoring & provisioning in a distributed environment.          working level understanding to advanced level experience in virtualization technologies like vmware, hyper-v, kvm including knowledge of ovf tools and vm templates.         experience with, or a keen desire to learn and use,                              - devops configuration management tools like ansible, saltstack, puppet and chef.                              - containerizing applications like docker, kubernetes. why ciscowe connect everything: people, processes, data, and things. we innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. and we do it in style with unique personalities who aren’t afraid to change the way the world works, lives, plays and learns. we are thought leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. we celebrate the creativity and diversity that fuels our innovation. we are dreamers and we are doers. we are cisco.*li-pc1dicedev#gd2015
+
+
+
+
+share
+
+
+
+
+share software backend engineer- hyperconverged infrastructure with facebook
+share software backend engineer- hyperconverged infrastructure with linkedin
+share software backend engineer- hyperconverged infrastructure with twitter
+share software backend engineer- hyperconverged infrastructure with google+
+share software backend engineer- hyperconverged infrastructure with a friend via e-mail
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+share
+
+
+
+
+share software backend engineer- hyperconverged infrastructure with facebook
+share software backend engineer- hyperconverged infrastructure with linkedin
+share software backend engineer- hyperconverged infrastructure with twitter
+share software backend engineer- hyperconverged infrastructure with google+
+share software backend engineer- hyperconverged infrastructure with a friend via e-mail
+
+
+
+
+
+
+job notifications
+sign up to receive notifications of similar jobs
+
+
+
+notify me
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility for applicants with disabilities
+e-verify participation poster
+right to work poster
+agency portal
+
+cisco is an affirmative action and equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+                cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+
+
+
+
+jobs help
+|
+terms & conditions
+|
+privacy statement
+|
+cookie policy
+|
+trademarks
+
+
+follow we are cisco
+linkedin
+twitter
+facebook
+snapchat
+instagram
+glassdoor
+
+
+
+
+
+
+

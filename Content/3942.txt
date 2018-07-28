@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dupont | data scientist in wilmington, de
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+visit
+www.dupont.com
+|
+
+create / edit my profile
+
+|
+
+                view jobs in:
+            
+
+
+
+english
+french
+spanish
+portuguese
+
+
+
+
+
+ 
+
+data scientist
+
+wilmington, de
+
+
+
+
+search other jobs
+apply now
+
+
+
+
+
+new search
+previous search
+
+
+
+
+
+
+
+
+search again
+
+
+job attributes
+
+requisition id
+016335w-01
+location
+wilmington, de
+schedule
+full-time
+category
+research & development
+organization
+corporate
+education level
+master's degree (±18 years)
+employee status
+regular
+job type
+experienced
+date posted
+oct 25, 2017, 10:41:46 pm
+apply now
+share this on
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+                          wilmington, de                      
+
+
+
+job description
+the data scientist position is part of the dupont science & innovation competency in data discovery and data analytics.  in this role, you will be responsible for modeling complex problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques. you will be part of a team that work closely with internal stakeholders from emerging technologies, r&d, engineering, business and marketing, and other data/informatics teams to turn data into critical information and knowledge that can be used to make sound business decisions. you will become a critical competency and member in a fast growing team that contributes to decisions that impact the company’s growth and innovation.
+responsibilities:
+collaborate with stakeholders to identify the business requirements and the expected outcome;
+identify and select relevant and credible data sources, and provide technical instructions to data analysts to collect, integrate and mine data;
+identify and analyze patterns. design experiments, test hypotheses, and build models;
+conducts advanced data analysis and complex algorithm to help stakeholders to discover and quantify leading information.
+solves stakeholders’ problems through analytics and communicate results and methodologies through an iterative collaboration process.
+partner with stakeholders to ensure the expected qualification and assurance of the information.
+design and lead implementation of analytics pipelines and visualization by collaborating with other data/informatics teams.
+scout, test and recommend new analytics algorithms and models to the data analytics. 
+educate the organization on new analytical approaches to drive acceleration of business decision.
+collaborate with other data scientists to develop the strategy of the data analytics competency and prioritize development needs.
+job qualifications
+phd degree in natural science or statistics with strong computing background.
+more than 2-year of data analytics project experience
+expertise in machine learning and deep learning, e.g. classification, regression, clustering, feature engineering, networks;
+expertise in statistics, e.g. time series, regression models, principal component analysis, multi-variance analysis.
+expertise in text data analysis: semantic analysis, natural language processing, taxonomy.
+proficiency in data architect and data modeling using relational databases or graph databases.
+expertise in data analytics software and tools: python, r, hadoop, spark, neo4j, oracle, json.
+other preferred skills: angularjs, web service and visualization tools (e.g., seppelin, tableau, spotfire)
+familiar with linux os and software engineering methodology.
+strong business acumen with the ability to translate business problems to data analytics requirement and design data models and analytics pipelines to resolve the problems.
+excellent communication and customer-facing skills with the ability to explain technical approaches and rationale of findings in easy to understand terms for the business.
+excellent team player and technical leadership.
+
+about dowdupont
+
+                              dowdupont (nyse: dwdp) is a holding company comprised of the dow chemical company and dupont with the
+                              intent to form strong, independent, publicly traded companies in agriculture, materials science and specialty
+                              products sectors that will lead their respective industries through productive, science-based innovation to meet the
+                              needs of customers and help solve global challenges. for more information, please visit us at www.dow-dupont.com.
+                              
+                              the positions represented by this job posting are aligned to one of the three divisions, agriculture, materials
+                              science or specialty products, which are expected to separate from dowdupont into stand-alone public companies.
+                              information on the division alignment will be provided during the recruitment process.
+                          
+
+
+apply now
+
+                      dupont is an equal opportunity employer. qualified applicants will be considered without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability or any other protected class. if you need a reasonable accommodation to search or apply for a position, please visit our accessibility page for contact information.
+                      for us applicants: see the “equal employment opportunity is the law�? poster at: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+                      for our u.s. affirmative action policy, click here.
+                  
+
+
+
+
+
+
+
+
+our company
+investors
+careers
+news
+contact
+global directory
+
+
+
+ site map
+|
+ privacy
+|
+legal notices & terms of use
+
+
+
+
+					for technical assistance, contact dupont@icareerhelp.com.
+					copyright © 2017 dupont. all rights reserved. the dupont oval logo, dupont™, the miracles of science™ and all products denoted with ® or ™ are trademarks or registered trademarks of e. i. du pont de nemours and company or its affiliates.
+
+
+
+
+
+
+
+
+
+
+
+
+

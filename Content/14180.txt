@@ -1,0 +1,204 @@
+ 
+
+
+
+careers: software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+athletics (current)
+government
+
+
+
+
+ 
+
+
+
+
+
+
+
+our team (current)
+our thinking
+our resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+cary, nc
+
+
+about horizon
+
+for over 14 years, horizon performance has been the premiere selection and development consultancy for world-class teams. in those 14 years, we have developed a cutting-edge human performance and behavior tracking software tool that is used by ultra elite teams such as the navy seals, nasa, marine and army special forces, and college athletic teams. gideonsoft, the flagship product, has a solid backend infrastructure that has been in use for several years as a tool for our consulting division.
+
+duties and responsibilities
+
+the role of the software engineer has opened up in order to help transition gideonsoft from a consulting tool into a commercially available packaged product. in this role, you will be responsible for software development of horizon performanceâs flagship product throughout the software development lifecycle. as the software engineer, you will work on site in our cary, nc office and report directly to the cto.
+you will participate in designing, implementing, and testing software and mobile applications, web services, and database systems using microsoft asp.net, c#, sql server, xamarin, and related tools. in this role, you will work independently and collaboratively as a team member with software engineers, front end developers, and user experience architects.
+                    
+
+required knowledge, skills and abilities
+
+
+â¢  three years or more programming in c# and asp.net
+â¢  sql server 2012
+â¢  visual studio 2017
+â¢  mvc framework 5
+â¢  experience with: html5, json, jquery, angular
+â¢  a degree in computer science, software engineering, it or related field
+
+
+preferred knowledge, skills and abilities
+
+
+â¢  xamarin studio (c#) for ios and android development
+â¢  experience with amazon aws/rds servers
+â¢  experience with dcvs systems such as git or mercurial
+â¢  jira ticketing system
+â¢  experience with microsoft ssrs
+
+
+submit
+
+please send all resumes and job inquiries to lissa beckland at lissa.beckland [@] horizonperformance [dot] com.
+
+
+
+
+
+
+
+
+
+
+
+contact
+
+email us
+(919) 674-6644
+8000 regency pkwy #240, cary, nc 27518
+
+
+
+
+
+
+
+about
+
+home
+athletics
+government
+our team
+our thinking
+our resources
+
+
+
+
+
+connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016, horizon performance. all rights reserved.
+
+
+
+
+terms of use
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

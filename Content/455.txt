@@ -1,0 +1,276 @@
+
+
+
+
+
+
+job details – akuna capital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your career
+the team
+our culture
+get in touch
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+your career
+the team
+our culture
+get in touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+senior data visualization engineerchicago, il
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+senior data visualization engineerchicago, il
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+storytelling through data is both an art and a science, we are looking for a senior data visualization engineer to do just that by driving our data visualization platform to the next level. this role will focus on ensuring our desktop and tablet trading applications are highly performant both today and tomorrow through all market conditions. you will work with senior trading platform and data engineers, and trading & tech management to identify priorities, requirements and resourcing in order to execute tasks accordingly. we are looking for a candidate who is passionate about data visualization, problem solving and driving akuna from competitive to dominant.  
+what you’ll do as a senior data visualization engineer at akuna:
+
+build an intuitive data visualization platform that allows akuna to seamlessly trade through high volatility markets and provide traders with easy access to information at a glance
+support the growth and scalability of the company by building a data visualization platform that works in both current and future markets. this will be key as platform performance is our number one metric for this position
+develop innovative and intuitive new tooling for trading desktops and tablets
+construct a holistic view for data visualization road-map
+oversee and provide technical design leadership to data visualization team
+drive and promote your vision- interfacing with our existing applications requires you to have a big system engineering mindset
+collaborate on vision with other senior engineers who own various parts of our trading or data systems
+choosing the appropriate technologies for the various problems that need to be solved
+
+qualities that make great candidates:
+
+bachelor’s degree in computer science, a related field or equivalent work experience required
+6+ years of experience in ui/ ux
+ability to support current c# platform and evolve to next generation (not necessarily in c#), we are open to using new languages for this
+must be an experienced developer in c++, python, c# or java or similar
+experience with big data and high throughput low-latency systems
+ability to communicate information clearly and efficiently through ui’s
+experience with web development technologies such as react
+ability to build a system that takes data from a variety of sources and present it to the user in a cohesive manner with no perceptible delay
+
+ location: chicago, ildepartment: developmentapply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the new wavein tech and trading
+akuna capital headquarters
+333 south wabash avenue
+26th floor
+chicago, il 60604
+
+
+
+
+
+
+
+
+all rights reserved © akuna capital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

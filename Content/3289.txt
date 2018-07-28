@@ -1,0 +1,199 @@
+
+
+job information: autonomous driving - software engineer  job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share
+
+
+
+
+
+
+												email opening
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title
+autonomous driving - software engineer  
+
+eoe statementaptiv is an equal employment opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.  
+description	
+ moving mobility forwardwe are aptiv – a new technology company with a proven history of enabling mobility. operating as delphi, we pioneered advances in the industry. now, as aptiv, we’re more dedicated than ever to bringing the next generation of autonomous vehicles, smart cities and connectivity to life. join our innovative teamwant to do more than just imagine the ways our world will move tomorrow? here’s your opportunity. join the technology company that’s transforming the future of mobility today. about aptivaptiv is an advanced technology company with a proven history of enabling mobility. we’re dedicated to bringing the next generation of autonomous vehicles, smart cities and connectivity to life. aptiv.com__________________________________________________________________________our software engineers play a key role in making the vehicle of the future a reality by developing technologies that deliver a turnkey, fully autonomous driving system for our customers and enable mobility on demand (mod). as we expand our global footprint, we are looking for exceptional software engineering talent to apply real-time applications (rtas) to our products.do you enjoy field testing and prototyping? do you have a knack for enabling linux systems on embedded platforms? if the answers are yes, we’re looking for you.how you’ll make a difference develop software for use in autonomous driving/active safety production projects, focusing on reusability across projects whenever possible interface with systems engineering to ensure software requirements are documented appropriately and analyzed prior to software design and implementation impact analysis of product requirements and changes support the development/maintenance of and adhere to the project family common software architecture design/code/test software following automotive spice-compliant development process perform static analysis and unit testing for 100% coverage for the released application ensure documented traceability from requirements through test cases plan and coordinate software development activities with other global sites developing active safety software plan and coordinate with others to ensure software deliverables are completed on time per project schedule and meet software quality standards document and communicate lessons learned to global team identify opportunities for quality and productivity improvement and implement appropriate initiativeswhat you’ll bring embedded microprocessor experience (operating systems, i/o drivers, communication drivers, intel, infenion, nvdia, freescale, renesas etc) familiar with embedded development tools (debuggers, oscilloscopes, serial data tools, etc.); good knowledge of multi core architectures experience with c and c++ programming for embedded products experience with can/lin/flexray communication protocols and tools – preferred experience with canoe, canalyzer experience with iso 14229 unified diagnostic services – preferred experience with linux, qnx operating systems – preferred experience with autosar architecture – preferred strong knowledge of assembly language - preferred experience with spi inter-processor communications – preferred experience with osek-compliant embedded rtos or similar - preferred strong work ethic focused on quality software development required familiar with automotive spice and/or cmmi development process requirements experience following iso 26262 functional safety standard (or similar) preferred ability to work across time zones with other software engineers required excellent communication and presentation skill software testing and debugging experience	 
+
+
+position requirements	
+	 
+
+
+work authorization	
+	 
+
+
+educational requirements	
+	 
+
+
+req number	
+eng-17-01017	 
+
+
+location	
+pittsburgh, pa	 
+
+
+about the organization	
+aptiv is a global technology company that develops safer, greener and more connected solutions that enable the future of mobility.  headquartered in gillingham, england, aptiv has 147,000 employees and operates 14 technical centers, as well as manufacturing sites and customer support centers in 45 countries.  visit aptiv.com.	 
+
+            this position is currently accepting applications.  apply now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we also recommend
+
+
+other jobs within same category
+
+
+
+autonomous driving senior software engineer – system software in boston, maposted on: 12/13/2017[apply now]autonomous driving senior software engineer – systems hardware in boston, maposted on: 12/13/2017[apply now]autonomous driving senior software engineer – systems hardware in las vegas, nvposted on: 12/13/2017[apply now]engineering group manager - algorithms in troy, miposted on: 12/12/2017[apply now]cybersecurity engineering architect in troy, miposted on: 12/11/2017[apply now]
+
+
+
+other jobs within 60 miles
+
+
+
+
+autonomous driving software engineer - cloud in pittsburgh, paposted on: 8/21/2017[apply now]autonomous driving engineer - perception in pittsburgh, paposted on: 8/21/2017[apply now]autonomous driving systems engineer - test & verification in pittsburgh, paposted on: 8/22/2017[apply now]autonomous driving engineer - localization in pittsburgh, paposted on: 8/22/2017[apply now]autonomous driving r&d engineer - vehicle control in pittsburgh, paposted on: 11/13/2017[apply now]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+
+
+see who works here:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+appone.comtm   copyright©1999-2017 hr services, inc.click here for technical assistance.
+
+
+
+
+
+
+
+
+
+

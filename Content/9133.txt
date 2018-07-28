@@ -1,0 +1,170 @@
+
+
+job information: reporting analyst job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												email opening
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title
+reporting analyst 
+
+ 
+description	
+the money source is now hiring: reporting analystthe reporting analyst position is responsible for providing analytical support to servicing division of the money source, and other business applications related to the servicing of mortgage loans. this position is responsible for designing, implementing, and supporting analytical data capture throughout the system. the reporting analyst will generate reports to support as well as monitor data quality and integrity. the reporting analyst position supports all analytic efforts of the internal business units for report development, quality assurance, and analysis. the position also supports business process improvement efforts including projects to enhance automation, quality, and efficiency.duties and responsibilities: report writing, including data validation obtains specifications for user report needs. supports users department’s information needs by designing reports, coordinating data mining through other systems and/or working with vendor for system modifications responsible for both conceiving and writing necessary reports – develop new reports as needed/requested by management to provide timely and accurate information to decision makers. review report specifications for completeness and accuracy produce necessary reports, provide first level including data validation. develop reports, graphs and presentations of operations and project results including dashboards. maintain an accurate inventory of requested reports and applicable modifications work with the manager and report requestors to evaluate and clarify requests. evaluate uniqueness of data, offer alternative solutions where applicable, including non-automated reporting. responsible for monitoring the performance of reports and taking corrective action to optimize or improve the performance of the reports when necessary. participate in application validation and qa efforts as they pertain to reporting, data, metrics, and report creation and execution.data analysis import data into database and use tools to create integrated data models by translating functional requirements into reporting objects. obtain and extract data from existing internal and external data sources provide detailed analysis to identify trends, interpret patterns and relevant artifacts associated with the data. analyze and resolve issues with integration and management of data. perform basic statistical analysis for reports and projects. extract existing data to manipulate/calculate/format into presentable reports, charts, and graphs. elicit, document, and analyze reporting needs and requirements. analyze data and reporting solutions to understand business impact, correlations/discrepancies, and to propose changes/alternate solutions. perform ad hoc analytical requests and research projects for internal parties. special projects as assigned by management.	 
+
+
+position requirements	
+requirements: minimum 2 years of experience with sql server 2008r2/2012. minimum 2 years of experience working with ms sql server data tools, sql management studio and visual studio, specifically ssrs. experience with systems development lifecycle, scrum, agile, etc. must be skilled in sql, t-sql and scripting. understanding of database normalization, indexing. must be skilled in the advanced use of microsoft office applications. must have excellent communication skills and be able to communicate technical ideas effectively. must have strong data profiling and troubleshooting skills.preferred: prior experience with black knight mortgage the like mortgage servicing microsoft certification (microsoft certified it professional). previous experience with application development. previous experience with sharepoint, excel services and powerpivot.education: associate’s degree in computer science, engineering, information technology, management or equivalent combination of experience, knowledge, skills and abilities.experience required: required: 2 years of relevant experience preferred: 5+ years of relevant experiencesalary: commensurate with experience. the money source/endeavor america loan services offers competitive compensation, comprehensive benefits (medical, vision, dental), paid time off, and a 401k savings plan . only candidates selected for further consideration will be contacted. the money source/endeavor america loan services is an equal opportunity employer.	 
+
+
+location	
+the money source - tempe, az	 
+
+
+about the organization	
+the money source is a national correspondent lending company, headquartered in melville, new york. we believe that by investing in the needs of our sellers, brokers, employees, and homeowners we can create an environment that fosters growth, achievement, and most importantly happiness. at the money source it is our goal to create a company that is more than just a mortgage lender. we believe that we have an obligation to our team, lending partners, and to homeowners to build a business that focuses on the one thing that humanity strives for in life: growing happiness.
+
+we believe that by aligning the interests of our employees, sellers, brokers and homeowners we are building a company that empowers doing the right thing for the right reasons. by promotion of our company culture, and through constant innovation through our easy technology,the money source is building a model of excellence in the mortgage industry and wishes to be an example of what a company should be.
+
+we encourage you to visit our website @ https://themoneysource.com/core-values/ and our facebook page @ https://www.facebook.com/themoneysourceinc to learn more about the company and the people behind the company.	 
+
+
+eoe statement	
+we are an equal employment opportunity employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law.	 
+
+
+email
+none specified 
+
+
+
+supervisoruid
+none specified 
+
+
+            this position is currently accepting applications.  apply now 
+
+
+
+
+
+
+
+
+
+
+
+we also recommend
+
+
+other jobs within same category
+
+
+
+it helpdesk technician i in meriden, ctposted on: 11/22/2017[apply now]it helpdesk desktop support technician i in  tempe, azposted on: 11/21/2017[apply now]it helpdesk support technician i in phoenix, azposted on: 11/21/2017[apply now]it desktop support in melville, nyposted on: 10/2/2017[apply now]
+
+
+
+other jobs within 60 miles
+
+
+
+
+it helpdesk desktop support technician i in  tempe, azposted on: 11/21/2017[apply now]it helpdesk support technician i in phoenix, azposted on: 11/21/2017[apply now]default processor in  tempe, azposted on: 11/6/2017[apply now]loan processor in phoenix, azposted on: 8/25/2017[apply now]closer in phoenix, azposted on: 11/10/2017[apply now]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ click here for technical assistance.
+
+
+
+
+
+
+
+
+
+

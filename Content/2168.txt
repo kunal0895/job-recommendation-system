@@ -1,0 +1,333 @@
+
+
+
+
+resident engineer career opportunity - dorado software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+rc synergy 
+enterprise it management 
+service provider 
+engineering tools 
+
+
+
+solutions
+
+operational communities 
+commercial service/nfv/sdn 
+inventory 
+monitoring 
+traffic flow analysis 
+cisco ipsla 
+network configuration 
+change/compliance
+storage management 
+mpls infrastructure 
+security services 
+carrier ethernet 
+vpn 
+lte 
+ims 
+cpe 
+mobile backhaul 
+service assurance 
+service creation 
+device/element management 
+managed services 
+
+
+
+partners
+
+telco cloud/nfv/ip 
+partner source 
+resellers/var 
+system integrators
+manufacturers/oem 
+managed service providers 
+dell
+
+
+
+developers 
+
+device driver sdk
+redcell service studio 
+
+
+
+support
+
+support overview 
+training 
+
+
+
+company
+
+about dorado 
+career opportunities
+news
+
+
+
+
+
+
+
+contact 
+
+
+
+
+
+
+
+nfv/sdn
+downloads
+redcell™
+live chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resident-engineer-lead
+
+
+
+
+
+company
+
+
+about dorado software 
+career opportunities 
+news 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+live chat by liveperson
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+[redcell] will allow us to get a handle on what's out there, what we have, what's in its configuration, and when we want to replace it.
+lorenzo shells, network systems engineer for the california department of corrections and rehabilitation (cdcr)
+
+
+
+
+
+career opportunities
+please send resume's to hr@doradosoftware.com
+lead development project resident engineer, kuala lumpur:
+dorado software, inc. is the market leader in infrastructure management for heterogeneous environments. dorado gives it and network teams the power to view, deploy, configure and control their network resources via a single solution, offering an economical and efficient alternative to the multiple disparate systems traditionally used to manage networks.
+the lead resident engineer (re) shall be stationed at the assigned customer's premises in malaysia (kuala lumpur geographic area) during normal working hours, as well as odd hours as requested by the client. the functions of the lead resident engineer are listed as below but not limited to:
+responsibilities include:                
+
+perform as  the key customer technical liaison between the client and dorado software development teams located in the united states.
+managing and tracking open trouble tickets, scrs, and open bug reports.
+providing project scope description and regular status reports to all parties involved in the project on a weekly basis.
+provide risk assessment and project issue management for all assigned projects.
+change control gatekeeper responsible for the documentation, review, acceptance and impact analysis of all project changes.  maintain and update the project baseline documentation accordingly.  participate in the customer's change control meetings and provide technical and management guidance.
+project status tracking, including documenting key project dependencies, critical path activities and minimizing project impacts/delays.
+hands on assistance with all re duties, as a senior technical representative.
+                	
+perform software installations and upgrades and assist the client with related server administration, as required for the client's software product deployment.
+testing of product features and functionality on-site.
+regularly conduct hands-on transfer of information (knowledge sharing sessions) with the client's staff.
+redcell deployment optimization and enhancement analysis. 
+provide input and recommendations to fine tune and improve processes/use of dorado software�s products in the client's environment.
+
+
+capture customer's product enhancement requirements and provide documentation and communication with dorado software's product management & product development teams.
+oversight of a small team of technical engineers, including personnel management such as performance evaluations, time sheet tracking  process and approval, enforcing employment conformance to all rules and regulations of the project and employment, and (if necessary) executing corrective action measures with direct reports.
+
+professional skills and experience
+the selected resident engineer shall meet the following criteria:
+
+strong communication skills (oral and written). must be proficient with verbal and written communication using the english language.
+technical management experience including oversight of 2 or more junior technical staff for more than 1 year.
+project management skills and experience, including experience using project management software tools such as microsoft project (or equivalent).
+proven experience interfacing  on a regular basis and being accountable to executive management of both the customer and employer.
+a minimum of 3 years professional experience with specific network management and service provisioning application experience. 
+proven experience creating and executing test plans.
+proven experience performing business requirement analysis and documenting requirements.
+able to work odd hours and upon short notice as requested by the client.
+
+
+required technical skills/experience                
+
+proven project management experience delivering a software solution, from planning and requirements through user acceptance testing and acceptance.
+knowledge on network management standards.
+understanding of tcp and udp protocols.
+hands-on experience configuring services for at least one of the following vendor's ip ngn devices:   juniper, cisco, 3 com, huawei.  
+hands-on experience configuring routers or ethernet switches for multiple vendors.
+understanding of common topologies, including physical and logical links.
+solid understanding of layer 2 and layer 3 network services including mpls vpns (layer 2 and layer 3), ipsec, nat/firewall (sfw), ids.
+knowledge of ip routing protocols is a must (bgp, ospf, static routes).
+experience configuring and utilizing  ip based network management protocols, including snmp, telnet and ssh.
+configuration and interaction with file servers (tftp, ftp and scp).
+understanding of multicast.
+hands on experience with network testing and troubleshooting tools:
+                	
+packet capture tools
+protocol/analysis tools
+packet simulation/traffic emulation tools
+
+
+experience with network testing and troubleshooting tools:
+                	
+snmp agent emulation tools (mimic, simple agent pro)
+snmp mib browsers
+cli communication emulation tools
+
+
+
+additional desired skills/experience
+skills listed below are also desireable of the person filling the re position:
+
+project management certification.
+fluent with bahasa malaysia language (oral and/or written) desired in addition to english.
+network service vendor certification:  any of the following (juniper: jncis or jncip, cisco: ccnp or  ccie).
+solid understanding of any of the operating system, configuration file structure, and applicable ems's for the following vendor's  device families:
+           	  
+juniper junos m/t/j and mx series routers
+juniper junos ex series devices
+juniper e-series bras devices
+juniper n-series devices
+cisco  ios routers and switches
+3com routers (cpe device families in particular)
+huawei devices (bras, cpe, or edge router models)
+
+experience configuring mpls layer 2 or layer 3 vpn services.
+experience defining regular expressions (regex) to parse and process data obtained from network devices using a command line interface (cli).
+experience creating, testing and deploying perl scripts.
+experience deploying and testing web service applications, using industry standard and open source tools for test automation.
+experience performing and testing integration between multiple ems and oss software systems.
+software testing and implementation skills, including any of the following technologies: java. web services(soap/wsdl), xml, http.
+
+please send resume's to hr@doradosoftware.com
+
+
+
+
+
+
+
+
+
+ contact for a  free trial!
+
+
+ 
+demo redcell today!
+
+
+
+
+
+
+
+
+
+
+
+ signup for the dorado newsletter today!
+
+
+ 
+full name: 
+email:  
+
+
+
+
+
+
+
+
+
+
+
+
+home 
+products 
+solutions 
+partners 
+developers 
+company 
+support 
+contact 
+privacy policy 
+
+
+copyright© 2015 dorado software, inc.
+
+designed and developed by black lizard interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

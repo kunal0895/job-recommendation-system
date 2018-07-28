@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: data integration analyst (269) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript is turned off in your web browser. turn it on to take full advantage of this site, then refresh the page.
+
+loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities: data integration analyst (269)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+req id 269 - posted 12/12/2017 - western wa - technology - information technology - washington
+
+
+
+ &nbspjob description print preview
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	         	 
+              
+
+
+
+
+                  apply using linkedin™
+                 
+               
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+ 
+
+
+
+mod was founded on the idea that if we take care of our people and our communities, the business will largely take care of itself. we are focused on creating a workplace where individual spirits are celebrated, and our teams are empowered to go above and beyond to take care of our customers.
+with more than 200 locations across 20 states and the united kingdom, mod is committed to creating a positive social impact in the communities both domestically and internationally, creating not only a cool place to eat, but an inspired place to work. 
+
+ 
+position overview
+the data integration analyst leads the development of a state-of-the-art integration strategy and architecture and guides the development of high performance integration applications and frameworks in support of strategic initiatives having domain knowledge in e-commerce, order management, supply chain, fulfillment, crm, mdm, mobile apps and cots applications. core responsibilities of this hands-on role include assessing needed changes to the integration architecture, defining proper use of integration technologies & patterns, enterprise level api and web service identification, and the development of management processes to govern the integration layer. the integration architect will contribute to the development of roadmaps and migration plans for integration of business systems, and infrastructure to streamline interfaces, reduce redundancy and business costs. the integration architect must have a strong hands-on development track record building integrations utilizing a variety of integration products, tools, protocols, technologies and patterns.
+
+ 
+key responsibilities: 
+
+perform an active, leading role in shaping, building and enhancing overall integration architecture, helping to define the future state architectural blueprint and develop roadmaps to get there
+actively develop solutions to contribute to enterprise class integration and middleware software development best practices, standards and procedures
+collaborate through effective communications with to achieve a very good understanding of the integration requirements of their projects and then design and develop sustainable integration applications to address those requirements
+design integration solutions and produce all design phase deliverables including technical design documents, flowcharts, data transformations, mappings, routing etc. evaluating impacts to performance and scale to support policies and slas as required.
+manage, & be actively involved during build phase and quality assurance of code to ensure fulfilling requirements and adhering to integration architecture.
+ensure necessary development and testing practices are engaged for all projects to ensure the quality and supportability of all delivered solutions
+maintain the appropriate balance between the needs of the enterprise and specific initiatives and delivery timeframes
+analyze data-related systems integration opportunities and challenges, validating data models from a data integration perspective for current projects as well as other impacted projects and drive quality improvements
+demonstrate and deliver on depth and breadth of technical and business/partner expertise (knowledge and skills)
+deliver innovative strategies to achieve business/partner goals beyond scope of duties
+
+ 
+basic qualifications:
+
+8+ years overall it system architecture, design, development, deployment experience.
+must demonstrate very sound and in-depth understanding of soa/eai/esb concepts, soa governance, event driven architecture, message based architectures, file sharing and exchange platforms, data virtualization and caching strategies, integration design patterns and frameworks
+is proficient & hands-on in languages such as java or .net
+significant understanding of cloud architectures & patterns (azure or aws)
+demonstrated knowledge in any of the cicd tools, and in its usage for support of continuous integration & deployment.
+strong experience with xml/xsl/xslt/xsd, jaxdb, soap, wsdl, http, rest, apis
+proven expertise with a track record of solution delivery using various data integration solutions in situations requiring real time (synchronous and asynchronous) messaging, publish/subscribe models, microservices patterns, middleware, extract, transform and load (etl) and other related methodologies in a multi-user, multi-platform, multi-tier environment
+proven hands-on experience leading, architecting, designing, and implementing large scale, high transaction volume, and high availability integration projects.
+accustomed to working under pressure and to deadlines while adjusting to rapidly changing priorities
+works well in a collaborative, cross functional teams
+good oral and written communication skills in english
+bachelor's degree in computer science, information systems, other related field or equivalent work experience.
+
+ 
+preferred qualifications:
+
+working knowledge and experience in online transactional (oltp) processing and analytical processing (olap) databases and schemas
+advanced skills implementing api service architectures using any of the market leading api management tools
+significant understanding of microservice patterns & concepts & its application in problem solving
+demonstrated knowledge of broad enterprise architecture concepts, disciplines, and capabilities.  familiarity with enterprise architecture frameworks such as togaf or zachman
+
+ 
+physical requirements 
+office work involves remaining in a stationary position most of the time in front of a computer, using a keyboard, mouse and telephone. regularly operate a computer and other office equipment. occasionally move about the work site to access file cabinets, office equipment, etc. exert up to 10 lbs. of force occasionally, and/or a negligible amount of force frequently or regularly move objects. communicate and exchange information with co-workers and other individuals in person and electronically.
+ 
+location: 2035 158th court ne #200, bellevue wa, 98008
+ 
+are you mod? apply today! 
+one of mod’s core strengths is the diversity of our mod squaders, and we are dedicated to upholding this diversity. we work hard to make mod a place that is welcoming to all people. in this regard, mod is an equal opportunity employer and is committed to equal opportunity for all employees and applicants. mod recruits, hires, trains, promotes, compensates, and administers all personnel actions without regard to race, color, religion, sex, sex stereotyping, pregnancy (which includes pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), gender, gender identity, gender expression, national origin, age, mental or physical disability, ancestry, medical condition, marital status, military or veteran status, citizenship status, sexual orientation, genetic information, or any other status protected by applicable law
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	                  apply
+	                 
+	           	
+              
+
+
+
+
+                  apply using linkedin™
+                 
+              
+              
+
+
+
+
+
+
+
+	                  save job
+	                
+
+
+
+
+
+	                  email job to friend
+	                
+
+
+
+
+
+                  return to list
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job to a friend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+the job has been sent to
+          
+
+
+ 
+
+
+
+please provide the information below
+
+
+
+job title:
+        
+
+
+
+
+*your email address:
+        
+
+
+
+
+*your friend's email address:
+        
+
+
+
+message:
+        
+         
+
+
+
+
+
+
+verification code:
+        
+
+
+
+
+
+*please enter the verification code here:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+send
+            
+
+
+
+
+cancel
+            
+
+
+
+
+
+
+
+
+
+
+
+
+powered by successfactors
+
+
+
+
+
+
+
+ ©2017 mod super fast pizza, llc. all rights reserved.  privacy terms of use
+
+
+
+

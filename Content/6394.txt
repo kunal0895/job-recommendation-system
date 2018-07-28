@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1956915
+												
+
+
+job title
+												
+
+video systems engineer(san diego and santa clara, ca)
+
+
+
+
+post date
+													
+
+12/12/2017
+													
+
+
+
+
+
+
+														company
+													
+														-
+													
+														division
+													
+												
+
+
+
+																	qualcomm technologies, inc.
+																
+																	-
+																
+																	cdma technology
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - systems                           
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+															california - santa clara 
+
+
+
+job overview
+													
+
+
+
+join qualcomm technologies inc. cdma technologies, based in san diego, california, and contribute to the corporate and industry-wide initiatives for developing video codec and protocols for multimedia services in wireless networks.
+responsibilities:
+contribute to the conception, development, implementation and optimization of new algorithms allowing to further improve coding efficiency over state-of-the-art video codecs such as hevc. considerable focus will be placed on compression of high dynamic range and wide gamut content as well as virtual reality (360) video.
+actively participate in the related work of standardization forums: jvet, mpeg video and itu-t/vceg.
+develop encoder algorithms such as mode decision, motion estimation and rate control. initiate ideas, design and implement algorithms for superior encoder performance, including perceptually based bit allocation. collaborate with hardware and software teams to come up with optimal solutions for various platforms including hardware, arm and dsp, etc. design encoder architecture, functional models and data structures for efficient implementation.
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+experience required in one or more following areas: signal processing algorithms design for video and image processing. multimedia compression and relevant formats such as h.265/hevc, h.264/mpeg-4 avc. transform design, entropy coding, motion estimation and rd optimization. usage of machine learning techniques to support the optimization of existing video coders and the creation of new ones.perceptual video coding and visual quality assessment.record of innovation: granted patents, publications in the area of video source coding, processing, and/or transport.
+
+
+
+preferred qualifications
+													
+
+
+
+proficiency in c++ and/or c programming, experience with simd and code optimization preferred.
+knowledge of quantitatively assessing hardware implementation requirements of algorithms preferred. 
+
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: master's, computer engineering and/or computer science and/or electrical engineeringpreferred: doctorate, computer engineering and/or computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+													video, standards, mpeg, h.264, hevc, mpeg2, jvet, video codec, hm, jem
+												
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

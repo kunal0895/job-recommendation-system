@@ -1,0 +1,358 @@
+
+
+
+
+
+
+elan technologies careers
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+home
+services
+
+data center management services
+infrastructure consulting services
+project management solutions
+
+
+consult
+
+consulting
+outsourcing
+staffing solutions
+
+
+technologies
+
+virtualization
+cloud computing 
+
+
+partners & clients
+about us
+
+about elan
+careers
+management
+ 
+
+ connect
+
+contact us
+
+employee 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+careers
+
+
+home/
+about us/
+careers
+
+
+
+
+
+
+
+
+
+
+why elan technologies? 
+
+
+
+
+ 
+
+our goal is to make you better 
+elan technologies actively seeks a diverse range of professionals to deliver specialized capabilities and solutions to clients across it industry.
+at elan, you are encouraged to think out of the box. we enable our colleagues to explore their ideas by creating a collaborative and entrepreneurial environment.
+if you consider yourself ready for a challenging but rewarding career, at elan, you will feel right at home.
+at elan, we're proud of the outstanding work that we deliver to our clients, and most importantly, we're proud of our people who make it happen. it takes extreme talent, passion for your work and an ability to inspire others to excel here.
+
+
+
+
+employee referral program 
+these postings are eligible for the employee referral incentives as outlined in the companyâs employee handbook.
+read more
+
+
+
+
+
+
+ 
+
+current openings
+we are always looking for professionals with the following expertise:
+
+ system administrator (windows, unix & storage). 
+ functional strategists with 5 or more years of industry experience. 
+ technical gurus with 5 or more years of industry experience in the following technologies:
+
+elan is looking for professionals with the following skill sets:
+
+
+
+
+
+
+
+
+
+
+
+it project managers - irving, tx :
+supervise and train a team of systems and database administrators and software developers to efficiently execute software and system administration functions; develop, document, and maintain policies, procedures and associated training plans of it consultants; recommend, schedule, and supervise team on software and hardware improvements, upgrades, patches, reconfigurations, and backups for databases & data translated and transmitted; monitor applicationsâ performance and resources based on data traffic; develop performance metrics and appropriate reports. supervise team on identifying, researching, resolving, and documenting application or server issues; responsible for initiation, scope, planning, timelines, execution, communication, cost control, and quality control; and act as an effective bridge between business team and the technical team. ms in cs, it, relevant engineering discipline, or related or equivalent field and 2 yrs. of prior experience in software development and/or database/system administration. will accept bs and 5yrs in the same.
+send resume to jobs@elantecs.com and select job # 510.
+
+
+
+
+sql database administrator - irving, tx :
+looking for junior database administrators who will administer, test, and implement relational database systems and apply knowledge of database management systems to modify existing databases to the business needs of the clients.  will be involved with working on ms sql server related rdbms suit of products like ssis, ssrs and ssas. individual will work with leads to design and develop logical and physical data models as per the requirement. database administrator ensure data security and conduct data backup and restore startegies and design disaster recovery strategies. bachelor in cs, relevant engineering field, or related field. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 211.
+
+
+
+
+systems engineer - irving, tx : 
+responsible for design and develop deployment procedures, implement software and network updates. will be hands on with patching and software installations. will be involved with linux, windows based systems with aws, chef/puppet environments. systems engineer should make recommendations to existing systems and modify existing systems, resolve system architecture and administration issues and perform systems management tasks, and integrate applications into existing architecture. bachelor in cs, it, relevant engineering field, or related field or equivalent based on a degree evaluation. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 311.
+
+
+
+
+systems administrator - irving, tx : 
+responsible for assisting in maintaining and operating complex, large scale computer systems and/or networks. will install, update, and troubleshoot servers with support from respective vendors across various platforms and works as the core infrastructure team to identify and resolve root causes of the issues. provide support in ongoing administration of unix/linux/windows infrastructure systems administrators perform data backups and recovery strategies and implement solutions for systems. bachelor in cs, it, relevant engineering field, or related field. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 411.
+
+
+
+
+qa test engineer - irving, tx : 
+qa test engineer will analyze business requirements to determine the range and scope of testing scenarios needed and identify test objectives from requirement documents/technical design specifications. looking for someone who will perform end-to-end manual and/or automated tests, document results and work with developers to remediate issues/retest defects. bachelor in cs, it, relevant engineering field, or related field. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 511.
+
+
+
+
+software developer - irving, tx : 
+software developer will develop, create, and modify general computer applications software. should analyze user needs and develop software solutions, design software or customize software for client use with the aim of optimizing operational efficiency. software developers ssupport the generation of software applications (test plans, test procedures, test reports, test reviews) by applying the appropriate standards, processes, procedures, and tools throughout the software development life cycle. will be working with java, j2ee, ajax and related development technologies. bachelor in cs, it, relevant engineering field, or related field. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 611.
+
+
+
+
+systems analyst - irving, tx : 
+responsible for requirements gathering, documentation, configuration, implementation, support, and troubleshooting of computer servers, databases, and software applications. proficient in redhat linux, windows, unix, business objects, tableau, ms reporting services (ssrs), dataquality server, ms sql, oracle, ms access, python, sql, visual studio, activedirectory, centrify, service now and, maximo. bachelor in cis, it, cs, relevant engineering field, or related field or equivalent based on a degree evaluation. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 20170901.
+
+
+
+
+it project managers (entry level) - irving, tx : 
+supervise and train a team of systems and database administrators and software developers to efficiently execute software and system administration functions; develop, document, and maintain policies, procedures and associated training plans of it consultants; recommend, schedule, and supervise team on software and hardware improvements, upgrades, patches, reconfigurations, and backups for databases & data translated and transmitted; and monitor applicationsâ performance and resources based on data traffic. supervise team on identifying, researching, resolving, and documenting application or server issues; responsible for initiation, scope, planning, timelines, execution, communication, cost control, and quality control; and act as an effective bridge between business team and the technical team. ms in cs, it, relevant engineering discipline, or related or equivalent field and 2 yrs. of prior direct technical experience working in software development, database/system administration, and/or systems engineering using current technologies. will accept bs and 5yrs in the same.
+send resume to jobs@elantecs.com and select job # 20170902.
+
+
+
+
+systems administrators  - irving, tx : 
+responsible for deployment, installation, configuration, administration, troubleshooting, application support, and maintenance of computer networks and systems. proficient in linux, solaris, unix, redhat, windows, vmware, emc, dns, ldap, shell scripts, veritas clusters, and veritas volume manager. master's in cs, it, relevant engineering field, or related/equivalent field and six months of relevant experience. travel required to unanticipated work sites.
+send resume to jobs@elantecs.com and select job # 20170903.
+
+
+
+
+
+
+ 
+
+whatâs in it for me
+there are no employees at elan. only associates. 
+associates at elan enjoy:
+we offer a unique window to our associates to visualize, understand and work in a global environment, explore unlimited growth prospects and add a distinct edge to their careers.
+
+
+ 
+
+benefits:
+
+ special "on the spot" awards. all managers at elan are authorized to extend "on the spot" cash awards to employees that have been performing above and beyond expectations. 
+ certification reimbursements. all certifications that are relevant to your industry/practice are reimbursed 100% upon completing the necessary prerequisites. 
+ healthcare plan. full time employees are eligible immediately. 
+ 401(k) plan - employees are eligible after one year of service. 
+ two-week minimum vacation during your first three years of service 
+ new hire referral bonus: paid after three months after successfully hiring an employee through a referral.
+
+
+
+
+
+
+
+
+
+
+
+
+apply with us
+
+
+fields marked with *  are mandatory. 
+
+
+
+your name * 
+
+
+
+
+
+telephone no * 
+
+
+
+
+
+email * 
+
+
+
+
+
+address
+
+
+
+
+
+desired pay
+
+
+
+
+
+are you legally authozied to work in the us for any employer? :
+
+
+ yes
+
+ no  
+
+
+willing to travel? :
+
+
+ yes
+
+ no  
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+
+how to reach us
+
+ elan technologies
+      400 e royal lane suite # 260
+      irving tx 75039
+
+ # 1-855-451-elan(3526) 
+ # 214-614-4786
+ info@elantecs.com
+
+
+
+services
+
+data center management services
+infrastructure consulting services
+project management solutions
+
+technologies
+
+virtualization
+cloud computing 
+
+
+
+quick links
+
+about elan
+careers
+partners & clients
+contact us
+privacy policy
+terms of use
+enquiry
+
+
+
+
+
+
+â© 2014 elan technologies,  all rights reserved.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

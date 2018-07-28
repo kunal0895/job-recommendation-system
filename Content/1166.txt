@@ -1,0 +1,392 @@
+
+
+
+
+
+
+
+
+
+
+zipcar - opportunities - north america - data engineer (4091)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main menu
+
+for everybody
+for business
+zipvan
+
+
+
+
+
+
+main menu
+
+menu
+join!
+is zipcar for me?
+how it works
+find cars
+rates & plans
+blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+loading...
+
+
+
+
+data engineer (4091)
+
+
+
+location:zipcar san mateo ca country:united states employment type:full time pay type:salary 
+
+
+
+
+
+
+
+loading...
+enlarge map
+
+
+
+
+
+
+
+
+
+
+
+hi there. we’re zipcar, the world’s leading car-sharing network, driven to make cities better places to live.
+since 2000, we’ve worked hard to turn a brilliant and disruptive idea into a movement that serves more than a million members worldwide. we’re keeping the pedal to the metal and growing every day. that’s why we need talented, passionate people with great ideas to join the zipcar family.
+want to work for a company that is shaping the future of urban mobility? ready to join a dynamic, playful, diverse, and respectful company that’s seriously changing the world? then apply! to learn more, visit zipcar.com or zipcar.com/careers.
+summary:
+zipcar is seeking a data engineer that will be a leader in our efforts to leverage data about our members and vehicles, so that we may continually improve the zipcar experience and support internal operations.
+ 
+responsibilities:
+responsibilities include but are not limited to the following:
+
+design and build scalable data infrastructure to support real-time analytics
+manage data capture, transformation, and pipelines across our production applications and hadoop cluster
+collaborate closely with data scientists and software engineers to deploy and scale machine-learning models into production
+support the development of backend and frontend tools serving a variety of internal business processes and consumer-facing products
+contribute to data architecture and technology decisions with expert understanding of data engineering best practices
+use modern software tooling for rapid development, integrated testing, and high performance
+
+ 
+qualifications:
+the successful candidate must have the following experience, skills, and education:
+
+bs in computer science, mathematics, statistics, engineering, or equivalent experience
+experience and skill in data technologies, including:
+
+hadoop distributions (e.g. cloudera, aws)
+data pipelines (e.g. kafka / flume, kinesis / lambda)
+data storage (e.g. hdfs, s3)
+data processing frameworks (e.g. spark, mapreduce)
+data querying (e.g. impala, redshift, sparksql)
+programming languages (e.g. java, python, scala)
+
+
+experience supporting data-driven products, applications, and features
+excellent verbal and written communication skills
+
+ 
+the ideal candidate has:
+
+experience with data storage and processing at scale
+experience with geospatial data
+desire to learn new tools, frameworks, languages
+exposure to various software lifecycle tools such as git, jira, etc.
+a commitment to zipcar’s ideals of sustainable resource sharing and urban mobility
+
+ 
+as a member of the zipcar team you get a great benefits package including health and dental insurance, 401k, vacation time, paid holidays, personal and sick leave, along with a full complement of other insurance and support programs.
+because our work has a global impact, we enthusiastically support each employee’s commitment to creating a better world by offering:
+
+free zipcar membership & discounted driving rates for you and your significant other
+paid volunteer time off
+bicycle commuter reimbursement
+paid parental leave for mothers & fathers
+training and development programs to accelerate career growth
+global footprint of job locations and opportunities
+flexible and open work arrangements
+fun, respectful, passionate, and collaborative environment
+educational assistance program
+company sponsored parties, outings, and events
+discounts on a variety of products and services through zipcar partners
+
+zipcar is an eeo employer 
+ to all recruitment agencies: zipcar does not accept agency resumes. please do not forward resumes to our jobs alias, zipcar employees or any other company location. zipcar is not responsible for any fees related to unsolicited resumes
+ 
+
+             
+            
+
+
+
+apply for this role
+
+
+
+
+
+
+
+
+
+
+
+loading...
+close maplocationzipcar san mateo ca15 n ellsworth ave, san mateo, california, united states of america, 94401loading...open in google maps
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+                    rate this page
+                
+
+
+
+loading...
+
+
+
+012345
+
+
+
+
+
+
+
+
+
+
+                    share this page
+                
+
+
+
+
+
+
+
+                    vacancy alerts
+                
+
+                    create an alert subscription based on this vacancy
+                
+
+
+
+create alert subscription
+
+
+
+
+
+
+
+
+
+
+
+loading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+overview
+who we are
+life at zipcar
+teams
+locations
+opportunities
+international
+north america
+internships
+
+
+
+
+
+
+
+
+
+
+
+
+search vacancies
+
+loading...
+
+
+
+
+
+
+
+
+enter search text 
+enter a location 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about |
+faqs |
+press |
+careers |
+gift certificates |
+contact |
+0333 240 9000
+
+
+
+join the conversation
+facebook
+twitter
+google+
+youtube
+linkedin
+products & services
+business |
+university |
+fastfleet |
+zipvan
+
+
+
+terms of use |
+privacy policy |
+copyright © 2017 zipcar, inc. all rights reserved.
+
+
+
+                        zipcar (uk) ltd - registration no. 04525217.
+ registered in england & wales. vat registration no - 832428339 
+registered office - melbury house, 51 wimbledon hill rd, london sw19 
+7qw. zipcar is the world's largest car sharing and car club provider. 
+reserve zipcars in london, bristol, cambridge and oxford, plus north american zipcar cities including new york, san francisco and toronto.
+                    
+canada | españa | france | österreich | united kingdom | united states
+we use cookies to ensure we deliver the best experience on our website. by using the site, you agree to the use of cookies. learn more | don't show me again.
+
+
+
+
+
+

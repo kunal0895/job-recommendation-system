@@ -1,0 +1,150 @@
+
+
+
+
+zynga careers - senior data scientist, social casino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    zynga careers                                            
+
+
+
+
+
+
+us jobs
+
+                senior data scientist, social casino
+    
+    
+
+                            data, analytics & user research             
+                    austin,
+                            texas
+                
+                        
+
+
+
+        apply
+    
+
+
+
+position at zynga
+
+
+                zynga’s data science team uses our unique and expansive data to model and predict user behavior, making our games more personalized and more fun to play! we strive for a better understanding of our players which translates into challenges and features that delight them and increased social engagement within our games.here’s where you would come in: identify and formalize problems predicting user behavior. then create and implement your models to find solutions. be innovative, be creative, use every bit of that key commodity – data. millions of people play zynga games every day, so our data is tremendously rich and we have a lot of it!we will rely on you to communicate your findings to your peers – both technical and non-technical. your solutions will need to be demonstrably impactful and visual. you will work with our game teams to put your models into productionresponsibilities:work with large amounts of data to identify opportunities that would help improve the experience that zynga provides to its playersapply predictive modeling and data mining techniques for a variety of user modeling tasks within zynga’s game networkwork closely with game teams to design, test, verify and implement statistical models with zynga’s games that impact the daily life of millions of usersdesign and evaluate novel approaches to experiments for gameplayrequired skills and experience:ba in computer science, math, statistics, economics, orother quantitative field; masters or phd strongly preferred3+ years of work experience in data science or analytics rolesexperience with some or all of the following: data mining, predictive modeling, statistics, experimental design, computational analytics, econometric modeling, data visualizationfluent in sqlfluent in r and/or pythonexperience working with large datasets, preferably in a hadoop or spark environmentability to work independently to get an idea from inception to implementation, including knowledge of techniques for validation and testingstrong experience with programmingstrong written and oral communication skillsability to work effectively in a fast-paced environment with changing prioritiesability to collaborate effectively with engineers, product managers, analysts, business, and marketing functionsstrong business acumenexcellent client management skills
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+

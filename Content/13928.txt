@@ -1,0 +1,167 @@
+
+
+
+
+splunk careers - software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    splunk careers                                            
+
+
+
+
+
+
+
+                software engineer
+    
+    
+
+                            engineering            
+                    san jose,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+
+join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone. we are a company filled with people who are excited about our product and seek to deliver the best experience for our customers. at splunk, we’re committed to our work, customers, having fun and most importantly to each other’s success. learn more about splunk careers and how you can become a part of our journey!role:are you interested in being part of a small team tasked to build the next-generation industry-leading platform for machine data? splunk is looking for software engineers to join the effort to define and build the future of splunk. you will be joining a team that's developing our search infrastructure that drives our industry-leading machine-data platform.we give our engineers an environment in which they can contribute from day one while also providing opportunities for learning and growth. you'll learn how our entire stack works - from data ingestion and storage to searching, reporting and building dashboards – all in distributed environments. the work you’ll do will directly impact the experience of our customers.we are an engineering- and product-focused company. our engineers take a leading role in designing, architecting, building and testing our product. engineers at splunk have a wide impact, from developing new capabilities like metrics ingestion and analysis to working with customers to see their work be used to solve real-world problems.what we provide:opportunities to develop and grow as an engineer. we are the forefront of our industry, always expanding into new areas, and working with open source and new technologies.a set of talented and dedicated peers, all the way from engineering and qa to product management and customer support.breadth and depth. you want to work on an area that spans backend and frontend and sdks? we have that. you want to go deep into optimizing how we compress data for fast random-access retrieval? we have that too, and more.growth and mentorship. we believe in growing engineers through ownership and leadership opportunities. we also believe mentors help both sides of the equation.a stable, collaborative and supportive work environment. we work in an open environment, have a shared kitchen and sit down for a quick sync every morning.balance. we don't expect people to work 12 hour days. we want you to have a successful time outside of work too. want to work from home sometimes? no problem. we trust our colleagues to be responsible with their time and commitment, and believe that balance helps cultivate a positive environment.what you provide:desire to learn and adapt. we have a lot of projects going on at once, and you'll have to learn to navigate the code and features. you'll constantly be learning new areas and new technologies.passion. our customers are passionate about splunk and we want the same from our engineers. we want you to actively own your work and be excited about your projects.understanding of distributed systems programming. examples of area you may be knowledgeable in may include multi-threaded programming, distributed file systems, distributed concurrency control, consistency models, consistent hashing, cap theorem, multi-process execution models, good grasp of data structures and algorithms, etc. you don't need to be an expert on everything, but you should have foundation to build on.experience with distributed architectures/systems. you have experience in writing optimized and scalable software systems that work on a large number of nodes. you have solid understanding of map reduce fundamentals, lambda architecture, and have developed applications on systems like spark/flink/hadoop and kafka.ability to work with multiple programming languages. we have code in several languages, ranging from c/c++ and java to python and javascript. in this position you'll be mostly using java and/or c++.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+about splunk
+
+splunk was founded to pursue a disruptive new vision: make machine data accessible, usable and valuable to everyone. machine data is one of the fastest growing and most complex areas of big data—generated by every component of it infrastructures, applications, mobile phone location data, website clickstreams, social data, sensors, rfid and much more.
+splunk is focused specifically on the challenges and opportunity of taking massive amounts of machine data, and providing powerful insights from that data. it insights. security insights. business insights. it’s what we call operational intelligence.
+since shipping its software in 2006, splunk now has over 13,000 customers in more than 110 countries around the world. these organizations are using splunk to harness the power of their machine data to deepen business and customer understanding, mitigate cybersecurity risk, prevent fraud, improve service performance and reduce costs. innovation is in our dna – from technology to the way we do business. splunk is the platform for operational intelligence!
+splunk has more than 2,700 global employees, with headquarters in san francisco, an office in san jose, ca and regional headquarters in london and hong kong.
+we’ve built a phenomenal foundation for success with a proven leadership team, highly passionate employees and unique patented software. we invite you to help us continue our drive to define a new industry and become part of an innovative, and disruptive software company.
+benefits & perks: wow! this is really cool!
+sf only
+medical, full company paid dental, vision and life insurance, flexible spending and dependent care accounts, commuter accounts, employee stock purchase plan (espp), 401(k), 3 weeks of pto, sick leave, stocked micro kitchens in splunk offices, catered lunches on mondays, catered breakfast on fridays, basketball hoops, ping pong, arcade games, bbq’s, soccer, “fun fridays”.
+
+pursuant to the san francisco fair chance ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+non sf
+medical, full company paid dental, vision and life insurance, flexible spending and dependent care accounts, commuter accounts, employee stock purchase plan (espp), 401(k), 3 weeks of pto and sick leave.  our work environments vary by location however we believe in hosting amenities and fun activities to fuel our energy.  you may find fully stocked micro kitchens, catered lunches on mondays and breakfast on fridays, basketball hoops, ping pong, arcade games, bbq’s, soccer and “fun fridays”. 
+this isn’t a job – it’s a life changer – are you ready?
+individuals seeking employment at splunk are considered without regards to race, religion, color, national origin, ancestry, sex, gender, gender identity, gender expression, sexual orientation, marital status, age, physical or mental disability or medical condition (except where physical fitness is a valid occupational qualification), genetic information, veteran status, or any other consideration made unlawful by federal, state or local laws. click here to review the us department of labor’s eeo is the law notice. please click here to review splunk’s affirmative action policy statement.
+splunk does not discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. please click here to review splunk’s pay transparency nondiscrimination provision.splunk is also committed to providing access to all individuals who are seeking information from our website. any individual using assistive technology (such as a screen reader, braille reader, etc.) who experiences difficulty accessing information on any part of splunk’s website should send comments to 
+accessiblecareers@splunk.com. please include the nature of the accessibility problem and your e-mail or contact address. if the accessibility problem involves a particular page, the message should include the url of that page. 
+splunk doesn't accept unsolicited agency resumes and won't pay fees to any third-party agency or firm that doesn't have a signed agreement with splunk.
+to check on your application click here.
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+

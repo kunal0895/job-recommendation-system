@@ -1,0 +1,228 @@
+
+
+
+
+careers | cotiviti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+menu
+
+cotiviti healthcarewho we serve
+our clients’ needs
+our solutions
+our service commitment
+events
+cms rac
+
+connollywho we serve
+our clients’ needs
+our solutions
+our service commitment
+events
+
+about cotivitiour focus
+leadership team
+news
+
+careersworking at cotiviti
+university recruiting
+opportunities
+
+contact us
+cotiviti
+cotiviti healthcare
+connolly
+
+
+
+
+homecareers
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+working at cotiviti
+university recruiting
+
+benefits
+
+
+diversity
+
+opportunities
+
+
+
+
+
+
+browse open jobs  |  
+            search open jobs  |  
+            
+                edit your profile  |  
+                view submitted applications
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition number
+17-1487
+
+
+title
+associate software engineer –sql
+
+
+city
+conshohocken
+
+
+state
+pa
+
+
+description
+
+our engineering team is growing! we’re looking for a motivated associate engineer to work independently to build and integrate several robust, fault-tolerant applications solutions for information processing requirements to maximize audit
+ site productivity. this includes collaboration in requirements definition, prototyping, design, coding, testing and deployment. this role will be in conshohocken, pa and our office will be relocating to blue bell, pa in 2018.
+key responsibilities
+
+analyzes and assesses how automated systems can be implemented to solve complex business problems.
+applies the principles and practices of software quality assurance throughout the software development life cycle.
+documents the specifications, design, features and operation of applications prior to production roll out.
+demonstrates proficient working knowledge of the primary discipline and a developing knowledge of related disciplines.
+explores new ideas and makes innovative contributions to existing processes or systems which improve efficiency and results.
+works under general direction with some supervision. may independently determine and develop procedures and approaches to follow. work is reviewed as it progresses, but more so upon completion of specific assignments.
+executes solutions development and data requirements. executes solutions enhancements to improve performance / availability. ensure project deliverables are accomplished on time and within budget. communicates technical and operational issues to both engineering and business leadership in a timely manner.
+ensure that all technology standards are adhered to while developing systems.
+ensure project deliverables are accomplished on time and within budget. communicates technical and operational issues to both rca engineering and audit leadership in a timely manner.
+ensure that all technology standards are adhered to while developing system work collaboratively with business partners to define and ensure the completeness and accuracy of system/technical requirements.
+
+
+
+
+requirements
+
+what we’re looking for:
+
+bachelor’s degree and 2+ years of relevant experience hands on experience with in database development environment perform engineering responsibilities and effectively vet and understand complex tasks to accurately determine level of effort, prioritization, and return on investment.
+proficiency working with large datasets experience with relational databases experience working with etl processes optimization and tuning of sql queries, stored procedures and triggers excellent communication skills skilled in agile and scrum development methodologies, prior experience working with ci/cd pipelines.
+experience with scripting languages (vbscript, powershell) preferred experience with ms access preferred experience with java frameworks experience with databases and/or data processing pipelines knowledge of the following: sql, hadoop, spark knowledge of one or more enterprise scheduling tools healthcare data experience would be a plus 
+
+
+
+
+
+we are an equal opportunity employer.please view equal employment opportunity posters provided by ofccp 
+here.
+
+cotiviti is an equal opportunity employer. the company provides equal employment opportunities to all applicants for employment without regard to gender, sexual orientation or preference, gender identity or expression, race, color, religion, national origin,
+ ethnicity, ancestry, age, marital status, pregnancy, childbirth or related medical conditions, mental or physical disability, veteran status or any other characteristic protected by federal, state or local law, ordinance or regulation.
+
+
+
+
+
+
+apply on-line
+
+
+
+send this job to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+twitter
+facebook
+linkedin
+youtube
+google+
+privacy policy
+terms of use
+
+©  cotiviti corporation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

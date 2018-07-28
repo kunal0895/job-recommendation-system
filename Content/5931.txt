@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 10-00957
+
+
+
+
+engineer - research engineer - industrial robotics
+10-00957
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+we are expanding our team working on leading technologies in industrial robotics and are looking for talented and motivated candidates to join us.  qualified candidates have the opportunity to work in a flexible and stimulating environment on diverse technical challenges in applied research and development.  job responsibilities will include: develop and deploy robotic and automation systems for industrial, manufacturing, and defense clients; design, build, debug and install industrial robotic and automation systems; develop and test new manufacturing and industrial processes; develop software for industrial controls and manufacturing systems; assist in preparing proposals and cost estimates; interact with customers to promote new business and develop technical requirements; participate on and lead technical project tasks; document and report technical work; perform other duties as assigned.
+
+                    education/experience:
+				
+requires a bs, ms or phd degree in robotics, mechanical engineering, electrical engineering, computer science, or computer engineering with at least a 3.5 gpa and 0 – 5 years of experience. must have electro-mechanical systems design, robotics, industrial automation and control software development experience; must have experience with developing software and controls for robotics and automation.  beneficial skills include: c++ and python software development, ros (robot operating system), opencv, pcl (point cloud library), solidworks, linux.  beneficial knowledge includes: industrial robotics, mobile robotics, 2d/3d computer vision, path planning for robotics, machine learning, optimization, perception/sensing for robot guidance, localization. travel on an as needed basis to conduct project work.  a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d10/d10home.htm" target="_blank">intelligent systems</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+engineer - research engineer - industrial robotics
+
+10-00957
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

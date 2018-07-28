@@ -1,0 +1,414 @@
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+								about us
+
+
+
+
+
+
+
+corporate overview
+
+
+mission statement
+
+
+certifications/partnerships
+
+
+training
+
+
+
+
+
+
+
+								services
+
+
+
+
+
+
+
+customized it solutions
+
+
+software products & solutions
+
+
+it consulting/staffing
+
+
+erp / sap consulting
+
+
+outsourcing/offshore development
+
+
+temporary staffing
+
+
+
+
+
+
+
+								industries
+
+
+
+
+
+
+
+									government
+									
+
+
+
+
+
+
+government solutions
+
+
+contract vehicles
+
+
+
+
+
+
+financial
+
+
+energy and utilities
+
+
+pharmaceuticals
+
+
+retail
+
+
+technology & telecom
+
+
+healthcare
+
+
+
+
+
+
+clients
+
+
+
+								careers
+
+
+
+
+
+
+
+open positions
+
+
+work culture
+
+
+training
+
+
+benefits
+
+
+
+
+
+
+
+								contact us
+
+
+
+
+
+
+
+contact details
+
+
+request for information
+
+
+
+
+
+
+
+
+
+
+			  careers  open positions
+
+
+
+
+
+
+open positions
+
+
+
+
+work culture
+
+
+
+
+training
+
+
+
+
+benefits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						job details
+
+
+
+
+
+
+
+
+					job id
+				
+
+					:
+				
+
+pru-246
+					  
+				
+
+
+
+					position title
+				
+
+					:
+				
+
+.net developer
+
+
+
+
+					job duration
+				
+
+					:
+				
+
+12 months
+
+
+
+
+					employment type
+				
+
+					:
+				
+
+contract 
+
+
+
+
+					compensation
+				
+
+					:
+				
+
+doe
+
+
+
+
+					compensation type
+				
+
+					:
+				
+
+w2 hourly
+
+
+
+
+					location
+				
+
+					:
+				
+
+charlotte,nc
+
+
+
+
+					start date
+				
+
+					:
+				
+
+8 nov 2017
+
+
+
+
+					job description
+				
+
+					:
+				
+
+acts in the highest level technical role as an individual contributor and/or team lead for the most complex computer applications and/or application initiatives. utilizes a thorough understanding of available technology, tools, and existing designs. works on the most complex problems where analysis of situations or data requires evaluation of intangible variance factors. plans, performs, and acts as the escalation point for the most complex platform designs, coding, and testing. leads most complex multiple modeling, simulations, and analysis efforts. acts as expert technical resource to programming staff in the program development, testing, and implementation process.: 10+ years application development and implementation experience.
+
+•	candidate will be maintaining the existing system as well as developing new functionality. 
+•	functional task assignments include both user interface and server side development. 
+•	functional task areas include creating and interfacing with services performing trade capture, market data collection, security data collection, and integrating quantitative valuation models. 
+•	the candidate must be able to work in a team environment as well as independently. some support duties are required. 
+•	minimum 5 to 6 years of object-oriented systems development experience using .net/c# or c++. visual basic 6 experience preferred. 
+•	extensive development experience on windows platform required.
+•	some unix experience preferred. 
+•	rdbms experience including sql - ms sql server. 
+•	experience in writing scripts/servers. 
+•	the successful candidate must be a team player capable of successful delivery with team members across front office, middle office and other it support groups.
+•	trading and/or risk technology experience. 
+•	knowledge of fixed income products and analytics for these products. 
+•	experience in supporting trading applications. excellent troubleshooting, debugging and analytical problem solving skills. 
+•	experience in the full software development lifecycle. excellent oral and verbal communication skills.
+
+
+
+
+					required skills
+				
+
+					:
+				
+
+bs in computer science or related field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 
+				
+
+
+
+
+
+
+					 
+
+
+
+
+					                
+				
+
+
+
+
+
+
+
+
+				© 2011 prutech solutions, inc. all rights reserved.
+			
+
+
+					developed by prutech solutions
+
+
+
+
+

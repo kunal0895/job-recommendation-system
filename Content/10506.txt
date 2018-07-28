@@ -1,0 +1,672 @@
+
+
+uchicago jobs - applicant site : posting details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+search postings
+
+
+create profile
+
+
+login
+
+
+
+
+
+
+
+                    uchicago
+
+        
+
+
+
+
+                    student employment
+
+        
+
+
+
+
+                    benefits
+
+        
+
+
+
+
+                    compensation
+
+        
+
+
+
+
+                    our setting
+
+        
+
+
+
+
+                    our employees
+
+        
+
+
+
+
+                    frequently asked questions
+
+        
+
+
+
+
+                    applicant definition
+
+        
+
+
+
+
+                    affirmative action/equal opportunity employer
+
+        
+
+
+
+
+                    job opportunities at the university of chicago medical center
+
+        
+
+
+
+
+
+posting details
+
+
+return to search results
+
+
+
+printer-friendly version
+
+
+
+
+
+
+
+
+
+
+
+*the standard summary is designed to indicate the general nature and level of work performed by employees within this classification. it is not designed to contain or be interpreted as a comprehensive inventory of all duties and responsibilities required of employees assigned to this job.note: after applying for this position you will receive a confirmation number. if you do not see the confirmation number, you have not completed applying for the position.the university of chicago is an affirmative action/equal opportunity/disabled/veterans employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected classes under the law. for additional information please see the university's notice of nondiscrimination.   staff job seekers in need of a reasonable accommodation to complete the application process should submit a request via the  applicant   inquiry form  or call 773-702-5800.   the university of chicago's annual security & fire safety report provides information about university resources, statistics and policies, including: offices and programs that provide safety support; crime and fire statistics; emergency response and communications plans; and other policies and information. the report can be accessed online at: http://commonsense.uchicago.edu/. paper copies of the report are available, upon request, from the university of chicago, human resources, 773-834-2044, 6054 s. drexel avenue, chicago, il 60637.
+
+
+
+
+
+
+
+
+
+
+
+position information
+
+
+
+
+
+
+
+
+
+
+requisition number
+
+
+
+
+	            		104101
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+departmental job title
+
+
+
+
+	            		computational scientist
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+type of position
+
+
+
+
+	            		staff
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+number of positions available
+
+
+
+
+	            		1
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+division
+
+
+
+
+	            		office of evp for research, innovation & ntnl labs
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+department
+
+
+
+
+	            		85650-office of evp for research, innov & ntl labs
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+*standard summary
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+
+about the unit
+
+
+
+
+	            		the university of chicago research computing center (rcc), a unit in the office of the executive vice president for research, innovation and national laboratories (rinl), provides high-end research computing resources to researchers at the university of chicago. it is dedicated to enabling research by providing access to centrally managed high performance computing (hpc), storage, and visualization resources. these resources include hardware, software, high-level scientific and technical user support, and the education and training required to help researchers make full use of modern hpc technology and local and national supercomputing resources.  the office of the executive vice president for research and for national laboratories oversees the conduct of sponsored research, technology transfer, research program development, multi-institutional research institutes, national laboratory board, and contract management functions. rinl supports the development and coordination of research-related communications and educational programs at the university of chicago. rinl oversees the management of two department of energy contracts for argonne national laboratory and fermi national accelerator laboratory. when combined with the lab r&d budgets, the office oversees approximately $1.4 billion in sponsored research. rinl works closely with individual scholars, departments, and divisions to encourage, seed, and coalesce research across the university, argonne, and fermilab campuses.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+unit job summary
+
+
+
+
+	            		computational scientist; the research computing center (rcc) is seeking a highly motivated computational scientist to work closely with faculty and researchers in the social sciences division at the university of chicago.  the person in this position will serve as a technical domain expert in supporting and advising faculty on using high-end computing and machine learning techniques for big data analysis for their research and grant writing. the successful candidate will join a team of consultants who are playing a key role in the creation of a scientific computing support group at the university of chicago. essential functions include but are not limited to: -be a central knowledge resource for faculty and researchers in the social sciences division (ssd). -work closely with faculty in ssd to identify, develop, and implement useful computational methods and resources that support or advance their research. -assist in the implementation, development, and improvement of application software and methods that can be utilized in analyzing and interpreting data in the social sciences.  -assist with the compiling, debugging, optimizing, profiling and porting of codes on rcc compute and storage resources. -design tutorials, hands-on workshops, and documentation for researchers and students in the social sciences division with the help and coordination of other rcc staff. -organize seminars and meet-ups to expand and help bring together the emerging community of computational researchers in the ssd.  -keep abreast of new developments in computation social sciences and be pro-active in introducing them to the faculty. -help faculty with grant proposals by contributing sections of the proposal that describe the interplay between their research and high-end computing resources.  -assist researchers with data management implementations and compliance to funding agencies requirements. -dedicate a portion of time on research projects or activities for professional development, as approved.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+education
+
+
+
+
+	            		ph.d in computer science, statistics, applied mathematics or any other quantitative field required. ph.d. may be in process but degree must be conferred by september 1, 2018.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+experience
+
+
+
+
+	            		-proficiency with machine learning techniques and algorithms required. -must be able to understand and translate researchers' scientific goals into computational requirements required. -must be able to function as part of an interactive team while demonstrating self-initiative to achieve project's goals and research computing center's mission required. -broad programming skills to support analysis efforts in multiple programming environments required.  -numerical computing experience using statistical programming packages, such as python, matlab or r required. -fluency in data manipulation and analysis required.  -experience in a unix-based programing environment required. -proficiency with applied statistical skills, such as distributions, statistical testing, regression, etc. preferred. -experience in one or more programing languages (such as c++, c, fortran, etc.) preferred. -experience with data visualization tools, such as d3 or ggplot preferred. -parallel computing experience with mpi and openmp preferred. -familiarity with natural language processing (nlp) methods preferred. -exposure or experience in any of the following a plus: hadoop, pig, hive, sql coding, relational database structures and query techniques preferred.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+competencies
+
+
+
+
+	            		-excellent interpersonal, verbal, written, and presentation skills required. -ability to understand and translate researchers' scientific goals into computational requirements required. -ability to function as part of an interactive team while demonstrating self-initiative to achieve project's goals required. -strong analytical skills and problem solving ability required. -ability to work well with faculty and researchers required.
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+required job seeker documents
+
+
+
+
+	            		resumecover letter
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+optional job seeker documents
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+
+work location
+
+
+
+
+	            		campus - hyde park
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+other work location
+
+
+
+
+
+	            		 
+				
+            
+
+
+
+
+
+
+work schedule
+
+
+
+
+	            		full-time
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+hours/week
+
+
+
+
+	            		37.5
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+if other than regular hours (m-f, 8:30-5:00) please detail
+
+
+
+
+	            		regular
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+benefits eligible?
+
+
+
+
+	            		yes
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+union (if applicable):
+
+
+
+
+	            		non-union
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay grade
+
+
+
+
+	            		na
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay range
+
+
+
+
+	            		depends on qualifications
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+pay frequency
+
+
+
+
+	            		monthly
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+does this position require incumbent to operate a vehicle on the job?
+
+
+
+
+	            		no
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+is a background check required?
+
+
+
+
+	            		yes
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+is drug testing required?
+
+
+
+
+	            		no
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+employee referral bonus amount
+
+
+
+
+	            		none
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+posting date
+
+
+
+
+	            		11-30-2017
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+remove from posting on or before
+
+
+
+
+	            		05-30-2018
+		            
+	            		 
+				
+            
+
+
+
+
+
+
+return to search results
+
+
+
+
+
+
+
+
+
+*the standard summary is designed to indicate the general nature and level of work performed by employees within this classification. it is not designed to contain or be interpreted as a comprehensive inventory of all duties and responsibilities required of employees assigned to this job.note: after applying for this position you will receive a confirmation number. if you do not see the confirmation number, you have not completed applying for the position.the university of chicago is an affirmative action/equal opportunity/disabled/veterans employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected classes under the law. for additional information please see the university's notice of nondiscrimination.   staff job seekers in need of a reasonable accommodation to complete the application process should submit a request via the  applicant   inquiry form  or call 773-702-5800.   the university of chicago's annual security & fire safety report provides information about university resources, statistics and policies, including: offices and programs that provide safety support; crime and fire statistics; emergency response and communications plans; and other policies and information. the report can be accessed online at: http://commonsense.uchicago.edu/. paper copies of the report are available, upon request, from the university of chicago, human resources, 773-834-2044, 6054 s. drexel avenue, chicago, il 60637.
+
+
+
+
+
+
+
+
+
+for additional support, please visit http://peopleadminsupport.com/5-8/
+
+
+
+
+
+
+

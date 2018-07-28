@@ -1,0 +1,248 @@
+
+
+
+
+job application for data analyst: business intelligence at cloudflare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data analyst: business intelligence
+
+        at cloudflare
+      
+(view all jobs)
+
+        san francisco, ca
+      
+
+
+about us
+at cloudflare, we have our eyes set on an ambitious goal: to help build a better internet. today, cloudflare runs one of the world’s largest distributed networks that powers more than 1.5 trillion page views each month across 5 million internet properties. more than 10 percent of all global internet requests flow through cloudflare’s network. cloudflare protects and accelerates any internet application online without adding hardware, installing software, or changing a line of code.
+our customers range from fortune 500 companies and nonprofits to small businesses and budding entrepreneurs. every day, about 12,000 new customers sign up. we’re working to create a faster, more secure, and more reliable experience for anyone online and given the scale at which we operate, our mission is big. our team is hard at work shaping the future of the internet by solving some of its toughest challenges. come join us.
+about the department
+cloudflare’s engineering team builds and runs the software that handles about 10% of http requests on the internet today. we also build and run the internal tools that builds and runs our software. the engineering team is split into two groups: one handles product development and the other handles operations. product development covers both new features and functionality and scaling our existing software to meet the challenges of a massively growing customer base. the operations team handles one of the world’s largest networks with data centers in 102 cities worldwide. 
+responsibilities
+business data is critical to our decision-making. we are looking for a talented data analyst to join our business intelligence team, focusing on building out and maintaining dashboards and performing and automating analyses for both customers and cloudflare itself. you will have the opportunity to work closely with our business teams, product, and engineering to help drive our most important decisions. 
+requirements
+
+2+ years of professional experience as a data analyst or similar
+a passion for translating business data into actionable insights
+strong knowledge of sql, including a working understanding of how queries get run on databases, such as postgres
+experience with tableau desktop/server
+experience working with analysis tools such as pandas, scipy, scikit, jupyter/ipython notebooks, r
+an understanding of basic descriptive and inferential statistics
+
+bonus points
+
+experience supporting both customer and internal needs
+experience automating reports, whether off-the-shelf products or front end development
+knowledge of and experience in machine learning or other statistical methods
+
+what makes us special
+we’re not just a highly ambitious, large-scale technology company. we’re a highly ambitious, large-scale technology company with a soul. fundamental to our mission to help build a better internet is protecting the free and open internet. in 2014, we launched project galileo, an initiative through which we partner with global ngos to identify websites at risk of attack and provide the same state-of-the-art mitigation technology already used by cloudflare’s enterprise customers--at no cost. project galileo equips politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work.
+additionally, in 2016, we announced our partnership with path forward, a nonprofit organization that works with companies to create 18-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one. with the lofty goal of shaping the future of the internet, we’re focused on recruiting the best and the brightest, no matter what.
+cloudflare is a security company. a successful background check is required for employment.
+cloudflare hires the best people based on an evaluation of their abilities and effectiveness.  we don't discriminate against employees on the basis of any other personal characteristic or any classification protected by federal, state or local law.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github account link
+    
+
+
+
+
+
+linkedin profile (optional)
+    
+
+
+
+
+
+personal website or blog (optional)
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

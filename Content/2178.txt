@@ -1,0 +1,267 @@
+
+
+
+
+careers | cotiviti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+menu
+
+cotiviti healthcarewho we serve
+our clients’ needs
+our solutions
+our service commitment
+events
+cms rac
+
+connollywho we serve
+our clients’ needs
+our solutions
+our service commitment
+events
+
+about cotivitiour focus
+leadership team
+news
+
+careersworking at cotiviti
+university recruiting
+opportunities
+
+contact us
+cotiviti
+cotiviti healthcare
+connolly
+
+
+
+
+homecareers
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+working at cotiviti
+university recruiting
+
+benefits
+
+
+diversity
+
+opportunities
+
+
+
+
+
+
+browse open jobs  |  
+            search open jobs  |  
+            
+                edit your profile  |  
+                view submitted applications
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition number
+17-1295
+
+
+title
+data scientist 
+
+
+city
+atlanta
+
+
+state
+ga
+
+
+description
+
+cotiviti is looking for an industry leading data scientist to join a revolution in healthcare and build a first-in-market analytics capability. this is a pioneering data scientist who will participate in expanding the new analytics backbone
+ of the company. cotiviti’s first-in-market analytics capability is powered by social networking technology and enables a more efficient experience for both healthcare providers and customers. as a data scientist at cotiviti you will be given the opportunity
+ to work directly with a team of healthcare professionals including analysts, clinicians, coding specialists, auditors and innovators to set aggressive goals and execute on them with the team. this is for an ambitious technologist with the guts, flexibility,
+ and personal drive to succeed in a dynamic environment. 
+
+who you are
+
+curious: you enjoy peeling apart a problem and examining the interrelationships between data that may appear superficially unrelated.
+creative: you constantly invent and try new approaches to solving problems, which often times have never been applied in such contexts before. 
+practical: you explore theories with an eye to the real world application to the business and the potential for improving performance for clients and customers. 
+focused: you're intent on designing and testing a technique over periods of days and weeks, discovering what is successful and what should be optimized further. furthermore, you learn from the failure and trying again.
+determined: you will have both the challenge and opportunity to help design our analytical backend from the ground-up, and therefore must be comfortable as both a team member and a leader in our data science effort.
+
+what you will be doing 
+you will build innovative tools to provide our clients with insights on how to improve their business. you will have responsibility for architecting and developing best-in-class analytics that create quantifiable value for our business. you will have responsibility
+ for establishing and sustaining processes and practices that support big data and analytics solutions and applications in an open source environment.
+you should have a passion for creating solutions and driving innovation with an interest in collaborating with team members. this role demands time spent working independently and as part of a team. you will also focus on specific deadlines defined by the
+ management team.
+
+function as data scientist which carries the expectation to enhance a saas platform that integrates both relational and non-relational databases at scale with both algorithmic logic and front-end interfaces.
+participate in product development with leadership team meetings and communicate with advisors regularly on all matters regarding insights and technology developments.
+define the software architecture of the growing data analytics capability and build substantial portions yourself.
+
+ primary responsibilities
+
+architect and hands-on development of analytics solutions with business owners and analytics teammates
+define and develop analytical, statistical and machine learning algorithms for advanced analysis and prediction
+architect, design, build and integrate solutions using hadoop and open source solutions: scala/spark, r, python, ruby, whatever, the mahout machine learning library
+drive automation capabilities into platforms and solutions establish credibility and strong working relationship with development teams to review design and code for adherence to established standards and best practices
+acquire and ingest data from a variety of sources to extend our products and solutions (innovate)
+evaluate current databases to determine if we can do better using hadoop deliver using an agile development process maintain our repository and other relevant documentation architect and hands-on development of analytics solutions define and develop analytical, statistical and machine learning algorithms for advanced analysis and prediction
+architect, design, build and integrate solutions using hadoop and open source solutions: scala/spark, r, python, ruby, whatever, the mahout machine learning library
+
+
+
+
+requirements
+
+required skills:
+
+computer science: application of the methodical procedures (or algorithms) that underlie the acquisition, representation, processing, storage, communication of, and access to data and information. the ability to automate algorithmic processes
+ that scale. big data analysis: strong ability to manage and analyze data in a hadoop environment using a variety of scripts, including scala/spark, r, and others. 
+data warehousing and management: understanding and technical use the core data warehousing architectures, including both kimball and inmon methodologies. mastery of business intelligence tools, including data structuring, star schemas,
+ performance data layers, report development and dash boarding to support business intelligence and analytics purposes, including data mining and self-serve multitenant report delivery. structuring of data to meet specific business needs, including data modeling,
+ etl and elt (and knowing which to use under which circumstances), flexible schemas, performance tuning, vector creation from relational data, data quality, data governance, and related paradigms.
+reasoning and problem solving: ability to actively and skillfully conceptualize, apply, analyze, synthesize, and/or evaluate information gathered from, or generated by, observation, experience, reflection, reasoning, or communication, as
+ a guide to belief and action consulting: demonstrated ability to make and gain acceptance of data-driven recommendations made to business owners. strong ability to appropriately summarize and effectively communicate complex concepts & varied data sets to inform stakeholders,
+ gain approval, or prompt actions; applies to multiple audiences ranging from the analyst to executive level; includes oral & written communication and multimedia presentation
+statistical analysis: applies statistical methodology to solve business problems; appropriately interprets meaning from results
+business knowledge: strong understanding of the tenets of health insurance, the managed care model, industry coding/policy standards, the claim adjudication process, and issues related to fraud waste and abuse; ability to apply this knowledge
+ to the development & evaluation of new initiatives and lead the team strategy toward best practices. or, developing, maintaining and understanding of the basic tenets of retail auditing and our clients to develop and evaluate new initiatives and best practices
+financial analysis: ability to understand, generate and evaluate healthcare utilization, unit cost and medical cost trends. this includes understanding levers that effect healthcare cost, such as contracting, networks, policies, benefit
+ structures, and product design. ability to draw conclusions and make recommendations based on financial data
+
+additional qualifications:
+
+proficiency in all required skills and competencies above proficiency in fully architecting and executing complex analytical backends proficiency with node.js and sql; expert proficiency in one or more programming languages such as scala/spark, python, et al; expert proficiency in at least one statistical modeling program like r or matlab
+experience in machine learning, artificial intelligence and/or artificial neural networks
+proficiency in applying various mathematical and statistical models to include, but not limited to: discrete event simulation, factor analysis, genetic algorithms, bayesian probability models, hidden markov models and sensitivity analysis
+ability to setup and maintain database for extremely large datasets using current database technologies (ex. hadoop)
+strong experience in using application programming interfaces (api) proficient in the big data ecosystem with familiarity with hadoop, yarn, spark, and/or storm
+proficient in at least one big data store, for example: hbase, cassandra, hive, etc.
+demonstrated technical abilities to engineer products that large datasets, with tools that may include: cluster computing, grid computing, graphical processing unit computing
+commercial cloud systems such as amazon elastic cloud compute ec2 
+
+
+
+
+
+we are an equal opportunity employer.please view equal employment opportunity posters provided by ofccp 
+here.
+
+cotiviti is an equal opportunity employer. the company provides equal employment opportunities to all applicants for employment without regard to gender, sexual orientation or preference, gender identity or expression, race, color, religion, national origin,
+ ethnicity, ancestry, age, marital status, pregnancy, childbirth or related medical conditions, mental or physical disability, veteran status or any other characteristic protected by federal, state or local law, ordinance or regulation.
+
+
+
+
+
+
+apply on-line
+
+
+
+send this job to a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+twitter
+facebook
+linkedin
+youtube
+google+
+privacy policy
+terms of use
+
+©  cotiviti corporation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

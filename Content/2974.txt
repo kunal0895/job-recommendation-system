@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 15-01254
+
+
+
+
+engineer - research engineer - embedded software design
+15-01254
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+design, develop, integrate and test embedded systems and ground support/test software for space science instruments, particularly subsystem command and data handling, low-level hardware control and communication software; support system level architecture definition; generate requirements; design, code and test software; applications are primarily programmed in c and some assembly language; and python on operating systems such as ms windows and linux/cygwin/unix; formal software development methodologies apply.
+
+                    education/experience:
+				
+requires a bachelors degree in computer engineering, electrical engineering or related degree with 0 - 3 years experience or coursework in embedded software development using c.  must have at least a 3.0 gpa.  experience in the following areas are pluses: c++; verilog/vhdl; matlab; assembly language; labwindows and/or labview; linux/cygwin/unix; python; embedded system design including electronic and digital design; 8051, and sparc architectures; space science instrument or avionics software development; physics understanding or background; good understanding of sound engineering development and problem-solving methodology; hardware/software interactions and real-time processing.  must be a self-starter, good interpersonal relationship and communication skills.  a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+must be a u.s. citizen or permanent resident due to itar work in section.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d15/d15home.htm" target="_blank">space science & engineering</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+engineer - research engineer - embedded software design
+
+15-01254
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

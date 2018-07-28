@@ -1,0 +1,464 @@
+
+
+
+
+job application for software engineer  at echo global logistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer 
+
+        at echo global logistics
+      
+
+        chicago, il
+      
+
+
+position purpose
+as a software engineer on the echo global logistics team, you will contribute to engineering of large scale web-based applications to enable echo’s business while supporting architectural vision of quality, scalability, performance and function. our proprietary software is created with the goal to simplify transportation for our customers and carriers, and is one of our largest competitive advantages in an ever growing market.
+our team has recently been ranked the third largest digital company by employee size in chicago and we are continuing to see increased growth in virtually all of our technical teams. we have recently completed the technology integration with command transportation and look forward to continued success with you as part of our team!
+essential position functions 
+you...
+
+see technology as a passion, not something you just do between 9-5
+possess the ability to create new solutions; we operate on a web based platform and constantly facing unchartered waters
+possess strong fundamentals within coding technologies and a willingness to wear several hats when called upon
+do not wait for something to break; find a problem before it becomes one and constantly aiming to improve
+having a willingness to vocalize these ideas and pick yourself up if you get knocked down
+
+we…
+
+value passionate technologists, go-getters, and people who never stop seeking ways to improve existing technology
+have a high focus on career development and the runway to get you there
+work hard, period
+offer competitive compensation, benefits, 401k, challenging projects, company wide events, coworkers and leaders who will push you to get better, a sense of community not found anywhere else
+
+responsibilities:
+software engineer’s work in conjunction with senior engineer’s, business analysts, and business owners
+
+contributes to technical design including high-level conceptual diagram, erd, service contracts using c# and sql based technologies (open to other languages) in an agile environment
+
+
+work to develop one or several of our web based product offerings
+producing high quality code and addressing technical debt
+support and accountable for timely releases
+carry out root cause analysis on defects to ensure fixes are happening in the right way
+provide mentorship to teammates
+as a team member work hand in hand with product owner to break down user stories
+work to continuously advance your skill set
+managing software risk, balancing priorities, going above and beyond the call of duty
+
+position requirements
+
+1-3 years developing commercial-grade business applications leveraging the following:
+
+writing code in an oo programming language
+build or maintain fault tolerant systems
+data structure and algorithms
+soa architecture
+
+
+1-3 years developing front end applications leveraging:
+
+javascript
+html
+css
+
+
+proven track record in working in a fast paced environment
+
+what's in it for you?
+
+help career growth by joining industry leader and continuing to advance echo web based technologies
+working with an organization with defined market goals, products, customers, revenue, and development teams
+experienced mentors to learn and adopt new practices
+ability to introduce your own views and takes on our product offerings
+work in the full software delivery life-cycle
+ability to constantly enhance and improve applications
+have a clearly defined career growth track with enough flexibility to pave your own way
+
+all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, status as a qualified individual with a disability, or vietnam era or other protected veteran.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you age 18 or over? *
+
+
+
+--
+yes
+no
+
+
+have you ever been previously employed at echo global logistics? *
+
+
+
+--
+yes
+no
+
+
+are you eligible to work in the u.s.? *
+
+
+
+--
+yes
+no
+
+
+will you now, or in the future, require sponsorship for employment visa status (e.g.h-1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+pre-employment statement (please read before acknowledging)  i understand that the organization will rely, in part, on the information i provide in this employment application in considering whether to hire me. i understand that it is important that i provide complete and accurate information and certify that i have done so. if the organization discovers at any time that i failed to completely and honestly provide any information requested of me in this employment application or during the interview process, i understand that my application will no longer be considered or, if i am working for the organization, that i will be subject to disciplinary action, up to and including termination of employment.  the organization is committed to compliance with the provisions of this nation’s immigration laws regarding verification of employment eligibility. any offer of employment will be contingent upon your ability to provide legally sufficient documentation showing your eligibility to be employed by this organization. applicants or employees that present fraudulent documents for employment verification purposes will be terminated.  i authorize the organization to contact anyone that it deems appropriate to verify the information i have provided or to further investigate my background, past performance and suitability for employment. i consent to being discussed by any person contacted by the organization and waive all rights to bring any action for defamation, invasion of privacy or any similar claim against anyone that provides information to the organization with a good faith belief that the information provided is true. i understand that the organization may choose to obtain background information about me from a consumer reporting agency. before requesting a report from a consumer reporting agency, the organization will ask for my authorization. i understand that if i refuse to provide such authorization, my application for employment will not be considered.  i understand that this employment application is not an offer of employment. i understand that nothing contained in this employment application creates a contract between the organization and me for employment or any other benefit. no promises regarding employment have been made and i understand that no such promise or guarantee is binding upon the organization.  i understand that if i am hired, i will be an employee "at will," meaning i am not hired for any definite length of time and either i or the organization can terminate my employment at any time for any or no reason.  if employed, i understand and agree that the organization retains the sole right in its business judgment to modify, suspend, interpret, or cancel, in whole or in part, at any time, with or without any notice, any published or unpublished policy, practice, procedure, process, or benefit.  if employed, i understand that i may be required to comply with federal, state/province, or local data privacy and other applicable regulations. i understand and agree to comply with such laws.  if employed, i understand that as a condition of employment that i may be required to agree to and sign the organization’s confidentiality, non-compete, and/or other similar agreements. i also agree to notify the organization during the pre-employment process of any confidentiality, non-compete, and/or other similar agreements that i may have already signed with current and/or former employers, or other potential conflict.  i understand that the technical processing and transmission of the application, including my personal information, may involve (a) transmissions over various networks, including the transfer of this information to the united states and/or other countries for storage, processing and use by , its affiliates, and their agents; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. accordingly, i agree to permit such parties to make such transmissions and changes, and hereby provide the necessary consent for the same.  state specific notices california applicants: do not identify convictions under california health & safety code §§11357(b) or (c), 11360(b) (formerly subdivision (c) of section 11360), 11364, 11365, or 11550 related to marijuana offenses that occurred two or more years before the instant application. also, do not identify any conviction for which the record has been judicially ordered sealed, expunged or statutorily eradicated, or any misdemeanor conviction for which probation has been successfully completed or otherwise discharged and the case has been judicially dismissed.  connecticut applicants: applicants for employment are not required to disclose the existence of any arrest, criminal charge, or conviction for which the records have been erased in accordance with the provisions of connecticut state law. records subject to erasure are records pertaining to a finding of delinquency, an adjudication as a youthful offender, a criminal charge that has been dismissed or nulled (not prosecuted), a criminal charge for which a person has been found not guilty, or a conviction for which a person received an absolute pardon. any person whose criminal records have been erased in accordance with the provisions of connecticut state law shall be deemed to have never been arrested within the meaning of connecticut general statutes and may so swear by oath.  massachusetts applicants: applicants for employment with a sealed record on file with the massachusetts commissioner of probation may answer no record with respect to an inquiry relating to prior arrests, criminal court appearances, or convictions. in addition, massachusetts applicants for employment may answer no record with respect to any inquiry relative to prior arrests, court appearances and adjudication in all cases of delinquency, or as a child in need of services, which did not result in a complaint transferred to the superior court for criminal prosecution.  it is unlawful in massachusetts to require or administer a lie detector test as a condition of employment or continued employment. an employer who violates this law shall be subject to criminal penalties and civil liabilities.  maryland applicants: under maryland law, an employer may not require or demand, as a condition of employment, prospective employment, or continued employment, that an individual submit to or take a lie detector or similar test. an employer who violates this law is guilty of a misdemeanor and subject to a fine not exceeding $100. *
+
+
+
+please selecti acknowledge i have received, read and understood the above statement.
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at echo global logistics are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

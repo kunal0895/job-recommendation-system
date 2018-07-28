@@ -1,0 +1,230 @@
+
+
+
+
+job application for software engineer, developer tools at pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer, developer tools
+
+        at pinterest
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+at pinterest, we have millions of lines of code in java, c++, go, python, thousands of builds and hundreds of deploys every day. it is a huge challenge to scale our build/release pipeline to meet our fast-growing engineering demand. as a software engineer on the release engineering team you’ll create and maintain various systems including source control management, build, test and deploy, help establish processes and best practice on code review, test and release.what you’ll do:
+
+extend our source control management system to help increase engineering productivity and ensure its scalability
+improve our build tools to make sure our build release process more efficient and reliable
+create testing framework for our engineer to easily create integration test cases.
+maintain our internal deploy system to make sure we smoothly ship code to production on a daily base.
+help troubleshoot issues in build/test/deploy process.
+
+what we’re looking for:
+
+extensive knowledge of git, python, java, docker, linux
+experience with continuous integration system, e.g. jenkins
+experience with modern build tools such as maven, bazel
+self-motivated, detail-oriented, attitude of fixing problems
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pinterest profile
+    
+
+
+
+
+
+github profile
+    
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

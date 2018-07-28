@@ -1,0 +1,247 @@
+   alpha research & technology, inc.                      homeaboutproductssolutionsservicescontact us      missionmanagementmanufacturingengineeringrecognitioncareersphilanthropy       about // careers  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position: 
+                            
+                            
+                                
+                                    systems engineer ii - hardware product design
+                            
+                        
+
+
+
+location: 
+                                
+                                    el dorado hills, ca
+                                
+                        
+
+
+
+job id: 
+                            
+                            
+                                
+                                    157
+                            
+                        
+
+
+
+# of openings: 
+                            
+                            
+                                
+                                1
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+ alpha research & technology, inc. located in el dorado hills, ca, designs and manufactures ruggedized, cutting-edge and fully integrated airborne and airborne-related command, control, communications, computers, intelligence, surveillance, reconnaissance (c41sr) mission systems.
+ 
+the company is currently seeking a systems engineer ii having responsibility for defining and executing systems engineering activities within a project for electronics products.  activities may consist of research and development, project and design planning, system architect, product design, performance monitoring, testing and validation, and technical support.  specific responsibilities include:
+ 
+
+
+analyzes customer requirements; provides technical and cost inputs for proposals and marketing initiatives.
+
+
+coordinates multidisciplinary product teams to provide system level technical oversight working on all phases of the system development cycle, from concept development through system sell-off to the customer. performs top-level system designs and trade-off studies.
+
+
+determines, recommends, and plans layout for type of computers and peripheral equipment, or modifications to existing equipment and systems. designs and develops electrical interface, interconnect diagrams, wiring diagrams, and cable drawings as necessary.
+
+
+understand customer needs and determine what processes and technologies (hardware and software) are available to effectively fill them.
+
+
+confer with the customers, engineers, and project managers to obtain information on limitations and capabilities of existing systems.
+
+
+prepares specifications and resource requirements. responsible for proper flow down of technical requirements to other functional engineering groups ensuring that subsystem, assembly, and component level designs support the overall system level requirements.
+
+
+supports internal design reviews. support formal reviews with customer (srr, pdr, cdr, mrr, trr, prr, etc.).
+
+
+support system integration design: cable harness design, implementation and dressing, i/o connector definition, electronic devices and electronic equipment racks integration, etc.
+
+
+support generation of user's manuals, assembly procedures, test procedures, configuration management documentation.
+
+
+generate compliance verification matrix, design review presentations, and engineering reports as necessary.
+
+
+review and approve all system level documents, drawings, and test data.
+
+
+interface with test engineers to generate system test plans and procedures to ensure that the delivered system fully meets both the functional and performance requirements.
+
+
+interface with other functional groups (contracts, program management, supply chain, manufacturing, testing, and quality) as necessary to resolve technical issues and non-conformances.
+
+
+oversee testing and operation of equipment after delivery and installation to ensure system operates in conformance with all specifications.
+
+
+participate in customer interface, up to and including managing customer interface.
+
+
+set up development environment as required.
+
+
+provide direct support to manufacturing production in a training and advisory role.
+
+
+provide support for customer issues, including direct technical support
+ 
+
+
+ 
+
+education, experience, knowledge and skills requirements:
+ 
+
+
+bachelor’s degree in systems, computer or electrical engineering or equivalent required. five to seven years of applicable hands on systems engineering design experience in the aerospace and electronics hardware industries. previous dod system design experience preferred.
+
+
+technical skills requirements include:
+
+
+software: ms office (visio, project, powerpoint, word, excel, etc.)
+
+
+coding: coldfusion, asp.net, php, sql, crystal report, html5, solaris, linux
+
+
+hardware: asic/fpga design, system on chip (soc), micro controllers, ac/dc power monitoring, oled, com express, electrical schematics
+
+
+virtualization: virtual machine (vm), hypervisor, openxt, vmware, esxi, multi-level security (mls) architecture
+
+
+networking: optical fiber network, spanning tree, port security, vlan routing, acls, ip video encoding/decoding, haipe network encryptor
+
+
+testing: mil-std-810, mil-std-461, rtca do-160
+
+
+
+
+excellent communication, analytical and organizational skills. ability to effectively present technical information and respond to questions from various internal and external groups.
+
+
+previous or active dod security clearance preferred. u.s. citizens only
+
+
+ 
+local candidates only.
+ 
+alpha research & technology, inc. offers a comprehensive benefits package to include employer paid medical, dental, vision, life and ad&d insurance, long-term disability, paid time off and 401(k) plan.
+ 
+alpha research & technology, inc. is an equal opportunity/affirmative action employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, gender identity, sexual orientation or protected veteran status.
+ 
+ 
+
+
+
+
+
+
+
+                                apply for this position
+                            
+
+
+
+
+
+
+
+
+                    apply with indeed
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+                go back to the job list
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+applicant privacy policy
+
+
+
+
+
+
+
+      pages   about products solutions services careers contact us    certifications    what our clients say    lockheed martin ...the sample task was an all small business team effort and we want to acknowledge the significant contribution that art provided in making the technical response so successful. thank you.” --- r2csr capture manager     © 2013 alpha research & technology, inc.     

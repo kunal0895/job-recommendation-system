@@ -1,0 +1,503 @@
+ 
+
+
+
+
+        software engineer - c++ jobs in philadelphia area | sig careers
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you are using an unsupported browser. some features may not work correctly.close
+
+
+
+menu
+
+
+
+            	
+					meet our team
+
+            	
+					beyond work + benefits
+
+            	
+					news + events
+
+
+ about trading quant research technology campus programs gamer blogcareers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+keywords
+
+
+
+location
+
+all
+beijing
+boston
+boca raton
+chicago
+dublin
+hong kong
+northern new jersey
+new york
+philadelphia area
+stamford
+san francisco
+shanghai
+sydney
+
+
+
+job type:
+
+all
+experienced
+recent graduate/student
+
+
+
+
+
+
+category
+
+all
+accounting
+additional opportunities
+corporate research
+human resources, recruiting & marketing
+institutional research, sales & trading
+legal & compliance
+operations
+private equity/venture capital
+quantitative research
+technology
+trading
+
+
+
+
+
+view all jobs
+search
+
+
+
+
+
+favorites ()
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job description
+
+
+
+
+
+software engineer - c++
+
+share
+
+
+
+
+
+
+share
+email this job
+
+
+linkedin
+
+
+twitter
+
+
+facebook
+
+
+
+
+
+
+
+
+
+location:philadelphia area
+
+
+
+
+apply
+
+
+
+
+
+apply
+
+linkedin
+
+
+
+dropbox
+
+
+google drive
+
+
+
+
+
+
+
+
+
+overviewsig is seeking a software developer to join a team responsible for designing and developing low-latency trading systems for our index desk.  as a developer on this team, you will work closely with traders and top technologists to enhance our trading capabilities by providing innovative, scalable and stable systems. you will have a direct impact on a successful desk as work directly with traders on proposing new ideas or gathering requirements for additional functionality, both of which are brought into production quickly through our short development cycles.  beyond development, you have the opportunity to propose and investigate new technologies to help us stay ahead. we are looking for a strong c++ developer with experience in performance and optimization. who we aresig is a proprietary trading firm that’s dependent on a strong and creative technology team. we sit next to our stakeholders, allowing for a quick feedback cycle and a firsthand look at how our user interacts with our product. we value decision making and asking questions, and we pride ourselves on the fact that working at sig is more than just a job.sig developers are:able to execute on ideas quicklycommitted to innovationfocused on the entire technical stack with an eye for building a stable, scalable, optimized environment with minimized riskpassionate about technology and interested in exploring new technologies to find the optimal solutionstrong object oriented software developerswhat we're looking forbachelor's degree in computer science, engineering, mathematics or related discipline or its foreign equivalent plus 5 years of progressive experience developing software applications is required. relevant technical experience may substitute for education.experience with and a demonstrated understanding of object oriented design and software development in a high-performance / high throughput environment using c++ (preferably in a linux environment) is requiredexcellent attention to detail and accuracy and a thorough understanding of full life-cycle development and performance optimization / latency reduction methodologies.ability to work closely with other software developers, traders, quants, and infrastructure teamsvisa sponsorship is available for this positionwe don’t post salary ranges externally so any salary estimate you see listed here was not provided by sig and may not be accurate.  we think it’s important to take your skills and experience into account when determining compensation. sig is not accepting unsolicited resumes from search firms. all resumes submitted by search firms to any employee at sig via-email, the internet or directly without a valid written search agreement will be deemed the sole property of sig, and no fee will be paid in the event the candidate is hired by sig.
+
+
+
+
+
+
+
+job location
+
+
+
+
+
+
+
+existing user login
+            x
+
+
+name
+
+
+
+email
+
+
+
+
+
+
+forgot password
+
+
+
+
+
+
+
+
+request password
+            x
+
+
+* email
+
+
+
+
+
+
+
+
+
+
+
+
+forgot password
+            x
+
+
+re-register with a new email address
+
+
+or
+
+continue using einsatest2june20@mailinator.com
+
+
+
+
+
+
+
+
+
+email resume
+            x
+
+
+email
+
+
+
+
+
+
+
+
+
+
+
+
+email resume
+            x
+
+
+            we've sent you an e-mail from
+            to submit your resume please reply to the above e-mail with your resume attached. 
+            or
+            send an e-mail to the above address with your resume attached. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job
+            x
+
+
+
+
+
+*required fields
+
+* sender's name
+
+
+
+* recipient's email
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us
+
+linkedin 
+facebook
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+about
+
+about
+approach
+culture
+meet our team
+news + events
+speaker series
+beyond work + benefits
+institutional brokerage
+etf group
+global private equity
+locations
+
+
+
+quant trading
+
+quantitative trading
+products
+game theory
+decision making in trading
+
+
+
+quant research
+
+quantitative research
+day of a quantitative researcher
+
+
+
+technology
+
+technology
+day of a developer
+
+
+
+campus programs
+
+trading
+technology
+quantitative research
+research
+trading operations
+co-op
+search campus openings
+
+
+
+
+gamer blog
+
+
+
+
+
+careers
+
+trading
+technology
+quantitative research
+private equity / venture capital
+operations
+legal & compliance
+institutional research, sales & trading
+human resources, recruiting & marketing
+corporate research
+additional opportunities
+accounting
+
+
+   
+
+
+ 
+
+ 
+
+
+
+
+disclosures | privacy statement
+copyright © 2014 susquehanna international group, llp. all rights reserved. susquehanna financial group, lllp (sfg), an affiliate of sig, is a       member of finra.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

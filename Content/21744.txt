@@ -1,0 +1,610 @@
+
+
+
+
+
+
+		front end web developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+front end web developer
+technology – pittsburgh, pennsylvania
+
+
+apply for this job
+
+
+
+
+department
+technology
+
+
+employment type
+full time
+
+
+minimum experience
+mid-level
+
+
+
+
+
+
+
+
+
+
+
+
+the candidate is responsible for writing web applications using html, css, and javascript in order to comply with project requirements, both internally and customer-facing. the web applications are written using frameworks standardized for team development, and as such, conventions must be followed. also, the candidate must be competent enough to communicate with the rest of the team or with partners to explain application functionality or to do troubleshooting if there are application issues.
+work/education experience:
+college degree (2 or 4 year course) with 1 to 2 years professional experience, or 4 years or more professional work experience
+expectations/skills:
+
+writing web applications using html, css and javascript
+writing web applications using node.js, npm, bower and sass
+writing web applications using angular 1.x
+learning to use webpack and es6 for writing web applications
+using git, svn, or similar technologies for code repository and history tracking
+having light to moderate knowledge of photoshop tools
+familiar with the software development life cycle
+providing good documentation in the form of code comments, readmes and commit messages
+having good communication skills to discuss application functionality with either internal or customer resource
+working independently and as part of a team
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+residential city: 
+
+
+
+
+
+
+
+github or portfolio url: 
+
+
+
+
+
+
+
+what programming language frameworks have you used before? 
+
+
+
+
+
+
+
+how do you test your application? 
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: version control (git, svn, etc.)? 
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: package managers (npm, bower, etc.)?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: server side scripting (php, python, java, etc.)?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: working with third-party services (apis, sdks, etc.)?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: application design (wireframes, prototypes, photoshop, etc.)?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: data structures and algorithms?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: documentation?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: working with teams?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: working independently on a project?
+
+
+
+
+
+
+
+on a scale of 1 - 10, 10 being very proficient, how would you rate your expertise in: verbal and written communication skills?
+
+
+
+
+
+
+
+are you working with a staffing agency/recruiting company? if so, please list the company name here: 
+
+
+
+
+
+
+
+*********required********* here's the fun part! first, watch this video: https://vimeo.com/239153627/ccc32ca469 second: record a quick video (under 3-min) of yourself explaining the three reasons why you are awesome and why you want this position. don’t let this intimidate you. just grab your phone, hit the video record button and point it at yourself while you answer the question. then upload it to youtube or vimeo and copy the link here: (be sure to change the privacy settings to public view or send set an access password and submit the password with your link!)
+
+
+
+
+
+
+
+
+
+your answers to the following four questions are entirely optional.?
+
+this information will not be used as selection criteria. if you'd rather not share this information, feel free to select "decline to answer".
+
+
+
+
+
+gender
+
+
+
+decline to answer
+male
+female
+
+
+
+
+
+
+ethnicity
+
+
+
+decline to answer
+american indian or alaska native
+asian
+black or african american
+hispanic or latino
+native hawaiian or other pacific islander
+two or more races
+white
+
+
+
+
+
+
+veteran status
+
+
+decline to answer
+not a veteran
+active duty wartime or campaign badge veteran
+armed forces service medal veteran
+disabled veteran
+recently separated veteran
+
+
+
+
+
+
+disability
+
+
+
+decline to answer
+no, i don't have a disability
+yes, i have a disability (or previously had a disability)
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+pittsburgh, pennsylvania
+
+
+department
+technology
+
+
+employment type
+full time
+
+
+minimum experience
+mid-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

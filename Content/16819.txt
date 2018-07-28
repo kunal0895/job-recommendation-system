@@ -1,0 +1,449 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qualcomm careers - job detail
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation   
+
+qualcomm
+
+
+search jobs
+
+drop & go
+
+
+my profile
+
+
+
+how to apply & faqs
+
+
+
+
+
+
+
+
+go to qualcomm careers
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+myprofile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+job id
+												
+
+
+
+													e1958251
+												
+
+
+job title
+												
+
+linux embedded software developer (iot devices)
+
+
+
+
+post date
+													
+
+12/04/2017
+													
+
+
+
+
+
+
+														company
+													
+												
+
+
+
+																	qualcomm innovation center
+																
+															
+
+
+
+
+
+job area
+												
+
+
+													engineering - software                          
+													
+
+
+
+
+location
+												
+
+
+													california - san diego
+													
+
+
+
+
+job overview
+													
+
+
+
+we are looking for a talented, motivated and experienced embedded software engineer with expertise in linux. this role includes design and development of linux based platform that will be used as building blocks for different iot products. the primary focus will be linux frameworks. we use yocto projects poky distribution which is based on openembedded and bitbake. candidate will use that distribution to bring up common platform (bootloader, kernel, user space) on qualcomm chipset by writing recipes, makefile etc. strong understanding of build environment, cross-compilation and toolchains is required.
+as part of this team, we support internal technology teams by providing debug tools, ide and release infrastructure . we also work with various internal cross functional teams to debug issues, suggest process improvements and to improve build efficiency.
+this position is with qualcomm's fully-owned subsidiary, the qualcomm innovation center (quic). quic is focused on open source software development and participates in the open source community.
+responsibilities:
+design, implement and drive new user space features based on linux platforms as scalable and performant on low power hardware as possible
+debug and fix complex problems involving multiple modules from user space and kernel space
+understanding of gnu toolchains (gcc, glibc, binutils, etc)
+contribute in pre-silicon and post-silicon bringup of future chipsets
+
+
+
+
+
+
+
+all qualcomm employees are expected to actively support diversity on their teams, and in the company.
+
+
+
+minimum qualifications
+													
+
+
+
+2 to 6 years of industry experience in the following:c/c++ programming skills including data structures and algorithmsproblem solving and debugging skills, experience with linux debug tools and jtag working in unix/linux environments & software development
+
+
+
+preferred qualifications
+													
+
+
+
+understanding of openembedded and bitbake, 
+experience in python, perl, nodejs, c, c++, shell, java 
+experience using git for development; patch/tree management 
+excellent communication, interpersonal, and teamwork skills 
+independent and motivated problem solver
+
+
+
+
+
+
+
+
+
+
+
+education requirements
+												
+
+
+required: bachelor's, computer engineering and/or computer science and/or electrical engineeringpreferred: master's, computer engineering and/or computer science and/or electrical engineering
+
+
+
+
+													keywords
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+														you will need to  
+														login
+														into your profile to apply for this job.
+														
+														if you are a  
+														new user, click here
+														to create a profile.
+													
+
+
+
+
+messages
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+return to search results
+
+
+send this job to a friend
+
+
+
+ 
+
+  
+
+
+applicants:
+
+												if you need an accommodation, during the application/hiring process, you may request an accommodation by sending email to accommodationsupport@qualcomm.com
+
+
+
+
+
+to all staffing and recruiting agencies:
+
+											our careers site is only for individuals seeking a job at qualcomm.
+											staffing and recruiting agencies and individuals being represented
+											by an agency are not authorized to use this site or to submit profiles,
+											applications or resumes, and any such submissions will be considered
+											unsolicited. qualcomm does not accept unsolicited resumes or applications
+											from agencies. please do not forward resumes to our jobs alias,
+											qualcomm employees or any other company location. qualcomm is not
+											responsible for any fees related to unsolicited resumes/applications.
+											
+
+
+
+
+
+eeo employer: including race, gender, gender identity, sexual orientation, disability & veterans status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about qualcomm
+contact us
+careers
+offices
+
+
+qualcomm
+
+
+twitter
+facebook
+linkedin
+youtube
+googleplus
+pinterest
+
+
+
+
+
+
+terms of use
+privacy
+cookie policy
+©2013 qualcomm incorporated and/or its subsidiaries. all rights reserved.
+
+nothing in this material is an
+						offer to sell any of the components or devices referenced herein.
+						references to "qualcomm" may mean qualcomm incorporated, or
+						subsidiaries or business units within the qualcomm corporate
+						structure, as applicable.materials that are as of a specific date,
+						including but not limited to press releases, presentations, blog
+						posts and webcasts, may have been superseded by subsequent events
+						or disclosures.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,370 @@
+
+
+
+
+job application for staff data scientist at fitbit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+staff data scientist
+
+        at fitbit
+      
+(view all jobs)
+
+        us - san francisco
+      
+
+
+at fitbit, our mission is to help people lead healthier, more active lives by empowering them with data, inspiration and guidance to reach their goals.
+ we started our journey in 2007—as a team of two with one big idea. today, that idea has become a movement. fitbit is now a publicly-traded company creating award-winning products and services that are available across the globe. we’re transforming the way the world sees health & fitness. in fact, the fitbit community has taken enough steps to walk from the sun to pluto. our culture combines the spirit of startup with the perks of being public—offering a competitive benefits package and amazing perks like free lunches, friday happy hours, on-site fitness classes and more. as part of our team, you’ll have the opportunity to grow your career, contribute your ideas to life-changing products and services, and—above all—have fun doing it.
+ fitbit’s hq campus is made up of three modern buildings located at the heart of soma in san francisco. monday-friday you can feast your eyes on amazing views of the skyline, then feast yourself on some of the city’s best food trucks, lunch spots and coffee shops. when you’ve had your fill, lace up and make your way to the ferry building for the perfect post-work run or walk along the water (with the bay bridge as your backdrop)! 
+think you’ve found your fit? see what we’re looking for below and apply today.
+fitbit research is world-class team of hacker-scientist-types who dream up, prototype, and deliver shipping products. we investigate a big set of problems from hardware development to embedded signal processing algorithms to data mining.  experimentation is critical.  we work in a dynamic and collaborative environment where the goal is to learn things quickly, iterate fast, and make awesome products.
+your role:
+ you will work with a team of data scientists and analysts to invent compelling data products in the fitbit ecosystem of wearables, connected devices, and software services. think the ultimate personalized fitness coach that is driven from your data, then combine that with sleep, nutrition, weight, and all the other data in the fitbit experience. you will have large responsibilities in generating or taking ideas and growing them into a final product. you will help dream up and prototype new data-based features, perform analysis to determine what is interesting and useful in those features, design experiments to focus feature development, and design scalable machine learning. you will do a lot of experiments. you will work with a diverse group of technical experts in the research department to figure out hard problems and, ultimately, help ship products with the other engineering teams at fitbit.
+qualifications
+
+6 or more year’s experience in data products with expertise in one or more of the following: recommender systems, classification algorithms, data mining, outcomes research 
+phd. in computer science, statistics, physics or a related technical field
+adept at full stack feature prototyping: back end infrastructure, large scale algorithms, and front end experiences
+skilled at creating and transferring production worthy code
+mastery of programming and scientific computation (python, r), data visualization (d3, shiny) and presenting data in a relatable way
+expert at querying sql and nosql database
+motivated, independent, efficient and able to handle several projects
+friendly, articulate, and interested in working in a fun, small team environment
+
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at fitbit are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

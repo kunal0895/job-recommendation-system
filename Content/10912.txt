@@ -1,0 +1,227 @@
+
+
+
+
+job application for data scientist at thumbtack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist
+
+        at thumbtack
+      
+
+        san francisco
+      
+
+
+thumbtack is a local services marketplace that connects customers with the right professionals for anything they need done. every day we rally around the impact thumbtack has on people’s lives - from house cleaners, to yoga instructors to general contractors, we’re helping small businesses grow and thrive. join our growing team in the quest to build the destination for anything you need done.
+about the data science team
+at thumbtack, the data science team combines big data with innovative modeling and analysis techniques to shape the system logic that serves millions of customers and professionals. challenging problems include:
+
+design innovative a/b testing techniques. understanding the true impact of a test in thumbtack’s marketplace requires well-designed separation among millions of interconnected customers and professionals, and sound methodology to interpret test results in the face of such extensive interconnection.
+model complex relationships in the presence of many confounding factors. predictive modeling problems are everywhere across our product. our team works to scope, design and implement machine learning models to support thumbtack’s products.
+
+about the role
+we're looking for data scientists with deep expertise in statistics, machine learning, optimization, and/or building data products. our process gives you full ownership over the projects you tackle, so you should be a person who dreams big, then executes well.
+responsibilities
+
+design and execute experiments, collect and analyze test data to guide launch decisions
+architect and deploy machine learning systems to production
+design and implement metrics that align with company goals
+analyze a wide variety of data: structured and unstructured, observational and experimental, with the goal of influencing system designs and implementations
+advise engineering and product teams on sound statistical practices
+
+must-have qualifications 
+
+m.s. or equivalent experience in computer science, engineering, statistics, or other relevant technical field
+minimum of 4 years of industry experience in engineering
+expert knowledge of probability and statistics, including experimental design, predictive modeling, optimization, and causal inference
+familiarity with machine learning concepts: regression and classification, clustering, feature selection, feature engineering, curse of dimensionality, bias-variance tradeoff, neural networks, svms, etc.
+a strong sense of connecting technical work to product impacts
+expert knowledge of a statistical computing language such as r or python/pandas
+excellent written and verbal technical communication skills
+familiarity with a scripting language and/or shell scripting
+
+nice-to-have qualifications
+
+preferred: ph.d. in computer science, engineering, statistics, or other relevant technical field
+preferred: experience with large-scale distributed systems
+preferred: experience with tools in the hadoop ecosystem such as hive, pig, or spark
+
+more about us
+thumbtack is a local services marketplace that connects customers who need to get things done with local, skilled professionals who can help. from plumbers and painters to djs and personal trainers, thumbtack helps millions of customers find the right professional for their project in over 1,000 categories. founded in 2009 and headquartered in san francisco, thumbtack is backed by over $250 million in investment from sequoia capital, capitalg, tiger global management, javelin investment partners and baillie gifford. 
+
+learn more about our culture, benefits, and perks
+learn more about engineering at thumbtack
+follow thumbtack on linkedin
+
+thumbtack embraces diversity. we are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, sexual orientation, gender identity, religion, national origin, citizenship, marital status, veteran status, or disability status. pursuant to the san francisco fair chance ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+#li-post
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who referred you to this position?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

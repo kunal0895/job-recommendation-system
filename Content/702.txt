@@ -1,0 +1,261 @@
+
+
+
+
+job application for data engineer at earnin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at earnin
+      
+(view all jobs)
+
+        palo, alto, ca
+      
+
+
+about earnin:
+our financial system is fundamentally unfair for people who live paycheck to paycheck.  people shouldn’t have to wait weeks to get the pay they’ve already earned.  this wait forces them to spend more than $100 billion a year on short-term credit products, late fees and overdraft fees.
+earnin helps people overcome this unfairness by giving them real-time access to their money as soon as they have worked -- without fees or interest.
+our team is bound together by a desire to level the financial playing field.  our investors, andreessen horowitz, ribbit capital, felicis ventures, matrix partners and march capital believe we will change the world.
+you can help make a difference.  join us.
+about the team:
+we are a data driven mobile financial tech company and we’re looking for a data engineer to join us and help us build out our data infrastructure to aid in our mission of enabling people to gain access to their paycheck on demand.  
+data engineers are an important function to interact with every team within earnin and you will be interfacing heavily with our analytics, engineering, and data science teams to help them advance our product utilizing machine learning intelligence.
+as a data engineer you will:
+
+focus on designing, building, and launching efficient and reliable data infrastructure to scale and compute for our business
+help us build a world class data lake/data warehouse, by building data pipelines
+design and develop new systems and tools to enable folks to consume and understand data faster
+use your expert coding skills across a number of languages from python, java, c++, go etc.
+work across multiple teams in high visibility roles and own the solution end-to-end
+design, build and launch new data extraction, transformation and loading processes in production
+work with data infrastructure to triage infra issues and drive to resolution.
+
+some skills we consider critical to being a data engineer:
+
+bs or ms degree in computer science or a related technical field
+advanced knowledge of java.  familiarity of python 
+familiarity with hadoop stack, spark, aws glue, aws athena etc
+diverse data storage technologies (rdbms, sql server, mysql, elasticsearch, dynamodb, s3 etc.)
+deep familiarity with schemas, metadata catalogs etc.
+ability to manage and communicate data warehouse plans to internal clients
+strong communication skills, including the ability to identify and communicate data driven insight
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+are you legally authorized to work in the united states? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require sponsorship for employment visa status (e.g. h-1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

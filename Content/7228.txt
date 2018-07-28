@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data analyst
+
+
+location:
+trevose, pa
+
+
+urm #:
+17288, 17056, 17290
+
+
+# of openings:
+3
+
+
+
+description
+a. overall purpose of the job 
+as a member of the data operations team, the data analyst is responsible for
+responsibilities include: 
+
+maintenance and improvement of existing configuration of all travel data etl (extract, transform, load) processes; 
+technical support provided internally and externally in a timely fashion and maintained throughout the data lifecycle; 
+liaise with the travel agencies and data vendors on a global scale to collect and process data 
+focus on continual improvement of data capture and data quality, troubleshooting and resolution of any etl issues
+setup and configuration of data loads when required 
+
+this role is also responsible for liaising with external data providers, vendors and internal clients and participating in cross functional teams and projects as required to support our customer base, including but not limited to working with the other data services teams, dtrm technology teams, service delivery managers, onlinehelp, and vendors to support elt processes, new releases, enhancements, bug fixes and internal self-provisioning tools. 
+ 
+b. key responsibilities
+
+perform required modifications and maintenance of data loads, data transformation rules and configurations to reflect any changes and improvements for data processing and transfers;
+monitor successful execution of these transfers; investigate, resolve or escalate issues to apply a proper solution;
+perform data mining, research and correction for transaction lifecycle; liaise with vendors for improvements; 
+using sql, analyse and validate data to ensure accuracy, quality, and integrity; create and analyse ad-hoc reports per client requests.
+collaborate with internal clients and vendors to solve reported data and setup problems;
+manage quality control process of data feeds through reporting; identify data issues and follow-up with appropriate parties to bring to resolution; 
+reconcile and action on quality control reports for data feeds;
+assist in the implementation of new internal processes and technology enhancements.provide training for new hires on existing etl processes, reporting and system maintenance tasks. 
+
+ 
+c. job profile
+required skills and knowledge
+
+ability to analyse data and apply / recommend advanced solutions and issue handling processes
+understand etl processes and data flow
+establishes good relationships with vendors, customers and colleagues; relate well to people at all levels; ability to manage positive attitude and rational thinking
+detail oriented professional with a zeal for identifying, implementing  and managing best practices for data quality
+problem solver with a lean-in approach to troubleshooting and task management
+ability to perform backend setup and configurations; monitor overall system performance and take actions to escalate potential issues and track resolutions
+demonstrate an ability to actively participate in a process of improvement existing systems; escalate issues and suggest resolutions
+focuses on customer needs and satisfaction; sets high standards for quality and quantity; monitors and maintains quality and productivity; works in a systematic, methodical and orderly way
+collaborate with other members of the cross functional team on the development of solutions and resolving existing issues for data loads, manipulation and tackling
+ability to use a methodology and process for requirements gathering and development
+solid analytical and troubleshooting skills required 
+analytical thinking & problem solving skills
+results driven and self-motivator
+task management and ability to effectively manage multiple high priority projects 
+strong written & oral communication skills
+travel industry experience with global distribution preferred
+
+required work experience 
+
+4+ years of sql, ms server preferred
+4+ years of experience working with etl processes 
+4+ years of experience working with data quality and records management
+experience developing ad-hoc queries for operational support and analysis purposes
+strong experience with providing help desk experience in a customer facing role; ability to establish and maintain relationships with vendors, clients and team members
+travel data experience preferred
+
+required qualifications 
+
+ba or higher 
+degree in computer science or related discipline preferred
+
+required languages 
+
+english; additional languages preferred
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

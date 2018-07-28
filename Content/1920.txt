@@ -1,0 +1,218 @@
+
+
+
+careers – cengage learning -big data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer
+
+
+job locations
+
+us-ma-boston
+
+posted date
+
+1 week ago
+
+
+
+requisition id
+
+2016-2165
+
+
+job function
+
+software development
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+do you dare to reinvent the future of education?
+
+
+
+
+
+
+at cengage, we are harnessing the power of tech to build a future where all learners have the tools and confidence to achieve their goals.as a cengage employee you will pioneer transforming the way people learn. collaborating with the best of the best, you will feel challenged and inspired to do breakthrough work. with the support of our united team, there is no limit to what you can imagine, create and set in motion.
+
+
+
+
+
+
+
+
+are we right for you?
+
+
+
+
+
+
+we are a-players who bring our unique talent and pov to the table every day. we are curious and comfortable with change and are willing to take risks to transform education. most importantly, everything we do, we do for the learner. cengage is seeking a resourceful senior software engineer (big data analytics) to help us build the next-generation of our analytics platform. you'll get to help create our cloud (aws) based data processing pipeline, data processing infrastructure, and internal apis. our platform needs to support multiple types of scalability challenges - from handling terabytes of data to providing analytics in real-time. this is a critical role that will have a significant impact on the direction of our product, technology and business.
+
+
+
+
+
+
+
+
+what you'll do here:
+
+
+
+
+
+
+ build data processing pipeline in that collects, connects, centralizes, and curates data from various internal and external data sourcesarchitect scalable and reliable data engineering solutions for moving data efficiently across systems at near real-timebuild a distributed data store that will be central source of truthdesign, implement, test and deploy data processing infrastructureresearch and assess the viability of new processing and data storage technologiesability to take ownership and get things done in an agile team settinghelp break down, estimate, and provide just-in-time design for small increments of work
+
+
+
+
+
+
+
+
+skills you will need here:
+
+
+
+
+
+
+ big data technologies - spark, kinesis, kafka, storm or hadoop software experience with java source control (preferably git) and bug tracking systemsability to reason about performance tradeoffspreferably have experience with sql and aws tech lead sw experience preferred scala programming a plusmust be comfortable working in an open, highly collaborative team environment1+ years of big data technologies10+ years of professional software experience, including having worked with java and exposure to big data technologiesbachelors in computer science / related field or equivalent work experience #li-gc1
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+cengage is an affirmative action/equal opportunity employer, committed to attracting and retaining a talented and diverse workforce. all qualified applicants receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age or protected veteran status.
+
+
+
+about cengage
+
+cengage is the education and technology company built for learners. the company serves the higher education, k-12, professional, library and workforce training markets worldwide. cengage creates learning experiences that build confidence and momentum toward the future students want. the company is headquartered in boston, ma with an office hub in san francisco. employees reside in nearly 40 countries with sales in more than 125 countries around the world. visit us at www.cengage.com or find us on facebook or twitter.
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

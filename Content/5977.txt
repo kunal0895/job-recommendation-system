@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 10-00928
+
+
+
+
+research engineer - sr. research engineer - manufacturing robotics
+10-00928
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+we are expanding our team working on leading technologies in industrial robotics and are looking for talented and motivated candidates to join us.  qualified candidates have the opportunity to work in a flexible and stimulating environment on diverse technical challenges in applied research and development.  job responsibilities will include: provide technical leadership in the development and application of advanced robotic solutions for industrial, manufacturing, and defense clients; manage open source repositories and collaborate with international teams on open source development; design, build, debug and install industrial robotic and automation systems; develop and test new manufacturing and industrial processes; develop software for industrial controls and manufacturing systems; lead the preparation of proposals and cost estimates; interact with customers to promote new business and develop technical requirements; participate on and lead technical teams; perform other duties as assigned.
+
+                    education/experience:
+				
+requires a ms or phd degree in robotics, mechanical engineering, electrical engineering, computer science, computer engineering, or related field with at least a 3.5 gpa. must have at least 5 - 15 years of experience with developing software and controls for robotics and automation and have experience with large scale c++ software development.  beneficial skills include: ros (robot operating system) development, opencv and vision system development, optimal and search-based planning for high degree of freedom systems, open source software project management.  beneficial knowledge includes: industrial robotics, mobile robotics, 2d/3d computer vision, path planning for robotics, machine learning, optimization, perception/sensing for robot guidance, localization.  travel on an as needed basis to conduct project work.  a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d10/d10home.htm" target="_blank">intelligent systems</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+research engineer - sr. research engineer - manufacturing robotics
+
+10-00928
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

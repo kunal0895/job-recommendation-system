@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+uw human resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+     a-z index
+contact us
+academic hr
+uw.edu
+ enter search text:         university of washington human resources university of washington human resources home  jobs  why work at uw? before you apply temporary work employee referral program find a job  total rewards  compensation  professional staff compensation classified staff compensation  benefits  health benefits insurance benefits retirement plans health and wellness  worklife  uw carelink child care elder care workplace giving the whole u discounts and perks  leaves and holidays  leaves holiday schedule flexwork   workplace essentials  employee support  employee recognition employee work performance complaint resolution update personal information uw safecampus  career development  professional development online learning opportunities career tools and services tuition exemption  manager resources  hiring new employees performance management succession planning organizational development  quick links  employee self-service my hr tools opus owls uwhires login   policies, forms, and contracts  policies forms labor union contracts classified non-union information professional staff program  offices  office of the vice president benefits compensation disability services office hr administration and information systems hr operations labor relations marketing, communications, and engagement professional & organizational development worklife 
+menu      jobs  why work at uw? before you apply temporary work employee referral program find a job  total rewards  compensation  professional staff compensation classified staff compensation  benefits  health benefits insurance benefits retirement plans health and wellness  worklife  uw carelink child care elder care workplace giving the whole u discounts and perks  leaves and holidays  leaves holiday schedule flexwork   workplace essentials  employee support  employee recognition employee work performance complaint resolution update personal information uw safecampus  career development  professional development online learning opportunities career tools and services tuition exemption  manager resources  hiring new employees performance management succession planning organizational development  quick links  employee self-service my hr tools opus owls uwhires login   policies, forms, and contracts  policies forms labor union contracts classified non-union information professional staff program  offices  office of the vice president benefits compensation disability services office hr administration and information systems hr operations labor relations marketing, communications, and engagement professional & organizational development worklife 
+ morea-z index
+contact us
+academic hr
+uw.edu
+enter search text: 
+
+
+
+
+
+
+
+	if you are using a screen reader and experience any difficulty accessing our web pages, please call 206-543-2544 or email uwhires and we will be happy to assist you. jump to content
+
+
+
+
+
+
+
+
+job search
+
+
+
+
+
+
+
+
+
+
+
+research scientist 4
+
+
+
+
+
+
+
+		
+	 
+
+	
+
+
+
+
+
+research scientist 4
+
+
+
+
+
+req #:
+151066
+
+
+department:
+escience institute
+
+
+job location:
+ seattle campus 
+					
+
+
+posting date:
+11/22/2017 
+
+
+closing info:
+
+						open until filled  
+
+
+salary:
+salary and benefits are competitive. salary is commensurate with qualifications and experience. 
+
+
+shift:
+first shift 
+					
+
+
+notes:
+
+
+
+as a uw employee, you will enjoy generous benefits and work/life programs.  for detailed information on benefits for this position, click here.
+
+ 
+					
+
+
+
+
+
+
+
+
+
+as a uw employee, you have a unique opportunity to change lives on our campuses, in our state and around the world. uw employees offer their boundless energy, creative problem solving skills and dedication to build stronger minds and a healthier world. 
+
+uw faculty and staff also enjoy outstanding benefits, professional growth opportunities and unique resources in an environment noted for diversity, intellectual excitement, artistic pursuits and natural beauty. all of which has allowed the uw to be nationally recognized as a “great college to work for” for four consecutive years.  
+
+the escience institute has an outstanding opportunity for a research scientist 4.
+
+the mission of the escience institute at the university of washington is to engage researchers across disciplines in developing and applying advanced computational methods and tools to real world problems. with funding granted by the gordon and betty moore foundation and the alfred p. sloan foundation in 2013, we have been significantly advancing our mission.
+
+we are seeking to enhance our impact in computational social sciences, made possible due to additional funding from the bill and melinda gates foundation. though the escience research staff includes researchers from many fields, including physical, mathematical and biological sciences, the research scientist 4 will expand the footprint of our engagement in the social sciences.  this position is part of an ongoing collaboration between the escience institute and the gates foundation, and expands the research that we can do through this collaboration.  the position also relates closely to two other initiatives on campus: the inter-departmental urban@uw initiative and the cascadia urban analytics cooperative.
+
+this position will collaborate with colleagues who are both researchers at uw (professors, other professional staff, postdocs, and graduate and undergraduate students) and users (domain experts within .gov and ngo stakeholders).  because this effort is both a research project and a technology and training delivery project, its requirements can change rapidly.  the successful candidate will need to adapt to different roles and responsibilities as requirements change, and act as a key point of contact for the project across different organizational units.
+
+responsibilities:
+
+•in collaboration with gates foundation grantees in the pacific northwest, conduct research focused on questions of education and equity in the region.
+•manage collaborations with gates foundation grantees in the pacific northwest; establish a computational research agenda and data sharing agreements. 
+•organize and conduct workshops and training events for gates foundation grantees in the pacific northwest in data science techniques and technologies.
+•train and mentor students in the social sciences on the application of data-driven methodologies in their fields of research.
+•contribute, as part of a team, to significant data science software projects using appropriate technologies in large-scale data management, and/or machine learning and statistics, and/or interactive visualization and specialized data presentation interfaces.
+•work to release software and results open source, help ensure scientific reproducibility of all results, and contribute to a “culture of reproducibility” across campus.
+•review and evaluate potential projects for technical merit and feasibility.
+•meet with potential collaborators to clarify goals, identify collaboration opportunities and recommend solutions.
+•advance long-term collaborations with established partners through joint research engagements.
+•may publish results in appropriate venues, often jointly with collaborators outside the candidate’s own area of expertise.
+•participate in institute sponsor reporting and annual retreat activities.
+•prepare and deliver presentations on significant results, both internally and externally, representing the escience institute as well as specific projects.
+•develop web materials communicating significant results, best practices and case studies with specific technologies, and documentation for significant software.
+•help advance a reputation outside of uw for excellence in data science methods and practice, contributing to the institute’s overall portfolio of successful projects.
+
+requirements:
+
+•master’s degree in life, physical, or social sciences; computer science; statistics or applied math; or related area; or equivalent experience.
+•four years of experience in application of data science techniques and technologies.
+•demonstrated experience communicating results through writing and presentations, both in and out of one’s own discipline.
+•demonstrated experience in application of data science techniques and technologies (machine learning, statistics, databases, large-scale data systems, visualization) in social science contexts.
+•demonstrated ability to interact in a collaborative manner with other team members to accomplish organizational goals.
+•demonstrated experience interacting with stakeholders from different sectors (government and non-profit) on projects related to public policy.
+
+equivalent education/experience will substitute for all minimum qualifications except when there are legal requirements, such as a license/certification/registration.
+
+desired:
+
+•doctoral degree in the life, physical, or social sciences; computer science; statistics or applied math; or related area; or equivalent experience
+•experience writing data analysis software in an open source software (e.g., python or r) and experience collaboratively developing open source software for data analysis projects.
+
+application process:
+the application process for uw positions may include completion of a variety of online assessments to obtain additional information that will be used in the evaluation process.  these assessments may include work authorization, criminal conviction history, cover letter and/or others. any assessments that you need to complete will appear on your screen as soon as you select “apply to this position”. once you begin an assessment, it must be completed at that time; if you do not complete the assessment you will be prompted to do so the next time you access your “my jobs” page. if you select to take it later, it will appear on your "my jobs" page to take when you are ready. please note that your application will not be reviewed, and you will not be considered for this position until all required assessments have been completed.
+
+
+
+
+
+
+
+ the university of washington is a leader in environmental stewardship & sustainability, and committed to becoming climate neutral.
+				
+
+
+the university of washington is an equal opportunity, affirmative action employer.
+				to request disability accommodation in the application process, contact the disability services office at 206-543-6450 / 206-543-6452 (tty) or dso@uw.edu.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ university of washington be boundless accessibility
+jobs
+safecampus
+privacy
+terms
+employment verification
+workplace posters
+ © 2016 university of washington | seattle, wa
+
+
+
+
+
+
+
+
+

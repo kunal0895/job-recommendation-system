@@ -1,0 +1,60 @@
+
+
+
+
+encodia - jobs: bioinformatics scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+encodia
+
+
+
+all jobs
+→
+bioinformatics scientist
+
+bioinformatics scientist
+san diego, california, united states · r&d · 1222-rd
+
+descriptionjob summary: encodia is an emerging, early stage biotech company developing the next generation of protein analysis tools.  encodia is seeking to recruit an experienced bioinformatics scientist with extensive experience combining next generation sequence analysis with protein sequence and data analysis. this candidate should have functional expertise in sequence alignment for both protein and dna sequences, and experienced with analyzing large data sets using cloud platforms.  in addition, this individual will be responsible for establishing and managing analysis tools for directed evolution and structure-based optimization data sets, and develop pipelines for automated workflows.    job responsibilities:  develop new methods for analyzing next-generation sequencing data.  develop and employ bioinformatics tools for protein modeling, sequence alignment, and quantitation.   develop and manage compute pipelines in production environments. collaborate across functions to develop tools to enhance data analysis workflows requirements phd in bioinformatics or related field with 3-5 years direct experience in ngs and proteomics. significant experience in hands-on analysis of next-generation sequencing data analysis  experience in machine learning and statistical analysis of big data. self-motivated and ability to work with and support many functions across organization. programming strength in python , perl, and r scripting.   experienced in unix/linux environment. develop and maintain statistical analytical tools and bioinformatics pipelines. minimum 2 years experience experienced with cloud computing including aws and/or google cloud platform setting-up and maintaining cloud-based computing environment (i.e. aws, azure, etc.). experience with bioinformatics dna and protein analysis tools and databases (ncbi, ucsc genome browser, igv, expasy tools and databases, homology modeling, dna and protein sequence alignment algorithms, uniprotkb, swiss-model, etc). use github coding and documentation standards. benefitsencodia is an equal opportunity employer that offers a competitive and comprehensive employee benefits package including medical plans, dental insurance, vision plans, ltd, paid vacation, and a stock plan.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+encodia website
+
+powered by
+workable
+
+
+
+
+

@@ -1,0 +1,172 @@
+
+
+
+
+
+engineer ii - software  in  scottsdale, az | ticketmaster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+campus
+
+
+international opportunties
+
+
+live nation entertainment careers
+
+
+join our talent network
+
+
+
+
+
+
+ careers
+
+
+
+
+
+
+
+
+
+ careers
+
+
+
+
+
+
+
+
+
+
+let's do this
+
+
+
+
+
+
+
+
+careers
+ > engineer ii - software - scottsdale, az
+
+
+
+
+
+share
+
+
+
+
+
+
+
+
+apply
+       
+
+
+
+
+engineer ii - software
+posted date:10/2/2017 8:28:38 pm
+job type: full time
+req #: jr-03421
+location:
+
+
+scottsdale, 
+				az
+
+
+
+job category: engineering
+
+
+job summary:who we are.we’re fans who help fans everywhere get in to the live events they love.  a proud division of live nation entertainment, ticketmaster has changed the way the world connects with their favorite artists, teams, and shows, and we continue to shape innovation every day. we’re not just selling tickets (though we do that better than anyone else), we’re enriching lives one amazing experience at a time. and we think that’s pretty amazing. if you’re passionate about the magic of live entertainment like we are, and you want to work at a company dedicated to helping millions of fans experience it, we want to hear from you.why you should work with us.our biggest investment is in people like you. we offer comprehensive health benefits and 401k matching, student loan assistance, plus career-boosting opportunities like tuition reimbursement and targeted development sessions to help you thrive. at ticketmaster you can expect the fast-paced excitement of a startup with the rock-solid support of an industry leader – with plenty of ticket perks on the side.see what it’s like working at ticketmaster. the role:software engineer/systems development is what you get when you treat operations as if it’s a software problem. our mission is to progress, protect, and provide for the software and systems behind all of ticketmasters’s public services - sales (mobile & desktop), open apis, b2b services, to name just a few - with an ever-watchful eye on their availability, latency, performance, and capacity. this is an unusual job, unlike others in the industry. like traditional operations groups, we keep important, revenue-critical systems up and running despite hurricanes, bandwidth outages, and configuration issues. unlike traditional operations groups, we also have full access to and authority to fix, extend, and scale the code to keep it working and harden it against all the vagaries of the internet. we hire people from both systems and software backgrounds, but ideal candidates will have experience with both. at ticketmaster, we have the good fortune to have developed many interesting systems that are global, scalable, have a real-time response, accept payments, prevent fraud and most of all - connect fans to unforgettable experiences. in sre, we flip between the fine-grained detail of disk driver i/o scheduling to the big picture of continental-level service capacity, across a range of systems with an ever-increasing user population. we own those products in production and we drive reliability and performance across massive scale by mastering the full depth of the stack. we learn something new every day - usually surprising things - that have the potential to transform the lives of fans around the world - connecting them to the events they love.as a systems developer on the sre team, you will work on large-scale system design and troubleshooting, and be fluent in systems programming and/or automation. you will have a desire to tackle the complex problems of scale which are unique to ticketmaster.responsibilities.behind everything our users see online is the architecture built by the ticketmaster technical infrastructure team that keeps it running. from developing and maintaining our production systems to supporting the next generation of global ticketing platforms, we keep ticketmaster's engines humming. we're proud to be our engineers' engineers and we're not afraid of taking things apart so we can rebuild them better. we're always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.design, write and deliver software to improve the availability, scalability, latency, and efficiency of ticketmaster's services.solve problems relating to mission critical services and build automation to prevent problem recurrence; with the goal of automating response to all non-exceptional service conditions.influence and create new designs, architectures, standards and methods for large-scale distributed systems.engage in service capacity planning and demand forecasting, software performance analysis and system tuning.conduct periodic on -call duties.qualifications.familiarity with running production environments at scale is crucial in this job along with an in-depth understanding of unix systems internals, and networking.experience in one or more of: c, c++, java, perl, python, go, or scripting experience in shell and perl.experience working with unix/linux systems from kernel to shell and beyond, with experience working with system libraries, file systems, and client-server protocols.networking: experience with network theory e.g. tcp/ip, udp, icmp, etc., mac addresses, ip packets, dns, osi layers, and load balancing.bs degree in computer science or related technical field, or equivalent practical experience.bonus qualifications (not required, but if you have this experience, let us know):expertise in designing, analyzing and troubleshooting large-scale distributed systems.in-depth knowledge of operating systems (processes, threads, concurrency issues, locks, mutexes, semaphores, monitors and how they work).familiarity with algorithms, data structures, and complexity analysis.systematic problem-solving approach, coupled with a strong sense of ownership and drive.aws infrastructure, kubernetes and/or other cloud enablement technologies.equal employment opportunityticketmaster strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law.hiring practicesthe preceding job description has been designed to indicate the general nature and level of work performed by employees within this classification. it is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.ticketmaster recruitment policies are designed to place the most highly qualified persons available in a timely and efficient manner. ticketmaster may pursue all avenues available, including promotion from within, employee referrals, outside advertising, employment agencies, internet recruiting, job fairs, college recruiting and search firms.
+
+
+apply
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+live nation entertainment careers >
+international opportunities >
+
+
+© 2017 ticketmaster. privacy policy. powered by smashfly
+
+
+
+
+
+
+
+
+

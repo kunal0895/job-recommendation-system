@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ senior data engineer - minecraft
+
+
+
+
+
+
+
+
+
+minecraft is one of the most popular video games of all time, with more than 122 million copies sold. minecraft inspires players to create together and has created one of the most active and passionate player communities in the world.as a senior data engineer, you will be responsible for leading the engineering function for the data solutions both the minecraft data science team and the studio depend on. working closely with the embedded data science function you will be play a leading role defining both our data development roadmap and aligning with our data architecture strategy. this is a central role and essential to ensuring we have sufficient technologies in place to enable data informed decisions.an appropriate candidate will have deep technical knowledge of bi systems design, big data architecture and technology landscape, service architecture, etl/elt orchestration, business intelligence tools such as power bi as well as large scale event telemetry ingestion and aggregation systems. the candidate should have excellent organizational and communication skills and feel comfortable in a fast-paced environment.so, if you are you an expert in designing and building business intelligence solutions, big data and are fascinated by how analytics driven organizations can transform data into actionable insights, we have a dream job for you!key responsibilities:• &nbsp&nbsp&nbsp&nbsp design, implement data solutions• &nbsp&nbsp&nbsp&nbsp define and execute the data engineering roadmap• &nbsp&nbsp&nbsp&nbsp provide technical leadership to the minecraft data science team• &nbsp&nbsp&nbsp&nbsp lead the data engineering functionoperational responsibilities:• &nbsp&nbsp&nbsp&nbsp contribute to the continual improvement of our data architecture• &nbsp&nbsp&nbsp&nbsp conduct code reviews ensuring development follows best practice• &nbsp&nbsp&nbsp&nbsp establish and maintain regular updates detailing, current issues, cost, and development progress• &nbsp&nbsp&nbsp&nbsp direct research on potential technology solutions and implementations in support of new initiatives and opportunities.• &nbsp&nbsp&nbsp&nbsp effectively manage vendor budgetsminimum qualifications:• &nbsp&nbsp&nbsp&nbsp bachelor’s degree or 5 years software engineering experiencepreferred qualifications:• &nbsp&nbsp&nbsp&nbsp we are looking for a skilled and experienced data engineer with an extensive background in developing large scale data solutions• &nbsp&nbsp&nbsp&nbsp proven background and strong hands on experience with one or more of the following big data technology stacks: hadoop in the cloud, mpp sql (hive preferred), etl orchestration systems• &nbsp&nbsp&nbsp&nbsp the engineer will be highly experienced with relational databases (sql server or similar)• &nbsp&nbsp&nbsp&nbsp the engineer will be highly experienced with mpp sql such as hive (or similar sql on hadoop implementations) • &nbsp&nbsp&nbsp&nbsp in-cloud development and linux experience a plus• &nbsp&nbsp&nbsp&nbsp strong software engineering background and understanding of the software development lifecycle• &nbsp&nbsp&nbsp&nbsp ability to effectively prioritize and execute tasks in a fast-paced environment• &nbsp&nbsp&nbsp&nbsp ability to express complex technical concepts effectively, both verbally and in writing• &nbsp&nbsp&nbsp&nbsp highly self‐motivated, self‐directed, and attentive to detail• &nbsp&nbsp&nbsp&nbsp strategic thinker, combined with strong ability to execute • &nbsp&nbsp&nbsp&nbsp solid verbal and written communication• &nbsp&nbsp&nbsp&nbsp experience implementing service-oriented architecture a plusour processes include requirements analysis, continuous development cycle, integration from multi partner orgs and teams, enhancement, maintenance, testing, customer scenario evaluations and root cause analysis/resolution.microsoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+325459
+1078319
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, redmond (wa)
+
+
+
+
+
+
+job families
+
+
+
+
+
+data & applied sciences (engineering)
+
+
+
+
+
+
+teams
+
+
+
+
+
+studios
+
+
+
+
+
+
+
+
+
+
+empower your future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

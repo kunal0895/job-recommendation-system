@@ -1,0 +1,346 @@
+
+
+
+  big data engineer – symphony talent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+request demo
+
+homeproducts and servicesexperience cloudmedia cloudhodes creative & brand agencycapabilitiesabout uscore valuescultureour storyleadershipnewsroompartner portalblogresourcescareerscustomer supportcontact usi want to unify my talent solutionfind great talentmanage candidatesengage employeesboost my employer brandmaximize my mediabe more creative
+
+
+
+menu
+
+home
+products and services
+
+experience cloud
+
+recruitment marketing 
+employee engagement
+
+quesocial 
+
+
+candidate management
+
+skillcheck 
+
+
+
+
+media cloud
+
+display ads & video 
+job boards 
+talent pool 
+
+
+hodes creative & brand agency 
+
+
+capabilities
+about us
+
+core values 
+culture 
+our story 
+leadership 
+newsroom 
+partner portal 
+
+
+blog
+resources
+careers
+customer support
+contact us
+i want to ___
+
+unify my talent solution 
+find great talent 
+manage candidates 
+engage employees 
+boost my employer brand 
+maximize my media 
+be more creative 
+
+
+
+
+
+
+
+41119
+
+
+big data engineer
+41119product managementnew york, ny11/29/2017
+apply
+
+
+description
+big data engineer
+location: new york, new york
+about symphony talent:
+at symphony talent, we connect an employer’s brand with best-fit talent through our integrated cloud-based suite of solutions.  symphony talent’s leadership, staff and investors are dedicated to paving the future for forward-thinking organizations focused on sourcing, nurturing and hiring the best-fit talent for great brands.
+at symphony talent, we respect relationships with one another just as we respect our relationships with our clients, partners and supporters. integrity is ingrained in our core values and we are committed to an open and honest work culture. our teams of creative thinkers are inspired to make a unique impact in this often complex market landscape. we are committed to building an organization fueled by the likes and minds of those passionate for this industry.
+symphony talent is using data to revolutionize and disrupt the online recruitment marketing space. our data management platform (dmp) is now ingesting thousands of gb's of data from our online marketing sources:
+ 
+
+display advertising
+
+
+social advertising
+
+
+email marketing
+
+
+online job postings
+
+
+career web sites
+
+amongst many other things, symphony talent will be using this data to produce the following:
+
+multi source attribution analytics
+
+
+predictive analytics
+
+
+client facing analytics – via our saas portal
+
+
+integration with external vendors and clients (google, facebook, twitter, indeed etc)
+
+about the role:
+we are looking for a "generalist" engineer, that will primarily be responsible for collecting, storing, processing, and analyzing huge sets of data. you will also be responsible for integrating the resulting output of the data processing to our internal analytics team, our customer facing saas analytics platform as well as 3rd party vendors and clients. over the course of time, you will be the go-to person for all things data related.
+
+requirements
+responsibilities
+implementing complex, robust etl pipelines (python, bash, aws, hadoop, redshift)
+writing/using api's for internal/external data integration and ingestion (python, java, node.js)
+building monitoring services
+writing, testing and debugging online tracking tags (javascript)
+contributing to our client facing saas analytics platform (jasperreports server)
+contributing to our continuous development framework (github, jenkins, aws)
+skills and qualifications
+3+ years of, working with large complex sets of data
+highly proficient in sql (this is a mandatory requirement)
+competent, working experience with at least 1 of the following languages:
+
+python
+
+
+nodes.js
+
+
+javascript
+
+
+java
+
+the entire platform runs on aws (specifically aws linux). while it’s not mandatory to have hands on aws experience, having solid working knowledge and experience of the *nix os is mandatory (shell scripts).
+the following hands on experience will be highly desirable:
+
+hadoop (hive, spark, udf's)
+
+
+managing infrastructure in aws
+
+
+building and scaling machine learning frameworks
+
+
+bi tool (jasperreports server, tableau, qlik etc)
+	 
+
+symphony talent perks include:
+
+competitive compensation
+
+
+great benefits package, including a 401(k) plan and unlimited pto
+
+
+open, collaborative culture and flexible work hours
+
+
+fun, conveniently located office in midtown
+
+if this sounds like an exciting next step for your career, we’d love to hear from you!  
+only candidates with proper permits to work in the united states can be considered. symphony talent  is an equal opportunity employer m/f/disability/veterans and committed to a drug-free workplace.
+ 
+
+
+
+
+
+
+
+
+join our talent community!
+creating a profile only takes a few seconds and it will allow recruiters to find you. plus, we’ll keep you updated on the latest career opportunities.create profile
+
+
+
+
+
+symphony talent review
+
+
+
+
+
+
+++
+
+
+
+
+
+
+
+
+
+
+
+©2017 symphony talent, llc | 19 w 34th street, 10th floor, suite 1000, new york, ny 10001
+
+
+
+
+
+online terms and conditions | terms of use | privacy policy
+  
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

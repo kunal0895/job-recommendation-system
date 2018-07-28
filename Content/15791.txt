@@ -1,0 +1,586 @@
+
+
+
+
+software developer | one network enterprises
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ login  |  sign up
+ 
+ 
+
+
+
+
+
+consumer-driven supply chain
+
+
+
+
+navigation
+
+
+home
+industries
+
+automotive & tiered suppliers
+consumer goods
+devices
+
+wi-fi enablement
+
+
+healthcare and pharmaceuticals
+high tech
+logistics service providers
+parcel carriers
+aerospace, defense and government
+restaurant and foodservice supply chain solutions
+retail
+
+
+why one?
+
+business model
+technology
+
+
+solutions
+
+supply chain control towers
+integrated inbound
+outbound fulfillment
+integrated business planning & execution
+
+s&op
+business continuity & risk management
+sustainability
+
+
+intelligent demand
+
+demand management
+demand sensing
+demand signal repository
+forecasting
+order management
+vendor managed inventory
+multi-tier replenishment
+multi-tier inventory management
+demand-driven deployment
+
+
+intelligent supply
+
+demand translation
+production planning & scheduling
+order management
+multi-tier replenishment
+procure-to-pay
+multi-tier inventory management
+
+
+intelligent logistics
+
+tms and intelligent logistics
+transportation planning & optimization
+transportation execution & management
+dock door scheduling
+yard management
+financial reconciliation
+global trade management
+
+
+global logistics gateway
+social apps
+one platform
+
+platform overview
+platform services
+
+b2b infrastructure
+federated network
+business internet services
+master data management
+
+
+why one platform?
+developer resource center
+
+
+
+
+technology
+
+why one platform?
+one platform overview
+developer resource center
+
+
+alliances
+
+consulting partner
+isv partner
+referral partner
+var partner
+
+
+resources
+
+what’s new
+resource library
+articles and insight
+press releases
+supply chain videos
+network effect blog
+
+
+about
+
+our story
+careers
+
+senior oracle database administrator
+inside business development
+business development – dev net
+solution architect
+technical solution consultant
+technical product manager (accounting knowledge required)
+technical product manager
+production support developer
+software developer
+
+
+company leadership
+contact
+customer value
+partners
+
+apply to partner with one
+
+
+
+
+ search
+
+home
+industries
+
+automotive & tiered suppliers
+consumer goods
+devices
+
+wi-fi enablement
+
+
+healthcare and pharmaceuticals
+high tech
+logistics service providers
+parcel carriers
+aerospace, defense and government
+restaurant and foodservice supply chain solutions
+retail
+
+
+why one?
+
+business model
+technology
+
+
+solutions
+
+supply chain control towers
+integrated inbound
+outbound fulfillment
+integrated business planning & execution
+
+s&op
+business continuity & risk management
+sustainability
+
+
+intelligent demand
+
+demand management
+demand sensing
+demand signal repository
+forecasting
+order management
+vendor managed inventory
+multi-tier replenishment
+multi-tier inventory management
+demand-driven deployment
+
+
+intelligent supply
+
+demand translation
+production planning & scheduling
+order management
+multi-tier replenishment
+procure-to-pay
+multi-tier inventory management
+
+
+intelligent logistics
+
+tms and intelligent logistics
+transportation planning & optimization
+transportation execution & management
+dock door scheduling
+yard management
+financial reconciliation
+global trade management
+
+
+global logistics gateway
+social apps
+one platform
+
+platform overview
+platform services
+
+b2b infrastructure
+federated network
+business internet services
+master data management
+
+
+why one platform?
+developer resource center
+
+
+
+
+technology
+
+why one platform?
+one platform overview
+developer resource center
+
+
+alliances
+
+consulting partner
+isv partner
+referral partner
+var partner
+
+
+resources
+
+what’s new
+resource library
+articles and insight
+press releases
+supply chain videos
+network effect blog
+
+
+about
+
+our story
+careers
+
+senior oracle database administrator
+inside business development
+business development – dev net
+solution architect
+technical solution consultant
+technical product manager (accounting knowledge required)
+technical product manager
+production support developer
+software developer
+
+
+company leadership
+contact
+customer value
+partners
+
+apply to partner with one
+
+
+
+
+ search
+
+
+
+
+
+
+  our story  careers  software developer (1)
+
+
+
+
+
+
+
+
+software developer (1)
+
+
+
+
+
+job title:
+software developer
+
+
+salary range:
+tbd
+
+
+reports to:
+development manager
+
+
+job summary:
+the software developer will be a member of the product development team. they will participate in all phases of the software development lifecycle, including requirements analysis, design, implementation, and testing. this developer will be responsible for implementing significant new features and enhancements to the products.
+
+
+essential functions:
+
+
+write code, unit tests, and build/deployment scripts
+responsible for design thru implementation of one’s products
+contribute to design documents and participate in design reviews
+troubleshoot and support production systems when required
+
+
+
+
+education:
+bs/ms in engineering, computer science, or supply chain
+
+
+experience and skills:
+
+
+5+ years of experience in software development
+strong object oriented programming skills. working knowledge of design patterns, data structures and algorithms.
+strong analytical problem solving skills
+extensive knowledge of the java programming language
+strong j2ee technology experience
+experience with relational databases (preferably oracle)
+excellent communication (verbal and written) and interpersonal skills
+systems implementation skills: requirements/process analysis, conceptual and detailed design, configuration, testing, training, change management, support
+prior experience in development or consulting with an enterprise software vendor is a plus.
+functional knowledge of supply chains, logistics, order management, etc. is a plus
+experience with processing large volumes of data is a plus
+
+
+
+
+
+please submit resumes and inquiries to hr@onenetwork.com
+one network enterprises promotes an equal opportunity workplace, which includes reasonable accommodation of otherwise qualified disabled applicants and employees so long as this does not create an undue hardship on the company. please see your manager should you have any questions about this policy or these job duties. this job description may not be all-inclusive and employees are expected to perform all other duties as assigned and/or directed by management. job descriptions and duties may be modified when deemed appropriate by management.
+
+
+
+
+
+our storypartners
+company leadership
+customer value
+contact
+careers
+
+solution architect
+technical solution consultant
+technical product manager (accounting knowledge required)
+business development – dev net
+software developer (1)
+inside business development
+senior oracle database administrator
+software developer
+technical product manager
+production support developer
+
+
+privacy policy
+privacy notice for carrier tracking service (cts)
+privacy notice for social apps
+terms of service for the carrier applications
+ 
+resource library
+
+supply chain thought leadership
+learn how consumer-driven networks can dramatically reduce costs and improve service levels. get access to videos, webinars, white papers, and more... 
+visit the resource library
+
+
+search
+
+connect with one 
+contact us
+sign up for news and resources
+
+
+
+share 
+
+
+
+
+
+
+  latest news 
+
+one network delivers new one chain™ – blockchain solution
+
+
+one network showcases how system integrators and services providers can transform the military and defense during complimentary half-day event
+
+
+global logistics gateway: enables end-to-end inter-operability between global supply chain networks
+
+
+pwc consulting and one network enterprises to launch digital change support partnership for global supply chain management
+
+
+18.0 for retail, restaurant and food service
+
+
+18.0 for defense
+
+
+18.0 for logistics service providers
+
+
+ 
+
+
+
+
+
+
+
+
+home
+industries
+why one?
+solutions
+technology
+alliances
+resources
+about
+
+
+
+
+
+
+
+
+type and press “enter” to search
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+consumer-driven supply chain
+
+
+
+
+
+
+
+
+
+
+

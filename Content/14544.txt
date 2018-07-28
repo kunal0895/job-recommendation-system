@@ -1,0 +1,994 @@
+ 
+
+
+
+
+
+
+
+software engineer - application backend - engineering - san francisco, ca - careers at yelp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yelpdusqytusd
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+            home
+
+        
+
+
+
+
+
+
+            job openings
+
+        
+
+
+
+
+
+
+            who we are
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    home
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                    job openings
+            
+
+
+
+
+
+
+
+
+
+
+
+
+                    who we are
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                software engineer - application backend
+            
+
+                engineering • san francisco, ca
+            
+apply now
+
+
+
+
+
+
+
+summary
+yelp is the richest source of local business data and user-generated content in the world, and our application backend engineers use that data to power our websites and mobile apps. as an application backend engineer you’ll be working closely with mobile and web application developers to bring our 100m+ reviews to millions of users all around the world.application backend engineers are tackling a diverse set of challenges across yelp engineering. want to make a huge impact on our users looking for the best local businesses? build products for business owners to get the most out of yelp? tackle some of the most challenging problems in distributed computing and api design? what about making yelp an authentic, local experience in over thirty countries? we’d love to chat. we are an agile team that creates an amazing experience for millions of yelpers. we are engineers. and we are also makers (of burrito bombers), roller girls, pilots, bakers, and cartwheelers. join our world-class team and be a one of the personalities that make the yelp culture awesome.
+
+we are looking for:
+
+solid understanding of and interest in elegant api designs.mastery of at least one programming language - python, objective-c, java, etc.battle-proven sql knowledge.experience working in a test-driven development environment.comfortable working in a unix environment.a craving for new knowledge and challenges!if you don't have at least one year of experience in a similar role, please take a look at our college engineering roles instead!
+
+pluses:
+
+familiarity with mobile and web development.love of python.excitement about the challenges of internationalization, scalability, and performance.active contributor to open source software.
+
+
+pursuant to the san francisco fair chance ordinance, we will consider for employment qualified applicants with arrest and conviction records.*li-ms1
+
+
+
+
+                                yelp values diversity. we’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+                            
+
+
+
+                                note: yelp does not accept agency resumes. please do not forward resumes to any recruiting alias or employee. yelp is not responsible for any fees related to unsolicited resumes.
+                            
+
+
+
+
+
+
+back to all job postings
+                    
+
+
+
+
+
+
+
+
+
+
+about
+
+
+about yelp
+
+
+careers
+
+
+press
+
+
+investor relations
+
+
+content guidelines
+
+
+terms of service
+
+
+privacy policy
+
+
+ad choices
+
+
+
+
+
+
+discover
+
+
+the local yelp
+
+
+yelp blog
+
+
+support
+
+
+yelp mobile
+
+
+developers
+
+
+rss
+
+
+
+
+
+
+yelp for business owners
+
+
+claim your business page
+
+
+advertise on yelp
+
+
+yelp reservations
+
+
+business success stories
+
+
+business support
+
+
+yelp blog for business owners
+
+
+
+
+
+
+
+languages
+
+
+
+
+
+                    english
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                bahasa malaysia (malaysia)
+        
+
+
+
+
+
+
+
+                čeština (česká republika)
+        
+
+
+
+
+
+
+
+                dansk (danmark)
+        
+
+
+
+
+
+
+
+                deutsch (deutschland)
+        
+
+
+
+
+
+                deutsch (schweiz)
+        
+
+
+
+
+
+                deutsch (österreich)
+        
+
+
+
+
+
+
+
+                english (australia)
+        
+
+
+
+
+
+                english (belgium)
+        
+
+
+
+
+
+                english (canada)
+        
+
+
+
+
+
+                english (hong kong)
+        
+
+
+
+
+
+                english (malaysia)
+        
+
+
+
+
+
+                english (new zealand)
+        
+
+
+
+
+
+                english (philippines)
+        
+
+
+
+
+
+                english (republic of ireland)
+        
+
+
+
+
+
+                english (singapore)
+        
+
+
+
+
+
+                english (switzerland)
+        
+
+
+
+
+
+                english (united kingdom)
+        
+
+
+
+
+
+                english (united states)
+        
+
+
+
+
+
+
+
+                español (argentina)
+        
+
+
+
+
+
+                español (chile)
+        
+
+
+
+
+
+                español (españa)
+        
+
+
+
+
+
+                español (méxico)
+        
+
+
+
+
+
+
+
+                filipino (pilipinas)
+        
+
+
+
+
+
+
+
+                français (belgique)
+        
+
+
+
+
+
+                français (canada)
+        
+
+
+
+
+
+                français (france)
+        
+
+
+
+
+
+                français (suisse)
+        
+
+
+
+
+
+
+
+                italiano (italia)
+        
+
+
+
+
+
+                italiano (svizzera)
+        
+
+
+
+
+
+
+
+                nederlands (belgië)
+        
+
+
+
+
+
+                nederlands (nederland)
+        
+
+
+
+
+
+
+
+                norsk (norge)
+        
+
+
+
+
+
+
+
+                polski (polska)
+        
+
+
+
+
+
+
+
+                português (brasil)
+        
+
+
+
+
+
+                português (portugal)
+        
+
+
+
+
+
+
+
+                suomi (suomi)
+        
+
+
+
+
+
+
+
+                svenska (finland)
+        
+
+
+
+
+
+                svenska (sverige)
+        
+
+
+
+
+
+
+
+                türkçe (türkiye)
+        
+
+
+
+
+
+
+
+                日本語 (日本)
+        
+
+
+
+
+
+
+
+                繁體中文 (台灣)
+        
+
+
+
+
+
+                繁體中文 (香港)
+        
+
+
+
+
+
+
+
+
+
+
+countries
+
+
+
+
+
+                    united states
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                argentina
+        
+
+
+
+
+
+
+
+                australia
+        
+
+
+
+
+
+
+
+                austria
+        
+
+
+
+
+
+
+
+                belgium
+        
+
+
+
+
+
+
+
+                brazil
+        
+
+
+
+
+
+
+
+                canada
+        
+
+
+
+
+
+
+
+                chile
+        
+
+
+
+
+
+
+
+                czech republic
+        
+
+
+
+
+
+
+
+                denmark
+        
+
+
+
+
+
+
+
+                finland
+        
+
+
+
+
+
+
+
+                france
+        
+
+
+
+
+
+
+
+                germany
+        
+
+
+
+
+
+
+
+                hong kong
+        
+
+
+
+
+
+
+
+                italy
+        
+
+
+
+
+
+
+
+                japan
+        
+
+
+
+
+
+
+
+                malaysia
+        
+
+
+
+
+
+
+
+                mexico
+        
+
+
+
+
+
+
+
+                new zealand
+        
+
+
+
+
+
+
+
+                norway
+        
+
+
+
+
+
+
+
+                philippines
+        
+
+
+
+
+
+
+
+                poland
+        
+
+
+
+
+
+
+
+                portugal
+        
+
+
+
+
+
+
+
+                republic of ireland
+        
+
+
+
+
+
+
+
+                singapore
+        
+
+
+
+
+
+
+
+                spain
+        
+
+
+
+
+
+
+
+                sweden
+        
+
+
+
+
+
+
+
+                switzerland
+        
+
+
+
+
+
+
+
+                taiwan
+        
+
+
+
+
+
+
+
+                the netherlands
+        
+
+
+
+
+
+
+
+                turkey
+        
+
+
+
+
+
+
+
+                united kingdom
+        
+
+
+
+
+
+
+
+                united states
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+
+
+blog
+
+
+support
+
+
+terms
+
+
+
+
+            copyright © 2004–2017 yelp inc. yelp, ,  and related marks are registered trademarks of yelp.
+    
+
+
+
+
+
+
+
+
+

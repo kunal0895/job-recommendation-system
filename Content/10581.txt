@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+careers | huawei united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+huawei is a leading global information and communications technology (ict) solutions provider. through our dedication to customer-centric innovation and strong partnerships, we have established end-to-end advantages in telecom networks, devices and cloud computing. we are committed to creating maximum value for telecom operators, enterprises and consumers by providing competitive solutions and services. our products and solutions have been deployed in over 170 countries, serving more than one third of the world’s population. huawei has over 150,000 employees, approximately 70,000 of which are engaged in research & development. huawei operates a global network of 14 regional headquarters, 16 r&d centers, 28 innovation centers jointly operated with customers, and 45 training centers. huawei is leading the way by rethinking the future. from devices to telecom infrastructure to cloud computing and convergence solutions, we are rethinking every link in the chain with ict based innovation to deliver a better future...faster.
+
+
+data scientist
+
+
+location:
+santa clara, ca (device)
+
+
+req #:
+2016556
+
+
+# of openings:
+1
+
+
+
+description
+general summary:  
+huawei consumer cloud service department is responsible for a wide range of mobile services for huawei’s smartphone, wearable, and smart home devices, such as app/video/music/book store, cloud storage, payment, search, etc.
+us r&d big data intelligence group is looking for an experienced data scientist, to develop and apply algorithms and models in areas like product recommendation, user behavior modeling, ads, search.
+duties and responsibilities:   essential functions
+
+apply latest data analytic and learning technologies to innovative applications in both bi analysis and business scenarios like recommendation, ads, search, and fraud detection.
+expand data as service collaboration with partners in us and other international markets.
+apply deep learning algorithm to improve understanding of user behavior and content.
+help to evolve large scale big data platform and tools in all aspects, from data collection to data processing, exploration, visualization and modeling.
+
+job specifications (education, knowledge, skills, and abilities); (refers to job, not incumbent)
+education:
+    minimum: master's degree
+    preferred: doctoral/professional degree
+    major/discipline: computer science/math
+relevant work experience:
+    minimum: 3+ year of data science
+    preferred: 5+ years of ml, dl, data science
+skills & abilities: (technical or general) 
+    minimum requirements: 
+
+knowledge of data analysis techniques.
+experience in implement and validate big data algorithms and models.
+strong communications skills.
+ability to work well as part of a team.
+
+    preferred: 
+
+able to lead a team in developing and executing your technical vision, including planning, technical decision-making, and project management.
+versed in the process of applying effective algorithms to large scale data modeling.
+experience with deep learning algorithms.
+experience in hadoop/spark/flink or similar big data frameworks.
+programming experience with r/scala/python.
+ad technology experience is an added plus.
+
+
+huawei  inc. is proud to be an equal opportunity employer.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+
+why work for us?
+
+
+
+
+in 2015, huawei's revenue reached cny395 billion (us$60.8 billion based on the year-end exchange rate), an increase of 37% (yoy)
+we invest in engineering and innovation - 70,000+ of our 150,000+ global employees work in r&d
+globally ranked #1 for international patent submissions
+we continually invest heavily in global community involvement programs
+we support green energy - lowered co2 emissions by 13,000 tons via huawei’s green packaging solutions
+engaged in over 100 research projects with 50+ universities in the united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+copyright © huawei technologies co., ltd. 1998-2017. all rights reserved.
+ 
+
+
+
+

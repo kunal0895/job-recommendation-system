@@ -1,0 +1,248 @@
+
+
+
+
+job application for software engineer at cloudbees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+software engineer
+
+        at cloudbees
+      
+(view all jobs)
+
+        raleigh, north carolina
+      
+
+
+cloudbees is looking for experts to join our engineering team to build the next generation of the jenkins open-source automation server, cloudbees jenkins (enterprise solution) and cloudbees devoptics solutions.
+our engineering teams are focused on building highly-reliable, large-scale jenkins solutions (cloudbees jenkins operations center, cloudbees jenkins enterprise, and cloudbees devoptics).  we work on areas such as horizontal scaling, high availability, configuration-as-code & analytics. we also invest in jenkins user experience by working on projects like blueocean ui for jenkins.
+ 
+you will work in a small distributed engineering team using agile development methodologies. the teams mostly consist of senior-level engineers, each team has a dedicated product manager and a support team liaison. this position can be located in raleigh, nc, seville, spain, or in remote, wfh locations, for individuals with the right qualifications.
+role
+we are looking for excellent candidates and teammates. the role and team assignments will be modeled to your profile and interests.
+the type of work we do:
+
+contribute to team assignments: prototyping, design, coding, testing, code reviews, integration, etc.
+collaborate with product management, support and engineering teams in order to define priorities and roadmaps
+drive architecture for major feature areas and drive decisions regarding key technologies
+work as a contributor in the jenkins open-source community, deliver fixes and enhancements to the jenkins open source project
+share experience with cloudbees customers and other jenkins users: conferences, meetups, blog posts, etc.
+contribute to customer engagement, help with escalations from the support team
+participate in team and company meetings
+
+why cloudbees?
+
+cloudbees is the hub of enterprise jenkins and devops, providing the fastest path from ideas to software with smarter solutions for continuous development and delivery.
+we build our business on jenkins by offering enterprise solutions (cloudbees jenkins platform) and professional services, our customer range from the blue chips to small innovative companies
+we work on various projects in different areas. we are flexible about changing teams and assignments according to the interest and passion of engineers.
+our engineering teams are distributed by design. you can work from the office in neuchatel or remotely without feeling disconnected
+you have an opportunity to contribute to open-source projects and communities during your working time
+we work with a wide variety of emerging technologies including, docker, kubernetes, cloud computing platforms (amazon web services, pivotal, vmware, etc.), elasticsearch, etc.
+we offer an attractive benefits package including stock options
+
+ 
+requirements
+
+5+ years experience developing with java
+knowledge of jenkins and/or other automation systems
+excellent problem solving and communication skills
+self-motivated and driven personality
+fully proficient in english written and spoken language
+
+ 
+additional qualifications
+
+well-rounded experience in various domains, in particular: javascript, groovy, elasticsearch, virtualization technologies (docker, kubernetes, etc.)
+experience using jenkins and/or building jenkins plugins
+experience in jenkins administration, especially of large-scale instances
+contributions to jenkins and other open source projects
+experience in open-source or closed-source project maintenance
+experience in working as a consultant or as a support engineer
+
+ 
+at cloudbees, we truly believe that the more diverse we are, the better we serve our customers.  a global community like jenkins demands a global focus from cloudbees.  organizations with greater diversity—gender, racial, ethnic, and global—are stronger partners to their customers.  whether by creating more innovative products, or better understanding our worldwide customers, or establishing a stronger cross-section of cultural leadership skills, diversity strengthens all aspects of the cloudbees organization. 
+in the technology industry, diversity creates a competitive advantage.  cloudbees customers demand technologies from us that solve their software development, and therefore their business problems, so that they can better serve their own customers.  cloudbees attributes much of its success to its worldwide work force and commitment to global diversity, which opens our proprietary software to innovative ideas from anywhere.  along the way, we have witnessed firsthand how employees, partners, and customers with diverse perspectives and experiences contribute to creative problem solving and better solutions for our customers and their businesses.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

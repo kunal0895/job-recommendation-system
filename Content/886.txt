@@ -1,0 +1,171 @@
+
+
+
+
+
+
+career opportunities
+
+
+
+
+
+
+
+
+software engineer v
+
+
+location:
+raleigh nc, dulles, va or annapolis junction, md
+
+
+# of openings:
+1
+
+
+
+description
+job title:        software engineer v
+location:     openings in several locations.
+clearance requirement:    yes (us citizenship is a prerequisite)
+relocation assistance:    yes 
+travel requirements:     travel to other axios locations or customer sites as necessary
+description
+axios, a wholly owned subsidiary of lgs innovations, is seeking a   software engineer v for several of our locations.  this person will serve as subject matter expert to develop, maintain, and enhance complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based on documented requirements. 
+axios, a wholly owned subsidiary of lgs innovations, is dedicated to protecting america from harm by supporting the missions of the department of defense and its intelligence community partners. with a highly educated and experienced team, axios designs, develops, delivers, and operates leading-edge processing solutions and products in the fields of communications, digital signal processing, software, network engineering, system engineering, and system integration. axios puts a strong emphasis on innovation, agility, honesty, trustworthiness, and teamwork, and offers mission-focused technological innovation to address critical needs in the areas of rf communications, mission operations, frameworks and open processing architectures, software defined radio, and tactical programs.
+headquartered in dulles, virginia, axios provides mission-focused support across several u.s. and overseas locations. we provide our employees with competitive compensation packages and a full range of benefits, including vacation, medical, dental, life insurance, a 401(k) plan, tuition assistance, and an employee assistance program (eap).
+roles and responsibilities:
+
+
+design and code new software or modify existing software to add new features, to correct errors, to adapt to new hardware, or to improve its performance
+
+
+analyze user requirements to derive software design and performance requirements
+
+
+implement recommendations for improving documentation and software development process standards
+
+
+provide specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of commercial off-the-shelf (cots)/government off-the-shelf (gots) in place of new development, and requirements analysis and synthesis from system level to individual software components
+
+
+serve as a team lead at the level appropriate to the software development process being used on any particular project 
+
+
+design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design 
+
+
+design or implement complex algorithms requiring adherence to strict timing, system resource, or interface constraints; perform quality control on team products 
+
+
+travel to other lgs locations or customer sites as necessary
+
+
+understand and adhere to all lgs ethical and compliance policies 
+
+
+proactively ensure a safe work environment and adhere to lgs eh&s policies and procedures 
+
+
+
+perform other duties as required
+
+qualifications
+basic qualifications:
+to be considered for this position, you must minimally meet the knowledge, skills, and abilities listed below:
+
+
+bachelor’s degree in computer science or related discipline and 8-10 years of related experience or a combination of education and related experience.
+
+
+four (4) years of additional software engineering experience may be substituted for a bachelor’s degree
+
+
+
+
+subject matter expert in software design and development
+
+
+java or c++ experience working in a linux environment 
+
+
+demonstrated experience building sigint systems
+
+
+working knowledge of software defined radio (sdr), digital signal processing (dsp), and/or redhawk sdr framework (desired)
+
+
+active u.s. government clearance required: ts/sci w/poly
+
+
+for a listing of all lgs innovations and axios open positions, please visit our website at http://www.lgsinnovations.com/careers.
+working conditions:
+work is performed in government office environment. 
+work is typically performed in office environment which requires proper safety precautions.  work may require some physical effort in the handling of light materials, boxes, or equipment.
+the above job description is not intended to be, nor should it be construed as, exhaustive of all responsibilities, skills, efforts, or working conditions associated with the job.
+requests for reasonable accommodations will be considered to enable individuals with disabilities to perform the essential functions of this position.
+axios is committed to hiring and retaining a diverse workforce.  we are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+www.dhs.gov/e-verify
+e-verify® is a registered trademark of the u.s. department of homeland security.
+this business uses e-verify in its hiring practices to achieve a lawful workforce.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+

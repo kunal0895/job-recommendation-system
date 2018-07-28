@@ -1,0 +1,1057 @@
+
+
+
+
+
+
+
+
+
+
+
+
+united states houston: data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english 
+
+ portugues (brazil)
+spanish (mexico) 
+norway
+
+
+
+sign in
+
+
+
+
+
+
+
+
+ search our open positions
+
+
+
+search jobs by keyword
+
+
+
+
+search jobs by location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers home
+
+
+
+sign in
+
+
+about us
+
+
+
+corporate profile
+
+
+our commitment
+
+
+diversity
+
+
+
+
+jobs by location
+
+
+north america
+latin america
+
+europe & sub-saharan africa
+                                        (essa)
+
+middle east & north africa
+                                        (mena)
+eurasia
+asiapacific
+
+
+
+
+jobs by function
+
+
+professional
+field operations
+manufacturing
+students & recent graduates
+
+
+
+
+career development
+
+
+
+veterans
+
+
+not finding a job?
+
+
+join our
+                                    talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+careers home
+
+
+about us
+
+
+corporate profile
+
+
+our commitment
+
+
+diversity
+
+
+
+
+jobs by location
+
+north
+                    america
+latin
+                    america
+europe & sub-saharan africa (essa)
+middle east & north africa (mena)
+eurasia
+asiapacific
+
+
+
+
+jobs by function
+
+professional
+field
+                    operations
+manufacturing
+students
+                    & recent graduates
+
+
+
+career development
+
+
+veterans
+
+
+not finding a job? 
+
+join our talent
+                    community
+view all jobs
+
+
+
+
+
+
+
+
+
+
+ search our open positions
+
+
+
+search jobs by keyword
+
+
+
+
+search jobs by location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+united states houston: data scientist
+
+date: 
+dec 13, 2017
+                
+
+
+location: 
+houston, tx, us, 77032
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+we are looking for the right people — people who want to innovate, achieve, grow and lead. we attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+ 
+the production enhancement division encompasses all of halliburton’s hydraulic fracturing and wellbore stimulation efforts.  halliburton pioneered hydraulic fracturing technology and revolutionized the oil and gas industry when we executed the first hydraulic fracturing procedure in 1947.  since then, we have remained the industry leader in providing fracturing and stimulation services all over the world.  the applied sciences r&d team is where it all starts.  from technology and process improvement to new product development, this team is the heart of halliburton’s largest product service line and the very foundation of halliburton’s position as the industry leader and principal innovator in well stimulation products and services.
+ 
+data scientist responsibilities: 
+
+utilize data analytics tools to perform queries and analyses and for defining and correlating data, and skilled at utilizing data visualization platforms to organize and present summarizations, predictive analysis, comparative analysis, dashboards and reporting. 
+perform data mining and analytics to support ongoing continuous risk monitoring and risk assessments of operational data to recognize patterns and trends, investigate anomalies, and assess internal control environment. 
+design and implement data governance processes for assessment and remediation of data quality related issues using large and complex enterprise data models and large volumes of data.
+leverage various statistical techniques and predictive modeling to drive / identify indicators of risk.
+promote efficiency by automation of manual auditing processes.
+
+ 
+basic qualifications: 
+
+minimum of a bachelor’s degree with 5 years of direct experience
+experience writing complex stored procedure and ad-hoc queries
+strong knowledge of at least one of the following technologies: sql, sas, microsoft sql server
+experience developing data modeling tools and techniques
+knowledge of data warehouse, database design and data mining techniques
+excellent communication and interpersonal skills required with the ability to present complex and sensitive issues to all levels of senior management.
+
+ 
+desired qualifications:
+
+m.s. or phd in engineering, statistics, mathematics, physics, finance or related
+services, reporting service, tibco-spotfire
+c++, r, matlab, python, distributed computing
+machine learning, times series, data mining, mathematical, modeling, probability and stochastic processes, mathematical optimization, simulation, algorithm design
+predictive modeling experience
+working knowledge of the oil and gas industry and terminology
+multivariate expertise
+
+ 
+other experience:
+
+candidates having qualifications that exceed the minimum job requirements will receive consideration for a higher level role given (1) their experience, (2) additional job requirements, and/or (3) business needs.
+depending on education, experience, and skill level, a variety of job opportunities might be available including data scientist principal, data scientist advisor or data scientist sr. advisor.
+
+ 
+ 
+halliburton is an equal opportunity employer.
+
+ 
+location
+3000 n. sam houston parkway e., houston, texas, 77032, united states 
+ 
+job details
+requisition number: 36988 
+experience level: experienced hire
+job family: engineering/science/technology
+product service line: production enhancement 
+full time / part time: full time
+additional locations for this position: 
+
+
+
+
+nearest major market: houston
+                    
+                
+
+job segment: 
+database, system administrator, developer, warehouse, sql, technology, manufacturing
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+professional,
+north america,
+empleos profesionales,
+américa do norte,
+américa del norte
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+view all jobs
+top job searches
+socialmatcher
+
+terms of use
+
+privacy policy
+
+fraudulent offers alert
+technical
+                    support 
+
+
+
+more
+                        information
+
+
+home
+
+top job searches
+view all jobs
+socialmatcher
+
+terms of use
+
+privacy policy
+
+fraudulent offers alert
+technical
+                            support 
+
+
+
+copyright ©
+                2017
+                halliburton. all rights reserved.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

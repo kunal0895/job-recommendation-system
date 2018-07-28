@@ -1,0 +1,334 @@
+
+
+direct energy operations | direct energy careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+home
+about us
+university recruiting
+current openings
+
+new search
+log back in
+job alerts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we are mid-transitioning recruitment systems. for a short while, you may also find opportunities that interest you at our other recruitment sites: opportunities with direct energy solar
+all other direct energy and direct energy services opportunities 
+all opportunities will be advertised on this site soon, so dont forget to register for a job alert 
+
+
+
+
+
+job details
+skip to content
+
+
+
+
+ 
+data scientist - technology development
+
+
+ref
+cen31402
+region
+
+location (select region first)
+wa, seattle
+position type
+permanent
+end date
+
+
+
+
+
+job description
+
+
+
+
+operating as an internal startup, de&p’s technology and product development (t&pd) team is looking for self-starting and tech-savvy data scientist to join us at our bellevue, wa office. your role will be to help support the design and development of descriptive and predictive models, machine learning and optimization algorithms to provide actionable insight of big data for the de&p in order to create commercial value and competitive advantage through data and information. you will be a key member of t&pd team and will have a significant role in building and maintaining world class advanced data analytics and modelling solutions for de&p. 
+
+processing, cleansing, and verifying the integrity of data used for analytics
+enhancing data collection procedures to include information that is relevant for building analytic systems
+extending company’s data with third party sources of information when needed
+data mining using state-of-the art methods and produce actionable insight
+selecting features, building and optimizing classifiers using machine learning techniques
+design and develop predictive models and machine learning algorithms using advanced methodologies
+provide detailed analytics reports, presentations, and documentations
+
+
+
+
+
+requirements
+
+
+
+
+
+strong background in advanced statistical modeling and machine learning techniques
+strong background in time-series forecasting methodologies
+excellent background in linear and non-linear programming
+demonstrated ability to conduct data mining, design of experiments, and develop predictive models and machine learning algorithms
+strong programming skills, at least being efficient with one of low level languages, c++/java, and one of scripting languages, python or r
+excellent working knowledge of sql, hive, and hadoop environment
+great written and oral communication skills
+ability to adapt and learn quickly in a changing and fast-paced environment
+knowledge of power and energy systems, such as wholesale power markets (pjm, iso-ne, miso, caiso, etc.), power systems analysis and economics, demand response, distributed generation is advantageous
+2-3 years of professional experience or academic equivalent
+experience in energy industry is desired but not essential
+experience of agile software development is desired
+proven ability to complete projects and achieve results in an ambiguous work environment
+experience using visualization techniques for presenting data and analysis
+proven track record of delivering high quality analytics insights and solutions
+experience communicating with diverse teams including data scientists, engineers, and product managers is desired
+require master’s degree in a quantitative field such as, computer science, statistics, applied mathematics, econometrics, operation research, or similar
+ph.d. is preferred
+
+
+
+
+
+responsibilities
+
+
+
+
+
+processing, cleansing, and verifying the integrity of data used for analytics
+enhancing data collection procedures to include information that is relevant for building analytic systems
+extending company’s data with third party sources of information when needed
+data mining using state-of-the art methods and produce actionable insight
+selecting features, building and optimizing classifiers using machine learning techniques
+design and develop predictive models and machine learning algorithms using advanced methodologies
+provide detailed analytics reports, presentations, and documentations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this job
+email these job details to a friend
+back to search results
+
+
+
+
+
+
+
+
+
+
+
+
+|
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search direct energy jobs
+
+
+latest jobs
+
+
+
+
+hvac start-up technicians in san antoniotx, san antonioclick here to see job detailsindirect category manager - professional servicestx, houstonclick here to see job detailshvac start-up technician dallastx, dallasclick here to see job detailsfsa solutions engineertx, houstonclick here to see job detailsplumber - benjamin franklin plumbing - sign on bonus!in, indianapolisclick here to see job detailssr business development manager  solutions, north america, distributed energy & powernj, iselinclick here to see job detailsenergy engineernj, iselinclick here to see job detailsr9917856 start-up and warrantytechnicianstx, dallasclick here to see job detailshvac installer helper/traineeoh, columbusclick here to see job detailshvac service technician dallastx, dallasclick here to see job details
+
+
+
+
+
+
+follow us
+
+
+
+facebook
+twitter
+youtube
+our blog
+pinterest
+linkedin
+
+ 
+
+
+
+
+
+
+
+
+direct energy® is a subsidiary of centrica plc. all rights reserved. centrica was created following the demerger of british gas plc in 1997 and is now a leading supplier of energy and related services. to read more about centrica plc please visit www.centrica.com
+
+
+
+visit our main website at www.directenergy.com
+
+
+
+
+menu
+
+
+
+
+
+
+
+home
+
+
+about us
+
+
+how we operate
+
+
+where we operate
+
+
+corporate responsibility
+
+
+community involvement
+
+
+benefits
+
+
+professional careers
+
+
+home services careers
+
+
+ back
+
+
+
+
+university recruiting
+
+
+internships
+
+
+rotation program
+
+
+ back
+
+
+
+
+current openings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

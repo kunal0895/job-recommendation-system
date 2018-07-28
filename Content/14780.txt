@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+boeing intelligence & analytics (bi&a) is a leading provider of strategic capabilities to the united states intelligence community.  we help customers identify and develop strategies to counter the strengths and exploit the vulnerabilities of potential adversaries.  we provide technical expertise across the entire mission spectrum from requirements definition and system and software development to system integration, test and deployment.  bi&a maintains top-tier technical talent and industry expertise in software engineering, systems integration and development, rapid prototyping, and project leadership. we pride ourselves on the proven ability to support our customers while understanding the importance of work – life balance.
+
+
+software developer
+
+
+location:
+mo - st. louis
+
+
+job code:
+78-3946
+
+
+# of openings:
+1
+
+
+
+division
+
+
+overview:
+
+
+
+
+clearance requirements:
+
+
+clearance:
+ts/sci
+
+
+
+description
+this position requires active ts/sci clearance!
+bi&a is seeking a software developer to join their top-tier team.
+duties will include:
+
+design and development of software, determination of interfaces, and technical feasibility analysis.  
+coordinate and perform requirements and implementation analysis, design, development, testing, and enhancement of application software as well as integration of cots and other existing code.  
+be responsible for the creation of a database that will facilitate the tracking of maps, charts, and digital products that are produced across multiple offices.
+	
+the database will track inventories, funding, production schedules, and storage requirements across multiple source production offices.
+
+
+
+
+assist office staff with scripting duties to facilitate the dissemination of standard and non-standard geospatial data
+create databases and/or tools to aid in the automation of disseminating geoint
+create databases using oracle or other software package as defined by the customer
+develop a user friendly web interface to capture customer inputs
+translate customer needs into vetted requirements
+maintain product data
+provide weekly status to management detailing activities & accomplishments
+attend production working group meetings
+
+required education and experience:
+
+7+ years of related software development experience
+experience developing, modifying, or configuring moderately complex software application from detailed specifications
+experience working on most phases of application programming activities, independent of supervisory guidance
+experience with relational databases such as oracle, mysql, sybase, visual basic, virtual basic.net, and sql server
+experience with web development html, xml, java, javascript, linux/unix, shell scripts, php, perl, oracle/oracle spatial database administration
+experience with scripting languages such as sql or cgi
+experience defining style guides used across an organization
+bachelor's degree or equivalent within related field
+
+ 
+ 
+
+boeing intelligence & analytics is an equal opportunity employer. employment decisions are made without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law.
+eeo is the law
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+back to search results
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

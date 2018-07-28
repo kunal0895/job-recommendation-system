@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+careers - lending club
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lending club
+utilities
+
+
+
+
+personal loans
+
+
+business loans
+
+
+patient solutions
+
+
+investing
+
+
+how it works
+
+
+about us
+
+
+
+
+
+sign in
+
+
+help
+
+
+
+                        personal loans
+                    
+
+
+business loans
+
+
+patient solutions
+
+
+investing
+
+
+how it works
+
+
+view full site
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+location:
+san francisco, ca (headquarters)
+
+
+category:
+risk
+
+
+req id:
+r0000433
+
+
+
+description
+lending club (nyse: lc) opened in 2007 with one simple mission: build a more efficient, clear and customer-friendly alternative to the traditional banking system that offers creditworthy borrowers lower interest rates and investors better returns. today, we’re the world’s largest online credit marketplace, and we’re radically changing the way lending operates. we’re proud of the recognition we’ve received, including being named a world economic forum technology pioneer, a cnbc disruptor 50, and one of the world’s 10 most innovative companies in finance by fast company. we’re conveniently located in downtown san francisco, california right next to public transportation.
+we are looking for a data scientist to join our innovative risk data science team. our team does a lot of applied research with high-dimension, structured and unstructured data to tackle business problems, and bring the solution to production to make the real business impact. 
+as a successful data scientist, you should have critical thinking, highly analytical, and problem-solving skills. also, you have passion to adopt any state-of-art machine learning algorithms and new big data tools/platform. 
+responsibilities –
+
+you'll research and build creative data driven business solutions in engineering platform
+you will have fast turnaround to write and trouble shoot the research and production code, and participate with engineering platform design discussions
+you'll work with business owners, product managers and engineering teams in deploying risk decisioning solutions, system improvement, new product capabilities, trouble-shooting issues etc.
+you'll conduct ongoing risk solutions/ strategy performance monitoring and optimization
+you will perform various ad-hoc analysis relating to fraud and credit risk management, communicate and share insights
+
+requirements –
+
+you have a ba/ms in a science or engineering field with 2+ years of relevant professional experience
+you're experienced with java/groovy, python, sql/hive/presto, or r. experience with object-oriented computer programming and deep understanding of big data is desirable.
+you have phenomenal communication and people skills; strong attention to details
+you're a collaborator with dedication and willingness to learn and adjust in a fast-paced working environment
+you have knowledge in statistics or machine learning is a plus
+
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+#li-jc1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+follow us:
+
+
+
+
+
+
+
+
+
+71 stevenson street, suite 300
+san francisco, ca 94105, usa
+
+
+
+
+
+
+
+home
+about us
+careers
+
+
+
+
+privacy
+affiliates
+risks
+developers
+agreements
+prospectus
+terms of use
+sec filings
+statistics
+
+
+
+
+
+© copyright 2006-2014. all rights reserved.  equal housing lender
+
+
+
+
+
+

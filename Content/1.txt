@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ bank of america job - data engineer - iam , chicago, il; jersey city, nj; new york, ny; charlotte, nc;  - united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+menu
+
+
+
+
+
+navigation
+
+home 
+our company
+
+our business
+
+
+working here
+
+culture, inclusion, people
+military & veterans
+benefits & advantages
+career development & learning
+recruitment tips
+
+
+locations
+career areas
+
+search jobs
+events
+applicants with disabilities
+
+united states
+change location
+
+argentina
+australia
+bahamas
+bahrain
+belgium
+brazil
+canada
+cayman islands
+chile
+china
+colombia
+costa rica 
+france
+germany
+greece
+hong kong
+india
+indonesia
+ireland
+isle of man
+israel
+italy
+japan
+jersey
+lebanon
+luxembourg
+malaysia
+mexico
+monaco
+netherlands
+norway
+panama
+peru
+philippines 
+poland
+portugal
+russia
+saudi arabia
+singapore
+south africa
+south korea
+spain
+sweden
+switzerland
+taiwan 
+thailand
+turkey
+united arab emirates
+united kingdom
+united states
+uruguay
+venezuela
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+data engineer - iam
+chicago, il; jersey city, nj; new york, ny; charlotte, nc;  - united states
+job number: 17027854
+back to job search results
+
+
+apply now for this job >
+
+
+
+job description
+
+job description:the global information security identity and access management (iam) organization defines policy and delivers capabilities to empower the bank to better control access to its data, systems, and infrastructure.data is a critical component of the identity and access management (iam) strategy.  the organization's analytics team is building out data pipelines and database infrastructure to support reporting and analytics activities. the data engineer will help head efforts to collect, process, transfer and store diverse sets of data.key responsibilities:determine the best solution(s) for integrating data from a variety of sources into a common data warehouseimplement, maintain and monitor batch data pipelines with best practice quality controlsown the abstract and technical design of databases (logical and physical data models)participate in the definition of a iam canonical warehouse modelcreate business and technical metadata for the warehousedefine data retention and failover policiesrequired skills: 3-6+ years experience in a data engineering roleexperience with integration of data from multiple data sources and varying technologiesability to code, test, and document end-to-end processesexperience with logical/abstract database design with data at scale using an erd tool such as erwin or powerdesignercommand of at least one common scripting language (e.g. python) and tools for data integration (e.g. informatica)in-depth knowledge of sql, data modeling and enterprise rdbms (e.g. sql server and oracle)strong familiarity with unix and linuxexperience adhering to robust audit standardsability to work in an agile environment and drive projects forward independentlyunderstanding of disaster data recovery procedures and testing necessary for business continuitybachelor's degree in computer science or another quantitative fielddesired skills:knowledge of emerging data integration technologiesability to work with analytics team members to optimize application of different algorithms; interest in statistical analysis and machine learningfamiliarity with identity and access management and/or information security-related dataknowledge of exadata, hadoop, hbase, hive
+
+
+posting date: 10/17/2017 
+location: chicago, il, 135 s la salle st (il4135), jersey city, nj, 101 hudson st (nj2101), new york, ny, jones lang lasalle, 1133 ave of the americas, charlotte, nc, 201 n tryon st (nc1022),  - united states 
+
+travel: yes, 5% of the time 
+
+
+full / part-time: full time 
+hours per week: 40 
+shift: 1st shift  
+
+
+
+
+already have a candidate profile? log in to access and update your current profile to access and update your current profile.  
+assistance for applicants with disabilities
+bank of america is committed to ensuring that our online application process provides an equal employment opportunity to all job seekers, including individuals with disabilities. if you believe you need a reasonable accommodation in order to search for a job opening or to submit an application, please visit the applicants with disabilities page. 
+diversity & inclusion
+at bank of america, our commitment to diversity and inclusion is helping us to create not only a great place to work, but also an environment where our employees, our customers and our communities around the world can reach their goals and connect with each other. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. 
+frequently asked questions 
+need to know how to apply online, view a list of your submitted job applications or reset your password? visit our faq section for answers to these questions and more.
+
+bank of america employees
+bank of america employees should access the internal jobs database.
+
+
+
+
+
+
+return to top
+
+
+faq | 
+events | 
+campus | 
+about us | 
+returning job seekers | 
+pay transparency | 
+privacy policy | 
+eeo statement | 
+site map 
+
+
+© bank of america, n.a. member fdic. equal housing lender. © 2014 bank of america corporation. all rights reserved.
+
+follow us:
+
+go to twitter page
+
+twitter page :  bofa_careers
+twitter page :  ml_careers
+
+
+go to facebook page
+go to linkedin page
+
+linkedin page :  bank of america
+linkedin page :  merrill lynch 
+
+
+
+
+
+
+life's better when we're connected 
+
+
+
+
+
+
+
+
+thanks for your interest in this job
+we're updating our website and regret that we cannot accept your job application right now. please try again after 1 a.m. gmt monday, 12 december. 
+thank you for your patience!
+life’s better when we’re connected ®
+
+
+
+
+
+
+
+
+
+
+

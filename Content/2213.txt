@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - big data platform engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+big data platform engineer
+
+
+				apply
+			
+
+
+
+job number:
+								11677
+						
+
+position title:
+
+
+external description:
+equifax is seeking a big data platform engineer who will develop strategic design and requirements on small systems, or modules of large systems (large scale). the big data platform engineer position is responsible for performing general application development activities, including unit testing, code deployment to development environment, and technical documentation. responsibilities be part of a team responsible for technical vision and development of platform components of the next generation bureau platformparticipate in collaborative software and system design and development of the new platformexplore and evaluate new ideas and technologiesensure conceptual and architectural integrity of the platformswork on large-scale, multi-tier big data engagementsorganizing programming eventsother duties as assigned according to business needs required qualifications knowledge of object-oriented programming design and patternsone or more years of experience developing with modern jdk (v1.7+) or scalastrong knowledge of source code repository like svn/git & build tools like mavenproven use of open source frameworksexperience developing high throughput or high volume applicationsstrong experience with linuxfamiliar with agile development practicesdirect experience with java development preferred qualifications one or more years of experience with big data technologies such as spark, kafka and/or hadoopexperience in working with un-structured or semi-structured datadevelopment experience with at least one nosql database (cassandra and/or datomic)appreciates the continuous integration and deployment model and always builds to ease consumption and monitoring of the systemwillingness to acquire new skillsexperience in building self-contained applications using docker, vagrant, puppet, chefexperience with superset data platformprimary location:usa-atlanta-one-atlantic-centerfunction:function - it development and client servicesschedule:full time
+						
+					
+						
+city:
+								atlanta
+						
+
+location_formattedlocationlong:
+								atlanta, georgia  us
+						
+
+state:
+								georgia
+						
+
+community / marketing title:
+								big data platform engineer
+						
+
+company profile:
+
+
+requisition number:
+								j00048317
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+mulesoft developer
+
+atlanta, ga
+
+security architect
+
+alpharetta, ga
+
+senior big data engineer
+
+dublin, ie-l
+
+core integration services - engagement architect
+
+st. louis, mo
+
+sharepoint developer and administrator
+
+atlanta, ga
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

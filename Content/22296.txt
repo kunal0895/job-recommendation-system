@@ -1,0 +1,997 @@
+
+
+
+
+
+
+
+
+
+
+
+
+principal active directory engineer #23441
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english 
+
+french
+czech
+spanish
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+home
+
+
+about us
+
+north america
+international
+
+
+
+featured jobs
+
+software engineer jobs
+customer support jobs
+product management jobs
+implementation jobs
+digital marketing jobs
+sales jobs
+finance jobs
+jobs in the americas
+jobs in europe, middle east and africa
+jobs in asia pacific
+
+
+locations
+join our talent community
+
+
+
+
+
+featured jobs
+software engineer jobs
+customer support jobs
+product management jobs
+implementation jobs
+digital marketing jobs
+sales jobs
+finance jobs
+jobs in the americas
+jobs in europe, middle east and africa
+jobs in asia pacific
+
+not finding a job?
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+
+principal active directory engineer #23441
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+date: 
+dec 10, 2017
+                
+
+
+location: 
+portland, or, us
+
+
+company: 
+cdk
+
+
+job description
+requisition #23441
+ 
+accelerate your career
+drive global technology
+ 
+with more than $2 billion in revenues, cdk global is a leading global provider of integrated information technology and digital marketing solutions to the automotive retail and adjacent industries. focused on enabling end-to-end automotive commerce, cdk provides solutions to dealers in more than 100 countries around the world, serving approximately 28,000 retail locations and most automotive manufacturers.   cdk global solutions automate and integrate critical processes from pre-sale targeted advertising to the sale, financing, insurance, parts supply, repair and maintenance of vehicles, with an increasing focus on utilizing data analytics and predictive intelligence.   
+ 
+we’re large enough to make a difference but small enough for your voice to be heard. this means that we are an organization where every person matters. you can make an impact on the success of our business and that of our customers regardless of what career you decide to pursue.
+ 
+from data scientists to sales and client service experts, we’re hiring to support your growth and ours - green light your career.  
+ 
+principal windows server / ad engineer
+are you the active directory engineer to drive us into the future? the principal ad engineer will architect and deliver on global domain consolidation and guide us as we deliver the next generation platform.
+ 
+functionally:
+the duties of a systems engineer include the support a large infrastructure of 5000+ windows os servers spanning multi-tiered, internet facing hosting environments, as well as internal it environments. this position will work with management and team members to develop strategies and initiatives for the global hosting platform engineering team.
+the se also ensures solutions are expertly selected, designed, and supported during the entire infrastructure lifecycle. the role requires deep knowledge of active directory where the se will collaborate with other systems and network architects to deliver and maintain active directory integration with cloud, iaas, paas, saas, and other related projects that rely on directory services.
+essential functions:
+· support windows server 2003-2016, active directory and core windows infrastructure components, iis, dns, adfs, dfs, pki, etc.
+· automation/scripting and systems support activities, including system integration and monitoring.
+· tactical management and contribution to team projects, including prioritization and multi-task assignments.
+· ensure operating standards are developed, maintained, and adhered to.
+· create and maintain documentation of systems processes and procedures
+· serve as a mentor for tier 1/2 support teams.
+· identify opportunities for infrastructure and process improvements. assess new technologies. architect and implement poc's and production implementations.
+· work with customers and development teams to ensure system configurations are in compliance with corporate policies and control standards.
+· work with other team members to identify and suggest service improvements and/or new technology solutions.
+secondary functions:
+· continuous learning of system administration skills and technologies.
+· function as a liaison between hosting operations and other teams within the company, which may include direct or indirect contact with our customers.
+· any and all additional job duties as defined by global hosting management.
+ 
+experience required.
+
+7+ years of designing and working with windows server operating systems and active directory
+knowledge of hosting/saas/paas environments focusing on systems performance and high availability.
+strong system and infrastructure design skills, especially as related to active directory.
+excellent understanding of windows os 2008r2 and newer. (only server operating systems applicable in this environment.)
+strong experience in scripting/automation using powershell. experience in other languages such as python, ruby, java script preferred.
+knowledge of the following technology areas:
+
+·good knowledge of tcp/ip, layer2 & 3 network, storage, security compliance and virtualization technology.
+·understanding of networking concepts as they apply in an enterprise-class data center.
+·active directory (user and computer management, group policy).
+·large scale dns infrastructure
+·web server technologies (iis, apache).
+
+cloud integration experience preferred – aws and/or azure.
+application of and adherence to industry and best-practice standard in regards to security as it applies to core technologies.
+working knowledge of it service management framework and/or itil concepts and practices.
+analytical skills necessary to ensure assignments are implemented in a clear, controlled, anticipated fashion.
+ability to quickly learn about procedures and technologies for systems and applications and to apply new knowledge in large scale environments.
+demonstrated clear and professional written and verbal communication skills.
+experience in creating process and procedural documentation; technical and non-technical coaching experience preferred.
+work effectively with all levels of company staff; must be a self-starter, and work well in a team environment.
+bs/ba degree in computer science or related discipline or equivalent experience and a minimum of 7 years related work experience.
+preferred mcse/mcsa certification. 
+
+ 
+ 
+cdk global knows you have passions outside of work.  you have family, friends, sporting events, and lots of things going on.   that’s why we offer a comprehensive benefits package to not only take care of you but your family as well.   all of our benefits are effective the first day of employment including 401k matching, paid time off to re-energize, donate your time to volunteer in your community, and tuition reimbursement to name a few.
+ 
+cdk global is an equal opportunity employer; minorities/women/veterans/disabled.
+we believe that diversity in all aspects of business leads to strength.
+
+
+
+nearest major market: portland oregon
+                    
+                
+
+job segment: 
+outside sales, developer, system administrator, advertising, java, sales, technology, marketing
+                    
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+supply jobs in portland oregon,
+software engineer jobs,
+outside sales jobs in portland oregon,
+jobs in the us, canada and mexico,
+developer jobs in portland oregon
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+what does cdk global do:
+powering automotive retailing globally. from engineers to executives, cdk is hiring to fuel your growth and ours.
+
+
+sign up for job email alerts
+
+
+
+
+
+
+
+we'd like to network with you.
+
+cdk global international
+www.cdk-global.com
+
+
+
+
+
+
+
+
+
+cdk global north america
+www.cdk.com
+
+
+
+
+
+
+
+
+
+
+view more information 
+
+
+cdk global international
+www.cdk-global.com
+ international twitter
+ international facebook
+ international linkedin
+ international youtube
+ international weibo
+
+cdk global north america
+www.cdk.com
+ north america twitter
+ north america faceboo
+ north america linkedin
+ north america youtube
+
+cdkglobal.com
+view all jobs
+top job searches
+featured jobs
+software engineer jobs
+customer support jobs
+product management jobs
+implementation jobs
+digital marketing jobs
+sales jobs
+finance jobs
+jobs in the americas
+jobs in europe, middle east and africa
+jobs in asia pacific
+privacy policy
+
+
+
+
+
+
+us: © 2017 cdk global, llc / cdk global is a trademark of cdk global, llc.
+
+
+cdkglobal.com
+view all jobs
+top job searches
+featured jobs
+
+software engineer jobs
+customer support jobs
+product management jobs
+implementation jobs
+digital marketing jobs
+sales jobs
+finance jobs
+jobs in the americas
+jobs in europe, middle east and africa
+jobs in asia pacific
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

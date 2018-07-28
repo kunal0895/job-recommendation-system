@@ -1,0 +1,222 @@
+
+
+
+macb | macaulay-brown, inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+google +
+twitter
+facebook
+linkedin
+
+
+
+
+who we are 
+
+
+  profilefor more than 35 years, macb has been providing ground breaking engineering-services and product solutions.
+  history and timelinea heritage rich in meeting national security challenges, macb has stayed true to its principles of putting our nation first.
+  message from the ceopresident and ceo, sid fuchs leads a team of approximately 1,500 professionals focusing on strategic growth and building a collaborative culture dedicated to success.
+  leadership teammacb’s senior leadership team works together across multiple disciplines to support our customers, grow the company and meet the needs of our employees.
+  board of advisorsthe highly regarded members of macb’s board of advisors ensure we are meeting the future needs of our customers.
+  community involvementservice is engrained in the culture at macb; we work with many organizations committed to giving back to the community.
+  office locationswith 20 offices located throughout the united states, we work closely with our customers to increase their capabilities and success.
+  awardsthroughout our history, macb has received dozens of customer, innovation, product and workplace awards.
+  certificationsmacb’s integrated standards model highlights our commitment to being a leader in innovation, achieving differentiation and creating a culture of continual improvement.
+
+
+
+what we do 
+
+
+  intelligence and analysisour 24x7 all-int technology solutions and analysis services deliver the situational awareness our leaders depend on to make critical decisions.
+  cybermacb’s cyber solutions and services are designed to immediately identify, respond and neutralize cyber threats, as well as identify and exploit vulnerabilities in target environments.
+  rdt&eour r&d and test efforts span across all commodities; from cyber to sensors to airborne platforms.
+  information operations20 year partnership with the ic and dod to strengthen our information operations and warfare capabilities and to degrade and disrupt the enemy’s ability to communicate and influence opinions.
+  engineering and qrctechnology engineering is the heart of what we do, it’s our passion. combined with our qrc process, we are experts at delivering the right solution at the right time. 
+  information technologyas an sei cmmi level 3 rated and iso 20000 organization, we are a leader in the software development, system integration and sustainment of leading edge it services and solutions.
+  logistics & acquisition mgmntwe provide highly trained logistics personnel and project managers with years of field experience in support of program management, training and integration working across the entire acquisition life cycle.
+  product solutions & services index
+
+
+
+who we serve 
+
+
+  a pledge of excellence“commitment to excellence” is our guiding philosophy and governs everything we do at macb.
+  department of defenseproviding the men and women that faithfully serve our country with the best technology and engineering solutions has been our guiding principle for more than thirty 30 years.
+  intelligence communityinnovative and cost-effective intelligence, cyber, software and information operations services and solutions that keep the nation safe.
+  special operaions forces20 years experience delivering dynamic engineering services and product solutions in a quick reaction capability environment.
+  homeland security20 years experience delivering dynamic engineering services and product solutions in a quick reaction capability environment.
+  federal agencieswe deliver essential engineering, it and programmatic products and services for a broad range of federal government agencies.
+
+
+
+contracts 
+
+
+contracting with macbmacb has a variety of contracting vehicles available to our customers, providing access to our wide range of advanced engineering services and product solutions.
+small business registrationinterested in working with macb? register in our small business partner program.
+oasismacb is a prime contractor in pool 6 of the oasis contract to provide government agencies with solutions to complex professional services-based requirements.
+major id/iq contractsmacb is proud to be a prime contractor on many of the biggest id/iq contracts offered by the government.
+gsa scheduleswe offer several gsa schedules that serve a variety of business needs.
+alliant gwacas a successful provider of integrated it solutions, macb is an active alliant contract holder.
+
+
+
+careers 
+
+
+working at macbgreat employees, working together to do great things is what we do. join us.
+employee benefitsmacb provides comprehensive and competitive benefits designed to offer flexibility, security and long-term value.
+transitioning militarymore than half of our employees have served in the armed forces. we value and support the unique qualities former military personnel bring to macb.
+search current openingsmacb is hiring qualified candidates for a number of key positions.
+testimonialshear from your peers about what it’s like to work at macb.
+career fairsview a list of upcoming career fairs we will be attending.
+submit applicationinterested in joining a team of highly experienced professionals that are dedicated to success and collaboration? submit your application for consideration.
+workplace awardswe are committed to being an employer of choice. the numerous workplace awards we have received are a testament to that commitment.
+
+
+
+news room 
+
+
+press releaseslearn more about macb through our latest news releases.
+trade showsas a thought leader, we exhibit, present and sponsor at some of the largest defense and ic-related trade shows held throughout the year.
+macb in the newswe are routinely featured in major news outlets providing commentary on latest wins, innovations and issues facing the national security community.
+press contactmacb thought leaders are available to discuss the trends, issues and solutions facing the national security community.
+white papersdeveloping innovative solutions for the government is part of our culture. many of our successes are captured in our white paper library.
+
+
+
+
+
+
+
+
+
+
+working at macb
+transitioning military
+employee benefits
+search current openings
+submit application
+workplace awards
+macb testimonials
+career fairs
+
+
+search current openings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14041: software developer/engineer
+
+
+
+location:texas, san antonio
+
+clearance:ts/sci with poly
+
+  
+
+
+
+description:
+
+macaulay-brown, inc. (macb) is seeking a software development manager who has experience directing and managing teams of 6-10 people for the cts program. this person should have extensive agile experience and development experience. they should have experience developing required documents and interfacing between customers and development teams.cts requires a software development manager who has experience directing and managing teams of 6-10 people. this person should have extensive agile experience and development experience. they should have experience developing required documents and interfacing between customers and development teams.specific tasks/duties: maintain the code baseline in gitlab manually build and deploy code using git deploy latest code baseline using bamboo and manually, if needed monitor production/development logs maintain and update cm related documentation on confluencetechnologies/tools/skills: git, gitlab, continuous integration tools (jenkins, bamboo) basic sa abilities to troubleshoot and monitor development/production environments experience with javascript experience working as part of an agile team full life cycle development.desired technologies/tools/skills: knowledge of jira experience using java and rest experience with javascript libraries/frameworks, jquery, bootstrap, and node.js knowledge of docker and solr
+
+requirements:
+
+ a master of science degree in computer science, software engineering, or related disciplines is required. eight (8) years demonstrated experience leading large technology efforts (> 75 developers) and performing the functions outlined above for large contracts with multiple projects and contractor teams. twenty (20) years combined demonstrated experience in software architectures, application design and development and lifecycle support and maintenance with a minimum of three (3) years experience in each area. five (5) years demonstrated experience in the design and development of relational databases. two (2) years demonstrated experience in the design and development of cloud-based systems, architectures, and analytics development.  demonstrated ability to manage software development and software project management activities essential for transformation. demonstrated experience implementing and managing software engineering practices, with a focus on spiral development and agile development techniques for software projects is required for this job. candidate must have a ts/sci with a poly, and therefore be a us citizen for more than 37 years, macaulay-brown, inc. (macb) has been solving some of the nation’s most complex national security challenges. defense, intelligence community, special operations forces, homeland security and federal agencies rely on our advanced engineering services and product solutions to meet the challenges of an ever-changing world.  join macb where you will work with a team of highly experienced professionals in the areas of intelligence, cybersecurity, research development test and evaluation, information operations, fabrication, it solutions, logistics and acquisition management.  macb has won multiple workplace awards, offers generous salaries and benefits, and has outstanding growth opportunities.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who we are
+what we do
+who we serve
+contracts
+careers
+news room
+employee access
+
+
+
+
+
+800.432.3421
+4021 executive drive  dayton, oh 45430
+
+
+
+
+linkedin
+facebook
+twitter
+google +
+
+© macaulay-brown, inc. 2015 
+
+
+
+
+
+
+
+

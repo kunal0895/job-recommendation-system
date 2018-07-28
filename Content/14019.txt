@@ -1,0 +1,142 @@
+
+
+
+
+axcient careers - full stack web developer – junior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    axcient careers                                            
+
+
+
+
+
+
+
+                full stack web developer – junior
+    
+    
+
+                            engineering            
+                    cupertino,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+we are building something big.  want to help?because axcient hires only the best and brightest, we nourish that talent with an environment where people can innovate, thrive, and pursue their passions. our competitive compensation package includes stock options, 401(k), and comprehensive health benefits.what you will doown features from “end to end“ and “start to finish”translate ux designs and product specs into web app components with quality and scalability in minddesign and develop apis that sit between the front and back endmaintain a clean git environment when collaborating on projectswork closely with qa engineers to ensure full automation coverage on featureswrite unit tests to make sure your code is in tip top shapewho you areyou not only bring experience and knowledge to the plate, but also know how to take a goal and seek out the resources to achieve it.  you build for scale on multiple aspects – functional, load, administrative, etc.  you take ownership and accountability for the work you do.  you learn quickly, work in an agile way, and deliver quality code.qualificationsbachelor’s degree in computer science or equivalent work experience as a web developerstrong understanding of lamp tech stackstrong knowledge of php, python, html/css/jsfundamental knowledge of mvc patternsexperience using python orms such as sqlalchemyexperience using js libraries such as jquery and frameworks such as angularexcellent organization, time management, and communication skillspreferred qualificationsexperience with amazon aws infrastructure (ec2, s3, security groups) and related servicesexperience with one or more general purpose programming/scripting languages such as bashexperience with systems designour storyaxcient is an entirely new type of cloud platform that eliminates data loss, keeps applications up and running, and makes sure that it infrastructures never go down. by mirroring an entire business in the cloud, axcient makes it simple to access and restore data from any device, failover it systems, and virtualize your entire office with a click.our philosophywe invest in our people. our goal is to build technical leaders, mentors, and pioneers.we believe strengthening the product starts with strengthening the teams building it.we are proud of what we build. this means lots of internal demos and show and tells.we don’t settle for uncertainty, we find the answers. if we don’t know how to do something, we go out and learn it.we listen to our customers. we think critically of what they’ll need tomorrow, next year, 10 years from now.our valuesour core values are customer first, team to win, change the game, integrity in action, and results matter
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

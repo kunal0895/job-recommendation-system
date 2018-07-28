@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 10-00999
+
+
+
+
+engineer - research analyst - research engineer - unmanned systems
+10-00999
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+develop perception (computer vision, lidar and/or radar) software solutions for various intelligent system applications including, but not limited to autonomous/automated/unmanned vehicles, mobile robotics, and intelligent vehicle systems; perform in all phases of the development lifecycle, including requirements definition, hardware/software/systems design, implementation, testing, and integration; initiate advanced research and development programs, interact with clients, ability to travel to client or other sites; conduct technical presentations. additional information about the type of work conducted by the unmanned systems section can be found at: ugv.swri.org.
+
+                    education/experience:
+				
+requires at least bs degree in software engineering, electrical engineering, mechanical engineering, aerospace engineer, computer (systems) engineering, robotics engineering, or computer science with at least a 3.3 gpa. bs with 0 years of experience or masters is preferred.  experience in the area of perception (computer vision, lidar and/or radar) required and machine learning is preferred.  experience with neural networks and deep learning frameworks is preferred.  linux and various pc operating systems experience required; c++ development experience required; robot operating system (ros) experience preferred; excellent interpersonal skills and the ability to work well individually or as a member of a project team is required; excellent written and verbal communication skills are required. a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d10/d10home.htm" target="_blank">intelligent systems</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+engineer - research analyst - research engineer - unmanned systems
+
+10-00999
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

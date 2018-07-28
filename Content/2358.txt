@@ -1,0 +1,115 @@
+
+
+
+view all jobs  | 
+				job search  | 
+				post resume  | 
+				member login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+database engineer
+			
+
+
+category: 
+
+it
+
+
+
+type: 
+
+
+
+
+
+description: 
+
+ 
+r  6876843  database engineer   richardson tx  clearance     iis leased labor
+6 mo+ contract
+preferred work location is richardson tx;  may consider dulles or springfield va, if candidate's experience is exceptional and supports remote collaboration
+ 
+job details:  senior database engineer / administrator performing data architecture, data modeling, database administration, and cots integration support. must have experience with multi-mnode oracle rac clusters and active ts/sci with ci or fs polygraph.
+ 
+position may require the ability to provide on-call, after-hours/weekend support, when necessary depending on program needs. 
+ this position requires a current ts/sci ci poly.
+
+
+
+
+required skills:
+• minimum of 8 years of database development experience
+• minimum of 8 years of experience as an oracle database administrator and/or oracle database engineer.
+• experience with ddl scripts to create, maintain, and upgrade database schemas
+• experience with sql and pl/sql to perform complex queries, data manipulations and data migrations
+• experience writing and maintaining shell scripts; additional scripting experience such as perl, python, ruby a plus
+• experience with database optimization, performance tuning, backup and restore, table space allocation/management, managing the overall health and status of the database, managing the database schema, creating triggers and stored procedures, monitoring the oracle alert logs and resolving database-related issues.
+• familiar with current database related vendor products and current research directions.
+• practiced in integration of cots products in implementing successful customer-driven solutions.
+ 
+desired skills:
+• experience with other database products such as postgres, mongodb, cassandra, etc. is highly desired
+• experience with oracle products such as real application clusters, data guard, application server, oracle text, label security, replication and streams
+• experience developing and maintaining data models
+• experience with model-driven development and data modeling using tools such as erwin, sql developer data modeler, oracle designer, sybase powerdesigner
+• working knowledge of j2ee architecture and an understanding of object-oriented modeling languages.
+• working with java developers on database data access layers using jdbc, hibernate, jpa, etc.
+• experience in system accreditation using proxy users, virtual private database technology and label security.
+• familiar with technologies related to high volume data handling and ingestion and high data rate extraction with integrity checking and indexing.
+
+
+
+ 
+
+
+
+ if you would like to hear more, or apply, please email me at: gkushan@geologics.com
+  grace kushan  technical recruiter, geologics consulting  (303) 457-5235  gkushan@geologics.com 
+
+
+
+location 
+
+richardson , tx
+
+
+
+minimum experience (yrs): 
+
+8
+
+
+
+required education: 
+
+not specified
+
+
+
+benefits: 
+
+
+
+
+
+return to search results
+
+
+
+
+
+*logged in members may also add jobs to their job cart

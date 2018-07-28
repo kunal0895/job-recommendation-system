@@ -1,0 +1,660 @@
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+academic
+
+
+customer portal
+
+
+resource library
+
+
+
+
+
+
+
+
+
+global sites
+
+benelux
+china
+france
+germany
+india
+israel
+italy
+japan
+korea
+netherlands
+spain
+nordic
+taiwan
+united kingdom
+united states
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+products
+
+
+
+
+academic
+electromagnetics
+embedded software
+fluids
+
+
+
+
+multiphysics
+semiconductors
+structures
+systems
+
+
+
+
+platform
+all products
+
+
+
+
+
+
+solutions
+
+
+
+
+solutions by industry
+aerospace & defense
+automotive
+construction
+consumer goods
+energy
+healthcare
+high-tech
+industrial equipment & rotating machinery
+materials & chemical processing
+
+
+
+
+solutions by application
+electronics applications
+embedded software applications
+fluids applications
+multiphysics applications
+semiconductor applications
+structures applications
+systems applications
+
+
+
+
+solutions by role
+engineers
+executives
+it professionals
+product designers
+managers
+professors
+students
+
+
+
+
+
+
+services
+
+
+
+
+consulting
+ansys training center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+support
+
+
+
+
+customer portal
+
+
+
+
+platform support
+
+
+
+
+
+
+
+
+
+
+about ansys
+
+
+
+
+events
+careers
+news center
+ansys advantage magazine
+dimensions magazine
+
+
+
+
+investor relations
+business ethics
+contacts & locations
+ansys partner network
+
+
+
+
+quality assurance
+social media
+ansys blog
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+home
+about ansys
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer ii, maxwell
+
+
+posting location(s):
+united states-pa-pittsburgh metropolitan area
+
+
+company order number:
+6100
+
+
+# of openings:
+1
+
+
+
+description
+software engineer ii, maxwell
+canonsburg, pa
+job summary
+the ansys electronic 3d gui product group is focused on developing graphical user interfaces that drive our industry-leading electrical simulation products. we are seeking a software engineer with a passion for user interface and product development. the successful candidate will perform design, development and maintenance of various components for ansys maxwell and other industry-leading ansys products; in a highly collaborative, multidisciplinary team environment
+essential functions
+• perform complex software design and development activities that may require extensive analysis, and include the assimilation and enhancement of existing code
+• research problems discovered by qa or product support and develop solutions
+• work with qa to develop regression test suites
+• employ and help to maintain best software practices
+ 
+   
+job minimum requirements and qualifications
+• master’s degree in computer science, engineering, or related technical field, or a bachelor’s degree with three years of professional experience.
+• significant software development experience using c++ or related language.
+• good knowledge of data structures, algorithms, and object-oriented design.
+   
+other information
+• a master’s degree is preferred.
+• experience developing and debugging user interface code on windows and/or linux.
+• familiarity with the entire development process, including specification, documentation, quality assurance, and use of software engineering tools.
+• strong technical knowledge in software development methodologies with experience in project planning and implementation. ability to complete high quality work on schedule.
+• familiarity with electronic simulation and tools is a plus.
+• good communications and interpersonal skills.
+ 
+about ansys, inc.
+if you’ve ever seen a rocket launch, flown on an airplane, driven a car, used a computer, touched a mobile device, crossed a bridge, or put on wearable technology, chances are you’ve used a product where ansys software played a critical role in its creation. ansys is the global leader in engineering simulation. we help the world’s most innovative companies deliver radically better products to their customers. by offering the best and broadest portfolio of engineering simulation software, we help them solve the most complex design challenges and engineer products limited only by imagination. join our nearly 3000 professionals in more than 75 strategic locations around the world in making a difference in the world of engineering simulation and product development. visit www.ansys.com for more information.
+
+non-negotiable hiring criteria:
+ansys inspire values:
+innovation
+strive for excellence
+passion & intensity
+integrity
+respect & trust
+ansys, inc. is an equal opportunity employer
+please:
+no phone calls
+no recruiters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+          search for jobs
+          
+
+
+
+
+ 
+
+
+
+ 
+          how to apply
+          
+
+
+
+
+ 
+
+
+
+ 
+          life at ansys
+          
+
+
+
+
+ 
+
+
+
+ 
+          benefits
+          
+
+
+
+
+ 
+
+
+
+ 
+          culture and values
+          
+
+
+
+
+ 
+
+
+
+ 
+          community partnerships
+          
+
+
+
+
+ 
+
+
+
+ 
+          campus recruiting
+          
+
+
+
+
+ 
+
+
+
+ 
+          faqs
+          
+
+
+
+
+ 
+
+
+
+
+
+click below to start a conversation with ansys
+ 
+        contact us
+        
+
+
+
+
+
+
+
+
+
+products
+academic
+electronics
+embedded software
+fluids
+multiphysics
+semiconductors
+structures
+systems
+platform
+all products
+
+
+
+
+solutions
+solutions by industry
+solutions by application
+solutions by role
+
+
+
+
+services
+consulting
+ansys training center
+
+
+
+
+support
+customer portal
+platform support
+
+
+
+
+about ansys
+events
+careers
+news center
+ansys advantage magazine
+dimensions magazine
+dimensions magazine
+investor relations
+business ethics
+contacts & locations
+ansys partner network
+quality assurance
+social media
+ansys blog
+
+
+
+
+
+
+
+
+© 2016 ansys, inc. all rights reserved.
+terms and conditions 
+legal notices 
+export control compliance 
+privacy policy 
+site map 
+
+
+
+
+
+
+
+
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

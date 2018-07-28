@@ -1,0 +1,352 @@
+
+
+
+
+
+staff data engineer  in  atlanta, ga at ge | imagination at work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+
+ back
+working at ge 
+culture 
+students 
+my application 
+search jobs 
+
+
+
+
+
+
+
+
+  
+
+
+ge businesses
+
+ge additive
+
+ge aviation
+
+ge capital
+
+ge digital
+
+ge energy connections
+
+ge healthcare
+
+ge lighting
+
+ge oil & gas
+
+ge power
+ge renewable energy
+ge transportation
+current powered by ge
+
+
+investors
+careers
+
+students
+life at ge
+
+working at ge
+
+culture
+
+diversity
+
+my application
+
+
+news
+
+ge newsroom
+
+ge reports
+
+
+
+search
+globe
+side menu
+ge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge careers
+
+
+
+   search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge careers
+
+
+
+
+
+
+
+linkedin
+facebook
+twitter
+email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+
+staff data engineer
+
+
+ge transportation
+experienced
+posted 12/1/2017 3:49:14 am
+3001012
+
+
+
+
+job function: digital technology
+business segment:  get transportation
+
+
+
+location(s):  united states; georgia; atlanta
+
+
+
+about us: ge is the world's digital industrial company, transforming industry with software-defined machines and solutions that are connected, responsive and predictive. through our people, leadership development, services, technology and scale, ge delivers better outcomes for global customers by speaking the language of industry. ge offers a great work environment, professional development, challenging careers, and competitive compensation.  ge is an equal opportunity employer.  employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law. role summary: the data engineering team helps solve our customers' toughest challenges; making flights safer, power cheaper, and oil & gas production safer for people and the environment by leveraging data and analytics. the lead data engineer will work with the team to create state-of-the-art data and analytics driven solutions, working across ge to drive business analytics to a new level of predictive analytics while leveraging big data tools and technologies. essential responsibilities: as a staff data engineer, you will be part of a dataengineering or cross-disciplinary team on commercially-facing developmentprojects, typically involving large, complex data sets. these teams typicallyinclude statisticians, computer scientists, software developers, engineers,product managers, and end users, working in concert with partners in gebusiness units. potential application areas include remote monitoring anddiagnostics across infrastructure and industrial sectors, financial portfoliorisk assessment, and operations optimization.  in this role you will:be proficient in at least one data modality (e.g., text,numeric, image), conversant in more than one. proficient in multiple etl /mdmtools.implement data warehouse & big/small data designs withautomated mdm and data quality capabilities.demonstrate proficiency at industry standard data modelingtools (e.g., erwin, er studio, etc.).integrate domain data knowledge into development of datarequirements.look across multiple systems, understands the purpose ofeach system and defines data requirementsidentify downstream implications of data loads/migration(e.g., data quality, regulatory, etc). qualifications/requirements: basic qualifications:bachelor's degree in computer science, informationtechnology or equivalent (stem) with minimum 6 years of experience as dataengineer.a minimum of 3 year of experience using hadoop ecosystem,map-reduce, spark, nosql (hbase, mongodb etc.), cassandra is requireda minimum of 3 year of experience using scripting (pig,python, perl, etc) is requireda minimum of 3 years of experience with core java, javawebservices development soap, rest apisa minimum of 2 year of experience working on database(s),sql is requiredeligibility requirements:legalauthorization to work in the u.s. is required. we will not sponsor individualsfor employment visas, now or in the future, for this job opening.  desired characteristics: business acumen: delivers results when working on shorter-term(weeks-months), outcome-focused service engagementsleverages knowledge about competitors, trends, and changingregulations across the broad environment to bring new ideas to the teamarticulates the value proposition of existing technologycapabilities and maps them to customer requirements to minimize incremental costof developmentleadership: uses teamwork skills to understand vision, achieve goals,solve problems, and manage conflict. identifies individual differencesinforms engineering and other stakeholders of key customerissues, identifies potential problems or conflicts and resolves them whennecessaryproduces functional area information in sufficient detailfor cross-functional teams to utilize, using presentation and storytellingconcepts skills: understanding of edi messaging types, including ansi x12 andedifactunderstanding of maritime data, including shipping lines,marine terminal operators, bcos, truck/dray providers, customs brokers, nvoccs,3pls, railroadsability to communicate with both technical and non-technicalteams to ensure understanding of data issues/needsknowledge of navis or other terminal operating systemsknowledge of trinium or other truck/dray transportationmanagement systems#dtr locations:   united states; georgia; atlanta
+ge offers a great work environment, professional development, challenging careers, and competitive compensation.  ge is an equal opportunity employer.  employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+ge will only employ those who are legally authorized to work in the united states for this opening.  any offer of employment is conditional upon the successful completion​ of a background investigation and drug screen.
+
+
+
+
+
+
+apply now
+       
+
+
+
+link for schema
+
+ 
+
+
+ge careers technical assistance
+
+having technical issues with ge.com/careers or your application? we're here to help.
+get in touch
+
+
+
+connect with us
+
+stay up to date on ge and possible opportunities that open in areas that interest you.
+
+sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+investor contacts
+site map 
+privacy
+terms
+cookies
+integrity at ge
+
+
+
+
+
+
+accessibility
+candidate privacy notice
+pay transparency 
+fraud alert
+ca transparency in supply chain
+
+
+
+
+
+
+
+ge is an equal opportunity employer. employment decisions are made without regard to race, color,
+	                        religion, national or ethnic origin, sex, sexual orientation, gender identity or expression,
+	                        age, disability, protected veteran status or other characteristics protected by law. 
+learn more
+
+linkedin
+facebook
+twitter
+instagram
+youtube
+
+powered by smashfly
+
+
+
+
+
+
+© general electric
+
+
+
+
+
+
+
+
+
+
+check application status
+
+
+we are in the process of transitioning to an improved job application system and in the interim we are operating with two systems. have your job id ready (from the email you received when you applied) to log in and check your application status.
+                    
+
+                    click the appropriate button. if you don't know your job id, you can still check your status: use both buttons.
+job id begins with '1'
+job id begins with '2' or '3'
+you can only check your application status if you applied via this website. for all other applications, ge will contact you if there is interest in pursuing your candidacy. click here for help.
+
+
+
+
+
+
+
+
+
+
+
+
+

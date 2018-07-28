@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+rsd careers at intel in data center performance engineer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    intel 
+
+
+
+
+explore intel
+
+
+
+
+
+
+life at intel
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+benefits at intel
+
+
+
+
+
+
+ careers at intel
+
+x
+
+
+
+
+jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+
+
+global student center
+
+explore global student center
+internships
+rotation programs
+
+other languages
+
+visit our hebrew career-site
+
+explore
+
+explore more careers
+
+
+
+
+
+
+
+
+
+accessibility 
+
+
+
+
+
+ join the talent network 
+
+
+accessibility
+
+
+
+
+x
+  menu 
+
+ jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+
+ jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+ global student center
+
+explore global student center
+internships
+accelerated leadership program (alp)
+rotation programs
+venture program
+
+
+ carees site in other languages
+
+hebrew
+
+
+explore more careers
+ explore intel
+
+life at intel overview
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+explore benefits at intel
+ advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+› rsd  data center performance engineer 
+
+
+
+
+
+apply
+
+
+search all jobs
+
+
+
+
+
+apply now
+       
+
+
+
+
+job id: jr0046637
+job category: engineering
+primary location: folsom, ca us 
+
+other locations: oregon, hillsboro; california, santa clara;
+job type: experienced hire
+
+
+rsd - data center performance engineer
+job descriptionintel is seeking highly qualified candidates to join our data center group (dcg) team as a data center performance engineer!this is an opportunity to define data center architecture as part of the workload and performance analysis team. the challenge is to use workloads and analysis to deliver insight for future hardware or software platform architecture.  we develop complex use cases such as distributed machine learning, deep learning and ai, micro-services, software defined networking and distributed storage on rack-scale infrastructure. performance analysis will guide positioning of current platforms and architecture of future platforms. the software environment uses current and emerging technology including kafka, cassandra, spark, docker, kubernetes, and languages including python, c++, java or other interpreted languages. architecture exploration requires investigating workload, system and subsystem behavior to determine the optimal combination of hardware and software for various use cases. future architecture analysis requires building models and simulating system-level behavior.the position requires working across organizations and with isvs and customers to develop new use cases that are relevant to emerging intel technologies and customer usages. in this role you will also supervise a small team of permanent or contract workers in a different geographical region. you should possess a solid understanding of computer architecture, modeling and cutting-edge software development as well as excellent communication skills and a proven ability to lead projects and teams.in this position you will gain invaluable experience which will allow growth and expanded opportunities within this business group as well as future possible opportunities with other business groups within intel.the data center group (dcg) drives new product technologies from high-end co-processors for supercomputers to low-energy systems for enterprise and the cloud, as well as solutions for big data and intelligent devices. the group is a worldwide organization that develops the products and technologies that power nine of every 10 servers sold worldwide. www.intel.com/jobs/datacenterqualificationsyou must possess the below minimum qualifications to be initially considered for this position. preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. minimum required qualifications:bachelor degree in computer science, computer engineering, electrical engineering, or equivalent with 9+ years of industry experience or a master’s degree in computer science, computer engineering, electrical engineering, or equivalent with 6+ years of industry experience, or a phd in computer science, computer engineering, electrical engineering, or equivalent with 4+ years of industry experience.- 4 plus years of work experience that includes cpu, subsystem and system-level hardware architecture, operating systems, c++, python.- 2 plus years of experience building applications on scale-out infrastructure.additional preferred qualifications:- experience developing data-center scale infrastructure and applications including server cluster administration.- ai/dl/ml development.- network function virtualization, software defined networking.- distributed storage architecture.- system level modeling and analysis.- excellent written and verbal communications.inside this business groupthe data center group (dcg) is at the heart of intel’s transformation from a pc company to a company that runs the cloud and billions of smart, connected computing devices. the data center is the underpinning for every data-driven service, from artificial intelligence to 5g to high-performance computing, and dcg delivers the products and technologies—spanning software, processors, storage, i/o, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.other locationsoregon, hillsboro; california, santa clara; posting statement. intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+what would you like to do now?
+
+
+
+
+
+
+
+get job alerts
+
+get started
+
+
+
+
+
+find out more about working at intel
+
+learn more
+
+
+
+
+
+jobs@intel blog
+
+learn more
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+grow your network of opportunities
+ facebook twitter linkedin glassdoor instagram intel student spot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+our commitment
+investor relations
+contact us
+newsroom
+site map
+jobs
+
+
+
+
+
+
+
+
+
+© intel corporation
+terms of use
+*trademarks
+privacy
+cookies
+supply chain transparency
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

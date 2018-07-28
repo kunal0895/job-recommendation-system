@@ -1,0 +1,281 @@
+
+
+
+
+jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+sign in
+sign up
+
+ help 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career portal
+
+
+
+
+
+
+
+
+
+failure message
+
+
+
+
+ 
+
+
+
+
+
+
+
+cannot parse, seems some issue with the profile, please create the profile manually
+
+
+alert message
+
+
+
+  job post has been updated successfully
+
+
+
+
+position title - software developer
+
+
+
+
+
+
+
+
+ this job is no longer accepting applications.
+
+
+
+
+
+
+
+
+
+job share
+ 
+
+ 
+
+
+
+recipient email
+
+
+
+
+
+
+share
+cancel
+
+
+ 
+
+
+
+
+
+
+click here for current openings 
+
+
+software developer
+ charlotte, north carolina - united states                                
+
+overviewsoftware developer
+location: charlotte, nc
+duration: 12+months
+
+
+primary skills:
+java - batch programming (not ui)
+c#
+pl sql
+
+
+required qualifications:
+2+ years of development in java (batch programs for data extracts).
+2+ years in windows c#, visual studio 2008/2010 (console programs for data extracts)
+2 + years of development in oracle pl/sql (preferred in oracle 11g)
+
+
+
+
+
+
+job codeepus – 1310experience6+ years 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+please wait...
+please fill the details 
+
+ 
+email
+
+first name
+
+middle name
+
+last name
+
+contact no
+
+current location
+
+work authorization
+
+select
+h1-b
+l1-b
+l1-a
+l2-ead
+h4-ead
+us citizen
+gc
+gc-ead
+opt-ead
+tn visa
+cpt
+e3
+f1 visa
+ead
+not specified
+ctgr
+eaea
+none
+other
+can work for current employer
+have h1 visa
+green card holder
+employment auth. document
+can work for any employer
+permanent resident
+seeking work authorization
+eatn
+canadian citizen
+need h1 visa
+tn permit holder
+us authorized
+current employer only
+sponsorship required
+any visa
+
+job title
+
+resume
+
+this field is required.
+cover letter
+
+other attachment
+
+
+
+
+
+
+cancel
+
+ 
+
+
+
+
+
+
+powered by 
+
+
+
+
+
+
+
+

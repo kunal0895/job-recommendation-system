@@ -1,0 +1,1255 @@
+
+
+
+
+senior machine learning engineer- nlp and content understanding- cortex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+twitter logo icon
+
+careers
+
+
+
+
+arrow down icon
+
+
+
+
+
+
+                locations
+              
+
+
+
+                teams
+              
+
+
+
+                diversity
+              
+
+
+
+                university
+              
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+search icon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work for twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior machine learning engineer- nlp and content understanding- cortex
+
+san francisco, ca
+
+
+
+
+
+
+
+
+
+
+
+what youâll do:
+you will build powerful and scalable content understanding models in collaboration with our staff of world-leading experts in machine learning and software engineering to help surface the most relevant content for our users on twitter. join us in making twitter the best place for finding out what happening now!
+
+â 
+
+who you are:
+you have a passion for natural language processing, machine learning and improving the way people consume information. you are excited to join an incredibly talented and committed team that loves to take on new challenges. you like a fast-paced & fun environment, believe in twitterâs mission in the world and want to be a core actor in pushing it forward.
+
+â 
+
+requirements:
+
+expertise in deep learning and nlp
+
+experience with software engineering best practices
+
+ms or phd in machine learning or equivalent work experience
+
+â 
+desired:
+
+experience using big data platforms such as spark or hadoop
+
+experience with large-scale graph analysis
+
+expertise in reading comprehension and related ai tasks
+
+
+â 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+engineering hiring process
+
+
+
+
+
+
+
+
+
+
+step 1
+once your application is received, a recruiter will reach out pending your qualifications are a match for the role.
+
+
+
+
+step 2
+if your background is a match, you may have 1-2 technical phone interviews or be given the chance to provide a work sample depending on the role.
+
+
+
+
+step 3
+if the phone interviews go well or your work sample is strong, the final step includes interviews with 5-6 people held onsite in our office.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+personal information
+
+
+
+
+
+
+
+
+first name*
+
+this field is required.
+
+
+
+
+
+
+
+
+last name*
+
+this field is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+
+
+city
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+district of columbia
+american samoa
+guam
+northern mariana islands
+puerto rico
+united states minor outlying islands
+virgin islands, u.s.
+
+
+
+
+
+
+
+country*
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+afghanistan
+aland islands
+albania
+algeria
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia, plurinational state of
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+chinese taipei
+christmas island
+cocos (keeling) islands
+collectivity of saint martin
+colombia
+comoros
+congo, rebublic of
+congo, democratic republic of
+cook islands
+costa rica
+cote d'ivoire
+croatia
+cuba
+curaã§ao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+french guiana
+french polynesia
+french southern territories
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard island and mcdonald islands
+honduras
+hungary
+iceland
+india
+indonesia
+iran, islamic republic of
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea, democratic people's republic of
+korea, republic of
+kuwait
+kyrgyzstan
+lao people's democratic republic
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia, the former yugoslav republic of
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+moldova, republic of
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+norway
+oman
+pakistan
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthã©lemy
+saint helena, ascension and tristan da cunha
+saint kitts and nevis
+saint lucia
+saint pierre and miquelon
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+sudan
+suriname
+svalbard and jan mayen
+swaziland
+sweden
+switzerland
+syrian arab republic
+tajikistan
+tanzania, united republic of
+thailand
+timor-leste
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+uzbekistan
+vanuatu
+vatican city state
+venezuela, bolivarian republic of
+viet nam
+virgin islands, british
+wallis and futuna
+western sahara
+yemen
+zambia
+zimbabwe
+
+
+this field is required.
+
+
+
+
+
+
+email address*
+
+this field is required.
+
+
+
+
+
+
+
+
+zip code
+
+
+
+
+
+
+
+primary phone*
+
+this field is required.
+
+
+
+
+
+
+
+
+
+resume/profile*
+
+
+upload
+
+
+
+
+required field. pdfs only; max file size is 1mb.
+
+
+
+
+cover letter
+
+
+upload
+
+
+
+
+required field. pdfs only; max file size is 1mb.
+
+
+
+
+
+
+
+
+
+
+
+u.s. equal opportunity employment information â (completion is voluntary)
+at twitter, we have a bold aspiration to reach every person on the planet. we believe that goal is more attainable with a team that understands and represents different cultures and backgrounds and we are committed to an inclusive and diverse twitter. 
+this is where you come in! please take a few minutes to provide us with your information. you are not required to provide this information and you may decline to disclose. your decision to provide information (or not) will not affect your employment or opportunities at twitter.
+twitter is an equal opportunity employer. we do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.
+
+
+
+
+
+
+
+gender
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+female
+male
+other or withhold / decline to disclose
+
+
+
+
+
+
+
+race/ethnicity
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+asian (not hispanic or latinx)
+black or african american (not hispanic or latinx)
+hispanic or latinx
+native american or alaska native (not hispanic or latinx)
+native hawaiian or other pacific islander (not hispanic or latinx)
+two or more races / multiracial
+white (not hispanic or latinx)
+withhold / decline to disclose
+
+
+
+
+
+
+
+veteran status
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+i am not a u.s. veteran
+i identify as a u.s. veteran
+withhold / decline to disclose
+
+
+
+
+
+
+
+
+
+gender identity
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+gender-nonconforming
+neither gender-nonconforming nor transgender
+transgender
+withhold / decline to disclose
+
+
+
+
+
+
+
+sexual orientation
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+bisexual
+gay
+heterosexual
+lesbian
+other
+withhold / decline to disclose
+
+
+
+
+
+
+
+veteran branch of service
+
+
+
+select
+
+
+arrow down icon
+
+
+
+
+select
+air force
+army
+coast guard
+marines
+navy
+other
+withhold / decline to disclose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you can view the âeeo is the lawâ posterâ here.
+
+twitter does not accept any unsolicited resumes from recruiting agencies and will not pay fees associated with any such resumes. agencies, please do not send resumes to any twitter location, employee, or email address.
+twitter, inc. is committed to working with and providing access and reasonable accommodations to applicants with physical or mental disabilities. if you need an accommodation in order to apply for open job opportunities, please submit a description of your accommodation request to rarequest-recruiting@twitter.com. this email is only for accommodation requests related to the application process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+success
+
+thanks for applying!
+
+
+
+
+
+
+
+
+error
+
+submission failed. please make sure all fields are correctly formatted. 
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+don't see the right fit?
+check out other opportunities at twitter.
+
+
+
+explore our teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              join the flock
+              
+
+
+
+@jointheflock
+
+
+
+
+
+
+
+twitter logo icon
+
+follow
+
+
+
+
+
+
+twitter recruiting: all the deets about who we're hiring, what we're doing and why you should come and work here! #lovewhereyouwork
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              twitteru recruiting
+              
+
+
+
+@twitteru
+
+
+
+
+
+
+
+twitter logo icon
+
+follow
+
+
+
+
+
+
+we're your one stop shop for anything university related. that means campus outreach, student advice/tips, & of course, our university recruiting efforts!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+
+
+letâs go twitter
+
+
+company
+
+
+values
+
+
+safety
+
+
+blog
+
+
+brand resources
+
+
+careers
+
+
+investors
+
+
+
+
+
+
+business
+
+
+about twitter ads
+
+
+targeting
+
+
+analytics
+
+
+ads support
+
+
+business blog
+
+
+advertise
+
+
+
+
+
+
+developers
+
+
+documentation
+
+
+forums
+
+
+communities
+
+
+developer blog
+
+
+
+
+
+
+help center
+
+
+using twitter
+
+
+managing your account
+
+
+safety and security
+
+
+rules and policies
+
+
+contact us
+
+
+
+
+
+
+marketing
+
+
+insights
+
+
+success stories
+
+
+solutions
+
+
+collections
+
+
+marketing blog
+
+
+flight school
+
+
+
+
+
+
+
+
+© 2017 twitter, inc.
+
+cookies
+privacy
+terms and conditions
+
+
+language
+
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

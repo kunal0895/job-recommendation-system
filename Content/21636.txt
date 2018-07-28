@@ -1,0 +1,113 @@
+
+
+
+
+
+pint - jobs: devops engineer - web application - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+devops engineer - web application
+
+devops engineer - web application
+san diego, california, united states
+
+descriptionpint is seeking a devops engineer to assist in maintaining and scaling out a suite of web-based, cloud-hosted, multi-tenant, b2b2c applications related to patient messaging, patient engagement, and online medical device sales. to prepare for both increased domestic and new international deployments, these applications are gradually being migrated from monoliths to microservices.  concurrently, they are being migrated from a hosted paas deployment, to self-managed containers over iaas, to facilitate both cost reduction and increased control. this is an ideal opportunity for a skilled devops practitioner who is looking to contribute significantly to the design, build and scale-out of a containerized microservices platform that they will be co-responsible for managing.the ideal candidate will have a keen interest in infrastructure-as-code and automation of it workflows, including: configuration management, continuous integration and delivery, and service orchestration. a strong sense of ownership & accountability for meeting the goals of application performance, reliability, security, compliance, and scalability is essential. must be able to work well with multiple dev teams responsible for distinct application functionalities/services.  must be able to communicate effectively with these team members, and also with business stakeholders--particularly for estimation and planning purposes, and as part of incident management & remediation.developers and other team members are located primarily in san diego and two locations in northern california. occasional light travel will be required (approximately quarterly). dev teams are small (~5 devs each) and fairly autonomous, with a strong shared emphasis on agile processes.responsibilities include: full-stack monitoring (vms, containers, os, dbs, app layer, apis, front end). tuning thresholds & alerts, ensuring coverage, verifying performance vs slas. troubleshooting: incident response, bottleneck analysis, root cause analysis capacity planning & management of compute resources throughout the stack. documentation of both existing and proposed system & network resources. supporting automation for both development and deployment pipelines. ensuring, documenting, and (where possible) automating system/network security. supporting ongoing hipaa (hitech) & pci dss compliance requirements. additional relevant experience: node.js runtime and npm package management. firewall/ids/ips administration. web application firewall administration. automated load/stress testing. administration of a message broker or service bus infrastructure. formal responsibility for hipaa/hitech and/or pci/dss compliance. http2 server/proxy configuration. requirements 2 - 5 years maintaining distributed, web-based applications at scale. linux and windows system administration, including shell scripting. vm configuration & management (both linux and windows guests). container configuration & build (docker preferred). container automation/orchestration (kubernetes preferred). familiarity with additional it automation / cm tools (e.g., chef, puppet, ansible). network administration using public cloud resources (azure preferred). managing a monitoring infrastructure (new relic, sensu, runscope, etc.). user identity, access control, and role-based permission management. general network, server and file system security. some database administration (both mongodb and mysql preferred). dvcs administration (github, gitlab). ci/cd pipeline automation (semaphore, jenkins, or similar). benefitsindustry-competitive medical, dental, vision and life benefits, along with a 401k. we have a great location in pacific beach just a mile from the beach and a half-mile from the bay…it's an easy commute from most of the city.this role has the added benefit of self-sufficiency; significant technical decision-making freedom will be awarded to the right candidate and full ownership of application configuration, deployment and monitoring will be within the purview of the position.  the career-defining elements of the position cannot be understated…this is a mature application team and a (relatively) seamless integration into the working group will serve as a major step forward for many candidates.pint also offers a small-business, casual environment with the longevity of an established company (est. 1994). we encourage collaboration and innovation, so if you have good ideas leadership is happy to hear them!follow us on twitter, facebook and our blog for more information.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+current  openings
+
+
+
+
+
+
+
+
+
+
+about pint
+pint is a leader in the web industry with 20 years of web design, software development and consulting experience. pint's principals are also the founders of two software companies - zingchart and port80 software. we not only build sites and applications for leading organizations in california, the u.s. and worldwide, but help move the industry forward with our books, instruction at universities, and conference participation.
+
+
+
+
+
+
+who we are
+what we do
+our clients
+contact us
+
+
+call us today!
+858-270-2086
+
+
+
+
+
+
+
+twitter
+
+
+twitter
+
+
+google+
+
+
+pint blog
+
+
+
+privacy policy
+student resources
+careers
+info@pint.com
+
+© 1995-2017 pint, inc.
+
+
+
+
+
+
+
+
+

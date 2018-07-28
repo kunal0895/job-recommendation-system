@@ -1,0 +1,301 @@
+
+
+
+
+	un careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home | 
+        fr | 
+        
+        login | 
+        un.org | 
+        site map | 
+       contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			{1}				
+			
+
+
+
+##loc[ok]##
+
+
+
+
+
+
+
+			    {1}				
+			    
+
+
+
+
+
+##loc[ok]##
+##loc[cancel]##
+
+
+
+
+
+			{1}				
+			
+
+##loc[ok]##
+##loc[cancel]##
+
+
+
+
+
+
+
+the new ypp polnet test will be administered on 8 february 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your email has been successfully sent. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job opening
+
+
+
+posting title:
+
+
+internship - developer (prototype and/or new technology), i  (temporary job opening)
+
+
+
+
+
+job code title:
+
+
+intern - information systems & communication technology
+
+
+
+
+department/office:
+
+
+office for the coordination of humanitarian affairs
+
+
+
+
+duty station:
+
+
+new york
+
+
+
+
+posting period:
+
+
+01 december 2017 - 30 january 2018
+
+
+
+
+job opening number:
+
+
+17-information management systems-ocha-89742-j-new york (a)
+
+
+
+
+staffing exercise
+
+
+n/a
+
+
+
+
+
+united nations core values: integrity, professionalism, respect for diversity
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+special notice
+
+                    the united nations shall place no restrictions on the eligibility of men and women to participate in any capacity and under conditions of equality in its principal and subsidiary organs. (charter of the united nations - chapter 3, article 8). the united nations secretariat is a non-smoking environment. no fee the united nations does not charge a fee at any stage of the recruitment process (application, interview meeting, processing, or training). the united nations does not concern itself with information on applicants’ bank accounts.
+                
+org. setting and reporting
+
+the united nations (un) office for the coordination of humanitarian affairs (ocha) is the un secretariat department responsible for bringing together humanitarian actors to ensure a coherent response to complex emergencies and natural disasters. ocha also ensures that there is a framework within which each actor can contribute to the overall response effort. the information management im function, is responsible for both defining and implementing ocha's information and technology strategy while introducing more effective ways of developing and delivering digital information and technology services that serve ocha staff and the larger humanitarian sector. the digital services team has been recently established to focus on high priority projects that bring together a variety of im’s existing sections/projects as well as other ocha platforms. the teams within im are responsible for a range of matters including humanitarian data (hdx), response-based websites (reliefweb & humanitarianresponse.info) and applications (humanitarian.id), technical infrastructure (email, document management, connectivity, etc), and both support to and capacity development of field-based information management officers. the announcement offers an opportunity for an internship assignment that will be based in new york, usa, and the intern will under the guidance and supervision of a programme manager within the digital services team. this internship is being offered for a period of three (3) months with a possibility of extension up to a maximum period of six (6) months.
+
+responsibilities
+
+daily responsibilities will depend on the individual's background, duties may include but are not limited to lending support to projects and/or activities within the branch/division of assignment, in particular the intern may: • develop “proof of concept” voice assistant applications, on major platforms (amazon and/or google). for example, develop access to reliefweb crisis data numbers or ocha budget details through alexa;• develop a “proof of concept” blockchain application. for example, develop a simple solution that could show how un agencies could share transactional information (e.g. procurement, logistics, etc);• develop a “proof of concept” artificial intelligence application. the concept could range from machine learning to natural language processing;• conduct research into the implication of newly emerging technologies and their use in major sudden onset emergencies. for example, how does the use of such technology adhere or conflict with national-level policies and laws.• investigate, review and test as-a-service tools that could be used to help development efforts;.  • investigate, review and test as-a-service (cloud based) mobile application development tools like appery.io;.
+
+competencies
+
+core competencies:communication:-speaks and writes clearly and effectively-listens to others, correctly interprets messages from others and responds appropriately-asks questions to clarify, and exhibits interest in having two-way communication-tailors language, tone, style and format to match the audience-demonstrates openness in sharing information and keeping people informedteamwork:-works collaboratively with colleagues to achieve organizational goals-solicits input by genuinely valuing others’ ideas and expertise; is willing to learn from others-places team agenda before personal agenda-supports and acts in accordance with final group decision, even when such decisions may not entirely reflect own position-shares credit for team accomplishments and accepts joint responsibility for team shortcomingstechnological awareness:-keeps abreast of available technology-understands applicability and limitations of technology to the work of the office-actively seeks to apply technology to appropriate tasks-shows willingness to learn new technology
+
+education
+
+to qualify for an internship with the united nations internship programme, applicants must meet one of the following requirements: • be enrolled in a graduate school programme (second university degree or equivalent, or higher); or • be enrolled in the final academic year of a first university degree programme (minimum bachelor’s level or equivalent); or • have graduated with a university degree and, if selected, must commence the internship within a one year period of graduation from an academic programme. applicants who are unable to commence the internship within one year of graduation shall not be accepted. the university degree must be in the area of information technology (information management, information systems, or information architecture, information systems) . business administration (computer science),  international relations, policy development, management (general, information systems), or a related field.
+
+work experience
+
+applicants are not required to have professional work experience for participation in the programme; but applicants should: • be computer literate in standard software applications; • have a demonstrated keen interest in the work of the united nations and have a personal commitment to the ideals of the charter; and • have a demonstrated ability to successfully interact with individuals of different cultural backgrounds and beliefs, which includes willingness to understand and be tolerant of differing opinions and views.any academic and/ or practical experience in establishing, fostering and coordinating a diverse group of actors is desirable. research experience and published work in any of the above or related areas is an asset.
+
+languages
+
+english and french are the working languages of the united nations secretariat.  fluency in english (both oral and written) is required.  knowledge of french is desirable. knowledge of another un official language is an advantage.
+
+assessment
+
+candidates will be assessed based on their personal history profile (php). individual interviews may be conducted by the hiring manager directly for further consideration. a complete online application (cover note and personal history profile) is required. incomplete applications will not be reviewed. the cover note must include: • title of degree you are currently pursuing; • graduation date (when will you be graduating from the programme); • list the it skills and programmes that you are proficient in; • explain why you are the best candidate for the internship position. in your personal history profile, be sure to include all past work experience, if any; it skills and three (3) references.due to high volume of applications received, only successful candidates will be contacted.
+
+
+
+
+
+united nations considerations
+
+according to article 101, paragraph 3, of the charter of the united nations, the paramount consideration in the employment of the staff is the necessity of securing the highest standards of efficiency, competence, and integrity, including but not limited to, respect for international human rights and humanitarian law. candidates may be subject to screening against these standards, including but not limited to, whether they have committed or are alleged to have committed criminal offences or violations of international human rights law and international humanitarian law. due regard will be paid to the importance of recruiting the staff on as wide a geographical basis as possible. the united nations places no restrictions on the eligibility of men and women to participate in any capacity and under conditions of equality in its principal and subsidiary organs. the united nations secretariat is a non-smoking environment.applicants are urged to follow carefully all instructions available in the online recruitment platform, inspira. for more detailed guidance, applicants may refer to the at-a-glance on "the application process" and the instructional manual for the applicants, which can be accessed by clicking on “manuals” hyper-link on the upper right side of the inspira account-holder homepage.the screening and evaluation of applicants will be conducted on the basis of the information submitted in the application according to the evaluation criteria of the job opening and the applicable internal legislations of the united nations including the charter of the united nations, resolutions of the general assembly, the staff regulations and rules, administrative issuances and guidelines. applicants must provide complete and accurate information pertaining to their personal profile and qualifications, including but not limited to, their education, work experience, and language skills, according to the instructions provided on inspira. applicants will be disqualified from consideration if they do not demonstrate in their application that they meet the evaluation criteria of the job opening and the applicable internal legislations of the united nations. applicants are solely responsible for providing complete and accurate information at the time of application: no amendment, addition, deletion, revision or modification shall be made to applications that have been submitted. candidates under serious consideration for selection will be subject to a reference-checking process to verify the information provided in the application.job openings advertised on the careers portal will be removed at midnight (new york time) on the deadline date.
+
+no fee
+
+the united nations does not charge a fee at any stage of the recruitment process (application, interview meeting, processing, or training). the united nations does not concern itself with information on applicants’ bank accounts.
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home | 
+        privacy notice | 
+        site map | 
+        fraud alert |
+        contact us
+
+copyright 2017 united nations. all rights reserved
+
+
+
+
+
+
+

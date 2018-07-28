@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position: 
+                            
+                            
+                                
+                                    data scientist
+                            
+                        
+
+
+
+location: 
+                                
+                                    menlo park, ca
+                                
+                        
+
+
+
+job id: 
+                            
+                            
+                                
+                                    254
+                            
+                        
+
+
+
+# of openings: 
+                            
+                            
+                                
+                                1
+                            
+                        
+
+
+
+
+
+
+
+
+data scientist
+computer science and software engineering
+ 
+grail is a life sciences company whose mission is to detect cancer early when it can be cured. grail is using the power of high-intensity sequencing, population-scale clinical trials, and state of the art computer science and data science to enhance the scientific understanding of cancer biology and develop blood tests for early-stage cancer detection.  we are seeking passionate and talented individuals to join us in realizing our mission, which has the potential to dramatically reduce the global burden of cancer.
+ 
+position summary
+our data science team is responsible for cleaning, preparing, and analyzing ever increasing data sets to identify patterns to enable to early detection of cancer. we deeply understand our data and use those insights to build better methods, pipelines, and assays. as a data scientist, you will build models based on some of the largest, richest biological datasets in the world. your rigorous analysis will guide our assay and bioinformatic pipeline development. working closely with scientists, clinicians, and engineers, you will develop new ways to pull signals out of ultra-deep sequencing data and identify cancer at its earliest stages.
+ 
+tasks and responsibilities 
+
+
+work with large, complex data sets. solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. conduct end-to-end analysis that include design, data gathering, processing, analysis, iteration with stakeholders, and dissemination of results.
+
+
+build and prototype analysis pipelines iteratively to provide insights at scale. develop comprehensive understanding of relevant biology, assays, data structures, and available features.
+
+
+interact cross-functionally with a wide variety of people and teams including research, software, clinical, research, and product development.
+
+
+minimum qualifications
+
+
+2+ years of relevant work experience in data analysis or related field. (e.g., as a statistician / data scientist / computational biologist / bioinformatician).
+
+
+preferred background
+
+
+phd degree in a quantitative discipline (e.g., statistics, computational biology, computer science, mathematics, physics, electrical engineering).
+
+
+4+ years of relevant work experience in data analysis or related field. (e.g., as a statistician / data scientist / computational biologist) including deep expertise in stochastic modeling, high-dimensional classification, and/or unsupervised learning methods.
+
+
+
+
+experience with next generation sequencing data analysis (dna, rna, or epigenetic analysis).
+
+
+deep experience with a statistical programming language (e.g., r).
+
+
+
+
+demonstrated expertise in one programming language (python, go, c++, etc.), proficiency in linux environment, experience with database languages (e.g., sql), experience with version control practices and tools (git, perforce, etc.).
+
+
+demonstrated experience with and track record of implementing reproducible research practices.
+
+
+
+
+applied experience with machine learning on large datasets.
+
+
+demonstrated effective written and verbal communication skills.
+
+demonstrated leadership and self-direction. demonstrated willingness to both teach others and learn new techniques.
+
+ 
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+ 
+
+
+
+
+
+                                apply for this position
+                            
+
+
+
+
+
+
+
+
+                    apply with indeed
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+                go back to the job list
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+

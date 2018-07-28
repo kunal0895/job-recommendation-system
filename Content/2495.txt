@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+blucora open positions
+
+
+
+
+
+
+
+
+
+
+
+available positions
+
+
+
+
+
+
+
+
+
+
+senior data engineer
+
+
+location:
+tx - irving
+
+
+
+description
+picture yourself adding your creativity toward game-changing innovation. our businesses operate at the intersection of tax preparation and financial planning, and our competitive advantage lies in their unique combination. with award-winning products and services through our taxact and hd vest brands, blucora is on the forefront of financial tech, turning taxes into opportunity for our consumers, small business customers and tax professionals. we have a culture of creating market disruption; a place where big ideas, and those who think them, can flourish. if you are interested in being part of a team that dreams large, talks straight, and helps millions of customers every year build their financial future, then we should talk!
+our data platform team is seeking an experienced data engineer with software engineering and system administration skills to join our team.  our data platform utilizes a polyglot persistence pattern using sql server, mongodb, elasticstack, redis, hadoop and other technologies to deliver a suite of data services to support our production systems and provide analytical capabilities to our analysts and data scientists.
+in this role, you will be supporting multiple components of our data platform by: working with product owners and business partners to understand the data requirements for new projects/initiatives; collaborating with technical teams to develop data solutions to support business initiatives; building and maintaining the data architecture to store the data; and finally to administer and support the data platform to ensure performance targets and system slas are maintained.
+major responsibilities:
+
+design, implementation and delivery of complete analytic solutions in aws
+own the data architecture and infrastructure
+architect, build and maintain high performing etl processes, including data quality and testing
+define and build technical/data architecture for data warehouse, data marts and big data solutions (including data and dimensional modeling)
+develop analytics with a mind toward accuracy, scalability and high performance
+provide technical guidance and thought leadership to other members of the team
+establish lean data governance to drive data standards and data quality. be an evangelist in the company for data-informed thinking and decision-making.
+
+education and experience:
+
+experience implementing and operating solutions with one or more no-sql technologies in a production environment.
+experience in architecting and building data warehouse systems and bi systems including etl.
+expert knowledge in modern distributed architectures and compute / data analytics / storage technologies on aws
+deep knowledge of rdbms (sql server, mysql, etc.) and nosql databases such as mongodb, dynamodb, cassandra
+advanced knowledge of a programming language such as java/python/scala 
+outstanding analytical skills, excellent team player and delivery mindset.
+experience in performance troubleshooting, sql optimization, and benchmarking.
+strong architectural experience in context of deploying cloud-based data solutions. 
+good communication (oral and written) and interpersonal skills.
+enthusiastic attention to detail.
+demonstrated intellectual curiosity and ability to acquire new skills quickly
+
+ideal candidate will also have:
+
+experience with aws redshift,
+experience with alteryx, datameer & other data analytics toolsets
+experience with data visualization tools such as tableau, qlikview
+experience in agile development methodologies.
+knowledge of statistical concepts and their application in reporting and data mart applications.
+demonstrated ability to champion projects from beginning through implementation, meet deadlines, handle multiple priorities and perform job responsibilities accurately with minimal supervision
+
+we offer a competitive salary, outstanding benefits package that includes medical, dental, vision. life insurance, paid vacation and sick days, paid holidays, tuition reimbursement, and 401(k) with company match.
+ qualified applicants will receive consideration for employment without regard to their race, color, religion, national origin, sex, or disability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2014 blucora, inc. all rights reserved contact us privacy policy terms of use
+
+
+
+
+
+
+
+
+
+

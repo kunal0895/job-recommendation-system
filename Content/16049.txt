@@ -1,0 +1,344 @@
+
+
+
+
+
+
+careers at irispr software - java developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about irispr
+
+leadership
+careers
+contact us
+
+resources
+
+media relations
+pr measurement & reporting
+content marketing
+pr team management
+pr tech
+customer stories
+
+blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+join the irispr developer team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+java developer (phoenix, az)
+
+
+
+
+
+
+
+we're looking for an experienced java developer to help design, architect and develop innovative new features for the irispr platform. the ideal candidate has experience with java apps and a great attitude.
+irispr is a phoenix-based tech start-up with an experienced leadership team and exceptional product. we have a positive brand reputation in the pr industry, and have our sights set on becoming the industry leader.
+we are looking for a java developer with a deep sense of product ownership and is comfortable working in a fast-paced startup environment. still interested? great! here’s what we’re looking for.
+you will: 
+
+write clean, well-designed, reusable spring based rest services with java.
+write code that scales and is easily maintainable by other developers.
+lead effort to optimize for performance and remove bottlenecks.
+architect systems to anticipate future scale and complexity while still enabling rapid experimentation and delivery of new features and products.
+create testing processes that ensure code quality as development progresses.
+help build the team and mentor junior developers.
+
+our ideal candidate has:
+
+5+ years of experience building java applications based on spring, jpa, hibernate, with familiarity in spring boot, aws deployment.
+3+ years of professional software engineering experience in web technologies, web services and rest.
+experience working with oauth is a plus.
+a degree in computer science or stem field, or related work experience working with data structures and algorithms.
+experience working with sql databases like mysql or postgresql.
+experience working within nosql databases like mongodb or cassandra and mastery in merging disparate data forms is a plus.
+experience working within a scrum or agile team, where you practiced tdd.
+experience integrating other api's or systems together. familiarity with soa.
+high degree of competency working in a unix environment.
+experience working at a startup with a focus on delivering scalable products.  
+ability to formulate articulate opinions on product design and engineering issues with a focus in finding the most effective solution.
+a deep sense of product ownership.
+recent management or leadership experience.
+
+to apply, please send resume, linkedin profile, and anything else that tells us what we should know about you to jobs@myirispr.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+john f. wood
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 iris pr software. all rights reserved. legal 
+
+
+
+
+
+
+
+
+
+
+
+
+why irispr
+customer stories
+demo
+ 
+
+
+
+about irispr
+leadership
+careers
+contact us
+
+
+
+media relations
+pr reporting
+content marketing
+team management
+pr technology
+ 
+
+
+
+blog
+twitter
+facebook
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

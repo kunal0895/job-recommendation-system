@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+technical marketing engineer - cloud mg1218476
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+cisco
+cisco jobs
+
+
+menu
+
+
+
+
+english
+|
+français
+sign in
+
+
+
+
+
+
+search jobs
+careers home
+students and new grads
+events
+stay in touch
+
+
+
+
+ 
+
+
+
+
+
+
+
+< back to search results
+
+
+
+
+
+
+
+technical marketing engineer - cloud mg1218476
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+location:
+rtp, north carolina, us
+
+
+area of interest
+engineer - pre sales and product management
+
+
+job type
+professional
+
+
+technology interest
+cloud and data center, networking, security
+
+
+job id
+1218476
+
+
+new
+
+
+
+
+
+what you'll dowithin cisco’s security & trust organization (s&to), our dynamic, results oriented engineering team researches, develops, and delivers best-in-class foundational security and trustworthy technologies, which are broadly deployed across cisco’s portfolio – enabling customer differentiating, pervasive security, with a “secure by default” posture. our portfolio of market leading “trust anchor” and “common security module” technologies include cryptography, image signing, hardware & software attestation, pki, integrity/detection, cloud and iot related security technologies.who you'll work withas part of st&o’s engineering team, the secure common cloud components team develops and shares tools, software, and procedures that facilitate a strong security posture for cisco's linux-based offerings. our focus is common configuration and hardening modules that install, configure and secure open source operating systems and components for cisco-branded offerings running in the public cloud space.who you arein this role, working in a highly multi-functional manner across cisco’s security development, cloud tenant business unit (bu), and cloud security teams, the technical marketing engineer (tme) will craft, guide and evangelize cisco’s best practice cloud security technologies. additionally, working in an agile/lean development environment, you will own and be responsible for our roadmap, guiding new technology development, identifying it and cisco cloud tenant/market requirements and prioritizing engineering activities and investments. a portfolio champion with business value insights, you will help establish and drive strategy, roadmaps, market & competitive analysis, efts and go-to-market plans.this demanding role blends technical expertise, business insight and people influencing soft-skills.you are a product owner or product manager with expertise in developing or launching new cloud security services, products or technologies.prior cloud-specific engineering, product management, solutions, or tme experience is required.you have a broad background in cloud, and security depth in particular strong experience and deep understanding of cloud provisioning, configuration management & deployment, including ansible and puppet, aws and azure cloud platforms and related services, apache, nginx, etc.knowledge of agile methodologies, devops and ci/cd relevant experience in all phases of the product life cycle, from concept and execution through end of life. strong technical writing and presentation skills. proven ability in crafting and delivering product & service related collateral, technical deployment guides, white papers and business/technical presentations.you are passionate, highly motivated and eager to affect meaningful impact, and to develop new skills. with a zeal for learning you are comfortable diving into business & technical subjects outside of your comfort zone. a consummate team-player, with outstanding listening, collaboration & communication skills.bs/ms in engineering/computer science, united states citizenship is required.desired skills:additional areas of experience include: centos and linux application & administration knowledge, networking and firewall basics, shell programming, pki - x.509 certificates, encryption, openssl, ciscossl, it security, etc.any additional technical training, including ccsp, cissp, ccie or cybersecurity related certifications is a plus.familiarity with center for internet security (cis) hardening specifications and their application in the cloud domain, including hardening guides for specific releases of os’s, webservers, databases, etc.why ciscowe connect everything: people, processes, data, and things. we innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. and we do it in style with unique personalities who aren’t afraid to change the way the world works, lives, plays and learns.we are thought leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. we celebrate the creativity and diversity that fuels our innovation. we are dreamers and we are doers.we are cisco.
+
+
+
+
+share
+
+
+
+
+share technical marketing engineer - cloud mg1218476 with facebook
+share technical marketing engineer - cloud mg1218476 with linkedin
+share technical marketing engineer - cloud mg1218476 with twitter
+share technical marketing engineer - cloud mg1218476 with google+
+share technical marketing engineer - cloud mg1218476 with a friend via e-mail
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+share
+
+
+
+
+share technical marketing engineer - cloud mg1218476 with facebook
+share technical marketing engineer - cloud mg1218476 with linkedin
+share technical marketing engineer - cloud mg1218476 with twitter
+share technical marketing engineer - cloud mg1218476 with google+
+share technical marketing engineer - cloud mg1218476 with a friend via e-mail
+
+
+
+
+
+
+job notifications
+sign up to receive notifications of similar jobs
+
+
+
+notify me
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility for applicants with disabilities
+e-verify participation poster
+right to work poster
+agency portal
+
+cisco is an affirmative action and equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+                cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+
+
+
+
+jobs help
+|
+terms & conditions
+|
+privacy statement
+|
+cookie policy
+|
+trademarks
+
+
+follow we are cisco
+linkedin
+twitter
+facebook
+snapchat
+instagram
+glassdoor
+
+
+
+
+
+
+

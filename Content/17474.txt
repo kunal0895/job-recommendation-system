@@ -1,0 +1,142 @@
+
+
+
+
+pop careers - interactive javascript developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+                                                    pop careers                                            
+
+
+
+
+
+
+
+                interactive javascript developer
+    
+    
+
+                            technology            
+                    seattle,
+                            washington
+                
+                        
+
+
+        apply
+    
+
+
+
+your code. better site. your code makes the internet a better place. you’re crazy about building interactive experiences and obsessing over the details. you’re an ace at solving problems before they happen.pop seeks a javascript developer to work on various html/css/javascript web and mobile applications. you'll work with designers and other developers, with a primary focus on developing javascript, html and css and building/implementing websites and mobile solutions following web best practice workflows. you will be responsible for html, css, and js portions of the front-end; including consumption of data, animations and other interactivity. you may also be tasked with backend/crud implementation, depending on experience level.what you’ll do work with other team members to build rich, compelling and highly interactive web sites and mobile experiencesfully building out front-end components, (javascript, html, css)strategize and develops proper flow of information, ensuring that design solutions integrate technical and business logicwork well with others to tackle complex problemswork with back end developers to design web apis that are appropriate for applications and fit the user interfaceconsume and display data from back end apis as neededprovide expert guidance on browsers, desktop and mobile platforms with a focus on ux, interactivity, motion and performancewhat we’re looking for 5+ years of professional experience in interactive and bachelors (or higher) degree in a creative discipline (relevant experience and training will be considered)advanced, proven knowledge of object-oriented javascript, modern js libraries, react, angular, backbone, etc., es 6, semantic html, css and responsive tacticsadvanced working knowledge of css preprocessors (sass, less, etc) and task runners (grunt, gulp, etc), templating systems (handlebars, etc), module systems (requires, browserify, etc)advanced knowledge of building responsive sites for desktop, tablet, and mobile with proven advanced experience with coding, architecture, and writing reusable librariesexpert image production experience working in photoshop/sketch/etc
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+

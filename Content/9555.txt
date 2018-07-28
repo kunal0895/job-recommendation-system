@@ -1,0 +1,461 @@
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+								about us
+
+
+
+
+
+
+
+corporate overview
+
+
+mission statement
+
+
+certifications/partnerships
+
+
+training
+
+
+
+
+
+
+
+								services
+
+
+
+
+
+
+
+customized it solutions
+
+
+software products & solutions
+
+
+it consulting/staffing
+
+
+erp / sap consulting
+
+
+outsourcing/offshore development
+
+
+temporary staffing
+
+
+
+
+
+
+
+								industries
+
+
+
+
+
+
+
+									government
+									
+
+
+
+
+
+
+government solutions
+
+
+contract vehicles
+
+
+
+
+
+
+financial
+
+
+energy and utilities
+
+
+pharmaceuticals
+
+
+retail
+
+
+technology & telecom
+
+
+healthcare
+
+
+
+
+
+
+clients
+
+
+
+								careers
+
+
+
+
+
+
+
+open positions
+
+
+work culture
+
+
+training
+
+
+benefits
+
+
+
+
+
+
+
+								contact us
+
+
+
+
+
+
+
+contact details
+
+
+request for information
+
+
+
+
+
+
+
+
+
+
+			  careers  open positions
+
+
+
+
+
+
+open positions
+
+
+
+
+work culture
+
+
+
+
+training
+
+
+
+
+benefits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						job details
+
+
+
+
+
+
+
+
+					job id
+				
+
+					:
+				
+
+pru-242
+					  
+				
+
+
+
+					position title
+				
+
+					:
+				
+
+business analyst
+
+
+
+
+					job duration
+				
+
+					:
+				
+
+contract to hire
+
+
+
+
+					employment type
+				
+
+					:
+				
+
+contract 
+
+
+
+
+					compensation
+				
+
+					:
+				
+
+doe
+
+
+
+
+					compensation type
+				
+
+					:
+				
+
+w2 with benefits
+
+
+
+
+					location
+				
+
+					:
+				
+
+charlotte,nc
+
+
+
+
+					start date
+				
+
+					:
+				
+
+30 oct 2017
+
+
+
+
+					job description
+				
+
+					:
+				
+
+the successful candidate will be a member of the derivatives trading/lifecycle technology business analysis/project management/strategy team. 
+ 
+main responsibilities will include but are not limited to:
+gather, evaluate and analyze business needs for new/existing initiatives of wells fargo securities.
+1) us and european markets regulatory enhancements / implementations
+2) otc product master
+3) physical crude trading
+4) flash pnl (profit and loss)
+5) quantitative models computation/valuation
+ 
+conduct project management activities including but not limited to project planning, estimation, scheduling, prioritization, business needs tractability, change requests processing, issue resolution, issue escalation, status reporting and lessons learned.
+ 
+coordinate efforts among project stakeholders including development team, business partners, end users, vendor(s) and downstream technology teams.
+ 
+write business requirements and translate them into application functional requirements for complex and exotic implementations for trading businesses (e.g. cva/dva, greeks, market risk, credit risk calculations).
+ 
+work closely with business partners (trading, marketing, market risk, counterparty credit risk, compliance, finance, operations and quantitative modeling) in understanding their requirements and working with them on complex transactions which in return implementing the required specifications into technology systems
+ 
+interpretation of complex/exotic and highly math intensive business and functional requirements to development team for implementation.
+ 
+work with development team in designing the application/functionality, database, reports, and processes to help in accomplishing stated business needs in most efficient way possible.
+ 
+work/assist in development of test cases, test results, implementation & deployment plans.
+ 
+create and deliver presentations, training, user guides and any relevant efforts needed for business users to come on board with any new initiative / enhancement.
+ 
+suggest improvements or enhancements to processes and systems in order to increase customer satisfaction or improve productivity.
+ 
+ 
+minimum qualifications:
+ 
+ms degree
+ 
+
+•	5+ years of experience in project management and trading products implementation in high-profile systems with highly visible projects.
+•	5+ years experience in the financial industry including knowledge of futures and derivatives markets.
+•	5+ years of experience in working with analytical models and implementation into trading systems for credit/interest rates/commodity and other financial derivatives
+•	5+ years of experience in the pricing and risk assessment of commodity, interest rates, credit or other financial derivatives.
+•	understanding of commodity/interest rate/credit swap, basis swap, forwards / futures, options and their valuation techniques
+•	understanding of regulatory commitments for the trading organization related to trading operations for cftc and solid working experience of dodd frank regulation particularly in the area of real time reporting of swaps (swap data repository reporting)
+•	proven ability to work in a fast-paced environment.
+ 
+•	trading systems (e.g. endur, calypso, murrex) working experience.
+ 
+•	fluency in sql.
+ 
+•	extensive knowledge and hands-on experience with excel, vba, and user-defined functions.
+ 
+•	understanding of scenario analysis, stress testing, credit potential exposure.
+ 
+•	experience working with financial market data and trading technologies including  ice, tt, rmds, activ, fix, morningstar, bloomberg,markit
+ 
+•	experience working with front office (traders/marketers), middle office, market risk, quants, credit risk, back office business partners on trading applications.
+ 
+•	expertise in using user interfaces that interface with high volume market data.
+ 
+•	ability to demonstrate an excellent track record of delivering quality software products by following iterative and agile sdlc.
+ 
+•	proven ability to be a highly motivated self-starter who solves problems with a business centric view. 
+ 
+•	ability to demonstrate verbal and written communications skills,  business knowledge
+
+
+
+
+					required skills
+				
+
+					:
+				
+
+•	a combination of related work experience in project  management and business analysis with focus on securities, investment banking and credit/rates/commodity derivatives financial and physical trading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 
+				
+
+
+
+
+
+
+					 
+
+
+
+
+					                
+				
+
+
+
+
+
+
+
+
+				© 2011 prutech solutions, inc. all rights reserved.
+			
+
+
+					developed by prutech solutions
+
+
+
+
+

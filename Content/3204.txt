@@ -1,0 +1,71 @@
+deep learning engineer (full-time/internship) at tusimpleemployeesdeep learning engineer (full-time/internship)san diego, cafull-timesoftware developmentjob openingsdeep learning engineer (full-time/internship)%button_apply_to_position% apply using linkedintusimple is dedicated to providing the best solution for autonomous driving. our mission is to transform the way people see transportation and make it safer, more reliable, and more efficient.
+we’re looking for smart and entrepreneurial people to join the world’s leading scientists and researchers team.
+job description
+our deep learning team helps autonomous car sense and perceive the world.  you will play an important role in creating novel algorithms for advanced perception and apply your algorithm on terabytes of data. the successful job applicant will work with our experts in building the next-generation of autonomous sensing algorithms.
+responsibility
+
+
+research and prototype developing using deep learning with a special focus on the perception problems of autonomous driving
+
+
+qualifications
+
+
+phd or ms in related academic program or equivalent practical experience
+
+
+sound understanding of deep learning literature
+
+
+excellen t programming experience in at least one of the following languages:
+
+
+c, c++, python
+
+
+
+
+familiarity with at least one of the following neural network frameworks:
+
+
+mxnet (preferred), tensorflow, torch, caffe
+
+
+
+
+bonus points
+
+
+related experience in autonomous driving
+
+
+published at top tier journals/conferences in cv/ml
+
+
+perks
+
+
+work with world class ai engineers
+
+
+shape the landscape of autonomous driving
+
+
+competitive salary and benefits
+
+
+bonus/options/paid vacations/insurance
+
+
+daily breakfast, lunch, and dinner
+
+
+full kitchen with unlimited snacks and fruits
+
+
+weekly team happy hour
+
+
+tusimple is an equal opportunity employer. this company does not discriminate in employment and personnel practices on the basis of race, sex, age, handicap, religion, national origin or any other basis prohibited by applicable law. hiring, transferring and promotion practices are performed without regard to the above listed items.
+ 
+%button_apply_to_position%%footer_powered_by%breezy

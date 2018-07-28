@@ -1,0 +1,15 @@
+data/nlp scientist at answeriqcompany websiteemployeesdata/nlp scientistbellevue, wafull-timejob openingsdata/nlp scientist%button_apply_to_position% apply using linkedinansweriq is looking for data scientists to join our data science team. our data science team dedicate to apply natural language processing and machine learning in the enterprise customer support space, as well as provide data analytic service to our customers. we develop sophisticated algorithms and applications to automate the customer service including responding the ticket, classifying ticket issues, engaging conversations with customers.  you will build, evaluate and improve customized ml models for our customers; work with customers to analyze customer dataset and translate data-driven insights into decisions and actions; run ml experiments and develop algorithms to improve smartassist ml/nlp engine.
+ 
+qualifications
+
+(required) master or higher degree in computer science, statistics or mathematics with focus on machine learning and natural language processing; data science experience in industry is preferred
+strong knowledge in machine learning and statistics (classification, regression, recommendation, clustering, boosting, graphical models, etc.)
+familiar with machine learning and analytics libraries (scikit-learn, mllib, etc.)
+experience with deep learning frameworks (tensorflow, cntk,  mxnet, keras, etc.)
+experience with data manipulation and analysis tools (pandas, pig, hive, spark, etc.)
+experience in applying and implementing nlp algorithms, especially in the following areas: information extraction, topic modelling, semantics analysis, question answering
+strong programming skills in python, sql, r and at least one object oriented programming language (java, scala, c++, etc.)
+knowledge of visualization tools (d3.js, tableau, etc.)
+great communication skills, curiosity about data, and passion about the business
+
+ %button_apply_to_position%%footer_powered_by%breezy

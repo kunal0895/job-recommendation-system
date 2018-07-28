@@ -1,0 +1,31 @@
+data engineer (mid and senior) at datalerecompany websitedata engineer (mid and senior)denver, cofull-timejob openingsdata engineer (mid and senior)%button_apply_to_position% apply using linkedindata engineer (multiple positions)
+datalere team members lead by example, focus on customer needs and have a thirst to learn all they can about data analytics. successful candidates are self-starters and never shy away from challenges.
+we need team members that excel when working directly with clients to meet their goals. they understand the client’s needs and requirements and build a collaborative environment to ensure a successful project delivery.
+data engineers analyze and develop on-premises and/or cloud data and etl solutions to solve the client’s challenges.  they enjoy the challenges of consulting and thrive to knock the socks off of clients.
+responsibilities
+
+hands-on development and serve as technical expert on projects
+develop data solutions leveraging traditional and cloud product offerings from leading vendors
+develop data models to meet client needs
+develop etl/elt processes and patterns to efficiently move data
+create data visualizations, dashboards and reports as needed
+develop and scope requirements
+travel as needed (currently less than 5%)
+maintain effective communication with team and customers
+
+qualifications
+
+2+ years designing and developing data analytics solutions
+2+ years with rdbms such as sql server, oracle, mysql
+2+ years data warehouse, dimensional modeling design and architecture
+a passion to learn and improve your skills to deliver the best possible solutions to customers
+experience with cloud based data services offered by azure, aws and google
+experience with data visualization tools such as power bi and tableau
+previous consulting experience preferred
+degree in computer science, information technology, engineering or business
+must be authorized to work in the us. we are unable to sponsor h-1b visas at this time. 
+
+about us
+at datalere, we work with our clients to transform their enterprise through the use of modern compute technologies and proven deployment processes providing cost effective durable solutions for the competitive world.
+if you are seeking new challenges, interested in staying up to date with the latest releases and can deliver uncompromised service to our customers, then we’d like to hear from you. if you are interested and meet the above qualifications, please submit your resume and cover letter indicating your interest to join our team. 
+%button_apply_to_position%%footer_powered_by%breezy

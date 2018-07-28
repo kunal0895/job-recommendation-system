@@ -1,0 +1,465 @@
+
+
+
+
+tivo careers | jobs at tivo - software engineer (machine learning)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tivo for
+
+
+
+
+cable customers
+
+
+
+
+
+ 
+
+
+
+
+
+tivo for
+
+
+
+
+antenna users
+
+
+
+
+
+ 
+
+
+
+
+
+tivo
+
+
+
+
+multi room solutions
+
+
+
+
+
+ 
+
+
+
+
+
+where to
+
+
+
+
+buy
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ sign in
+
+
+
+
+
+
+shop
+for business
+tivo online
+activate tivo
+
+
+
+
+
+
+ sales help support
+
+
+
+
+ 
+call us
+844-254-8486
+mon to fri : 7am - 6pm pt
+sat-sun : 8am - 5pm pt
+ 
+
+
+
+ 
+email us
+get in touch anytime.
+ 
+
+
+
+
+
+
+
+support & user forums
+guides & how to
+former rovi support
+
+
+
+
+  
+ 
+
+
+
+
+our products
+
+tivo bolt
+tivo mini
+tivo stream
+accessories
+tivo outlet
+find-a-store
+
+
+
+
+
+
+
+
+
+our company
+
+about us
+investor relations
+international
+careers at tivo
+press room
+blog
+contact us
+locations
+
+
+
+
+
+
+
+
+
+get involved
+
+on-site user testing
+in-home beta testing
+
+
+
+
+
+
+
+
+
+quick links
+
+support center
+my account
+welcome center
+software updates
+manage tivo emails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                software engineer (machine learning)
+    
+    
+
+                            engineering            
+                    boston,
+                            massachusetts
+                
+    
+
+
+
+
+        apply
+    
+
+
+description
+
+hi. we’re tivo. at our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. we touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences, and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.  we work hard, celebrate success and challenge everyone in our organization to make an impact. if you are as passionate as we are about the intersection of technology and entertainment, join us today.  tivo analytics: as entertainment options grow and evolve, tv networks and service providers face new challenges in understanding their audiences and subscribers. at tivo, our analytics team combines the power of big data and cloud processing in our predictive analytics solutions to help these businesses optimize campaigns by audience and make decisions based on actual consumer behavior.   tivo has developed a revolutionary cloud-based analytics platform that integrates massive data from set-tops, smart tvs, tablets and stream servers – basically anywhere that video is consumed – to deliver timely intelligence and actionable insights by leveraging big data and predictive analytics techniques  responsibilities:lead work on the improvement of an efficient machine learning prediction pipeline for multiple productsapply machine learning at scale to predict audience behavior and consumption of digital mediaprovide technical guidance in a number of aspects of data science and engineering including: hypothesis testing, analysis, modeling, and production deployment.work closely with counterparts in other disciplines as part of a cross-functional team, and nurture this culture in your teamthink creatively and propose new directions and questions to pursuequalifications:strong background in machine learning or analytics. graduate education preferred.3+ years of experience working in data science or related fieldexperience deploying software on aws infrastructureexperience giving hands-on leadership, whether formally or informally (e.g., mentoring), to individuals implementing machine learning systems at scale in java, scala, pythonexcellent sql skillsexperience with high-scale data processing and storage frameworks like hadoop, scalding, spark, storm, cassandra, etc.experience with agile software processes, data-driven development, reliability, and disciplined experimentation benefits & perks our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. tivo supports personal well-being, builds financial security, and enables employees to share in the success of tivo. rewards include: competitive compensation (salary, equity and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through tivo community outreach.great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.- see more at: https://www.tivo.com/jobs/culture/benefits-at-tivo tivo corporation is an equal employment opportunity employer
+            
+                            
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+our products
+
+tivo bolt vox
+tivo mini vox
+tivo roamio ota
+tivo vox remote
+tivo outlet
+find-a-store
+
+
+
+
+
+
+
+
+
+
+
+
+our company
+
+about us
+investor relations
+international
+careers at tivo
+press room
+blog
+contact us
+locations
+
+
+
+
+
+
+
+
+
+
+
+
+get involved
+
+on-site user testing
+in-home beta testing
+
+
+
+
+
+
+
+
+
+
+
+
+quick links
+
+support center
+my account
+welcome center
+software updates
+manage tivo emails
+accessibility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sitemap
+safety & compliance
+legal
+privacy
+cookies
+email signup
+
+
+
+
+
+© 2017 tivo corporation. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

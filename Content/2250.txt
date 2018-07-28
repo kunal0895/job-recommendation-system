@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+senior data center engineer
+
+
+
+
+location
+
+
+ga - atlanta
+
+
+
+
+job code
+
+
+151
+
+
+
+
+# of openings
+
+
+1
+
+
+
+
+apply now
+senior data center engineer 
+ 
+your job
+as a senior engineer within our global engineering operations center, you will provide operational and project-based support for internal and external customers utilizing virtualization, compute, storage, and networking technologies.
+ 
+you’ll have the opportunity to collaborate amongst your team of engineers to resolve complex and challenging issues in a diverse set of environments for your external customers. you can expect to receive incidents and service requests as you track problems and change requests. this position is an escalation tier and will be responsible for highly technical problem resolution, as well as working with vendor support.
+ 
+ 
+what you could do
+
+design, implement, troubleshoot, and maintain core virtualization technologies (microsoft and / or vmware)
+responsible for storage architecture of various systems including exchange, sql, file services and vmware esx
+bc / dr storage architecture and implementation
+perform customer support activities for data communications equipment and networking system products
+assist the team with the management and direction setting to include setting priorities, coordinating, and the reporting of accurate and timely completion of tasks
+work closely with team to develop structures and architecture design strategies to satisfy client requirements and further develop service standardization / delivery of it service management frameworks for ivision customers
+mediate business or technical situations in which team lead is not directly involved
+responsible for rotating “on call” responsibilities
+maintain proactive management and maintenance of the infrastructure to prevent service interruptions
+schedule and prioritize work to accommodate client needs while minimizing impact on operations  
+
+ 
+ 
+what you’ve done
+
+experience in virtualization and core storage design and implementation supporting both ha and dr capabilities
+knowledge of target virtualization technologies: vmware esx 5.5, 6.0 and vsphere
+experience with enterprise storage technologies (ie, emc, hp, netapp, nexsan)
+administered, installed and designed with netapp storage
+installed and built enterprise server hardware (cisco, hp, dell)
+experience with iscsi and fiber based san
+excellent communication and presentation skills, written, verbal and listening
+
+ 
+ 
+what will separate you from the rest:
+
+network administration of route / switch components
+hands on experience with cisco ucs
+administration, installation and design of commvault backup
+virtualization specialization in virtual desktop environment is a plus
+technical certifications: microsoft mcse, netapp ncda, cisco ccna
+ability to multi-task in a fast-paced environment with little to no supervision
+ability to work effectively and add value as a team member
+strong problem-solving skills: ability to assess a problem and determine an effective course of action 
+
+ 
+ 
+your story
+when you are seeking your next game-changing opportunity, what are you looking for ideally? chances are you are looking to be on an award-winning team that was founded by engineers for engineers and believes in the same core values that have helped you get to this point in your game-changing career. join our innovative team as we push our customer’s complex on-prem, virtualized, and hybrid environments to the next level of innovation.
+ 
+there are endless opportunities for you, but few where you can work with those just like you - the brilliant, the eager, the innovative, the hungry, and the curious. we are ready when you are…
+ 
+ 
+our story
+ivision is the next generation of technology integration and management partner. throughout the last decade, we have transformed how technology does business, and have engineered success for our global clientele through objective recommendations, process, and technology expertise, as well as best-of-breed guidance.
+ 
+our engineers and consultants provide infrastructure and application solutions and are organized into six core technical disciplines, including: cloud services, infrastructure services, data center, converged network, security and application development – all supported by our service delivery practice.
+ 
+founded in 2004, ivision is a privately held company, headquartered in atlanta, and has been recognized and awarded by inc. magazine, ajc, atlanta business chronicle, best & brightest, crn, georgia fast 40 and others.
+ 
+just as we have transformed our industry standards, and what it means to be a technology solutions provider, we are looking for our future engineers to transform their respective functions and change engineering standards forever.  use everything you have accomplished through your career to build, evolve, and revolutionize how engineering is done. apply today, and let’s engineer the future, today... 
+ 
+ 
+ivision is an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ 
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

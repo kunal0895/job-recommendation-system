@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career portals
+
+
+
+
+
+
+
+
+
+job search
+login / register
+
+
+
+
+we are now hiring
+req #822
+web developer
+
+
+salary
+ft
+thursday, october 19, 2017
+
+
+
+
+
+
+public service credit union is going through an exciting transition which includes extensive rebranding. this person will play a critical role in creating our new website,pscu.org! in addition to the new website, this person will support a number ofnew technical initiatives which contribute to our mission of serving our members. if you are looking for an opportunity to make an impact and not just work in a code factory, this may be a fit for you. pscu employs over 500 people and has 28 branches across the front range. the role reports to the director of enterprise solutions and is part of a team of 7.as part of the role, they will work with internal clients to design, develop, test, implement and maintain complex technology solutions. they will provide applicationdesign, development, and enhancements to the suite of products used by pscu.  this will include: c# .net programming, visual studio, sql server, javascript, html, and css.  this may also include integration with other non microsoft and legacy systems as needed.
+essential duties/responsibilities
+•manage all facets of site development, from initial design and architecture to site deployment and client management utilizing the latest technology on all web sites including internal and external (member facing) web sites.
+•complete  high-end projects in deadline-oriented environments.
+•revamp web sites to enhance user satisfaction, streamline navigation and compile reports based on findings with recommendations on improvements, or new requirements, for business processes and operational procedures.
+•provide technical support to analyze user requests and translate into useful automated processes and/or reports.
+•gauge the effectiveness and efficiency of existing reports and processes; develop andimplement strategies for improving or further leveraging these reports and processes.
+•gather information through research, organize data, design workflow, test, validateand complete user requests.
+•develop and implement specifications for all tasks/projects assigned.
+•evaluate and test vendor-supplied software packages for compatibility with existing systems, ease of use, and determine if software meets user needs and supports organizational priorities.
+•coordinate and perform in-depths tests, including end-user reviews, for modified/new reports and/or processes.
+•exhibit support for the organization’s goals, values, initiatives and cost control.
+•recommend and help develop and implement new policies and procedures.  
+•mentor junior programmers.
+•comply with the bank secrecy act (bsa) and other compliance requests and requirements.
+•keep informed on developments and trends in report writing including new products, services and technological advances.
+•follow all safety and security guidelines to properly safeguard member and organization assets.
+•embrace ongoing education and learn/apply new skills and software applications.
+•regular attendance and punctuality are essential functions of the job. 
+•perform other job related duties as assignedjob qualifications
+knowledge, skill and ability:
+•demonstrated knowledge and experience in object oriented programming languages.  advanced knowledge in c#, javascript, css, xml, html, asp-mvc, asp-webapi, sql, restful and soap based web services, angular js, jquery, .net framework and visual studio.  
+•excellent verbal, written and interpersonal communication skills with the ability to interact with technical staff and other senior management/credit union staff asappropriate.
+•strong relationship building and teamwork skills with ability to develop and maintain consultative relationships with pscu staff.
+•proven ability to develop project plans, coordinate and complete projects on time and within budget. 
+•excellent attention to detail and organizational skills; ability to manage multiplepriorities with tight deadlines.
+•strong analytical, decision making and problem solving skills.
+•ability to use basic manual tools for servicing personal computer equipment.
+•working knowledge of windows operating systems, workstations, microsoft office, and other software packages to diagnose equipment, software or operational problems.
+•working knowledge of using, troubleshooting, and maintaining computer and networking equipment.
+•solid knowledge and understanding of pscu financial products and services.
+•ability to interpret a variety of instructions furnished in written, oral, diagram, orschedule form.  
+•ability to maintain confidences. 
+education or formal training:  bachelor’s degree in computer science orrelated field with an emphasis on development.
+experience: minimum of five years of development experience.  experience with agile/scrum development frameworks desired.
+working environment/physical activities
+high volume, faced-paced, dynamic office environment with some travel.  must be able to work a flexible schedule including rotating shifts, on-call, evenings and weekends.  the job routinely uses standard office equipment such as computers, phones, printers, copiers, fax machines and filing cabinets.  the position requires manual dexterity and frequent lifting 20-50 pounds. the position requires bending, stooping, and standing as necessary.  other dutiesplease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee forthis job.  duties, responsibilities and activities may change at any time with or without notice.
+public service credit union is an equal opportunity employer, gender/minority/veteran/disabled.public service credit union is an e-verify participant.	 	applicants – please review the following attached notices for e-verify and	 	right to work, prior to applying.   e-verify participation notice – english e-verify participation notice – spanish right to work notice – english right to work notice – spanish      
+
+
+
+salary
+$82,500.00
+bachelor’s degree
+it lone tree, lone tree, colorado, united states of america
+
+
+
+
+
+
+
+
+
+ 
+
+apply now
+see all jobs
+
+
+
+
+
+
+privacy policy © 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+senior data engineer at disney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+japen-menu
+back
+
+english
+简体中文
+繁體中文
+日本語
+français
+deutsch
+español
+português
+
+
+
+
+choose a language
+
+
+
+
+
+
+
+
+help tell our stories in the most innovative ways!
+
+
+
+
+
+
+job search
+
+
+keyword
+
+
+
+country
+
+select country
+united states
+canada
+mexico
+bahamas
+puerto rico
+china
+hong kong
+indonesia
+japan
+singapore
+malaysia
+thailand
+vietnam
+phillipines
+ireland
+spain
+italy
+sweden
+switzerland
+belgium
+czech republic
+denmark
+finland
+greece
+hungary
+luxemburg
+netherlands
+new zealand
+norway
+poland
+portugal
+turkey
+germany
+austria
+france
+argentina
+brazil
+colombia
+chile
+united arab emirates
+israel
+australia
+south africa
+united kingdom
+india
+
+
+
+state/region
+
+select state/region
+
+
+select state/region
+californiafloridashanghai shienglandnew yorkwashingtontexasconnecticuthawaiiguangdong shengbeijing shimaharashtracentral and westerncentral singaporesouth carolinaillinoispennsylvaniasichuan shengnorth carolinaarizonabangkokalbertabritish columbiadistrict of columbianevadanational capital regionvictoriabavariamarylandoklahomatennesseenew jerseyutahkarnatakadaerah khusus ibukota jakartawan chaiscotlandstockholmtel avivontariogeorgiamissouriohiocoloradooregonvirginiaho chi minh citynew south walesaragonwalesleinsterile-de-franceatticasan juanmanitobakansaslouisianamichigannew hampshirenew mexicoregion ile-de-francebuenos airesdistrito federalsao paulotokyo
+
+
+
+city
+
+select city
+
+
+select city
+burbankglendaleorlandonew yorklake buena vistashanghaianaheimlondonhammersmithsan franciscocelebrationseattlebristolkapoleibeijingmumbaihong kongsingaporehilton headlos angelesguangzhouphiladelphiahoustonchengduchicagodurhambangkokkissimmeesan antonioshenzhenwashingtonsan josedestinfresnolas vegasmakati citysouth yarraedmontonkelownavero beachtulsaculver citypasadenatucsonbengalurujakartacauseway baystockholmmunchentel avivcalgarytampamiamiclarksburgbransoncypressmercedesschaumburgparamuscentral valleyarcadiasherman oaksdaly citygilroyoremhonoluluwoodbridgeho chi minh citysydney cbdzaragozacardiffaberdeenglasgowwatfordgatesheadchelmsfordbristoldartfordleedsreadingmunichdublinparisathenssan juanrocky viewsurreyvancouverwinnipegbarrievaughanpembroke pinesjacksonvillelutzfort myersaventuradawsonvillealpharettaoverland parkmetairiehanovercharlottemyrtle beachnashvilleseviervillememphistexas citysan marcosmcallenthe woodlandsfort worthlaredocedar parkround rockcanutilloauroraauburn hillsmerrimackedisonelmhurststaten islandriverheadmonroecincinnatiemeryvillenewarkconcordhollywoodmontebellosanta monicavalenciasalinasrosevilletemeculasacramentomontclairel cajonsan diegosolana beachsanta clarasanta rosamodestothousand oaksventuralone treebroomfieldalbuquerquesalt lake citychandlergilbertglendaletempehappy valleywoodburnbellevuetukwilatulalipparistokyo 
+
+
+
+search
+
+
+
+already applied?
+view dashboard
+
+
+
+
+
+
+
+
+senior data engineer
+apply now
+
+job id 
+                        509823br
+                    
+
+
+location 
+                    san jose, california, united states
+                
+
+
+business 
+                        disney consumer products and interactive media
+                    
+
+
+brand
+                    disney consumer products and interactive media
+                
+
+date posted
+                12/04/2017
+            
+
+as a member of the dcpi data engineering team, the successful candidate will possess a work style that promotes progress through collaborative teamwork in a dynamic environment, be enthusiastically committed to delivering world-class data and analytics engineering solutions to the highest levels, and work with other team members to provide creative analysis and approach to optimize the existing data platform and contribute to developing innovating solutions to solving complex business problems.                                    responsibilitieswork smarter, not harder – proponent of not re-inventing the wheel; generally, prefer wielding the power of open source and community-driven software to solve hard problems, quicklyperform data platform development, support and enhancementdevelop data pipeline and engine to support application engineers to use data to implement personalization and recommendationperform data-warehouse design and programmingdevelop engineering analytical solutions and program by following analytical models and solutions to help solve business problems.provide engineering support for the usage and interpretation of data to various business partners.perform engineering support for data-mining, deep learning and performance measurements on business-information systems utilizing analytics tools and methodologiesbe part of the team to perform the technical proof of concepts, explore new technologies for machine learning such as google tensor flow or open source apis/packages. basic qualifications3+ years solid engineering background with sql, linux script, java or python.1-2 years’ experience in web front development: html, css, django3+ years working experience working knowledge of hadoop/spark/hive3+ years solid background with data mining and/or machine learningmust be a self-motivated, energetic, detail oriented team player passionate about producing high quality data & analytics deliverables and thrives in a collaborative environmentstrong analytical aptitude requiredpassionate about working with large volume of dataability to work in an agile development environment with minimal documentation and processstrong problem solving skill to identify the root cause and implement the fix preferred qualificationsknowledge of hadoop, hive, spark and pig in a cloud environment preferred. required education
+bs or ms in computer science or related field or equivalent work experience company overview
+dcpi is the business segment of the walt disney company that brings stories and characters to life through innovative and engaging physical products and digital experiences across more than 100 categories, from toys and t-shirts, to apps, books and console games. dcpi comprises four main lines of business: licensing, retail, games and apps, and content. the combined segment is home to world-class teams of app and game developers, licensing and retail experts, a leading retail business (disney store), artists and storytellers, and technologists who inspire imaginations around the world.                                    additional informationthis position is a legal entity of disney consumer products & interactive media, an equal opportunity employer.            
+apply now
+
+
+
+
+
+
+
+share this job
+
+facebook
+linkedin
+twitter
+google+
+email
+
+
+
+
+
+
+watch our jobs
+
+sign up to receive new job alerts and company information based on your preferences.
+email addressspecify locationssearch for a category and select one from the list of suggestions. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.categorylocationadddisney consumer products, san jose, california, united statesremovetechnology, san jose, california, united statesremovedisney consumer products and interactive media, san jose, california, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+follow us
+
+facebook
+linkedin
+twitter
+youtube
+instagram
+
+
+
+
+jobs by location
+jobs by category
+jobs by group
+jobs by business area
+
+
+
+
+help & guest services
+site map
+terms of use
+privacy policy
+your california privacy policy
+children's online privacy policy
+interest-based ads
+about disney
+
+
+©2017 disney. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+

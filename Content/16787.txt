@@ -1,0 +1,145 @@
+
+
+
+
+servicenow careers - software development engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                software development engineer | 13773                                             
+
+    
+    
+
+                            engineering, infrastructure and operations            
+                    san diego,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+we're hiring! senior software development engineer  servicenow, the enterprise it cloud company, is the industry-leading cloud platform provider for building enterprise applications.  we are redefining markets and changing the perception of enterprise software.  our cloud platform allows enterprise it to bring together business strategy, application design and operations in a powerfully simple solution.   to sustain our explosive growth, we are looking for drivers—people who thrive on responsibility and live for the next big challenge.  we seek to employ the brightest and most forward-thinking talent on the planet, and we want to hire people who have their best work ahead of them, not behind them.  accelerate your career and succeed in an environment where you can make an impact daily.  we invite you to join in to stand out.responsibilitieswe're looking for experienced, passionate, driven software developers who can help us build scalable and reliable cloud computing solutions to support the rapid growth of our saas products. as a senior software engineer you will be a key member of the cloud platform development group working directly on the orchestration team. the orchestration team is responsible for developing a product offering that allows disparate cloud systems to interoperate together for various integration and workflow use cases.  essentially we are in the business of automating interaction between cloud systems.  you will design, implement, test and deploy scalable cloud computing solutions as part of the orchestration development team. skills & experience required7 plus years of experience developing scalable and distributed systems with either c++/c#/java and experience with a scripting language such as javascript/python/ruby/php/ perl in a unix environmentsolid understanding of data structures, algorithms, object oriented design and design patternsstrong problem-solving, debugging skills and an aptitude for learning new technologiesstrong penchant for test driven developmenthands-on experience with integration mechanisms like web-services, message queues, file sharing, powershell, sshexperience with agile development processbs/ms degree in computer science or equivalent experiencedesirableexperience with cloud orchestration/workflow automation and high availabilityknowledge of cloud technology and distributed computingfamiliarity with ui and javascript frameworks like jquery, angularwork environment  we are a dynamic and rapidly growing software company with a strong sense of dedication to our customers. we work hard but try not to take ourselves too seriously. this is a very collaborative and inclusive work environment where individuals strong on aptitude and attitude will have an opportunity to grow their professional careers through working with some of the most advanced technology and talented developers in the business. we provide competitive compensation, generous benefits, and a professional, yet relaxed atmosphere.
+servicenow is an equal employment opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, or veteran status.   if you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at (408) 501-8550, or staffing@servicenow.com for assistance.
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+
+

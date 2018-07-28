@@ -1,0 +1,447 @@
+
+
+
+
+
+capacity engineer  in  houston, tx  | jpmorgan chase & co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+referral sponsor portal
+sign up now!
+login 
+
+
+
+
+
+
+divisions
+locations
+programs
+why us
+
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+divisions
+locations
+programs
+why us
+apply
+
+student programs
+student events
+experienced roles
+need advice?
+
+
+
+
+menu
+
+
+referral portal
+
+
+
+
+
+
+
+
+
+careers / job search / job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+capacity engineer
+
+req #: 170107793_1
+location:
+
+
+houston, 
+		tx,
+                us
+
+job category: technology
+potential referral amount: 5000 us dollar (usd)
+
+as an experienced infrastructure engineering professional, you'll be making decisions of a global, strategic nature that impact our customers, clients, and businesses around the globe.  your expertise in analyzing complex data systems, anticipating problems, and finding ways to mitigate risk, will be key in leading a high performing team to successfully design and navigate the program roadmap.  by incorporating your knowledge of business drivers, you will affect change and lead development of innovative improvements and world-class practices.  your team will be responsible for driving results, and implementing multiple, complex programs that span the breadth of the business, and they’ll look to you to provide the technical leadership to move them forward.  and while you will be part of a tight-knit team that shares your passion for technology, you’ll also gain access the best minds in the business—both as part of the jpmorgan chase & co. global technology community, and through our partnerships with some of the most important tech firms in the world.
+this role requires a wide variety of strengths and capabilities, including:
+•advanced knowledge in the following key areas: hardware architecture (performance testing, monitoring, operations), hardware benchmarking (agile, program managements, network management), design (compliance, security), network engineering (planning, provision)
+•advanced understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practices and jpmc policies 
+•proficient in multiple infrastructure technologies
+•demonstrated ability to conceptualize, launch and deliver multiple it projects on time and within budget 
+•ability to articulate to more experienced management a technical strategy in clear, concise, understandable terms 
+
+
+function as a capacity management expert
+
+defines capacity standards, process, tools and govern capacity planning strategies  
+
+engage with other capacity engineers and application owners, at varying skill levels, to help understand future capacity needs and identify optimization opportunities
+
+closely partner with internal technology and risk & audit teams for capacity planning functions
+
+develop and extend vision for improving the maturity of capacity management process
+
+continue to drive adoption with our lobs to improve utilization of infrastructure resources
+
+evaluate new cloud offerings and implement instance migration strategies across services 
+deep familiarity with capacity management for large, heterogeneous workloads
+strong capacity management planning, analysing, trending and forecasting skills.
+proficient in itil capacity management fundamentals
+ability to manage large, critical cross-organization programs and partner with multiple stakeholders to meet sla's/slo's
+deep understanding of system hardware, network and application characteristics
+experience with large-scale, multi-tier, complex applications
+detailed understanding of software and architectural performance factors
+excellent communication and presentation skills with a customer-focused attitude 
+at least 3 years programming with any of the following languages: python, r, java
+experience creating and delivering structured training and presentation materials
+positive, “can do” attitude.
+experience managing performance test activities from strategy, design, planning and execution using various monitoring/analysis/test tools (i.e. appdynamics, wily introscope, dynatrace, etc.); reporting results and presenting recommendations.
+capacity or performance experience with any industry standard capacity managements tools (bmc, teamquest, metron, splunk, etc.)
+infrastructure and application performance, trending and forecasting analytical skills.
+ preferred
+
+aws/cloud experience a plus with familiarity with aws tools such as cloudwatch, datadog, etc.
+experience optimizing compute , storage infrastructure across batch and online workloads.
+experience on any of the cloud efficiency management tools like cloudhealth, cloudyn, cloudability, etc.
+
+our corporate technology team relies on smart, driven people like you to develop applications and provide tech support for all our corporate functions across our network. your efforts will touch lives all over the financial spectrum and across all our divisions: global finance, corporate treasury, risk management, human resources, compliance, legal, and within the corporate administrative office. you’ll be part of a team specifically built to meet and exceed our evolving technology needs, as well as our technology controls agenda.
+
+when you work at jpmorgan chase & company, you're not just working at a global financial institution. you're an integral part of one of the world's biggest tech companies. in 14 technology hubs worldwide, our team of 40,000+ technologists design, build and deploy everything from enterprise technology initiatives to big data and mobile solutions, as well as innovations in electronic payments, cybersecurity, machine learning, and cloud development.  our $9.5b+ annual investment in technology enables us to hire people to create innovative solutions that will not only transform the financial services industry, but also change the world.
+at jpmorgan chase & company, we value the unique skills of every employee, and we're building a technology organization that thrives on diversity.  we encourage professional growth and career development, and offer competitive benefits and compensation. if you're looking to build your career as part of a global technology team tackling big challenges that impact the lives of people and companies all around the world, we want to meet you. 
+
+
+apply now
+               
+
+refer a friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our talent community
+not ready to apply? leave your information with us and we will keep you up to date with new career opportunities.
+join now
+
+
+
+things to note
+sign in to our application system to continue your job search or update your profile.
+current employees sign in here.  contractors sign in here.
+any information you provide is confidential and will only be viewed by our recruiters in an effort to fill open positions. in addition, the information you provide is subject to our privacy policy practices.
+please note that j.p. morgan will not accept unsolicited approaches or speculative cvs, nor will j.p. morgan be responsible for any related fees, from third party firms who are not preferred suppliers.
+the firm invites all interested and qualified candidates to apply for employment opportunities.
+need disability related assistance?
+if you are a us or canadian applicant with a disability who is unable to use our online tools to search and apply for jobs, please click here.
+important links
+click here to view the "eeo is the law" poster.
+click here to view the "eeo is the law" supplemental poster.
+click here to view our u.s. pay transparency policy.
+jpmorgan chase is an equal opportunity and affirmative action employer disability/veteran.
+
+
+
+
+
+
+
+your career. your way.
+
+privacy & security
+terms of use
+cookies policy
+
+
+equal opportunities
+site map
+
+
+
+
+
+
+
+
+
+
+corporate twitter links
+
+
+
+
+jpmorgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+
+jpmorgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+jpmorganchase.com
+jpmorgan.com
+chase.com
+
+
+
+
+
+corporate twitter links
+
+
+
+j.p. morgan
+
+
+
+chase
+
+
+
+
+
+
+
+corporate facebook links
+
+
+
+j.p. morgan chase
+
+
+
+chase
+
+
+
+
+
+
+
+corporate linkedin links
+
+
+j.p. morgan
+
+
+jpmorgan chase
+
+
+chase
+
+
+
+
+
+
+corporate youtube links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+corporate instagram links
+
+
+j.p. morgan
+
+
+chase
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 jpmorgan chase & co. all rights reserved. powered by smashfly
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+
+
+
+
+vroom - jobs: data scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data scientist
+
+data scientist
+new york, united states · data
+
+descriptionvroom is on a mission to transform the used car market into a modern, online and data-driven industry. we are constantly exploring new ways to improve our car pricing algorithm and to optimize our inventory and merchandising models. to help out, we are looking for experienced data scientists to join our supply and merchandising team. the ideal candidates will be looking to apply their passion for data and technology to drive business-critical decisions. the primary responsibilities for the supply and merchandising team are to i) accurately value the unique characteristics of each individual vehicle that we buy or sell, ii) model the demand for each of those unique characteristics, and iii) identify optimal sale channels and markets where we can increase margins and decrease turn rates. evaluating quickly and accurately the value of a vehicle presents challenges often unique to the car industry. each car comes with its own attributes, history, and fluctuating market demand that can greatly affect the buy and sale value, both geographically and over time. vroom uses a combination of data, statistical modeling and analytical skills to do this better than most.responsibilities own end-to-end data workflows and develop deep domain expertise on the underlying actors and behaviors manifested through data implement and validate predictive models and create and maintain statistical models to optimize inventory and with a focus on the used car market pricing, vehicle attributes and demand indicators identify standard and novel data sources to assess consumer-related demand levels and other market indicator. acquire, organize and leverage insights derived from that data collaborate with data engineers to rapidly deploy newly developed models develop and maintain etl pipelines to optimize the integration and the use of all available data sources. propose solutions and strategies to business challenges requirements strong and demonstrated technical skills and a desire to continue to expend on those skills a quantitative/technical/analytics education (masters/phd in a quantitative discipline preferred) experience in supply chain planning, demand modeling, and/or inventory optimization preferred proficiency in applying statistical/machine learning methods in the real world contemporary data engineering / data science technical skills (e.g. sql, r, python) and a desire to try out the cutting edge benefitsthis role offers: competitive compensation package pto, holiday pay, and sick leave 401k health/dental/vision benefits through united healthcare fully company-paid short term disability, long term disability, and life insurance access to healthcare concierge with virtual visits flexible spending account commuter benefits and the chance to work with a low-ego, high performing team that's transforming the used car market into a modern, online and data-driven industry. how to applyif you think you might be the data scientist we’re looking for, apply below with your resume and a cover letter telling us why you think you’d be a great addition to the team!
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+vroom
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+vroom website
+
+powered by
+workable
+
+
+
+
+

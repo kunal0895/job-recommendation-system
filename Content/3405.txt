@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+apply for sysco software engineer job - information technology - houston, texas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				    sysco.com
+				  
+
+about sysco
+customer solutions
+investors
+
+
+
+
+				    featured jobs
+				  
+
+driver
+warehouse
+sales
+information technology
+
+
+
+
+				    diversity & inclusion
+				  
+
+diversity
+military
+
+
+benefits
+sysco associate apply
+returning candidate
+
+
+				    contact us
+				  
+
+please contact us at  1-855-sysco4u / 855-797-2648  or  syscocareers@corp.sysco.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sysco.com
+
+
+about sysco
+customer solutions
+investors
+
+
+
+
+featured jobs
+
+
+ driver
+ warehouse
+ sales
+ information technology
+
+
+
+
+diversity & inclusion
+
+
+diversity
+military
+
+
+benefits
+sysco associate apply
+returning candidate
+
+
+contact us
+
+
+please contact us at  1-855-sysco4u / 855-797-2648  or  syscocareers@corp.sysco.com
+
+
+
+careers home
+search jobs
+
+
+
+
+
+
+
+
+
+sysco careers
+
+
+
+
+
+
+
+get future jobs matching this search.
+
+
+
+
+
+
+
+ get alerts 
+
+
+
+
+ please enter a valid email.
+ unfortunately, our network is not responding. please try again later.
+ your job alert was successfully created.
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+locations:
+houston, texas
+
+
+
+
+categories: information technology
+
+
+
+
+
+apply
+
+
+
+
+job description
+
+
+company: corp enclavelocation: us-tx-houstonzip code: 77077minimum level of education: bachelor's degreeminimum years of experience: 3position type: exempttravel percentage: 0 more information about this job: overview:at sysco, we offer our associates the opportunity to grow personally and professionally, to contribute to the success of a dynamic organization, and to serve others in a manner that exceeds their expectations. we are looking for talented, hard-working individuals to join our team. come grow with us and let us show you why good things really do come from sysco. summary of job purpose:the successful candidate for this position will perform the software engineer ii (developer ii) role within the sales & marketing’s business technology organization to design and develop solutions for the enhanced search and product discovery team (using open source technologies and platform like endeca).  in this hands-on role, the software engineer ii will be working within a product team to understand the requirements, formulate technical designs, and implement and test solutions to ensure compliance to requirements and technical standards.  this role will be required to have experience in utilizing devops best practices in building, testing, deploying and supporting a product/platform. sysco’s business technology department brings together technology and process expertise into one streamlined, consumer and business-oriented team. our focus is to provide innovative business solutions that eliminate waste, maximize customer satisfaction and improve business productivity. duties and responsibilities: work with product owner to understand desired application capabilities and testing scenarioswork within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologiesprovide timely defect resolution to minimize delays in project time-linedesign and participate in the development and delivery of operability-related features such as system health monitoring, diagnostics and repair automationconduct performance evaluations of new technology upgrades and critical software/ hardware changes and design and prepare performance/stress/redundancy test plans and scriptscoordinate and participate in emergency responses, perform root cause analysis, identify and implement solutions to prevent re-occurrencesencourage innovation, implementation of cutting-edge technologies, inclusion, outside-of-the-box thinking, teamwork, self-organization, and diversityperform additional duties as assigned by leadership team including after-hours support  preferred education:bachelor’s degree requiredrequired minimum experience:3-6 years of combined it experience3-6 years in solution design and lead experience building custom applications3-6 years of experience using frameworks like dropwizard, spring (core, spring cloud, spring boot, spring mvc, spring data, spring batch, etc.) or other open source softwares (like netflix oss, apache, etc.)3-6 years years experience using sql (like oracle, mysql, etc.) and nosql (like mongodb, couchbase, postgress, redis, etc.) databases and persistence frameworks (like jpa, hibernate, etc.)2+ years of experience with one of the dynamic object oriented programing language like groovy, jruby/ruby or python2+ years of experience designing web 2.0 solutions using technologies such as ajax, html5, javascript (like jquery, amber, angular, etc.), css and responsive design2+ years of experience with version control system (using git, subversion or similar)1+ years of experience with test driven development (tdd)1+ years of experience utilizing continuous integration (ci) servers (like, jenkins, gocd or similar) for build and process automation (cd)experience with solr, lucene or elasticsearch is a big plusexperience building & deploying application on a cloud platform is a plus (aws, azure, etc.) is big plusexperience with web-scale distributed system implementations is preferredknowledge and experience with microservices & service oriented architecture (soa) methods and implementation technologiescertificates, licenses, registrations:certified java developer is a big plusexperience with agile processes is preferredexperience with devops (ci-cd) is preferred work environment:this position will be performed from a corporate facility in houston, txno traveladditional information:applicants must be currently authorized to work in the u.s. on a full-time basis without future employment sponsorshipsysco is committed to providing comprehensive retirement and benefits programs, a stock purchase plan, product purchase discounts and much more! background & drug screen. eoe.  applicants must be currently authorized to work in the united states.  sysco is proud to be an equal opportunity and affirmative action employer, and considers qualified applicants without regard to race, color, creed, religion, ancestry, national origin, sex, sexual orientation, gender identity, age, disability, veteran status or any other protected factor under federal, state or local law. this opportunity is available through sysco corporation, its subsidiaries and affiliates. 
+
+ employment type: full time
+reqid: 47077
+
+
+
+ 
+
+
+
+      sysco corporation, an equal opportunity employer, endeavors to make the sysco corporate careers website accessible to any and all users. if you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at 1-855-sysco4u / 855-797-2648 or syscocareers@corp.sysco.com.
+    
+
+privacy policy | 
+terms of use | 
+system usage policy | 
+eeo policy statement | 
+eeo law poster | 
+eeo law supplement | 
+pay transparency policy statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,285 @@
+
+
+
+    full stack php/js web developer at vector media group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    www.vectormediagroup.com
+                
+
+                    website
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+full stack php/js web developer
+
+new york, united states
+full-time
+
+
+
+
+
+vector media group is looking for a full-time full stack php/js web developer in the nyc area to join our team immediately. we’re a growing interactive agency of 40 people in manhattan's flatiron district with great clients (like google, airbnb, twelve south, etsy, the associated press, new york city, st. regis, columbia university, and wpp) and an incredible roadmap.
+you’ll be a member of our development team, working closely with our other fantastic front-end and backend developers during every phase of your projects. you’ll also be communicating directly with clients and with our project managers to understand their requirements and present your work. your job will be fun, challenging, and interesting.
+you’ll be working on 2-3 projects at any time; typically one large application and a few smaller projects to keep things fresh. and you’ll work on the perfect development system: a huge monitor and a new computer of your choice.
+you will:
+
+design, architect, and build web applications of all shapes and sizes.
+lead development projects during all phases - discovery, planning, execution, and deployment.
+learn new technologies on the job. we do not specialize in any one language, framework, tool, or methodology – we require our engineers to be resourceful when it comes to learning about shiny new things.
+
+you may be a great fit for this role if you:
+
+are able to write high quality, well documented, and maintainable code.
+can empathize with our clients needs and recommend the best possible technical solutions for their unique situations.
+work on large projects with a team of multiple of engineers, ui designers, and product/project managers.
+have digital agency or freelancing experience.
+are an empathetic, caring, and emotionally intelligent human being - code monkeys need-not apply.
+
+projects you could work on:
+vector is a growing company, and we have more projects than ever, which is why we're hiring! every project is unique, and you'd be working on those that your skills and experience would be best suited for. here are some examples of projects we've worked on recently so you can get an idea of what we do. our tech stack varies from project to project, but some that are used more frequently include php, node.js, python, craft cms, angular 1/2, foundation, elasticsearch, ansible, aws, and (many) others.
+
+plan out and build a rest api for multiple consumers, including system architecture, authentication/authorization mechanisms, versioning, automated documentation, etc.
+build an enterprise-level content management system with a focus on robust author experience (ax) that allows for creating modular/component based visuals (we're not big fans of rigid "templates").
+migrate a php-based web application to a highly-available and scalable environment on aws, typically with elb, ec2 (with autoscaling), s3, lambda, elasticache, cloudformation, etc.
+architect a new series of features for a cross-platform (ios and android) phonegap/cordova powered mobile app using angular 2 and ionic.
+consult with our in-house visual design team on technical feasibility, prototyping complex interactions or dynamic interfaces, or brainstorming on possible solutions to the problem at hand.
+build out integrations with our clients 3rd-party tools and services, including ecommerce apis and erp systems, marketing automation tools (pardot, eloqua, etc.), social media apis, and any other service that our clients throw at us.
+
+we offer:
+
+a creative environment to do the best work of your career.
+an amazing team of developers, designers, marketers, project managers, and the occasional four-legged office pet.
+lunch paid for by the company, every day, via your own seamless account.
+flexible hours.
+flexible paid vacation policy.
+health, dental, and vision insurance.
+retirement plan with company matching.
+perks and discounts from many stores and services-- cell phone bills, hotels, rental cars, gyms, etc...
+
+join us!
+if you’re interested please apply as soon as possible, attention ben smith. examples of your real-world work are more important than a perfect resume. if you worked on a project with a team, please tell us which parts you were responsible for.
+
+
+
+
+
+apply for this opening
+
+
+
+
+
+                                        apply with linkedin
+                                    
+
+
+
+
+
+
+                                    apply with indeed
+                                
+
+
+apply for this opening at 
+                        http://vectormediagroup.recruiterbox.com/jobs/fk0fwgm?apply=true
+
+
+
+ other openings at vector media group
+                                
+see all the jobs at vector media group here: 
+                                    http://vectormediagroup.recruiterbox.com/jobs
+                                
+
+
+
+
+
+
+                        fetching your linkedin profile ...
+                    
+
+
+
+application form
+
+
+
+
+                        apply with linkedin
+                    
+
+
+
+
+
+                        apply with indeed
+                    
+
+
+
+
+
+
+                        first name
+                         *
+                    
+
+
+
+
+                        last name
+                        
+                    
+
+
+
+
+                        email
+                         *
+                    
+
+
+
+
+                        phone
+                         *
+                    
+
+
+
+
+                        resume
+                         *
+                    
+
+
+
+
+                        cover letter
+                        
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for your time
+
+
+
+
+
+apply for this opening
+
+
+
+                    apply with linkedin
+                
+
+
+
+                    apply with indeed
+                
+
+share this opening with friends
+
+
+
+
+
+
+
+
+ other openings at vector media group
+                    
+see all the jobs at vector media group here: 
+                        http://vectormediagroup.recruiterbox.com/jobs
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+recruiterbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

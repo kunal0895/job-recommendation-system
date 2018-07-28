@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+career | karl storz endoskope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+navigation
+
+
+
+
+
+navigation
+
+
+
+
+
+
+
+
+
+contact
+
+career
+
+
+united states
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our company
+
+
+human medicine
+
+
+industrial group
+
+
+veterinary medicine
+
+
+service
+
+
+
+
+
+
+
+
+stage
+
+
+
+
+
+
+start page /
+career /
+usa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+location:
+stafford/houston, tx
+
+
+job code:
+8750
+
+
+company:
+ksis
+
+
+shift:
+
+
+
+employment duration:
+employee full time
+
+
+pay grade:
+us-b17
+
+
+
+description
+karl storz or1 division is seeking candidates with technical expertise  in designing, developing, deploying and supporting new software applications and enhancements for use in hospital operating room environments.  this position will utilize current programming languages and technologies to write code and build applications for streaming, image archiving & management for operating room integration solutions. the role will support product development efforts across the organization and will function under the auspices of fda and internal regulations as an integral member of the or1 software engineering team.  
+ 
+duties and responsibilities:
+
+
+develops, modifies, and documents software applications
+
+
+participates in the entire software development life cycle: (requirement gathering through testing and deployment
+
+
+participates in architecture, design and code reviews
+
+
+plans and performs unit testing and debugging
+
+
+contributes to process of prototyping, testing and vendor research and selection
+
+
+supports software and system installations and monitors equipment functioning to ensure customer specifications are met
+
+
+obtains and evaluates information to determine hardware configuration
+
+
+adheres to document standards, coding standards and the development process
+
+
+performs other job-related duties or special projects as assigned
+
+
+ 
+additional responsibilites:
+
+
+quality – all activities associated with this position must be performed with the highest level of quality standards recognizing that the products are used in the medical and it industry.
+
+durability- all activities associated with this position must address the long-term durability of the device and where appropriate must consider the long-term durability even after multiple sterilizations and sterilization methods.
+efficiency – all activities associated with this position must consider the devices final application; ergonomics, interaction of the device with the physician, and device operation during usage are all components of efficacy.
+
+ 
+knowledge skills and abilities:
+- working experience with one (or more) of the following:
+
+
+java / c# programming
+
+
+javascript programming
+
+
+- familiarity with the following technology:
+
+
+microsoft .net framework
+
+
+restful web apis
+
+
+angularjs
+
+
+node.js
+
+
+c/c++
+
+
+design patterns
+
+
+service oriented architecture
+
+
+model-view-controller (mvc) architecture
+
+
+- knowledge of computer networks and network architecture
+- comfortable working in agile environment
+- knowledge of databases
+- excellent writing and communication skills, and experience in all phases of application development are required
+- experience with security testing and standards a plus.
+ 
+education & experience
+
+
+bachelor’s degree in computer science or computer engineering with at least 2-4 years’ experience or a master’s degree in computer science with 0-2 years’ experience.
+ 
+
+
+physical & mental requirements:
+
+
+ability to sit for extended periods (during meetings or computer work)
+
+
+ability to lift video equipment (approx. 20 lbs)
+
+
+ 
+interface:  (internal/external customers)
+
+
+project/program managers to report the status of tasks assigned to the individual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+starting at karl storz
+
+
+european career portal
+us career portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+locations worldwide
+
+karl storz locations worldwide
+
+
+
+
+
+
+
+
+
+
+
+
+our company
+
+further information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+top of the page
+
+
+
+
+
+
+
+
+disclaimer
+
+
+imprintgeneral termscopyrightterms and conditions of usedata protection
+
+
+
+
+
+
+
+
+navigation
+
+
+our companyhuman medicineindustrial groupveterinary medicinecareer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

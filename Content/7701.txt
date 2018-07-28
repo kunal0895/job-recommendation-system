@@ -1,0 +1,325 @@
+
+
+
+      senior data analyst  - san francisco, ca - coinbase
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+ 
+please note that coinbase no longer supports this browser. we recommend upgrading to the latest google chrome or firefox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products 
+
+buy/sell digital currency
+gdax
+developer platform
+merchant tools
+
+
+help
+
+
+
+charts
+
+sign in
+sign up
+
+
+
+
+
+
+
+senior data analyst 
+san francisco, ca
+
+
+
+
+about
+
+
+careers
+
+
+mission
+
+
+press
+
+
+
+
+
+
+ back to all jobs
+ senior data analyst san francisco, ca
+our vision is to bring more innovation, efficiency, and equality of opportunity to the world by creating an open financial system. our first step on that journey is making digital currency accessible and approachable for everyone.
+two principles guide our efforts. first, be the most trusted company in our domain. second, create user-focused products that are easier and more delightful to use than any alternative. those principles guide every decision across the company from design through engineering, from operations through security. one key ingredient for making informed decisions is reliable and timely access to data and that’s where you come in.
+as a data analyst, you will work with all of these teams to provide them with actionable insights, drawn from reliable data. our platforms produce data from a variety of sources, which must be aligned both between themselves and with external reference points like public blockchains. you will work on the design and implementation of our data warehouse, which will serve as a single source of truth across coinbase and make our data easier to access and more consistent.
+ in this role, you will develop a strong intuition for proper data management, and understand in great detail the working of our products, how they generate data, and how to best present that data to a variety of users. career progression can move both towards an advanced business intelligence role, or toward data engineering and data management.
+ responsibilities: 
+
+audit and analyze data produced by our various products (coinbase, gdax, and toshi), as well as public blockchains and other external sources. 
+publish clear and accurate data visualizations and reports per user requests.
+working with lead data analyst, assist in design and implementation of a second-generation enterprise data warehouse based on user requirements
+
+requirements:
+
+exhibit our core cultural values: clear communication, positive energy, continuous learning, and efficient execution.
+experience in data analysis and database design using sql
+you have at least 4 years of experience in data analysis  
+strong communication and mentorship skill; a large part of your role will be to offer advice on business decisions and assist users in producing their own analyses.
+bachelor’s degree in mathematics, physics, economics, engineering or other quantitative disciple. must have a strong mathematical foundation.
+
+preferred:
+
+python or other scripting language, especially with regards to numerical analysis and visualization
+experience with looker, tableau or other business intelligence platform.
+working knowledge of ruby
+
+ 
+we are an equal opportunity employer and value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+apply for this job * = required field
+
+
+
+
+first name *
+
+
+
+
+
+last name *
+
+
+
+
+
+email *
+
+
+
+
+
+phone 
+
+
+
+
+
+resume/cv *
+
+
+
+
+
+cover letter *
+
+
+
+
+
+linkedin profile *
+
+
+
+
+
+website 
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+are you a robot?
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+© 2017 coinbase
+
+
+products
+
+buy/sell digital currency
+gdax
+developer platform
+merchant tools
+
+
+
+learn
+
+buy bitcoin
+buy ethereum
+buy litecoin
+supported countries
+status
+
+
+
+company
+
+about
+careers
+press
+
+
+legal & privacy
+
+
+user agreement
+privacy policy
+licenses & disclosures
+
+
+support
+
+
+
+social
+
+blog
+twitter
+facebook
+
+
+
+
+language
+deutsch
+english
+english - united states
+español
+español - méjico
+français
+bahasa indonesia
+italiano
+nederlands
+português
+português - brazil
+
+
+
+
+
+
+
+
+
+
+
+
+

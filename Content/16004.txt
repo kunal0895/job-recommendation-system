@@ -1,0 +1,362 @@
+
+
+
+i-ology - careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i•ology
+
+
+twitter
+facebook
+linkedin
+instagram
+
+menu
+
+
+ 
+
+
+expertise
+work
+people
+about 
+careers
+news
+blog
+contact
+
+480.850.2800
+
+
+twitter
+facebook
+linkedin
+instagram
+
+
+
+stay up-to-date with the latest news from i-ology. sign up for our enewsletter below:
+
+
+
+
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+ 
+
+
+
+cr careers
+[kǝˈrir] | plural nounan occupation or profession, especially one requiring special training, passion and teamwork. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the elements of our unique culture
+
+we are a family.
+we authentically care about our team members and their quality of life.
+
+we work hard and have fun.
+we hire grown ups, therefore we are a flat organization with no management layers.
+we can count on one another to get the job done while having control over our own schedules.
+we have high expectations but respect work/life balance.
+
+
+
+ 
+
+
+who we are looking for
+
+
+
+
+
+front-end developer 
+
+job description:
+we are looking for a strong front-end software developer to be a part of a lean, agile team that builds and implements technology solutions for mobile devices and the web. this position requires proven talent and experience in developing cross-platform web-based applications, critical thinking skills, a high attention to detail, excellent communication skills, and the ability to work collaboratively and autonomously in a small, close-knit team.
+who you are:
+you have a passion and rigor for programming. you enjoy creating technical solutions that are best-in-class and help transform the way that our clients do business.
+day-to-day responsibilities:
+
+implement features with javascript, html & css
+work in modern web frameworks including angularjs (1.x) and vuejs (2.x)
+identify, reproduce, document and fix bugs
+produce technical and process documentation
+
+qualifications:
+
+have 2+ years experience working as a front-end developer, preferably with agency experience
+have knowledge of all aspects of web application development (html, css, js)
+have a love of learning and are continuously working to improve your craft
+have experience with modern javascript development (es6, react, angular, etc)
+care about code quality and maintainability
+value feedback and constantly working on being a considerate and thoughtful team member
+excited by the idea of making a big impact across many projects across varied fields
+not afraid to ask questions when you don't know the answer
+
+if you are interested in applying for this position please send your resume to: careers@i-ology.com
+
+ 
+
+
+software developer 
+
+job description:
+we are looking for a software developer to be a part of a lean, agile team that builds and implements technology solutions for mobile devices and the web. this position requires proven talent and experience in developing cross-platform web-based applications, critical thinking skills, a high attention to detail, excellent communication skills, and the ability to work collaboratively and autonomously in a small, close-knit team.
+who you are:
+you are part expert and part generalist with a solid understanding of development standards and best practices, that enjoys solving technical problems through the use of client/server-side languages and frameworks. you stay apprised of the latest technology trends, and you are thoughtful and diligent in your software development solutions.  you have a working knowledge of popular javascript frameworks like jquery, angular and nodejs, and have experience with webapi, soap, json, xml, and wcf.
+day-to-day responsibilities:
+
+architect, develop and deliver clean web solutions that adhere to industry recognized best practices using asp.net/c#
+utilize agile software development methodologies and principles
+work with source control (git / svn) and bug tracking systems
+communicate complex technical concepts to both technical and non-technical audiences
+utilize computer science fundamentals including data structures, algorithm design, problem solving and complexity analysis
+write advanced utility classes and libraries
+implement ms sql database design and deployment for enterprise solutions
+
+qualifications:
+
+3+ years or proven success in architecting, developing and delivering clean web solutions that adhere to industry recognized best practices using asp.net/c#
+a solid understanding of oop and design principles
+the ability to communicate complex technical concepts to both technical and non-technical audiences
+ba/bs in computer science, or equivalent work experience
+experience working with umbraco or orchard cms
+mobile application development/framework experience (objective-c, java, xamarin, cordova)
+experience with windows server and ms sql administration
+a plus if you have mcsd certificatione
+a plus if you have prior agency or consulting experience
+
+if you are interested in applying for this position please send your resume to: careers@i-ology.com. senior level position may be available for qualified candidates.
+
+ 
+
+
+business analyst 
+
+
+job description:
+the business analyst is responsible for defining, analyzing and documenting all project requirements. this person will work with the design and development team to craft and document the detailed technical solutions that will serve specific business needs for our clients. he or she will develop and prioritize user stories to maximize the value of products and optimize work for the development team. the business analyst will design test cases, and ensure that each documented requirement is completed and tested successfully.
+core functions
+
+document business, functional and technical requirements
+translate requirements for clients and confirm client approval on documentation
+communicate requirements to internal team and ensure that client and team are updated as requirements change and evolve
+
+day-to-day responsibilities
+
+demonstrate excellent written and verbal communication skills internally and externally
+collaborate with clients and internal teams to document use cases, business processes, and functional requirements at the project and product level
+translate use cases, functional requirements, and process flows into specific, tangible, prioritized system changes and acceptance criteria to be approved by clients
+identify risks/gaps in requirements and communicate internally and with client on resolutions and mitigations
+facilitate user acceptance testing (uat)
+develop user training documentation
+complete requirements and quality assurance traceability matrix to ensure that deliverables fulfill all requirements
+
+qualifications
+
+minimum of five years in software development and technology
+hipaa experience a plus
+associate or bachelor’s degree a plus
+multi-client, multi-project experience a plus
+
+if you are interested in applying for this position please send your resume to: careers@i-ology.com
+
+ 
+
+
+ux designer 
+
+
+job description:
+we are looking for a ux designer with an artistic eye who has experience in research, discovery, conceptualization, and design prototyping. this position requires proven talent and ability with interface and experience design, a high attention to detail, excellent communication skills, and the ability to work collaboratively and autonomously in a small, close-knit team. strong skills in information architecture and visual, interaction design are important to this position.
+who you are:
+you are the missing link between the developers and the users of the solutions we create. you possess an intellectual understanding for the way a product should work and an understanding of how users want to view and interact with software. you are a champion for technology, deeply committed to ensuring that the work we produce is usable, intuitive and intelligent. you can solve business problems that arise using design thinking. you have an exceptional understanding of end to end digital delivery and can interact internally and externally with clients. experience in a multi-client environment is a tremendous plus. most importantly, you have a great attitude and drive and enjoy helping clients succeed!
+day-to-day responsibilities:
+
+create highly detailed interface and experience designs. experience using tools like photoshop and illustrator is essential
+understand and execute responsive design techniques and theories
+analyze business requirements and user stories to design user/process flow diagrams, sketches, wireframes, click-through demos, and prototypes
+stay up-to-date with trends and developments in design and technology
+design and build social media and email marketing campaigns
+
+qualifications:
+
+a solid understanding of user-centered design, web standards, mobile standards, usability, and accessibility
+ba/bs/bfa in a hci or design-related field, or equivalent work experience
+a portfolio showcasing multiple projects, clients, and the thought process/approach to each example
+excellent written and verbal communication skills to present work to the team and clients
+
+if you are interested in applying for this position please send your resume to: careers@i-ology.com or email adetzer@i-ology.com directly!
+
+ 
+
+
+software development qa analyst 
+
+
+job description:
+we are looking for a software development qa analyst for our web and mobile application projects for planning, oversight, and manual and automated test creation and execution. the person in this role has experience with owning an effort and driving it through to completion in an agile environment. the software development qa analyst is responsible for creating an end-to-end test plan, executing the plan and managing all activities in the plan to ensure that all the objectives are met and that the solution works as expected.
+who you are:
+you are a true problem solver and tester at heart.  you thrive in a fast-paced, multi-client, multi-project environment. you are passionate about developing test plans, test cases, test scripts and test reports on multiple projects of varying size. you are knowledgeable of all phases of the software development life cycle.
+day-to-day responsibilities:
+
+review and create test matrices to business and functional requirements
+develop test plans and test cases
+create and maintain regression test scripts for all applications
+identify risks and devise a proper mitigation plan, when necessary
+communicate status and manage timelines while hands-on in test execution
+direct work of additional qa, if needed
+create and facilitate uat test scripts and testing
+create and maintain bug tracking for multiple products and projects
+
+
+
+qualifications:
+
+education: high school or equivalent
+qa experience: 5+ years
+manual end-to-end test script creation and execution (bonus points for automation)
+experience testing on various web browsers and mobile devices, as well as utilization of emulation tools
+working with defect-tracking applications; especially jira
+comfortable with ownership of multiple projects
+facilitation and documentation of uat
+scripting experience
+
+if you are interested in applying for this position please send your resume to: careers@i-ology.com
+
+
+ 
+
+
+
+
+
+
+
+what we are looking for
+
+future owners. every person, regardless of role, has the opportunity to make partner and become an owner.
+people who can self-direct and are willing to take ownership for achieving performance metrics.
+people who have a passion for the work and who can also be committed to organizational success.
+people who are less worried about titles and more worried about doing great things for great customers.
+people who are looking for a long-term business opportunity that provides great long-term rewards.
+
+ 
+don't see a current opportunity that matches your skills? get in touch with us if our passion and culture resonates with you, we’d love to hear from you: careers@i-ology.com
+
+
+
+
+
+
+
+
+
+we don't take on projects, we transform organizations.
+view our work
+about us
+
+
+ 
+
+
+about i-ology
+at i-ology we develop, deploy, and deliver high quality interactive solutions that evolve our clients' businesses. established in 1998, we are a company centered around a small, collaborative, and entrepreneurial team that is committed to personal and technical evolution in the work we do.
+about us
+
+
+recent news
+
+
+i-ology ranks 3rd in the best of arizona business - ranking arizona 2017
+
+
+i-ology and mutual insurance company of arizona launch new website and digital marketing campaign
+
+
+i-ology walks with heart!
+
+
+news
+
+
+contact us
+ 16767 n perimeter dr, ste. 230 scottsdale, az 85260
+ (480) 850-2800
+ info@i-ology.com
+
+twitter
+facebook
+linkedin
+instagram
+
+
+
+
+© 2017 i-ology, inc. all rights reserved. privacy policy
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

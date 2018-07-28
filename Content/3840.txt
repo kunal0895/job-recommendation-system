@@ -1,0 +1,142 @@
+
+
+
+
+logic20/20 careers - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    logic20/20 careers                                            
+
+
+
+
+
+
+
+                data scientist
+    
+    
+
+                            technology consulting             
+                    seattle,
+                            washington
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+data scientist   seattle, walogic20/20 is one of seattle’s fastest growing full service consulting firms. our core competency is creating simplicity and efficiency where business and technology consulting intersect.do you want the opportunity to drive innovation at the heart of a sophisticated, data-rich organization?are you willing to actively develop statistical models, down to writing the algorithm if necessary?this requires an in-depth understanding of statistics, as well as basic programming and data management skills. success will require strong statistical problem-solving skills and the ability to leverage cutting-edge big data technologies.as a data scientist, a typical day might include the following:building a simulation engine from scratch using the mean stack and rapid miner to support teams of analysts working on many different global infectious diseasescreating a tool to predict student drop-out risk using r and millions of snapshots of student activity to allow teachers to intervene quickly and effectivelyusing r, creating models of customer satisfaction that provide detailed insight into what causes a customer to leave.integrating online shopping channels to create a unified forecast of customer purchasing, then building a data visualization in power bi on top of a sql pipeline for aggregating data.collaborating with other data scientists and stakeholders on projects.you’re good at:researching and designing statistical models to answer target questions, optimizing processes and outcomes, and informed decision-makingdeveloping solutions in r or pythonworking in hadoop, redshift, or sparktranslating business and product questions into analytics projectscommunicating clearly over written and oral channels while translating complex methodologies and analytical results into high-level insights you have:5+ years of experience in analyzing complex data sets with experience in advanced analytics practicesexperience working with unstructured big data (e.g. hadoop)experience with high-velocity data such (e.g. click-streams)understanding of data warehousing principlesyou may also have:experience in marketing analytics, attribution modeling, or click-stream data analysisms / phd in machine learning, statistics, computer science, data mining, math or any quantitative discipline
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

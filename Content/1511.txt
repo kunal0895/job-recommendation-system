@@ -1,0 +1,1719 @@
+
+
+
+
+
+business intelligence data scientist description at chipotle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+restaurant
+"corporate"
+career path
+benefits
+blog
+search jobs
+get job alerts
+
+
+en español
+
+
+
+skip navigation
+
+
+careers
+
+
+
+
+
+
+
+
+
+business intelligence data scientist
+denver, colorado
+ 9999 - wynkoop-(09999) - 1401 wynkoop street, denver 80202
+apply now
+
+            
+            business intelligence data scientist (17030694)descriptionposition summary:chipotle is looking for innovative, experienced, and highly trained data scientist passionate about moving our company to the next level of being data driven and advancing our purpose. the data scientist will drive internal data analytics projects serving all areas of the company. investigations will vary from short preliminary explorations to deeper, longer-term studies.at chipotle, you’ll have the opportunity to work side by side with talented, motivated, and intellectually stimulating colleagues who thrive on helping chipotle solve our most pressing business opportunities.responsibilities:•build the next level of data science capability at chipotle from hardware and software to best practices to hands on deep diving analysis and models.•analyze existing data to generate insights for internal (marketing, product, coaching ops, member ops, sales) audiences.•partner with internal customers to define experimental questions and scope for each analytics investigation.•own top-notch, first-in-class computational science projects studying internal data from start to finish.•perform exploratory and targeted data analyses using descriptive statistics and other methods•translate data analytics outcomes into clear visualizations understandable to laymen.•report on analytics findings to senior leadership to inform key business decisions.•solve challenging analytical problems, which requires working with large and complex data sets and applying analytical methods including machine learning and statistical approaches as needed.•end-to-end analysis including data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.•prototype and build analytical pipelines using various data sources to provide insights at scale.•interact cross-functionally with a wide variety of teams and work closely with them to identify opportunities to improve on platform.•developing analytical solutions, forecasting, and optimization methods to improve the quality of user experience. areas include search quality, product recommendation, end-user behavioral modeling, user engagement, pricing, etc.•make business recommendations (e.g. cost-benefit, forecasting, experiment analysis) based on rigorous analysis.•work alongside software developers, software engineers and data engineers to translate algorithms into viable solutionsqualifications:•hold an advanced scientific degree (cs, engineering, or [applied] mathematics), including training in statistical analysis and experimental design.  skilled in critically thinking through a research question, optimal methodologies, and clear operationalization’s of hypotheses.•expertise and hands on experience with statistical modeling and machine learning software (python, r, etc.)•advanced knowledge of database query languages (sql) and an understanding of relational algebra and set theory•comfort with common applied ml strategies and ensemble methodologies (e.g. train/test/validation sets, feature engineering, accuracy assessment). •experience building simple backend data infrastructure/pipelines. know how to connect the dots between data sources (e.g. saas or other apis), etl/storage solutions (better if you’ve built these yourself), analysis environments (e.g. r or python scripting), and (preferred but not required) front-end reporting (e.g. dashboards, apps).•strong knowledge of a variety of persistence layers, e.g. sql (ms, oracle), nosql (mongodb, neo4j), both on-prem, cloud, elastic or otherwise.•passionate about storytelling with data. ability to port analytics outcomes into interactive- or presentation-based media (e.g. d3, shiny, powerpoint/keynote). •understand technical basics of data visualization and common pitfalls. ability to make clean, elegant, informative graphs (knowledge of ggplot2 visualization package).•exceptional written and verbal communication skills. ability to present data science findings to sizable audiences of laymen and specialists alike. •outstanding leadership and organizational skills.•ability to work collaboratively as part of a fast-paced, customer oriented team•desire to use or create standards, consider reusability, and have a long-term view while understanding short-term needs•self-starter who provides ideas and solutions and understands various approaches within the bi discipline•restaurant or retail industry experience (nice-to-have)primary location: colorado - denver - 9999 - wynkoop-(09999)work location:9999 - wynkoop-(09999)1401 wynkoop streetdenver 80202
+
+job: accounting and finance
+job posting: nov. 30, 2017
+job number: 17030694
+
+apply now
+
+
+
+
+
+
+
+share this job
+
+email
+facebook
+linkedin
+twitter
+google+
+
+
+
+
+explore this location
+
+
+
+didn't find what you were looking for? try searching again.
+
+related jobs
+
+
+business intelligence architect
+denver, colorado
+
+
+sr. business intelligence project manager
+denver, colorado
+
+
+bi technical business analyst
+denver, colorado
+
+
+
+
+
+didn't find what you were looking for? try searching again.
+
+
+search jobs
+
+category
+select category
+accounting and finance
+area manager
+event
+facilities
+human resources
+information technology
+legal
+marketing
+quality assurance
+restaurant crew
+restaurant management
+training
+
+
+
+country
+select country
+canada
+united states
+
+
+
+state
+select state
+alabama
+arizona
+arkansas
+british columbia
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+ontario
+oregon
+pennsylvania
+rhode island
+south carolina
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+washington, d.c.
+west virginia
+wisconsin
+wyoming
+
+
+
+city
+select city
+abilene
+abington township
+addison
+addison
+adrian
+aiken
+akron
+alameda
+albany
+albany
+albuquerque
+alexandria
+algonquin
+allen
+allen park
+allentown
+alliance
+alpharetta
+altamonte springs
+altoona
+amarillo
+amelia
+american fork
+ames
+amherst
+amherst
+anaheim
+anderson
+ankeny
+ann arbor
+annapolis
+apex
+apopka
+apple valley
+apple valley
+appleton
+arcadia
+ardmore
+arlington
+arlington
+arlington heights
+arroyo grande
+arvada
+ashburn
+asheville
+ashland
+ashwaubenon
+aspen hill
+athens
+athens
+atlanta
+attleboro
+auburn
+auburn
+augusta
+aurora
+aurora
+aurora
+austin
+austintown
+aventura
+avon
+avon
+avondale
+azusa
+bakersfield
+baldwin hills
+baldwin park
+baltimore
+bangor
+barboursville
+barstow
+basking ridge
+baton rouge
+baytown
+beaumont
+beavercreek
+beaverton
+bedford
+bedford
+bedford
+bel air
+bell gardens
+bellevue
+bellevue
+bellingham
+belton
+bend
+bentonville
+berkeley
+berwyn
+bethesda
+beverly
+beverly hills
+bexley
+billerica
+billings metropolitan area
+birmingham
+blacksburg
+blaine
+bloomfield
+bloomfield hills
+bloomingdale
+bloomington
+bloomington
+bloomington
+blue springs
+bluffton
+boardman
+boca raton
+boise
+bolingbrook
+boone
+bossier city
+boston
+boulder
+bourbonnais
+bowie
+bowling green
+bowling green
+boynton beach
+bozeman
+bradenton
+braintree
+brandon
+branford
+brea
+brecksville
+brentwood
+brentwood
+bridgeport
+bridgeton
+bridgeview
+bridgeville
+bridgewater
+brighton
+brighton
+bristow
+brockton
+brookfield
+brookline
+brooklyn
+brooklyn center
+brooklyn park
+brooksville
+brunswick
+buckeye
+buellton
+buena park
+buffalo
+buford
+burbank
+burke
+burlington
+burlington
+burlington
+burlington
+burnaby
+burnsville
+calabasas
+camarillo
+cambridge
+camp hill
+campbell
+canal winchester
+canfield
+canoga park
+canonsburg
+canton
+canton
+canton
+canton
+cape coral
+capitol heights
+capitola
+carle place
+carlisle
+carlsbad
+carmel
+carson
+carson city
+cary
+casa grande
+casper
+casselberry
+castle rock
+castro valley
+cedar hill
+cedar park
+cedar rapids
+centennial
+centerville
+central valley
+centreville
+cerritos
+chambersburg
+chamblee
+champaign
+champlin
+chandler
+chanhassen
+chantilly
+chapel hill
+charleston
+charleston
+charlotte
+charlottesville
+cheektowaga
+chelmsford
+cherry hill
+chesapeake
+chester
+chesterfield
+chevy chase
+cheyenne
+chicago
+chico
+chicopee
+chillicothe
+chino
+chino hills
+chubbuck
+chula vista
+cicero
+cincinnati
+cinnaminson
+circleville
+citrus heights
+city of industry
+clark
+clarksville
+clayton
+clearwater
+clemson
+clermont
+cleveland
+cleveland heights
+clifton
+clifton park
+clinton
+closter
+clovis
+clovis
+coeur d'alene
+college park
+college station
+colma
+colonial heights
+colorado springs
+columbia
+columbia
+columbia
+columbia heights
+columbus
+columbus
+columbus
+commerce
+commerce city
+compton
+concord
+concord
+concord
+conroe
+conway
+conyers
+coon rapids
+coppell
+copperas cove
+coral springs
+cordova
+corona
+corpus christi
+corvallis
+costa mesa
+cottage grove
+cottonwood heights
+countryside
+covington
+cranberry township
+cranston
+crescent springs
+crestwood
+creve coeur
+crystal
+crystal lake
+culpeper
+culver city
+cumming
+cupertino
+cutler bay
+cuyahoga falls
+cypress
+cypress
+dallas
+daly city
+damascus
+danbury
+dania beach
+danville
+danville
+darien
+davenport
+davie
+davis
+dayton
+daytona beach
+decatur
+dedham
+deer park
+deer park
+deerfield
+deerfield beach
+dekalb
+del mar
+delaware
+delray beach
+denton
+denver
+derby
+des moines
+des peres
+destin
+diamond bar
+dickson city
+district heights
+dobbs ferry
+doral
+dover
+downers grove
+downey
+doylestown
+dresher
+dublin
+dublin
+dubuque
+duluth
+duluth
+durham
+eagan
+east brunswick
+east hanover
+east lansing
+east liberty
+east meadow
+east peoria
+east point
+east rutherford
+easton
+easton
+eatontown
+eau claire
+eden prairie
+edgewater
+edgewater
+edina
+edinburg
+edison
+edmond
+effingham
+el cajon
+el cerrito
+el monte
+el paso
+el segundo
+elk grove
+elk grove village
+elk river
+ellicott city
+ellisville
+elmhurst
+elyria
+encinitas
+encino
+enfield
+englewood
+englewood
+ennis
+erie
+erlanger
+escondido
+estero
+euclid
+eugene
+euless
+evanston
+evansville
+evendale
+everett
+exton
+fair oaks
+fairfax
+fairfax
+fairfield
+fairfield
+fairfield
+fairview heights
+fairview park
+fallbrook
+falls church
+fargo
+farmingdale
+farmington
+farmington
+fayetteville
+fayetteville
+federal heights
+federal way
+findlay
+flagstaff
+flint
+florence
+florence
+florissant
+flower mound
+folsom
+fontana
+foothill ranch
+forest acres west
+fort bliss
+fort collins
+fort hood
+fort lauderdale
+fort lee
+fort myers
+fort wayne
+fort worth
+fountain valley
+framingham
+frankfort
+franklin
+franklin
+franklin park
+frederick
+fredericksburg
+fremont
+fresno
+frisco
+fullerton
+fulton
+fuquay-varina
+gahanna
+gainesville
+gainesville
+gainesville
+gaithersburg
+gambrills
+garden city
+garden grove
+gardena
+garfield heights
+garland
+garner
+gastonia
+geneva
+georgetown
+germantown
+gilbert
+gilroy
+glastonbury
+glen allen
+glen ellyn
+glen mills
+glendale
+glendale
+glendora
+glenview
+golden valley
+goldsboro
+goleta
+gonzales
+goodyear
+granada hills
+granbury
+grand junction
+grand prairie
+grandview
+grandview heights
+grandville
+grapevine
+great neck
+greeley
+greenacres city
+greenbelt
+greensboro
+greensburg
+greenville
+greenville
+greenville
+greenwich
+greenwood village
+gresham
+grove city
+gurnee
+hackensack
+hadley
+hagerstown
+hales corners
+hamden
+hamilton
+hampton
+hanford
+hanover
+hanover
+happy valley
+harahan
+harker heights
+harlingen
+harrisburg
+harrison
+harrisonburg
+hastings
+hauppauge
+havertown
+hawthorne
+heath
+hemet
+henderson
+hermitage
+hermosa beach
+herndon
+hershey
+hesperia
+hialeah
+hickory
+hicksville
+high point
+highland
+highland heights
+highland heights
+highland park
+highlands ranch
+hilliard
+hillsboro
+hingham
+hoboken
+hoffman estates
+holland
+holland
+hollywood
+holmdel township
+holyoke
+homer glen
+homestead
+homewood
+hoover
+hopkins
+houma
+houston
+howell township
+huber heights
+hudson
+hudson
+humble
+hunt valley
+huntersville
+huntington
+huntington beach
+huntington station
+huntsville
+huntsville
+hurst
+hyannis
+hyattsville
+independence
+independence
+indiana
+indianapolis
+inglewood
+iowa city
+irondequoit
+irvine
+irving
+issaquah
+ithaca
+jacksonville
+jacksonville
+jacksonville beach
+janesville
+jefferson city
+jeffersonville
+jersey city
+johnston
+joliet
+joplin
+jupiter
+kalamazoo
+kansas city
+kansas city
+katy
+kearny
+keene
+keizer
+kennesaw
+kennewick
+kensington
+kent
+kent
+kentwood
+kernersville
+kettering
+kildeer
+king of prussia
+kingman
+kingston
+kirkwood
+kissimmee
+knoxville
+kokomo
+la cañada flintridge
+la grange
+la habra
+la jolla
+la mesa
+la plata
+la quinta
+la verne
+lacey
+lafayette
+lafayette
+lafayette
+lafayette
+laguna niguel
+lake bluff
+lake forest
+lake grove
+lake havasu city
+lake mary
+lake orion
+lake oswego
+lake worth
+lake worth
+lakeland
+lakewood
+lakewood
+lakewood
+lakewood
+lancaster
+lancaster
+lancaster
+lanham
+lansing
+laredo
+largo
+las cruces
+las vegas
+latham
+lauderhill
+laurel
+laveen
+lawrence
+lawrence
+lawrenceville
+layton
+leawood
+lebanon
+lebec
+lee's summit
+leesburg
+lehi
+lenexa
+levittown
+lewisburg
+lewisville
+lexington
+lexington park
+libertyville
+lima
+lincoln
+lincolnshire
+lincolnwood
+linthicum heights
+little rock
+littleton
+livermore
+liverpool
+lodi
+lodi
+lompoc
+london
+lone tree
+long beach
+longmont
+longview
+lorton
+los angeles
+los gatos
+louisville
+louisville
+loveland
+loveland
+lubbock
+lufkin
+lutherville-timonium
+lynchburg
+lyndhurst
+lynnwood
+macedonia
+machesney park
+macon
+madera
+madison
+madison
+madison heights
+malibu
+malvern
+manassas
+manchester
+manchester
+mandeville
+manhattan
+mankato
+mansfield
+mansfield
+mansfield
+manteca
+maple grove
+maplewood
+marana
+maricopa
+marietta
+marina
+marina del rey
+marion
+marlborough
+marlton
+martinez
+martinsburg
+marysville
+marysville
+mason
+massillon
+matteson
+matthews
+maumee
+mayfield heights
+mays landing
+mcallen
+mcdonough
+mchenry
+mckinney
+mclean
+mechanicsburg
+medford
+medford
+medina
+melbourne
+melrose park
+memphis
+menifee
+menomonee falls
+mentor
+merced
+meridian
+merrick
+merrillville
+mesa
+mesquite
+metairie
+methuen
+miami
+miami lakes
+miamisburg
+michigan city
+middleburg heights
+middletown
+middletown
+middletown
+midland
+midlothian
+milford
+milford
+millbrae
+milpitas
+milwaukee
+mineola
+minneapolis
+minnetonka
+mira loma
+miramar
+mishawaka
+mission
+mission hills
+mission viejo
+mississauga
+missoula
+missouri city
+mobile
+modesto
+mokena
+moline
+monroe
+monroeville
+monrovia
+montclair
+montebello
+monterey
+monterey park
+montgomery
+montvale
+moore
+moorestown township
+mooresville
+morgan hill
+morgantown
+morris plains
+morrisville
+morrow
+mount airy
+mount laurel
+mount pleasant
+mount pleasant
+mount prospect
+mount vernon
+mountain view
+mt. dora
+mt. pleasant
+munster
+murfreesboro
+murphy
+murray
+murrieta
+myrtle beach
+nacogdoches
+nampa
+napa
+naperville
+naples
+nashua
+nashville
+national city
+new bern
+new braunfels
+new brunswick
+new carrollton
+new hartford
+new haven
+new hyde park
+new philadelphia
+new providence
+new york
+newark
+newark
+newark
+newark
+newington
+newington
+newport
+newport beach
+newport news
+newton
+newtown square
+niagara falls
+niles
+noblesville
+norco
+norcross
+norfolk
+normal
+norman
+norridge
+north andover
+north augusta
+north brunswick
+north charleston
+north dartmouth
+north hollywood
+north las vegas
+north myrtle beach
+north olmsted
+north port
+north richland hills
+north ridgeville
+north wales
+northbrook
+northridge
+northville
+norwood
+norwood
+novato
+novi
+oak brook
+oak lawn
+oak park
+oak park heights
+oak ridge
+oakbrook terrace
+oakland
+oakton
+oakville
+ocala
+ocean city
+oceanside
+oceanside
+ocoee
+odessa
+oklahoma city
+olathe
+olney
+olympia
+omaha
+ontario
+opelika
+orange
+orem
+orland park
+orlando
+ormond beach
+oro valley
+oswego
+ottawa
+overland park
+oviedo
+owings mills
+oxford
+oxford
+oxnard
+oxon hill
+pacific palisades
+palatine
+palm beach gardens
+palm desert
+palm harbor
+palm springs
+palmdale
+palo alto
+panama city beach
+panorama city
+papillion
+paramount
+paramus
+park ridge
+parker
+parkville
+parma
+parsippany
+pasadena
+pasadena
+paso robles
+patchogue
+peabody
+pearland
+pelham manor
+pembroke pines
+peoria
+peoria
+perris
+perrysburg
+petaluma
+pflugerville
+pharr
+philadelphia
+phoenix
+pickerington
+pico rivera
+pikesville
+pinecrest
+pinellas park
+pineville
+pinole
+pittsburg
+pittsburgh
+placerville
+plainfield
+plainfield
+plano
+plantation
+plattsburgh
+pleasant hill
+pleasant prairie
+plymouth
+plymouth meeting
+pompano beach
+pooler
+port arthur
+port orange
+port richey
+port saint lucie
+portage
+portage
+portland
+portland
+potomac
+poughkeepsie
+poway
+powell
+prairie village
+prattville
+prescott
+prescott valley
+prince frederick
+princeton
+providence
+pueblo
+puyallup
+queen creek
+queensbury
+quincy
+raleigh
+ramsey
+rancho cordova
+rancho cucamonga
+rancho mirage
+rancho santa margarita
+randolph
+raynham
+raytown
+reading
+reading
+red bank
+redding
+redlands
+redmond
+redondo beach
+redwood city
+rehoboth beach
+reno
+renton
+reston
+reynoldsburg
+rialto
+richardson
+richfield
+richmond
+richmond
+richmond heights
+riverbank
+riverdale
+riverhead
+riverside
+riverside
+roanoke
+rochester
+rochester
+rochester hills
+rockaway
+rockford
+rocklin
+rockville
+rockwall
+rogers
+rohnert park
+rolling hills estates
+rolling meadows
+romeoville
+rosedale
+rosemead
+rosemont
+rosemount
+roseville
+roseville
+roseville
+rosslyn
+roswell
+round lake beach
+round rock
+rowlett
+royal oak
+rye brook
+sacramento
+saginaw
+saint augustine beach
+saint charles
+saint clairsville
+saint cloud
+saint cloud
+saint george
+saint louis park
+saint paul
+salem
+salinas
+salisbury
+salisbury
+salt lake city
+sammamish
+san antonio
+san bernardino
+san bruno
+san carlos
+san clemente
+san diego
+san fernando
+san francisco
+san jose
+san leandro
+san luis obispo
+san marcos
+san marcos
+san mateo
+san pedro
+san rafael
+san ramon
+sand city
+sandusky
+sandy
+sandy springs
+sanford
+santa ana
+santa barbara
+santa clara
+santa clarita
+santa cruz
+santa maria
+santa monica
+santa rosa
+santee
+sarasota
+saratoga springs
+saugus
+savannah
+scarborough
+schaumburg
+schenectady
+scottsdale
+sea girt
+seal beach
+seattle
+secaucus
+sedona
+seekonk
+selden
+selma
+selma
+seminole
+severna park
+sevierville
+shakopee
+sharonville
+shawnee
+shelton
+sherman
+sherman oaks
+sherwood
+shoreview
+shorewood hills
+shreveport
+shrewsbury
+shrewsbury
+sicklerville
+sidney
+sierra vista
+signal hill
+silver spring
+silverdale
+silverthorne
+simi valley
+sioux city
+skokie
+slidell
+smithfield
+smithfield
+smyrna
+snellville
+solon
+somerville
+south bend
+south elgin
+south euclid
+south gate
+south plainfield
+south portland
+southfield
+southlake
+sparks
+spartanburg
+speedway
+spokane
+spring
+springboro
+springdale
+springfield
+springfield
+springfield
+springfield
+springfield
+springfield
+springfield
+st louis
+st. augustine
+st. joseph
+st. petersburg
+stafford
+state college
+sterling
+sterling heights
+stillwater
+stockton
+stow
+streetsboro
+strongsville
+stuart
+studio city
+suffolk
+sugar land
+summerville
+sunnyvale
+sunrise
+surprise
+surrey
+suwanee
+swampscott
+sykesville
+syosset
+syracuse
+tacoma
+tallahassee
+tampa
+temecula
+tempe
+temple
+terrell
+teterboro
+texarkana
+the woodlands
+thornton
+thousand oaks
+tiffin
+tinley park
+toledo
+tomball
+toms river
+tonawanda
+topeka
+toronto
+torrance
+township of langley
+towson
+tracy
+trevose
+troy
+troy
+tualatin
+tucker
+tucson
+tukwila
+tulare
+tulsa
+turlock
+tuscaloosa
+tustin
+twin falls
+twinsburg
+tyler
+ukiah
+union city
+uniondale
+upland
+upper marlboro
+vacaville
+vadnais heights
+valencia
+vallejo
+valley stream
+valparaiso
+van nuys
+vancouver
+vancouver
+vaughan
+ventura
+vernon hills
+vero beach
+vestal
+vestavia hills
+victor
+victoria
+vienna
+villa park
+virginia beach
+visalia
+vista
+voorhees township
+waco
+wadsworth
+waldorf
+wallingford
+walnut creek
+walnut park
+waltham
+wantagh
+warminster
+warner robins
+warren
+warren
+warrensburg
+warrensville heights
+warrenton
+warrenville
+warrington
+warwick
+washington
+watauga
+watchung
+waterloo
+watertown
+watertown
+waukegan
+wauwatosa
+waxahachie
+wayne
+wayne
+wayzata
+weatherford
+webster
+webster
+wellington
+weslaco
+west bloomfield
+west bountiful
+west caldwell
+west chester
+west chester
+west covina
+west des moines
+west dundee
+west hartford
+west haven
+west lafayette
+west nyack
+west orange
+west palm beach
+west sacramento
+west saint paul
+west springfield
+west springfield
+west vancouver
+westborough
+westbrook
+westerville
+westfield
+westford
+westlake
+westlake village
+westminster
+westminster
+westminster
+westmont
+weston
+westport
+westwood
+wethersfield
+wexford
+wheat ridge
+wheaton
+wheaton
+wheeling
+white plains
+whitehall
+whitehall
+whittier
+wichita
+wichita falls
+wilkes barre
+williamsburg
+williamsville
+willoughby
+willow grove
+willowbrook
+wilmington
+wilmington
+wilsonville
+winchester
+windermere
+windsor mill
+winston-salem
+winter garden
+winter haven
+winter park
+winter springs
+winterville
+woburn
+woodbridge
+woodburn
+woodbury
+woodhaven
+woodinville
+woodland hills
+woodmere
+wooster
+xenia
+yakima
+yonkers
+york
+yuba city
+yuma
+zanesville
+
+
+
+- or -
+keyword
+
+
+
+search
+
+
+
+
+
+
+
+
+trending
+
+
+
+  
+
+
+nail your (video) interview
+
+
+
+
+
+  
+
+
+meet our accounting team
+
+
+
+
+
+  
+
+
+celebrating our employees
+
+
+
+
+
+
+
+
+
+
+get job alerts
+first namelast namezip/postal codeemail addresslet us know what you are interested in.select a job category from the list of options. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.select categoryselect a job categoryaccounting and financearea managereventfacilitieshuman resourcesinformation technologylegalmarketingquality assurancerestaurant crewrestaurant managementtraininglocationaddaccounting and finance, denver, colorado, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+by submitting this form, you are agreeing to our privacy agreement. 
+
+
+linkedin job matching
+let us search jobs for you based on your skills and experience listed in your linkedin profile.
+search with your linkedin profile
+
+
+
+
+
+
+
+
+get job alerts 
+revisit your application 
+
+
+careers at tasty made
+careers at pizzeria locale
+visit chipotle.com
+
+
+
+
+stay connected
+
+facebook
+twitter
+google+
+linkedin
+youtube
+glassdoor
+
+
+
+
+chipotle around the world
+
+usa
+canada
+france
+germany
+uk
+
+
+
+
+chipotle mexican grill participates in the federal government’s e-verify program. @2015 chipotle, inc. all rights reserved. privacy policy sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+

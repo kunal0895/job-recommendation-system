@@ -1,0 +1,191 @@
+
+
+
+careers | wabtec corporation |software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+job locations
+
+us-tx-dallas/fort worth
+
+
+
+
+
+id
+
+2017-3229
+
+
+functional area
+
+it
+
+
+business unit
+
+regular full-time
+
+
+type
+
+wabtec railways electronics
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+ wabtec railway electronics, a division of the $3b wabtec corporation, is a market leader in the design, manufacture, sale and support of electronic and electromagnetic equipment, software, and systems for the freight rail and passenger transit industries.  our highly engineered products can be found on virtually all us locomotives, freight cars and buses, and on many of these vehicles around the world.  we are committed to providing our customers technology-driven products and services that enable them to achieve the highest levels of safety, quality, and productivity.    the current product family, called “electronic train management system” (etms®) has been selected by all of the class 1 railroads as the basis for meeting the u.s. government interoperable positive train control requirements. tmds® is the product that provides a cost-effective, technologically superior solution gives our customers control over their day to day operations and supports their future growth.  in north america, tmds® is now operating on almost 200 dispatch positions and is on its way to controlling over 60,000 route miles.   currently, we are expanding our engineering team to support continued growth with our products and customers. 
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+develop and support real-time software applications and engineering duties for wabtec railway electronics (wre) a leading supplier of technology based products and services for the rail and transit industries. this position has an opening for a dynamic, result-oriented software engineer with a positive attitude to getting the job done. the individual will be assigned to the bnsf computer aided dispatch (cad) team to support and develop new functionality for the train management dispatching system (tmds) product. the position is located onsite at bnsf in fort worth, tx. analysis, debug and development of software applications on ms windows platform using vb.net/c#.net and microsoft sql serverparticipate in designing, coding, debugging, configuring, and documenting softwareresponsible to track and drive closure of defectswork with a team to develop solutions that meet project requirements within the program schedule/deadlinemake independent technical contributions in support of application development       
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+the candidate needs to have 3-6 years’ experience in production software development and support processes for enterprise-class computer information systemsstrong working experience in application development on .net framework. solid desktop application development, web/windows services (soa) experience and good understanding of microsoft platform.strong technical skills in .net, vb.net, sql server, 2008, 2012, socket programming, multi-threading. good to have wcf web services / wpf experience but not required.strong skills in oop programming, data modeling and database design.a strong understanding of general network design principles including tcp/ip and udp.understand customer detailed requirement specifications.knowledge and experience with microprocessors and common electronic components.high degree of attention to detail.strong debug and troubleshooting skills.team player and works well with others.effective oral communication skills; ability to articulate clearly and concisely.self motivated, quick learner, results-oriented and a clear focus on quality.ability to develop high level of credibility and strong positive relationships with customers, peers and management.college bachelor’s degree or equivalent experience in information systems or computer science      with strong experience in database applications particularly in the microsoft environment.experience and understanding of the operational interworking’s of computer information systems and database management systems used to support complex n—tiered systems.desirable, but not mandatory - knowledge of railroad system operations.in-123
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+all qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, national origin, age, disability, or protected veteran status. wabtec takes affirmative action in support of its policy to and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. vevraa federal contractor
+eeo is the law.
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

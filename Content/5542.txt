@@ -1,0 +1,644 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search careers | about verizon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wireless
+residential
+business
+about verizon
+
+contact us 
+
+
+
+
+
+
+
+
+ 
+
+
+ toggle navigation  
+about verizon
+search results
+job description 
+
+
+
+
+
+
+enter a search term 
+
+
+
+
+
+
+
+
+
+
+our company
+
+who we are
+
+diversity & inclusion
+history & timeline
+
+
+what we do
+wireless network
+broadband & fiber
+video & advertising
+internet of things
+managed security
+innovation programs
+
+
+how we operate
+
+code of conduct
+supplier diversity
+
+supplier faqs
+
+
+public policy & regulatory
+state government affairs
+company policies
+retirees
+
+
+leadership
+
+awards
+
+
+
+responsibility
+
+verizon innovative learning
+
+
+app challenge
+tech immersion
+digitizing schools
+design thinking
+innovative learning labs
+
+
+domestic violence prevention
+
+
+get involved
+grants and partnerships
+faqs
+
+
+sustainability
+
+
+product responsibility
+
+accessibility
+online safety
+cybersecurity
+frauds and scams
+
+
+reporting
+
+corporate responsibility report
+
+
+giving and grants
+
+grant requirements
+
+
+
+
+news
+
+stories
+
+personal tech
+enterprise tech
+community
+people
+
+
+media center
+
+news releases
+media resources
+media contacts
+rss feeds
+
+
+
+
+investors
+
+financial reporting
+
+sec filings
+annual reports
+quarterly earnings
+stock information
+dividend history
+fixed income
+
+
+news & events
+
+investor news
+investor webcasts
+investor calendar
+
+
+corporate governance
+
+board of directors
+
+
+shareowner services
+
+cost basis
+shareowner faqs
+
+
+contact investor relations
+
+
+careers
+
+career areas
+
+stores
+sales
+
+retail sales
+inside sales
+enterprise sales
+b2b sales
+
+
+customer service
+
+call center
+in-store
+
+
+technology
+
+software engineering
+network engineering
+information technology
+research & development
+
+
+corporate
+
+
+working here
+
+what to expect
+our people
+benefits
+
+working parents
+tuition assistance
+
+
+
+
+college students
+
+from campus to career
+internships & co-ops
+entry-level
+leadership development programs
+partnerships
+
+
+military
+
+military skills matcher
+contact a military recruiter
+military faqs
+
+
+locations
+
+we are global
+
+
+events
+
+calendar
+
+
+faqs
+search jobs
+
+search jobs
+
+
+
+
+
+
+
+
+go to
+
+verizon wireless
+verizon business
+verizon residential
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+
+career areas
+
+stores
+sales
+
+retail sales
+inside sales
+enterprise sales
+b2b sales
+
+
+customer service
+
+call center
+in-store
+
+
+technology
+
+software engineering
+network engineering
+information technology
+research & development
+
+
+corporate
+
+
+working here
+
+benefits
+
+working parents
+tuition assistance
+
+
+
+
+college students
+
+
+military
+
+military skills matcher
+contact a military recruiter
+military faqs
+
+
+locations
+
+
+events
+
+
+faqs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+search careers
+irving, tx
+full-time data science & business intell
+principal data scientist - predictive and prescriptive analytics
+
+
+
+principal data scientist - predictive and prescriptive analytics
+this job posting is no longer active
+
+
+irving, tx, united states
+
+
+
+
+full-time data science & business intell
+job # 471888
+date posted - 2017-11-22
+
+
+
+
+
+
+
+what you’ll be doing...  as a data scientist on the ann/nbo team, you will work within the ann machine learning and decisioning platform to develop models and algorithms that predict or prescribe outcomes of and for customer interactions.your role will be multi-faceted. in addition to model development, you will take an active role in making assessments and recommendations on current and future technology, and helping to set the platform architecture vision and roadmap.you will work with domain experts to understand data sources and complete feature engineering. you will then perform data munging, and create training data sets, finally designing and executing experiments with the training data sets to determine the best models to apply, and performing cross validation to test the efficiency of the resulting algorithms.when algorithms reach adequate efficiency thresholds, you will assist in implementing them into the ann real time decision engine for run-time scoring, (nbo) pega decision hub, or ingestion into the ann real time customer insights model store for batch scoring of customers.the key to your success will be your ability to fully immerse yourself in the business problems you are solving, and acting independently to move projects to completion with minimal day to day oversight. you will be a hands-on data scientist responsible for the entire end to end process of model development, implementation, and maintenance of business-changing models and algorithms.what we’re looking for...  you’ll need to have:
+bachelor’s degree or four or more years of work experience.
+six or more years of relevant work experience.
+experience using statistical machine learning algorithms in a big data environment.
+experience assessing machine learning algorithms using cross validation techniques.
+experience using data munging, data engineering, and feature engineering software.
+experience interpreting outputs of models and building visualizations.
+experience in experiment design and hypothesis testing, including a/b and multivariate tests.
+even better if you have:
+a degree.
+experience using data munging, data engineering, and feature engineering software to prepare data for use in machine learning.
+experience interpreting outputs of models and building visualizations to depict your interpretations.
+expertise and experience using pega systems decisioning tools.
+expertise and experience using r, python, and spark.
+expertise and experience using hadoop/hdfs.
+expertise and experience using h20.ai.
+expertise and experience using spark ml.
+familiarity with tensor flow.
+familiarity with big data cloud platforms, in particular aws emr.
+familiarity applying machine learning to solve other ai problems such as nlu/nlp, voice biometrics, text mining, and intelligent process automation.
+when you join verizon...  you’ll be doing work that matters alongside other talented people, transforming the way people, businesses and things connect with each other. beyond powering america’s fastest and most reliable network, we’re leading the way in broadband, cloud and security solutions, internet of things and innovating in areas such as, video entertainment. of course, we will offer you great pay and benefits, but we’re about more than that. verizon is a place where you can craft your own path to greatness. whether you think in code, words, pictures or numbers, find your future at verizon.equal employment opportunity  we're proud to be an equal opportunity employer- and celebrate our employees' differences, regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status. different makes us better. 
+
+ back to search results 
+
+
+
+your careers account
+create / update your career account
+
+
+related careers
+
+              data science & business intell jobs in irving, tx
+            
+
+
+business intelligence and analytics product manager - irving, tx, united states  
+
+digital data architect - irving, tx, united states  
+
+real-time analytics data architect - irving, tx, united states  
+
+senior manager- prescriptive analytics - irving, tx, united states  
+
+business intelligence manager - irving, tx, united states  
+
+business intelligence senior manager - irving, tx, united states  
+
+data services architect - irving, tx, united states  
+
+principal data scientist - predictive and prescriptive analytics - irving, tx, united states  
+
+business intelligence manager - irving, tx, united states  
+
+enterprise solution architect - irving, tx, united states  
+
+
+show all...
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+follow verizon careers
+stay up-to-date with the latest news stories from verizon.
+ follow us on twitterfollow us on linkedin 
+see all verizon social channels  
+
+
+
+
+
+
+follow the verizon foundation
+ follow us on twitterfollow us on facebookfollow us on google plusfollow us on youtube 
+
+
+follow verizon news
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on youtubefollow us on instagram 
+
+
+follow verizon wireless
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on google plusfollow us on youtube 
+
+
+follow verizon fios
+ follow us on twitterfollow us on facebookfollow us on google plusfollow us on youtube 
+
+
+follow verizon enterprise
+ follow us on twitterfollow us on facebookfollow us on linkedinfollow us on youtube 
+
+
+
+
+
+
+
+
+
+
+
+our company
+responsibility
+news
+media center
+investors
+careers
+
+
+
+
+
+wireless
+residential
+business
+
+
+
+verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
+
+
+©2017 verizon
+ bbb accredited business 
+
+
+
+
+
+
+privacy policy
+terms & conditions
+accessibility
+important wireless issues
+contact us
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

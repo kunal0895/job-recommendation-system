@@ -1,0 +1,418 @@
+
+
+
+
+
+
+machine learning postdoctoral scholar - lbl careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				☰
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+
+
+
+help
+
+
+
+
+visually impaired
+
+
+
+
+appointment types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					machine learning postdoctoral scholar
+				
+
+
+
+
+
+
+🔍
+						bay area, california, united states
+					
+
+
+
+
+
+
+
+
+📁
+postdoctoral fellow
+
+
+
+💼
+cr-computational research
+
+
+
+📅
+
+
+
+
+84231 requisition #
+
+
+
+
+
+
+
+
+
+
+
+apply for job
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+position summary:berkeley lab has opening for a machine learning postdoctoral scholar looking to work in the exciting field of machine learning applied to computer networking. the objective is to develop automation techniques that allow networks to become self-aware/intelligent, to effectively support complex distributed science big data needs, across complex multi-domain infrastructure. this technology is essential to enable the next generation of scientific discoveries driven massive amounts of data from a variety of sources and exascale computing. novel solutions, such as deep learning have demonstrated advances in pattern recognition and artificial intelligence. deep learning algorithms are naturally distributed, allowing multiple heterogeneous datasets to be processed quickly and produce inference results, such as predicting online user behavior or anomaly detection. in this project, the postdoc will develop techniques to link distributed network architectures to deep learning and distributed machine learning methods. the ultimate goal is to advance the state-of-the-art in network research by building intelligent networks, an ability to understand application-network interaction and programmatically optimize the network behavior. what you will do:design and develop distributed machine learning approaches that are applicable to networking environment.develop and use software libraries to process large network datasets that are publicly and privately available.use data mining and machine learning to better understand relationships between networks and application properties.research and implement machine learning models that connect fundamental engineering properties of networks to efficient designs.apply distributed learning techniques to related fields.publish research findings in conferences and journals.additional responsibilities as needed:collaborate with scientific networking division/esnet at lbnl.communicate research results to the wider networking community including industry.what is required: phd in related field (computer science, any engineering discipline (electronic and controls encouraged, mathematics).very strong analytical background in machine learning algorithms, e.g., experience with deep learning analysis.strong mathematical foundation.prior ability or demonstrated desire (e.g., papers) applying machine learning to optimizing engineering problems.extremely high aptitude and desire for programming and building software infrastructure; object- oriented programming, machine learning libraries. preferred language of experience is python but flexible to be extended to matlab or other machine learning coding experience.prior ability demonstrated (e.g., github profile) to contribute to a large software framework.excellent communication skills that facilitate interdisciplinary work with multiple collaborators.strong publication history.demonstrate some history with working with either of the machine learning libraries such as tensorflow, keras, scikit-learn, etc.additional desired qualifications:prior experience developing and maintaining machine learning to optimization problems.prior work in the field of network research is a plus.prior experience in network automation tools is desirable.how to apply:complete an online application and upload a copy of your cv and a statement of interest.the posting shall remain open until the position is filled, however for full consideration, please apply by close of business on january 15, 2018.notes:this is a full time, 1 year, postdoctoral appointment with the possibility of renewal based upon satisfactory job performance, continuing availability of funds and ongoing operational needs. you must have less than 4 years paid postdoctoral experience. salary for postdoctoral positions depends on years of experience post-degree.full-time, m-f, exempt (monthly paid) from overtime pay.this position is represented by a union for collective bargaining purposes.salary will be predetermined based on postdoctoral step rates.this position may be subject to a background check. any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. having a conviction history will not automatically disqualify an applicant from being considered for employment.work will be primarily performed at lawrence berkeley national lab, 1 cyclotron road, berkeley, ca.berkeley lab (lbnl) addresses the world’s most urgent scientific challenges by advancing sustainable energy, protecting human health, creating new materials, and revealing the origin and fate of the universe. founded in 1931, berkeley lab’s scientific expertise has been recognized with 13 nobel prizes. the university of california manages berkeley lab for the u.s. department of energy’s office of science.equal employment opportunity: berkeley lab is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. berkeley lab is in compliance with the pay transparency nondiscrimination provision under 41 cfr 60-1.4.  click here to view the poster and supplement: "equal employment opportunity is the law."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous job searches
+
+
+
+
+
+
+
+
+
+
+
+my profile
+
+
+create and manage profiles for future opportunities.
+go to profile
+
+
+
+
+
+
+
+
+
+my submissions
+
+
+track your opportunities.
+my submissions
+
+
+
+
+
+
+
+
+
+
+
+
+similar listings
+
+
+
+
+solid-state electrolytes postdoctoral scholar
+
+
+mf-molecular foundry
+ bay area, california, united states
+📁 postdoctoral fellow
+
+
+requisition #:
+84281
+
+
+
+
+
+postdoctoral scholar (energy geosciences)
+
+
+go-energy geosciences
+ bay area, california, united states
+📁 postdoctoral fellow
+
+
+requisition #:
+84259
+
+
+
+
+
+computational cosmology postdoctoral scholar (computational research)
+
+
+cr-computational research
+ bay area, california, united states
+📁 postdoctoral fellow
+
+
+requisition #:
+84104
+
+
+
+
+
+view more listings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+
+
+
+help
+
+
+
+
+sitemap
+
+
+
+
+visually impaired
+
+
+
+
+appointment types
+
+
+
+
+
+					©  berkeley lab careers. all rights reserved.
+				
+
+
+
+
+
+
+equal employment opportunity: berkeley lab is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. berkeley lab is in compliance with the pay transparency nondiscrimination provision under 41 cfr 60-1.4. click here to view the poster and supplement: "equal employment opportunity is the law."
+
+ 
+privacy & security notice | lbnl is an e-verify employer | contact us
+
+the lawrence berkeley national laboratory provides accommodation to otherwise qualified internal and external applicants who are disabled or become disabled and need assistance with the application process. internal and external applicants that need such assistance may contact the lawrence berkeley national laboratory to request accommodation by telephone at 510-486-7635, by email to accommodation@lbl.gov or by u.s. mail at eeo/aa office, one cyclotron road, ms90r-2121, berkeley, ca 94720. these methods of contact have been put in place only to be used by those internal and external applicants requesting accommodation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+

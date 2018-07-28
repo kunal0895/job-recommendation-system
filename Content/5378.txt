@@ -1,0 +1,349 @@
+
+
+
+
+
+  data scientist, online – 111961 – job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+menu togglemenu hide 
+
+click here for disability assistance
+returning user
+
+in-store hourly and distribution center hourly
+corporate other
+careerdepot/thd associate
+
+
+news
+careerdepot
+
+
+
+
+ 
+
+
+ 
+
+we’re making some enhancements!
+on monday, november 14th from 5 a.m. to 1 p.m. est, we'll be updating our application process to better serve you. if you are attempting to apply to an impacted job during that time, please check back after 1 p.m. est on monday, nov. 14. the following job types are impacted:
+• in store hourly        • distribution center
+
+
+
+
+
+
+click here for disability assistance
+returning user
+news
+careerdepot
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+ search jobs
+ culture
+
+diversity
+military commitment
+
+
+ career areas
+
+retail careers
+merchandising careers
+supply chain careers
+home services careers
+contact center careers
+corporate careers
+technology careers
+civilian careers
+
+
+ campus connect
+ events
+ our brands
+returning user
+
+in-store hourly and distribution center hourly
+corporate other
+careerdepot/thd associate
+
+
+news
+careerdepot
+
+
+
+
+
+
+
+
+
+
+
+  data scientist, online – 111961 – job details
+111961
+
+
+job details
+
+
+
+search jobsjob typecontact centercorporate/otherin-store and distribution center hourlydata scientist, online
+job id: 111961
+store id:
+brand: the home depot
+location: atlanta, ga
+job type: corporate/other
+category: e-commerce
+
+apply
+
+
+
+position purpose:at homedepot.com, our award-winning e-commerce team is blazing a trail of retail shopping innovation by leveraging cutting-edge technology with our 2,200+ store locations and a relentless focus on customer service. we have been named one of the world’s most innovative companies and we are on a mission to provide the best interconnected shopping experience to our consumers. to do so, we need more dreamers, innovators and big thinkers passionate about re-imagining the future of retail. interested in making history with us? if so, apply today to experience what it’s like to be a part of our homedepot.com team. who knows? your next big idea may just change the future of retail!
+the data scientist will develop the analytical infrastructure and computational capabilities that drive decision making and impact the bottom line performance of homedepot.com. by partnering with business leaders and leveraging company and industry data, this role will develop predictive systems and algorithms for identifying trends and driving business solutions. this position’s primary focus is to manipulate large datasets to extract meaningful business information using statistics and machine learning techniques.major tasks, responsibilities and key accountabilities:
+
+50%-design and develop algorithms and models to use against large datasets to create business insights
+20%-establish scalable, efficient processes for large scale data analyses, model development and model implementation
+20%-present analysis and resulting recommendations to senior management; leverage data to present a compelling business case to optimize investments and operations
+10%-communicate and educate technical and non-technical employees on analytics and data-driven decision making
+
+nature and scope:
+
+this position reports to director of data science, or sr. manager, data science
+this position has no direct reports
+
+environment: 
+
+located in a comfortable indoor area. any unpleasant conditions would be infrequent and not objectionable.
+
+travel: 
+
+typically requires overnight travel less than 10% of the time.
+
+minimum qualifications:
+
+must be eighteen years of age or older.
+must be legally permitted to work in the united states.
+
+education required:
+
+the knowledge, skills and abilities typically acquired through the completion of a master’s degree program or equivalent degree in a field of study related to the job.
+
+years of relevant work experience: 0 yearsphysical requirements:
+
+most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. on rare occasions there may be a need to move or lift light articles.
+
+additional qualifications:
+
+master’s in computer science, math or related quantitative field (or bs/ba in computer science, math or related quantitative field and 5 years of data mining experience).
+work experience with hadoop, sas, hbase, cassandra or other similar development platforms.
+expert knowledge in large scale information retrieval and statistical analysis.
+
+preferred qualifications:
+
+3+ years of experience in data mining and statistical analysis
+previous work experience in ecommerce
+experience with large-scale data analysis and a demonstrated ability to identify key
+insights from data to solve business problems
+
+knowledge, skills, abilities and competencies:
+
+
+ability to build scalable systems that analyze huge data sets and make actionable recommendations
+
+
+strong communication and data presentation skills
+ability to quickly adapt to new technologies, tools and techniques
+flexible and responsive; able to perform in a fast paced, dynamic work environment and meet aggressive deadlines
+
+
+ability to work with technical and non-technical team members
+
+
+
+ 
+
+share this jobshare on facebookshare on twittershare on linkedinshare by mail
+   
+
+ 
+
+
+
+
+
+corporate info 
+about the home depot
+partnerships
+
+investor relations
+privacy & security
+contact us
+
+business customers 
+contractor services
+government customers
+homedepotlink
+hdconnect
+supplier diversity
+
+other sites 
+homedepot.com
+the home depot canada
+the home depot mexico
+the home depot moving
+the home depot foundation
+the home depot gear
+
+legal disclaimer 
+the home depot is an equal opportunity/m/f/vet/disabled employer. available positions may vary by location. bilingual candidates are encouraged to apply. © 2005-2017 homer tlc, inc. all rights reserved. know your rights. click here to view federal labor law posters.
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scroll to top
+
+
+

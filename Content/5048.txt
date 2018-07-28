@@ -1,0 +1,232 @@
+
+
+rocket software careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+homecareersabout rocket softwarehelpful hints for applicants
+
+
+
+ 
+
+
+search current openingsupdate your profilecreate a job agentupdate job agent
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					data scientist intern (summer 2018)
+				
+
+
+						tracking code
+					
+
+						1080-509 
+					
+
+						job description
+					
+
+rocket software is building a next generation experience for database and system administration founded on a simple idea: offer our users a substantially more efficient, intelligence augmented and value-added way to accomplish their tasks. as an integral part of a new advanced analytics team, you will be responsible for implementing a new, innovative and highly collaborative cross-functional analytics program, by leveraging, extending and introducing new organizational capabilities and technology assets. you will have opportunity to experience working in fast-paced team with ample opportunities to shine.
+ 
+the ideal candidate is a creative and passionate problem-solver who thinks big, acts quickly, and is motivated to develop new approaches to optimizing operational efficiencies using quantitative techniques, machine learning methods, and cutting-edge technology. we are looking for someone with strong experience solving difficult it and system optimization problems.
+ 
+what you'll be doing:
+ 
+engage broadly with the end-users to frame, structure and prioritize operational efficiency problems where analytic projects or tools can have the biggest impact for the end-user's efficiency.help the senior data scientist perform large-scale statistical research, analysis, and modeling in the areas of machine data (activity records, interaction graphs, performance data, etc.), optimizations, forecasting, and anomaly detection.work closely with a team of machine learning engineers to deploy and maintain models in production environments. implement optimization algorithms, working with cross-functional teams to develop and deploy models as needed
+
+
+						required skills
+					
+
+what you'll bring:
+ 
+experience working with sql and nosql data sources
+experience working with spark, hadoop
+fluent with experimental design
+fluency with statistical and machine learning algorithms such as decision trees, neural networks, collaborative filtering, clustering, survival analysis, graph theory, etc.
+experience with deep learning frameworks such as tensorflow, cntk, caffe (preferred)
+experience with time series analysis and forecasts
+knowledge of visualization tools such as d3.js
+strong scripting skills in bash and at least one analytic programming language (python or r)
+excellent writing and verbal communication
+willingness to push boundaries and be uncomfortable
+ 
+why join us?
+ 
+the internship experience will provide an insider view of how a fast moving, innovative, and entrepreneurial company operates through an exciting and challenging work experience. our interns will operate as a team to design and build, from the ground up, brand new and innovative applications related to statistical analysis, and supervised machine learning.
+ 
+the “rocketship” is also designed to give you multiple opportunities to interact with members of rocket software’s executive team, an invaluable chance to showcase your skills and start building a network of professionals for future internships or post-graduate work.
+ 
+our program includes participation in a professional development program together with other interns with a goal to develop and deliver an executive level presentation to senior members of rocket software’s executive team at the end of the summer.
+ 
+rocket software inc. is committed to creating a diverse environment and is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. rocket software inc. is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+ 
+rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities.  if you need special assistance or an accommodation while seeking employment, please call: 781-577-4321 or send an email to hr@rocketsoftware.com.  we will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+
+						job location
+					
+
+						austin, texas, united states
+					
+
+						position type
+					
+
+						intern
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								connect
+							
+
+
+							who do you know at
+							
+rocket software
+
+ 
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+
+ contact us site map legal privacy policy 
+
+ rocket software develops, licenses, and supports enterprise infrastructure software and solutions.    rocket services customers in all geographies through our worldwide sales force, support team, and r&d labs.    our customers deploy our products in these strategic infrastructure domains: application development, application modernization, business intelligence, compliance and security, consumer productivity, database servers, database tools, file transfer, mainframe productivity, network management, publishing and search, soa and integration, storage management, terminal emulation,   and text mining. 
+ © 2012 rocket software, inc. all rights reserved.     rocket and the rocket software logos are registered trademarks of rocket software, inc.     other product and service names might be trademarks of rocket software or other companies. 
+
+  
+
+rocket software
+ 77 fourth avenue 
+    waltham, ma 02451-1468 
+t +1 781 577 4321 
+    w www.rocketsoftware.com 
+    e info@rocketsoftware.com
+ privacy policy | legal
+
+
+
+
+
+
+
+
+
+
+
+
+

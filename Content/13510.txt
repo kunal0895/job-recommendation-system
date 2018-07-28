@@ -1,0 +1,778 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why chop?
+diversity & inclusion
+partnerships
+residents & fellows
+for chop employees
+
+
+
+menu 
+
+why chop?
+diversity & inclusion
+partnerships
+residents & fellows
+for chop employees
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 mi
+5 mi
+10 mi
+30 mi
+50 mi
+
+
+
+
+
+
+
+
+
+search by postal code
+search by location
+
+
+
+
+
+
+
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 mi
+5 mi
+10 mi
+30 mi
+50 mi
+
+
+
+
+
+
+
+
+
+search by postal code
+search by location
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+ create alert
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+
+
+
+
+
+
+
+
+
+data engineer
+
+date: 
+nov 15, 2017
+                
+
+
+location: 
+philadelphia, pa, us, 19104
+
+
+company: 
+chop
+
+
+apply now »
+
+
+
+job description
+req id: 15003
+shift: days
+employment status: af - active - regular - full time 
+job summary the center for data-driven discovery in biomedicine (d3b - d3b.center) is seeking talented engineers to build and scale solutions for accelerating discovery and advancements in child health. we’re looking for creative problem solvers that enjoy a dynamic continuous learning environment and excel at gaining new technical skills and domain specific knowledge. in the role of data engineer, you will join a team building software and infrastructure for handling both tera/petabyte-scale genomic data alongside associated smaller-scale, but often more complex, clinical data. successful data engineers have a background in computer science and software engineering and are eager to empower data for researchers, clinicians, and patients. experience with biomedical data and/or bioinformatics is beneficial, but not required.
+job responsibilities specific responsibilities include:
+1. design, develop, and test software and applications
+2. write automated unit and functional tests of complex application logic while adhering to principles and best practices of containerization and continuous integration and deployment
+3. document code and generate appropriate technical and user documentation for software and applications
+4. manage all code, documentation, and issues in modern source control repositories
+5. manage projects and subprojects of increasing complexity within larger initiatives, identifying, tracking, and reporting on tasks and deliverables against project timelines
+ 
+required education and experience bs/ba required
+additional technical requirements required experience with:
+- python application development
+- relational and/or non-relational database application development
+- data modeling and schema design
+- developing in linux environments
+- effective communication within a multidisciplinary team
+preferred experience with:
+- cloud platforms such as amazon web services, google cloud platform, openstack
+- data frameworks such as spark, hadoop, kafka, flink
+- programming languages such as scala, java, c/c++, go, rust
+- frontend and visualization frameworks and technologies such as react, angular, node, d3
+- containerization, orchestration, and automation technologies such as docker, salt, kubernetes
+- agile software development methodologies
+- biomedical / life sciences data
+  
+ 
+all chop employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.
+children's hospital of philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. in an effort to achieve this goal, employment at children's hospital of philadelphia, other than for positions with regularly scheduled hours in new jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+children's hospital of philadelphia is an equal opportunity employer. we do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+vevraa federal contractor/seeking priority referrals for protected veterans.  please contact our hiring official with any referrals or questions.
+chop careers contact 
+talent acquisition
+2716 south street, 6th floor
+philadelphia, pa 19146 
+phone: 866-820-9288 
+email:talentacquisition@email.chop.edu
+ 
+ 
+
+
+
+nearest major market: philadelphia
+                    
+                
+
+job segment: 
+database, medical, patient care, computer science, application developer, technology, healthcare
+                    
+
+
+
+
+apply now »
+
+
+
+
+find similar jobs: 
+
+java jobs in philadelphia,
+developer jobs in philadelphia,
+data modeler jobs in philadelphia,
+computer science jobs in philadelphia,
+application developer jobs in philadelphia
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+                34th st and civic center blvd
+                philadelphia, pa 19104
+   
+                   
+                
+
+
+
+top job searches
+view all jobs
+
+tobacco statement
+
+
+
+
+×
+tobacco statement
+x
+
+
+the children’s hospital of philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees.  in an effort to achieve this goal, employment at the children’s hospital of philadelphia, other than for positions with regularly scheduled hours in new jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+
+
+
+
+
+
+equal opportunity employer
+
+
+
+
+×
+equal opportunity employer
+x
+
+
+the children's hospital of philadelphia is an equal opportunity employer. we do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+
+
+
+
+
+
+
+© the children’s hospital of philadelphia
+terms of use
+privacy policy
+ethics & compliance
+chop.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

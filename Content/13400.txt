@@ -1,0 +1,440 @@
+
+
+
+software engineer - seattle - dropbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work at dropbox
+
+
+teams
+
+
+locations
+
+
+all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - seattle
+
+    seattle, wa
+
+
+
+company description
+dropbox supports hundreds of millions of creators and innovators around the world. our mission is to simplify the way people work together. dropbox business is trusted by over 200,000 companies to safeguard their most important information. as we continue to build the best place to create, share, and work with others, there’s a perfect spot for you to grow with us.
+team description
+our engineering team is working to simplify the way people work together. they’re building a family of products that handle over a billion files a day for people around the world. with our broad mission and massive scale, there are countless opportunities to make an impact.
+role description
+specifically, we write great software and sweat the details, focus on impact, and create a harmonious culture. creating elegant products begins with lots of prototyping and iteration to explore the problem space. it culminates in careful attention to edge cases and error handling, polished code, and great tests to ensure that we ship a reliable product that never compromises data integrity or security. every dropbox software release improves millions of lives, and you'll find a high petabyte-to-engineer ratio here. we're daring when it comes to shipping high-leverage projects, even if they're risky or novel. we care deeply about collaboration, feedback, and iteration. trust and respect are deeply rooted in our engineering culture.
+responsibilities
+help millions of businesses around the world who run on dropbox, from your neighborhood corner store all the way up to fortune 500 companies; build dropbox for business to help teams be more productivethe infrastructure you build will handle metadata for hundreds of billions of files, hundreds of petabytes of user data, and millions of concurrent connectionscreate a platform that is the fabric connecting over 100 thousand of the world's apps, devices, and services; redefine "sync" for a mobile era (see the inaugural dbx conference for more)you will measure, optimize, and build one of industry's most advanced analytics platforms to derive meaning from vast amounts of datacraft the data and networking layers that enable rapid product innovation across android, ios, and mobile webpush the boundaries of os integration on mac, windows, android, ios, and linux. for example, on os x we had to reverse-engineer the finder to show current file sync status, and on android and ios we‰'ve optimized json parsing and have built custom bitmap caches to present lightning-fast views of tens of thousands of photos.you enable our users to store and share billions of memories on dropbox, and make these experiences delightful, from our mobile photo uploader and web albums to a host of exciting features that will launch over the next few months
+requirements
+bachelor degree or equivalent is required for this role.3+ years of work related industry experiencewe're looking for brilliant engineers who are hungry to take dropbox even further. if these large-scale projects resonate with you, and you would like to strongly influence the direction and culture of our seattle office, we'd love to learn more about you and find out if we can work together.
+benefits and perks
+100% company paid individual medical, dental, & vision insurance coverage401k + company matchmarket competitive total compensation packagefree dropbox space for your friends and familywellness reimbursementgenerous vacation policy10 company paid holidaysvolunteer time off company sponsored tech talks (technology and other relevant professional topics)
+
+
+    dropbox is an equal opportunity employer. we are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. a big part of that effort is our support for members and allies of internal groups like asians at dropbox, blackdropboxers, latinx, pridebox (lgbtq), vets at dropbox, women at dropbox, atx diversity (based in austin, texas) and the dropbox empowerment network (based in dublin, ireland).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+other open positions
+there are no open positions right now. check back soon—we're growing fast!
+
+
+
+
+
+
+director, engineering services
+san francisco, ca
+
+
+
+
+epd ops program manager 
+san francisco, ca
+
+
+
+
+engineering manager
+san francisco, ca
+
+
+
+
+engineering manager - product engineering
+new york, ny
+
+
+
+
+group product manager - monetization platform lead
+seattle, wa
+
+
+
+
+senior software engineer
+san francisco, ca; new york, ny; seattle, wa
+
+
+
+
+software engineer
+san francisco, ca
+
+
+
+
+software engineer - full stack
+herzliya, israel
+
+
+
+
+software engineer - ui
+san francisco, ca
+
+
+
+
+software engineer intern - summer 2018 
+san francisco, ca; seattle, wa; new york, ny
+
+
+
+
+software engineer university grad - 2018
+san francisco, ca; seattle, wa; new york, ny
+
+
+
+
+software engineer, android
+new york, ny
+
+
+
+
+sr. quality assurance engineer
+san francisco, ca
+
+
+
+
+technical program manager- paper
+san francisco, ca
+
+
+
+
+technical program manager- product engineering
+san francisco, ca
+
+
+
+
+web developer
+san francisco, ca
+
+
+
+
+
+
+
+
+
+
+
+dropbox
+
+
+plus
+
+business
+
+enterprise
+
+paper
+
+plans
+
+
+
+
+using dropbox
+
+
+help center
+
+security
+
+productivity
+
+apps and integrations
+
+
+
+
+company
+
+
+about us
+
+contact
+
+blog
+
+
+
+
+downloads
+
+
+desktop app
+
+mobile apps
+
+
+
+
+legal
+
+
+privacy
+
+terms
+
+
+
+
+
+
+
+
+
+
+choose a language
+
+
+
+bahasa indonesia
+
+
+bahasa malaysia
+
+
+dansk
+
+
+deutsch
+
+
+english (united kingdom)
+
+
+english (united states)
+
+
+español (españa)
+
+
+español (latinoamérica)
+
+
+français
+
+
+italiano
+
+
+nederlands
+
+
+norsk (bokmål)
+
+
+polski
+
+
+português (brasil)
+
+
+pусский
+
+
+svenska
+
+
+українська
+
+
+ไทย
+
+
+中文（简体）
+
+
+中文（繁體）
+
+
+日本語
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    english (united states)
+                    
+
+
+
+
+
+
+
+
+
+

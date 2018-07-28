@@ -1,0 +1,270 @@
+ 
+
+
+
+
+
+
+
+
+
+big data engineer #0028 job at 1904labs in saint louis, mo, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer
+data engineering and decision science | saint louis, mo | full time
+
+
+
+
+
+
+job description
+
+
+about us
+just like how the 1904 world’s fair brought innovation to st. louis, 1904labs inspires innovation in new and exciting ways by bridging gaps between the talent community and clients who have cutting edge needs.
+we provide our team members with challenging and rewarding work, competitive compensation and the opportunity to openly pursue their own individual startup ideas during the work day. we challenge the conventional norms by encouraging our employees to innovate their own product ideas during collaboration times, separate from our client work.
+at 1904labs, we are agile and innovative technologists. cutting edge technologies don’t scare us, they fuel our fire.
+the role
+as a big data engineer you would be responsible to develop a cutting edge distributed data platform that will set the direction for future data-driven business projects for our customers.  this team will focus on working with distributed and streaming platforms such as hadoop, spark, cassandra, and kafka as well as nosql/graph databases and cloud-based data services.
+our teams at 1904labs are agile, and we work in a highly collaborative environment.  the data engineering and decision science team is focused on developing best in class apis, algorithms, and platforms to enable our customers to become data driven enterprises. we have a deep passion for data architecture, modeling, and service design in an environment of big data, fast data, and cutting edge analytics.
+requirements
+
+
+agile: experience working in an agile team oriented environment
+
+
+attitude / aptitude: a passion for everything data with a desire to be at the cutting edge of technology and consistently deliver working software while always keeping an eye on opportunities for innovation.
+
+
+technical skills: we would like to talk with you if you match at least one of the following profiles:
+
+
+distributed systems / modern data architecture
+
+
+experience architecting and integrating big data pipelines
+
+
+distributed systems: experience installing/configuring a distributed computing/storage platform, such as apache hadoop, amazon emr, apache spark clusters, apache cassandra clusters, apache hbase
+
+
+streaming: experience with one or more streaming platforms, such as apache kafka, spark streaming, storm, or aws kinesis.
+
+
+cloud: experience developing and managing instances within a cloud environment such as aws, google, azure
+
+
+
+
+nosql data modeling / software development
+
+
+nosql: experience with nosql/graph data modeling and significant usage of one or more of cassandra, hbase, dynamodb, neo4j, titan, datastax graph
+
+
+languages: experience with java, scala or python development (especially with apis for big data analysis, stream processing, and nosql databases).
+
+
+distributed systems: understanding of distributed architectures (such as those for the nosql databases above, hadoop, spark, etc.)
+
+
+working knowledge of the linux command line and shell scripting
+
+
+knowledge of messaging and interaction patterns
+
+
+experience with microservices architecture
+
+
+
+
+
+
+desired skills
+
+
+analytics: interest in supporting or experience with machine learning, deep learning or other frameworks from a platform perspective
+
+
+open source: interest in developing or experience with open source software, with experience contributing/committing to existing projects a big plus
+
+
+perks
+
+
+standard benefits program (medical, dental, life insurance, 401(k), professional development and education assistance, pto)
+
+
+innovation time  - we allow 10% of your time to be devoted to innovation hours.  this time can be used to foster individual ideas, personal projects, start up ideas, improve an open source tool or for career advancement and self-education.  all during traditional working hours.
+
+
+dress code - we don't have one
+
+
+ 
+these roles are located in st. louis, mo.  while we would prefer local candidates your location is not the most important factor; please help us understand why you would like to call st. louis home if you would be relocating.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+‹
+›
+
+
+
+
+
+
+return to 1904labs
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+location
+
+
+
+
+
+return to 1904labs
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

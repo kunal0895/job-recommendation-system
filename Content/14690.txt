@@ -1,0 +1,259 @@
+
+
+
+
+
+engineer 1, software (java) description at enterprise holdings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+menu
+
+
+
+athlete network
+facebook
+twitter
+linkedin
+youtube
+instagram
+blog
+
+
+united states
+
+
+canada
+
+
+canada - français
+
+
+
+
+keyword search
+
+
+
+
+
+
+
+our company
+
+about us
+our values
+our people
+working here
+history
+rewards & benefits
+training & development
+news & awards
+
+
+
+opportunities
+
+management trainee
+accounting & finance
+automotive & transportation
+corporate & administrative
+customer service
+it
+rental operations
+sales
+
+
+
+students
+
+internships
+entry-level professionals
+
+
+
+military
+
+
+find us
+
+events
+recruiters
+
+
+
+search jobs
+
+how to apply
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+this is where it all starts.
+
+
+search jobs
+
+
+keywords
+
+
+
+location
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+apply
+
+
+
+share
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+engineer 1, software (java)
+job id 229347 
+
+location
+           st. louis - mo - us
+
+description
+equal opportunity employer/disability/veterans the information technology (i.t.) division of enterprise holdings builds and implements powerful solutions that help to drive and support the global operations of our brands and businesses, including alamo rent a car, enterprise rent-a-car and national car rental. with 9,000 branch locations across the world and more than 97,000 employees, enterprise holdings and its affiliates own and operate almost 1.9 million cars and trucks. here, you will be part of a team that creates and delivers leading-edge technologies and expansive systems that impact every aspect of our growing businesses. we provide the resources to enable and develop our more than 2,000 innovative i.t. professionals in a variety of career paths. this is where it all starts. all systems go! the consumer solutions team is responsible for designing, developing, building, testing, implementing and supporting enterprise holdings, inc.’s consumer facing websites and mobile applications.
+
+responsibilities
+as an engineer 1 you will be responsible for developing, modifying and implementing elements of technology to solve business problems.  as an engineer 1, you will also have the opportunity to assist in the design.  you will work with a team to test, research and investigate technology and assist with the requirements gathering of the solutions.  we are looking for a self-starter that will maintain established service level agreements to meet customer expectations and quality standards.as an engineer 1, you will be responsible for using your technical knowledge of professional concepts to solve business problems. you will work on a devops team in a fast paced, dynamic environment and will exercise and grow your skills related to continuous integration and deployment automation. also, you will have the opportunity to work with aws (amazon web services) and aem (adobe experience manager) platforms, and will be responsible for identifying and implementing changes that maximize the efficiency of the team in delivering solutions that meet the non-functional requirements of our products.as an engineer 1, you will support our rapidly growing consumer solutions platform portfolio. you will collaborate with a talented it team to build, automate, and maintain our virtual environments, which enable delivery of innovative mobile and web solutions to our customers.  this role will automate configurations and templates for various linux based services, measure and maintain reliability through instrumentation and monitoring, and interface with multiple development teams to provide services and support.  you will be responsible for modifying code/scripts, and developing application code independently within or outside various teams using applicable technology. this is an exciting role in a fast paced, collaborative team that strives to build and foster a culture of infrastructure as a code and to implement the latest standards of devops automation. 
+
+qualifications
+required:must be presently authorized to work in the u.s. without a requirement for work authorization sponsorship by our company for this position now or in the future1+ years of experience developing software applications1+ year of programming experience with j2ee specifications (ooad, core java, servlets, web services, xml, javascript)experience with a build scripts tool such as maven, ant, grade, antifactory and jenkinsexperience with a code version control tool such as github/bitbucketability to work in a fast-paced, high demand and challenging environmentability and desire to learn new skills and deepen existing expertiseability to survey the department developers and management to identify challenges with current environmentmust be committed to incorporating security into all decisions and daily job responsibilitiespreferred:experience understanding linux or unix os, tools, and troubleshootingbachelor's degree in computer science, computer information systems, management information systems, or related field preferredexperience with building and migrating applications, software and services on the aws (amazon web services) or/and azure platform.working knowledge of designing and developing with products like struts, hibernate, springworking knowledge of infrastructure automations - chef, terraform, python and shell scriptsworking knowledge of the general mobile landscape, architectures, trends, and emerging technologies is preferred
+
+
+
+apply
+
+
+
+share
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+ 
+
+job alerts
+
+first namelast nameemail addressinterested insearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationaddremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+▶▶▶▶▶
+the skills from your service will be the strengths in your new mission.
+veterans and transitioning military
+
+
+contact a recruiter
+connect with one of our recruiters to ask questions and find the perfect job opportunity in your area. 
+ contact a recruiter
+
+
+
+
+
+
+
+©2017 copyright enterprise rent-a-car • eracsm
+enterprise holdings/enterprise rent-a-car/alamo rent a car and national car rental seeks and values people of all backgrounds because every employee, customer and business partner is important. enterprise holdings is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, national origin, sexual orientation, gender identity or protected veteran status and will not be discriminated against on the basis of disability. if you have any difficulty using our online system and you need an accommodation due to a disability, you may use this alternative email address to contact us about your interest in employment.
+
+jobsprivacy@ehi.com
+e-verify employer 
+privacy policy
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+

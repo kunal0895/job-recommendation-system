@@ -1,0 +1,107 @@
+
+
+
+
+
+
+careers at allen institute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menucareers homecurrent openings 
+
+
+careers at allen institute
+are you ready for new challenges and new opportunities?
+join our team!
+current job opportunities are posted here as they become available.
+
+scientist - modeling
+
+ department:
+6260 - modeling & theory
+ location:
+seattle
+
+
+start your application
+position summary
+we are seeking a talented and enthusiastic individual to join the allen institute for cell sciences modeling team. the goal of the models and theory team is to produce models of cells as integrated systems, employing output from a high content, live cell microscopy pipeline to develop algorithms that predict positions of intracellular structures, to predict how cellular components reorganize as the stem cell moves through the cell cycle and differentiates, and to characterize and predict cell types and states during normal function and under the influence of drugs, changes in the cellular environment, and mutations.
+ultimately, the modeling team will contribute to an open science platform to unite modeling across multiple scales. this scientist-level position will have a strong background in cell modeling, potentially including both biophysical and data-driven approaches and, together with team members, be responsible for driving approaches in quantitative cell biology towards advanced data analysis, establishing appropriate modeling formalisms and the related computational toolsets and workflows. tasks may include, but are not limited to, evaluating and implementing mathematical approaches to address basic and mechanistic questions in cell shape and/or organization, developing computational research tools, and working collaboratively with the assay development team to ensure focus on biological questions of highest impact, all with development best practice and an open science approach in mind. s/he will additionally work collaboratively with the software engineering, microscopy, and visualization teams to achieve the goals and objectives of the institute. 
+the ideal candidate for the modeling team will have the following qualities:
+
+enjoys working closely as a team, towards a common goal
+is comfortable working on a team together with scientists, learning about their work and collaboratively developing creative solutions for problem solving and standardization
+is curious and enjoys learning new tools, techniques and technologies relevant to mathematical modeling in biology
+enjoys developing clean, maintainable code with an eye towards excellence, and considers both the short-term and long-term impact of design choices
+
+see the vision and mission of the allen institute for cell science.
+job responsibilities 
+reporting to the director of modeling, the individuals responsibilities will include the following:
+
+conceive, evaluate and iterate modeling approaches for spatial organization and shape variation of cells, tissues and subcellular structures in collaboration with team.
+conceive, evaluate and iterate modeling approaches to predict cell type and state from subcellular structures in collaboration with team.
+conceive, evaluate future mathematical approaches for biophysically-based mechanistic modeling of subcellular structure and function in collaboration with team.
+provide potential expert advice with a range of scientific computing problem settings, including support evaluation of appropriate libraries and applications for modeling tasks.
+work with software engineers on related teams to transform prototype algorithms into professionally packaged, properly factored reusable libraries and applications.
+perform software development duties using best practices - follow industry standards, develop unit tests, participate in code reviews, etc.
+follow the allen institutes software management and deployment standards including source code management, issue tracking, staging and deployment standards, and documentation.
+
+basic qualifications  
+
+phd in applied mathematics, biomedical engineering, mechanical engineering, electrical engineering, computational biology, bioinformatics, biophysics or related degree.
+2+ years hands-on academic or industrial experience in quantitative cell biology required.
+4 years post-phd required.
+experience with mathematical model development required.
+knowledge of cell biology and/or basic biomedical sciences required. 
+experience with python is required.
+experience working in linux/unix environment required.
+familiarity with software engineering practices such as build-management, testing, etc. is required.
+
+additional qualifications  
+
+knowledge of scientific computing, and careful attention to detail required.
+strong communication skills required.
+ability to work independently as well as in a collaborative, multi-disciplinary environment required. 
+knowledge of image-processing and/or image analysis applications a plus.
+experience working in a multi-disciplinary environment in academic or industrial settings a plus. 
+experience with numerical grid generation and physical simulation approaches a strong plus.
+
+
+ experience with scientific computing and implementation of diverse numerical strategies a strong plus.
+ experience with machine learning approaches and libraries a plus.
+
+it is the policy of the allen institute to provide equal employment opportunity (eeo) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. in addition, the allen institute will provide reasonable accommodations for qualified individuals with disabilities.
+
+start your application
+
+
+© 2017 allen institute 
+
+applicant tracking system powered by 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

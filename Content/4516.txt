@@ -1,0 +1,143 @@
+
+
+
+
+samsung next start careers - machine learning engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    samsung next start careers                                            
+
+
+
+
+
+
+
+                machine learning engineer
+    
+    
+
+                            engineering            
+                    san francisco,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+cultivate is a people analytics platform that empowers managers to optimize productivity and retain top talent.  we provide real-time and predictive analytics for companies and managers in areas of engagement analysis, bias awareness, and resource alignment.  our mission is to help companies provide their employees a more engaging, fulfilling, and productive workplace by continuously improving the manager-employee relationship.  we are a small founding team that is well funded by samsung next.  our san francisco office is a co-working space with a great sense of community, and views of the bay.  we have access to amenities like a fully stocked kitchen and all the computer equipment and gadgets you need.  we also have the autonomy of a small, driven startup team; for example, we value our work-life balance and don’t track or limit vacation/sick days.about the role:you’ll be applying machine learning and nlp techniques on corporate communications data (email, slack messages, calendars) to quantify the collaborative dynamics of professional teams and generate predictive analytics for improving manager/employee relationships.  responsibilities include:define and implement innovative algorithms for extracting semantic information (e.g. politeness, autonomy, intent) from messagesmodel the collaboration patterns of teams, identifying predictive signals within daily digital conversations to improve employee satisfaction and improve retentiondesign and build scalable systems to train, test, and run your models on real user dataimplement api’s to expose statistics to user-facing systems, including the website and mobile appsbe an influential voice on a small, rapidly innovating team building a next generation productset strategic vision and deal with the complexities of an evolving machine learning stack (e.g. data storage, feature engineering, deployment of models)qualifications:ms or phd in computer science or related quantitative disciplines.proficient in python and sql, with strong computer science fundamentals (algorithms and data structures). capable of writing high performance, scalable, production level code. knowledge of nlp and the semantic interpretation of messages: entity extraction, knowledge graph creation, text classification, and topic modeling.deep understanding of machine learning techniques, including supervised and unsupervised algorithms, clustering, graph analytics, and time series analysis. experience with data science toolkits such as numpy, pandas, scikit-learn, tensorflow, etc.experience with distributed machine learning frameworks (e.g. spark, graphx) a plus.thrives in a fast-moving startup environment, has strong communication skills and is excited about the opportunity to influence product development and roadmapping.
+
+
+
+
+        apply
+    
+
+        apply later    
+back to current openings
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

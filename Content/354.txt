@@ -1,0 +1,60 @@
+
+
+
+
+inspire - jobs: backend software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+backend software engineer
+
+backend software engineer
+philadelphia, pennsylvania, united states · engineering
+
+descriptionthe company: inspire energy (www.inspireenergy.com) inspire makes it simple for everyone to have a smart home. the company’s groundbreaking subscription is the first to seamlessly combine smart home control and clean energy for home. powered by a proprietary analytics engine, the inspire smart home app allows members to create and control a completely personal home experience. inspire empowers people to live more purposefully and sustainably everyday, moving us all towards a brighter energy future. launched in january 2014, inspire homes have used the clean power production equivalent of 121 wind turbines since inception. driven by a team of mission-driven avengers in philadelphia and santa monica, inspire prides itself on a culture of ownership, teamwork and stalwart obsession with “crushing it!” located in center city in the graham building, inspire is looking for team members who share our vision for a better future and who want to grow with a company that’s disrupting a massive industry.  our workplace is designed to foster collaboration, creativity, and collective contributionsabout you:you are a full stack engineer that is more back end focused with extensive experience designing and shipping software. you love learning new technologies and are thoughtful on how to apply them to your daily practice. we need someone who can learn our existing architecture and quickly get immersed in some of the ground-breaking problems we are solving as part of our product-driven organization. you'll join a team that is building both consumer facing technologies as well as services and apis. you'll have a chance to contribute across our technology stack. you will work alongside great developers. rapidly ship features and contribute ideas as part of a rapidly moving, product-driven organization.  technologies we use: languages: python, ruby, javascript, sql frameworks: airflow, angular, rails, ionic infrastructure: heroku, aws datastores: redshift, postgresql, s3, redis, mongo we don’t require experience with a specific language, but the ability to take on and master new technologies is a must.role and responsibilities: build backend software to power our inspire smart home platform develop apis, data services and batch jobs to deliver data that enable our consumer facing applications & products work with data scientists and data engineers to build our data infrastructure be a valued member of an autonomous, cross-functional agile team contribute to the long term vision and strategy manage your work through the full software dev lifecycle requirements you are a passionate technologist you excel at solving tough problems you are proficient in any technology/languages used in the past you love to learn from other developers and work closely with product teams working knowledge of software architecture, data structures and best practices you have 5+ years of experience as a professional software engineer you know what it means to ship high quality code benefitslocated in center city in the graham building, inspire is looking for team members who share our vision for a better future and who want to grow with a company that’s disrupting a massive industry.  our workplace is designed to foster collaboration, creativity, and collective contributions we offer competitive compensation and equity packages, plus benefits such as health, vision, life, and dental insurance.  and you want a standing desk? you got it!
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+inspire website
+
+powered by
+workable
+
+
+
+
+

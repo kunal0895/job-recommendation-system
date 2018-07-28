@@ -1,0 +1,142 @@
+
+
+
+
+sunlink careers - front-end web developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    sunlink careers                                            
+
+
+
+
+
+
+
+                front-end web developer
+    
+    
+
+                            computers/software            
+                    san leandro or mill valley,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+front-end web developer our company:over the last ten years and thousands of ground and roof-mount solar projects, sunlink has earned a place as one of the most trusted names in the utility-scale and commercial solar industries. we are well known for bringing powerful solar energy solutions to market through innovative, highly engineered products, in-demand customer services and best-of-breed software that make solar pv electricity easier, safer, more reliable and less expensive to install. though we have a solid history as a company, we continue to operate with the entrepreneurial spirit and “wear‐whatever‐hat‐i‐need‐to” attitude that you typically only find in a start‐up. it is this rare combination of trusted insights, problem-solving, innovation, and can-do attitudes that help solar developers and installers overcome obstacles and furthers the industry’s shared mission of advancing universal solar power adoption. your position:we are looking for a front-end web developer for a solar energy analytics & asset management platform. responsibilities will include translation of the ui/ux wireframes to code that will produce visual elements of the application, including data visualizations, incident alerts, scheduling, and team collaboration. you will work with the services o&m team, software and engineering teams, and product management to bridge the gap between graphical representation and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works. in addition, you’ll work with the engineering groups to improve project onboarding, automate the structural and mechanical design, and enhance electrical provisioning and be commissioning processes. duties and responsibilities:develop new user-facing featuresbuild reusable code and libraries for future useensure the technical feasibility of ui/ux designsoptimize application for maximum speed and scalabilityassure that all user input is validated before submitting to back-endcollaborate with other team members and stakeholders competencies and qualifications:5 years of experience in web application development with client-side scripting and javascript frameworks, including jquery, node.js, and angularjs- good understanding of asynchronous request handling, partial page updates, and ajaxproficient understanding of web markup, including html5, css3knowledgeable of front-end defensive/secure coding practices (cross site scripting, cross site request forgery, sql injection, and so on)proficient understanding of code-versioning toolsproficient understanding of cross-browser compatibility issues and ways to work around themgood understanding of seo principles and ensuring that application will adhere to them is a “plus”basic understanding of server-side css pre-processing platforms (such as less and sass) is a “plus” location:mill valley or san leandro, ca compensation and benefits:highly-competitive compensation commensurate with experience. the above job description is not intended to be an all-inclusive list of duties and standards of the position. incumbents will follow any other instructions, and perform any other related duties, as assigned by their supervisor. applications will be considered on a rolling basis until the position is filled. sunlink is an equal opportunity employer and will not discriminate against any employee or applicant for employment on the basis of race, color, national or ethnic origin, religion, sex, age, handicap, pregnancy, sexual orientation, or veteran status. reasonable accommodations can be made to enable individuals with disabilities to perform the essential functions identified above. 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

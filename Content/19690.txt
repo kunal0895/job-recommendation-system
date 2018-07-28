@@ -1,0 +1,214 @@
+
+junior web developer (php, laravel) job - gomedigap - austin, tx | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+junior web developer (php, laravel)
+
+gomedigap
+     -
+austin, tx
+
+
+                $40,000 - $60,000 a year
+
+
+
+principals & local austin area applicants only, relocation and/or sponsorship not available.our mission is to be the most trusted medicare supplement insurance agency, serving clients as if they were our own parents.we are looking to fill a full-time position to help us reengineer our in-house crm built on laravel. this crm has it all, so we’re looking for a developer that is comfortable in php, familiar with laravel, can work with javascript/jquery and has a working knowledge of mysql. knowledge of nodejs would be helpful but not required for this position.the workthis position involves breaking apart a monololithic application into smaller applications that scale, writing tests, improving existing legacy code, developing new features, and working within laravel 5’s well-established structure. we also have two nodejs single page applications that need to be ported to laravel.additional projects include building new applications that enhance the customer and sales experience and optimize efficiencies in underwriting.production and test environments are hosted on aws.we serve a fast-growing market and seek your talents to produce the best possible application. if you like the challenge of solving interesting problems in a collaborative yet individually-empowered environment, then we want to hear from you!the ideal candidateour company needs to expand the development team and is looking for an extremely bright and self-motivated software developer with excellent php and problem-solving skills.you will be working with and creating scalable, accessible web based crm. you will build enterprise level applications from the ground up as well as re-factor, enhance, and improve existing applications, while collaborating with the existing developers on project scope and approach.you have a positive attitude, a sense of humor, and the ability to thrive in a fast-paced, dynamic environment.you have a passion for learning and for mentoring other developers. you are constantly looking for ways to innovate and automate and you love learning new things.the companywe are a profitable and growing insurance agency located a few miles north of austin, tx. we specialize in selling insurance products electronically and over the phone in many states across the country. we have a passion for serving our clients and everything we do revolves around making our customers raving fans of our business.culture is critical to us and we are looking for more than just another strong developer. we have a positive, fun and dynamic working environment and are looking for people that will fit with the current culture. our employees are professional and take their jobs seriously and are driven to be successful. we push each other to be better and meet our individual goals.you can read more about us at http://www.gomedigap.com/careers/benefits & compensationgomedigap is very competitive with compensation and benefits for the right candidate. we appreciate and reward talented people.the position pays a solid base salary plus a quarterly bonus driven by the success of the company. other benefits include group health insurance, 3% company matching on 401(k), tuition reimbursement, vacation, stocked kitchen and the opportunity to work in a positive environment with some great people (and dogs). https://youtu.be/1dhupw1a4mkprincipals & local austin area applicants only, relocation and/or sponsorship not available.job type: full-timedegree: computer science, computer engineering or equivalent experience.must-havesexperience with php, javascript and jqueryexperience with html & cssnice-to-havesexperience working in enterprise-level appsexperience in a multi-developer environmentexperience with real-time node.js appsexperience in an aws cloud environmentknowledge of hipaa requirements for software developmentthis is a full-time, in-office opportunity to join a small team of developers in a profitable, growing company. due to hipaa security policies we will need you to work on-site.benefits includecompetitive salary.professional development budgetdevelopers are assigned a new macbook pro laptop, sit-stand desk and 5k lg external monitor.dog-friendly officeflex-daysretirement plan with company matchquarterly bonusesmedical, dental insurance (90% of the employee premium paid and 50% of dependent premium paid)$1,000 / yr contribution to hsa.life insuranceshort term disabilitylong term disability at no cost to employee.fitness club reimbursementvacation, paid holidays, birthday offjob type: full-timesalary: $40,000.00 to $60,000.00 /yearjob location:austin, txrequired experience:web development: 2 years
+
+27 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to gomedigap.
+
+
+
+
+
+
+other jobs you may like
+
+
+web developer - javascript, html5, c#
+
+technology navigators -
+					austin, tx
+2 days ago
+
+ easily apply
+
+
+
+web developer contractor (html/css/javascript...
+
+jackrabbit mobile -
+					austin, tx
+22 days ago
+
+ easily apply
+
+
+
+jr web developer
+
+siepe -
+					dallas, tx
+15 days ago
+
+ easily apply
+
+
+
+junior software developer
+
+mattersight -
+					austin, tx
+18 days ago
+
+
+junior software developer
+
+revature -
+					austin, tx
+28 days ago
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

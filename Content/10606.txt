@@ -1,0 +1,680 @@
+
+
+ careers | neura artificial intelligence | ai as a service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+technology
+
+neura in your product
+how neura works
+neura’s apis
+
+
+solutions
+
+all solutions
+digital health
+smart home
+mobile engagement
+media & entertainment
+automotive
+transportation
+insurance
+travel
+retail
+
+
+resources
+
+whitepapers and reports
+briefs and guidelines
+
+
+company
+
+leadership
+investors
+meet our team
+career
+newsroom
+blog
+contact us
+
+
+ 
+
+                        developer                    
+
+
+
+
+
+
+
+
+
+start now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+technology
+
+ neura in your product
+how neura works
+neura’s apis
+
+
+solutions
+
+ all solutions
+digital health
+smart home
+mobile engagement
+media & entertainment
+automotive
+transportation
+insurance
+travel
+retail
+
+
+resources
+
+ whitepapers and reports
+briefs and guidelines
+
+
+company
+
+ leadership
+investors
+meet our team
+career
+newsroom
+blog
+contact us
+
+
+developer
+
+
+
+
+
+life is short.do stuff that matters.
+
+
+
+
+neura’s ai enables apps and iot devices to deliver experiences that matches who each user is and what they are doing at any moment. with a more personalized experience than ever before, products see significant increase in engagement and reduced churn.
+neura is incredibly proud to have among the team the brilliant data scientists and developers who have created neura’s advanced ai engine and apis, as well as the product and customer success people who have helped define solutions that match what product companies need most. lastly, our sales and marketing team members are dedicated to communicate neura’s value to the world.
+
+
+
+
+
+an awesome team makes neura awesome
+work hard, play hard. it’s a cliche, but it fits neura. whether camping, bowling, or just chatting over lunch, the neura culture shines.
+wondering if you’re a good match with neura. all team members are reflected in the company’s four cultural mantras:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interested? check out our current openings.
+
+
+
+
+
+
+data scientist
+bring a creative flair to complex problems (we have a lot of those), feel at home playing with rich large-scale data (location: herzilya)
+
+
+apply
+
+
+
+
+
+
+
+
+
+android developer
+along with developing amazing applications, you'll also be a key member of our mobile application technical planning sessions. (location: herzilya)
+
+
+apply
+
+
+
+
+
+
+
+
+
+devops specialist
+developers' developer, you're so meta it hurts. (location: herzilya)
+
+
+apply
+
+
+
+
+
+
+
+
+
+server developer
+develop business logic and api services (location: herzilya)
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+
+
+
+
+
+bring a creative flair to complex problems (we have a lot of those), feel at home playing with rich large-scale data (location: herzilya)
+
+
+you'll be expected to:
+
+- develop new and innovative behavioral models to enrich neura’s ai capabilities
+- analyze large amounts of data and bring insights to inform our product and improve existing models
+- be responsible for monitoring model performance and accuracy
+- work closely with our product team and engineers to bring your models to production
+- become familiar with our data collection process and work closely with engineers developing new data sources
+
+
+
+we need you to have:
+
+
+experience with: 
+- at least 2 years of experience in machine learning and data analysis
+- data analysis with large scale datasets
+- machine learning and modeling
+- python or another scripting language
+
+
+bonus points if you've already:
+- have worked with spark and/or scala
+- have a software development background
+
+
+
+we need you to be:
+
+- a problem solver with strong interest in new ml methods and technologies
+- a source of innovation, bringing your own ideas to the table
+- someone who can work well in a team, but can work independently and efficiently without supervision
+- someone who takes ownership of their work and cares about real-world outcomes
+- someone who feels comfortable in a dynamic start-up environment
+
+
+
+we'll provide you with:
+
+- a team with an almost horizontal hierarchy, and open communications policy
+- a chance to impact the company’s roadmap. you’ll have opinions, we’ll want to listen
+- coffee
+- cookies
+- an opportunity to scold the employee who has never seen “the princess bride”
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+android developer
+
+
+
+
+
+
+
+along with developing amazing applications, you'll also be a key member of our mobile application technical planning sessions. (location: herzilya)
+
+
+you'll be expected to:
+
+- developing client applications
+- mobile sensors data collections development
+- developing integrations with iot devices via bt and wifi sockets
+- developing sdk libraries for 3rd party integration
+- integration with 3rd party sdk services
+- integration with neura web services
+- client application ux & ui perfect implementation
+- testing his/her developed features and bug fixes
+- participating in mobile application technical planning sessions
+- responsible for successfully working mobile applications
+
+
+
+we need you to have:
+you are an experienced android developer, with at least 2 years’ experience in multiple mobile application development.
+
+experience with: 
+- highly experienced in android mobile application development
+- experienced working by the designer's guidelines in app development
+- fast and efficient autodidact abilities
+
+
+bonus points if you've already:
+- experience in other mobile platform development, for example ios
+- experienced in integrating to connected devices via bluetooth, wifi or zigbee
+- experienced in sdk development
+
+
+
+we need you to be:
+
+- problem solver mindset and strong interest in new technologies
+
+
+
+we'll provide you with:
+
+- a team with an almost horizontal hierarchy, and open communications policy.
+- a chance to impact the company's roadmap. you'll have opinions, we'll want to listen.
+- coffee.
+- cookies.
+- an opportunity to scold the employee who has never seen "the princess bride."
+- location: herzliya, israel
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+devops specialist
+
+
+
+
+
+
+
+developers' developer, you're so meta it hurts. (location: herzilya)
+
+
+you'll be expected to:
+
+- manage: multiple amazon cloud accounts to ensure optimal capacity, performance, security and availability
+- support: application deployments, building new systems and upgrading and patching existing ones, and build tools and processes to support neura infrastructure
+- solve: complex technical issues involving multiple technology stacks
+- work: closely with a team of developers and qa engineers, understand and anticipate the agile infrastructure needs of the development and testing processes; create an environment where development, qa, testing and production work can proceed securely, efficiently, and flexibly
+- tech stack you’ll be using: linux; mysql; postgresql; mongodb; amazon web services; apache (httpd, tomcat, solr, activemq); jenkins; maven; java and javascript; redis; rabbitmq; git; open source technologies
+
+
+
+we need you to have:
+developers' developer, you're so meta it hurts.
+
+experience with: 
+- 3+ years technical experience in dev/devops/system position
+- at least one year working with aws, deep understanding of aws concepts, and fluency with the aws apis/command line tools.
+- java application server administration and tuning experience desired (e.g. tomcat, websphere, tornado, etc.)
+- experience managing linux systems
+- scripting knowledge in python/ruby
+
+
+bonus points if you've already:
+- chef/puppet/capistrano.
+- hadoop/spark/storm.
+- jenkins/team city.
+- security requirements for sensitive data pipelines.
+
+
+
+we need you to be:
+
+- a problem solver with strong interest in new technologies.
+- someone who can work well in a team, but doesn't need to follow orders to be efficient.
+
+
+
+we'll provide you with:
+
+- a team with an almost horizontal hierarchy, and open communications policy.
+- a chance to impact the company's roadmap. you'll have opinions, we'll want to listen.
+- coffee.
+- cookies.
+- an opportunity to scold the employee who has never seen "the princess bride."
+- location: herzliya, israel
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+server developer
+
+
+
+
+
+
+
+develop business logic and api services (location: herzilya)
+
+
+you'll be expected to:
+
+- develop business logic and api services
+- integrate with 3rd party api services (including iot gadgets, social services and others)
+- implement neura public api services
+
+
+
+we need you to have:
+
+
+experience with: 
+- at least 4 years’ experience in backend software development
+- programing in java spring or scala (experienced enough with the jvm)
+- experience with following stack: java/scala, akka, postgresql, mongodb & elasticsearch
+- developing rest services
+- solid knowledge of web protocols and common client-server patterns
+- managing testing and deploying servers
+- deep understanding of profiling/performance-tuning
+- experienced in sql (ex. postgres) and nosql databases (mongodb, redis, neo4j, cassandra)
+- experienced in high performance real-time systems development
+
+
+bonus points if you've already:
+- experience with hadoop / spark / storm / cassandra
+- know deep learning, machine learning and nlp algorithms over big data
+- experienced in auto deployment tools (team city, chef, etc.)
+- analytics and algorithms experience
+- experienced in python or any other programming language
+- experience in managing aws cloud services
+
+
+
+we need you to be:
+
+- passionate about concurrency problems and application performance
+- self-learner that can prototype quickly with new technologies/frameworks
+- a problem solver with strong interest in new technologies
+- someone who can work well in a team, but doesn’t need to follow orders to be efficient
+
+
+
+we'll provide you with:
+
+- a team with an almost horizontal hierarchy, and open communications policy
+- a chance to impact the company’s roadmap. you’ll have opinions, we’ll want to listen
+- coffee
+- cookies
+- an opportunity to scold the employee who has never seen “the princess bride”
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+technology
+solutions
+pricing
+developer
+resources
+developer faq
+company
+blog
+newsroom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+
+
+
+
+privacy
+terms
+eula
+security
+
+copyright © 2017 neura, inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

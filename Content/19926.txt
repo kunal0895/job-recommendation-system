@@ -1,0 +1,60 @@
+
+
+
+
+collegevine engineering - jobs: front-end developer (react/scss) - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+front-end developer (react/scss)
+
+front-end developer (react/scss)
+cambridge, massachusetts, united states
+
+descriptioncollegevine is looking for a product-focused front-end developer to help engineer the future of guidance, mentorship, and higher education attainment.the right applicant for this role has production experience in front-end javascript, cares about the company mission, and is discerning about engineering culture.first, our mission is to level the playing field of higher education attainment, regardless of socioeconomic status. to do this, we intend to make virtual guidance services available and affordable for all through a combination of near-peer mentorship and technology. as a front-end engineer, you will influence the entire next generation of high schoolers and college grads-to-be. we encourage all applicants to learn more at https://www.collegevine.com.second, we are looking for candidates who wish to join an engineering organization centered around autonomy, authenticity, excellence, and pragmatism. a few things to know about us: we are a bunch of veteran fpers who work in haskell and purescript in addition to js. if you've been playing around with elm, clojurescript, or purescript on the side, imagine leveling up your career at a company where you work side-by-side with senior functional programmers all day. old-school ed-tech interfaces are not acceptable to us. our software must impress and work for a wide audience since we serve students and their families. on any given day, your front-end code will be run by high schoolers, college students, young professionals, guidance counselors, parents, and grandparents from all walks of life. expect autonomy in exchange for transparency and results. since you are well-read, curious, and self-aware, we will treat you like the awesome, interesting adult that you are. we have core hours and a goal-based environment; we understand mindfulness and the value of deep focus (see benefits below). requirementswhat we expect from you: you have a few projects (main or side) that you've put into production and that you're proud to show off. you can take a pixel-perfect mockup or screen comp and turn that into html and css3 that renders perfectly. you have experience with webpack. you seek ownership beyond your own work, and look to the product and company as a whole. you are a self-starter and internally motivated, with a strong desire to be part of a successful team that shares your high standards. you have great written communication skills and can prove this to us by writing a cogent cover letter. you know more languages than just javascript; you understand tail-recursion; you are painfully aware when you write quadratic algorithms (but always try to avoid doing so). you are fluent with git. benefitswe offer a competitive salary, equity, and a full suite of benefits, some of them unconventional, but awesome for the right person: medical, dental, and vision insurance. and if you don't need insurance you can always eat too many of our free snacks and need it afterwards. up to you. regular team dinners and company outings. a culture of mentorship. become the near-peer mentor for one (or more!) of our consultants or program managers and be the help you wish you had when you were in college. flexible hours with a 4-hour core - plan the rest of your workday as you wish, just give us the majority of your most creative hours. productivity ideas: avoid traffic, never wait in line at the grocery store, wake up without an alarm clock, be around for your family. goal-based environment (as opposed to grind-based or decree-based environment; work smarter, not harder; intelligently, not mindlessly). we collaborate on setting goals, but you set your own process for accomplishing those goals. you will be entrusted with a lot of responsibility and you might even experience fulfillment and self-actualization as a result. join an engineering culture that celebrates mindfulness and takes the quality of your attention seriously. we don't spam our slack channels; your manager will not come tap you on the shoulder asking for pointless things; we write things down after we discuss them in person; we try to minimize meetings. remember: we’re a startup. you’re an early employee. we face challenges. we have to ship. your ideas matter. you will make a difference.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+collegevine engineering website
+
+powered by
+workable
+
+
+
+
+

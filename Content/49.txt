@@ -1,0 +1,266 @@
+
+
+
+
+job application for data engineer at casper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at casper
+      
+(view all jobs)
+
+        new york
+      
+
+
+looking for a job to get you out of bed? 
+data engineering at casper is a small, but growing team that supports the organization's desire improve how it uses data.we are looking for an engineer to help us build and iterate on our data pipeline to improve the quality and delivery speed of the many data sources that feed into our data warehouse. this work serves as the foundation for our future efforts such as optimizing ad spend, streamlining business operations, and improving our customer’s experience. as one of the first members of this team, you will play a crucial role in the delivery of features and direction of the data engineering team at casper.
+casper (casper.com) is a global sleep company that launched in 2014 with an obsessively engineered, outrageously comfortable mattress sold directly to consumers. its critically acclaimed sleep surface was developed in-house, has a sleek design, and is delivered in a small, "how did they do that?"-sized box. the company is one of the fastest-growing consumer brands of all time, and its product line has expanded to include sheets, pillows, a matching foundation, and a dog mattress. casper was named one of fast company's 50 most innovative companies in 2017, and its eponymous mattress was crowned one of time magazine's best inventions.
+we are deeply committed to building a diverse and inclusive workforce so that we represent all those who dream big equally. 
+when you’re not catching zzz’s, this is what you’ll do
+
+be instrumental in the design and build out of our big data strategy as the volume of our data increases
+build tools to monitor the flow and quality of data moving through our data pipeline
+contribute to our etl system to move data from a variety of data sources into our data warehouse
+adjust our data model as needed to improve the performance of reports and common queries
+guide data analysts in adopting best practices with their sql and python code
+
+our dream candidate is...
+
+experienced in building systems that must deal with the complexities of integrating with third parties
+proficient in python and is ready to pick up other languages as the situation requires
+understands how to model a database optimized for both oltp and olap operations
+comfortable with aws’s data and analytics products
+well-informed about big data processing tools and when to use them
+curious. you are driven to understand how and why things work the way they do
+
+the syrup on your waffles
+
+salary to pay your bills, a potential bonus for some splurging, and equity so that you’re part of the casper family.
+medical, vision, and dental insurance to help you with those coughs or cavities (too many waffles...).
+401k program so you have some savings for later in life.
+extra cash incentives for being healthy and fit (we actually give you money to track your sleep!).
+unlimited vacation policy.  if you need time off just take it; we trust you!
+bi-weekly catered lunches to catch up with your teammates. 
+free snacks and coffee, including a huge breakfast selection (10 types of cereal anyone?)
+nap pods, for those days when you stayed out a little too late...
+a full gifted bed set when you join (mattress, sheets, pillows, the works)!
+
+if you dream about this stuff this job is probably right for you. we look forward to learning more about you, but if you’re feeling sleepy, take a nap before applying!
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+why are you interested in working at casper?  *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

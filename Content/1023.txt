@@ -1,0 +1,103 @@
+
+
+
+umpqua bank job postings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					enterprise data integration engineer - (jl24931)
+				
+
+
+
+
+									job requisition id:
+								
+
+									jl24931
+								
+
+
+
+								job title:
+							
+
+								
+								enterprise data integration engineer 
+							
+
+
+
+									job type:
+								
+
+									full-time
+								
+
+
+
+								location:
+							
+
+								hillsboro, or 
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+job description:
+						job purpose support the enterprise by performing data management, programming, analytic and consultative activities including database, documentation and data trending assessment.  design, develop, and update data integration, profiling, and cleansing routines.  ensure all relevant metadata is captured and/or updated.  provide related modeling, mapping, and process assistance. essential duties and responsibilities •design, develop, test, and update data integration (etl, replication, and change data capture), data profiling, and data profiling processes. update and maintain metadata repositories and dictionaries.•responsible for creating, validating, and/or updating source-to-target maps. help perform source analysis and supports departmental process improvement initiatives.•assist with logical and physical model design, source-to-target mapping, use cases, and other development processes and artifacts.•identify data subject areas, entities, attributes, relationships, information types, and domains. with project team, design and communicate logical and/or physical models and designs.•responsible for supporting identification of physical implementation requirements, including normalization techniques and referential integrity or dimensional techniques.•assist with defining, maintaining, and enforcing data architecture, definitions, and standards.  participate in data policy, standards, and procedure development processes.•perform code reviews, data model reviews, and testing.  establish standards and best practices. work with it partners to perform periodic system and database operational tests, audits, and tuning.•responsible for promoting understanding of data quality concepts and methods.  identify, document, and recommend solutions for poor quality data.•demonstrates compliance with all bank regulations for assigned job function and applies to designated job responsibilities – knowledge may be gained through coursework and on-the-job training. keeps up to date on regulation changes. follows all bank policies and procedures and compliance regulations, and completes all required annual required or job-specific training.  may be asked to coach, mentor, or train others and teach coursework as subject matter expert. actively learns, demonstrates, and fosters the umpqua corporate culture in all actions and words.  takes personal initiative and is a positive example for others to emulate.  embraces our vision to become "the world's greatest bank."•may perform other duties as assigned. supervisory responsibilities none required knowledge, skills and abilities •bachelor’s degree in mis, computer science, or related field.•5-8 years of related experience.•intermediate knowledge of database concepts, methodologies, and architectural approaches.•extensive knowledge of database systems and administration, including security, development and testing support, modeling and logical design, database design, and qualify control.•demonstrate strong quantitative, analytical, and problem solving skills, with ability to adapt to new methods, techniques, and procedures.•intermediate knowledge of logical and physical data modeling and data modeling tools.  experienced in complex sql statements, microsoft access, sql databases, vb programming language, excel, data warehousing, etl and possibly crystal reports.  proficient in microsoft office products (word, powerpoint, and project).  knowledge of business objects and/or crystal reports preferred.•intermediate knowledge of etl, replication, change data capture and other data integration techniques and technologies (microsoft sql server 2008 suite of tools (sql server management studio, ssis, ssrs, sql server business intelligence studio, etc.).•ability to work effectively in a team environment.  excellent verbal and written communication skills required. physical and environmental demands •office environment – no specific or unusual physical or environmental demands.•no travel required. umpqua bank is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. we maintain a drug-free workplace and may perform pre-employment substance abuse testing. *li-up 
+
+
+
+
+
+
+
+
+
+
+
+

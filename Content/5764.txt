@@ -1,0 +1,308 @@
+
+
+
+
+
+
+
+
+
+apply for american express sr infrastructure engineer - network automation & operational intelligence job - digital commerce, technology - phoenix, arizona
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+american express
+
+
+
+
+
+
+life at american express
+our company
+career areas
+student opportunities
+
+
+
+
+
+careers home
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+american express careers
+
+
+
+
+
+
+
+get future jobs matching this search.
+
+
+
+
+
+
+
+ get alerts 
+
+
+
+
+ please enter a valid email.
+ unfortunately, our network is not responding. please try again later.
+ your job alert was successfully created.
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sr infrastructure engineer - network automation & operational intelligence
+
+
+locations:
+phoenix, arizona
+
+
+
+
+categories: digital commerce
+
+
+categories: technology
+
+
+
+
+
+apply
+
+
+get referred
+
+
+
+how get referred works
+
+how get referred works
+
+how get referred works
+
+
+
+
+job description
+
+
+
+
+  
+the network automation & operational intelligence team is seeking a senior infrastructure engineer ii.  the selected candidate will be responsible for the architecture, implementation, and support of our network analytics and operational intelligence platform.  the senior infrastructure engineer ii should have a burning desire to work with open source tools in order to deliver self-healing, network services, through internally developed products which leverage analysis of operational event data.
+qualificationsthe selected candidate will have proficiencies and leadership competencies required to mentor their peers in the following areas:bachelors in cis or related technology engineering field10+ years of experience as an engineer in an enterprise technology roleopen source hadoop architecture, implementation, and supportstreaming data pipeline technologies including kafka, x15, avro, sparkdemonstrated automation experience with ansibledemonstrated experience with search and visualization tools for event datademonstrated expertise in a programming language such as python, .net, java.strong understanding of network technologies including tcp/ip, routing, and switchingstrong knowledge of network machine telemetry including netflow, ipfix, syslog, snmp, and wire datastrong understanding of restful apis and json/xmlmachine learning concepts and it’s use in anomaly detection (tensorflow/spark)familiarity with cisco and f5 product configurationsexperience supporting or building hadoop (hortonworks preferred)experience supporting or building real-time streaming data pipelines using apache kafkaexperience with real-time stream processing software (the “t” in “etl” – transforming data in a batch or real-time stream processing platform) – some examples are apache spark, apache storm, ksql, etc). linux os expertise programming language expertise (python, c#, go, java)employment eligibility to work with american express
+in the u.s. is required as the company will not pursue visa sponsorship for
+these positions.
+reqid: 17014866schedule (full-time/part-time): full-time
+
+
+
+
+
+
+apply
+
+
+get referred
+
+
+
+how get referred works
+
+how get referred works
+
+how get referred works
+
+
+
+
+ 
+
+
+
+
+contact us
+manage your profile
+manage your profile (students)
+employees
+
+
+
+
+
+
+
+
+
+
+
+adchoices
+privacy statement
+terms of service
+
+
+
+
+american express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other status protected by law.
+us candidates/employees: click here to view the “eeo is the law” poster and supplement and the pay transparency policy statement.
+
+all users of our online services subject to privacy statement and agree to be bound by terms of service. please review.
+© 2017 american express company. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

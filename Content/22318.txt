@@ -1,0 +1,304 @@
+
+
+
+        data scientist- deep learning -        bossanova robotics -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova, we create service robots for the global retail industry. our robots' mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we are passionate about solving big problems and bringing solutions to our customers. we are growing fast and have many exciting open positions. if you are up to the challenge, we want to hear from you.  
+
+
+
+data scientist- deep learning
+
+
+san francisco, ca                    
+
+full time                
+
+computer vision                    
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova we create service robots for the global retail industry. our robots’ mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we drive autonomously through aisles, navigating safely among customers and store associates. if we were a self- driving car we’d be operating at level 5 autonomy.
+ 
+oh, we should add, it’s real, happening today, you can meet our robots in some of the world’s biggest retailers.
+ 
+position: data scientist- deep learning
+ 
+location: san francisco or pittsburgh
+we are looking for an experienced senior deep learning scientist with computer vision background to work on analyzing and understanding what the robot sees and converting that into business values for the company and customers.
+ 
+responsibilities:
+architect, develop, train and productize deep learning solutions for image analysis including object detection, object recognition, scene understanding and semantic segmentation
+develop deep learning systems that can be robust and can scale across variations in data and complex use cases
+ 
+qualifications:
+
+ms or phd in computer vision, computer science, data science, machine learning, or related field
+2+ years of production level experience in developing deep learning algorithms and technologies for solving computer vision problems
+experience with at least one major deep learning framework (tensorflow, caffe, theano, torch, cntk, mxnet). experience with tensorflow preferred
+strong knowledge of deep learning theory (cnns, rnns, lstms, etc.)
+strong c++, python skills
+strong problem solving skills and ability to learn quickly
+being up-to-date on trends and developments in deep learning
+
+nice to have:
+
+experience deploying and scaling deep learning models in cloud (azure in particular)
+experience optimizing the dl models to run faster during inference time
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!
+
+150
+
+
+do you have a ms degree and 2+ years experience in deep learning or a phd with 1+ year deep learning experience?*
+yesno 
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

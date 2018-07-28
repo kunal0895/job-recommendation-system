@@ -1,0 +1,913 @@
+
+
+
+
+
+
+
+
+
+
+
+
+specialist, solutions research & application development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+language 
+
+english 
+french 
+
+
+
+ worldwide careers site
+
+
+
+sign in
+
+
+
+accessibility
+
+
+
+
+
+
+working at merck 
+
+why merck?
+diversity at merck
+from service to science
+prepare to launch
+compensation and benefits
+
+
+
+featured jobs 
+
+corporate jobs
+engineering jobs
+oncology jobs
+manufacturing and quality jobs
+sales and marketing jobs
+clinical research jobs
+research science jobs
+regulatory affairs and compliance jobs
+medical affairs and medical doctor jobs
+
+
+
+locations
+
+join our talent community
+
+
+
+ menu
+
+language
+english 
+french 
+
+
+ worldwide careers site
+
+
+
+sign in
+
+
+
+accessibility
+
+
+working at merck
+why merck?
+diversity at merck
+from service to science
+prepare to launch
+compensation and benefits
+
+featured jobs
+corporate jobs
+engineering jobs
+oncology jobs
+manufacturing and quality jobs
+sales and marketing jobs
+clinical research jobs
+research science jobs
+regulatory affairs and compliance jobs
+medical affairs and medical doctor jobs
+
+
+locations
+
+
+
+join our talent community
+
+
+
+
+
+ job search
+
+
+
+
+search all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+ share
+
+
+linkedin
+email
+facebook
+twitter
+googleplus
+more option
+
+
+
+
+
+
+
+
+
+specialist, solutions research & application development
+date: 
+dec 12, 2017
+                
+
+
+location: 
+austin, tx, us
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+requisition id: eng003605merck & co., inc. kenilworth, n.j., u.s.a. known as merck in the united states and canada, is a global health care leader with a diversified portfolio of prescription medicines, vaccines and animal health products. the difference between potential and achievement lies in the spark that fuels innovation and inventiveness; this is the space where merck has codified its 125-year legacy. merck’s success is backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. merck’s information technology organization partners with colleagues across the business to help serve our patients and customers around the world. ours is a high energy team of dynamic, innovative individuals dedicated to advancing merck’s contribution to global medical innovation by leveraging information and technology to efficiently advance the business by driving revenue and productivity. how will you invent the future? as a  solutions research and application development specialist at merck’s austin it hub, you will be part of inventing tomorrow. our innovative centers are where great people come together and deliver solutions that save and improve lives. 
+ 
+we are seeking a computer scientist for merck’s computer science research and development organization. this organization brings together many disciplines of computer science, including large-scale data architecture and parallel processing, in-memory and precompute paradigms, secure design, application development, user interaction, and data science and visualization. technical skills are necessary to ensure rapid progress can be made in each important technical area. in this role, the candidate will be identifying and delivering new capabilities to process heterogeneous data more quickly and easily, combine and connect that data with less human intervention, express and apply appropriate rules of use more naturally, and create new pathways through the data that gives scientists and medical practitioners better ways to navigate through hypotheses. as such, the candidate will interact directly with professionals and practitioners across life sciences. a significant part of our strategy is to observe, diagnosis and explore problems that will lead us to discover new approaches and solutions through experiments, assessment and verification. core principles for our design include scalability, automation and learning from data and user behavior. solution design should continually be challenged and improved through exposure to new use cases and unexpected interaction. the candidate must be enthusiastic in exploring new technical approaches to address unsolved problems across life sciences and healthcare and show a willingness and creativity to discover new challenges and possibilities as they arise. this position offers the opportunity to express new ideas through academic papers and presentations. the candidate must also be able to identify and protect intellectual property. our ability to excel depends on the integrity, knowledge, imagination, skill, diversity and teamwork of an individual like you. to this end, we strive to create an environment of mutual respect, encouragement and teamwork. as part of our global team, you’ll have the opportunity to collaborate with talented and dedicated colleagues while developing and expanding your career. this position will report to the director of computer science research and development in it planning and innovation. 
+responsibilities will include but are not limited to: 
+
+
+identify, capture and communicate the unmet problems of users (e.g., scientists, practitioners) as needs, assumptions, and opportunities for solutions and services.
+
+analyze, assess, and experiment to develop and create novel solutions using modern development tools, methodologies, and services. 
+
+maintain and improve existing architecture, applications and data processing systems, while evolving the services to meet future needs.
+
+differentiate between ideas that should be published and shared and ideas that should be protected as intellectual property.
+austin it hubqualificationseducation: 
+
+
+bachelor's degree in computer science
+required: 
+
+
+a minimum of 1 year experience in hands-on software development of applications, services, and software delivery experience.
+
+experience with web application programming languages and full stack development.
+
+familiarity with modern development tools, frameworks and methodologies.
+
+highly-adaptable to new approaches and willingness to challenge constraints.
+preferred: 
+
+
+understand and apply modern software development and design skills to important new capabilities that provides data processing and network analysis.
+
+experience working with a development team and managing shared code.
+
+application prototyping and ux design familiarity with data science techniques and applied machine learning and statistical analytic approaches to data 
+your role at merck is integral to helping the world meet new breakthroughs that affect generations to come, and we’re counting on your skills and inventiveness to help make meaningful contributions to global medical advancement. at merck, we’re inventing for life. 
+ 
+if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to staffingaadar@merck.com. 
+  
+search firm representatives please read carefully: 
+merck & co., inc. is not accepting unsolicited assistance from search firms for this employment opportunity.  please, no phone calls or emails.  all resumes submitted by search firms to any employee at merck via email, the internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of merck.  no fee will be paid in the event the candidate is hired by merck as a result of the referral or through other means.
+ 
+visa sponsorship is not available for this position.
+ 
+for more information about personal rights under equal employment opportunity, visit:
+ 
+            eeoc poster
+            eeoc gina supplement job: engineering, development & integrationother locations: employee status: regulartravel: yes, 20 % of the timenumber of openings: shift (if applicable): hazardous materials: company trade name: merck
+        
+
+
+nearest major market: austin
+                    
+                
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+apply now 
+
+
+×
+apply for job
+
+
+
+
+
+×
+
+
+
+×
+
+
+
+×
+
+
+
+
+
+
+enter your email to apply
+
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+emplois à nos bureaux,
+emplois en recherche scientifique,
+emplois en ingénierie,
+emplois en fabrication et qualité,
+corporate jobs
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+                    copyright ©
+                    2017
+                    merck & co., inc. all rights reserved.
+                
+
+
+
+
+
+
+
+
+merck.com/careers
+view all jobs
+top job searches
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

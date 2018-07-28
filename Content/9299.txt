@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view job
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+job requirements
+
+
+residencies & training
+
+
+life at intermountain
+
+
+give
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers menu
+
+
+
+
+
+
+
+job search
+
+
+my account
+
+
+login
+
+
+help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job opportunity
+
+
+data analyst-technical-sr 12/4/17information technologyfull timegreater salt lake areacentral offices
+
+
+
+
+refer
+
+
+save
+
+
+apply
+
+
+
+job id: 207861
+  greater salt lake area
+details:
+
+about uswhat does it mean to be a part of intermountain healthcare? it means that the quest for clinical excellence is not just a goal, but a given. it means building an environment where physicians and employees can deliver the best in healthcare. and it’s realizing each employee or volunteer is vital to the healing process, because we can only achieve the extraordinary together. 
+being a part of intermountain healthcare means joining with a world-class team of over 36,000 employees and embarking on a career filled with opportunities, strength, innovation, and fulfillment. our mission is: helping people live the healthiest lives possible.
+our patients deserve the best in healthcare, and we deliver.job description
+intermountain healthcare is currently seeking a technical data analyst to join our decision support and population health analytics team. candidate may be hired at associate, staff, or senior level depending on experience.
+this position focuses the majority of their time answering questions and producing analytical solutions for leadership and stakeholders across the organization.  this role supports decision support and population health initiatives with ad-hoc analysis and reporting. this position provides consultation and support in the development, analysis, interpretation, and management of a variety of highly complex projects.  candidate must have a proven analytical acumen and an applied ability to distill complex concepts into a cohesive and actionable message
+please note: we will hire at a level based on qualifications.
+essential job duties
+this position is responsible for providing analytical support - typically at a system-wide level. may work as part of a system-wide team or interact with stakeholders across the system. typically this position performs analysis on highly complex projects under general supervision. this position works with data sources serving the needs of customers in population health management / decision support.
+decision support and population health analytics (dspha) supports the development, implementation, and measurement of systems of care that assess the health needs of a target population and proactively provides and coordinates services to improve the health of that population. dspha provides support for the following functions: integration of population health data, value improvement, standard quality service and cost metrics and measurement, risk scoring and severity adjustment, attribution methods, contract analysis, and new data source insight. dspha utilizes data from across the healthcare system and across the continuum, including hospital, physician, and claims data.
+core essentials:
+1. creates analyses that answer complex business / clinical questions and distills complex concepts into cohesive and actionable insights
+2. writes more advanced sql including tuning / optimizing queries and influencing architecture design (i.e., working with data architects to design / modify tables). considered a subject matter expert by other analysts. demonstrates an understanding of analytic functions and regular expressions. could be a certified sql expert (e.g., oracle sql certified expert or similar).
+3. uses sub queries and the with statement in addition to more complex functions (e.g., substr, to_date, date calculations, etc.) to produce high quality material.
+4. assists in the identification of data quality (accuracy, completeness, etc.) issues. assists with the process of database design for assigned projects. as appropriate, trains other individuals and teams in the routine use of data collection, analysis, and reporting and interpretation tools for measuring performance.
+5. demonstrated an understanding of primary / foreign keys, table / field aliases, and partitions / indexes.
+6. provides project management / project leadership as appropriate to drive timelines and deliverables.
+7. trains others on skills and competencies required for previous levels of data analyst.
+8. acts as a thought leader and expert within their area of expertise.
+9. acts as a business partner by prescribing analytic solutions based on a solid understanding of intermountain's business. consults with customers on new ways to apply analytics to bolster their business. translates analytical knowledge into persuasive and business-friendly terms
+10. actively networks and builds professional relationships throughout intermountain and in the community and national user groups and forums.
+11. upon invitation, makes presentations to internal and external user groups and forums. may participate in case studies conducted by external groups
+additional essentials:
+
+1. collaborates with corporate and region resources to design, create, test and implement analytic tools (databases, reports, web applications, dashboards, etc.) that support enterprise / region needs and to improve data collection and reporting strategies (minimize duplication, redundancy, etc.).
+2. demonstrates high level sql and data extraction skills (i.e., uses pre-defined scripts, changes parameters, gui query (e.g., ms access, tools with drag-drop query creation capability, and excel cubes).
+3. uses standard intermountain reporting tools to generate reports for end users that interpret data for others to promote evidence-based decision making.
+4. possesses a fundamental understanding of the domain's data and associated data models and uses it to produce high quality material.
+5. compares data output to ensure data accuracy. creates basic qa test plans and validates data for accuracy
+6. responsible to document work / projects per enterprise-wide standards (reports, project tracking, databases, etc.)
+7. understands the appropriate use of indexes, partitions, ability to understand erds
+8. uses and analyzes intermountain data sources (edw, ormis, as400, essbase, risk management, etc.) to meet local and enterprise needs.
+9. provides consultation, data analysis, and project management for clinical and business stakeholders across the organization. communicates technical / analytical concepts to others.
+10. shares important and relevant information with the team. proactively offers suggestions, provides resources, volunteers for assignments, and removes barriers to help the team accomplish its goals.
+11. contribute to intermountain?s analyst community by participating in monthly analyst community events such as ask (analysts seeking knowledge) through presenting, teaching, and mentoring.
+
+posting specifics
+
+benefits eligible: yes
+shift details: full time, exempt
+department: decision support
+location: central offices, salt lake city, utah 
+
+minimum requirements (senior level) 
+
+a master's degree in an analytics-related field such as statistics, mathematics, finance, economics, or an mba with an emphasis in analytics and three years of experience.or a master's degree in a non-related field or a bachelor's degree in a related field and six years of experience, four of which are in the area of subject matter expertise (actuarial, clinical programs, clinical services, compliance, finance/accounting, human resources, management engineering, quality, revenue cycle, select health / insurance, strategic planning, costing, chargemaster, budgeting, etc.)or a bachelor's degree with eight years of experience and six years of experience in the area of subject matter expertise.
+experience demonstrating a working knowledge of sql (structured query language), quality improvement principles, and a fundamental knowledge of database design principles.
+experience demonstrating success in the development, analysis, interpretation, and management of a variety of complex data sources to include all facets of decision support/financial reporting.
+experience using word processing, spreadsheet, database, internet and e-mail, and scheduling applications.
+experience in a role requiring effective verbal, written, and interpersonal communication skills.
+experience with the industry standard bi or analytical tools and technologies.
+
+ minimum requirements (staff level) 
+
+a master's degree in an analytics-related field such as statistics, mathematics, information systems, computer science, finance, economics, or an mba with an emphasis in analytics and less than two years of experience.     or a master's degree in a non-related field or a bachelor's degree in a related field and two years of experience in the area of subject matter expertise (actuarial, clinical programs, clinical services, compliance, finance/accounting, human resources, management engineering, quality, revenue cycle, select health / insurance, strategic planning, costing,chargemaster, budgeting, etc.)     or a bachelor's degree with four years of experience in the area of subject matter expertise.
+experience demonstrating a working knowledge of sql (structured query language), quality improvement principles, and a  fundamental knowledge of database design principles.
+experience demonstrating success in the development, analysis, interpretation, and management of a variety of moderately complex data sources.
+experience using word processing, spreadsheet, database, internet and e-mail, and scheduling applications.
+experience in a role requiring effective verbal, written and interpersonal communication skills.
+
+minimum requirements - associate (junior level)
+
+a bachelor's degree in an analytics-related field such as statistics, mathematics, information systems, computer science, finance, business management, or economics with less than two years of experience. or a bachelor's degree in a non-analytics field with two years of experience demonstrating proficiency performing the job essentials at this level. degree must be obtained through an accredited institution. education is verified.
+experience demonstrating a working knowledge of sql (structured query language), quality improvement principles and a fundamental knowledge of database design principles.
+experience demonstrating success in the development, analysis, interpretation, and management of a variety of data sources.
+experience using word processing, spreadsheet, database, internet and e-mail, and scheduling applications.
+experience in a role requiring effective verbal, written, and interpersonal communication skills.
+
+physical requirements
+
+interact with others requiring the employee to verbally communicate information.
+operate computers and other it equipment requiring the ability to move fingers and hands.
+see and read computer monitors and documents
+remain sitting or standing for long periods of time to perform work on a computer, telephone, or other equipment.
+
+preferred requirements
+
+ability to distill complex concepts into a cohesive and actionable message
+applied experience presenting analytic results to front-line and executive audiences
+strong analytical acumen with proven experience supporting multiple types of analytic requests
+applied understanding of sql query writing and tuning without the use of a graphical user interface
+ability to manage tight timelines on multiple projects and effectively adapt to changing priorities
+experience in healthcare is a plus
+
+please note
+all positions subject to close without notice. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+ 
+
+additional details:
+
+ 
+
+working hours      
+
+40      
+
+
+
+primary work location      
+
+central offices      
+
+
+
+expertise      
+
+information technology      
+
+
+
+job type      
+
+full time      
+
+
+
+location      
+
+us-ut-salt lake city      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+intermountain healthcare
+2016
+
+
+
+privacy policy
+
+
+terms of use
+
+
+website feedback
+
+
+
+
+
+
+

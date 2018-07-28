@@ -1,0 +1,28 @@
+systems developer at vector tradingsystems developerchicago, ilfull-timejob openingssystems developer%button_apply_to_position% apply using linkedinposition: algorithmic trading systems developer
+who we are:
+vector trading llc is a proprietary electronic trading company founded in 2014 and headquartered in chicago. we create and deploy market-making strategies in electronic markets globally. vector uses a quantitative approach to trading using the disciplines of mathematics, statistics, computer science, and financial engineering. we are small and nimble, and in a short amount of time we have found new ways to leverage our strength in the industry by working on the right projects, as we take smart risks and reward skills and integrity.
+our traders and developers are innovators. our goal is to push our boundaries on a daily basis and provide everyone with opportunities to utilize their full skill-set to do work that matters. regardless of experience, everyone can feel comfortable and respected bringing their best selves to the table.
+responsibilities:
+develop algorithmic trading systems in c++/linux alongside traders, quants, and developers
+qualifications:
+the ideal candidate for the algorithmic trading systems developer position should possess the following skills and knowledge:
+- passion for markets and technology
+- strong c++ programming skills, preferably in a linux environment
+- knowledge of low level systems programming and networking is highly desirable
+- some quantitative background in statistics, machine learning, and/or finance is desirable
+- extremely reliable person
+- working knowledge of tools such as excel, r, lua
+we offer:
+
+one-on-one mentoring
+on-site fitness facility
+locker rooms with showers (for cyclists, etc.)
+catered meals daily
+fully stocked kitchen with snacks, drinks, etc.
+casual dress code
+bonus program
+steps from lake michigan & lakefront
+opportunities to build a long-term career
+health insurance, dental and 401k savings plan
+
+%button_apply_to_position%%footer_powered_by%breezy

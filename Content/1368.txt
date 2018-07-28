@@ -1,0 +1,189 @@
+
+
+
+mercy careers | mercy |data scientist-machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+data scientist-machine learning
+
+
+
+data scientist-machine learning
+
+
+
+
+requisition id 
+
+2017-756265
+
+
+
+
+category 
+information technology
+
+
+
+
+
+position type 
+
+full time
+
+
+
+
+shift(s) 
+days, varies/rotating
+
+
+
+
+
+department 
+
+analytics
+
+
+
+
+location 
+us-mo-chesterfield
+
+
+
+
+
+
+
+more information about this job
+
+
+
+
+overview
+
+
+
+
+
+
+
+ we’re a little different our mission is clear. we bring to life a healing ministry through our compassionate care and exceptional service.   we don’t believe in jobs at mercy, we believe in careers that match the unique gifts of unique individuals; careers that not only make the most of your skills and talents, but also your heart. at mercy, you’ll feel our supportive community every step of your day, especially the tough ones. we’re a team and love working that way. that team is expanding, and we currently have exceptional opportunities to help our communities grow.
+
+
+
+
+
+
+
+responsibilities and qualifications
+
+
+
+
+
+
+
+the medical intelligence and analytics division at mercy is a small, agile, cross-disciplinary team that uniquely fuses together physician and nursing experience in the clinical domain with technical expertise in ehr database engineering, data modeling, bi development, ui / front-end development, machine learning and statistics. true to our team motto — 'transforming complexity into insight to enrich lives’ — we work closely with health care practitioners across the organization to build applications that reveal the insights hiding in our precious data resources in order to improve decision making and operational workflows that ultimately impact patient care. as a multi-state hospital system serving millions of patients all under a single ehr system, mercy has a large and robust healthcare data set. we are expanding our team to include an experienced machine learning engineer to help create actionable insight into this data. you will work with clinicians and other data experts to integrate predictive analytics into the workflows of doctors, nurses, and billing specialists throughout the mercy system. experience with applying machine learning models to solve real-world problems (i.e. with multiple stake holders) as part of their on-the-job dutiesemphasis on analysis and model development, but experience deploying a model for an end-to-end app solution of some sortadvanced machine learning skills using python or r: clustering, regression, classification.assess model performance; train multiple models; carry out hyperparameter tuning.some familiarity with deep learning.experience working with database systems transform and clean data into an appropriate form for statistical analysis.use inferential statistics to gain insight into problems and guide decision making.work with domain experts to identify areas where predictive analytics can take us to the next level.be an active listener, probe requirements for all projects from relevant stakeholders, stay nimble and willing to produce rapid iterations.be capable of self-direction, within context because you’re committed to excellence, you understand the importance of being properly prepared for your role at mercy. that’s why you’ll bring to your role the right set of qualifications: education: bs or above in relevant discipline (math, statistics, computer science or similar). experience: 3+ years of machine learning experience. experience using predictive analytics in a business or healthcare setting. skills: deep knowledge of a scripting or statistical programming language (python preferred). basic sql. ability to efficiently work with very large datasets. ability to deal with non-standard machine learning datasets (class-imbalances, sparse matrices, etc.)nice-to-have: comfortable writing fairly complex sql queries. experience developing python packages. version control experience in git or a similar system. experience with agile development practices. experience with hadoop. experience with low-level machine learning libraries we’ll support you at work and home our foundations are built on dignity and respect. modern healthcare magazine named us as a “top 100 places to work.” we go out of our way to help people feel welcomed. we offer day-one comprehensive health, vision and dental coverage, pto, and employer-matched retirement funds, even to part-time employees. we’re proud to provide tuition reimbursement to help you grow and learn new skills. what makes a good match for mercy compassion and professionalism go hand-in-hand with us, along with exceptional quality care. having a positive outlook and a strong sense of advocacy is in perfect step with our mission and vision. we’re also collaborative and are not afraid to do a little extra to deliver excellent care – that’s just part of our commitment. if that sounds like a fit for you as well, we encourage you to apply.
+
+
+
+
+
+options
+
+apply for this jobapplyshareemail this job to a friendrefer
+
+
+
+share on your newsfeed
+
+
+
+
+connect with mercy
+
+
+
+
+what if i am not ready to apply? submit your resume here  and be considered for future opportunities!
+
+
+
+
+
+
+
+
+go back to the welcome page
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

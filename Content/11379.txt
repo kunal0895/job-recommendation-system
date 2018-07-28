@@ -1,0 +1,149 @@
+
+
+
+
+imm careers - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    imm careers                                            
+
+
+
+
+
+
+
+                data engineer
+    
+    
+
+                            information technology            
+                    boulder,
+                            colorado
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+do you have an eye for building and optimizing data systems?are you experienced with python and sql?  we are looking for a skilled data engineer to join our blossoming analytics team.  a day in the lifeyou will work closely with our solutions architect, data scientists, and analysts to help build out our data aggregation and ingestion platform across multiple projects.here are some specifics on exactly what your days might look like:ingest large amounts of data from numerous sources (api, email, sftp, s3, & etc.)identify, prioritize, and execute pipeline improvementshelp drive new architectural ideas and decisions for products and offeringswork closely with other data and analytics team members to optimize the company’s data systems and pipeline architecturebuild data and analytics tools that will offer deeper insight into the pipeline, allowing for critical discoveries surrounding key performance indicators and customer activitytroubleshoot systemic issues and lead improvements if you meet the following requirements, we definitely want to hear from you!graduate degree in computer science, information systems or equivalent quantitative field or 3+ years of experience in a similar data engineer role.expert level python ability (or willingness to get there)an analytical mindset with problem-solving skillsdemonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload managementstrong interpersonal skills and ability to manage projects and work with cross-functional teamsadvanced working sql knowledge and experience working with relational databases, query authoring (sql) as well as working with nosql.experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.experience with the following tools and technologies is a plus:talendtableaurelational sql and nosql databasesdata pipeline/workflow managementaws services such as lambda, sqs, & snsother object-oriented/object languages such as java or ruby
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

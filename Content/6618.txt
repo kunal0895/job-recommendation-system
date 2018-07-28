@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+
+technipfmc careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+technipfmc careers
+
+
+
+
+
+we’re looking for the next generation of talent to help transform the industry.are you ready?
+
+
+
+
+
+
+
+ back
+apply
+
+
+
+lead data scientist [51990575]
+
+
+
+job description
+ technipfmc is a global leader in subsea, onshore/offshore, and surface projects. with our proprietary technologies and production systems, integrated expertise, and comprehensive solutions, we are transforming our clients’ project economics. to learn more about how we are enhancing the performance of the world’s energy industry, go to www.technipfmc.com.                                            organization unit: digital services & innovation nam [51979758]   business unit: energy hq - us [ehdq]     work schedule: normal (m - f)  location: houston , tx  lead data scientist our digital services and innovation (dsi) group is leading the digital transformation of our company.  come lead the data science activities creating the analytic engines behind our cutting-edge digital services.  working as an integral member of an extreme software development team, you will work with designers, developers, and other data scientists to discover and deploy insights that engage and excite users. successful candidates will have a masters or phd in data science or a related field and at least ten years of experience in data science or data analysis. our lead data scientist will: solve our most challenging and important business problems using data sciencedevelop innovative and effective approaches to solve problems through the application of data mining, feature engineering, scenario modelling, advanced algorithms, machine learning, experimental design, and hypothesis testingprovide direction on optimal strategy and architecture for data science developmentlead establishment of best practices for the data science roleteach others about the capabilities, theory, and practice of data science basic qualification: msc/phd in data science, computer science, computer engineering, mathematics, or statistics(experience can compensate for lack of formal competency)at least 10 years of experience in data science or data analysisat least 10 years of programming experience in r, python, or other data science languageexpert in creating and optimizing sql and shell scriptsexpert in analyzing, wrangling, and joining varied datasetsexpert in designing, building, testing, refining, and deploying predictive modelshighly advanced in building graphical visualizations of datacapable of effectively structuring information and communicating insights in presentationscapable of writing and reviewing code written in sql, r, and python  it is the policy of technipfmc to provide equal opportunity for all qualified persons and not to discriminate against any applicant for employment because of race, color, religion, national origin, sex, sexual orientation, age, disability, veteran status, citizenship, or any other characteristics protected by federal, state or local law at the technipfmc location to which this application is submitted. in addition, as a federal government contractor, technipfmc is an affirmative action employer. if you require accommodation during the application process, please contact the local human resources department.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,250 @@
+
+
+
+
+
+agile product owner/systems analyst - resmed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+menu togglemenu hide 
+
+english
+
+deutsch
+français
+
+
+  english english en  deutsch german de  français french fr 
+
+
+
+
+careers
+why resmed 
+
+
+about us
+our culture
+
+
+
+global locations 
+
+
+americas
+europe
+australia
+asia-pacific
+
+
+
+how to apply
+
+
+
+
+
+
+
+
+
+
+
+agile product owner/systems analyst - resmedyou are here: home / agile product owner/systems analyst - resmed
+602
+
+search jobscustomer service - customer caredistributionengineeringfinanceglobal supplier alliancehealthcare informaticshuman resourcesinformation technologykundenservicelegallogisticsmanufacturing technologiesmarketingoperationenoperationsotherpatientenserviceproduct developmentqualityqualitätsmanagementrespiratory caresalestechnical servicestechnischer supportregionasheville, ncau logan central (qld) cpapau queensland miltonau sydney bella vistaau sydney surry hillsca canada (resmed halifax)de gremsdorfde martinsried fhs 16de martinsried fhs 9de tpr kölnde tpr nürnbergdenver, cofr lyongb harwellgb londonindianapolis, inkansas city, mokorea, republic of (south)my johor bahrumy kuala lumpurphiladelphia, pasalt lake city, utsg connexissg galaxissg loyangsingaporetaiwantoronto, canadaus atlanta operations centerus chatsworth rmtus san diego (field non-sales)us san diego corporatejob cart (0)
+ 
+
+ 
+
+ 
+ agile product owner/systems analyst
+602
+healthcare informatics
+san diego, ca
+us san diego corporate
+october 12, 2017
+apply
+
+
+
+about resmed:
+resmed (nyse:rmd) changes lives with award-winning medical devices and cutting-edge cloud-based software applications that better diagnose, treat and manage sleep apnea, chronic obstructive pulmonary disease (copd) and other chronic diseases. resmed is a global leader in connected care, with more than 1 million patients remotely monitored every day. our 5,000-strong team is committed to creating the world’s best tech-driven medical device company – improving quality of life, reducing the impact of chronic disease, and saving healthcare costs in more than 100 countries.
+
+ 
+
+
+
+
+why resmed:
+today is your day. at resmed, we believe every day is a new day for groundbreaking ideas and unparalleled opportunity. ours is a culture focused on what we can accomplish today, and where it can lead us tomorrow. we are thinkers and innovators who constantly challenge ourselves to do everything better than the day before, so that people around the world can breathe easier. we are constantly thinking beyond the horizon and challenging ourselves to remain visionaries of the industry we created. every resmed employee at every level of the organization can do extraordinary work and deliver innovation. we have always done things our own way. with integrity. with passion. with the aspiration to improve lives with our expertise. that’s why we hire the best.
+
+
+
+ agile product owner/systems analyst  resmed is a global leader in the design, manufacture and distribution of innovative products for the diagnosis, treatment and management of sleep and respiratory medicine. we take pride in our people: their innovation, their extraordinary passion for what we do and our opportunity to change lives with every breath.
+we have vision of changing 20 million lives by 2020. we’re a team of thinkers and innovators, who see each day as a new day for ground-breaking ideas and unparalleled opportunity. we are an exciting and fast paced organization looking for individuals who are passionate about technology, who will help drive and develop the power of resmed’s healthcare informatics (hi) suite of software solutions.
+primary objective:we are seeking talented individuals who are driven by a desire to change lives through innovative, human-centered product design. in this role you will be in the unique position to directly impact the lives of our patients and their families and thus you must possess both empathy and the technical nous to make big leaps in innovation and technology development. our agile product owner/systems analyst work in dynamic development teams collaborating with product marketing, architecture, quality, regulatory, test and others. you must therefore be a team player with passion and enthusiasm to drive the future direction of resmed products from concept through to delivery.to ensure success in the role, you will be able to demonstrate that you are a self-starter who is a detail-oriented, result-driven individual who works well within a fast paced team environment. you will be a key member of a collaborative agile software development team following the scrum and safe methodologies. you will be responsible for requirements analysis, creating functional software specifications, and working with the development and quality analyst teams to support the development of the application.your passion for learning will be demonstrated by your initiative to learn new tools and products as well as identify opportunities to improve current processes and standards.
+responsibilities and accountabilities: • author requirements and user stories for new features, enhancements or fixes, ensuring that ux, stakeholder, regulatory and market needs are met.• collaborate with product marketing on solution definition, prioritization, business goals and strategy realization.• collaborate across business units with architects, systems analysts and technical leads on the system design to provide desired system of systems functionality.• ensure non-functional requirements including ux, scalability, performance, supportability and reliability are identified and followed.• work closely with development team to evaluate technical design alternatives to achieve desired functionality.• provide product leadership to the technical team members.• fulfil the safe/scrum product owner role.• drive and own backlog management and grooming in collaboration with the agile product owner, other system analysts and the technical team.• collaborate with technical leadership to identify and resolve technical issues with the software engineering disciplines and review issues with leadership where required.• ensure full traceability of requirements.• collaborate with program and portfolio management to help plan and manage risk.• define the system interface specifications and ensure the system components will integrate successfully. this may require collaboration with architecture, other agile product owner/systems analyst, technical teams, external entities, standards bodies and technical leads. • facilitate design workshops and ongoing interaction with key stakeholders to determine detailed requirements.• work with the quality engineering and validation team to develop test strategies and review test artefacts.• develop and maintain a deep understanding of healthcare informatics processes and workflows, as well as an expertise in the functions and data of healthcare informatics systems and applicable regulatory guidance and regulations.• support adherence to resmed regulatory and product development processes and recommend updates to processes where appropriate.• observe the principles of occupational health & safety legislation.• other tasks and responsibilities as assigned. 
+qualifications and experience:• bachelor’s degree or higher in information systems, computer science or related field.• 4 years of professional systems engineer or systems analyst experience.• sound understanding of the product development process and life cycle.• experience with scrum agile development methodologies.• knowledge of regulations and customer specifications and their impact on design parameters (i.e. marketing, clinical, regulatory, manufacturing, quality, ip).• experience with web or mobile development projects specifically using java, .net or applicable mobile languages.desirable experience:• experience with bdd, behavior driven design preferred.• experience in the medical device field.• experience with enterprise software systems.
+job environment:to perform this job successfully, an individual must be able to perform each essential duty satisfactorily. the requirements listed above are representative of the knowledge, skill, and/or ability required. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. resmed is an equal opportunity employer – minority/ female/ disability/ veteransresmed participates in e-verify. the notice of e-verify participation and the notice of right to work are available for your review.
+ overview:   resmed is the industry leader in providing innovative products and services that improve the lives of millions of people worldwide who have respiratory disorders. we are looking for an individual with the drive to help manage the rapid growth of resmed ‘s systems and technologies. if you think you have what it takes read on. 
+to perform this job successfully, an individual must be able to perform each essential duty satisfactorily. the requirements listed above are representative of the knowledge, skill, and/or ability required. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. 
+resmed is an equal opportunity employer – minority/ female/ disability/ veterans 
+resmed participates in e-verify. the  notice of e-verify participation  and the  notice of right to work  are available for your review. 
+resmed is a smoke-free workplace. 
+
+
+
+share this entryshare on facebookshare on twittershare on linkedinshare by mail
+   
+
+ 
+
+careers
+why resmed
+global locations
+how to apply
+
+
+legal & ip
+terms of use
+privacy
+
+
+
+© 2017 resmed. all rights reserved.
+
+ 
+
+kontakt
+über uns
+impressum
+zertifikate
+rechtliche hinweise
+karriere
+
+
+
+
+© 2017 resmed. alle rechte vorbehalten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scroll to top
+
+
+

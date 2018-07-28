@@ -1,0 +1,461 @@
+
+
+
+        java developer -        west 4th strategy -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+                                                                         west 4th strategy                                                                        
+
+
+
+
+
+thanks for visiting our job board. please review our open positions and apply to the positions that match your qualifications. 
+
+
+
+java developer
+
+
+cambridge, ma                    
+
+full time                
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+role
+join an imaginative team of engineers, architects, and technologists who are helping the department of transportation (dot) federal aviation administration (faa) infuse innovation into a large-scale modernization initiative for national air traffic management systems. do you want to tap into your ingenuity and work with inspiration? and do so while affecting change through technological advancement? if yes, you want to work on this project. you’ll get to help improve interoperability, data exchange, performance, and accuracy for flight planning and management amongst various systems, e.g., airlines, air traffic control, air traffic management, air traffic operations. apply today and make the sky a safer and more enjoyable place to be!
+ 
+responsibilities
+ 
+
+build application using current software development practices
+develop functional and technical requirements
+work closely with users, analysts, engineers, etc.
+design and improve functionality, capabilities, and enhancements
+informs key design decisions thru analyses and studies
+use applications servers such as jboss, websphere, and/or weblogic
+work with oracle databases and linux/unix
+support and/or lead unit testing, continuous integration, and configuration management
+work with java frameworks and languages like hibernate, jpa, seam, jax-ws, jax-rs, etc.
+build api interfaces and web services using soap, rest, xml and json
+improve identity management systems for authentication and authorization
+use java build automation tools like maven
+use subversion for version control
+debug and troubleshoot systems
+develop necessary systems documentation
+ensure 508 compliance with federal standards and guidelines
+
+ 
+ 
+background ​​
+
+4+ years hands-on experience as java developer and/or similar role
+2+ years hands-on experience with j2ee 
+
+ 
+education
+
+bachelor’s degree in computer science, engineering, or related field
+degree can be substituted with relevant and progressive experience
+
+ 
+location
+
+55 broadway, cambridge, ma 02142
+
+ 
+west 4th strategy is an equal opportunity/affirmative action (eeo/aa) employer. all qualified applicants will receive consideration for employment without regard to race, color, creed, religion, gender, sexual orientation, ancestry, national origin, age, marital status, mental disability, physical disability, medical condition, pregnancy, political affiliation, military or veteran status, or any other basis prohibited by federal or state law.   
+ 
+other considerations: this position is w-2 only; no corp-to-corp or 1099 candidates. relocation will not be offered. selected applicants will be subject to a background investigation. individual’s primary workstation is located in an office area. the noise level in this environment is low to moderate. regularly required to sit for extended periods up to 80% of the time; frequently required to move about to access file cabinets and use office equipment such as pc, copier, fax, telephone, cell phone, etc. occasionally required to reach overhead, bend, and lift objects of up to 10 lbs. specific vision abilities required by this job include the use of computer monitor screens up to 80% of the time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+what's your highest level of education completed?*
+no answerged or equivalenthigh schoolsome collegecollege - associatescollege - bachelor of artscollege - bachelor of fine artscollege - bachelor of sciencecollege - master of artscollege - master of sciencecollege - master of fine artscollege - master of business administrationcollege - doctoratemedical doctorother 
+
+college or university*
+
+
+
+gpa
+
+
+
+are you 18 years of age or older?*
+no answeryesno 
+
+linkedin profile url:
+
+
+
+desired salary
+
+
+
+earliest start date?*
+
+
+
+are you a us citizen?*
+yesno 
+
+the following questions are entirely optional.
+
+                        to comply with government equal employment opportunity / affirmative action reporting regulations, we are requesting (but not requiring) that you enter this personal data. this information will not be used in connection with any employment decisions, and will be used solely as permitted by state and federal law. your voluntary cooperation would be appreciated. learn more.
+                    
+
+
+
+gender
+
+decline to answerfemalemale
+
+ 
+
+
+race/ethnicity
+
+decline to answerwhite (not hispanic)african american/black (not hispanic)hispanic/latinoasianpacific islanderamerican indiannative alaskannative hawaiianmulti-racial
+
+ 
+
+
+
+invitation for job applicants to self-identify as a u.s. veteran
+
+
+a “disabled veteran” is one of the following:
+                                        
+a veteran of the u.s. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the secretary of veterans affairs; or
+a person who was discharged or released from active duty because of a service-connected disability.
+
+
+a “recently separated veteran” means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the u.s. military, ground, naval, or air service.
+an “active duty wartime or campaign badge veteran” means a veteran who served on active duty in the u.s. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the department of defense.
+an “armed forces service medal veteran” means a veteran who, while serving on active duty in the u.s. military, ground, naval or air service, participated in a united states military operation for which an armed forces service medal was awarded pursuant to executive order 12985.
+
+
+
+
+veteran status
+
+ i identify as one or more of the classifications of protected veteran listed above i am not a protected veteran i don’t wish to answer
+		
+
+
+
+voluntary self-identification of disability
+
+                                voluntary self-identification of disability form cc-305
+                                omb control number 1250-0005
+                                expires 1/31/2020
+                            
+
+why are you being asked to complete this form?
+
+because we do business with the government, we must reach out to, hire, and provide equal opportunity to qualified people with disabilities.i to help us measure how well we are doing, we are asking you to tell us if
+                                    you have a disability or if you ever had a disability. completing this form is voluntary, but we hope that you will choose to fill it out. if you are applying for a job, any answer you give will be kept private and will not be used against you in any way.
+if you already work for us, your answer will not be used against you in any way. because a person may become disabled at any time, we are required to ask all of our employees to update their information every five years. you may voluntarily self-identify as having a disability on this form without fear of any punishment because you did not identify as having a disability earlier.
+
+
+how do i know if i have a disability?
+
+
+you are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+
+please check one of the boxes below:
+
+
+
+
+                                                yes, i have a disability (or previously had a disability)                                            
+
+
+                                                no, i don’t have a disability                                            
+
+
+                                                i don’t wish to answer                                            
+
+
+
+
+you must enter your name and date
+
+
+
+
+
+
+
+your name
+today's date
+
+
+
+
+
+reasonable accommodation notice
+
+
+federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. please tell us if you require a reasonable accommodation to apply for a job or to perform your job. examples of reasonable accommodation include making a change to the application process or work procedures,
+                                    providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+
+isection 503 of the rehabilitation act of 1973, as amended. for more information about this form or the equal employment obligations of federal contractors, visit the u.s. department of labor's office of federal contract compliance programs (ofccp) website at www.dol.gov/ofccp. 
+
+public burden statement: according to the paperwork reduction act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

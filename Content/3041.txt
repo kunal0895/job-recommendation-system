@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 10-00982
+
+
+
+
+analyst - engineer - research engineer - embedded systems
+10-00982
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+participate in project teams applying knowledge of embedded systems to perform vulnerability testing of embedded systems including iot devices, automotive embedded control units (ecus). develop clearly written documentation describing engineering concepts, designs, project results and other project related artifacts. contribute new ideas, approaches and techniques during project meetings. preparation of formal and informal technical presentations for prospective clients, existing clients and conferences. projects commonly require limited travel to client sites.
+
+                    education/experience:
+				
+requires a bs or ms degree in software engineering, computer engineering, electrical engineering, or computer science with at least a 3.25 gpa and 0 - 2 years of hardware and software skills.  coursework or project experience in computer, embedded system, iot, network, or software security vulnerability testing. must have ability to be a part of an engineering team, e.g. strong oral and written communication skills.  must have experience with boot loaders and embedded applications, knowledge of windows, linux, android and ios; experience with security evaluation and threat assessments of embedded systems; understanding of common cryptographic algorithms and protocols; understanding of common weaknesses and modern attacks on cryptographic algorithms and protocols.  must be familiar with compiler internals, debuggers, disassemblers, and other low level development and analysis tools.  preferred knowledge includes strong understanding of embedded systems / software.  additional preferred hardware skills include printed circuit board (pcb) reverse engineering; application of common microcontroller programming tools and debugging interfaces; data bus monitoring (snooping) and data injection; communications protocol analysis; wireless communications channel snooping and data injection.  additional software skills could include software/firmware extraction, reverse engineering, and functional analysis; memory image capture, static memory analysis, and data element extraction; system security architecture analysis and design, and risk management analysis; encryption system implementation analysis for multiple encryption types (symmetric and asymmetric). a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d10/d10home.htm" target="_blank">intelligent systems</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+analyst - engineer - research engineer - embedded systems
+
+10-00982
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

@@ -1,0 +1,442 @@
+
+
+
+        lead ruby on rails web developer -        civicactions -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work with the greatest public sector institutions in the world.openopen standards and technologies have been at the heart of civicactions since our founding.agile we adhere to agile development methodologies to deliver successful, large-scale web development projects.balanced knowing and honoring priorities in personal, professional, and spiritual life is paramount to high quality, on-time, and on-budget engagements.our actionscivicactions was founded based on a fundamental desire to change the way the world works.for the past 10 years, we’ve dedicated ourselves to building stronger public sector institutions and cultivate a culture where civic actions speak louder than words. 
+
+
+
+lead ruby on rails web developer
+
+
+sacramento, ca                    
+
+full time                
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+civicactions is a dedicated, fun-loving team, looking for some talented folks to help us bring revolutionary digital services to government agencies and the people they serve.
+the lead developer will be responsible for choosing the direction to execute the client's vision and goals. the lead will also help develop product roadmaps, backlogs, and measurable success criteria. for this position, we need people with at least 2 years experience in: 
+
+ruby on rails
+consuming restful apis
+test-driven development (tdd)
+automating unit, integration, and acceptance tests
+agile development
+
+the secret sauce
+your good sense of humor, collaborative nature, and high-quality communication style will be a great addition to our talented team. your presence and work will support our mission to come alongside our government agency clients as partners in open and agile transformation. together, we'll make it enjoyable for them to come to work every day, and pass that joy on to their citizens and customers.
+we are a mission-minded team, and we're looking for others with a true passion for using technology to make a positive change in our world. you should be comfortable in a consulting or professional services environment, in addition to working with cross-functional agile teams. 
+ 
+benefits
+we excel in our benefits offering and believe that people who are well taken care of can be more balanced, healthy and happy. we offer 100% company-paid medical insurance, disability insurance, and life insurance. we have a generous 401(k) program. we have an open vacation policy where employees are encouraged to take time off as needed to feel balanced, productive and healthy. we have paid maternity and paternity leave. we have an annual all-hands retreat to connect with each other in person. we also emphasize professional development and offer an annual stipend. 
+community participation is important to us and we ask that you spend 5% of your working time giving back to a community that you care about. we attempt to keep our work products 'open by default'. this means that it is our intention that your work contributions during your time at civicactions will be published under public license, enabling you to bring your passion fully into your activities without the fear that your expressions will be locked away or prevented from having a positive impact in the world.
+apply
+we find strength and inspiration in the things that make each of us unique. in striving for a more diverse team, we strongly encourage women, people of color, and physically-challenged people to apply.
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+what is it about civicactions that makes you want to apply for a position on our team?*
+ 
+
+how many agile projects have you worked on as a lead frontend web developer?*
+ 
+
+do you have at least two (2) years of full-time experience leading the development of software projects or platforms in an agile environment?*
+-- no answer --yesno 
+
+do you have at least two (2) years of full-time development experience using ruby on rails?*
+-- no answer --yesno 
+
+do you have at least two (2) years of full-time experience consuming restful apis?*
+-- no answer --yesno 
+
+do you have at least two (2) years of full-time experience developing software using a test-driven development (tdd) approach?*
+-- no answer --yesno 
+
+do you have at least two (2) years of full-time experience developing and executing automated unit, integration, and acceptance tests?*
+-- no answer --yesno 
+
+do you have a bachelor's degree?
+-- no answer --yesno 
+
+civicactions is hiring for a project that starts in february. please check the box that best fits your needs / expectations regarding your start date.*
+i need to start work as soon as possible.i am flexible on start dates, and happy to wait for the work opportunity that is a perfect fit. 
+
+the following questions are entirely optional.
+
+                        to comply with government equal employment opportunity / affirmative action reporting regulations, we are requesting (but not requiring) that you enter this personal data. this information will not be used in connection with any employment decisions, and will be used solely as permitted by state and federal law. your voluntary cooperation would be appreciated. learn more.
+                    
+
+
+
+gender
+
+decline to answerfemalemale
+
+ 
+
+
+race/ethnicity
+
+decline to answerwhite (not hispanic)african american/black (not hispanic)hispanic/latinoasianpacific islanderamerican indiannative alaskannative hawaiianmulti-racial
+
+ 
+
+
+
+invitation for job applicants to self-identify as a u.s. veteran
+
+
+a “disabled veteran” is one of the following:
+                                        
+a veteran of the u.s. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the secretary of veterans affairs; or
+a person who was discharged or released from active duty because of a service-connected disability.
+
+
+a “recently separated veteran” means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the u.s. military, ground, naval, or air service.
+an “active duty wartime or campaign badge veteran” means a veteran who served on active duty in the u.s. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the department of defense.
+an “armed forces service medal veteran” means a veteran who, while serving on active duty in the u.s. military, ground, naval or air service, participated in a united states military operation for which an armed forces service medal was awarded pursuant to executive order 12985.
+
+
+
+
+veteran status
+
+ i identify as one or more of the classifications of protected veteran listed above i am not a protected veteran i don’t wish to answer
+		
+
+
+
+voluntary self-identification of disability
+
+                                voluntary self-identification of disability form cc-305
+                                omb control number 1250-0005
+                                expires 1/31/2020
+                            
+
+why are you being asked to complete this form?
+
+because we do business with the government, we must reach out to, hire, and provide equal opportunity to qualified people with disabilities.i to help us measure how well we are doing, we are asking you to tell us if
+                                    you have a disability or if you ever had a disability. completing this form is voluntary, but we hope that you will choose to fill it out. if you are applying for a job, any answer you give will be kept private and will not be used against you in any way.
+if you already work for us, your answer will not be used against you in any way. because a person may become disabled at any time, we are required to ask all of our employees to update their information every five years. you may voluntarily self-identify as having a disability on this form without fear of any punishment because you did not identify as having a disability earlier.
+
+
+how do i know if i have a disability?
+
+
+you are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+
+please check one of the boxes below:
+
+
+
+
+                                                yes, i have a disability (or previously had a disability)                                            
+
+
+                                                no, i don’t have a disability                                            
+
+
+                                                i don’t wish to answer                                            
+
+
+
+
+you must enter your name and date
+
+
+
+
+
+
+
+your name
+today's date
+
+
+
+
+
+reasonable accommodation notice
+
+
+federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. please tell us if you require a reasonable accommodation to apply for a job or to perform your job. examples of reasonable accommodation include making a change to the application process or work procedures,
+                                    providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+
+isection 503 of the rehabilitation act of 1973, as amended. for more information about this form or the equal employment obligations of federal contractors, visit the u.s. department of labor's office of federal contract compliance programs (ofccp) website at www.dol.gov/ofccp. 
+
+public burden statement: according to the paperwork reduction act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

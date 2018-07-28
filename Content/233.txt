@@ -1,0 +1,139 @@
+
+
+
+
+limeade careers - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    limeade careers                                            
+
+
+
+
+
+
+
+                data engineer
+    
+    
+
+                            computers/software            
+                    bellevue,
+                            washington
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+about us:limeade is an engagement company that inspires employee commitment and elevates company culture.  our mission is to improve well-being in the world.  and we are looking for a passionate, team-oriented engineer to help us serve up meaningful data to our customers.at limeade, we take a whole person, whole company and whole ecosystem approach to measurably improve employee well-being and performance.  but we go much further than that, helping our customers build cultures that support well-being that move the needle on their business goals.  our engagement platform is immersive and holistic – as it must be to help solve the bigger well-being and engagement problems facing today’s businesses. recognized for its own award-winning culture, limeade serves over 100 employers and top global brands.we’re committed to creating a mission-driven, positive culture of improvement made up of the best and brightest people in the business. and we’ve got the awards to back it up: puget sound business journal ranked us #1 best workplace in washington, and seattle business ranked us one of the top three best companies to work for in washington state. we’re one of the fastest-growing companies in north america (deloitte’s technology fast 500™), and fortune magazine recognized us as a best workplace for women. learn more at www.limeade.comabout the role:limeade’s business insights team is looking for a data engineer to join our elite squad of data engineering professionals. the ideal candidate will have a passion for leading others while developing state of the art data engineering tools and systems.specifically, you need to be comfortable leveraging database tech like sql, spark, redshift and tableau to ingest, warehouse, and analyze data from various systems. familiarity with aws for data storage, job scheduling, monitoring, etl, and scalable processing is critical. the ideal candidate will be comfortable leveraging all these technologies to enhance & support a cohesive data ecosystem at limeade. we are looking for you if…you are a self-starter and self-directed individual with a passion for solving problems through the use of data and data tools.you like owning projects and coaching others in state of the art data engineering best practices.you have strong experience in building big data systems.are a clear communicator.responsibilities:database development, build etl, data models and reports.participate in requirement gathering sessions and guide the requirements by providing insights of enterprise data warehousingable to work independently and as a team-player meeting deadlines and expectationstroubleshoot new and existing database queries on both sql and redshift.requirements:ability to demonstrate our values in an on-going and consistent way3-5 years of experience developing and architecting database solutions1-2 years of data modeling experience like kimball methodology1-2 years of etl experience with tools like python1-2 years of data visualization experience with tools like tableau or power bifamiliarity with data science technologies like hadoop, spark and hive.have a passion for data and helping others learn more about database systemsbachelor of science degree in computer science, computer engineering or equivalent years of work experienceexperience working in agile development environment with source control and multiple environments limeade provides equal employment opportunity (eeo) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. in addition, limeade will provide reasonable accommodations for qualified individuals with disabilities.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

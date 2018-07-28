@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        valdez international corporation
+    
+
+        software developer - (02pgrast3)
+    
+
+ lackland afb - san antonio, tx   78243
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+                
+
+
+job description
+valdez international corporation a major aerospace / defense contractor has positions available on its iafnos contract at lackland afb for software developers.
+software developers are tasked to provide application support and sustainment of existing application software. additional responsibilities include assisting in the management of database and transactional processing environments while supporting development needs for the unit.
+the software developer will be responsible for the creation and support of business applications and the environments those applications reside. the software developer will design tools to assist in the management of database and transactional processing environments.
+required skills
+
+design, develop and sustain applications to meet the needs of the business unit.
+develop solutions for automation and reporting including building security into all solutions to protect, enhance and respond to known vulnerabilities such as sql injection, etc.
+assist team members in resolving issues that impact the business unit.
+application monitoring, database recovery plans, application and database backup plans
+extensive experience in c#, .net, javascript, and html.
+experience using microsoft visual studio, and team foundation server.
+experience with datasets, datatables, dataviews, sql connection strings, and ldap calls. 
+possess advance debugging skills in listed languages using visual studio and sql server management studio.
+experience in web environment and iis.
+knowledge of reporting and query tools and practices.
+
+preferred skills
+
+3-5 years’ professional experience developing software, and have experience in each of the multiple levels of the software lifecycle.
+prior experience in a military (air force) enterprise environment is preferred.
+
+ requirements
+
+candidate must hold an active department of defense (dod) clearance level of secret prior to start date.
+candidate must be certified in accordance with dod 8570 iat level ii approved baseline certifications prior to start date (security+ ce, ccna-security, etc.).
+computer science, electrical/computer engineering or related degree.
+additional industry certifications may be required within specific time frames.
+
+ benefits
+
+medical, dental & vision insurance
+company paid short & long term disability
+life insurance
+paid holidays
+vacation & sick leave
+401k
+
+valdez international corporation provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.  in addition to federal law requirements, valdez international corporation complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.  this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, and transfer, leaves of absence, compensation, and training.
+valdez requires drug screenings of all it's employees.
+by law, this position requires u.s. citizenship. 
+
+
+accessibility: if you need an accommodation as part of the employment process please contact human resources at phone: 719-600-4573   equal opportunity employer, including disabled and veterans.   if you want to view the eeo is the law poster, please choose your language: english – spanish   if you want to view the eeo is the law supplement poster, please choose your language: english – spanish  if you want to view the pay transparency policy statement, please click the link: english
+ 
+
+
+
+to see other positions, click here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

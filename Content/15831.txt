@@ -1,0 +1,315 @@
+
+
+
+
+
+software engineer (hfgcs) entry level - rockwell collins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+menu togglemenu hide
+
+ 
+
+
+
+
+
+
+
+
+
+
+home
+why choose rc
+
+overview
+working here
+career development
+benefits
+locations
+
+
+career areas
+
+overview
+corporate
+engineering
+marketing & sales
+manufacturing & operations
+program & project management
+faq
+
+
+students
+
+overview
+faq
+
+
+veterans
+innovation
+locations
+
+overview
+cedar rapids
+eumea
+india
+
+
+events
+job search
+
+
+
+
+
+
+
+
+
+
+
+software engineer (hfgcs) entry level - rockwell collins
+7348
+
+
+software engineer (hfgcs) entry level
+category: engineering
+job id: 7348
+location: richardson, tx 
+posted date: december 8, 2017
+apply
+keep me in mind
+add to cart
+
+
+requisition id: 7348
+want to work with some of the most talented, dedicated people on the planet?  do you value relationships, commitment, innovation and integrity? want to be a part of a company that has been named numerous times as america’s best employer in aerospace and defense by forbes magazine?
+then rockwell collins is the place for you. join our team and build a rewarding career while helping to deliver the most trusted source of aviation and high-integrity solutions in the world.
+we are currently searching for a software engineer (hfgcs) entry level to join our team in richardson, tx (1060). a comprehensive relocation package is available for qualified candidates. employing some of the most talented, dedicated people on the planet is not by chance. people from all over the globe choose rockwell collins as the place to build a rewarding career, while helping create and deliver communications, integration, and engineering solutions that our global customers demand so that our world keeps moving and stays connected. it’s an exciting time to become a part of our team. join us and discover how high your career can soar at rockwell collins.
+
+
+job summary
+
+the hfgcs engineering group is looking for a software engineer with the desire to be part of a dedicated team responsible for design, development, integration, test, and deployment activities associated with an existing ground radio communication system. voice switching services within the system allow radio operators to individually support two way voice and data communications with mobile and other fixed radio platforms worldwide. the management system is based on a custom software application utilizing multiple databases to control and manage a variety of hf radio, antenna, and peripheral components using serial and ethernet data protocols. the primary control network is a tcp/ip computer network using commercially available ip routers and microsoft windows servers and workstations within a single active directory domain to host the control application. the system is globally distributed and operates 24 hours per day, 365 days per year.
+primary responsibilities will focus on full software development life cycle activities, including the design, development and integration testing of mission systems software. the candidate should be self-motivated and willing to work in a fast paced environment as part of a dynamic software development team.
+ 
+
+job responsibilities
+
+
+
+performing full software development life cycle activities
+
+
+developing and debugging multi-threaded microsoft windows based applications
+
+
+hands-on participation in integration test activities
+
+
+documentation and maintenance of legacy code
+
+
+participating in formal peer reviews
+
+
+
+
+ 
+
+basic qualifications
+
+
+
+a bachelor of science degree in a stem program including computer science or other bachelor degree in a stem program (including computer science) that included 12 semester (or 18 quarter) credit hours in mathematics, including differential and integral calculus and applied mathematics and 10 semester (or 15 quarter) credit hours in natural science (biology, chemistry, earth sciences) including physics is required.
+
+
+us citizenship is required.
+
+
+the ability to obtain a dod security clearance is required
+
+
+
+
+proficiency in c/c++
+
+
+familiarity with microsoft visual studio 2013+
+
+
+basic sql knowledge
+
+
+excellent verbal and written communication skills
+
+
+
+
+knowledge of the following subjects is desirable but not a prerequisite: fortify, coverity or other static code analysis tools, microsoft sql server versions 2008+, computer networking and familiarity with microsoft products.  candidate must have effective oral and written communication as well as good interpersonal and team skills.
+
+ 
+
+at rockwell collins, we believe a solid work-life balance creates a healthy lifestyle and inspires creativity and innovation. we value our people and invest in their development, growth and success at our company by providing development opportunities through rockwell collins university, networking, mentoring, and tuition reimbursement.
+and that’s just for starters.
+some of our competitive benefits package includes:
+
+
+medical, dental, and vision insurance
+
+
+three weeks of vacation for newly hired employees
+
+
+company-paid winter holiday shutdown for most locations
+
+
+generous 401(k) plan that matches 62.5 percent of the first 8 percent of eligible compensation you contribute (or 5 percent if you save 8 percent)
+
+
+an incentive pay plan based upon company performance
+
+
+tuition reimbursement
+
+
+and more
+
+
+interested yet? apply now and embark on your next worthwhile adventure!
+rockwell collins is an equal opportunity employer. all qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, gender, sexual orientation, gender identity, disability, protected veteran status or any other protected status.
+
+
+
+
+share this jobshare on facebookshare on twittershare on linkedinshare by mail
+   
+
+ 
+join the conversation 
+
+
+
+
+
+#iwanttoberc
+
+
+
+rockwell collins is an equal opportunity employer. all qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, gender, sexual orientation, gender identity, disability, protected veteran or any other protected status.
+if you are applying for a job in the u.s. or canada and need a reasonable accommodation for any part of the employment process, please email our employee service center at employeeservice@rockwellcollins.com or call 1-866-295-4747, option 6, and let us know the nature of your request and contact information. please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e-mail address and phone number.
+copyright © 2015 rockwell collins. all rights reserved. | privacy & cookies | to learn more, view the eeo poster and pay transparency poster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scroll to top
+
+
+

@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career portals
+
+
+
+
+
+
+
+
+
+job search
+login / register
+
+
+
+
+we are now hiring
+req #48
+database engineer
+
+
+salary
+rft
+friday, september 22, 2017
+
+
+
+
+
+
+for earth for life
+ 
+
+basic purpose and scope of position 
+
+ 
+
+kubota, is looking for a sr. database engineer with experience in mysql database technologies to join our engineering team in grapevine, tx. additionally, exposure and/or experience in oracle, sql server, or db2 would be a plus.
+
+ 
+
+our engineering teams:
+
+ 
+
+a growing team of elite engineers, who use agile and scrum to manage, develop, and deploy enterprise level and business to business applications that have existing for about the last 20 years. 
+
+ 
+
+our team is currently at the point of migrating our applications to the cloud and are in need of a talented and skilled database engineer that knows his or her way around mysql (both developing for it, and administering it). knowledge and experience with other dbs such as ms sql server and oracle would also be desirable, since we may be supporting other applications that utilize those databases as well.
+
+ 
+
+your role:
+
+ 
+
+your essential responsibilities as the dbe are to assist with the design and build of databases, both relational and non-relational. you will be expected to resolve database performance issues, database capacity issues, replication, and other distributed data issues. you will also implement strategies for data acquisitions, archive recovery and the implementation of a database. ensure a clean and accurate database by maintaining and removing old data.
+
+ 
+
+you also will administer, maintain, develop and implement policies and procedures for ensuring the security and integrity of the company databases. these responsibilities include patching, upgrading, and installing of new databases. in the role of dba, you will optimizes the data environment by keeping databases finely tuned (queries/tables/indexes), automating incoming and outgoing data feeds, and troubleshooting of any data access problems.
+
+ 
+
+a dbe should also support software developers with best practice sql database operations and efficiency. work with other departments to streamline data processes.
+
+ 
+
+since you'll be working on a cloud platform, experience with standing up databases in the cloud (specifically aws rds and dynamodb) would be desirable.
+
+ 
+
+ 
+
+ 
+
+principal activities: 
+
+ 
+
+this position does the following in accordance with all applicable federal, state and local laws / regulations and the company’s policies, procedures and guidelines:
+
+ 
+
+1. lead in all phases of database design and management including performance, data integrity, security, and capacity planning.
+
+ 
+
+2. support teams with best practices in sql coding techniques and optimized statement solutions.
+
+ 
+
+3. review and develop new stored procedures for developers.
+
+ 
+
+4. troubleshoot production and related database issues.
+
+ 
+
+5. 24/7 on call rotation.
+
+ 
+
+6. install, maintain, upgrade and manage business critical database components for both production and non-production environments including mysql, ms sql server, and oracle,
+
+ 
+
+7. responsible for patch management, customized implementations, version control user management, service-level monitoring, and release methodologies.
+
+ 
+
+8. define, implement, and continuously improve database administrative policies for all database environments.
+
+ 
+
+9. analyze, implement, and manage database and application monitors for business critical services.
+
+ 
+
+10. implement and manage disaster recovery strategies, including clusters and redundant services, for all database based critical systems.
+
+ 
+
+11. administer databases in a production and application development environment
+
+ 
+
+12. monitor and maintain database integrity ensuring backups, updates, and changes are working properly.
+
+ 
+
+13. create new database schemas and enhance performance of these databases.
+
+ 
+
+14 .install and replicate servers.
+
+ 
+
+15. keep current on emerging database, storage and virtualization technology trends.
+
+ 
+
+16. experience with standing up and supporting databases in the cloud (either aws or azure).
+
+ 
+
+special projects 
+
+ 
+
+to be determined based on company and business needs.
+
+ 
+
+minimum qualifications:
+
+ 
+
+education, certifications, and training:
+
+ 
+
+
+
+b.s in computer science, information technology, electrical engineering or equivalent technical training and experience
+
+
+
+
+5+ years of database engineering experience (sql / mysql)
+
+
+
+
+3+ years of experience in managing all aspects of database administration including installation, configuration, capacity planning, and incident resolution.
+
+
+
+
+1 - 2 years of cloud db experience.
+
+
+
+
+extensive experience in supporting several database technologies, i.e.: sql server, mysql, mongo, and dynamo db or any other non-relational databases
+
+
+
+
+cloud experience preferred - releasing / deploying to cloud, rds experience a plus
+
+
+
+
+experience in troubleshooting and resolving database integrity issues, performance issues, connectivity and security issues.
+
+
+
+
+strong background in db performance, tuning, and replication
+
+
+
+
+strong knowledge of database theory and best practices
+
+
+
+
+db2 experience a plus (this is the database we're migrating from )
+
+
+
+
+sql proficiency
+
+
+
+
+excellent written and oral communication skills
+
+
+
+
+ability to effectively work in a team environment characterized by rapid change and high availability targets.
+
+
+
+ 
+
+skills and background:
+
+ 
+
+
+
+analytical ability to identify problems, reason logically, and draw valid conclusions in order to determine and implement an effective course of action.
+
+
+
+
+required proficiency levels for technical area and applies skills to the design of information systems.
+
+
+
+
+creativity in developing and implementing multiple it solutions related to define information systems projects.
+
+
+
+
+strong team leadership skills.
+
+
+
+
+excellent verbal and written communication skills at all levels within an organization. 
+
+
+
+ 
+
+language requirements:
+
+ 
+
+english: fluent
+ 
+ 
+
+additional information:
+
+ 
+
+the following are requirements that apply to all positions:
+
+ 
+
+1. cope with stressors and demands that are associated with the job and/or the work environment so that acceptable and defined levels of performance and overall contribution are maintained. work in areas which adhere to state and federal regulatory standards, or where no such standards exist, to nationally accepted guidelines; i.e., dust, fumes, physical and chemical agents.
+
+ 
+
+2. adaptable and flexible to work environment including, but not limited to, out of town travel as required to meet business commitments and working overtime, as business needs may require, handling multiple tasks concurrently, and easily adapting to new assignments, systems, tools; produce clear, concise, accurate written communication, clearly conveying thoughts and ideas to peers, management, and customers; establish and maintain positive work relationships with peers, management, and customers, displaying willingness to understand diverse points of view; learn and apply new equipment and tools within an acceptable timeframe; and assume ownership of assignments, completing commitments on time. 
+
+ 
+
+disclaimer:
+
+ 
+
+the information provided in the description has been designed to indicate the general nature and level of work performed by incumbents within the classification. this description is not intended to be a comprehensive inventory of all duties, responsibilities, qualifications and working conditions required of employees assigned to this job/classification. this job description is intended to include the current essential functions of the job. management reserves the right to add or modify the duties and responsibilities and to designate other functions as essential at any time.
+
+ 
+kubota is an equal opportunity at will employer and does not discriminate against any employee or applicant for employment because of age, race, religion, color, disability, sex, sexual orientation or national origin.
+
+
+
+salary
+grapevine, tx, usa
+
+
+
+
+
+
+
+
+
+ 
+
+apply now
+see all jobs
+
+
+
+
+
+
+privacy policy © 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

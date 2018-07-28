@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+deltek talent management -
+						    web designer - (ee1078)
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this site attempts to protect users against 
+	cross-site request forgeries  attacks. in order to do so, you must have javascript enabled in your web browser otherwise this site will fail to work correctly for you.
+	 see details of your web browser for how to enable javascript.
+
+
+
+attention safari users: this site requires cookies to function. please click here to accept the cookie. cookies will be used strictly for the functioning of the site.
+
+
+
+
+
+
+ 
+
+
+
+
+jump to
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+ job search
+
+
+ view all jobs
+
+
+
+
+ create account
+
+
+ login
+
+
+ help 
+
+instructions on this page
+help on this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+job details
+
+
+
+web designer - (ee1078)
+×close this details all the information about the job posting.     
+
+
+
+
+
+
+
+
+
+
+
+
+share this job as a link in your status update to linkedin.
+
+
+
+
+
+
+
+
+
+
+
+														
+																	job title
+																
+															
+
+								web designer
+															
+
+
+
+														
+																	education
+																
+															
+
+								bachelor's degree
+															
+
+
+
+														
+																	location
+																
+															
+
+								atlanta - atlanta, ga 30333 us (primary)
+
+
+
+
+														
+																	job description
+																
+															
+
+develop front-end web pages using html, xml, css, xslt, and javascript.
+demonstrate knowledge and skill in microsoft office tools, dreamweaver, adobe acrobat professional, adobe sitecatalyst, adobe photoshop, beyond compare, and visio. knowledge of wordpress, percussion rhythmyx, and/or accenture also desirable.
+demonstrate knowledge of section 508 of the americans with disabilities act as it applies to digital media and products. all development is performed in accordance with section 508 of the rehabilitation act and assures all web pages and applications are accessible as mandated by the federal government.
+support the development, implementation, and maintenance of internet/intranet websites using established wc3 and federal web best practices.
+quickly learn and adhere to client web development policies, standards, best practices and guidance.
+utilize sql database expertise on the back-end and possess html/portal technology skills.
+work with server side application developers and designers to build web applications.
+support the development, implementation, maintenance of web metrics code using adobe sitecatalyst.
+assist with user acceptance testing.
+update documents and links as needed, and ensure section 508 compliance.
+provide responsive service while working within the constraints and restrictions of omb’s rules and regulations and cdc’s web template.
+continually review and improve products and interfaces.
+interact with customers and business partners when developing interfaces.
+work closely with communications team members and customers to research and troubleshoot issues.
+document product status weekly or as needed.
+location:  atlanta ga
+
+
+
+
+														
+																	job requirements
+																
+															
+
+minimum requirements: 
+ba or bs degree in an appropriate discipline related to information technology
+1-2 years of professional experience in developing website content using one or more of the following technologies - html/xhtml. dynamic html, javascript, css
+demonstrated familiarity with ms office products including visio
+use of adobe acrobat professional, photoshop, flash and other software
+ability to learn and apply knowledge of web publishing processes and schemes as needed
+ability to install, support, develop and back-up all front end applications
+ability to troubleshoot problems identified by users and communicate the solutions and program changes with hro staff
+ability to perform periodic quality control checks of hro web sites
+demonstrated proficiency with ms access, java, css, ms sql, asp, interface and link sql services to web-based applications (asp) and database management best practices
+ability to apply fundamental concepts, practices and procedures for the position
+ability to work closely under the direction of a lead or project officer
+ability to obtain sf-85 opm public trust – high risk security clearance
+us citizen, green card, or ead required.       no h1b, 1099 or c2c
+ 
+ 
+futrend technology, inc. is a rapidly growing innovative business and technology solutions provider. our primary focus and core competencies are in healthcare it, federal financial management, and grants management. we excel at providing customers with high-value solutions that support their missions and meet their most critical objectives and business needs. we provide full life-cycle it services to federal agencies with recognized excellence in complex real-time system integration and enterprise-wide system implementation.
+if you are interested in joining a growing and energetic company, that is customer focused and employee oriented, please check us out to see if we have a match for your skills and interests. at futrend, our staff shares our core values of honesty, integrity, hard work, excellence, and self-improvement. we value our staff for their skills, knowledge, experience, and contributions.
+we offer a competitive salary and great benefits package.
+futrend technology, inc. uses e-verify to validate all new hires' ability to legally work in the united states. 
+futrend technology, inc. is an equal opportunity employer.  all qualified applicants receive consideration for employment without regard to race, religion, color, national origin, gender, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with a disability.
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ apply to this job
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ top of page
+
+
+						v14.3.5.1 | copyright © 2017 all rights reserved. 
+													| deltek talent management
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+apply for siemens software engineer - advanced job - research & development - charlotte, north carolina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+global job opportunities
+life at siemens
+what we do
+search careers
+faq
+
+
+
+careers home
+search jobs
+
+
+					check application status / manage profile
+					
+
+
+
+global jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+siemens careers
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - advanced
+
+
+locations:
+charlotte, north carolina
+
+
+
+
+job family: research & development
+
+
+
+
+
+apply
+
+english (us)
+
+
+
+
+
+
+job description
+
+
+
+division: digital factorybusiness unit: product lifecycle managementrequisition number: 207288primary location: united states-north carolina-charlotteassignment category: full-time regularexperience level: mid leveleducation required level: bachelor's degreetravel required: nodivision description:siemens is a global technology powerhouse that has stood for engineering excellence, innovation, quality, reliability and internationality for more than 165 years. as a global technology company, siemens is rigorously leveraging the advantages that this setup provides. to tap business opportunities in both new and established markets, the company is organized in nine divisions: power and gas, wind power and renewables, energy management, building technologies, mobility, digital factory, process industries and drives, healthineers and financial services.the siemens digital factory division offers a comprehensive portfolio of seamlessly integrated hardware, software and technology-based services in order to support manufacturing companies worldwide in enhancing the flexibility and efficiency of their manufacturing processes and reducing the time to market of their products.for more information, please visit: http://www.siemens.com/businesses/us/en/digital-factory.htmjob description: 
+position overview 
+this position is for the research wing of the camstar enterprise platform team, which is responsible for monitoring the transforming technology landscape and to research about latest tools and technologies to help design/create the next generation of the platform. 
+responsibilities 
+the advanced software engineer is responsible for understanding the current product offering, its underlying technology, architecture & design principles, evaluating new technologies, design ideas, research new methodologies to solving software engineering problems related to the current field of business. they will be expected to provide input to the technical direction for one or more areas of the product/research. they are also responsible for building the tools and framework needed to take the research ideas forward into development. they are responsible for delivering core functionality that reaches a high level of quality with minimal defects.
+ 
+specifics:
+·         analyze, evaluate new tools, frameworks or technologies as needed
+·         design, develop & showcase prototypes for new ideas
+·         design & build new framework or tools
+·         generate detail design for the proposals
+·         document the analysis & evaluation procedures & the results
+·         implement and test new functionality or ideas to support existing camstar platform
+·         implement and test new functionality to support existing camstar development & design tools
+·         assist development engineers in the development, build, release, and patch creation process, when needed
+·         investigate and resolve bugs in existing software, when needed
+·         perform reviews and approvals of other developer’s code, when needed
+·         interact with development group and qa as necessary
+·         interact with product management team members
+·         provide technical advice and assistance to development team members
+·         provide technical assistance to multiple teams including support & sustaining engineering teams
+ 
+required knowledge/skills, education, and experience
+·         degree in computer science, engineering or related science is desired
+·         minimum of 3+ years development experience in cloud based applications and architectures
+·         minimum of 6+ years of experience developing platforms, tools & components
+·         passion for technology research
+·         strong analytical skills & good judgment
+·         excellent design, programming and debugging skills
+·         excellent verbal and written communications skills
+·         expert knowledge of, and experience with c++, c# 
+·         expert knowledge of the .net platform & good understanding of microsoft technology stack
+·         experience with databases (oracle/sql server/db2) and fluent in sql
+·         experience with building and maintaining development tools
+·         development experience in complete product lifecycle
+·         working knowledge of nunit or other unit testing frameworks
+·         experience with source control systems such as tfs, git etc. 
+ 
+desired skills but not required and would be considered a plus if an engineer has any of these:
+o    experience in azure, aws or any cloud provider
+o    experience in hololens or similar technologies with ar/vr
+o    experience in machine learning or, ai or cognitive apis
+o    experience with iot in the industrial landscape
+o    experience on a software team developing enterprise software applications
+o    experience with manufacturing execution systems application development or similar custom enterprise software
+o    experience with microservices, web services, api development
+o    experience with web applications & web technologies
+o    experience with javascript, angular and other ui frameworks
+o    experience with java &/or technology stack for jvm based platforms
+o    experience with nosql databases
+ 
+qualified applicants must be legally authorized for employment in the unites states. qualified applicants should not require employer sponsored work authorization now or in the future for employment in the united states.
+ 
+
+
+
+equal employment opportunity statement
+
+      siemens is an equal opportunity and affirmative action employer encouraging diversity in the workplace. all qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law.
+    
+
+eeo is the law
+
+      applicants and employees are protected under federal law from discrimination. to learn more,
+      click here.
+    
+
+pay transparency non-discrimination provision
+
+      siemens follows executive order 11246, including the pay transparency nondiscrimination provision. to learn more,
+      click here.
+    
+
+
+
+
+
+
+ 
+
+
+
+
+
+check application status / manage profile
+
+
+
+global jobs
+united states jobs
+
+
+us only: review accommodations for disability
+contact us
+
+
+
+
+© siemens ag, 1996 – 2017 |
+corporate information |
+privacy policy |
+cookie policy |
+terms |
+digital id
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs & careers on:
+
+
+
+
+
+
+
+
+© siemens ag, 1996 – 2017 |
+imprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

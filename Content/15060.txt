@@ -1,0 +1,782 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+raytheon
+
+
+
+
+
+
+
+
+
+
+cyber
+news
+what we do
+
+
+
+
+
+
+who we are
+global
+investors
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+visit:cyber
+
+who we are
+
+
+leaders
+businesses
+corporate responsibility
+culture
+history
+diversity
+raytheon bbn technologies
+raytheon professional services
+idiq contract vehicles
+suppliers
+customer tools
+employee tools
+
+
+
+
+what we do
+
+
+missile defense
+c5isr
+cyber
+electronic warfare
+precision weapons
+
+training
+mission support
+innovations
+
+
+
+
+global
+
+news
+
+
+news feature archive
+news releases
+technology today magazine
+trade show calendar
+social media
+media contacts
+
+
+
+
+investors
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers menu
+
+
+
+careers
+
+global careers
+uk careers
+application center
+resume upload
+
+
+
+
+working with us
+
+
+benefits 
+
+
+culture
+
+
+diversity
+
+
+employee resource groups
+
+veterans
+
+
+
+talent areas
+
+
+engineering
+
+
+business development
+
+
+communications
+
+
+contracts
+
+
+finance
+
+
+cyber
+
+
+information technology
+
+
+human resources
+
+
+legal
+
+
+supply chain
+
+
+security
+
+
+other
+
+
+
+
+career paths
+
+professional
+recent grads & internships
+production and maintenance
+
+
+
+events
+
+event schedule
+
+
+
+faq
+
+self-service faq
+contact us
+
+
+
+
+twitter
+facebook
+linkedin
+youtube
+instagram
+
+
+
+
+
+
+softwareengineering
+
+
+
+search jobs
+
+
+one global team creating trusted, innovative solutions to make the world a safer place. 
+
+
+keyword
+
+
+
+talent area
+talent area
+accounting
+administrative services/support
+aerospace engineering
+airline operations
+algorithms
+all
+atmospheric/space science
+business administration
+business development
+chemical engineering
+cloud computing
+college
+communications
+computer engineering
+computer science
+configuration management
+contracts
+contracts and supply chain
+corporate affairs and communications
+cyber
+data networking
+data science
+distributed systems
+electrical engineering
+embedded software engineer
+engineering
+engineering technology
+environmental
+environmental health and safety
+export and import
+facilities
+finance
+flight and aircraft
+general
+general engineering
+general management
+hardware engineering
+healthcare services
+human resources
+industrial and labor relations
+industrial engineering
+information and knowledge systems
+information technology
+integration and test engineering
+intelligence analyst
+legal
+logistics engineering
+logistics management
+machine learning
+manufacturing
+manufacturing engineering
+marketing
+mathematics
+mechanical engineering
+multimedia
+natural language processing
+network communications research
+optical engineering
+physics
+product support
+production and maintenance
+program management
+program planning/scheduling
+public relations
+publications and graphic arts
+quality assurance
+quantum information
+reliability engineer
+research & development
+safety
+sales
+security
+sensor systems
+software engineering
+space and airborne systems
+speech processing
+supply chain
+systems engineering
+technical
+test engineering
+training and development
+transport
+wss
+
+
+
+location
+location
+afghanistan
+australia
+canada
+colombia
+czech republic
+germany
+guam
+india
+iraq
+japan
+kuwait
+marshall islands
+philippines
+poland
+qatar
+saudi arabia
+singapore
+slovakia
+south korea
+taiwan
+united arab emirates
+united kingdom
+united states
+
+
+
+career path
+career path
+college jobs
+international jobs
+production maintenance jobs
+professional jobs
+
+
+
+
+search jobs
+reset
+
+
+
+
+
+
+
+software engineer i
+apply
+requisition id 102387br date updated 08/30/2017
+raytheon iis/gis provides operations and maintenance support for the intelligence communityjob description:applicant will be responsible for updating exiting software systems and occasionally creating new ones.applicant will be responsible for all phases of software update process including but not limited to:design & development, re testing, documentation updates, peer review, milestone reporting, andindependent test organization support. applicant will be working under a rigid customer definedintegration process and will be required to adhere to milestone requirements defined therein.required skills:applicant will be proficient in c++, java, and activemq for jmsapplicant will have strong working knowledge of unix operating systems, specifically linux 5.x and laterapplicant will be proficient in csh, bash, perl or similar scripting languagesapplicant will be familiar with raytheon's dsac software libraries and product lineapplicant will be familiar with the clearcasethis position requires a bs degree and or 8 years of equivalent experience in lieu of a degree.desired skills:knowledge of hmi development tools e.g. dataviews, qt, etc. would be helpfuldatabase administration in mysql, sql, oracle, sybasesecurity plus certificationrequired education (including major):bs in computer science or computer engineeringohca091417 102387
+business unit profile
+            raytheon intelligence, information and services (iis) is a leader in intelligence, surveillance and reconnaissance; advanced cyber solutions; weather and environmental solutions; information-based solutions for law enforcement and homeland security; and training, logistics, engineering, product support, and operational support services and solutions for the mission support, homeland security, space, civil aviation, counter-proliferation and counter-terrorism markets. iis, which operates at nearly 551 sites in 80 countries, is headquartered in dulles, va. and generated $6 billion in 2014 revenues. as a global business, our leaders must have the ability to understand, embrace and operate in a multicultural world -- both in the marketplace and in the workplace. we strive to hire individuals who reflect our communities and proactively embrace diversity and inclusion in order to advance our culture, develop our employee and leaders, and grow our marketshare with our clients."
+
+relocation eligible 
+            no
+
+clearance type 
+            ssbi - current
+
+expertise 
+ 
+              software engineeringtechnical
+                
+            
+
+type of job 
+            full time
+
+
+work location 
+ 
+              co - aurora
+            
+
+raytheon is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.
+apply
+
+
+
+
+email 
+
+share
+
+twitter
+facebook
+linkedin
+google+
+
+
+
+
+
+
+
+explore job location
+explore job location
+
+
+explore nearby restaurants, airports, gyms, banks, and more. view the map to see more information.
+view map
+
+
+
+
+
+
+related content
+
+
+
+
+
+work on classified projects and enjoy plenty of recognition
+whether you’re just starting out on your career journey or a experienced professional, it’s important that you feel recognized and rewarded for your contributions.
+raytheon is proud to offer a comprehensive and competitive benefits package to you, your spouse and your eligible children. in addition to protecting you and your family's health and well-being, we offer important income and work/life benefits to meet your needs. learn more
+
+
+
+
+
+turn unique thinking into one-of-a-kind solutions
+diversity. every company likes to talk about it, but few have embraced it with quite the same commitment as we have here at raytheon. as a result, diversity has become a competitive imperative and an integral part of our business model, particularly as we continue to grow internationally. learn more
+
+
+
+
+
+work as one to make a difference to millions
+here at raytheon, we innovate across all domains: from land and sea to air, space, and cyberspace.it’s innovation made possible by a strong internal culture and a vision that’s shared by raytheon employees across the globe – a vision of one global team creating trusted, innovative solutions to make the world a safer place. learn more
+
+
+
+
+ download our corporate responsibility report.
+
+
+
+
+upcoming events
+
+
+
+
+
+                        sva - career fair - annual conference 2018
+                                   san antonio, texas
+01/04/2018
+
+
+
+
+
+
+                        georgia tech - ece career fair spring 2018
+                                   atlanta, georgia
+01/16/2018
+
+
+
+
+
+
+                        georgia tech- engineering info session, spring 2018
+                                   atlanta , georgia
+01/16/2018
+
+
+
+
+
+
+                        georgia tech -  next day campus screens (spring 2018)
+                                   atlanta, georgia
+01/17/2018
+
+
+
+
+
+
+                        macdill quarterly career fair
+                                   macdill afb, florida
+01/18/2018
+
+
+
+view all events
+
+
+
+sva - career fair - annual conference 2018
+
+time: 7:30 am ct - 9:00 pm ct
+address: jw marriott  23808 resort pkwy 
+             san antonio, texas 78261
+type: diversity conference career fairs
+
+
+
+
+georgia tech - ece career fair spring 2018
+
+time: 10:00 am et - 4:00 pm et
+address: christopher klaus advanced computing building 266 ferst drive 
+             atlanta, georgia 30332-0765
+type: campus career fair
+
+
+
+
+georgia tech- engineering info session, spring 2018
+
+time: 5:30 pm et - 7:00 pm et
+address: bill moore student success center 219 uncle heinie way 
+suites c&amp;d             atlanta , georgia 30332
+type: information session
+
+
+
+
+georgia tech -  next day campus screens (spring 2018)
+
+time: 8:00 am et - 5:30 pm et
+address: georgia institute of technology bill moore student success center 
+219 uncle heinie way             atlanta, georgia 30331
+type: campus screens
+
+
+
+
+macdill quarterly career fair
+
+time: 11:00 am et - 2:00 pm et
+address: surfs edge club 7315 bayshore blvd 
+             macdill afb, florida 33621
+type: professional career fair
+
+
+
+
+ucsb- winter career fair 2018
+
+time: 10:00 am pt - 2:00 pm pt
+address: university of california santa barbara corwin pavilion  
+             santa barbara, california 93106
+type: campus career fair
+
+
+
+
+
+view all events
+
+
+
+
+
+
+job alerts
+
+first namelast namephoneemail addressinterested inenter a category, location or category/location pair and click add.categorylocationaddsoftware engineering, aurora, colorado, united statesremovetechnical, aurora, colorado, united statesremoveengineering, aurora, colorado, united statesremoveall, aurora, colorado, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact
+
+raytheon company
+
+870 winter street
+waltham,
+ma 
+02451
+
+
+contact us
+
+
+
+global presence
+raytheon australia
+raytheon uk
+more
+
+
+
+
+
+
+who we are
+
+leaders
+businesses
+corporate responsibility
+culture
+history
+diversity
+raytheon bbn technologies
+raytheon professional services
+idiq contract vehicles
+suppliers
+customer tools
+employee tools
+
+
+
+
+what we do
+
+missile defense
+c5isr
+cyber
+electronic warfare
+precision weapons
+
+training
+mission support
+innovations
+
+
+
+
+global
+
+middle east
+europe
+australia
+india
+
+
+
+
+news
+
+news feature archive
+news releases
+technology today magazine
+trade show calendar
+social media
+media contact
+
+
+
+
+investors
+careers
+
+
+
+
+stock: rtn
+
+
+
+
+ copyright © 2017 raytheon company.all rights reserved. legal notices | privacy
+raytheon is proud to be an equal opportunity employer, mf/d/v.
+
+back to top 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

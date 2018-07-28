@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+data visualization engineer - machine learning focus at capital one - us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+usa
+united kingdom
+canada
+
+
+
+
+
+
+
+
+menu
+        
+
+
+
+
+
+teams & roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+life at capital one
+
+overview
+benefits
+inclusion
+military
+
+
+campus careers
+
+
+
+saved jobs
+
+
+
+
+
+
+
+
+
+
+
+
+data visualization engineer - machine learning focus
+apply now
+save
+job id r38878 updated date 12/05/2017
+location new york, new york; vienna, virginia
+114 5th ave (22114), united states of america, new york, new yorkat capital one, we’re building a leading information-based technology company. still founder-led by chairman and chief executive officer richard fairbank, capital one is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. we measure our efforts by the success our customers enjoy and the advocacy they exhibit. we are succeeding because they are succeeding.                                               guided by our shared values, we thrive in an environment where collaboration and openness are valued. we believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. we elevate each other and obsess about doing the right thing. our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. together, we are on a quest to change banking for good.data visualization engineer - machine learning focusdata visualization makes data tangible for our company and customers, thereby empowering us all by transforming what’s unknown into something that’s known. we enable these outcomes by digging into data sets, large and small, to manifest it in enlightening, understandable ways to fuel decision-making.we're looking for engineers to help build this new practice within our design organization. we partner with our center for machine learning to find meaning and understanding in previously inaccessible areas. you can expect your work to be applied to the domains of cybersecurity, fraud, anti-money laundering, and explainable ai among others. these efforts are at the forefront of capital one and drives our mission and strategy.why we carebecause we’re aiming to change banking for good, which means being brave enough to change how people interact with us and their money, for the betterbecause we want to know things that’ll enable us to make strategic decisions with the greatest degree of confidence, driven by real-time databecause insights should be accessible to us, both as employees of capital one, and as customers who are trying to make sense of their money  who are you? likely someone who…is deeply creative and driven by playfulness, wonder, and a thirst for understandinga problem solver with a knack for uncovering elegant solutionsasks questions to get at the deeper-level “why” because you prioritize relevance and meaning over the artifact or visualization itselfbetter understands a complex ml algorithm by visualizing itis outcome-focused and has an exceptional track record to prove it   here's what you can expect in this roleas a capital one data visualization engineer, you may work on internal and customer facing tools, platforms, and libraries. here’s what you'll be doing:seekyou will sit with product owners and machine learning engineers to discuss their problem space. rather than take orders on what to build, you'll engage users in conversations to uncover how they do their work, what tools they use, how they understand their work, and how they currently solve their problems. you will work to explore pain points and areas for meaningful improvement.designyou'll spend the majority of your time finding the shape of data. this entails immersing yourself in and exploring the data. you'll rabidly pull apart and tease out the nuance of the data to understand the breadth, depth, extents, outliers, relationships, and other factors that reveal its structure as a whole. your sketchbook is your constant companion. it picks up where your tools fail you.  buildyou'll bring solid experience in technologies such as: d3.js, webgl, processing, three.js, unity, and python to name a few. using these technologies and others, you'll construct meaningful, interactive, responsive, frictionless, and succinct visualizations for a variety of subject matters and domains.    basic qualifications:bachelor’s degree in computer science, or military experienceat least 3 years of experience engineering data visualizations and interactive experiencesat least 3 years experience building data visualizations using d3, webgl, processing, three.js, or unityconversational knowledge of ml, ai, and nlp methodologies and related python librariesat least 1 year experience working on a cross-functional team    preferred qualifications: master’s degree in data visualization, computer science, or related fieldat least 1 year of full-stack web development experience using react, node, aws, and sqlexperience with kafka or sparkexperience engineering nlp, ai, and ml models in pythonat this time, capital one will not sponsor a new applicant for employment authorization for this position.no agencies please.  capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. capital one promotes a drug-free workplace.  capital one will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, article 23-a of the new york correction law; san francisco, california police code article 49, sections 4901-4920; new york city’s fair chance act; philadelphia’s fair criminal records screening act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at 1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.for technical support or questions about capital one's recruiting process, please send an email to careers@capitalone.comcapital one does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.capital one financial is made up of several different entities. please note that any position posted in canada is for capital one canada, any position posted in the united kingdom is for capital one europe and any position posted in the philippines is for capital one philippines service corp. (copssc).
+apply now
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+
+our location
+
+
+
+
+
+job alerts
+sign up here for job alerts and other communications from capital one.
+email addressinterested inselect a job category from the list of options. select a location from the list of options. finally, click “add” to create your job alert.job category*select a job categoryanalyticsbrand/marketingbusiness bankingcafécafé ambassadorcafé coachcampus opportunitiescommercial bankingcompany builderscustomer advocatescustomer caredata engineeringdata sciencedesigndevopsengineeringfinanceinformation technologyinvestinglegalmachine learningmarket leadmclean data engineeringmclean devopsmclean engineeringmclean machine learningmclean softwareoperationspeople & workplacepersonal bankingproduct innovatorsproduct managementproject/process managementrisk management/auditsalessoftware engineeringstrategytechnology explorerstechnology operationsstate*select locationalabama, united statesarizona, united statescalabarzon, philippinescalifornia, united statescolorado, united statesconnecticut, united statesdelaware, united statesdistrict of columbia, united statesengland, united kingdomflorida, united statesgeorgia, united statesillinois, united statesindiana, united stateskansas, united stateslouisiana, united statesmaryland, united statesmassachusetts, united statesmichigan, united statesminnesota, united statesmississippi, united statesmissouri, united statesnebraska, united statesnevada, united statesnew jersey, united statesnew york, united statesnorth carolina, united statesohio, united statesoklahoma, united statesontario, canadaoregon, united statespennsylvania, united statesquebec, canadasouth carolina, united statestennessee, united statestexas, united statesutah, united statesvirginia, united stateswashington, united stateswisconsin, united statesadddesign, new york, new york, united statesremovedesign, vienna, virginia, united statesremoveproduct innovators, new york, new york, united statesremoveproduct innovators, vienna, virginia, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+*required field
+
+
+
+
+similar jobs
+
+
+director, product management
+vienna, virginia
+
+
+senior product manager
+new york, new york, mclean, virginia
+
+
+product manager, customer core
+richmond, virginia, vienna, virginia
+
+
+
+
+
+
+
+
+
+keywords
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+match jobs to your linkedin profile.
+
+welcome back, login
+
+
+
+
+
+
+
+
+more than just a bank
+
+
+
+
+
+
+
+investing in communities
+
+
+
+
+
+
+
+our take on interviews
+
+
+
+
+
+
+
+
+
+facebook
+linkedin
+instagram
+twitter
+youtube
+glassdoor
+
+
+
+legal
+
+privacy
+security
+terms & conditions
+patriot act cert. *
+service members civil
+relief act
+
+member fdicequal housing lender
+
+
+capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. capital one promotes a drug-free workplace.
+all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, sexual orientation, gender identity, protected veteran status, disability or other protected status.
+if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at  1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+capital one is a federally registered service mark. all rights reserved. blank check® is a registered trademark of capital one services, llc. capital one does not provide, endorse, nor guarantee and is not liable for third party products, services, educational tools, or other information available through this site.
+fortune and fortune 100 best companies to work for are registered trademarks of time inc. and are used under license. from fortune magazine, march 15, 2017 ©2017 time inc. used under license. fortune and time inc. are not affiliated with, and do not endorse products or services of, capital one financial corporation.
+*plugins required [adobe®reader®]
+e-verify® is a registered trademark of the u.s. department of homeland security 
+
+
+this link opens in new tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

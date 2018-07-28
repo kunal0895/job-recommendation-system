@@ -1,0 +1,295 @@
+
+
+
+
+dorado software - careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+rc synergy 
+enterprise it management 
+service provider 
+engineering tools 
+
+
+
+solutions
+
+operational communities 
+commercial service/nfv/sdn 
+inventory 
+monitoring 
+traffic flow analysis 
+cisco ipsla 
+network configuration 
+change/compliance
+storage management 
+mpls infrastructure 
+security services 
+carrier ethernet 
+vpn 
+lte 
+ims 
+cpe 
+mobile backhaul 
+service assurance 
+service creation 
+device/element management 
+managed services 
+
+
+
+partners
+
+telco cloud/nfv/ip 
+partner source 
+resellers/var 
+system integrators
+manufacturers/oem 
+managed service providers 
+dell
+
+
+
+developers 
+
+device driver sdk
+redcell service studio 
+
+
+
+support
+
+support overview 
+training 
+
+
+
+company
+
+about dorado 
+career opportunities
+news
+
+
+
+
+
+
+
+contact 
+
+
+
+
+
+
+
+nfv/sdn
+downloads
+redcell™
+live chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software-engineer2-performance-mngt
+
+
+
+
+
+company
+
+
+about dorado software 
+career opportunities 
+news 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+live chat by liveperson
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+we were impressed with redcell's proactive capabilities. upon installation, redcell immediately began adding value to our network operations
+dave nebral, network/telecom manager at greatbatch
+
+
+
+
+
+career opportunities
+send resume to hr@doradosoftware.com
+software engineer ii - product development - performance management component
+the candidate shall be responsible for the definition, design, development, testing and maintenance of the performance management application within dorado software's redcell product suite. 
+responsibilities include:
+
+create, modify and maintain software applications for collecting and managing performance data from network resources (switches, routers, network appliances, servers, storage devices, and more).
+develop functional requirements, design documents, and release documentation for identifying the changes being made to the software.
+ensuring designs and code are fully documented.
+document, report and escalate project issues/defects.
+perform software development tasks within project guidelines/timelines.
+work with software development team members to ensure seamless integration with the existing features in the redcell product suite.
+adhere to software development process, internal standards and architectural integrity of the redcell system.
+
+
+experience:
+
+professional experience creating and maintaining software using the java programming language.
+experience managing very large data volumes within a database of teh java jvm.
+experience working with the collection and processing of performance metrics gathered via snmp.
+experience working with the collection and processing of  netflow data.
+experience with object oriented design and familiarization with uml.
+experience with system level analysis of complex problems
+experience working directly with customers to identify and resolve problems
+
+education:
+
+
+bs/ms in computer science or electrical engineering
+
+
+required skills:
+
+
+proven ability applying design patterns.
+strong database management background
+willingness and ability to rapidly learn new technologies and tool sets
+excellent problem solving skills.
+strong communication skills (oral and written).
+understanding of formal software development practices, including object oriented use case development.
+experience with source control systems - perforce, git or other source code revision control systems.
+
+
+desired skills:
+software development
+
+
+experience with software test automation tools (junit, silk, winrunner).
+ip network programming, troubleshooting and debugging experience with java.
+voice and multimedia technologies (sip, rtp/rtcp and multimedia technologies)
+
+
+
+
+
+
+
+
+
+
+
+ contact for a  free trial!
+
+
+ 
+demo redcell today!
+
+
+
+
+
+
+
+
+
+
+
+ signup for the dorado newsletter today!
+
+
+ 
+full name: 
+email:  
+
+
+
+
+
+
+
+
+
+
+
+
+home 
+products 
+solutions 
+partners 
+developers 
+company 
+support 
+contact 
+privacy policy 
+
+
+copyright© 2015 dorado software, inc.
+
+designed and developed by black lizard interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,802 @@
+
+
+
+
+
+
+		web developer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+web developer
+operations – atlanta, georgia
+
+
+apply for this job
+
+
+
+
+department
+operations
+
+
+employment type
+full-time
+
+
+minimum experience
+mid-level
+
+
+compensation
+65,000
+
+
+
+
+
+
+
+
+
+
+organization name:  council of state and territorial epidemiologists 
+organization description:  for more than six decades, the council of state and territorial epidemiologists (cste) and the centers for disease control and prevention (cdc) have worked together in partnership to improve the public’s health by supporting the efforts of epidemiologists working at the state and local level by promoting the effective use of epidemiologic data to guide public health practice and improve health. cste and its members represent two of the four basic components of public health – epidemiology and surveillance. cste, as a member-based organization, represents the interests of applied public health epidemiologists working in state, local, tribal, and territorial settings to improve the public’s health through effective epidemiology and surveillance. more information can be found at www.cste.org.
+position description:   under the general supervision of the it operations manager, the web developer will be responsible for web development for the organization 
+essential duties and responsibilities
+responsibilities:
+
+write well designed, testable, efficient code by using best software development practices
+create website layout/user interface by using standard html/css practices
+integrate data from various back-end services and databases
+gather and refine specifications and requirements based on technical needs
+create and maintain software documentation
+be responsible for maintaining, expanding, and scaling our site
+stay plugged into emerging technologies/industry trends and apply them into operations and activities
+cooperate with web designers to match visual design intent
+other duties as assigned
+
+qualifications and employment requirements:
+
+proven working experience in web programming
+top-notch programming skills and in-depth knowledge of modern html/css
+familiarity with at least one of the following programming languages: php, asp.net, javascript or ruby on rails
+a solid understanding of how web applications work including security, session management, and best development practices
+adequate knowledge of relational database systems, object oriented programming and web application development
+hands-on experience with network diagnostics, network analytics tools
+basic knowledge of search engine optimization process
+aggressive problem diagnosis and creative problem solving skills
+strong organizational skills to juggle multiple tasks within the constraints of  timelines and budgets with business acumen
+ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+bs in computer science or a related field
+
+education/experience: bs in computer science or a related field
+knowledge:  php, asp.net, javascript or ruby on rails
+special requirements:  experience with web development required.
+closing date: 11/30/17
+expected start date:  december 2017
+contact e-mail:  hr@cste.org (no phone calls please – phone messages will not be returned) 
+web address:  www.cste.org
+
+how to apply:  submit cv/resume and cover letter to https://cste.bamboohr.com/jobs/.  the cover letter must address interest in the activities described above and should highlight any relevant skills, coursework and expertise you have.   all additional communication should be sent to hr@cste.org. please include web developer in the subject line. communication sent to other email addresses may not be reviewed. 
+this job specification should not be construed to imply that these requirements are the exclusive standards of the position.  incumbents may be required to follow any other instructions, and to perform any other related duties, as may be required.  
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+highest education obtained
+
+
+
+ged or equivalent
+high school
+some college
+college - associates
+college - bachelor of arts
+college - bachelor of fine arts
+college - bachelor of science
+college - master of arts
+college - master of fine arts
+college - master of science
+college - master of business administration
+college - doctorate
+medical doctor
+other
+
+
+
+
+
+
+
+
+references (name, company, and contact info)
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+atlanta, georgia
+
+
+department
+operations
+
+
+employment type
+full-time
+
+
+minimum experience
+mid-level
+
+
+compensation
+65,000
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

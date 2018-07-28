@@ -1,0 +1,860 @@
+
+
+
+
+
+
+		data science engineer - machine learning
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+data science engineer - machine learning
+psg – san francisco, california
+
+
+apply for this job
+
+
+
+
+department
+psg
+
+
+employment type
+temporary
+
+
+minimum experience
+mid-level
+
+
+
+
+
+
+
+
+
+
+                                         data science/machine learning engineer  (temporary 6 months) 
+overview:
+h5’s data group is looking to add a data science engineer to support legal electronic discovery projects.  the ideal candidate will draw on his or her broad technical experience to address complex data needs by providing analytic insights, creating and executing technical solutions, and taking responsibility for projects’ data-related needs. the data group’s priorities are balanced between executing fast-moving projects full of intriguing data, responding to immediate requests, and proactively designing tools for emerging needs. 
+this is a contract position for the duration of 6 months in our san francisco office, with the possibility of changing to a full time position, contingent on strong performance by the candidate and also business needs. 
+candidates must be either a us citizen or permanent resident (green card). we are not able to sponsor visas for this role.
+responsibilities:
+
+develop and execute complex data manipulation and analytics for text data
+clean and process semi-structured and unstructured data
+identify, develop and extend applications and libraries for recurring project needs
+work with cross functional teams to identify and respond to complex technical needs
+ensure a documented, high quality process and result 
+
+competencies:
+
+effective, innovative problem solving: learn quickly and rapidly arrive at a working solution
+understand and craft solutions for non-technical users
+meet deadlines while supporting multiple projects
+work independently and take ownership of technical details for an entire project 
+
+qualifications:
+
+m.s. or ph.d. in computer science, machine learning or nlp
+2+ years of industry experience at minimum
+strong coding and debugging skills in python
+strong working knowledge of machine learning techniques 
+experience applying machine learning techniques to nlp problems
+knowledge of fundamental natural language processing techniques
+experience working with spark and large data sets preferred
+experience using sql for data insight and manipulation
+experience with linux
+
+                                           h5 is an equal opportunity employer
+ 
+candidates must be either a us citizen or permanent resident. we are not able to sponsor visas for this role.
+ 
+ 
+
+ 
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+highest education obtained
+
+
+
+ged or equivalent
+high school
+some college
+college - associates
+college - bachelor of arts
+college - bachelor of fine arts
+college - bachelor of science
+college - master of arts
+college - master of fine arts
+college - master of science
+college - master of business administration
+college - doctorate
+medical doctor
+other
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+
+
+to comply with federal statute requirements, the successful candidate must have permanent us residency status (green card) or be us citizen. can you comply?
+
+
+
+
+
+
+
+are you able to work in san francisco for about 6 months?
+
+
+
+
+
+
+
+
+
+your answers to the following four questions are entirely optional.?
+
+this information will not be used as selection criteria. if you'd rather not share this information, feel free to select "decline to answer".
+
+
+
+
+
+gender
+
+
+
+decline to answer
+male
+female
+
+
+
+
+
+
+ethnicity
+
+
+
+decline to answer
+american indian or alaska native
+asian
+black or african american
+hispanic or latino
+native hawaiian or other pacific islander
+two or more races
+white
+
+
+
+
+
+
+veteran status
+
+
+decline to answer
+not a veteran
+active duty wartime or campaign badge veteran
+armed forces service medal veteran
+disabled veteran
+recently separated veteran
+
+
+
+
+
+
+disability
+
+
+
+decline to answer
+no, i don't have a disability
+yes, i have a disability (or previously had a disability)
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+san francisco, california
+
+
+department
+psg
+
+
+employment type
+temporary
+
+
+minimum experience
+mid-level
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

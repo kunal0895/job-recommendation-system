@@ -1,0 +1,559 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+privacy engineer at hp inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+
+
+
+
+careers
+
+
+search for jobsworking at hpfaqssign in & apply
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+keyword
+
+
+
+category
+select
+administration
+business planning
+corporate administration
+engineering
+engineering services
+finance
+general management
+human resources
+information technology
+learning & development
+legal
+marketing
+quality
+sales
+sales operations
+services
+supply chain & operations
+technical
+
+
+
+country
+select
+argentina
+australia
+austria
+belgium
+brazil
+bulgaria
+canada
+chile
+china
+colombia
+costa rica
+croatia
+czech republic
+denmark
+finland
+france
+germany
+greece
+hong kong
+hungary
+india
+indonesia
+ireland
+israel
+italy
+japan
+malaysia
+mexico
+morocco
+netherlands
+new zealand
+nigeria
+norway
+peru
+philippines
+poland
+puerto rico
+romania
+russia
+singapore
+south africa
+south korea
+spain
+sweden
+switzerland
+taiwan
+thailand
+tunisia
+turkey
+united arab emirates
+united kingdom
+united states
+vietnam
+
+
+
+state/province
+select
+aguadilla
+akershus
+alabama
+alberta
+anhui sheng
+arizona
+arkansas
+attica
+auckland
+baden-württemberg
+bangkok
+bavaria
+beijing shi
+bogota d.c.
+british columbia
+bucurești
+buenos aires
+california
+cantabria
+capital region
+catalonia
+central district
+chongqing shi
+colorado
+connecticut
+daerah khusus ibukota jakarta
+district of columbia
+dubai
+england
+estado de baja california
+federal district
+flanders
+florida
+geneva
+georgia
+gouvernorat de l’ariana
+grad zagreb
+guangdong sheng
+gujarat
+gyeonggi-do
+hamburg
+haryana
+hawaii
+henan sheng
+hesse
+hlavní město praha
+ho chi minh city
+hubei sheng
+idaho
+île-de-france
+illinois
+israel
+istanbul
+jalisco
+jiangsu sheng
+kanagawa
+kansas
+karnataka
+kuala lumpur
+lagos
+leinster
+liaoning sheng
+lima
+lombardy
+lower silesian voivodeship
+maharashtra
+maryland
+masovian voivodeship
+massachusetts
+michigan
+minnesota
+moscow
+national capital region
+nct
+new jersey
+new mexico
+new south wales
+new york
+north carolina
+north holland
+north rhine-westphalia
+nuevo león
+ohio
+oklahoma
+ontario
+oregon
+ōsaka
+penang
+pennsylvania
+provincia de heredia
+quebec
+rhône-alpes
+rio grande do sul
+san juan
+santiago metropolitan
+são paulo
+seoul
+shaanxi
+shanghai shi
+sofia-capital
+south australia
+south carolina
+stockholm
+taipei
+tamil nadu
+telangana
+tennessee
+texas
+thành phố hà nội
+tokyo
+victoria
+vienna
+virginia
+washington
+west bengal
+yunnan sheng
+zurich
+
+
+
+city
+select
+addison
+adelaide
+ahmedabad
+albany
+albuquerque
+allerød
+alpharetta
+álvaro obregón
+amstelveen
+ariana
+athens
+atlanta
+auckland
+austin
+bad homburg
+bangkok
+barueri
+beijing
+bengaluru
+bentonville
+böblingen
+bogotá
+boise
+boston
+boulogne-billancourt
+bracknell
+bucharest
+calcutta
+castle rock
+cernusco sul naviglio
+charlotte
+chennai
+chicago
+chongqing
+columbia
+corvallis
+dalian
+dallas
+diegem
+dornach
+dubai
+dübendorf
+duluth
+el dorado hills
+elkridge
+englewood cliffs
+forest hill
+fornebu
+fort collins
+fort lauderdale
+fort worth
+grenoble
+guadalajara
+guangzhou
+gurgaon
+hanoi
+hefei
+heilongji
+heredia
+ho chi minh city
+houston
+hyderabad
+irvine
+jakarta
+kansas city
+kunming
+lagos
+las rozas
+leixlip
+les ulis
+lima, peru
+london
+los angeles
+makati city
+manila
+memphis
+merritt island
+mexico city
+meyrin
+miami
+minneapolis
+mississauga
+monterrey
+montreal
+morristown
+mumbai
+nanjing
+ness ziona
+netanya
+new delhi
+new hudson
+new york
+oklahoma city
+orlando
+osaka
+palo alto
+philadelphia
+phoenix
+plano
+pointe-claire
+portland
+porto alegre
+prague
+pune
+ra'anana
+raleigh
+ratingen
+rhodes
+rio rancho
+sacramento
+saint paul
+san diego
+san francisco
+san jose
+sant cugat
+santiago
+seattle
+shanghai
+shenzhen
+sofia
+solna
+suwon-si
+suzhou
+sydney
+taipei
+tijuana
+tlaquepaque
+vallejo
+vancouver
+vandalia
+vienna
+vienna
+warren
+warrington
+warsaw
+washington
+wrocław
+xi'an
+yokohama
+zagreb
+zhengzhou
+
+
+
+search
+reset
+
+
+
+
+
+
+privacy engineer
+apply
+job id 3018812
+location
+    vancouver, washington; corvallis, oregon
+date posted 11/15/2017
+hp’s big data team is revolutionizing the way our customers experience and use our products and the way hp is doing business. we are seeking an experienced privacy engineer to develop and implement solutions in the print business unit to ensure hp’s privacy policies are correctly implemented in the big data platform across the technology stack. the implementations need to advance hp’s compliance with all legal forms of data use and support business actions with data. the position will also strategically work to align advanced technologies and privacy by design principles at the earliest stages in development and make sure that the accumulation, analysis and actions the business chooses with data meet established regulatory compliance needs. this role will collaborate with data product development teams creating new uses of data by using cutting-edge privacy features and prototypes that can be deployed in production code.the privacy engineer will be responsible for interacting with internal privacy program managers, data product development teams, legal, compliance, governance and data protection teams to develop the required solutions. the position analyzes, designs, programs, debugs, and modifies software enhancements in developing and integrating new data streams on a project-by-project basis. the goals will be to develop technical solutions and systems to help mitigate privacy vulnerabilities, research, document, steer design decisions, operating procedures, or processes that may directly or indirectly contribute to future privacy risks.  they are also responsible for assisting with the management of the data privacy, data protection, data usability, performance and the integrity of the privacy solution. using current programming language and technologies, creates a solid design, writes code, completes programming, and performs testing and debugging of applications as well as completes documentation and procedures for installation and maintenance. interacts with users to define system requirements and/or necessary modifications to new or existing software. the privacy engineer will interface with other developers and architects in implementing big data solutions that enable the business to be data driven while protecting the data assets.responsibilities:use data anonymization and cryptographic techniques to develop systems that will preserve and improve privacy protectionguide the development of new privacy products and featuresidentifies areas of improvement in local practices relative to managing data privacyperforms regular privacy assessments of operational processes, identifying, and mitigating risksacross the company through effective tools, training and guidancecommunicates program progress, escalations, and issue analysis to key stakeholdersacts as key interface to data science and analytics communities both within and outside of hpthe candidate must also possess these key skills associated with big data and privacy:experience or understanding of software applications design tools and languages such as c++, c#, java and python.strong analytical and problem solving skills.understanding of design for software applications running on multiple platform types such as linux or windows.understanding of testing, coding, and debugging procedures in continuous integration development.fluency in english.demonstrated working knowledge of software engineering fundamentals.bias to action.ability to execute on given projects consistently.mathematical reasoning; competent in the interpretation of numeric data, understand and/or practice statistical principles.data literacy: finding and managing data, cleansing data, appropriately address extremes, outliers, etc., manipulating data.ability to develop software at a tactical level, as well as the ability to communicate and implement the intended strategy of the application.ability to perform operations on large datasets including automated verification and validation.experienced with agile software development life-cycles with its principles, practices, strategies and tactics including continuous integration.experience with data warehousing, dimensional modeling, big data solutions and etl development is a plus.knowledge and skills:excellent analytical and problem solving skillsexcellent communication skills (verbal and written)ability to exercise good judgement and balance risks in ambiguous and complex situationsdemonstrated teamwork and collaboration skills, in particular in leading or contributing to global and multi-functional teamshighly motivated to contribute and grow within a complex area of emerging importancestrong interpersonal skills, ability to influence without authorityqualifications:bs or ms degree in computer science, computer engineering, information systems or related field of study.strong software development skills.experience with open source technologies a plus.familiarity with data warehousing, dimensional modeling and etl development a plus.initiative and a drive to achieve desired outcomes.a creative mind and a propensity to take calculated risks.excellent communication and presentation skills and the ability to effectively communicate designs, proposals, and results; and negotiate options at management levels5 years' experience in privacy / data protection2+ years of experience in one or more of the following areas:privacy by designapplied cryptographydata anonymizationdifferential privacyprivacy preserving distributed machine learning
+apply
+
+
+
+share
+
+linkedin
+twitter
+facebook
+email
+
+
+
+
+
+
+about this location
+check out where you could be working before you apply.
+view map
+
+
+similar jobs
+
+
+
+writing systems/system integration engineer
+corvallis, oregon
+
+
+
+
+system integration engineer
+corvallis, oregon
+
+
+
+
+mechanical engineer
+corvallis, oregon
+
+
+
+
+new product introduction product engineer
+corvallis, oregon
+
+
+
+
+mems process engineer
+corvallis, oregon
+
+
+
+
+
+
+sign up for updates
+email addressareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions and click “add”.categorylocationadd +engineering, vancouver, washington, united statesremoveengineering, corvallis, oregon, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+legal & eeo statements
+
+
+standards of business conduct (sbc):
+the hp standards of business conduct (sbc) embody the fundamental principles that govern our ethical and legal obligations to hp. they pertain not only to our conduct within the company but also to conduct involving our customers, channel partners, suppliers and competitors.
+read more about how we win the right way.
+
+
+equal opportunity employer (eeo):
+hp, inc.  provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).
+please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. this information is provided voluntarily. the information obtained will be kept in strict confidence.
+if you’d like more information about hp’s eeo policy or your eeo rights as an applicant under the law, please click here: equal employment opportunity is the law equal employment opportunity is the law - supplement
+pay transparency nondiscrimination provision: the contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.
+
+
+accessibility:
+hp is committed to working with and providing reasonable accommodation to qualified individuals with physical and mental disabilities. if you need assistance in filling out the employment application or require a reasonable accommodation while seeking employment, please e-mail hrgsglobalstaffing@hp.com.
+note: this option is reserved for applicants needing a reasonable accommodation related to a disability.
+
+
+
+follow hp careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,640 @@
+
+
+
+software-engineering-intern job - littleton, co - lockheed martin
+
+
+
+lockheed martin - job search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to page content
+
+open/close mobile menu
+lockheed martin corporation home
+
+
+
+
+
+investors
+media
+suppliers
+employees
+
+
+
+
+
+
+quick job search form
+quick job search
+
+
+
+
+
+
+who we are
+what we do
+news & events
+innovation
+careers - home pagevisit careers sitemap
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+about us
+
+
+
+
+working here
+
+
+
+locations
+pay & benefits
+inclusive work environment
+career development
+rewards & recognition
+
+
+
+
+
+meet our employees
+
+
+
+meet our employees - students
+meet our employees - experienced
+meet our employees - military
+meet our employees - diversity
+
+
+
+
+
+careers - events
+
+
+
+diversity/national events
+military events
+college events
+experienced events
+
+
+
+
+
+joining lockheed martin
+
+
+
+ready to start your search
+sharing your resume
+interview invitation
+post interview
+connect with us
+
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+faqs - about us
+
+
+
+
+
+
+college students
+
+
+
+
+internships/co-op
+
+
+
+leadership development
+
+
+
+communications - leadership development
+engineering
+finance
+operations
+security - leadership development
+
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+more - college students
+
+
+
+meet our employees - college students
+campus events
+faqs- college students
+
+
+
+
+
+
+
+
+experienced professionals
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+more - experianced professionals
+
+
+
+meet our employees - experianced professionals
+career development
+experienced events
+faqs - experianced professionals
+
+
+
+
+
+
+
+
+military
+
+
+
+
+area of interest
+
+
+
+aeronautical engineering
+business development
+communications
+contracts
+cyber security
+electrical engineering
+energy, environment, safety and health
+facilities, administration and support
+finance and business operations
+human resources
+information technology
+intelligence analysis
+legal
+mechanical engineering
+mechanics, skilled labor and technicians
+operations and production
+quality
+science, research, and development
+security
+software
+supply chain operations
+systems engineering
+
+
+
+
+
+partnerships
+
+
+
+army partnership for youth success program
+get skills to work
+hiring our heroes
+military spouse employment partnership
+targeted outreach for wounded warriors
+hero2hired
+
+
+
+
+
+more - military
+
+
+
+military events
+faqs - military
+skills translator
+meet our employees - military
+military connect
+meet our military relations managers
+
+
+
+
+
+
+
+
+featured opportunities
+
+
+
+
+programs
+
+
+
+advanced development programs (adp)/skunk works
+f-35 lightning ii flight test
+antarctic support contract program
+consolidated air force satellite control network (afscn) modification, maintenance & operations (cammo)
+defense intelligence agency enterprise infrastructure engineering services (dia eies)
+federal aviation administration (faa) controller training contract (ctc)
+federal energy regulatory commission information technology support services (ferc itss)
+federal housing administration resource center (fha rc) contract
+intelligence community
+intelligence community > cyber technology services (cts)
+intelligence community > defense cyber crime center (dc3)
+intelligence community > silverquarter (sq)
+mega 4 automated litigation support program
+national energy technology laboratory (netl), research and engineering services
+ocelot
+software developers and engineers
+technical services support contract (tssc) iv
+transportation security administration (tsa) - information technology infrastructure program (itip)
+army command, control, communications, computers, intelligence, surveillance and reconnaissance (c4isr) system training
+army pre-positioned stock 5 (aps-5)
+command, control, communications, computers (c4) assessment division (c4ad)
+international narcotics and law enforcement affairs' program
+special operations forces contractor logistics support services
+surface ship torpedo defense (sstd) technical support
+u.s. army aviation and missile command / aviation field maintenance (amcom afm)
+u.s. army non-standard rotary wing aircraft (nsrwa)
+database and it systems opportunities
+joint forces development support services (jfdss)
+software and hardware engineers
+training and logistics solutions program
+future intercontinental ballistic missile (icbm) sustainment & acquisition construct (fisac)
+rf manufacturing and production technicians
+satellite communications and payload engineering
+
+
+
+
+
+
+
+
+search jobs
+
+
+
+
+returning job seekers: students
+
+
+
+returning job seekers: experienced
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+careers
+job search
+
+job details
+
+
+
+
+
+
+
+software engineering intern
+
+
+
+
+
+
+apply to job(s)
+       
+
+
+
+req id : 
+410081br
+
+
+job code/title : 
+n906x:college student tech (intern)
+
+
+job description : 
+our world is a dynamic place, more so today than ever before. come join us in space system as we design and build vital satellites, develop new technologies and create new capabilities that protect our nation. if you love all things space and have the drive to take on some of the nation's most important security challenges, then space systems is the place for you to make a difference. do what matters.primary interface with project leads and system engineers for software architecture decisions. perform software engineering lifecycle requirements following the program software development plan (sdp) to include requirements analysis, object oriented analysis & design (ood), code & unit test, integration, and support to formal test and delivery. participate in technical reviews and audits of software products. utilize model based design approaches. support development of complex system internal and external interfaces. this position requires interaction, planning and coordination with multiple software development, spacecraft engineering and data engineering/maintenance teams.basic qualificationsactively enrolled in a computer science, aerospace engineering or other related degree program from an accredited college/university.  this position requires the selected candidate to be a us citizen.desired skillspython, c, c++, c#,; os background to include sun solaris, linux, windows; object oriented methodologies and uml modeling techniques. fundamental knowledge of program planning principles. experience developing real-time embedded software. experience with single board computers and real-time operating systems. hardware/software integration. familiarity with spacecraft subsystems, hardware, telemetry, command & control. proficient with microsoft office productsas a leading technology innovation company, lockheed martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. lockheed martin has employees based in many states throughout the u.s., and internationally, with business locations in many nations and territories.join us at lockheed martin, where we’re engineering a better tomorrow.lockheed martin is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity,  national origin, age, protected veteran status, or disability status.job location(s): littleton colorado
+
+
+security clearance : 
+none
+
+
+business unit : 
+ess4400 space systems company
+
+
+program : 
+orion 1
+
+
+job class : 
+software engineering
+
+
+job category : 
+co-op/summer intern
+
+
+city : 
+littleton
+
+
+state : 
+co
+
+
+virtual : 
+no
+
+
+relocation available : 
+no
+
+
+work schedule : 
+part-time-less than 40 hrs/wk;
+
+
+req type : 
+call-in
+
+
+shift : 
+first
+
+
+additional posting locations : 
+littleton
+
+
+
+apply to job(s)
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 lockheed martin corporation disclaimer | privacy | accessibility
+lockheed martin utilizes our own internal talent acquisition organization to fill our employment needs. if you are contacted over the phone or e-mailed, by a company listing a lockheed martin job and requesting your personal information, allegedly on lockheed martin's behalf, please do not respond. lockheed martin is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+
+
+                    www.dhs.gov/e-verify
+                
+
+                e-verify is a registered trademark of the u.s. department of homeland security. this business uses e-verify in its hiring practices to achieve a lawful workforce.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stock price
+contact us
+site map
+privacy
+terms of use
+© 2017 lockheed martin corporation
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,409 @@
+
+
+
+
+job application for data scientist at earnin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist
+
+        at earnin
+      
+(view all jobs)
+
+        palo, alto, ca
+      
+
+
+about earnin:
+our financial system is fundamentally unfair for people who live paycheck to paycheck.  people shouldn’t have to wait weeks to get the pay they’ve already earned.  this wait forces them to spend more than $100 billion a year on short-term credit products, late fees and overdraft fees.
+earnin helps people overcome this unfairness by giving them real-time access to their money as soon as they have worked -- without fees or interest.
+our team is bound together by a desire to level the financial playing field.  our investors, andreessen horowitz, ribbit capital, felicis ventures, matrix partners and march capital believe we will change the world.
+you can help make a difference.  join us.
+about the team:
+we’re looking for a talented and motivated data scientist to collect and process data across our business to aid earnin’s mission in giving the world access to their pay as soon as they’ve earned it.
+data scientists are the central node to every team within earnin.  as a data scientist, you’ll be interfacing with analytics to gain insight, our risk team to evaluate areas where we can protect and improve our business model, and our engineering team to advance our product utilizing machine intelligence.  
+every decision made at earnin is backed by data; our company trajectory is defined by the systems, tools, and analytics powered by our exceptional team.  we integrate multifaceted data streams such as rapidly changing market data, customer data based on app activity and feedback, and financial banking operations data to perfect our processes and workflows.  improving these systems and maintaining scalability across a growing user base (x million and counting) is thrilling, particularly on a team of 4.  
+what set us apart:
+
+we care more about the thought process, perseverance, tenacity in solving really difficult problems (rather than checking off all the technology boxes)
+solving unique problems in the financial payments industry
+helping people on a human level 
+
+as a data scientist you will:
+
+productionize machine learning algorithms, augment engineers to make the earnin product smarter by building, deploying, and maintaining predictive models using python, r, scala
+build robust distributed systems to process large scale data streams into useful applications
+engineer fast, real-time data pipelines to process data from across the financial markets and our internal event streams
+implement risk monitoring systems to improve tracking and mitigation of several risks including money laundering, financial fraud and margin exposure
+work closely and collaborate with backend and frontend engineers to build products for gathering timely insights about customer behavior, etc
+create monitoring systems to track of the quality of data and the health of our systems
+
+some skills we consider critical to being a data scientist:
+
+experience building data pipelines from scratch data to production
+a ms or phd in computer science, physics, statistics, applied mathematics, or any quantitative disciplines
+strong sql abilities and experience.
+proficient in python, numpy, scipy, scikit-learn, pandas
+3+ years industry experience in data mining, machine learning, statistical analysis, and modeling
+excellent communication - are you comfortable/able to explain complex scientific topics to non-tech audiences
+
+nice to have:
+
+familiarity with mapreduce
+familiarity with neural networks (deep learning)
+
+technologies we use:
+
+elasticsearch, logstash, kibana (elk)
+kafka
+redis
+redshift + aws suite
+sql
+python, numpy, scipy, sci-kit learn, pandas
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ add another
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+are you legally authorized to work in the united states? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require sponsorship for employment visa status (e.g. h-1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        school name
+      
+
+
+
+
+
+        degree
+      
+
+high school
+associate's degree
+bachelor's degree
+master's degree
+master of business administration (m.b.a.)
+juris doctor (j.d.)
+doctor of medicine (m.d.)
+doctor of philosophy (ph.d.)
+engineer's degree
+other
+
+
+
+        discipline
+      
+
+accounting
+african studies
+agriculture
+anthropology
+applied health services
+architecture
+art
+asian studies
+biology
+business
+business administration
+chemistry
+classical languages
+communications & film
+computer science
+dentistry
+developing nations
+discipline unknown
+earth sciences
+economics
+education
+electronics
+engineering
+english studies
+environmental studies
+european studies
+fashion
+finance
+fine arts
+general studies
+health services
+history
+human resources management
+humanities
+industrial arts & carpentry
+information systems
+international relations
+journalism
+languages
+latin american studies
+law
+linguistics
+manufacturing & mechanics
+mathematics
+medicine
+middle eastern studies
+naval science
+north american studies
+nuclear technics
+operations research & strategy
+organizational theory
+philosophy
+physical education
+physical sciences
+physics
+political science
+psychology
+public policy
+public service
+religious studies
+russian & soviet studies
+scandinavian studies
+science
+slavic studies
+social science
+social sciences
+sociology
+speech
+statistics & decision theory
+urban studies
+veterinary medicine
+
+
+
+        start date
+      
+
+
+
+
+
+        end date
+      
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

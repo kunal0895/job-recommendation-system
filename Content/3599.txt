@@ -1,0 +1,137 @@
+ ai research scientist | new york | bloomberg careers
+
+
+
+
+
+bloomberg the company & its productsbloomberg anywhere remote loginbloomberg anywhere loginbloomberg terminal demo request 
+
+
+
+
+
+bloomberg
+connecting decision makers to a dynamic network of information, people and ideas, bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+for customers
+bloomberg anywhere remote loginsoftware updatesmanage products and account information 
+support
+americas+1 212 318 2000emea+44 20 7330 7500asia pacific+65 6212 1000 
+
+
+company
+bloomberg londonaboutcareersdiversity and inclusionphilanthropy and engagementsustainabilitytech 
+communications
+press announcementspress contacts 
+follow
+facebooktwitterlinkedininstagram 
+
+
+products
+bloomberg terminalexecution and order managementdata and contentfinancial data managementintegration and distributionbloomberg tradebook 
+industry products
+bloomberg lawbloomberg taxbloomberg governmentbloomberg environmentbloomberg new energy finance 
+
+
+media
+bloomberg marketsbloomberg technologybloomberg pursuitsbloomberg politicsbloomberg opinionbloomberg businessweekbloomberg live conferencesbloomberg mobilebloomberg radiobloomberg televisionnews bureaus 
+media services
+bloomberg media distributionadvertising 
+
+
+
+
+company
+bloomberg londonaboutcareersdiversity and inclusionphilanthropy and engagementsustainabilitytech 
+communications
+press announcementspress contacts 
+follow
+facebooktwitterlinkedininstagram 
+
+
+products
+bloomberg terminalexecution and order managementdata and contentfinancial data managementintegration and distributionbloomberg tradebook 
+industry products
+bloomberg lawbloomberg taxbloomberg governmentbloomberg environmentbloomberg new energy finance 
+
+
+media
+bloomberg marketsbloomberg technologybloomberg pursuitsbloomberg politicsbloomberg opinionbloomberg businessweekbloomberg live conferencesbloomberg mobilebloomberg radiobloomberg televisionnews bureaus 
+media services
+bloomberg media distributionadvertising 
+
+
+bloomberg
+connecting decision makers to a dynamic network of information, people and ideas, bloomberg quickly and accurately delivers business and financial information, news and insight around the world. 
+for customers
+bloomberg anywhere remote loginsoftware updatesmanage contracts and orders 
+support
+americas+1 212 318 2000emea+44 20 7330 7500asia pacific+65 6212 1000 
+
+ 
+
+careers at bloombergour businesscorporate functionsfinancial productsglobal dataindustry verticalsmedianews and researchtechnologystudents & graduatesinternship opportunitiesfull-time opportunitiescareers calendarworking hereaboutmeet our peopleblogloginloginsearch jobs日本語connecttwitterfacebooklinkedinyoutubeabout bloombergsearch jobs< back to searchai research scientistcareers at bloomberg
+similar jobs
+ai research scientistnew yorkposted oct 5, 2017 - requisition no. 62503 apply now 
+
+news and social media move financial markets. bloomberg is one of the largest producers of news in the world and ingests over 70,000 external news feeds and social media like twitter each day. this data keeps our clients informed, and our team's insights help make sense of it for our customers.
+
+who are we? bloomberg's artificial intelligence (ai) group: researchers and engineers who have a passion for solving complex problems. our charter: to extract relevant, meaningful, tradable, and actionable information (pricings, earnings, recommendations and major events) from data (news, web, social media, and structured data) in real-time. since our customers rely on this information to make swift financial decisions, we guarantee precision, accuracy and latency beyond most academic and industry standards.
+
+we aren't just building products. the infrastructure and algorithms we develop are used across the company by data scientists. we publish papers, attend conferences and contribute back to the larger data science community whenever we can (bloomberg.com/company/d4gx/).
+
+who are you? a research scientist who wants to work in the areas of machine learning, natural language processing, information extraction, reinforcement learning, graphical models, recommender systems and knowledge graphs. you want to join a close-knit group and make a big impact.
+
+we'll trust you to:
+ work with researchers in our engineering ai group on live systems
+ publish research findings in leading academic venues and represent bloomberg at industry conferences
+ write, test and maintain production-quality code
+ design, experiment and evaluate models
+
+you'll need to have:
+ a phd in ai, nlp, ml, optimization, or equivalent experience in related fields
+ 5+ years of experience programming in c++, python or java
+ 3+ publications in top-tier conferences or journals (such as acl, aaai, sigir, kdd, emnlp, icml, nips or equivalent)
+
+we'd love to see:
+ a quantitative background (probability, statistics, linear algebra, etc.)
+ experience with distributed computational frameworks (yarn, spark, hadoop)
+
+if this sounds like you, apply! we are hiring for our nyc and london offices.
+
+you can also check out our blog, techatbloomberg.com, to learn more about our publications and projects in data science.
+
+ apply now 
+
+ai research scientistnew yorkposted oct 5, 2017 - requisition no. 62503 apply now 
+news and social media move financial markets. bloomberg is one of the largest producers of news in the world and ingests over 70,000 external news feeds and social media like twitter each day. this data keeps our clients informed, and our team's insights help make sense of it for our customers.
+
+who are we? bloomberg's artificial intelligence (ai) group: researchers and engineers who have a passion for solving complex problems. our charter: to extract relevant, meaningful, tradable, and actionable information (pricings, earnings, recommendations and major events) from data (news, web, social media, and structured data) in real-time. since our customers rely on this information to make swift financial decisions, we guarantee precision, accuracy and latency beyond most academic and industry standards.
+
+we aren't just building products. the infrastructure and algorithms we develop are used across the company by data scientists. we publish papers, attend conferences and contribute back to the larger data science community whenever we can (bloomberg.com/company/d4gx/).
+
+who are you? a research scientist who wants to work in the areas of machine learning, natural language processing, information extraction, reinforcement learning, graphical models, recommender systems and knowledge graphs. you want to join a close-knit group and make a big impact.
+
+we'll trust you to:
+ work with researchers in our engineering ai group on live systems
+ publish research findings in leading academic venues and represent bloomberg at industry conferences
+ write, test and maintain production-quality code
+ design, experiment and evaluate models
+
+you'll need to have:
+ a phd in ai, nlp, ml, optimization, or equivalent experience in related fields
+ 5+ years of experience programming in c++, python or java
+ 3+ publications in top-tier conferences or journals (such as acl, aaai, sigir, kdd, emnlp, icml, nips or equivalent)
+
+we'd love to see:
+ a quantitative background (probability, statistics, linear algebra, etc.)
+ experience with distributed computational frameworks (yarn, spark, hadoop)
+
+if this sounds like you, apply! we are hiring for our nyc and london offices.
+
+you can also check out our blog, techatbloomberg.com, to learn more about our publications and projects in data science.
+
+
+similar jobs
+
+ apply now xour termsplease read our full terms & conditions before applying{{{legaltermshtml}}}i agreeby applying for this job, you agree to the full terms of the above legal statement.job alertget an email when new listings match your search for:criteria{{criteriastring}}settingssend updatesonce a dayonce a weekend alertwhen i cancelin one monthin three monthsin six monthsemailcreate job alertsuccessemail alert createdpro tip: get connectedconnect, we'll use this information you provide to help us get in touch with you to align your expertise with our opportunities and better direct our conversations, or keep searching.connect with usemail sentcheck your inbox for a link to activate this alert.keep searchingthe bloomberg talent networkstay connected with us and be among the first to learn about new job opportunities. we’ll use the information you provide to help us get in touch with you to align your expertise with our opportunities and better direct our conversations.connect with us twitterlinkedinfacebookyoutube bloomberg is committed to attracting, developing and promoting the most qualified individuals without regard to race, color, religion or belief, sex, national or ethnic origin, ancestry, age, marital status, sexual orientation, gender identity, genetic predisposition or carrier status, veteran status, disability, or any other classification protected by law in your region.
+if you are an individual with a disability who may need assistance with our employment application process, please email us at access2@bloomberg.net to request an accommodation.© 2017 bloomberg l.p.  all rights reserved. privacy and termslog inemailpasswordforgot your password?log inuse your linkedin account to access your profile:inlog in with linkedindon't have a profile? create one now.application waiting for youyou have one or more applications created by recuiters on your behalf. would you like to review them now?if you like to review them later, you can find them under 'applications' tab in the 'my profile' section.yesnot nownot nowxforgot passwordenter the email address associated with your account and we will send you a new password.emailsend new passwordori remember my passwordan email has been sent to  containing a link to reset your password! please check your email.create a profileemailpasswordconfirm passwordcreate my profileor use your linkedin account to create and pre-fill your profileincreate with linkedinalready have a profile? log in.

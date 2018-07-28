@@ -1,0 +1,161 @@
+
+
+
+
+
+career opportunities
+
+
+
+
+
+
+
+
+
+general information
+
+
+web application developer / backend (fpa2)
+
+
+location:
+san diego, ca
+ 
+remote location:
+
+
+
+# of openings:
+1
+ 
+department:
+
+
+
+employment duration:
+full time
+ 
+exemption status:
+exempt
+
+
+relocation assistance:
+available
+ 
+added to system:
+12/8/17 12:10 pm
+
+
+job code:
+955.171208.5141
+ 
+ 
+
+
+
+description
+web application developer / backend, formulary process automation
+if you’re interested in a career within a customer-focused, team-oriented environment that rewards innovation, quality, integrity and collaboration, medimpact healthcare systems, inc. welcomes your application. medimpact, is a privately-held pharmacy benefit manager (pbm) headquartered in san diego, california. our solutions and services positively influence healthcare outcomes and expenditures, improving the position of our clients in the market. medimpact offers high-value solutions to payers, providers and consumers of healthcare in the u.s. and foreign markets.
+the miformulary project is a brand new system design and development effort to optimize and automate drug formulary processes.  the solution will play a vital role in the overall pbm service and directly ensure consumers’ satisfaction when prescription medications are filled at the pharmacy counter. miformulary is being built with cutting edge technologies like angular 4, restful web services with hibernate and oracle 12c. sdlc processes such as scrum agile, continues integration and continues deployment, test-driven development methodology and automation of units and integration tests will augment and benefit the technology stack selection.
+position summary
+the back-end web application developer works within the formulary process automation team to provide complex software programming for a new enterprise formulary software including production support/ maintenance for existing software.  this role plays a primary role in the back-end implementation of the solution which includes working closely with a cross-functional team and autonomously completing deliverables.
+the position requires an expert level experience in following areas:
+
+java web application development
+	
+back-end design and development
+restful webservices utilizing hibernate and spring
+
+
+batch job design and development utilizing springbatch and schedulers
+oracle sql or pl/sql development
+
+some experience in the following areas is highly desirable:
+front end development based on single page application design utilizing angular
+essential duties and responsibilities include the following. other duties may be assigned.
+
+design and develop rest webservices utilizing hibernate and spring
+apply design principles and patterns in creating enterprise level solutions
+perform webservices tuning and performance testing
+code and perform automated test
+develop and execute continues integration
+
+education and/or experience
+for consideration, candidates will need a bachelor’s degree (or equivalent combination of education and experience) along with five (5) plus years’ related experience in the essential job functions listed. prior pbm or healthcare experience is helpful but not required.
+computer skills
+
+excellent working knowledge of restful services, apis, hibernate and spring, java, oracle pl/sql
+prior experience with batch java development using springbatch and responsive design
+experience with javascript frameworks (angular, jquery, jqwidgets)
+working knowledge of web application development using j2ee technologies, java scripting, html, oo design and ui patterns
+working knowledge of css frameworks (bootstrap)
+
+eoe, m/f/d/v
+osha/ada:
+to perform this job successfully, the successful candidate must be able to perform each essential duty satisfactorily. the requirements listed are representative of the knowledge, skill, and/or ability required. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+disclaimer:
+the above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. they are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

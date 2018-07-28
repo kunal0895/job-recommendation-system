@@ -1,0 +1,352 @@
+
+
+
+
+
+software engineer  in  seattle, wa at ge | imagination at work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+
+ back
+working at ge 
+culture 
+students 
+my application 
+search jobs 
+
+
+
+
+
+
+
+
+  
+
+
+ge businesses
+
+ge additive
+
+ge aviation
+
+ge capital
+
+ge digital
+
+ge energy connections
+
+ge healthcare
+
+ge lighting
+
+ge oil & gas
+
+ge power
+ge renewable energy
+ge transportation
+current powered by ge
+
+
+investors
+careers
+
+students
+life at ge
+
+working at ge
+
+culture
+
+diversity
+
+my application
+
+
+news
+
+ge newsroom
+
+ge reports
+
+
+
+search
+globe
+side menu
+ge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge careers
+
+
+
+   search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge careers
+
+
+
+
+
+
+
+linkedin
+facebook
+twitter
+email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+
+software engineer
+
+
+ge healthcare
+experienced
+posted 9/12/2017 1:52:20 pm
+2979942
+
+
+
+
+job function: digital technology
+business segment:  healthcare digital
+
+
+
+location(s):  united states; washington; seattle
+
+
+
+about us: ge is the world's digital industrial company, transforming industry with software-defined machines and solutions that are connected, responsive and predictive. through our people, leadership development, services, technology and scale, ge delivers better outcomes for global customers by speaking the language of industry. ge offers a great work environment, professional development, challenging careers, and competitive compensation.  ge is an equal opportunity employer.  employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law. role summary: ge healthcare digital is looking for an experienced software engineer to join our health cloud platform team delivering core services and technologies that empower software teams across ge healthcare to rapidly create and deliver high-impact software solutions. essential responsibilities: you will be responsible for programing a feature and or a small feature set. you will contribute to the team and work with direction from the senior team members or management.in this role you will:act as a member of ge digital’s health cloud team, representing the face of high quality design and development practicesdevelop high performing, scaling and innovative end-to-end web services and solutionscollaborate with system engineers, frontend developers and software developers to implement solutions that are aligned with and extend our portfolio of platform services and solutionsapply principles of sdlc and methodologies like lean/agile/xp, ci, software and product security, scalability, documentation practices, refactoring and testing techniqueswrite code that complies with company and regulatory standards and delivers desired functionality using the technology selected for the projectcreate standardized apis and infrastructure to help facilitate the successful adoption of your services by other internal and external partieslearn and help others adopt new technologies qualifications/requirements: basic qualificationsbachelor’s degree in computer science or in “stem” majors (science, technology, engineering and math)a minimum of 2 years of professional experienceeligibility requirementslegal authorization to work in the u.s. is required.  we will not sponsor individuals foremployment visas, now or in the future, for this job.any offer of employment is conditioned upon the successful completion of a background investigation and drug screen.must be willing to work out of an office located in seattle, wa. desired characteristics: technical expertiseexperience with public cloud infrastructures such and amazon or azureexperience developing web applications (spring, java, junit, python, nodejs, c#, go)experience with front-end technologies such as javascript, html5, css, angularjsexperience with sql and no sql database such as mysql, sql server, postgresql, hbase, cassandra business acumenhave a solid understanding of the underlying infrastructure needed to run a large distributed web applicationhas the ability to break down problems and estimate time for development taskshas the ability to make basic technology choices based on experiencedemonstrates awareness about competitors and industry leadershiphas the ability to take ownership of small tasks and deliver without supervision while using their discretion to seek help when necessaryvoices opinions and presents clear rationale. uses data or factual evidence to influence.recognizes collaborative behavior and participates in collaborative activitieslearns organization vision statement and decision making framework. able to understand how team and personal goals/objectives contribute to the organization vision.personal  attributesdemonstrate the ability to help team membersseeks to understand problems thoroughly before implementing solutions. asks questions to clarify requirements when ambiguities are present.identifies opportunities for innovation and offers new ideas. takes the initiative to experiment with new software frameworks.adapts to new environments and changing requirements. pivots quickly as needed. when coached, responds to need & seeks info from other sources.#dtr locations:   united states; washington; seattle
+ge offers a great work environment, professional development, challenging careers, and competitive compensation.  ge is an equal opportunity employer.  employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+ge will only employ those who are legally authorized to work in the united states for this opening.  any offer of employment is conditional upon the successful completion​ of a background investigation and drug screen.
+
+
+
+
+
+
+apply now
+       
+
+
+
+link for schema
+
+ 
+
+
+ge careers technical assistance
+
+having technical issues with ge.com/careers or your application? we're here to help.
+get in touch
+
+
+
+connect with us
+
+stay up to date on ge and possible opportunities that open in areas that interest you.
+
+sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+investor contacts
+site map 
+privacy
+terms
+cookies
+integrity at ge
+
+
+
+
+
+
+accessibility
+candidate privacy notice
+pay transparency 
+fraud alert
+ca transparency in supply chain
+
+
+
+
+
+
+
+ge is an equal opportunity employer. employment decisions are made without regard to race, color,
+	                        religion, national or ethnic origin, sex, sexual orientation, gender identity or expression,
+	                        age, disability, protected veteran status or other characteristics protected by law. 
+learn more
+
+linkedin
+facebook
+twitter
+instagram
+youtube
+
+powered by smashfly
+
+
+
+
+
+
+© general electric
+
+
+
+
+
+
+
+
+
+
+check application status
+
+
+we are in the process of transitioning to an improved job application system and in the interim we are operating with two systems. have your job id ready (from the email you received when you applied) to log in and check your application status.
+                    
+
+                    click the appropriate button. if you don't know your job id, you can still check your status: use both buttons.
+job id begins with '1'
+job id begins with '2' or '3'
+you can only check your application status if you applied via this website. for all other applications, ge will contact you if there is interest in pursuing your candidacy. click here for help.
+
+
+
+
+
+
+
+
+
+
+
+
+

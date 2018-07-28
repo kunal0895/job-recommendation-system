@@ -1,0 +1,59 @@
+
+
+sr quantitative finance analyst - transreach talent llc - charlotte nc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+back
+ 
+
+
+
+apply
+share
+
+
+
+
+
+job title
+sr quantitative finance analyst
+
+location
+charlotte, nc
+
+job type
+full-time regular
+
+position id
+201096
+
+job description
+the group is a multi-national team within enterprise model risk management primarily based in new york and london. it covers all aspects of model validation and model risk of front office credit/funding value adjustment (xva) models, margin models, and counterparty credit risk (ccr) models including counterparty internal method models (imm). the team covers cross asset classes of over-the-counter derivatives for xva/ccr/imm calculation ranging from interest rates, fx, commodity, inflation, equity, credit and collateral modeling.candidate will work closely with front office and global risk analytics model developers, as well as finance/pvg and other risk management groups.responsibilitiesvalidate xva system models and feeder models of bank’s counterparty systems developed by quantitative strategy group and global risk analytics, including all asset classes: ir (interest rates), fx (foreign exchange), inflation, equity, commodity, credit, mortgage, as well as collateral exposure modelling. review the underlying assumptions, theory, derivation, empirical evidence, implementation and limitations of the model being validatedperform independently testing to identify/quantify model risk associated with the model being validatedprepare validation report and technical documents for the model being validatedwork closely with the model stakeholders (business, market risk, finance/pvg and other control functions) with respect to compensating controls of the models and communication of validation outcomesmaintain a sub-portfolio of model inventory and perform annual model reviews, on-going monitoring reviews, required actions items closure and etc.requirementsphd in quantitative fields such as mathematics, statistics, physics or equivalentin depth understanding of financial mathematics including stochastic calculus and probability theory, as well as derivative pricing and risk models including interest rates and credit risk modelling.exceptional knowledge of financial derivatives, otc trading and hedging, collateral management, capital management, bank’s operations and regulatory requirementsstrong coding ability in c++, python or r is a plus5y work experience is required in quantitative modelling and/or validation in cva/ccr or derivative pricing models. experience on fva/kva models is a plus.being critical thinking, intellectually curious, detailed-oriented, well-organized, quick learning and a team player with good communication skills (both written and verbal)
+
+
+apply
+apply
+
+
+
+
+
+
+
+

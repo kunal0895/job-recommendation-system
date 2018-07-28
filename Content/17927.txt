@@ -1,0 +1,64 @@
+
+
+
+
+1871 - jobs: full stack developer - rozaroute - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+full stack developer - rozaroute
+
+full stack developer - rozaroute
+chicago, illinois, united states · engineering · contract
+
+descriptionabout rozarouterozaroute is a technology startup in the commercial cleaning and field services industry. we have a small team developing the product, while our parent company rozalado services - a cleaning, handyman and facility services company - employs over 100 people.  we are part of 2 incubator programs through chicago's 1871 and capital one to build an application for the industry we are in. this application is intended to provide a means to prepare a task by task workflow in advance for employees in the field, and also gather real time data about their work progress and performance. there are some existing solutions in this industry including housecall and swept that assist in other areas of our industry's daily operations, but gathering data on the job is a big pain point that we intend to solve.responsibilitiesthis position is for a lead engineer. responsibilities include developing and launching a production application in the commercial cleaning and facility services industry. we are looking to build a mobile application on ios and android with react native, as well as a backend api and administrator portal built with node and mongodb. this application will be commercialized following successful implementation in the rozalado business. requirementsprerequisites 3+ years developing web applications and/or mobile apps 3+ years programming in javascript 1+ years using react or react native 1+ years with nosql (mongodb, firebase, couchdb, etc) previous work with apis and system integrations expertise in building nodejs servers proficient in team environments - able to work well with others bachelor’s degree in cs or other form of technical certification preferred qualifications 3+ years developing commercial applications  experience developing commercial react native applications with node & mongodb  proficient with g suite (docs, sheets, slides, gmail etc) project portfolio 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+1871
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+1871 website
+
+powered by
+workable
+
+
+
+
+

@@ -1,0 +1,2242 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                global/english
+                            
+
+
+
+                                deutschland/deutsch
+                            
+
+
+
+                                россия/русский
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+
+
+
+
+
+
+                    global headquarters
+                
+
+
+41 university drive,
+suite 202,
+newtown, pa 18940
+usa
+
+
+
+p:
+
++1-267-759-9000
+
+
+f: +1-267-759-8989
+
+all locations
+
+
+
+
+
+
+
+                    upcoming events
+                
+
+11/30/2017
+
+insurance iot usa summit 2017
+
+radisson blu aqua hotel, chicago, illinois, usa
+all events
+
+
+
+
+
+
+
+                    follow us
+
+
+
+
+facebook
+
+
+
+twitter
+
+
+
+linkedin
+
+
+
+google+
+
+
+email us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    close
+
+
+
+solutions
+                
+
+
+
+
+
+
+
+
+
+
+
+                                        core engineering
+
+
+
+product development
+
+
+engx
+
+
+core technologies
+
+
+assurance
+
+
+
+
+
+
+
+
+
+                                        advanced technology
+
+
+
+next-gen architecture
+
+
+agility
+
+
+internet of things
+
+
+r&d
+
+
+
+
+
+
+
+
+
+                                        intelligent enterprise
+
+
+
+enterprise applications
+
+
+data & analytics
+
+
+application & cloud management 
+
+
+collaboration/bpm
+
+
+
+
+
+
+
+
+
+                                        digital engagement
+
+
+
+strategy & experience
+
+
+digital marketing
+
+
+commerce
+
+
+mobility
+
+
+
+
+
+
+
+
+
+industries
+                
+
+
+
+
+
+
+
+
+
+
+
+                                        financial services
+
+
+
+
+
+
+                                        travel & hospitality
+
+
+
+
+
+
+                                        software & hi-tech
+
+
+
+
+
+
+                                        retail & distribution
+
+
+
+
+
+
+
+
+                                        media & entertainment
+
+
+
+
+
+
+                                        life sciences & healthcare
+
+
+
+life sciences
+
+
+healthcare
+
+
+
+
+
+
+
+
+
+                                        emerging verticals
+
+
+
+insurance
+
+
+telecom
+
+
+automotive
+
+
+energy
+
+
+
+
+
+
+
+
+
+about
+                
+
+
+
+
+
+
+
+
+
+
+
+                                        company
+
+
+
+leadership
+
+
+social responsibility
+
+
+
+
+
+
+
+
+
+                                        newsroom
+
+
+
+company news
+
+
+events
+
+
+in the news
+
+
+
+
+
+
+
+
+
+                                        investors
+
+
+
+stock information
+
+
+sec filings
+
+
+event calendar
+
+
+news releases
+
+
+
+
+corporate governance
+
+
+information request
+
+
+faq
+
+
+
+
+
+
+
+
+
+ideas
+                
+
+
+
+
+
+careers
+                
+
+
+
+
+
+contact
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+careers
+
+
+job listings 
+
+
+job detail
+
+
+
+
+
+
+
+
+
+
+
+
+senior data scientist
+
+                        philadelphia, pa, usa
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+ share this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    ranked as #12 on forbes’ list of 25 fastest growing public tech companies for 2017, epam is committed to providing our global team of over 24,000 people with inspiring careers from day one. epamers lead with passion and honesty, and think creatively. our people are the source of our success and we value collaboration, try to always understand our customers’ business, and strive for the highest standards of excellence. no matter where you are located, you’ll join a dedicated, diverse community that will help you discover your fullest potential.descriptionyou are curious, persistent, logical and clever – a true techie at heart. you enjoy living by the code of your craft and developing elegant solutions for complex problems. if this sounds like you, this could be the perfect opportunity to join epam as a senior data scientist. scroll down to learn more about the position’s responsibilities and requirements.epam is looking to build and strengthen its solutions architecture teams across the us. in this role, you will be the leading subject matter expert driving the business enablement both on the client side defining the architectural choices during all stages of exciting presales opportunities for world leading companies and on delivery side implementing them, as well as providing thought leadership within the fast-growing bi and big data solution practice and competency center.
+                                
+
+
+
+responsibilities
+
+business enablement:
+                                            
+                                                
+lead the strategic planning, development and implementation of medium-to-large data science solutions or a component of a larger solution, including predictive modeling, unsupervised and supervised learning, and machine learning techniques;
+lead on all stages of presales activities for such projects, owning the whole presale process from the competency center perspective when required. manage the delivery of architectural pocs, where required;
+interact with clients, advise and drive the translation of business requirements and models into appropriate architectural designs to ensure that business needs are met;
+work directly and collaboratively with clients, external data providers, and other key stakeholders to ensure that the solution’s concept/vision is understood and agreed upon;
+actively participate in project review and planning sessions. as needed, lead the solution development, drive and supervise end-to-end development cycle (sdlc) or participate in the projects start-up;
+be accountable for applications-related quality, performance, availability, scalability, security, and integrity, ensuring application usability, for instance, through a high-quality functional interface to applications. identify and mitigate risks associated with specific solution in known contexts;
+be accountable for ensuring architectural consistency of recommended technology and its integration with the client’s applications and infrastructure. identify and mitigate risks associated the implemented solution in all relevant contexts of the project and wider program;
+manage the architectural knowledge transfer from the project development team to the post-go-live support team. oversea or effect the creation of architectural case study for epam’s repository of reusable assets.
+
+
+technology vision, thought leadership, and depth:
+                                            
+                                                
+drive the strategic visioning activities for the practice and competency center. develop reusable assets, development methods, processes, best practices to accelerate delivery. coordinate sa pool on those activities;
+drive the program of evaluating the hardware and software platforms, benchmarking of alternative solution architectures, supervise a defined process for provision of structured, reusable results. coordinate the direction of r&d activities by sa pool;
+keep pace with the innovative technologies and consider possibilities of creating relevant solution offerings. coordinate architects in developmental direction choice;
+consult and supervise all team members, share knowledge. participate in the assessment of the candidates for sa position. mentor other solution architects in practical sa activities. provide technical guidance and career-planning assistance;
+write broad topic and strategic white papers in the course of industry and technology research. maintain high competency visibility by regular posting in internal newsletters, blogs as well as speaking at internal and external conferences and other events; create blueprints on customer request. create technology road;
+analyze large data sets to discover trends, identify performance metrics, and uncover optimization opportunities;
+apply machine learning algorithms and statistical methods to large sets of raw data;
+continuously improve algorithms and develop best practice for instrumentation;
+work to acquire enterprise architecture theoretical knowledge.
+
+
+
+
+
+
+requirements
+
+capable of leadership (influence management) and pragmatism;
+                                            
+                                        
+5+ years’ experience prototyping classification and regression models using machine software such as scikit-learn, r, matlab, octave, weka, mahout, etc;
+                                            
+                                        
+experience with large-scale log processing or big data including but not limited to elastic mapreduce, hadoop streaming, pig, hive, spark, etc;
+                                            
+                                        
+fluency in a range of scripting languages, operating systems, and software platforms including but not limited to linux, redis, java, mysql, python, pandas, aws;
+                                            
+                                        
+experience in data architecture, data modeling, and database design;
+                                            
+                                        
+experience working with relational and non-relational databases to retrieve structured, unstructured, and semi-structured data sets;
+                                            
+                                        
+knowledge of business domains (travel and hospitality, finance, retail, etc.);
+                                            
+                                        
+track record (4+ projects) of working directly with the customer (i.e. regularly facing customer directly) both remotely and on-site;
+                                            
+                                        
+presale activities with exposure to customers on billable accounts;
+                                            
+                                        
+demonstrated experience with full life cycle of software development processes like rup or "waterfall", agile (scrum, xp, etc.). experience advocating and establishing an appropriate implementation methodology to successfully develop and deploy the solution;
+                                            
+                                        
+demonstrated experience in solution cost estimation (including tools, tasks, complexity, labor and time) at coarse grain and fine grain levels, with supporting material evidence;
+                                            
+                                        
+demonstrated experience in validating the overall solution from the perspective of performance, scalability, security and capacity.
+                                            
+                                        
+
+
+
+
+                                    learn about working in united states
+
+
+
+
+
+
+
+
+apply for
+senior data scientistphiladelphia, pa, usa
+
+
+apply now
+
+
+thank you for your submission! our talent acquisition team will contact you with further details.
+submit again
+
+
+oops, something went wrong. please try again.
+submit again
+
+
+it's highly important for us to get you cv. if you are unable to attach a document through your mobile device, please leave us the link where we can find your resume online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply with linkedin
+
+
+
+logout
+
+
+
+
+
+try again
+
+
+
+
+yes
+
+
+
+
+back to the form
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+country
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bosnia
+botswana
+brazil
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cayman islands
+chad
+chile
+china
+colombia
+comoros
+congo
+costa rica
+croatia
+cuba
+cyprus
+czech republic
+democratic republic of the congo
+denmark
+dominica
+dominican republic
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+fiji
+finland
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guinea
+guyana
+haiti
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+jordan
+kazakhstan
+korea, north
+korea, south
+kuwait
+kyrgyzstan
+lao democratic republic
+latvia
+lebanon
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+malta
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+myanmar
+namibia
+nepal
+netherlands
+new zealand
+nicaragua
+niger
+nigeria
+norway
+oman
+other countries
+pakistan
+palau
+palestine
+panama
+papua new guinea
+paraguay
+peru
+philippines
+poland
+portugal
+puerto rico
+qatar
+romania
+russian federation
+rwanda
+saint lucia
+saint vincent grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+sierra leone
+singapore
+slovakia
+slovenia
+somalia
+south africa
+spain
+sri lanka
+sudan
+suriname
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+uzbekistan
+vatican
+venezuela
+vietnam
+yemen
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+
+
+
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            yerevan
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            sydney
+                        
+
+                        other
+                    
+
+                            city
+                        
+
+                            vienna
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            brest
+                        
+
+                            gomel
+                        
+
+                            grodno
+                        
+
+                            minsk
+                        
+
+                            mogilev
+                        
+
+                            vitebsk
+                        
+
+                        other
+                    
+
+                            city
+                        
+
+                            antwerp
+                        
+
+                            brussels
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            sofia
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            montreal
+                        
+
+                            toronto
+                        
+
+                            vancouver
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            shenzhen
+                        
+
+                            suzhou
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            prague
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            berlin
+                        
+
+                            dusseldorf
+                        
+
+                            frankfurt
+                        
+
+                            nuremberg
+                        
+
+                            stuttgart
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            budapest
+                        
+
+                            debrecen
+                        
+
+                            szeged
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            hyderabad
+                        
+
+                            pune
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            dublin
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            almaty
+                        
+
+                            astana
+                        
+
+                            atyrau
+                        
+
+                            karaganda
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            cyberjaya
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            guadalajara
+                        
+
+                            mexico city
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            amsterdam
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            gdansk
+                        
+
+                            katowice
+                        
+
+                            krakow
+                        
+
+                            warsaw
+                        
+
+                            wroclaw
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            izhevsk
+                        
+
+                            moscow
+                        
+
+                            nizhny novgorod
+                        
+
+                            ryazan
+                        
+
+                            saint petersburg
+                        
+
+                            samara
+                        
+
+                            saratov
+                        
+
+                            sergiev posad
+                        
+
+                            togliatti
+                        
+
+                            tver
+                        
+
+                            volgograd
+                        
+
+                            voronezh
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            singapore
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            gothenburg
+                        
+
+                            stockholm
+                        
+
+                        other
+                    
+
+                            city
+                        
+
+                            zurich
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            dnipro
+                        
+
+                            kharkiv
+                        
+
+                            kyiv
+                        
+
+                            lviv
+                        
+
+                            vinnytsya
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                            city
+                        
+
+                            london
+                        
+
+                            manchester
+                        
+
+                        other
+                    
+
+                            city
+                        
+
+                            atlanta, ga
+                        
+
+                            austin, tx
+                        
+
+                            bloomfield, ct
+                        
+
+                            boston, ma
+                        
+
+                            bridgeport, ct
+                        
+
+                            bridgewater, nj
+                        
+
+                            chicago, il
+                        
+
+                            conshohocken, pa
+                        
+
+                            dallas, tx
+                        
+
+                            greenwich, ct
+                        
+
+                            hartford, ct
+                        
+
+                            hoboken, nj
+                        
+
+                            houston, tx
+                        
+
+                            irvine, ca
+                        
+
+                            jersey city, nj
+                        
+
+                            los angeles, ca
+                        
+
+                            mclean, va
+                        
+
+                            media, pa
+                        
+
+                            milwaukee, wi
+                        
+
+                            minneapolis, mn
+                        
+
+                            mountain view, ca
+                        
+
+                            newtown, pa
+                        
+
+                            new york, ny
+                        
+
+                            o’fallon, mo
+                        
+
+                            philadelphia, pa
+                        
+
+                            pittsburgh, pa
+                        
+
+                            providence, ri
+                        
+
+                            reston, va
+                        
+
+                            san francisco, ca
+                        
+
+                            san jose, ca
+                        
+
+                            san ramon, ca
+                        
+
+                            seattle, wa
+                        
+
+                            stamford, ct
+                        
+
+                            washington, d.c.
+                        
+
+                            weehawken, nj
+                        
+
+                            westport, ct
+                        
+
+                            windsor, ct
+                        
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+                        other
+                    
+
+
+
+
+
+
+
+
+
+
+
+                drag & drop your resume
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+subscribe to job updates
+
+
+
+
+
+
+
+
+
+
+                by checking this box, you agree to receive job promotions, events and other important news.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+cancel
+
+
+
+
+
+
+
+related job openings
+
+senior data analyst
+houston, tx, usa
+
+senior data scientist
+boston, ma, usa
+
+senior data scientist
+new york, ny, usa
+
+digital solutions consultant
+dallas, tx, usa
+
+senior data scientist
+washington d.c., usa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a day in the life
+
+
+take a peek behind the scenes at epam.
+
+
+
+
+
+
+
+    explore
+
+
+    explore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dan sozanski
+
+
+associate ux designer
+philadelphia, pa, usa
+
+
+
+
+
+
+
+dan sozanski
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+john sullivan
+
+
+director of business development
+newtown, pa, usa
+
+
+
+
+
+
+
+john sullivan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jill whitesell
+
+
+senior designer
+philadelphia, pa, usa
+
+
+
+
+
+
+
+jill whitesell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+melanga dissanayake
+
+
+senior software engineer
+shenzhen, china
+
+
+
+
+
+
+
+melanga dissanayake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+investor relations
+contact
+privacy policy
+
+
+© 2017 epam systems, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

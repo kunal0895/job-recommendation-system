@@ -1,0 +1,254 @@
+
+
+
+
+job application for lead data scientist at grammarly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+lead data scientist
+
+        at grammarly
+      
+(view all jobs)
+
+        san francisco
+      
+
+
+the opportunity
+effective communication is hard. it requires talent, skill, and a lot of effort. enter grammarly, the first widely adopted ai communication assistant helping people with the content and meaning of their writing. grammarly helps millions of people make their written communication clear, mistake-free, and effective. with a $110 million growth equity investment, grammarly is changing the way the world communicates—enabling people to write exactly what they mean, every time.
+to help us reach that goal, we’re looking for a hands-on leader for our small but growing data science team at grammarly. you will develop the vision for how the data science team and its capabilities scale as grammarly continues to grow. as a consumer internet company, we produce huge amounts of data. you, along with the rest of the data science team, will find the insights to make it actionable. working with stakeholders from our engineering, product, research, marketing, and finance teams, you will have broad impact and exposure across grammarly. 
+at grammarly, our impact comes from a strong culture with highly engaged, highly motivated team members. we hire exceptional people and reward them with trust, autonomy, mentorship, and the freedom to grow into their roles. we’re a passionate, growing team on a mission to improve lives by improving communication. if you’re up for the challenge, we would love to meet you!
+ 
+what you will accomplish 
+
+in the first 30 days, you will develop a good understanding of the overall data processing pipeline and understand grammarly's key metrics.
+by month three, you will take over management of current data scientists and independently work on medium- to high-complexity data projects (including a/b tests, churn prediction, product/channel analysis, etc.).
+by month six, you will collaborate with the data engineering team to expand data coverage, compute new metrics, and continually improve the quality of data collection and analysis.
+by year one, you will execute and deliver on the data science team’s long-term vision. this includes having a team of data scientists and the processes and tools in place to ensure they are able to do their jobs well. your team will enable every grammarlian to make data-driven decisions. 
+
+talents you bring to the team
+
+you embody our e.a.g.e.r. values (ethical, adaptable, gritty, empathetic, remarkable).
+you’re curious by nature, and your intuition about product and data helps you deliver meaningful results. 
+experience with a/b testing, cohort analysis, and distributed systems (spark, hive, pig, hadoop, or map-reduce).
+exposure to and expertise within a high-performing data science organization.
+ability to work cross functionally, with technical and nontechnical stakeholders as well as senior executives.
+strong background in statistics (ms or phd preferred).
+experience/interest in machine learning.
+
+what grammarly offers you
+
+big goals, challenging work, fast learning cycles, practical training, and meaningful feedback. 
+project exposure and ownership that impacts our world, users, product, colleagues, and business.
+healthcare, parental leave, and pto plans, 401k, plus a monthly gym reimbursement. 
+delicious catered lunches and an abundance of healthy snacks.
+
+about grammarly
+grammarly’s ai-powered products help people communicate more effectively. grammarly is available in a variety of writing interfaces, including browser and desktop integrations to help users in both their personal and professional lives, whether they are communicating through email or social media, applying for jobs, or even filling out online dating profiles. it also increases productivity and efficiency for professionals in a wide range of fields, including marketing, sales, engineering, customer support, and education. grammarly is headquartered in san francisco with offices in new york and kyiv. 
+ 
+the diverse experiences, ideas, and identities of grammarly’s team members help us make better decisions and drive great results for our users. we foster an inclusive work environment that welcomes team members of all backgrounds and perspectives. as an equal opportunity employer, we evaluate candidates based solely on talents, skills, and knowledge. grammarly participates in e-verify. 
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you currently authorized to work in the us? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

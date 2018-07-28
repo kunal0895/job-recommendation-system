@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer (m/f) c967 - bfft fahrzeugtechnik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+startseite | kontakt | presse | en       
+
+
+
+bfft fahrzeugtechnik
+
+
+suche öffnen
+suche schließen
+
+
+
+
+
+
+
+
+
+
+
+ allgemein
+ jobs
+
+
+
+
+entdecke bfft
+unsere leistungen
+produkte
+news
+jobs
+ 
+
+
+
+
+
+
+
+
+
+deine ansprechpartner
+team recruiting usa
+									career@bfftoa.com
+									
+									+1 650 440 1462
+bfft of america
+http://www.bfftoa.com
+bfft of america
+
+940 emmett avenue, suite 100
+belmont, ca 94002
++1 650 440 1462
+
+
+
+jetzt bewerben
+
+» e-mail
+» online
+
+
+
+ausübungsort
+belmont, san francisco, california
+
+940 emmett avenue, suite 100
+94002
+belmont, ca
+us
++1 650 440 1462
+
+
+
+einstiegslevel
+akademiker / academic
+
+
+branche
+automotive
+
+
+fachbereich
+softwareentwicklung / software development
+
+
+stellenart
+vollzeit
+
+
+datum
+08.12.2017
+2017-12-08
+
+
+
+
+
+
+
+
+
+big data engineer (m/f) c967
+key responsibilities
+
+help design and implement key components for highly scalable, distributed data collection and analysis system built for handling petabytes of data in the cloud
+analyze and support requirements from machine learning specialists, focusing on the most important topics in the rapidly evolving automotive industry
+help move architecture and implementation through the automotive development pipeline, from research to deployment in millions of cars on the road
+work with engineers from other divisions contributing to this analytics system, contributing to best practices in backend infrastructure and distributed computing topics
+
+professional qualities and skills
+
+hands-on development with key technologies including scala, spark, and other relevant distributed computing languages, frameworks, and libraries
+experience with distributed databases, such as cassandra, and familiarity with the key issues affecting their performance and reliability
+experience using high-throughput, distributed message queueing systems such as kafka
+familiarity with operational technologies, including docker (required), chef, puppet, zookeeper, terraform, and ansible (preferred)
+an ability to periodically deploy systems to cloud environments such as aws
+mastery of key development tools such as git, and familiarity with collaboration tools such as jira and confluence or similar tools
+overall, 3+ years of industry experience developing backend components with a recent focus on big data systems
+bachelors degree or equivalent required
+
+
+
+
+
+» zurück zu den stellenangeboten
+ als pdf downloaden
+
+
+
+e-mail bewerbung
+selbstverständlich behandeln wir alle deine daten vertraulich und diskret. unser anspruch ist es, für dich die passende position zu finden. deshalb prüfen unsere recruiter, ob dein profil auch auf weitere herausfordernde positionen passen könnte.sende uns optimalerweise deine unterlagenim pdf-format zu.mit dem versand deiner email oder deiner unterlagen an uns, bestätigst du, dass du unsere datenschutzerklärung gelesen hast und akzeptierst.
+team recruiting usa
+									career@bfftoa.com
+									
+									+1 650 440 1462
+																						
+
+onlinebewerbung
+selbstverständlich behandeln wir alle deine daten vertraulich und diskret. unser anspruch ist es, für dich die passende position zu finden. deshalb prüfen unsere recruiter, ob dein profil auch auf weitere herausfordernde positionen passen könnte.optimalerweise hängst du deine unterlagenim pdf-format an.
+
+
+
+
+
+
+
+
+
+
+dein nachname (pflichtfeld)
+ 
+vorname (pflichtfeld)
+ 
+deine e-mail-adresse (pflichtfeld)
+ 
+betreff
+
+deine nachricht
+ 
+datei(max. 10mb):
+
+datei(max. 10mb):
+
+datei(max. 10mb):
+
+datei(max. 10mb):
+
+datei(max. 10mb):
+
+ ich habe die datenschutzrichtlinien der bfft gmbh gelesen und bin damit einverstanden.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+snapchat
+facebook xing youtube twitter linkedin instagram
+
+
+
+© bfft - by red ram media
+
+kontakt
+datenschutz
+impressum
+agb
+intranet
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

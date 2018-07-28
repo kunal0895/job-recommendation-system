@@ -1,0 +1,857 @@
+
+
+
+
+
+
+
+
+
+
+
+
+vsp vision care - test software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+about us
+
+
+eyes of hope
+
+programs
+
+
+
+
+
+providers
+
+
+newsroom
+
+careers
+
+
+
+
+ 
+
+ 
+
+
+
+career opportunities
+
+
+location
+
+
+featured jobs
+
+
+not finding a job? 
+
+join our talent community
+view all jobs
+
+
+not finding a job?
+join our talent community
+view all jobs
+
+military & veterans
+
+
+benefits
+
+
+application assistance
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+
+
+
+
+
+vsp vision care - test software engineer
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+date: 
+nov 22, 2017
+                
+
+
+location: 
+rancho cordova, ca, us, 95670
+
+
+vsp global is comprised of five complementary businesses that combine high-quality eye care insurance, high-fashion eyewear, customized lenses, ophthalmic technology and retail solutions, with employees in over 23 countries. no matter the role, we’re all focused on a singular mission: to help people see. learn more by visiting https://vspglobal.com/cms/careers/
+general summarywith minimal supervision, the test engineer will work closely with software developers and other qa specialists in small scrum teams to deliver the highest quality products in a timely and cost-effective manner.
+ 
+the test engineer is responsible for developing and executing comprehensive suites of automated test plans and test cases, maintaining and adding to existing automation framework, continued evaluation of test cases for inclusion in regression, automation for newly integrated features, developing, executing and analyzing the results for load and performance tests, and development of toolsets to augment qa and development testing. essential functionscreate, maintain, and execute automated test plans for vsp global software systems identifying test automation opportunities to be incorporated into the testing cycle
+ 
+enhance and extend the automation library and framework
+ 
+write specialized testing tools for use in testing our software platform
+ 
+build automated tests to validate application performance and functionality
+ 
+perform whitebox testing and increase code test coverage
+ 
+possess, maintain, and further develop a thorough understanding of quality assurance practices, automation techniques and tool creation
+ 
+mentor qa specialists and other staff members on quality assurance practices, automation techniques and basic load and performance tests
+ 
+participate in the product development lifecycle, from requirement analysis and design through testing and rollout to ensure that the product meets business needs, and that system and software requirements are verifiable and quantifiable
+ 
+participate in code reviews, inspections, and walkthroughs
+ 
+develop detailed test plans, specifications, test cases, and test data sets that validate functional, performance, and load test requirements, and update existing test procedures based on requirement changes and test analysis
+ 
+analyze test results, and identify, document, and report root causes for test failures by working with the development team and the defect tracking system
+ 
+provide feedback on a timely basis on project and testing status and any risks foreseen during project execution, as well as assess the confidence in all items tested
+ 
+support the development of user acceptance test readiness plans, test procedures, and testing
+ 
+collect metrics and provide status reports on test engineering activities to line and project management
+ 
+make recommendations to improve product reliability, performance, quality assurance best practices and processes
+ 
+remain current on new technologies; introduce applicable technology in alignment with vsp goals and for creative solutions
+ 
+guide change with a focus on optimal outcomes
+ 
+job specificationstypically has the following skills or abilities:
+ 
+bachelor’s degree in computer science, computer engineering, systems engineering, or other related engineering discipline, or equivalent experience
+ 
+five years core experience in testing mid-sized to large enterprise applications, which should include experience in functional specification review, design specification review, and designing test processes/test cases
+ 
+understanding of software testing methodologies
+ 
+must have experience programming in one or more of the following, java, c#, javascript and jquery
+ 
+must be proficient working with sql
+ 
+experience creating microsoft or junit or nunit unit tests
+ 
+attention to detail and a strong desire for quality
+ 
+demonstrated experience with testing tools, (e.g. test director winrunner, quick test professional, load runner/performance center, jmeter), including recording and creating advanced scripts
+ 
+experience with use of a defect tracking utility
+ 
+familiarity with the software development life cycle (sdlc)
+ 
+experience with and knowledge of qa processes, methodologies, and testing techniques, including negative tests, functional tests, white/black box tests, automated and manual test processes, test case design, scripting and execution, regression testing, operational readiness tests, etc.
+ 
+familiarity with issues involved in testing in multi-tier environments
+ 
+ability to estimate, commit to work deadlines and work in a disciplined software development environment
+ 
+excellent analytical, problem-solving, process, time management and organizational skills
+ 
+excellent verbal and written communication and presentation skills
+ 
+meet/exceed organizations best practices, expectations, and standards
+ 
+identify and mitigate risk(s)
+ 
+demonstrated ability to guide others in regards to team self-management
+ 
+working conditions / physical demandsthe working environment is generally favorable, lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc.
+ 
+the above information on this description had been designed to indicate the general nature and level of work performed by employees within this classification.  it is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job grade.  
+ 
+ 
+the information above describes the general nature of the position and serves as a summary of the typical job functions. it's not a comprehensive list of all possible job responsibilities, tasks, or duties.
+ 
+vsp global is an equal opportunity employer and gives consideration for employment to qualified applicants without regard to gender, race, color, religion, sex, national origin, gender identity, sexual orientation, disability or protected veteran status.  we maintain a drug-free workplace and perform pre-employment substance abuse testing.
+
+
+
+nearest major market: sacramento
+                    
+                
+
+job segment: 
+ophthalmic, developer, computer science, testing, quality assurance, healthcare, technology
+                    
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+find similar jobs: 
+
+vsp vision care jobs,
+technology jobs in sacramento,
+technology jobs,
+project manager jobs in sacramento,
+computer science jobs in sacramento
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+        reimagine how eye care and eyewear are delivered.
+    
+
+
+
+
+
+newsroom 
+
+
+careers
+
+
+contact us
+
+
+terms of service
+
+
+about this site
+
+
+
+
+
+
+ about us
+
+
+eyes of hope
+
+
+programs
+
+
+providers
+
+
+
+
+
+
+top job searches
+
+
+view all jobs
+
+
+ vspglobal.com
+
+
+
+
+
+
+©2017 vision service plan. all rights reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

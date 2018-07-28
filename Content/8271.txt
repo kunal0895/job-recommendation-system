@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+ut austin job posting - database analyst | the university of texas at austin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+ 
+ 
+
+
+
+              ut direct help
+            
+
+
+
+              logoff
+            
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+select the type of search to perform:
+
+any word
+all words
+exact phrase
+
+enter a search term:
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+	                        job search
+                           
+ 
+ 
+ 
+ 
+
+ 
+                              my application
+                             
+
+ 
+ 
+ 
+ 
+
+ 
+                              jobs i've applied for
+                             
+
+ 
+ 
+ 
+ 
+
+ 
+                              resources
+                             
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the university of texas at austin job posting
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+return to job search
+                    
+                
+
+
+
+share
+
+
+
+
+
+
+
+                                start application process 
+
+
+
+
+
+switch to mobile view
+
+
+
+database analyst
+
+hiring department
+university development
+
+
+
+                        monthly salary
+                    
+
+                         
+                            $4,200+ depending on qualifications
+                        
+
+                        
+                    
+
+
+
+hours per week
+
+                     40.00 standard from  800am to  500pm
+                
+
+
+posting number
+
+                    17-11-21-01-9331
+                
+
+
+job status
+open
+
+
+flsa status
+non-exempt
+
+
+earliest start date
+immediately
+
+
+position duration
+funding expected to continue
+
+
+position open to
+all applicants
+
+
+location
+austin, tx (off-campus)
+
+
+number of vacancies
+1
+
+
+
+general notes
+
+
+                    none provided
+                
+
+
+required application materials
+
+
+a resume is required in order to apply
+a letter of interest is required in order to apply.
+a list of 3 references is required in order to apply.
+
+
+
+
+additional information
+
+
+purpose
+
+
+                    this position is responsible for creating, maintaining, and updating standard reports as well as fulfilling ad hoc reporting reporting requests in collaboration with the reporting and analytics team.
+                
+
+
+
+essential functions
+
+
+                    
+                        develop and deliver reporting and analytics solutions designed to translate data into actionable business intelligence. consult with stakeholders to determine reporting needs and define reporting solutions to meet requirements. identify, retrieve, query, and append data from internal databases and external data sources in support of reporting and analytics operations. design and build dashboards to track kpis. cultivate and maintain expertise on alumni and donor data. conduct quantitative and qualitative analyses on a broad array of issues to inform strategic decision making. serve as a primary point of contact for support questions from the development user community. provide training and support to enable stakeholders to use reporting and analytics tools in effective and efficient ways.
+                    
+                
+
+
+
+marginal/incidental functions
+
+
+                    
+                        other related functions as assigned.
+                    
+                
+
+
+
+required qualifications
+
+
+                    
+                        bachelor's degree in computer or information science, mathematics, social and political sciences, or a related field. minimum of three years of directly related experience. advanced knowledge and experience in extracting data from relational databases. strong working knowledge of sql. experience in one or more data management, visualization, or analytics software tools such as tableau, r, spss, or sas.  desire and ability to learn new reporting technologies. strong communication and collaboration skills. ability to build and maintain cross functional relationships. experience working with confidential information. strong independent work ethic. excellent verbal, written, and interpersonal communication skills.
+                        equivalent combination of relevant education and experience may be substituted as appropriate.
+                    
+                
+
+
+
+preferred qualifications
+
+
+                    experience writing reports or delivering data using sql. experience with programming for statistics through a software package such as sas, spss, or r (with a preference for r). a strong understanding of general linear modeling and other advanced predictive modeling techniques (random forest classification, monte carlo simulations, etc.). experience with dashboard design and deployment using tableau. previous experience or understanding of higher education development.
+                
+
+
+
+working conditions
+
+
+                    
+                        
+                            may work around standard office conditions
+                        
+                            repetitive use of a keyboard at a workstation
+                        
+                            use of manual dexterity
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                    
+                
+
+
+
+
+
+                            
+                                a criminal history background check will be required
+                                for finalist(s) under consideration for this position.
+                            
+                        
+
+                        
+                            the retirement plan for this position is teacher retirement
+                            system of texas (trs), subject to the
+                            position being at least 20 hours per week and at least
+                            135 days in length.
+                        
+                    
+
+                        the university of texas at austin, as an equal opportunity/affirmative action employer, complies with all applicable federal and state laws regarding nondiscrimination and affirmative action. the university is committed to a policy of equal opportunity for all persons and does not discriminate on the basis of race, color, national origin, age, marital status, sex, sexual orientation, gender identity, gender expression, disability, religion, or veteran status in employment, educational programs and activities, and admissions.       
+                    
+
+                            if hired, you will be required to complete the federal employment
+                            eligibility verification form, i-9. you will be required to present
+                            acceptable, original
+                            documents
+                            to prove your identity and
+                            authorization to work in the united states. information
+                            from the documents will be submitted to the federal e-verify
+                            system for verification. documents must be
+                            presented no later than the third day of employment. failure to do
+                            so will result in dismissal.
+                        
+
+ut austin is a tobacco-free campus
+
+
+
+
+
+
+
+return to job search
+                    
+
+
+
+                            start application process 
+
+
+
+
+
+
+
+
+
+
+return to top of page
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+comments to: human resource service centerut job centralfor questions or concerns regarding equal opportunity only, contact office for inclusion and equityif hired, you will be required to complete the federal employment eligibility verification form, i-9. you will be required to present acceptable, original documents to prove your identity and authorization to work in the united states. information from the documents will be submitted to the federal e-verify system for verification. documents need to be presented no later than the third day of employment. failure to do so will result in dismissal.the open carry of handguns on campus is prohibited by law. for questions concerning concealed carry of handguns on campus, please refer to the university handbook of operating procedures, hop 8-1060.for more job information, call the human resource service center at (512) 471-4772, or toll-free at (800) 687-4178.
+
+ 
+
+sitemap
+  
+
+
+academics
+administrative applications
+admissions
+around campus
+colleges, schools and academic units
+
+
+
+
+computing and technology
+directories and offices
+employment and careers
+finances
+graduation
+
+
+
+
+instruction
+news, events and calendars
+personal info
+research
+working at ut
+
+
+
+              the university of texas at austin
+              1 university station
+              austin, texas  78712
+             
+  
+
+ 
+
+
+
+
+
+
+ut direct comments
+web privacy policy
+web accessibility
+
+©the university of texas at austin 2011
+ 
+ 
+ 
+ 
+

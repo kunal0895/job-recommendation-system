@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+more job postings at etouch systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#careerscontent #searchbuttonindicator {
+    display: none !important;
+    height: 0 !important;
+}
+
+
+
+
+
+
+
+ toggle navigation    
+
+
+ 
+
+
+home (current)
+ services 
+
+overview
+accelerators
+
+
+customers 
+
+overview
+case studies
+
+
+product 
+
+samepage - an enterprise wiki
+
+
+about us 
+
+overview
+leadership
+alliances
+contact us
+
+
+careers 
+
+overview
+more job postings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+
+
+register (optional)
+
+
+
+log in
+
+
+
+
+back to website
+
+
+
+
+
+
+
+
+
+
+
+
+ back to jobs
+
+business intelligence business analyst
+
+
+location: palo alto, ca
+
+
+job # 10215455
+
+
+
+
+
+
+
+
+apply now
+
+
+send to friend
+
+
+
+
+
+
+
+seeking a business intelligence (bi) business analyst who will be responsible for helping to define and implement data architecture and bi solutions for a 
+service (saas) organization.
+
+the ideal candidate will have 6+ years of direct business intelligence experience with a focus on translating business data requirements into a data architecture strategy and 
+implementation of reporting and analytic solutions.
+
+the business analyst is expected to be a self-starter with proven capabilities and success in delivering bi solutions in a saas environment. 
+must have exceptional communication skills and be comfortable and confident in working with a wide range of teams from technical it teams to senior executives.
+
+this role will be part of a global team that requires the flexibility of working with colleagues and stakeholders in the americas, europe, and asia pacific.
+
+responsibilities & scope
+direct stakeholder engagement with business teams to help define saas bi requirements
+analysis of bi / analytic requirements across multiple business functions to help define the saas data strategy
+use your knowledge of sql and databases to perform data analysis across multiple platforms to identify interdependencies and data gaps
+partner with it counterparts to define / refine / drive the saas data architecture
+direct engagement / participation on multiple saas bi-related projects to ensure alignment and synergy across efforts
+provide saas bi project status updates to senior management
+develop expertise on business processes, life-cycles, and data drivers
+collaborate on the definition of kpis and metrics to monitor and run the business
+implement proofs-of-concept to showcase reporting and analytical capabilities. this will include aggregating data from multiple
+databases/tools and developing reports in bi tools such as tableau and/or sap business objects
+
+required skills and experience:
+
+technical skills:
+bachelors degree or equivalent required, preference for computer science or business administration
+minimum of 6 years experience in bi business analysis: gathering requirements, defining data architecture, and implementation of bi solutions
+understanding of the saas business model and related data/metrics across key operational functions (e.g. finance, sales, marketing)
+technical knowledge and experience working with the industry-leading bi tools such as tableau and sap business objects
+strong background in accessing and working with data (databases, sql)
+technical and business process knowledge in operational systems including but not limited to sap and salesforce.com
+proficient in ms office (e.g. word, powerpoint, excel)
+clear, professional, and concise communications (written/verbal), presentation and facilitation skills.
+must be able to use consultative approach and persuasive communication with stakeholders
+ability to take initiative and to set priorities independently
+strong organizational skills and attention to detail
+experience working in virtual environments
+ability to think strategically
+
+please call suresh krishnamurthy on 510-795-4800 ext 152.
+
+
+
+
+
+
+
+
+
+
+apply now
+
+
+send to friend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+privacy policy
+sitemap
+contact
+
+
+
+
+
+
+
+
+
+  etouch systems. all rights reserved.
+
+
+
+
+
+
+

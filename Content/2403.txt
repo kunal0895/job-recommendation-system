@@ -1,0 +1,122 @@
+
+
+
+
+
+	join our talent network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+        working at transamerica is more than a job.
+        we’re a lifeline to families in times of need.
+        we help people retire with grace and dignity.
+        we help people sleep easier, knowing that they’re ready for whatever comes.
+        in short, it’s work that matters.
+         
+....  read more -->> job description summary  the data engineer contributes to the vision, deployment and administration of hadoop enabled infrastructure as a core service to all business functions.  job description   rejob description summarythe data engineer contributes to the vision, deployment and administration of hadoop enabled infrastructure as a core service to all business functions.job descriptionresponsibilitiesbuild data expertise and own data quality for ingestion pipelines.interface with engineers, product managers and product analysts to understand data needs.architect, build and launch new data models that provide intuitive analytics to end users.design, build and launch extremely efficient & reliable data pipelines to move data (both large and small amounts) to our data warehouses.design, build and launch new data extraction, transformation and loading processes in production.create new systems and tools to enable the customer to consume and understand data faster.apply coding skills across a number of languages from sql, python, java and php.work across multiple teams in high visibility roles and own the solution end-to-end.support the administration of on premise and cloud based hadoop clusters.make information available to large scale, next generation, predictive analytics applications.support and integrate big data tools/frameworks.work with senior staff to build, implement and support the data infrastructure; ingest and transform data (etl/elt process).qualificationsbachelor’s degree in computer science, software engineering, or related fieldthree years of collective experience in data engineering, data analysis, data warehousing or data transformation, in a similarly sized organization.1.5 years of experience architecting, building and administering large-scale distributed applications using hadoop and/or linux systems.1.5 years of etl experience with hive/impala – hue, etl and advanced sql programming.understanding of the hadoop eco-system (e.g. hdfs, mapreduce, hbase, pig, scoop, spark, hive)understanding of data warehousing and bi concepts, including hands on experience building etl/elt data pipelines.preferred qualifications2+ years of java and/or python development experience.2+ years’ experience in the data warehouse space.2+ years’ experience in custom etl design, implementation and maintenance.2+ years’ experience in writing sql statements.background working with cloud platforms such as azure or aws.cloudera administrator certification.behavioral & leadership competenciesability to analyze data to identify deliverables, gaps and inconsistencies.communication skills including the ability to identify and communicate data driven insights.ability in managing and communicating data warehouse plans to internal clients.attention to detail and results oriented, with a strong customer focus.the ability to work within a team environment.problem-solving and communication skills.our cultureat transamerica we promote a future fit mindset. what is a future fit mindset?acting as one fosters an environment of positive collaboration.accountability allows us to own the problem as well as the solution.agility inspires new ideas, innovation and challenges the status quo.customer centricity encourages an above and beyond approach to our customer.working conditionsoffice environment.....  read more -->> 
+
+
+
+
+join our talent network
+complete this form so you can be kept current on company news, updates, and job opportunities. join us today!
+ 
+*first name*last name*primary email*mobile phoneresume*area of interest
+actuary
+administration
+audit
+communications
+customer service
+executive
+facilities
+finance
+human resources
+internship
+it
+legal and compliance
+project management
+risk
+rvp
+sales
+underwriting
+
+ 
+
+ 
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+

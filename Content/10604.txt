@@ -1,0 +1,60 @@
+
+
+
+
+moveworks.ai - jobs: software engineer, machine learning - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+software engineer, machine learning
+
+software engineer, machine learning
+mountain view, california, united states · software engineer
+
+descriptionas a machine learning engineer you will: use your knowledge of machine learning fundamentals to develop and execute learning algorithms. create a scalable machine learning system powered by nlp and deep learning technologies  work on search/information retrieval problems write quality code using cutting edge tools to develop chat capabilitiesrequirements you excel at building data pipelines to acquire/crawl, clean and maintain data for model building, as well as productionizing ml models you have used ml toolkits like scikit learn, apache spark mllib, h2o, aerosolve or apache mahout you feel at home developing on the linux platform with languages like python, java/scala, or c++ you have some prior experience working with open source software or having contributed to it (please share your github profile) as a bonus, if you have some familiarity with deep learning algorithms and frameworks like tensorflow, pytorch, keras, or theano as a bonus, if you have some experience with nlp frameworks like spacy, gensim or nltk 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+moveworks.ai website
+
+powered by
+workable
+
+
+
+
+

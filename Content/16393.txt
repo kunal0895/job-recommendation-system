@@ -1,0 +1,151 @@
+
+
+
+
+
+
+		software engineer in test - careers at sorenson media	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career opportunities with sorenson media
+taking tv to new heights.
+
+
+
+
+
+
+
+
+
+careers at sorenson media
+
+
+
+share with friends or subscribe!
+
+
+
+
+
+ 
+
+
+
+
+
+current job opportunities are posted here as they become available.
+subscribe to our rss feeds to receive instant updates as new positions become available.
+
+
+
+
+
+
+
+		    back to openings		    
+
+
+
+
+
+
+software engineer in test
+
+ department:
+engineering	
+ location:
+draper, ut, united states
+
+start your application
+who we are:
+our entire focus is to revolutionize tv. through our transformative technology we enable broadcasters and advertisers to provide a better viewing experience than ever before. sorenson media leverages the internet connectivity of smart tvs to bring digital capabilities such as real-time analytics, personalization and interactivity to linear tv. we enjoy the opportunities and energy of a startup-like environment and are growing our team rapidly.
+ 
+what youll do:
+reporting to the director of software development, you will play a key role in the execution of our business.
+
+work within small agile teams and contribute to all aspects of the product development process from inception through to delivery.
+work closely with the product owner, scrum master, and other engineers to help define the acceptance criteria for new product features.
+ensure that test acceptance is an integral part of feature completion, including exploring appropriate levels of automation.
+continue to build out our test automation frameworks and make recommendations to improve the tools and frameworks.
+perform exploratory manual testing as needed.
+work closely with the team to define how we ensure that the product requirements and acceptance criteria have been met, including articulating your ideas and opinions on making the software more testable.
+work with the team to continuously improve testing and development processes.
+present, via scrum retrospectives or on an ongoing basis, validated and informed opinions about their own work, the team health and inter-team working arrangements.
+coordinate with development operations to automate and perform non-functional testing.
+
+what were looking for:
+
+2+ years commercial experience as a software tester with a solid understanding of various testing types and methodologies.
+experience with one or more programming languages, with the ability to write and maintain test scripts for common test tools.
+experience with linux shell scripting and command line utilities
+strong understanding of the different levels of the test automation pyramid (ui, service, unit/code module) and the appropriate amount of testing required at each of these levels. 
+good interpersonal and communication skills (oral and written)
+positive attitude, friendly demeanor and team player
+having one or more of the following skills is a plus:
+
+
+
+bs degree in computer science, engineering, or related field
+experience with the atlassian suite of tools (jira, confluence, bitbucket, bamboo, etc.)
+experience with agile scrum development
+experience with aws or other cloud environments
+experience with docker / ecs / kubernetes or other similar container tools
+experience with databases (sql / nosql)
+experience with video / audio processing
+experience with performance testing
+experience with non-functional testing types (security, load, scalability, fail-over, etc.)
+
+
+start your applicationor 
+
+
+
+
+
+
+ visit our home page © 2017 sorenson media 
+
+applicant tracking system powered by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

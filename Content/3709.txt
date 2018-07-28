@@ -1,0 +1,397 @@
+
+
+
+
+job application for data scientist at foursquare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist
+
+        at foursquare
+      
+(view all jobs)
+
+        new york 
+      
+
+
+about foursquare:
+since our inception in 2009, foursquare has been a leading force in changing how location information enriches our real-world and digital lives. as a location intelligence company, foursquare is comprised of two well-known consumer apps, foursquare and swarm, as well as thriving media and enterprise products. our b2b offerings include places (for developers), pinpoint and attribution (for marketers), and foursquare analytics (for analysts, based on the world's largest foot traffic panel). with more than 200 people across our offices in new york, san francisco, and in sales offices around the globe, we’re dedicated to our trailblazing mission—enriching consumer experiences and informing business decisions with location intelligence.  in many ways, the company is now a machine learning and data science company at its core.
+ 
+about this position: 
+foursquare is expanding its world class analytics team with the mission of reinventing how the online and offline world is connected using our proprietary location intelligence solutions.  foursquare is seeking a nyc-based talented analytics professional to help with all aspects of strategic insight development, leveraging our unique foot traffic panel and location technology.  reporting into the head of analytics, this role will work closely with the engineering, product and the sales organizations to optimize the company’s b2b products. the data scientist will work with the cross-functional product team to develop compelling and innovative applications of our data, and build out methods for improving our algorithms and product quality.  
+the ideal candidate will be comfortable in a fluid start-up environment and will bring an energetic, fun, and creative approach to their work. they should be a motivated self-starter with exceptional analytic and problem-solving skills.  industry experience in predictive modeling, data science and strategic analytics with large datasets is preferred.  we're looking for those who are interested in location-based services, learning new skills on an advanced platform, and producing high quality.
+qualifications: 
+
+3+ years work experience as a data scientist or in analytics, working with big datasets
+expertise in sql and at least one functional or statistical programming language (e.g., python, r, scala)
+a solid understanding of methodology, data & systems from a broad range of research & analytics providers, including emerging tools and methods
+experience in any of the following fields: strategic analytics, marketing analytics, digital analytics, data analytics, statistics, data science, big data, normalization, modeling, quant research, analytics consulting
+familiarity with foursquare or location data and an ability to clearly understand our underlying data assets
+ability to distill complex statistical concepts and methodology, and articulate insights to cross-functional teams and clients with varying levels of knowledge in this space
+must be a self-motivated team player and comfortable working in a small, fast paced, exciting environment
+ability to think strategically and tie analytical work to business strategy
+ms or phd in data science, statistics, mathematics or engineering or a bs with extensive experience in the field
+
+ 
+ 
+ 
+foursquare is proud to foster an inclusive environment that is free from discrimination. we strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. this leads to a more delightful experience for our users and team members. we value listening to every voice and we encourage everyone to come be a part of building a company and products we love.
+foursquare is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+would you require sponsorship or authorization to work in the united states? *
+
+
+
+--
+yes
+no
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at foursquare are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

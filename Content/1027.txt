@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software developer engineer in test (sdet) job in portland, or for webmd | technology
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+visit our corporate site
+|
+applicant login
+|
+search current jobs
+|
+share this on
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+about us
+
+
+working here
+
+
+career areas
+
+
+search jobs
+
+
+
+
+
+
+home
+
+
+who we are
+the webmd health network
+meet our team
+
+
+life at webmd
+
+
+account management (1 job)
+accounting and finance (3 jobs)
+client services (2 jobs)
+clinical / medical / cme (5 jobs)
+creative / design (4 jobs)
+editorial (10 jobs)
+market research & analytics (5 jobs)
+marketing (2 jobs)
+media / publishing (1 job)
+not defined (3 jobs)
+other (3 jobs)
+product management (3 jobs)
+project management (1 job)
+sales (1 job)
+sales planning (3 jobs)
+strategy (2 jobs)
+technology (8 jobs)
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+					site navigation
+				
+
+
+ home
+
+ about us +
+
+who we are
+the webmd health network
+meet our team
+
+
+ working here +
+
+life at webmd
+
+
+ career areas
+
+ search jobs
+
+ connect with us
+
+ tell a friend
+
+ visit our corporate site
+
+
+
+
+ home
+
+ search jobs
+
+ connect with us
+
+ tell a friend
+
+ visit our corporate site
+
+ about us
+
+
+who we are
+the webmd health network
+meet our team
+
+
+ working here
+
+
+life at webmd
+
+
+ career areas
+
+
+account management (1 job)accounting and finance (3 jobs)client services (2 jobs)clinical / medical / cme (5 jobs)creative / design (4 jobs)editorial (10 jobs)market research & analytics (5 jobs)marketing (2 jobs)media / publishing (1 job)not defined (3 jobs)other (3 jobs)product management (3 jobs)project management (1 job)sales (1 job)sales planning (3 jobs)strategy (2 jobs)technology (8 jobs) 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+								job attributes
+								
+
+
+req id
+13214
+location
+portland, or
+category
+technology
+business unit
+webmd health services
+
+
+
+
+software developer engineer in test (sdet)
+
+apply
+
+new search
+
+
+in portland, or
+
+job description
+webmd’s health services business enables employers and health plans to provide their employees and plan members with access to personalized health and benefit information, decision support technology that helps them make informed benefit, provider and treatment choices and provides telephonic health coaching services. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status  job responsibilities
+we are looking for software development engineer in test (sdet) to join our team.  you will work side-by-side with other sdets and quality assurance team members to create and deliver automated test solutions with the scalability to serve our rapidly growing private health portal business.  an ideal candidate for this position can jump in to our on-going projects and come up to speed quickly, exercising independent judgment to make the best use of his or her time. we expect excellent knowledge of software testing practices, test automation and prior experience working cross-functionally using agile methodologies. as our sdet you will:determine how to best test for new product and system features (manual and automated), as well as automation for regression tests. this includes ui testing, api testing, and javascript testingdesign, implement and execute test plans and test cases in accordance with best practices and techniques and prepare test results for various test methods including black box, white box, stress/load, data integrity, security and automationtrack testing status and results and provide data reporting on defect/bugs, automation efficiencies and other significant indicatorscollaborate with the team to translate business requirements and functional specifications into test plans, test scripts and drive for high quality software practicescollaborate across teams and departments to lead other qa in best practices for automation throughout our software development lifecycle that improves overall software reliability while minimizing overhead on development effortsunderstand our multiple product domains in detail and put that understanding to use to ensure optimal test coverage *as a member of webmd health services, you may have access to confidential information that will require you to follow additional protocols to ensure the security of our data. as a core requirement, you must implement and act in accordance with the organization’s information security policies; protect assets from unauthorized access, disclosure, modification, destruction or interference; execute security processes or activities; and report security events or potential events or other security risks to the appropriate parties within the organization.  job qualifications
+bachelors in computer science or related field, or equivalent work experience2 years working in quality assurance and software development with experience in manual testing as well as automated testing of web applications that include experience with high-volume public-facing secure sitesexperience reading, writing and relying on automated tests and other indicators of qualityexperience reading and comprehending c# and .net code, or other transferrable object oriented languagesexperience reading and writing sql queries experience in automation frameworks such as seleniumability and experience in one or more of the following areas:experience writing unit and integration tests in c# and .net, or other transferrable object oriented languagesweb-based ui tests: javascript, html5, css3, http, rest, mvcdata tier tests and test data management: relational databases, sql, creation of tools and utilities: help identify, analyze and remedy trouble areasstrong knowledge of qa methodology and tools, software testing processes and best practicesstrong testing skills, proven by a track record of successability to translate use cases and/or technical specifications in to test casesability to write code for automated web testing tools, services and frameworksability to understand technical specifications ability to troubleshoot and debug technical processesdemonstrated ability to work independently and think creatively, and successfully mentor and lead other team membersstrong interpersonal skills, written and verbal communicationdesired:working knowledge of tools like jira, confluence, bitbucket and jenkinsexperience working in an agile or scrum environmentexperience testing health care systems, knowledge of health care industry data formats and standards   
+apply
+apply
+
+not ready to apply? upload your resume to be considered for future opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+hear from our team members
+		"i feel a positivity about the company, a willingness to embrace and own change and a real desire to lead in making healthcare better."
+					
+
+
+
+
+hear from our team members
+		"i feel a positivity about the company, a willingness to embrace and own change and a real desire to lead in making healthcare better."
+					
+
+
+
+	connect witha recruiter
+
+
+
+	tell a friend
+
+
+
+latest jobs: next prev 
+
+
+
+
+
+
+
+
+
+	search all jobs
+
+
+
+
+hear from our team members
+		"webmd is a great place to work. i work with a team of very smart, innovative people that make it fun and exciting. i always feel challenged but at the same time i feel well supported and comfortable in my role."
+					
+
+
+
+
+hear from our team members
+		"webmd is a great place to work. i work with a team of very smart, innovative people that make it fun and exciting. i always feel challenged but at the same time i feel well supported and comfortable in my role."
+					
+
+
+
+	connect witha recruiter
+
+
+
+	tell a friend
+ 
+
+
+
+
+
+
+navigation
+home
+about us
+working here
+search jobs
+connect with us
+tell a friend
+visit our corporate site
+
+career areas
+account management (1 job)accounting and finance (3 jobs)client services (2 jobs)clinical / medical / cme (5 jobs)creative / design (4 jobs)editorial (10 jobs)market research & analytics (5 jobs)marketing (2 jobs)media / publishing (1 job)not defined (3 jobs)other (3 jobs)product management (3 jobs)project management (1 job)sales (1 job)sales planning (3 jobs)strategy (2 jobs)technology (8 jobs) 
+follow us
+
+
+
+
+
+
+
+
+
+navigation
+home
+about us
+working here
+job search
+connect with us
+tell a friend
+visit our corporate site
+
+career areas
+account management (1 job)accounting and finance (3 jobs)client services (2 jobs)clinical / medical / cme (5 jobs)creative / design (4 jobs)editorial (10 jobs)market research & analytics (5 jobs)marketing (2 jobs)media / publishing (1 job)not defined (3 jobs)other (3 jobs)product management (3 jobs)project management (1 job)sales (1 job)sales planning (3 jobs)strategy (2 jobs)technology (8 jobs)
+
+follow us
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ © 2017 webmd all rights reserved   |   privacy policywebmd is an equal opportunity/affirmative action employer and does not discriminate on the basis of race, gender, ancestry, color, religion, sex, age, marital status, sexual orientation, gender identity, national origin, medical condition, disability, veterans status, or any other basis protected by law.
+
+visit webmd.com
+
+
+ 
+
+
+
+
+ 

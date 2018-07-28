@@ -1,0 +1,139 @@
+
+
+
+
+hiya careers - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    hiya careers                                            
+
+
+
+
+
+
+
+                data engineer
+    
+    
+
+                            software engineering - data            
+                    new york,
+                            new york
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+as one of the fastest growing mobile startups in the world, hiya is revolutionizing the way people make and receive phone calls. the phone app has remained unchanged since the smartphone launched over a decade ago. hiya is fixing this through innovations designed to finally make the phone experience a great one. we make this happen by partnering globally with leading carriers and smartphone oems, including samsung and at&t. despite being a startup, we are already making a big impact for our almost 20 million monthly active users in 196 countries (that’s all of them!). we have a solid business model, we are already generating significant revenues, and our backers include some of the world’s leading investors.hiya is a small, but mighty crew of 50 with offices in seattle, new york, london and budapest. we’re growing quickly and hiring across every area of the company. come join us as we make today’s calling experience smarter and more relevant for all 5 billion mobile subscribers worldwide!we have strong company values and culture and would love to share why ours is an opportunity worth considering. we appreciate and respect diversity, and are an equal opportunity employer.job overviewwe are looking for a data engineer to work in our manhattan, new york city office, who thrives on designing, coding and maintaining high performance data processing applications on the jvm platform (primarily scala). our ideal candidate would have the skills and desire to understand our entire data stack, from dynamodb to kafka to scala/akka and the passion to champion new and exciting technologies to solve unique and challenging problems.your ideal job should be one where you work in a small team and are empowered to make yourself and your team more productive on a daily basis. you should want to be part of a team where your desire to grow and learn are valued and aptly rewarded; where using and contributing to open source are looked upon as an asset; where innovating and executing are core to your teams' beliefs.our ideal candidate will have:a passion for building scalable web services;proven experience building highly scalable and available production web services starting from the data storage layer;a desire to own design and architecture end to end;a philosophy of iteration and continuous improvement;bscs + 2 years experience or m.s. in computer science;excellent communication and self-organization skills incl. working within and with other remote teams.you must be:fluent in functional programming;familiar with data storage, processing systems and web service apis;deeply versed in internet protocols and standards;knowledge of cloud computing;knowledgeable of scaling techniques (caching, message queues, eventual consistency, etc.);experience with *nix.extra points if you:have experience with stream processing solutions;have at least 2 years' experience programming in a commercial setting;have implemented service(s) with ml techniques;have experience with both sql and nosql databases;have deployed services to the cloud (especially aws);have deployed docker based services;fluent in scala.we have strong company values and culture and would love to share why ours is an opportunity worth considering. we appreciate and respect diversity, and are an equal opportunity employer.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,674 @@
+
+recruit wizard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+cefd engineer 1 15639061
+?  help
+
+
+
+
+
+
+
+
+please fill in the information below and use the navigational buttons to continue.
+
+
+
+
+
+warning: using your browser's back and forward buttons may produce undesirable results.
+
+
+
+
+
+summaryentry level software engineer position focused on java gui real time embedded development. candidate will work with team of developers designing and implementing the software for satellite ground station equipments. candidate will be responsible for maintenance and improvement to communication protocols and applications for variety of embedded devices and windows/java applications. requirementsjava c and c++ language experience and familiarity with real time operating system (rtos) are required knowledge with embedded devices such as cold fire, free scale ppc microprocessors or equivalent areplus. experience with device drivers, snmp, web design, vxworks, tcp/ip networking are added advantages essential duties and responsibilities include the following. other duties may be assigned.work includes design, fabrication, modification, and evaluation of electronic hardware or software. confers with research personnel to clarify or resolve problems and develops design. prepares detailed engineering drawings, schematics and/or design documents under direct supervision. plans, develops and conducts experimental test programs under direct supervision. analyzes test data and reports to determine if design meets functional and performance specifications. confers with research and other engineering personnel and prepares design modifications as required. uses computer assisted engineering and design software and equipment to formulate and test designs. qualificationsto perform this job successfully, an individual must be able to perform each essential duty satisfactorily. the requirements listed below are representative of the knowledge, skill, and/or ability required. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. education and/or experiencebachelor of science/master of science in computer science /electrical engineering required language skillsability to read, analyze, and interpret common scientific literature and technical journals. ability to effectively present information to colleagues and/or management. mathematical skillsability to apply advanced mathematical concepts such as exponents, logarithms, quadratic equations, and permutations. ability to apply mathematical operations to such tasks as frequency distribution, determination of test reliability and validity, analysis of variance, correlation techniques, sampling theory, and factor analysis. reasoning abilityability to define problems, collect data, establish facts, and draw valid conclusions. ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.  
+
+
+ 
+
+
+
+
+
+first name *
+
+
+
+
+
+
+last name *
+ 
+
+
+
+
+
+
+
+
+
+email address *
+ 
+
+
+
+
+
+
+
+
+
+country *
+ 
+
+united states
+afghanistan
+aland islands
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua & barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bosnia & herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean terr.
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african rep.
+chad
+chile
+china
+christmas island
+cocos (keeling) is.
+colombia
+comoros
+congo, dem. rep. of
+congo, people's rep. of
+cook islands
+costa rica
+cote d'ivoire
+croatia (hrvatska)
+cuba
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland is. (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern terr.
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard & mc donald is.
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran (islamic rep. of)
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea, dem. people's rep.
+korea, rep. of
+kuwait
+kyrgyzstan
+lao people's dem. rep.
+latvia
+lebanon
+lesotho
+liberia
+libyan arab jamahiriya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova, rep. of
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana is.
+norway
+oman
+pakistan
+palau
+palestinian terr.
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+s. georgia & sandwich is.
+samoa
+san marino
+sao tome & principe
+saudi arabia
+senegal
+serbia
+serbia and montenegro
+seychelles
+sierra leone
+singapore
+slovakia (slovak rep.)
+slovenia
+solomon islands
+somalia
+south africa
+spain
+sri lanka
+st. barthelemy
+st. helena
+st. kitts & nevis
+st. lucia
+st. martin
+st. pierre & miquelon
+st. vincent & grenadines
+sudan
+suriname
+svalbard & jan mayen is.
+swaziland
+sweden
+switzerland
+syrian arab rep.
+taiwan
+tajikistan
+tanzania, united rep. of
+thailand
+togo
+tokelau
+tonga
+trinidad & tobago
+tunisia
+turkey
+turkmenistan
+turks & caicos is.
+tuvalu
+u.s. minor outlying is.
+uganda
+ukraine
+united arab emirates
+united kingdom
+uruguay
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands (u.s.)
+wallis & futuna is.
+western sahara
+yemen
+yugoslavia
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+
+address line 1 *
+ 
+
+
+
+
+
+
+
+
+
+address line 2
+ 
+
+
+
+
+
+
+
+
+
+city *
+ 
+
+
+
+
+
+
+
+
+
+state *
+ 
+
+
+
+
+
+
+
+
+
+zip code *
+ 
+
+
+
+
+
+
+
+
+
+daytime phone *
+ 
+
+
+
+
+
+
+
+
+
+evening phone *
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+voluntary self-identification information
+
+
+
+
+
+
+completion of this information is voluntary and is not a requirement.  this information will in no way affect the decision regarding your application.  this information will be kept confidential.
+
+
+eeo*
+ 
+"eeo is the law" poster     "eeo es la ley" cartel     why are we asking?why am i being asked for my gender, race and ethnicity?we are obliged to file this information periodically with various government agencies for statistical reports.how will this information be used?entering this information is voluntary. this information will not affect the decision regarding your application for employment, and it will be kept confidential."eeo is the law" supplementsuplemento del documento "eeo es la ley"pay transparency policy statement
+
+
+
+
+
+      gender
+ 
+
+choose gender
+male
+female
+
+
+
+
+
+
+
+ i decline to identify my race & ethnicity
+
+
+
+
+
+
+
+
+
+      ethnicity
+ 
+
+hispanic or latino
+not hispanic or latino
+
+
+
+
+      race         select one or more values
+ 
+
+
+
+american indian or alaska native
+
+
+
+asian
+
+
+
+black or african american
+
+
+
+native hawaiian or other pacific islander
+
+
+
+white
+
+
+
+two or more races
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+protected veteran status*
+
+
+
+ 
+if this employer is not a federal contractor or subcontractor, they are not required to report on applicant protected veteran status. click the why are we asking? link for more information.
+
+
+
+ 
+ 
+ 
+why are we asking?why are we asking?if this employer is a federal contractor subject to the vietnam era veterans' readjustment assistance act (vevraa) of 1974, as amended by the jobs for veterans act of 2002, 38 u.s.c. 4212 (vevraaa), it is required to take affirmative action to employ and advance in employment: (1) disabled veterans; (2) recently separated veterans; (3) active duty wartime or campaign badge veterans; and (4) armed forces service medal veterans.how will this information be used?if this employer is a government contractor subject to vevraa, this information will be used to measure the effectiveness of its outreach and positive recruitment efforts it undertakes pursuant to vevraa. this information is being requested on a voluntary basis and will be kept confidential as required by law. refusal to provide the requested information will not subject you to any adverse treatment. if provided, this information will not be used in a manner inconsistent with vevraa.     what is a protected veteran?disabled veteran:(a) a veteran of the u.s. military, ground, naval, or air service entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the secretary of veterans affairs; or (b) a person discharged or released from active duty because of a service-connected disability.recently separated veteran:any veteran during the three-year period beginning on the date of such veteran''s discharge or release from active duty in the u.s. military, ground, naval, or air service.active duty wartime or campaign badge veteran:a veteran who served on active duty in the u.s. military, ground, naval, or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the department of defense.armed forces service medal veterans: a veteran who, while serving on active duty in the u.s. military, ground, naval, or air service, participated in a united states military operation for which an armed forces service medal was awarded pursuant to the executive order 12985.
+
+
+
+ 
+
+i identify as one or more of the classifications of protected veteran.
+i am not a protected veteran.
+i decline to self-identify.
+
+
+
+
+
+
+ 
+section 503 disability status*
+
+
+
+ 
+if this employer is not a federal contractor or subcontractor, they are not required to report on applicant section 503 disability status.
+
+
+
+ 
+invitation to self-identify as an individual with a disability
+
+
+ 
+invitation to self-identify as an individual with a disability (spanish)
+
+
+ 
+ i have read the above invitation to self-identify as an individual with a disability.
+
+
+
+
+
+
+
+ 
+
+yes, i have a disability (or previously had a disability).
+no, i don't have a disability.
+i don't wish to answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+notice*
+
+
+
+ 
+under maryland law an employer may not require or demand as a condition of employment, prospective employment or continued employment, that an individual submit to or take a lie detector or similar test.  an employer who violates this provision is guilty of a misdemeanor and subject to a fine not exceeding $100.it is unlawful in massachusetts to require or administer a lie detector test as a condition of employment or continued employment.  an employer who violates this law shall be subject to criminal penalties and civil liability.
+
+
+
+ 
+ i have read the above lie detector test notice
+
+
+
+
+
+
+
+
+
+
+* required fields
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+

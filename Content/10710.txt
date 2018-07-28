@@ -1,0 +1,337 @@
+
+
+
+
+
+sr. director- data product delivery- marketplace analytics- dsm at nike inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+shop
+
+
+nike+
+
+
+
+
+
+
+
+
+
+
+
+
+
+corporate careers
+retail careers
+benefits
+locations
+internships
+temporary opportunities – u.s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nike it careers
+nike corporate employees shatter limits daily at company headquarters and offices around the world.
+
+
+
+
+
+
+
+sr. director- data product delivery- marketplace analytics- dsm
+apply now
+
+become a part of the nike, inc. team
+nike, inc. does more than outfit the world's best athletes. it is a place to explore potential, obliterate boundaries and push out the edges of what can be. the company looks for people who can grow, think, dream and create. its culture thrives by embracing diversity and rewarding imagination. the brand seeks achievers, leaders and visionaries. at nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+nike technology designs, creates and implements the methods and tools needed to make the world’s largest sports brand run faster, smarter and more securely. global technology teams aggressively innovate the solutions needed to help employees navigate nike's rapidly evolving landscape. from infrastructure to security and supply chain operations, technology specialists drive growth through top-flight hardware, software and enterprise applications. simply put, without nike technology, there are no nike products. 
+description
+        at nike we are always on the offense, constantly working to elevate capabilities that enable us to better understand the marketplace and serve our consumers. analytically-driven insights are an essential part of our approach, and this position will be a critical part of bringing our strategy to life. the data products we create to empower our end users can take many forms, from a standard tableau report to a statistical forecasting platform to an exception-based notification delivered through a smartphone app. we build stable, scalable, ground-breaking data products of elegant simplicity. we strive to make sure the “what” never gets in the way of the pursuit of the “why,” and to free curiosity and intuition to roam, backed by the solid foundation of data and science. this position will lead a team that works cross functionally with business end users, business intelligence, data science, engineering, and architecture teams to gather and thoughtfully document feature requirements, then drive them through the product development lifecycle. this position will directly manage several product directors spread across different areas of functional focus, and will direct the priorities of a number of different cross-functional development squads, in close partnership with our data engineering team. keys to success include exceptional product management skills in an agile environment, previous experience managing data product delivery squads operating in aws, deep background in managing global enterprise report development, and a strong understanding & curiosity of how consumer & business value is created at a company like nike. this position requires a positive, enthusiastic team player with strong hands on experience, drive and curiosity. while you (understandably) rely on data to prove your point, you love to think outside the box and solve problems creatively. your experience helps you prioritize and overcome blockers and guide the work of others on your team. you thrive in an entrepreneurial environment, and you are excited by the challenge of building something from the ground up. you ask questions, are continually learning as well as finding opportunities to share knowledge with others. your teams’ success is your success, and you actively seek out opportunities to be a good partner across the organization. key responsibilities:  •	lead the team that will write, drive, and prioritize thoughtful and detailed functional specifications for data ingestion, data cleansing, data quality, analytic processing, bi, and data science use cases then drive them via an agile development methodology•	be the subject matter expert for nike commercial / marketplace data collection & standardization•	drive the global marketplace, enterprise reporting roadmap & delivery •	deeply understand how to enable data scientists and data analysts via the optimal data structures for efficiency of analysis•	design process and systems to troubleshoot data quality issues, identify root cause, and proactively recommend sustainable corrective actions•	move beyond traditional self-service reporting views to focus on exposing forecasts & statistically relevant deviations with exception-based notificationestablish deep partnerships with critical cross-functional enablers including data enablement engineering, analytics platform engineering and enterprise data governance
+qualifications
+        requirements:•	bachelors degree in computer science, mis, analytics, other quantitative disciplines, or related fields; advanced degree is preferred•	10-15 years of relevant leadership experiences in data product creation•	a strong history of building and leading cross functional data product delivery teams•	excellent communications skills (written and verbal) and strong interpersonal skills •	understanding of data architecture, data taxonomy, and both structured and unstructured data•	experience with agile development methodologies •	familiarity working within aws and relevant toolsets•	experience with retail or ecommerce domains is a plus
+nike, inc. is a growth company that looks for team members to grow with it. nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. no matter the location, or the role, every nike employee shares one galvanizing mission: to bring inspiration and innovation to every athlete* in the world.
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+job id 00353909
+
+apply now
+
+
+still looking?
+find the right career here.
+
+
+search
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+go
+
+
+
+
+
+
+job recommendations
+with just 1 click and a connection with linkedin, you can receive job listings that best match your previous positions.
+match my jobs
+
+
+
+share
+
+email
+linkedin
+facebook
+tumblr
+
+
+
+
+
+
+job alerts
+first namelast nameemail addressinterested insign up for job alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least 1 alert added in order to subscribe.categorylocationaddtechnology, portland, oregon, united statesremovedigital & technology, portland, oregon, united statesremoveit, portland, oregon, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+join our talent community
+didn't find what you're looking for? submit your information for future consideration.
+sign up
+
+
+
+
+
+
+internships
+get fully immersed in our culture of curiosity and innovation. start a corporate internship at nike.
+learn more
+
+
+
+
+innovation at nike
+take a behind the scenes look at how nike employees shaped product and experiences for the biggest football tournament in the world.
+learn more
+
+
+
+
+benefits
+as part of the world’s leading sports brand enjoy great benefits that fit, varied by position and location.
+learn more
+
+
+
+
+locations
+employees in six continents and 53-plus countries make up one global nike team.
+learn more
+
+
+
+
+
+
+
+
+mobile
+
+orders
+stories
+help
+
+
+
+first
+
+gift cards
+find a store
+sign up for email
+join nike+
+
+
+
+second
+
+get help
+order status
+shipping and delivery
+returns
+payment options
+contact us
+
+
+
+third
+
+news
+about nike
+careers
+investors
+converse careers
+sustainable innovation
+ca supply chains act
+
+
+
+
+social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+united states © 2017 nike, inc. all rights reserved
+
+
+guides
+
+nikeid
+running
+basketball
+nfl
+golf
+nike sprtswear
+soccer
+skateboarding
+tennis
+kids
+flyknit
+nike free
+lunarion
+dri-fit
+nike zoom
+tech pack
+football
+baseball
+nike innovation
+nike flyease
+nike grind
+
+
+terms & conditions
+privacy policy
+sitemap
+ca supply chains act
+
+
+
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. nike is committed to working with and providing reasonable accommodation to individuals with disabilities. if, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please call 503-671-4156 and let us know the nature of your request, your location and your contact information.
+for more information, please refer to equal employment opportunity is the law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,783 @@
+
+
+
+
+
+
+
+
+
+principal data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about us 
+
+why xpo?
+international jobs
+
+
+
+search all jobs 
+
+transportation
+supply chain
+corporate
+drivers
+information technology
+operations
+sales
+dock workers and material handlers
+university
+warehouse jobs
+all jobs
+
+
+create profile
+application status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about us 
+
+why xpo?
+international jobs
+
+
+
+search all jobs 
+
+transportation
+supply chain
+corporate
+drivers
+information technology
+operations
+sales
+dock workers and material handlers
+university
+warehouse jobs
+all jobs
+
+
+create profile
+application status
+
+
+
+
+
+
+
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+ create alert
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+
+
+principal data engineer
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition id: 
+                        
+36666
+                        
+
+
+
+
+
+
+
+
+business unit: 
+                        
+corporate
+                        
+
+
+
+
+
+
+
+
+location: 
+                        
+portland, or, us, 97209
+                        
+
+
+
+
+
+
+
+
+logistics done differently.
+as a systems engineer analyst principal, with exposure to data science, advanced data analytics, python, r, artificial intelligence, machine learning, sql, visualization tools such as tableau, fundamental statistics, data warehousing etc., you will love this job which offers you, the tools, the team, the data, the business problems and the scope to advance an enterprise in the path of data sciences and advanced analytics.   you will be part of the bi data engineering team of about 20+ dynamic engineers with diversified capabilities.  this team is responsible for end to end data management which includes, data modeling, data integration, data warehousing and providing business benefits through data exploration, data visualization and development of machine learning / artificial intelligence (ai) models.  engineers are specialized in some with hands-on capabilities on most of the tools which include, erwin, informatica, netezza, aws (redshift, ec2 and s3), oltp databases,  python, r, elastic search and iot's.   this team is self-reliant and manages the capabilities right from tool selections & poc's  to project deliveries.  the team is also self-content managing our own private repository in git and administering our own projects in jira.
+pay, benefits and more.
+we are eager to attract the best, so we offer competitive compensation and a generous benefits package, including full health insurance (medical, dental and vision), 401(k), life insurance, disability, and the opportunity to participate in a company incentive plan.
+what you’ll do on a typical day:
+
+establish and maintain solid business relationships and work effectively with leadership teams and senior business contacts.
+gain and upkeep a system-wide, architectural view of the data solutions - you are required to have system-wide, architectural view of the deployed data solutions, and you consistently think in terms of architecture.
+work with customers and business teams to identify relevant customer uses cases, customer needs and business opportunities that enhances the products we support;
+develop product requirements documents to communicate data product features and decisions clearly to all stakeholders (business and technical)
+translate and communicate business needs in clear technical terms to the technical resources and the technical details in simple business terms to the leadership and non-technical people
+identify, evaluate and integrate the data sources and ideal solutions that would best fulfill business requirements
+play a leadership role in your team
+demonstrate good judgement making technical trade-offs between your group’s short term and long term business needs, and the needs of the company as a whole
+collaborate closely with the engineering team to align system design decisions to drive technical product goals
+provide solutions and guidance to the team members on technical and business issues facing them; where warranted, you will play a hands-on role
+guide the team with clear priorities and driving effective time management of the team 
+partner with enterprise data science team to prioritize product development priorities
+
+what you need to succeed at xpo:
+at a minimum, you’ll need:
+
+master's degree in cs, mis, or equivalent is required.  
+successfully completed recognized data science / advanced data analytical courses
+7+ years of professional experience in bi / data warehouse development preferably in a medium to large data warehouse environment. 
+hands-on experience in delivering solutions in at least two of data modeling, data integration, data analysis, sql, r/python and machine learning
+demonstrated success in guiding data science projects to generate business insights and recommendations
+understanding of core principles of data warehousing, data science and machine learning
+hands on experience building logical data models and physical data models and normalizing techniques with 3nf
+experience in mpp databases like netezza or teradata. 
+well-developed written and verbal communication skills in customer settings and with internal management. well-developed active listening, facilitation and presentation skills.
+
+it’d be great if you also have:
+
+strong understanding of statistics to drive analysis around large structured and unstructured data sets
+masters or phd in data science, statistics, computer science or related field (or equivalent work experience)
+knowledge in cloud solutions (preferable in amazon suite of products)
+experience in transportation / logistics industry
+
+be part of something big.
+xpo provides cutting-edge supply chain solutions to the world's most successful companies, including disney, pepsi, l'oréal, toyota and many others. we’re the fastest-growing transportation company on the fortune 500 list and we’re just getting started.
+we are proud to be an equal opportunity/affirmative action employer. qualified applicants will receive consideration for employment without regard to race, sex, disability, veteran, or other protected status.
+the above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. they are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. all employees may be required to perform duties outside of their normal responsibilities from time-to-time, as needed.
+
+
+
+
+
+
+
+
+
+
+
+nearest major market: portland oregon
+                    
+                
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+university - entry-level,
+it campaign,
+information technology,
+corporate
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+xpo.com
+top jobs
+jobs by category
+view all jobs
+privacy policy
+accommodation
+terms of use
+technical support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 xpo logistics, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

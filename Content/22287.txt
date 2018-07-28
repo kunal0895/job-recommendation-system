@@ -1,0 +1,459 @@
+
+
+
+
+
+it system engineer - ennov, inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+                            en | fr | de
+
+
+solutions 
+
+quality
+
+doc
+process
+training
+platform
+
+
+clinical
+
+edc
+edc mobile
+ctms
+randomization
+epro
+elearning
+etmf
+
+
+regulatory
+
+doc
+dossier
+rim
+idmp
+platform
+
+
+pharmacovigilance
+
+pv-works
+pv-works vet
+pv-analyzer
+pv-entry
+pv-express
+
+
+
+
+customers
+about 
+
+about us
+blog
+news and events
+case studies
+careers
+
+
+contact us
+support 
+
+services
+need help
+
+
+request demo
+ 
+
+
+
+
+
+
+
+
+
+
+it system engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    it system engineer
+                
+
+
+
+
+
+
+
+
+full time
+        
+
+
+
+
+
+raleigh,&nbspusa
+        
+
+
+
+
+
+posted 5 months ago
+        
+
+
+
+
+
+
+position
+we are looking for an it systems engineer to help build out, maintain, and troubleshoot our rapidly expanding infrastructure. 
+under the direct responsibility of the chief technology officer, the mission will be to deliver mission critical infrastructure and ensure the highest levels of availability, performance and security of ennov it. 
+qualified system engineers will have a background in it, computer systems engineering, or systems engineering and analysis.
+duties & responsibilities
+main responsibilities
+
+writes specifications and requests for proposal for hardware and software equipment needed by the company, analyzes proposals and issues recommendations
+configures, installs, documents, supervises and maintains systems, especially those dedicated to customers
+handles security and reliability of systems in place
+diagnoses then repairs shut-downs or dysfunctions of systems
+makes technological watch for optimizing systems in place, their security and confidentiality of data.
+
+stakes, constraints and difficulties
+
+deep knowledge of it and networks
+sharp curiosity for detection of relevant it evolutions for the company
+knowledge of the company marketed software
+permanent concern about security of systems and data
+
+performance criteria
+
+availability of systems in place
+reactivity to shutdowns and incidents
+security and confidentiality of systems and data
+well-written documents. 
+
+supervision required
+the it systems engineer works with the both ennov usa and ennov europe teams. s/he will report directly to the chief technology officer and will have to work as a team with project management department, support, and consultants.
+
+supervisory responsibilities
+when the person in this position will be hired, s/he does not supervise other employees. in the future, according to the business development performance and the growth of the company in the us, s/he will be able to create and manage a team.
+skills and qualifications
+education and experience 
+applicants will have at least a bs degree, ms highly recommended, in computer engineering or computer science or other equivalent field with a minimum of 24 months relevant work experience.
+required skills
+skills
+
+experience in installing, configuring and troubleshooting unix /linux based environments
+experience in windows environments servers (iis, security, gpo)
+experience with virtualization and containerization (e.g., vmware, virtual box)
+experience in the administration and performance tuning of application stacks (e.g.,tomcat, jboss, apache, ruby, nginx)
+experience in databases (oracle, my sql, sql server)
+expertise in internet technologies
+scripting (perl, shell) and networking (osi, tcp/ip) skills
+english is mandatory (both written and spoken).
+second language such as french or spanish is a plus.
+qualities
+well organized and pro-active
+curiosity, innovation spirit
+quick learning capacity
+great communication skills
+service-minded
+flexibility
+physical/mental demands and work environment
+while performing the responsibilities of the job, the employee is required to talk and hear. the employee needs to be mobile and available for travel. vision abilities required by this job include close vision to the screen. ability to focus, analyze and assess information.
+
+contact
+if you are interested by this new challenge and want more information about the position, please send a resume and a brief comment about your motivation at careers@ennov.com
+
+
+job features
+
+
+
+
+job categoryit 
+
+
+
+
+
+
+
+
+apply online
+
+
+full name*email*a valid email address is required.phonea valid phone number is required. attach resume* 
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+solutions
+
+quality
+clinical
+regulatory
+pharmacovigilance
+
+
+about
+
+about us
+ennov news
+careers
+legal informations
+ennov’s privacy policy
+
+
+support
+
+services
+need help
+
+
+contact us
+
+contact-us@ennov.com
+
+
+ 
+
+
+
+
+
+
+
+
+twitter
+linkedin
+
+iso 9001
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+            
+                    
+            navigation
+                
+            
+            
+        
+solutions
+
+quality
+
+doc
+process
+training
+platform
+
+
+clinical
+
+edc
+edc mobile
+ctms
+randomization
+epro
+elearning
+etmf
+
+
+regulatory
+
+doc
+dossier
+rim
+idmp
+platform
+
+
+pharmacovigilance
+
+pv-works
+pv-works vet
+pv-analyzer
+pv-entry
+pv-express
+
+
+
+
+customers
+about
+
+about us
+blog
+news and events
+case studies
+careers
+
+
+contact us
+support
+
+services
+need help
+
+
+request demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

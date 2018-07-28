@@ -1,0 +1,630 @@
+
+
+
+738243 security engineer medicaid data warehouse sacramento ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ skip to main content
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+my profile
+my saved jobs
+network with us
+
+
+
+
+
+
+
+
+jobs
+
+
+back
+jobs
+search jobs
+my profile
+my saved jobs
+my saved searches
+
+
+
+why work here
+
+
+back
+why work here
+corporate fast facts
+our affiliates
+our locations
+our businesses
+top 7 reasons
+rewards & benefits
+mission and values
+our work environment
+awards and recognition
+diversity
+newsroom
+meet our people
+
+
+
+career areas
+
+
+back
+career areas
+clinical
+consulting
+corporate services
+customer service and claims
+health care operations
+project management
+sales & marketing
+technology
+
+
+
+getting hired
+
+
+back
+getting hired
+recruiter chat
+career events
+go social
+our hiring process
+digital video interviewing
+transitioning military
+resume advice
+interview tips
+frequently asked questions
+unitedhealth group blog
+
+
+
+college
+
+
+back
+college
+student programs
+frequently asked questions
+college recruiting blog
+career events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+improve the lives of others while doing your life's best work.sm
+
+my saved searches (0) 
+
+
+ 
+
+
+
+select a job field
+all
+account management
+analytics
+acct mgmt oh
+actuarial
+admin support services
+aviation
+behavioral
+billing
+business operations
+claims
+communications
+customer services
+enroll & empl contract install
+executive leadership team
+executive officers
+external affairs
+finance
+government affairs
+healthcare delivery
+healthcare economics
+human capital
+information technology
+international
+legal
+marketing and advertising
+medical & clinical operations
+network contract installation
+network contracting & pricing
+network management
+nursing
+optuminsight consulting
+pharmaceutical research
+pharmacy
+product
+project management
+real estate services
+regulatory & compliance
+sales support
+sales/direct selling
+senior leadership team
+sourcing & procurement
+training
+underwriting & pricing
+
+
+
+
+
+
+united states
+brazil
+india
+philippines
+united kingdom
+canada
+ireland
+australia
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+find all jobs near me
+
+                            geolocation is not available
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+security engineer, data warehouse - sacramento, ca (738243)
+
+
+
+apply
+job saved
+save job
+
+
+ position description 
+ready to raise your game by a quantum leap? at optum, part of the unitedhealth group family of businesses, we're focused on doing things that have not been done yet; helping improve lives in ways that were unthinkable until we thought of them. we've spent decades investing in the technology and information capabilities that help us bring new ideas to market faster. we've developed solutions that are practical today and scalable for tomorrow. and we've created collaborative teams dedicated to innovation across each of our businesses. now, we invite you to bring your knowledge of enterprise architecture and standards to assist in the development, communication and implementation of our evolving technology architecture.
+ 
+to learn more about technology careers with unitedhealth group, please click here.
+ 
+we are seeking a security engineer, data warehouse to join our team. as a security engineer you are involved in the day to day operational infrastructure engineering, server management, application management, security investigation and oversight and security planning. 
+ 
+primary responsibilities:
+
+responsible for coordinating, administering and supporting activities related data integrity, data access and confidentiality 
+maintain awareness of current technology assets, and the applicability and capability of each 
+understand and adhere to the enterprise architecture (ea) governance framework (e.g., principles, policies, standards, reference architectures, data-driven designs) 
+seek opportunities for reuse of existing technology assets, and make appropriate recommendations 
+maintain awareness of current business and industry issues/trends 
+provide ad hoc consulting in applicable areas of expertise 
+maintain regulatory compliance with hipaa, and applicable nist (national institute standards technology) 
+responsible for vmware and managing and deploying complex virtual environments 
+responsible for managing it projects including costing, scheduling, coordination of multiple teams from project inception through qa and uat to customer acceptance 
+ability to analyze and troubleshoot user issues, server issues, security issues and network issues 
+responsible for managing and maintaining firewall rules 
+must be agile - the position requires a great deal of multitasking and the ability to make decisions in complex situations quickly 
+responsible for enterprise size windows 2012 server network
+
+
+required qualifications:
+
+bs degree; computer science, computer engineering, electrical engineering and / or mis is preferred, or equivalent work experience 
+5+ years of information security and technology management experience (experience and understanding of all security domains)  
+8+ years of it experience (server / desktop hardware & software, networking, storage, disaster recovery, and backup / restore) 
+broad-based working knowledge of networking, application, database, infrastructure and / or server administration 
+must have working knowledge with one or more security management tools and applications, such as, qualys, logrhythm, symantec, barracuda, parity, tufin  
+knowledge with multiple operating systems, such as, windows, linux, etc. 
+experience in oral communication in a variety of situations such as interacting with the user community (e.g. state staff, vendors, and data center staff), making presentations, facilitating meetings and walkthroughs, and user training 
+intermediate skill level with microsoft office suite of tools in facilitating written communication and communication with team members, stakeholders, end users 
+ability to manage complex projects 
+must have at least one (1) of the following certifications: global information assurance certificate such as giac information security professional, systems security certified practitioner, isaca certified information systems auditor, isc2 certified information systems security professional (cissp), or equivalent certificate
+preferred qualifications:
+
+experience with infrastructure architecture and design 
+microsoft project experience 
+ability to analyze system metrics to monitor and improve performance
+optum is a diversified health services and innovation company where data, technology, people and action combine to make great things happen every day. join us. learn more about how you can start doing your life's best work.(sm)
+ 
+ 
+ 
+diversity creates a healthier atmosphere: unitedhealth group is an equal employment opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+ 
+ 
+unitedhealth group is a drug-free workplace. candidates are required to pass a drug test before beginning employment.
+ 
+ 
+ 
+job keywords: it architect, sacramento ca, data warehouse, enterprise architecture, nist, electrical engineering, security, giac, information security professional, systems security certified practitioner, isaca certified information systems auditor, isc2 certified information systems security professional (cissp)
+
+
+
+
+job details
+
+
+
+
+contest number738243
+job titlesecurity engineer, data warehouse - sacramento, ca
+job familyinformation technology
+business segmentoptuminsight
+
+
+
+job location information
+
+sacramento, caunited statesnorth america
+
+
+
+additional job detail information
+
+employee statusregular
+schedulefull-time
+job leveldirector
+shiftday job
+travelno
+telecommuter positionno
+overtime statusexempt
+
+
+
+
+
+
+
+
+
+
+
+jobs
+
+
+ view (0) saved jobs
+
+
+
+
+email this job
+
+
+
+email this job to
+
+
+
+
+
+
+cancel
+send
+
+
+
+
+555-111-2222
+
+
+
+ 
+
+text this job
+
+
+
+text this job to
+
+india
+united states
+philippines
+
+
+
+
+
+
+
+message and data rates may apply.
+
+cancel
+send
+
+
+
+
+
+
+
+
+
+
+similar jobs
+
+
+
+
+santa ana, ca
+oracle ebs performance analyst - santa ana, ca, carlsbad, ca and irvine, ca 727396
+
+
+horsham, pa
+senior data analyst - pa only telecommute 740535
+
+
+franklin, tn
+software engineer - franklin, tn 744905
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+unitedhealth group home
+about us
+businesses
+social responsibility
+investors
+newsroom
+diversity & inclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                choose your country
+            
+
+
+
+                            north america
+                            
+united states
+
+
+
+                            asia pacific
+                            
+india
+philippines
+
+
+
+                            europe middle east and africa
+                            
+united kingdom
+ireland
+
+
+
+                            latin america
+                            
+brazil
+
+
+
+
+
+
+
+
+            social responsibility & diversity
+        
+
+
+
+
+
+
+
+
+
+
+
+at unitedhealth group, we are committed to a powerful idea - that accessible,
+    affordable and quality health care should be available to everyone.
+
+visit the social responsibility website
+
+we embrace and encourage a culture of diversity and inclusion. we know that valuing diversity makes good business sense and helps to ensure our future success.
+
+learn more at our corporate diversity & inclusion web site
+ 
+
+
+
+
+
+
+            fraudulent activity
+        
+
+
+
+
+
+
+
+
+
+we have received recent reports of fraudulent emails purporting to be sent from unitedhealth group, unitedhealthcare, or optum recruiting personnel. 
+ 
+the fraudulent emails, which do not originate from any of unitedhealth group’s email domains, or those of any of its operating divisions, supposedly ask recipients to contact the sender to start the company’s hiring process by downloading software and/or requesting a fee. 
+ 
+unitedhealth group will never request you download software or pay a fee of any sort to explore employment opportunities with our company.
+if you wish to verify the legitimacy of any email purporting to have been sent by or on behalf of unitedhealth group recruiters,  please call 1-800-561-0861 between 7 a.m. and 7 p.m. ct, monday - friday, for assistance. you also may inquire via email to lifesbestwork@uhg.com. 
+
+
+
+
+ 
+
+
+contact us  privacy policy  family & medical leave act  equal employment law poster  pay transparency  employee polygraph protection act  e-verify participation poster  ier right to work poster  report a problem  submit feedback
+© 2017 unitedhealth group, all rights reserved.
+unitedhealth group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. if you need special assistance or accommodation for any part of the application process, or you encounter technical difficulties, please call 1-800-561-0861  between 7 a.m. and 7 p.m. ct, monday - friday, for assistance.
+unitedhealth group is a registered service mark of unitedhealth group, inc. the unitedhealth group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the unitedhealth group, inc.
+diversity creates a healthier atmosphere: all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+unitedhealth group is a drug-free workplace. candidates are required to pass a drug test before beginning employment.
+get adobe reader  get adobe flash player 
+
+© 2015 unitedhealth group, todos os direitos reservados .
+© 2015 unitedhealth group, todos os direitos reservados .
+
+
+
+
+
+top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

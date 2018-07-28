@@ -1,0 +1,570 @@
+ 
+
+data lake specialist in nc, charlotte | axa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+home
+ about axa
+ diversity and inclusion
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+keywords
+
+
+
+location
+
+
+all
+al, birmingham
+al, selma
+az, scottsdale
+az, tucson
+ca, gold river
+ca, irvine
+ca, los angeles
+ca, san diego
+ca, san francisco
+ca, san mateo
+ca, woodland hills
+co, denver
+co, grand junction
+co, highlands ranch
+ct, farmington
+ct, hamden
+ct, milford
+ct, stamford
+dc, washington
+fl, boca raton
+fl, fort myers
+fl, ft lauderdale
+fl, gainesville
+fl, jacksonville
+fl, miami
+fl, ocala
+fl, orlando
+fl, sarasota
+fl, tallahassee
+fl, tampa
+ga, atlanta
+ga, savannah
+hi, honolulu
+ia, cedar rapids
+ia, west des moines
+il, chicago
+il, deerfield
+il, oak brook
+il, springfield
+in, indianapolis
+ks, overland park
+ks, wichita
+ky, lexington
+ky, louisville
+la, baton rouge
+la, new orleans
+ma, wellesley
+md, columbia
+mi, kalamazoo
+mi, saginaw
+mi, troy
+mn, minneapolis
+mo, clayton
+mo, creve coeur
+nc, charlotte
+nc, high point
+nc, lumberton
+nc, raleigh
+ne, omaha
+nj, edison
+nj, jersey city
+nj, marlton
+nj, morristown
+nj, secaucus
+nj, toms river
+nj, wall
+nj, woodbridge
+nm, albuquerque
+nv, las vegas
+ny, albany
+ny, astoria
+ny, brooklyn
+ny, clifton park
+ny, long island
+ny, new york
+ny, poughkeepsie
+ny, rochester
+ny, syracuse
+ny, williamsville
+ny, woodbury
+oh, akron
+oh, cincinnati
+oh, cleveland
+oh, columbus
+oh, dayton
+oh, jefferson
+oh, willoughby
+ok, oklahoma city
+or, portland
+pa, bala cynwyd
+pa, bethlehem
+pa, erie
+pa, johnstown
+pa, lancaster
+pa, pittsburgh
+pa, greater pittsburgh
+pr, hato rey
+pr, ponce
+pr, san juan
+ri, warwick
+sc, columbia
+sc, greenville
+sc, hilton head
+tn, franklin
+tx, austin
+tx, brownsville
+tx, dallas
+tx, fort worth
+tx, houston
+tx, katy
+tx, san antonio
+tx, the woodlands
+ut, clinton
+ut, salt lake city
+va, abington
+va, falls church
+va, norfolk
+va, richmond
+va, roanoke
+wa, bellevue
+wi, green bay
+wi, madison
+wi, milwaukee
+
+
+
+
+job type
+
+
+all
+full time
+part time
+
+
+
+
+
+
+:
+
+
+all
+
+
+
+
+
+category
+
+
+all
+finance
+human resources
+legal
+marketing & communications
+operations & technology
+it management & strategy
+sales and distribution
+us life & retirement
+
+
+
+
+
+search by map
+view all jobs
+your saved jobs()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data lake specialist
+            data lake specialist
+        
+
+
+
+                nc, charlotte
+
+job id : 43775
+job id : 43775
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company description
+
+
+
+
+
+
+
+ axa is a leading financial protection company, committed to fostering and maintaining a diverse, multicultural and inclusive environment, and one of the nation’s premier providers of life insurance and annuity products. the organization was established in 1859 and we are committed now more than ever to helping clients meet financial goals in all stages of their lives. one of the hallmarks of our proud heritage is providing world-class customer service.  we're always looking for smart and talented people to help us develop new and innovative ways to expand our product portfolio, reach new customers and serve well the clients already a part of the axa family.
+
+
+
+
+
+
+
+
+job purpose
+
+
+
+
+
+
+
+the data & analytics office (dao) is responsible for enterprise-wide governance and utilization of information as an asset, via data acquisition, data processing, analysis, data mining, and other means to create value for the organization.  the dao oversees data collection, use and strategy throughout axa.  this data includes large structured and unstructured data sets (e.g., speech analytics, social media listening, digital footprints, customer behavior, financial information, proprietary market research, and secondary sources) with the goal of discovering meaningful implications for business decisions.  
+the data lake specialist is responsible for the management, optimization, governance and expansion of a hadoop data lake supporting the data analytic and business/operational needs of a large financial services organization. in this capacity, the data lake specialist will help to ensure the design, implementation, user access, and retention of data is executed in compliance with policy, business requirements and vendor obligations. the data lake specialist will act as a “data curator” developing reusable data sources, optimizing the use of storage and compute, anticipating future requirements, and documenting source systems and third-party data within the organization. the data lake specialist will also be expected to promote the use of data within the organization.  additionally, the data lake specialist will act as the primary intermediary between it support and the data and analytics teams, opening requests for changes, performing validation of completed work, and providing sign-off.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+
+ required skills:
+ bachelor’s degree and 4+ years of relevant work experience
+ proficiency with hadoop (cdh) and distributed computing, relational databases and sql
+ experience with python and experience with collaborative development workflows (e.g., github) 
+ excellent written, verbal and interpersonal skills a must as there will be significant collaboration with the business and it
+ preferred skills:
+ familiarity with public datasets, experience with legacy systems (i.e., mainframes), additional software development experience, project management experience, and production deployment experience
+ experience with ibm infosphere business glossary is a plus
+ experience with machine learning or statistics
+
+
+
+
+
+
+
+
+other information
+
+
+
+
+
+
+
+note: axa participates in the e-verify program.
+in addition to competitive compensation and an outstanding benefits package including 401 (k) and medical programs, we offer the opportunity for continued professional development in a congenial corporate environment. 
+axa is committed to providing equal employment opportunities to our employees, applicants and candidates based on individual qualifications, without regard to race, color, religion, gender, gender identity and expression, age, national origin, mental or physical disabilities, sexual orientation, veteran status, genetic information or any other class protected by federal, state and local laws.
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+job location
+
+
+
+
+
+
+
+
+apply
+
+
+
+get notified for similar jobs
+you will receive updates everyday
+
+
+
+
+
+
+
+join now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email this job
+            x
+
+
+
+
+
+
+your name
+
+
+
+recipient’s email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+life insurance
+term life insurance 
+whole life insurance 
+universal life insurance 
+indexed universal life insurance 
+variable  universal life insurance  
+survivorship life insurance
+
+
+
+
+about us
+newsroom
+careers 
+ diversity and inclusion
+axa foundation
+corporate responsibility
+axa advisors
+
+
+
+
+find  your goal
+retirement 
+ financial security
+paying for education 
+saving and investing 
+life insurance protection
+
+
+
+
+life events
+getting married
+a new home 
+a new job
+becoming a parent
+caring for aging parents
+death of a spouse
+
+
+
+financial professionals are contracted with axa advisors, llc and axa network, llc. equal opportunity employer- m/f/d/v.ge-103681 (05/15)(05/17)
+
+
+
+ © 1999-2015 axa equitable life insurance company     1290 avenue of the americas, new york, ny 10104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

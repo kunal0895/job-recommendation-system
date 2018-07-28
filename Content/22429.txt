@@ -1,0 +1,234 @@
+
+
+
+
+job application for computer vision - research scientist  at nutonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+computer vision - research scientist 
+
+        at nutonomy
+      
+(view all jobs)
+
+        boston, ma
+      
+
+
+nutonomy aims to be the first company in the world to launch an autonomous taxi system, and we are building up an awesome team to make this goal a reality. we are developing the first-of-its-kind complete solution for providing point-to-point mobility via large fleets of autonomous vehicles. this includes software for autonomous vehicles, smartphone-based ride hailing, fleet management, and teleoperation. the company's software has been tested extensively on public roads in the u.s. and singapore. we offer a unique opportunity to work closely with experts from a wide array of backgrounds, to create ground-breaking technology with potential for huge impact. as a member of a fast-growing start-up, you will be able to make a large contribution to the final product. for more information about nutonomy, visit: www.nutonomy.com
+we are seeking highly talented computer vision - research scientists focused on computer vision & machine learning to support a variety of teams.
+job description
+a robust and adaptive perception systems is essential for creating fully autonomous vehicles. we are looking for excellent research scientists in computer vision that will focus on researching, developing, and deploying algorithms for extracting semantic information from rgb(d) video streams, including detection, segmentation, tracking and fine-grained classification, with the goal of using this information in a real-time robotic system with high safety requirements. in this role, you would work closely with experts of other sensor modalities to build a fully-integrated perception system, as well as experts in planning and control to “close the loop” on actual robots. to support your work, you will be able to use a state-of-the-art scalable computing, simulation, and testing environment, which allows a quick transition of your ideas from prototype to vehicles on the road. you will also be expected to mentor junior colleagues. lastly, you will join an awesome group of motivated colleagues, both industry professionals as well as leading researchers from academia, who like to approach problems with both creativity and rigor, to push beyond the state of the art.
+requirements
+
+ph.d. in computer science or related field
+extensive experience of one or more of the following:
+
+deep learning applied to images or video data.
+other modern machine learning methods, with a focus on rigorous statistics.
+geometric computer-vision such as slam, optical-flow and stereo.
+sensor fusion of rgb and depth.
+
+excellent analytical, communication, and writing skills.
+experience developing software as part of a team.
+
+bonus
+
+experience in automotive or other real-time and embedded systems.
+experience with temporal data-association, tracking, etc.
+experience with formal software development methods.
+experience with deep net compression methods.
+proven track record of publications in relevant conferences (cvpr, icml, nips, iccv…)
+familiarity with c++, python, cuda, git, cmake, continuous integration tools and the agile development process.
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you legally authorized to work in the united states?
+    
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

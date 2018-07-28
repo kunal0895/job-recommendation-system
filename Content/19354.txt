@@ -1,0 +1,229 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers | churchill navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+products
+markets
+
+law enforcement
+forest & fire
+search & rescue
+tv news
+other applications
+
+
+latest news
+gallery
+about us
+
+who we are
+careers
+challenge
+
+
+contact us
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+great people, cool projects
+
+		
+
+
+
+
+
+
+
+great people, cool projects
+
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+full-stack web developer
+
+
+
+
+we’re all about video — capturing, encoding, transmitting, decoding, enhancing, displaying, archiving, searching, and understanding it. and aside from capturing and displaying it, everything we do with video is done with software. video isn’t just high-bandwidth data to us, it is nature in action, or evidence that can convict someone of a crime or set them free. it can be as important as a visual record of humankind’s greatest achievements or as trivial as a random youtube clip.
+what we care about is rich video. in the same way that fonts and styles help our printed words convey valuable information, we believe that video with frame-accurate embedded metadata is incredibly valuable, and this fact has yet to be fully appreciated.
+enter earthscape: we are building a web product to catalog and archive the rich video that our airborne products create.
+earthscape web is looking for more full-stack engineers to join us. in a given day you might work on managing infrastructure or writing javascript that runs the front-end web app, or anything in between. as a part of our small team, you will be instrumental in steering the direction of the product, from directing architecture decisions to exploring new technologies that might better suit our needs.
+our current stack is python/flask on top of postgresql/postgis with redis, rabbitmq, and some go, c++ and other technologies sprinkled in. the frontend is a modern mix of es6, react, flux, sass, etc. and it is all managed with ansible and deployed to a plethora of aws services including ec2, s3, rds, and more. we use git to manage code and github for issues and pull requests and slack for internal communication and gifs.
+we care less about whether your experience falls perfectly in line with what we are working on and more that you want to learn our stack and bring your experience building solid web applications. we are believers in personal and professional growth, so you can learn in areas you might have less experience and teach where you have more.
+ 
+responsibilities
+design, develop, and maintain new features for the earthscape web product.solve problems as they arise as we scale up and grow our customer base.work with various internal teams to integrate new and existing company products.
+required skills
+experience writing and shipping code with a modern web application framework (rails, laravel, django, etc…).excellent command of modern web browsers.experience with version control fundamentals.strong understanding of aws.comfortable on a command line in a linux environment.experience with an rdbms, postgresql/postgis prefered.experience with streaming video preferred (fmp4, dash, hls).
+location
+boulder, co
+
+
+apply here!
+
+
+
+
+let’s talk support: +1 720-744-3300
+sales: +1 720-943-4ars (4277)
+info@churchillnavigation.com
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,394 @@
+
+
+
+
+job application for data scientist at tumblr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist
+
+        at tumblr
+      
+
+        nyc
+      
+
+
+tumblr is looking for data scientists to use tumblr's data to better understand our hundreds of millions of registered users, learn what makes them tick, and inform better decision-making and strategy for our product. we want data scientists who know how to use their knowledge and skill with data and statistics to create real, actionable product insights. above all else, we want you to be someone who is excited to be let loose on tumblr’s many terabytes of data.
+what you’ll do:
+
+apply various data modeling techniques to model user behavior and identify actionable levers for retaining and growing users.
+define key metrics, conduct a/b testing, and oversee statistical measurement of new algorithms and approaches.
+develop key data sets and expose them as a reusable libraries and utilities. 
+enhance analytics etl pipeline and automate recurring analytics tasks.
+monitor the trends of metrics and identify root cause of unexpected changes.
+partner with product and engineering teams to solve problems and identify trends and opportunities for user growth.
+
+who you are:
+
+ba/bs degree in a quantitative field (cs, math, statistics, economics, etc.) strongly preferred.
+3+ years of experience with large datasets. extra credit for of varied levels of structure.
+experience working with python. bonus points if you've used it to build robust data pipelines and automate data tasks.
+experience knowledge of sql skills against large datasets
+desire to apply academic knowledge to solve real-world problems
+smarts, humility, and equal willingness to learn and teach
+ability to work with apis in python a plus (e.g. google analytics, tumblr).
+
+tools we use:
+
+python (we also like r)
+hive, mysql
+google sheets
+git, jira
+jupyter, luigi
+pandas, scikit-learn
+
+about tumblr 
+tumblr launched in 2007 with the belief that people need for a place to say what they want, be who they want, and connect over what they love. now, 10 years and hundreds of millions of blogs later, we continue to build out tumblr as a platform for free expression, individuality, and human connection. 
+from art to music to dank memes to social justice, we’re proud to serve all the subcultures that call tumblr home, and even more proud of the impact they’ve had the world. no matter what department you work with here, you’ll be working to give our users a voice, and to make that voice heard far and wide.
+we know—this sounds like a big task. it is. that’s why we need smart, humble, funny people to keep tumblr running and growing. we’re big enough to give you the resources you need and still small enough that you can work on things that matter. come work with us.  
+our commitment to diversity
+tumblr is a platform for diverse communities to express diverse points of view, and we’re committed to hiring a workforce that reflects that. we know that teams who bring a variety of backgrounds and perspectives into their work build better products—and that better products mean, in turn, a better experience for all of the communities we serve. we do not discriminate based on race, religion, national origin, physical disability, mental disability, medical condition, marital status, sex, gender identity, gender expression, pregnancy, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. 
+if you require any kind of special accommodation, don’t hesitate to contact us.
+ 
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at tumblr are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

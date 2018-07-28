@@ -1,0 +1,21 @@
+chief data scientist at answeriqcompany websiteemployeeschief data scientistbellevue, wafull-timejob openingschief data scientist%button_apply_to_position% apply using linkedinansweriq is looking for a chief data scientist leading a team of data scientists to build an artificial intelligence and machine learning application in the enterprise customer support space. we work on sophisticated algorithms to derive signals from past customer support tickets (email & chat) and use it to intelligently classify new issues, automate responses, assist agents etc. we integrate with existing customer experience systems like salesforce, zendesk etc.
+responsibilities
+
+perform hands-on data analysis and modeling with huge data sets.
+apply data mining, nlp, and machine learning (both supervised and unsupervised) to improve relevance and personalization algorithms.
+work side-by-side with product managers, software engineers, and designers in designing experiments and minimum viable products.
+discover data sources, get access to them, import them, clean them up, and make them “model-ready”. you need to be willing and able to do your own etl.
+create and refine features from the underlying data. you’ll enjoy developing just enough subject matter expertise to have an intuition about what features might make your model perform better, and then you’ll lather, rinse and repeat.
+run regular a/b tests, gather data, perform statistical analysis, draw conclusions on the impact of your optimizations and communicate results to peers and leaders.
+explore new design or technology shifts in order to determine how they might connect with the customer benefits we wish to deliver.
+
+requirements
+
+10+ years industry experience developing machine learning models at scale from inception to business impact. leadership opportunities also available.
+deep understanding of modern machine learning techniques and their mathematical underpinning, such as classification, recommendation systems and natural language processing.
+proven ability to tailor machine learning solutions to business problems in a cross functional team.
+experience with distributed machine learning and computing framework (spark, mahout or equivalent). applied experience preferred.
+strong programming skill (python, r, or scala preferred).
+experience productionizing machine learning model 
+
+%button_apply_to_position%%footer_powered_by%breezy

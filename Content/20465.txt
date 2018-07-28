@@ -1,0 +1,185 @@
+
+
+
+
+jda software group, inc. careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					full stack developer
+				
+
+
+						tracking code
+					
+
+						ln_fsd_tx 
+					
+
+						job description
+					
+
+jda software is the leading supply chain provider powering today’s digital transformation.  we help companies optimize delivery to customers by enabling them to predict and shape demand, fulfill faster and more intelligently, and improve customer experiences and loyalty.  more than 4,000 global customers use our unmatched end-to-end solutions portfolio to unify and shorten their supply chains, increase speed of execution and profitably deliver to their customers.  our world-class client roster includes 73 of the top 100 retailers, 71 of the top 100 consumer goods companies, and 13 of the top 16 3pls.  running jda, you can plan to deliver.  www.jda.com
+ 
+position title
+full stack developer
+ 
+location
+dallas, tx
+ 
+overview
+the full stack developer will join our team to build the next generation of jda supply chain applications. these applications are being built from the ground up to take advantage of current and emerging technologies and practices. the ideal candidate should be skilled in development across all layers of the stack from the front-end through to back-end elements such as business logic, algorithms and data stores. the candidate is also expected to have some specialized skills in a few of the layers, such as data stores, or user interfaces. the candidate would also have a strong understanding of concepts such as devops, algorithms, performance engineering, and ux.
+ 
+responsibilities 
+
+develop next generation applications using mobility, iot, microservices, saas and other emerging technologies
+work as part of an agile team. picking up sprint/backlog tasks, reporting on task progress and working collaboratively with the entire team to deliver stories and business value. follow up on the progress of development and report to development manager.
+suggest best design patterns based on the existing application code and business rules that were implemented.
+work with business owners to analyze requirements, identify impact to applications and determine high level estimates.
+participate in business enhancements and architecture enhancements.
+demo application functionality to external team members, business owners and explain the existing functionality.
+work with the development team and other production support team members to ensure the applications are working as expected.
+work with the team to come up with new ideas to improve overall application functionality and performance.
+suggest architecture changes and design patterns based on existing application code and business rules.
+document processes and requirements to support other development efforts by other team members.
+ability to take new challenges and learn new technologies quickly as and when needed.
+
+
+
+						required skills
+					
+
+
+bachelor's degree in computer science or demonstrated equivalent experience.
+four or more years of relevant work experience.
+experience with agile development (scrum, xm or kanban)
+experience with python, java with knowledge of its ecosystems.
+experience with saas platforms such as gcp, aws, azure or bluemix
+experience with back-end frameworks such as java, spring
+experience with front-end frameworks such as reactjs, angular, play/akka, javascript, typescript
+
+ 
+highly desired skills and knowledge
+
+bs or ms degree in computer science.
+experience with developing web applications.
+experience with object-oriented programming.
+knowledge of design patterns such as mvc, and restful.
+familiarity with various design and architectural patterns.
+familiarity with build tools such as ant, maven and gradle.
+familiarity with continuous integration, continuous delivery.
+ability to pick up new technology quickly.
+good analytical and communication skills.
+communication & stakeholder management skills.
+problem solving skills to develop quick yet sound solutions to resolve complex issues.
+created database/datastore schemas that represent and support the needs of a microservice.
+implemented automated testing platforms and unit tests.
+proficient understanding of code versioning tools, such as git and stash/bitbucket server.
+
+ 
+our values
+if you want to know the heart of a company, take a look at their values. ours unite us. they are what drive our success – and the success of our customers. does your heart beat like ours? find out here.
+ 
+let’s socialize 
+join the conversation online by connecting and following us on twitter @jdasoftware @jdacareers and facebook (http://bit.ly/9s2dve), and linkedin (http://bit.ly/2rv4kue) also, check out jda's blog - supply chain nation - the platform for supply chain trends and innovations at http://blog.jda.com.
+ 
+*li-ln1
+
+
+						job location
+					
+
+						dallas, texas, united states
+					
+
+						position type
+					
+
+						full-time/regular
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+

@@ -1,0 +1,211 @@
+
+estimation and signal processing algorithm engineer job - re vision consulting - sacramento, ca | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+estimation and signal processing algorithm engineer
+
+re vision consulting
+     -
+sacramento, ca 95831
+
+full-time, part-time
+
+
+
+job summaryre vision consulting (www.re-vision.net) is seeking a highly skilled, experienced and motivated algorithm design engineer to develop a range of data assimilation techniques. the successful candidate will lead the development of novel data assimilation algorithms for remote sensing instrumentation as part of a multi-disciplinary team. the work will require strong hands-on implementation capability, a solid understanding of data-assimilation methods and their numerical implementation and good communication skills (verbal and written).we are one of the leading r&d companies in marine energy conversion focused on offshore wind, wave, tidal, ocean current and ocean thermal energy conversion. we are developing cutting edge transformative technologies that enable cost-reduction pathways for innovative marine renewable energy products. our primary focus in on disruptive technologies that have the potential to significantly accelerate innovation cycles in marine energy. for more information, please visit us at www.re-vision.net.responsibilities and dutiesdevelop new data assimilation and estimation methods for wave prediction codesdevelop solutions to signal processing problemssupport field campaigns to collect and analyze complex data-setsoptimize algorithms to improve performancetest/validate and optimize codes to insure that they meet customer requirementsimplementation on real-time capable hardwarewriting of reports and publication of academic journal papersqualifications and skillsadvanced degree or equivalent experience with a focus on estimation, control, and signal processingstrong programming skills. primary platform for algorithm development is matlabexperience working with various estimation and signal processing techniques (kalman filters, enkf, variational methods, and fourier analysis)excellent analytical capabilitiesgood verbal and written communication skillsnice to have qualifications: experience with c++ and pythonalgorithm implementation experience using cuda and mpiunderstanding of ocean wave physicsexperience with processing of radar signalbenefitswe offer a competitive compensation structure, a flexible, focused and results oriented work-space, an opportunity to work with the brightest minds in the industry, and an opportunity to contribute to meaningful breakthroughs in the clean-tech space.job types: full-time, part-timerequired experience:algorithm design: 5 years
+
+6 days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to re vision consulting.
+
+
+
+
+
+
+other jobs you may like
+
+
+process engineer
+
+fep executive search -
+					sacramento, ca
+9 days ago
+
+ easily apply
+
+
+
+process engineer
+
+cepheid -
+					lodi, ca
+19 days ago
+
+
+process engineer
+
+helpmates companies -
+					lathrop, ca
+18 hours ago
+
+
+engineering process job w/questionnaire
+
+tracys pizza and drink emporium -
+					sacramento, ca
+30+ days ago
+
+
+quality-process engineer
+
+helpmates staffing services -
+					lathrop, ca
+22 hours ago
+
+ easily apply
+
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+indeed salary estimatewe know salary is a key component of your decision whether or not to apply for a job. so when the hiring company hasn’t provided a salary for a job, we look at salary data from related companies and locations to come up with a reasonable estimate for what you can expect.with over 450,000,000 salaries collected from other jobs and employees, we use one of the biggest salary databases in the world to inform these estimates. and because we are continually adding feedback from users like you, we are able to keep refining our accuracy.these salary estimates are not endorsed by the hiring companies and may vary from what’s actually offered, but we have a pretty great record of getting close enough for you to make an informed decision.is this your job listing? send us feedback to correct an inaccurate salary estimate.
+

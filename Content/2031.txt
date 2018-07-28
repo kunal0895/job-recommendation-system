@@ -1,0 +1,64 @@
+
+
+
+
+owneriq - jobs: data warehouse engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data warehouse engineer
+
+data warehouse engineer
+boston, massachusetts, united states · technology
+
+descriptionowneriq, known as “the q", digitally connects retailers and brands through the power of second-party data, providing transparency, scalability, and relevancy within digital marketing. owneriq changes the way retailers, brands and e-commerce websites run their digital advertising campaigns, reaching consumers both online and in-store. the q has the largest and most transparent second-party data marketplace, called "the qniverse,” which aggregates over 1 billion online shopping behaviors of more than 200 million u.s. consumers each month from retailers, product brands and e-commerce sites. our fully integrated programmatic stack, built specifically for the needs of marketers in the retail ecosystem, enables our advertisers to leverage our partners’ 1st party data pools to power their e-commerce campaigns, retail initiatives, and prospecting programs. we are currently searching for a data warehouse engineer to join our engineering team responsible for the data warehouse that runs our $70m+ business, you will participate in all aspects of defining, creating and supporting owneriq’s in-house business intelligence platform. the owneriq data warehouse processes over 10tb per day in advertising transaction data and audience event data.  specifically, you will: translate business requirements and bug reports into working solutions while contributing to the system architecture and minimizing technical debt write high-quality, well-structured code that is maintainable and extensible work on a highly collaborative agile team with skilled teammates tackle performance and scale challenges craft innovative reporting features and solutions that significantly impact our product footprint design, create, and maintain a responsive and scalable infrastructure build and deploy continuous integration tools for gains in productivity and quality collaborate and learn new technologies to tackle new challenges  requirements bachelor’s degree in computer science or related discipline minimum of three (3) plus years’ relevant professional experience proficiency in sql-based data modeling and advance query optimization and development experience with the hadoop ecosystem - yarn, hdfs, spark, hive, sqoop experience with bi and analytics platforms (looker, tableau, etc.) experience with enterprise data warehouse platforms (prestodb, athena, snowflake, etc.) technical experience with etl/elt development source code management: git, svn java and/or scala programming experience experience with visualization technologies, nosqland/or messaging architectures familiarity with the aws ecosystem curious with a constant desire to learn new things a track record of building and shipping successful data products effective communication skills with an ability to explain technical concepts to developers, product managers, and business partners excellent problem solving and critical thinking skills ability and desire to work with a team of people solving complex problems that often require independent research with minimal supervision preferably exposure to “ad tech” industry benefits competitive base salary and bonus excellent health & welfare benefits 401(k) equity grants flexible paid vacation time + 10 paid holidays per year paid parental leave for both new mother & fathers (up to 12 weeks) fitness center onsite shuttles to north & south station close to all the action and fun seaport restaurants & bars variety of local beers on tap bagel fridays company paid lunch every month 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+owneriq
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+owneriq website
+
+powered by
+workable
+
+
+
+
+

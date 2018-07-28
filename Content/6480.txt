@@ -1,0 +1,400 @@
+
+
+
+research and development engineer in pittsburgh, pa at vitro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our talent network
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+toggle search
+
+
+
+
+
+
+
+        home
+    
+
+
+
+        our company
+    
+
+
+
+        our values
+    
+
+
+
+        featured careers 
+
+
+
+
+        engineering
+    
+
+
+
+        research and development
+    
+
+
+
+        project management
+    
+
+
+
+
+
+        all jobs
+    
+
+
+
+        join our talent network
+    
+
+
+
+
+
+
+
+
+
+
+
+
+search our jobs
+
+
+
+
+
+
+keyword:
+
+
+
+location:
+
+
+{{$parent.googleplacesautocompleteenabled ? location.description : location}}
+
+
+
+
+search
+
+
+
+view all jobs at vitro
+
+
+
+
+
+
+
+
+
+
+search our jobs
+
+
+
+
+
+
+keyword:
+
+
+
+location:
+
+
+{{$parent.googleplacesautocompleteenabled ? location.description : location}}
+
+
+
+
+search
+
+
+
+view all jobs at vitro
+
+
+
+
+
+
+
+
+
+
+
+vitro
+all jobs
+united states
+pittsburgh, pa
+other
+
+
+
+
+
+
+
+
+
+
+
+research and development engineer in 
+pittsburgh, pa 
+at vitro 
+
+date posted: 12/4/2017
+
+
+
+
+apply
+not ready to apply?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job snapshot
+
+
+
+
+
+employee type:
+full-time
+
+
+
+
+
+
+location:
+
+
+pittsburgh, pa
+
+
+
+
+
+
+
+job type:
+other
+
+
+
+
+
+
+experience:
+not specified
+
+
+
+
+
+
+date posted:
+12/4/2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job description
+the focus of this position will be in developing advanced control solutions for architectural glass manufacturing processes such as melting/forming and msvd glass coating processes. following the technology roadmap established by the technology team, he or she will lead a project team to implement the advanced process control technology and transfer the technology business wide to be used as a vehicle of the process standardization and optimization solutions.  in long term, cross business projects will be developed such as for automotive glass, chemical, and other vitro business units. building on four pillar process control technology in vitro, advanced control systems, sensors and instruments, data analytics/databases, and control networks and system security, and using breakthrough technology and disruptive innovation, the main focus of this position will be to develop the breakthrough technology platform to support vitro's growth strategy company wide. the leader of the advanced process control technology development will lead and work with a cross function team combining domain experts of the applied filed, manufacturing organization, information technology group, and external technical experts (or organizations) to deliver a practical, sustainable, and cost effective technology solutions for our business.  additional responsibilities  * responsible for identifying new ideas, innovation, technologies and updates to automation and process control of plant operations. * development of new and/or improved process control and automation technology * planning and execution of experiments related to optimizing existing technologies. * participate in the development of promising technologies into viable processes for facilities. * conduct experimental designs to optimize process performance. * participation in the full commercialization cycle * lead and identify the external technical exporters worldwide in the field to optimize research project and leverage worldwide talent.  required qualifications  * ph.d. in electrical, chemical engineering, mechanical engineering * minimum of 5 to 10 years of experience in a process control engineering role within an industrial r&d environment * familiar with model predictive control methodology * familiar with process control network and process wide data technology  preferred qualifications  * phd in electrical or chemical engineering * more than 5 years industry or similar experience * experience developing processes control system for use in the manufacture of glass or similar material * knowledge of advanced control methodologies such as mpc (model predictive control) and other control methodologies * knowledge of process control instrumentation concepts and practice * knowledge of the process database management and analysis methodologies and theory * knowledge of the glass coating and thin film on the glass and other substrate is a plus * prior project leadership or supervisory experience  the successful candidate for this position should have in-depth knowledge of the state of art technologies such as machine learning, artificial intelligence, advanced sensors and instruments, robotics and other future manufacturing technologies. he or she will also need excellent leadership quality such as communication, empowerment of people, and team player attitude.  knowledge, skills and abilities:  * effective oral and written communication skills * strong experimental skills and the ability to identify process improvements * strong knowledge of modeling techniques and tools * ability to handle multiple tasks, prioritize and work independently as well as part of a multi-disciplined team * excellent team work and collaboration skills in working with cross-functional teams across all levels * strong leadership skills with the ability to influenceequal opportunity employer minorities/women/protected veterans/disabled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+not ready to apply?
+
+
+
+
+
+
+
+
+
+check out our similar jobs
+
+industrial engineer jobs
+manufacturing engineer jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+not ready to apply?
+
+
+
+
+joining our talent network will enhance your job search and application process. whether you choose to apply or just leave your information, we look forward to staying connected with you.
+
+
+join our talent network
+
+
+
+
+
+
+
+
+
+
+
+company
+
+home
+our company
+our values
+all jobs
+
+
+
+featured careers
+
+engineering
+research and development
+project management
+
+
+
+
+1.855.887.6457 / 1.855.vtro.gls
+
+privacy policy
+terms & conditions
+
+
+
+
+
+
+
+
+
+
+
+

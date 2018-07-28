@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kendra scott - job details
+
+
+
+
+
+
+
+
+
+
+
+
+           ?
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job details job 1 of 1   apply to job   send to friend   save to cart   view similar jobs      title  senior crm data warehouse engineer   job description  about kendra scott:we are a fun, talented and driven team dedicated to providing our customers with gorgeous products and a wow! experience. family, fashion and philanthropy are at the core of our company and though we move at a very fast pace, we are committed to maintaining a family-oriented work environment and giving back to our community. a passion for great design, dedication to innovation and a strong social media presence are our building blocks for creating a unique and engaging lifestyle brand across all channels, including retail stores, wholesale accounts and e-commerce. our headquarters are located in the heart of austin, texas, and we embrace the unique vibe and energy of our hometown as an inspiration for our brand and company culture. position overview:kendra scott seeks to hire a senior data warehouse engineer to help run and maintain our data ecosystem and support the fast-growing business with the implementation of a new crm. our ideal candidate must be highly organized, detail oriented, an amazing communicator, and great at working with cross-functional teams on multiple projects.   the ideal candidate for this position will have a very strong sql background, deep analytical skills, and experience working with end users. tableau knowledge is required. the ability to do ad-hoc sql to research data questions, identify root causes, and interact closely with peers and the business data analysts is essential. responsibilities:• build, manage and support data warehouse, etl middleware and reporting interfaces• support & maintain crm & marketing data feeds & data quality• support & maintain new saas offerings with data • work with internal team and vendors on troubleshooting issues.• work with third party providers to implement new warehousing strategies• participate in meetings with various stakeholders on a regular basis and understand their vision/roadmap• engage with the business, product and engineering teams to understand their requirements and convert them to technical specifications whenever necessary• propose and prototype bi reporting solutions that are holistic (span multiple departments or enterprise wide), simple, creative, scalable and reliable• evaluate new tools and technologies on a regular basis and make recommendations as necessary• mentor the reporting team on the industry standards, best practices and optimal solutions• drive design reviews and code reviews to ensure standards are met• present the solutions to the stakeholders in a broader group setting• manage performance and scalability of current data warehouse• design, build and support data warehouse schema skills:• atlassian jira, confluence• git revision control experience preferred• expert with star and snowflake data schemas• expert sql knowledge• expert google analytics knowledge• expert with business intelligence tools (tableau, pentaho, google data studio, etc…)• expert level knowledge of data integration and familiarity with common data integration challenges like converting data types, handling errors, and translating between different technology stacks• advanced data etl using pentaho data integration• proficient in use of rest & soap web services• working knowledge of javascript, html, css• working knowledge of linux/redhat• ability to read and understand json & xml our ideal candidate will have:• bs in information systems or equivalent with a minimum of 5+ years of experience building reporting solutions from the ground up using various tools.• 10+ years of experience using sql• 3+ years of experience designing and building databases• big data experience is highly desired (hadoop, cassandra, other solutions)• understanding of omni channel commerce ecosystem• excellent analytical, mathematical, and creative problem-solving skills. • ability to interpret and translate business problems into sustainable solution recommendations.• previous business analyst experience preferred.• highly self-motivated and directed, pro-actively reporting on status and tasks. ability to effectively prioritize and execute tasks while under pressure. • adaptable. the role requires a willingness to take on tasks outside of a narrowly defined role, and ideally a desire to be multi-skilled • experience with fast moving and growing organizations, and/or that you have experience working in retail organizations understanding the priorities and nature of the services provided.   division  home office   location  home office   city  austin   state  texas   zip code  78756   removal date  18-aug-2018   apply to job   send to friend   save to cart   view similar jobs    
+
+      
+
+
+

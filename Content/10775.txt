@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+director predictive analytics - 6478
+
+
+
+
+work location
+
+
+us - or, wilsonville
+
+
+
+
+req id
+
+
+6478
+
+
+
+
+job category
+
+
+corporate marketing
+
+
+
+
+apply now
+company: mentor graphics
+job title:   director predictive analytics - 6478
+job location: us – or - wilsonville
+job category: corporate marketing
+ 
+job duties:
+the explosion of big data, machine learning and cloud computing is creating a quantum leap forward in digital marketing and forever changing the profession and reinventing how businesses communicate with prospects and deliver ongoing value to their customers. 
+siemens is well-positioned with its extensive design, simulation and lifecycle management product portfolio to enable every customer to embrace the digital revolution.  the digital transformation across all industries will 10x the total addressable market and enables us to truly empower the next generation of products that will impact all of our lives. 
+the predictive analytics director will lead our strategy to provide deep customer and partner insights to rapidly engage new opportunities, accelerate customer's time-to-product deployment, and ensure initial and ongoing customer success.
+this individual must be a thought leader and act as a change agent; driving business insights and acting as a strategic advisor and analytics coach. the role requires running and transforming the business in partnership with data scientists, architects, analysts, and developers across multiple functions, including it, finance, and sales.
+core job responsibilities
+• analyzing and recommending continuous improvements to existing data structures to enable ad hoc analysis and operational reporting designed and deployed by business analyst with our current tools of qlikview, tableau, and business objects.
+• designing and developing methodologies to normalize operational data from various marketing technology stacks to be utilized by marketing management and operations to accelerate and optimize our digital engagement with the market.
+• analyzing and ensuring optimal implementations of conforming dimensions and data integrity used by marketing and sales, including company, contact, product hierarchy, financial hierarchy, and location, across a very complex product portfolio and multiple sales channels.
+• lead the design and development of the information and data architecture of the next generation, high velocity, automated marketing technology stack - web through sales.
+• determine the area in the business process from awareness, to initial engagement, through lead to customer, which can utilize predictive analytics; from content curation, to lead scoring, to telesales script effectiveness, to territory optimization and more.
+• continuous engagement and analysis of emerging ai marketing tools and services. 
+• analyzing data with statistical methods, interpreting results, and providing written and oral summaries of results.
+• designing and executing a/b/n testing, including emerging ai tools.
+• ongoing sophisticated data mining and ad hoc analysis.
+job qualifications:
+bachelor's degree in statistics, mathematics, economics, or equivalent field.  preferred education and experience:  masters or phd in computer science, statistics, mathematics, engineering, physics.
+• highly intuitive and enjoys working with non-technical business people
+• experience working iteratively with business users and peer designers across the company to determine the best data architecture and data structure implementation to meet the business needs while moving the company bi strategy ahead
+• experience developing etl jobs, scheduling, querying sql databases and working with large data sets, multiple tables, and joins 
+• understanding of working with structured and unstructured data
+• understanding of regression, classification, clustering and other statistical/machine learning techniques
+• continuous, iterative, experimental design and analysis with business analytics to determine best choice of current options trading off scope, schedule and impact
+• experience working with a marketing organization or sales – nice to have
+• experience with one or more marketing ai solutions – nice to have
+• python – nice to have)
+ 
+all qualified applicants will receive consideration for employment without regard to race, sex, sexual orientation, gender expression or identity, color, religion, national origin, disability or protected veteran status.
+ 
+ 
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

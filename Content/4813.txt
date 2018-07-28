@@ -1,0 +1,209 @@
+
+software engineer - tooling specialist job - sensory, inc - boulder, co | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - tooling specialist
+
+sensory, inc
+     -
+boulder, co
+
+
+position title:  software engineer/tooling specialistjob code: 17-11 (gh)job location: boulder, conote: this is not a telecommute positionabout sensorysensory, inc. is a profitable, fast-growing private company that licenses cutting edge speech and vision technologies to consumer electronics manufacturers. our technologies have shipped in over two billion units from hundreds of leading consumer product companies like hasbro, lg, mattel, samsung, sony and toshiba.sensory's mission is to improve the way humans interact with consumer products by designing highly accurate, low-cost, low-current, small-footprint speech and vision solutions that work!summaryas a software engineer within sensory’s vision technologies team, you will bring your intelligence and drive to our patented and award-winning speech and vision technologies.sensory (www.sensory.com) has been a leader in providing speech recognition technologies for many of the top consumer electronics manufacturers. we recently established the vision technologies team to create innovative new products that combine sensory’s speech technology with world-class computer vision, and now our trulysecure face recognition product is rapidly gaining market share. that’s where you come in. join our team of outstanding researchers and developers located in boulder co, and you’ll have the opportunity to work on cutting-edge mobile and desktop technology, and help further drive the success of our vision products.performance objectiveshere’s what you’ll do when you join the sensory vision team:develop software infrastructure for the vision team, including internal tools and applications for:data collection, for example using javascript and webrtc to capture audio and video.data annotation, using amazon mechanical turk as an example.managing large amounts of datascaling machine learning algorithms and simulations on amazon ec2 using hadoop and apache spark.work closely with sensory’s vision researchers to understand the technologies and help bring them into the production code base.qualificationsfor us, qualifications are whatever enables you to meet (and exceed) your performance objectives. so we’re not going to specify a number of years of experience, or tell you what degree you must have. but we will give you a few thoughts on what you have probably worked on, played around with, or contemplated in your spare time:you relish working full-stack and avoid getting pigeonholed. at sensory, when we say full-stack that includes using c++ biometrics apis, making them work with android java camera/microphone ui code, developing data manipulation tools in python, and writing cross-browser javascript for data collection.you have implemented real-world solutions, probably in web applications or on ios/android devices (or both).you will be working on a wide variety of platforms (mac os x, windows, linux) and you relish the opportunity to move back and forth.you have a strong understanding of high level languages – python would be a great start, while java, objective-c, ruby, c++ or others are helpful.you care about the user experience of your applications. you understand how people interact with their electronic devices (phones, tablets, laptops and beyond) and you are always looking to improve that experience.you’ve worked in team environments before, and you appreciate the value that a team-based approach brings to solving complex problems.you understand the software development process and the tools that are typically used, and care not only about the code that is written but also the process by which we get there.you have an interest in computer vision, biometrics or other related research areas.culturethe sensory vision team uses an iterative/agile development methodology (borrowing heavily from scrum), and you will be a key contributor in the entire development cycle.at sensory, we put a great deal of emphasis on collaboration and maintaining an open working environment - having great co-workers is one of the biggest determinants for enjoying your work, and we take our enjoyment of work very seriously.your opinions matter. we're driven by technology and innovation, and we look to the smartest, most passionate people on the team as the source of ideas.cover letterif this sounds like the kind of opportunity you’ve been looking for, then we’re going to need your resume, of course, but more importantly send us a cover letter giving us a sense of why you think you are absolutely the right person for this job. tell us how and why you are going to meet and exceed the objectives above, and then we’ll tell you how we can meet and exceed your goals for a great place to work.when applying, please copy and paste the following on the “subject” line: indeed.com - job code:  17-11 (gh) software engineer/tooling specialistsensory is an equal employment opportunity/affirmative action (eeo/aa) employer.sensory’s policy for agencies, retained search firms and/or independent recruiters: please do not contact our employees directly regarding this job positing.any unsolicited resumes sent to sensory, inc. by any form of contact such as regular us mail, fax machine or emails sent directly to our employees and/or email sent to thru sensory’s website, without having a sensory, inc. agreement in place, will be considered “ *unsolicited”* and a *“ *property** ” of sensory, inc. sensory, inc. will **not** pay a placement fee resulting from the receipt of any * *unsolicited* * resumes received .contact us: if you would like to be considered as a future agency, retained search firm and/or independent recruiter vendor of sensory, inc., send us an email to careers at sensoryinc.com.in your email to sensory, please tell us about yourself, your agency and/or firm:how long you have been in business?how many clients are you currently working with?what type of service level commitment do you provide to your client?what is your area of specialty in recruiting? (e.g. sales, marketing, accounting, etc…)which specific type of industry have been recruiting for? (e.g. networking and security, financial institutions, manufacturing, etc…)your contact informationnote: again, we ask that you do not contact our employees directly by email and/or phone to introduce any candidates, with or without resumes; otherwise, all resumes will become the property of sensory, inc.if you are considered, we will contact you to put an agreement in place.job type: full-timerequired education:bachelor'srequired experience:with web, android and/or ios development: 2 yearssoftware development: 2 yearshigh level language (python, java, objective-c): 2 yearsmac, windows and linux environment: 2 years
+
+30+ days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to sensory, inc.
+
+
+
+
+
+
+other jobs you may like
+
+
+software engineer
+
+pandora media, inc. -
+					boulder, co
+2 days ago
+
+
+software engineer
+
+canonical -
+					boulder, co
+2 days ago
+
+ easily apply
+
+
+
+usip intern - software engineer
+
+unavco, inc. -
+					boulder, co
+4 days ago
+
+
+associate embedded software engineer (662253)
+
+ball aerospace -
+					boulder, co
+ball corporation - 
+					6 days ago
+
+
+software engineer: rapid prototyping and deve...
+
+cablelabs -
+					louisville, co
+4 days ago
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

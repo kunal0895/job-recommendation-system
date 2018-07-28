@@ -1,0 +1,99 @@
+
+
+
+
+job board powered by bullhorn
+
+
+
+
+
+ 
+
+
+                    dec 13, 2017
+                    
+
+
+
+
+
+
+
+
+jobs
+your profile
+login
+
+
+
+
+
+
+job #21755: developers & programmers
+
+
+
+
+
+job code: #21755
+title: software engineer
+date posted: 11/29/2017
+job location: 
+            
+            
+                raleigh
+             
+                
+            
+                north carolina
+            
+            
+
+job description:
+
+resolvit
+bringing solutions that make business better
+we are seeking a software engineer to be part of a creative, forward-thinking team. our success at deploying skilled, highly knowledgeable experts has landed us on the inc. 5000 list of america’s fastest-growing companies four times – and we’re just getting started.
+as the software engineer, you will develop and maintain software solutions by building high-quality, innovative, and fully performing software in compliance with coding standards and technical design. you will create and manage code that runs a suite of software product lines while overseeing multiple, dissimilar development projects simultaneously. you will also be responsible for ensuring that deliverables are completed on time. additionally, you will:
+
+design, modify, develop, write, and implement software programming applications
+participate in the testing process through test review and analysis, test witnessing, and certification of software
+meet with stakeholders to define project scope
+oversee projects completely, from requirements document to delivery, by reviewing user stories, creating acceptance criteria, coordinating with project manager to maintain project visibility and completion estimates, and managing change control 
+code according to designated standards and guidelines
+assign and manage project tasks, ensuring tasks are completed by assigned developers on time and in accordance with standards and guidelines
+train both colleagues and end users 
+assist in preliminary support of projects during the early stages of the release cycle
+be capable of discussing almost all aspects of the business unit’s system when required, such as during conferences
+rely on experience and judgment to plan and accomplish goals
+exhibit a wide degree of creativity and latitude
+
+what you’ll need to be successful:
+
+2-4 years of relevant experience in the software development field or a related area
+knowledge of programming languages: html, asp.net, vb.net, c#, java, javascript, and sql
+experience with microsoft visual studio and using mysql and ms sql database engines
+experience with ui development (using winforms and wpf)
+strong computer skills as well as excellent verbal and written communication skills
+organized, detail-oriented, self-motivated, and willing to develop professionally
+a strong team player with the ability to build positive and collaborative relationships within the organization
+a strong understanding of the business unit’s system, code base, and processes
+ability to work on multiple priorities and/or projects simultaneously with sufficient efficiency and quality
+ability to lead and manage the progress of a project and meet deadlines
+ability to understand complex algorithms, work under general supervision, and manage multiple, dissimilar deliverables while training others on deliverables
+
+great additional skills:
+
+bachelor’s degree in a computer science-related field is preferred
+
+we currently have more than 100 open career opportunities across the country, so be sure to mention the appropriate job code with any correspondence!
+about resolvit:
+resolvit is an international technology consulting firm with industry-leading customers in the financial services, high tech, manufacturing, retail, life sciences, and government sectors. through its partnerships, resolvit delivers highly impactful, innovative solutions across five core areas: infrastructure modernization, application development services, enterprise data management & analytics, knowledge & content management, and strategic staffing.
+
+
+
+
+
+
+

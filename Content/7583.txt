@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+careers | ochin.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      menu 
+
+
+
+
+
+company 
+
+about us
+our values
+leadership
+board
+careers
+benefits
+
+
+offerings
+members
+resources 
+
+news
+events
+publications
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+business intelligence analyst
+
+
+location:
+portland, or
+
+
+job code:
+526
+
+
+# of openings:
+1
+
+
+
+description
+ochin is currently looking for a talented business intelligence analyst to join our team!
+the business intelligence analyst supports the mission of ochin by developing, configuring, testing, maintaining and troubleshooting data services and reporting functions.  the bia will gather and translate specifications from internal and external users to help clarify their reporting needs and facilitate their use of ochin data to meet those needs. this position has a strong personal connection to our clinic membership, to our coworkers at ochin and other business partners. it demands an above average ability and desire to communicate in email, via jira ticketing response or over the phone.
+in this role, you'll be collaborating with an innovative team of people moving exciting projects forward and working to improve systems and processes along the way.
+some of the work you'll do:
+
+responsible for the execution of full lifecycle report creation, design, testing, configuration, analysis, and documentation. 
+complete work towards closing tickets, including triage, research, and communication with ochin members
+develop and update technical documentation for reporting systems.
+work and manage jira tickets independently.
+display competency in the underlying language of the assigned data system (sql, m/cache).
+design, build, test, and document project work
+ support internal and external reporting needs of the organization
+participate in process improvement efforts
+pursue relevant epic proficiencies/certification.
+act as a technical liaison between users of the ochin reporting systems and the ochin technical reporting environment
+act as a consultant to members by training end-users and providing on-going technical support, service,    and  education
+other duties as assigned
+
+qualifications:
+
+at least 3 years of professional experience, preferably in a healthcare, information technology, or related field;
+at least 1 year of experience developing reports in sap crystal reports or a similar tool. this experience should include:
+
+designing, developing and testing reports
+experience optimizing, altering, and maintaining complex reports
+working to troubleshoot problems with reports that have been developed by others
+
+
+experience with microsoft sql server and associated tools like management studio. this includes experience:
+
+developing database objects including tables, views, and stored procedures
+experience and knowledge using sql and t-sql for report development initiatives
+
+
+prefer a bachelor’s degree in computer science, engineering, information systems or a related field
+prefer experience with epic practice management and electronic health record applications
+prefer experience with epic’s clarity reporting database
+prefer experience with microsoft sql server reporting services (ssrs)
+
+attributes:
+our company culture is important to us.  successful candidates will identify easily with a set of character attributes, as listed below:
+you are…
+
+
+a communicator: you possess strong communication skills and have been told you have great customer service skills; you like people and want to help.
+
+
+a critical thinker: you have a mind that regularly looks for ways to find efficiencies, innovate, and make improvements where you can.
+
+
+process oriented: you’re able to understand, work in, create, and improve processes.
+
+
+a collaborator: you’re a team player and relationship builder whose “can-do” attitude inspires others. 
+
+
+someone who seeks to learn: you are eager to listen, study, and learn new things quickly; you are resourceful and are open to regularly accepting and growing from feedback. 
+
+
+entrepreneurial: you have proven success working in a fast-paced and changing environment; you are excited to play in a space where you’re adding value to the organization and its mission.
+
+
+about ochin:
+ochin is one of the nation’s largest and most successful health information networks. here, our goal is simple: to provide solutions that promote access to quality, affordable health care for all. our health it solutions improve the integration and delivery of health care services across a wide variety of practices—with an emphasis on safety net clinics and small practices as well as critical access and rural hospitals.
+our corporate office is located in beautiful downtown portland, oregon. working with us, you’ll find challenging projects, a collaborative team, and some of the best employee perks around, including public transportation reimbursement, an onsite gym, community volunteering activities, a generous pto package, and a dragon boat racing team! recognized as one of the top 100 nonprofits to work for in 2013-2017, ochin is committed to creating a positive and enjoyable workplace for all of its employees.
+ 
+organizational disclaimer
+job descriptions are designed to outline primary duties, responsibilities, and qualification requirements, and should not limit additional duties and responsibilities assigned. it is our expectation that all employees offer their services wherever and whenever deemed necessary to ensure the success of the organization.
+ada requirements
+constant interpersonal skills, teamwork, customer service, problem analysis, and reading, speaking, writing, and understanding english. frequent creativity, mentoring, presentations, and teaching. occasional decision making and independent judgment or action. frequent keyboarding, sitting, standing, hearing, and talking.
+equal opportunity
+ochin is an equal opportunity employer and participates in e-verify. ochin does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, or any other characteristic protected by applicable state or federal civil rights laws.
+pre-employment screening
+this position is subject to a pre-employment criminal background check, as well as a check against the office of inspector general’s (oig) exclusion list.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company
+about us
+careers
+leadership
+news
+events
+publications
+ 
+
+products & solutions
+business services
+data aggregation and analytics
+hosted and non-hosted ehr solutions
+research
+ 
+
+member links
+ochin education
+ochin wiki
+ochin helpdesk
+ochin portal
+ partners & affiliates
+o-hitec
+oregon health network
+epic
+ 
+
+
+
+
+portland headquarters
+              1881 sw naito parkway
+              portland oregon 97201
+              p: 503.943.2500
+              f: 503.943.2501
+
+
+
+
+
+
+
+
+
+
+          © 2014 - ochin • privacy policy
+
+
+
+
+
+
+
+

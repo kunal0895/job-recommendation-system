@@ -1,0 +1,195 @@
+ 
+
+
+
+
+
+
+
+
+
+junior developer / code sponge #0042 job at intuvo in scotts valley, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+
+
+
+junior developer / code sponge
+development | scotts valley, ca | full time
+
+
+
+
+
+
+job description
+
+
+is your brain a sponge?  does it soak up all things code?  tired of going to school, but love learning new languages?  ever wonder what it would be like to get paid to learn a new language or three?  it doesn't matter if you were taught by a professor, a book, or stackoverflow -- if you've got a solid coding foundation, we want to talk to you.
+we are a small, agile development team.  you'll work directly with our principal architect, front end architect, and cto to enhance existing systems and develop new ones, all while improving your existing skill set.  our code is grown in coldfusion cfc petri dishes, controlled with git (via bitbucket) and released to our angular front-end via rest interfaces.  you'll work on a variety of projects ranging from core application development to internal tool creation to bug fixes on both the front/back end.
+interested in mobile development? we’ve got that too - with a bleeding-edge twist – we leverage web technologies (javascript, html, css) to build dynamic and responsive native applications for android and ios using ionicjs.
+is this up your alley?  are you re-reading all this to make sure you don't miss anything when you apply?  we'd love to hear from you!
+requirements
+
+object oriented programming and/or scripting experience:  you've worked with some flavor of java, c, php, jsp, python, perl, javascript, etc.  it doesn't matter as long as you have a solid programming foundation, like to learn, and are willing to get your hands dirty.
+source control:  our code lives in git and is managed via bitbucket (atlassian's answer to github).  you should have hands-on experience working with something similar.  want something to do?  go setup a github or bitbucket account right now!
+rest/soap/json:  web service familiarity.  our backend systems serve up raw data via rest interfaces to our frontend systems in json format.  we shouldn't have to explain what that means.
+some sql:  you've worked with some flavor of sql.  mysql, ms sql, nosql ... again, it doesn't matter.
+experience with html5, css, bootstrap.
+strong analytical problem solving skills.
+must be driven, proactive, self-directed, detailed, and organized.
+excellent verbal and written communication skills.
+ability to work in a fast-paced environment.
+
+bonus skills
+
+coldfusion, angularjs, lucee, html, css, orm.
+unit testing.
+change management - bitbucket, jira, pipelines ci.
+ionic framework.
+experience developing crm platforms.
+photoshop or graphic slicing experience.
+
+hours/compensation
+
+full time position with health benefits, catered lunches and a membership to the one of the best gyms in the bay area (with a pool, tennis courts, indoor basketball, racquetball, weights, group fitness classes, etc.).
+our environment is set up around developer productivity including the ability to create a flexible schedule around your most productive hours, a sweet developer rig, all the monitors you can fit on your desk, and the loudest light up mechanical keyboard you can find.
+silicon valley commuters experience an excellent reverse commute.
+employees with longer commutes have the option to work remotely 1-2 days a week once fully acclimated to our environments.
+relocation assistance is possible for the right candidate.
+
+about us
+intuvo is a funded, rapidly growing start-up making marketing automation & crm accessible to medium size companies. today we're helping credit unions out-market big banks by better understanding their customers' needs and marketing to them responsibly. we're doing awesome things with coldfusion & lucee, automating thousands of print & email marketing pieces daily, syncing millions of customer records, and building deep web services.
+based at 100 enterprise way in scotts valley ca (the former borland campus), with a three-story gym, amazing grounds and epic offices, we're looking for people who are ready to work hard, play hard, and grow beyond anything they thought possible.
+to apply
+submit links to any published code and projects along with a resume in pdf format.  preference given to candidates providing a personalized cover letter highlighting why they're more than just another applicant.
+ 
+
+
+
+
+
+return to intuvo
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+
+apply for this job
+
+
+share
+
+
+
+
+
+
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to intuvo
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

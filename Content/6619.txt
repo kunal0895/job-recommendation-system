@@ -1,0 +1,449 @@
+
+
+	automation engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        in compliance with european union (eu) legislation for visitors from the eu, schlumberger requests your permission to place cookies on your computer to both improve your experience and to help us improve our website. to find more about these cookies, see the schlumberger general website privacy statement.
+
+
+
+
+
+
+						accept
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+login
+                    
+                    
+                    |
+                    register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ who we are what we do why join us?
+ 
+
+
+how we work global stewardship
+university collaboration
+ 
+
+
+frequently asked questions
+news
+ 
+
+
+recruiting and training recruiting
+training
+oilfield review
+ 
+
+
+students and recent graduates operations field positions
+maintenance positions
+field internships
+ 
+
+
+research, engineering, and manufacturing engineering and manufacturing
+research positions
+software engineer
+internships
+ 
+
+
+geoscience and petrotechnical geologist
+geophysicist
+petrophysicist
+reservoir engineer (petroleum engineer)
+internships
+ 
+
+
+commercial and business finance
+human resources
+information technology
+sales
+supply chain
+internships
+ 
+
+
+other businesses carbon services
+water services roles
+ 
+
+
+internships
+ 
+
+
+experienced professionals job search
+former military
+ 
+
+
+schlumberger
+help
+
+
+
+
+        you are here:
+        careers > experienced professionals > job details
+
+
+
+
+
+
+
+
+
+
+
+
+experienced professionals
+job search
+job details
+former military
+
+
+
+
+
+
+
+follow us on linkedin
+
+
+
+
+
+view our linkedin profile 
+
+
+
+
+
+
+
+
+
+
+
+	recruiting scams: be vigilant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        automation engineer
+                    
+
+location: houston - united states
+                    
+			
+
+
+	schlumberger has an opening in houston, texas for an automation engineer to join the soc team. the automation engineer position requires information gathering, analytics aptitude, problem-solving skills and team spirit to minimize and/or neutralize risk. automation engineer are on the "front lines" of security operations. incumbents constantly monitor the environment for signs of trouble and are often the first point of contact when a high-risk alert is issued or a suspected attack begins to affect business operations.
+
+responsibilities:
+
+	the candidate may work on any of the following:
+
+
+		security operation unit, and it systems collecting security data, searching, monitoring and analyzing machine-generated big data provide a wide variety of automated feeds into the soc. 
+
+		the team of analysts analyzes the results of these monitoring solutions, asses and correlate the output using automated systems and will conduct the triage, event correlation, classification and analysis of these events such that incidents are investigated and logged or followed-up using the existing information risk incident management processes.
+
+		the automation engineer analyze all the resolved incidents and as appropriate/possible propose to automate the resolution processes and/or to implement preventive measures to minimize or nullify the threads based on information and knowledge/experience from schlumberger and industry best practices.
+
+		onsite implementation, development internal tool set, 
+
+		working with analysts to create and deploy scripts as needed
+
+		identifying processes to be automated through use of systems and scripts
+
+		maintain awareness and knowledge of new and maturing tools and techniques for infrastructure discovery, testing, deployment automation and orchestration platforms
+
+		this position can work unsupervised, but able to interact with analysts to automate the resolution processes, and to elaborate corresponding documentation to enrich the corporate security policies and processes.
+
+		develops and maintains constructive and cooperative working relationships team members
+
+		demonstrates the ability to drive for creative, innovative ways to solve problem or minimize risk 
+
+		focused and results oriented
+
+		additional tasks and responsibilities may be required at the discretion of management
+
+		the job requires the typical physical demands of an office environment and is normally performed at the soc of houston, texas.
+
+		this position may be working in flexible hours, should expect to work early/late or we shift and public holiday.
+
+
+qualifications & experience
+
+
+		minimum bachelor’s degree in computer science, management information technology (mis), engineering or mathematics.
+
+		10 years of professional experience in information technology.
+
+		7 years of professional experience in software development
+
+		familiarity with anti-virus, intrusion detection systems, firewalls, active directory, vulnerability assessment tools and other security tools found in large network environments; along with experience working with security information and event management (seim) solutions will be a plus. 
+
+		familiarity with various network and host-based security applications and tools, such as network and host assessment/scanning tools, network and host based intrusion detection systems, and other security software packages. digital media analysis (dma) and prior computer forensics experience strongly desired, but not required.
+
+		experience with splunk to maintain and create, as needed, scripts to perform special functions or automated reports within splunk.
+
+		must have familiarity with tcp/ip services or networks and have a passion and interest for technology as well as desire to learn more about security related platforms and malcode analysis.
+
+		must possess good work habits, a strong work ethic, and be able to adhere to company work hours, policies, and standard business etiquette.  
+
+		must exemplify strong analytical kills, consensus building and strong collaboration skills are crucial. excellent communication, verbal and written skills.
+
+		azure or aws experience
+
+		powershell dsc
+
+		windows, linux, ios/android/wp, unix, oracle, sql db, java, c++, c, jquery
+
+		python/powershell knowledge [5+ years]
+
+		splunk or siem
+
+		phantom or equivalent orchestration tool
+
+		cybraics or lightcyber or equivalent machine learning
+
+		strong technical troubleshooting
+
+		networking knowledge [5+ years]
+
+		virtualization experience (hyper-v) [5+ years]
+
+		windows server roles and features (remote desktop services/vdi) [5+ years]
+
+		active directory domain services [5+ years]
+
+		candidates must be able to legally work and reside in the us, without sponsorship
+
+
+	 
+
+	schlumberger is an equal employment opportunity employer. qualified applicants are considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, status as a protected veteran or other characteristics protected by law.
+
+	schlumberger is a vevraa federal contractor – priority referral protected veterans requested.
+
+
+apply now
+
+
+
+
+
+
+
+            apply now
+        
+
+
+
+            automation engineer
+        
+
+
+            to apply, please log in above or
+            create your account.
+        
+
+
+
+
+
+
+
+applicants should have significant relevant experience to be considered for this position. recent graduates should refer here.
+
+
+
+
+
+
+
+
+
+
+
+
+why schlumberger?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+we are ranked a top 10 employer
+
+readers of woman engineer choose their preferred employers.
+
+
+
+
+
+
+
+preparing for an interview? 
+
+here are some tips.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2009 - 2017 schlumberger limited | privacy | terms |  feedback | subscribe | sitemap | www.slb.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+warning on recruitment fraud
+
+
+beware – recruitment scams on the increase!
+fraudsters pretending to represent schlumberger are sending e-mails, letters and texts offering employment to prospective employees. these offers often look legitimate and include job description, salary, and benefit details.
+these fraudsters then ask for payment to obtain visas or to process immigration documents.
+we never ask for payment to process documents, we never refer you to a third party to process applications or visas, and we never ask you to pay costs.
+never send money or pass on personal details to anyone suggesting they can provide employment with schlumberger, and never reply to an email address that does not end in @slb.com.
+
+
+
+
+
+

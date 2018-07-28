@@ -1,0 +1,60 @@
+
+
+
+
+trusted insight, inc. - jobs: data scientist - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data scientist
+
+data scientist
+san francisco, california, united states
+
+descriptiontrusted insight, the largest global professional platform for institutional investors, is looking for a data scientist to build a new set of models around alternative asset investments. this role presents a unique opportunity to learn about the exciting and lucrative world of the financial industry and is based in san francisco/bay area.types of projects you'll work on: • generate new models to classify, homogenize and cluster social and financial data (structured and unstructured data).• apply graph-based algorithms to quantify the strength of connections within components of our social graph.• improve existing models and classifiers for our news and jobs pipelines.• build new data science models to improve customer experience and engagement, and help define product strategy.• apply neural network methods for building models for selection of investments.  • present data science insights to business decision makers and suggest action items.• collaborate with engineers to implement data science models into production.requirements• 3+ years in data science• hands on/advanced experience with sql, stat packages (sas, r, etc), and common data processing/programming languages (python). • advanced degree in mathematics, statistics, operation research, computer science or other quantitative fields.• comprehensive knowledge in statistics and machine learning. • ability to explain data science insights to people with and without quantitative background.• experience with natural language processing (nlp) or text mining. • (bonus) experience with visualization libraries like d3, vega, etc. • (bonus) experience with web scrapping tools like selenium and scrapy.benefitsabout trusted insight:trusted insight is the largest global professional platform for institutional investors, with over 40,000 lp and gp members, engaging on a regular basis with trusted insight, pursuing great opportunities to connect, analyze data and ultimately syndicate deals with one another across various alternative investment asset classes. our users consist of pension funds, endowments, foundations, sovereign wealth funds, family offices, banks and insurance companies. investors on the platform, on average, manage in excess of $5 billion.trusted insight is an equal opportunity employer. all persons shall have the opportunity to be considered for employment without regard to their race, color, creed, religion, national origin, ancestry, citizenship status, age, disability, gender/sex, marital status, sexual orientation, gender identity, gender expression, veteran status, genetic information, or any other characteristic protected by applicable federal, state, or local laws.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+trusted insight, inc. website
+
+powered by
+workable
+
+
+
+
+

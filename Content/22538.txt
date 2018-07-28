@@ -1,0 +1,784 @@
+
+
+
+
+
+
+		data architect
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+data architect
+engineering – dallas, texas
+
+
+apply for this job
+
+
+
+
+department
+engineering
+
+
+employment type
+full-time, regular
+
+
+
+
+
+
+
+
+
+
+about us
+since 2011, rewardstyle has fueled the arrival of a new influence on the retail industry: professional content creators. by providing the innovative technologies, strategic consultancy and partnerships necessary to empower a global army of 13,000 premium content creators, rewardstyle is making a tangible impact on global e-commerce sales. in 2017, rewardstyle influencers are expected to drive approximately $1 billion in retail sales.
+liketoknow.it, rewardstyle's consumer-facing, ready-to-shop content platform which makes beautiful and original influencer content actionable for millions of consumers worldwide, was launched in 2014. in march 2017, the game-changing liketoknow.it app was launched, featuring a proprietary technology that allows consumers to instantly shop their screenshots of influencer-created imagery anywhere they discover it across social media and the mobile web.
+honored as one of the 50 most innovative companies in the world by fast company, rewardstyle has redirected the style publishing industry and contributed to the professionalization and financial independence of thousands of influencers worldwide, enabling them to earn meaningful revenue on their digital content, ultimately empowering them to create and grow small businesses into international brands.
+today, more than 200 team members work from rewardstyle offices in dallas, london, new york, shanghai and são paulo.
+ ________________________________________________________________________________________ 
+title: data architect
+location: dallas, texas                                   
+reports to: chief architect
+job purpose: 
+rewardstyle is looking for a data architect who is a proven technology leader.  the successful candidate will be responsible for driving our data strategy across our saas, mobile, and business intelligence platforms.   
+if your dna is dominated by technical depth, business acumen, and a desire to create delight in every customer experience; if you have a passion for driving big data decisions, creating data strategies, and influencing engineers; and if you are truly skilled in inspiring a cross-functional team along a growth journey, then this role and rewardstyle is for you!
+key responsibilities and accountabilities:
+
+
+lead the big data evolution of the rewardstyle platform, including mobile, saas, and business intelligence applications
+drive end-to-end data architecture across rewardstyle product offerings and platform services
+work with key stakeholders in multiple engineering and bi groups to drive near and long term data strategy
+provide strategic and tactical direction in the areas of data management, analytics and visualization across our entire internal operations.
+guide and inspire the teams in data science best practices, and evangelize strategic use of data throughout the business
+assisting in translating functional and technical requirements into detailed data system architecture and design, including capacity planning
+creating and enforcing database standards and best practices
+designing and developing data models, etl, data governance policies and aggregation processes
+lead the database technology decisions and manage database costs.
+be a key contributor to ensure the product is highly secure, available, scalable, resilient, and cloud ready
+bring in new innovative ideas around data practices
+influence cross-organizational leaders that can drive success for the individual development teams
+communicate effectively across multiple organizations to ensure that the teams are completely aligned to the objectives and can do the job effectively
+build strong inter-personal relationships with peers and other key stakeholders that can help smooth execution
+
+ technical / educational requirements:
+
+
+bachelors degree in computer science, electrical engineering or related field
+masters degree preferred
+10+ years dba/data engineering experience with deep understanding of aws redshift, aws rds, and cassandra, as well as caching strategies.  knowledge of percona, redis, postgresql a plus
+5+ years experience designing highly available, distributed, big data systems
+5+ years experience with large-scale data analytics and data warehousing
+demonstrated ability to drive data strategy that serve millions of people
+understanding of industry-leading technology/solutions in big data and machine learning
+a laser focus on outstanding business outcomes with effective and fast decision making that takes into account the interests of all four key stakeholders – employees, customers, shareholders, and partners
+experience in making successful trade-offs that balance the short and long term product goals
+experience using data insights for product refinement
+ability to work well through ambiguity, confidence in making tough calls and leading through adversity with a sharp focus on the eventual right outcomes
+strong knowledge of data structures and algorithms
+deep understanding of distributed systems concepts and principles
+strong understanding of system performance and scaling
+experience debugging, diagnosing, and troubleshooting complex production software
+
+  
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+references (name, company, and contact info)
+
+
+
+
+
+
+
+
+
+as a condition of employment for this position, rewardstyle requires you to be at least 21 years or older on your start date. will you meet this requirement?
+
+
+
+
+
+
+
+will you now or in the future, require sponsorship?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+dallas, texas
+
+
+department
+engineering
+
+
+employment type
+full-time, regular
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

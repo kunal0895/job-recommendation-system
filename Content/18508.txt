@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+web runtime compiler engineer careers at intel in hillsboro, or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    intel 
+
+
+
+
+explore intel
+
+
+
+
+
+
+life at intel
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+benefits at intel
+
+
+
+
+
+
+ careers at intel
+
+x
+
+
+
+
+jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+
+
+global student center
+
+explore global student center
+internships
+rotation programs
+
+other languages
+
+visit our hebrew career-site
+
+explore
+
+explore more careers
+
+
+
+
+
+
+
+
+
+accessibility 
+
+
+
+
+
+ join the talent network 
+
+
+accessibility
+
+
+
+
+x
+  menu 
+
+ jobs by functional areas
+
+engineering
+software
+information technology
+sales & marketing
+manufacturing
+
+
+ jobs by business units
+
+computer vision group
+amazing works here
+automated driving group
+data center group
+
+
+ global student center
+
+explore global student center
+internships
+accelerated leadership program (alp)
+rotation programs
+venture program
+
+
+ carees site in other languages
+
+hebrew
+
+
+explore more careers
+ explore intel
+
+life at intel overview
+innovative technology
+diversity
+education visionaries
+corporate responsibilities
+intel around the world
+explore benefits at intel
+ advice & help
+
+hiring process & tips
+candidate help desk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+› web runtime compiler engineer  hillsboro, or
+
+
+
+
+
+apply
+
+
+search all jobs
+
+
+
+
+
+apply now
+       
+
+
+
+
+job id: jr0037922
+job category: engineering
+primary location: hillsboro, or us 
+
+other locations: 
+job type: experienced hire
+
+
+web runtime compiler engineer
+job descriptionthe window os wos developer tools and runtimes team is searching for an energetic and passionate compiler engineer to join the web runtimes team! in this position, you will have the opportunity to learn, grow and excel! this is a unique opportunity to be part of a team enabling and optimizing javascript features on the latest intel architecture. this role also provides you the opportunity to work on leading industry standards and cutting edge web technologies like web assembly wasm. you will be part of an innovative project and utilize some of the latest intel technologies and help us shape the future.your responsibilities will include, but not be limited to the following:•working hand-in-hand with a group of experienced engineers to extend the pc-windows platform value in development tools and runtimes which are used to build mission critical microsoft software e.g. windows os, microsoft azure, microsoft edge web browser, sql server, office...•design, prototyping, implementation, and maintenance of features in support of core and atom architectures ranging from new instruction set architecture to code generation/optimizations for existing and future intel uarch/socs.•working with intel software and hardware design engineers and architects to shape the next generation of our processor and platform designs•carry out competitive performance analysis, root causing and bug resolution including customer bugs•interfacing with members of other tools and application teams within intel as requiredqualificationsyou must possess the below minimum qualifications to be initially considered for this position. preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. experience listed below would be obtained through relevant previous school, industry jobs and/or research experience.minimum qualifications:bachelors in computer science or computer engineering or relevant field of study with 6 years of experience or masters  in computer science or computer engineering or relevant field of study with 3 years of experience•5+ years of strong c/c++, javascript design and coding skills•strong understanding of computer architecture•strong background in compiler theory and development•strong understanding of programming languages, compiler-related data structures, algorithms and optimizations•an independent and innovative thinker who communicates well and delivers resultspreferred qualifications:•experience developing gcc, llvm based or similar compilers. hands-on experience developing compiler prototypes•experience in developing jit compilers•capable of analyzing benchmarks and application workloads to understand compilation issues and possible approaches for optimization of managed applications such as c, java, javascript•experience developing, analyzing and tuning software for power•experience should include computer architecture and microarchitecture (intel x86/x64) core and/or atom preferred)inside this business groupthe intel software and services group (ssg) connects intel to the worldwide software community. ssg strives to bring competitive advantage to intel platforms by helping independent software vendors, operating system developers, oems, channel members and systems integrators deliver exceptional customer value and achieve differentiation on intel® processor technologies. ssg provides global leadership to the software community through its technical expertise, industry enabling activities, and developer products and programs.posting statement. intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+what would you like to do now?
+
+
+
+
+
+
+
+get job alerts
+
+get started
+
+
+
+
+
+find out more about working at intel
+
+learn more
+
+
+
+
+
+jobs@intel blog
+
+learn more
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+grow your network of opportunities
+ facebook twitter linkedin glassdoor instagram intel student spot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+our commitment
+investor relations
+contact us
+newsroom
+site map
+jobs
+
+
+
+
+
+
+
+
+
+© intel corporation
+terms of use
+*trademarks
+privacy
+cookies
+supply chain transparency
+powered by smashfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,267 @@
+
+
+
+
+job application for full stack engineer - apps at cloudflare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+full stack engineer - apps
+
+        at cloudflare
+      
+(view all jobs)
+
+        austin, tx
+      
+
+
+about us
+at cloudflare, we have our eyes set on an ambitious goal: to help build a better internet. today, cloudflare runs one of the world’s largest distributed networks that powers more than 1.5 trillion page views each month across 6.5 million internet properties. more than 10 percent of all global internet requests flow through cloudflare’s network. cloudflare protects and accelerates any internet application online without adding hardware, installing software, or changing a line of code.
+our team is hard at work shaping the future of the internet by solving some of its toughest challenges. we believe in solving real problems by granting individuals and teams ownership and autonomy. if you want to make the internet better by working with talented coworkers to solve hard problems at scale, cloudflare is where you belong.
+about the department
+cloudflare apps is building the next billion-dollar app marketplace from the ground up. rather than mobile phones, our apps get installed onto cloudflare-powered websites. visit https://cloudflare.com/apps to preview apps and try your hand at building one.
+the way tools are installed onto websites and internet properties is outdated. we believe an engineer should be able to build and monetize the next great analytics, security, or even e-commerce solution and offer it to millions of sites overnight.  if what she builds is the best solution, it should be possible for her to make millions of dollars too.
+to make that dream possible we’ve built more than just a listing of apps. cloudflare apps can be customized, previewed, and installed onto any site in the cloudflare network securely and reliably. our aim is to make it possible for cloudflare apps to control every aspect of a request, and for the platform to be beloved across the internet — from personal blogs to the world’s largest enterprises.
+responsibilities
+as a member of our growing team of engineers your responsibilities include:
+
+ship product features to the millions of sites which use cloudflare every day.
+be an entrepreneur and a visionary for your portion of the platform. take responsibility for ensuring that what you build delights customers and achieves the goals of the team and the organization.
+write in any or all of javascript, css, and go, based on your interest and experience.
+work with talented peers by submitting and reviewing pull requests, engaging in design discussions, and teaming up to tackle new projects.
+advocate for how the product and the team can work better.
+
+members of our team are responsible for:
+
+building apis which are both simple and powerful allowing app developers to build tools utilizing more of cloudflare and more of the web browser.
+improving the experience of installing a cloudflare app. this includes tools like our live app preview, our app listing, ratings, reviews and app recommendations.
+creating tools and dashboards to support app creators. this includes tools for app creators to get more feedback from users, to get analytics on their app’s success, and to have a better experience creating and debugging their apps.
+working with app creators to see that their apps are easy to use, well designed, and secure.
+building open source projects to share what we learn and share the power and value of cloudflare apps.
+
+key competencies
+you are user-focused and thrive in a fast-paced and goal-driven environment. you consider building reliable and capable software to be just the first step in solving user problems. you are confident building software which works reliably because you’ve made many of the mistakes already. you’d rather ship than overengineer. you have a passion for growing yourself and your teammates and always have your sights set on getting better. you strive to have a positive impact and leave a positive impression on everyone you meet. you want to be a part of building something you can be proud of.
+this job can adapt to your knowledge and interest in backend development, frontend development, design, and growth. core experience should include:
+
+5+ years of experience developing for the web
+experience with go (or similar languages), javascript, and/or css
+track record of shipping features which work.
+great communication skills
+a kind and generous attitude towards customers and coworkers alike
+
+bonus points
+
+an appreciation and understanding of unit and integration testing
+experience with react and/or angular
+experience with relational databases such as postgresql
+experience building apis which enable others to build great things
+experience with using analytics and a/b testing to power growth in users and revenue
+
+what makes us special
+we’re not just a highly ambitious, large-scale technology company, we also have a soul. our vision is driven by a belief that the internet should be fair and open to all. without the protection of cloudflare thousands of sites, including many non-profits, would not be able to stay online. we not only provide our highest level of protection free to many of these advocacy and human rights organizations, we also provide a free tier of service to every site on the internet which choses to use cloudflare. if you believe in a free and open internet, cloudflare is the right place for you.
+this job is available in both austin, tx and san francisco, ca. relocation assistance will be provided. cloudflare is a security company. a successful background check is required for employment.
+cloudflare hires the best people based on an evaluation of their abilities and effectiveness.  we don't discriminate against employees on the basis of any other personal characteristic or any classification protected by federal, state or local law.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github account link
+    
+
+
+
+
+
+linkedin profile (optional)
+    
+
+
+
+
+
+personal website or blog (optional)
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,842 @@
+
+
+
+
+
+
+
+
+
+sr. software developer architect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+                    by continuing to use and navigate this website, you are agreeing to the use of cookies.
+                
+                
+accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+featured jobs
+customer support
+engineering careers
+finance job
+general & administration careers
+hr jobs
+    information technology job
+    legal job
+    marketing job
+netapp university/training job
+    sales job
+university recruiting jobs
+apac job
+emea job
+
+
+locations
+join talent community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+featured jobs
+customer support
+engineering careers
+finance job
+general & administration careers
+hr jobs
+    information technology job
+    legal job
+    marketing job
+netapp university/training job
+    sales job
+university recruiting jobs
+apac job
+emea job
+
+
+locations
+join talent community
+
+
+
+
+
+
+
+
+language 
+
+deutsch (deutschland)
+english (united kingdom)
+english (united states)
+français (france)
+日本語 (日本)
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+more options
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+loading...
+
+
+
+
+
+
+
+                                            title
+                                        
+
+
+all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+                        join with linkedin
+                    
+
+
+
+
+
+
+
+                            join now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+
+
+title: 
+                        
+sr. software developer architect
+                        
+
+
+
+
+
+
+
+
+
+location: 
+                        
+usa - north carolina - research triangle park
+                        
+
+
+
+
+
+
+
+
+requisition id: 
+                        
+7041
+                        
+
+
+
+
+
+
+
+
+job summaryat netapp, as a senior software developer on the solutions architecture & automation team in engineering cloud & infrastructure services, you are part of a team that is responsible for netapp's internal engineering infrastructure and services. this work will span the self-service delivery of private and public cloud infrastructure, networking, storage, applications, and platforms. the team is responsible for planning, designing and implementing end-to-end, self-service solutions, and with coordinating with internal teams and outside vendors. you will engage in large and small projects, working through analysis, design and implementation to deliver viable public/private/hybrid cloud solutions to solve netapp engineering challenges.
+ 
+summary description of the ideal candidate:
+you have a technical degree (computer science, engineering, etc.), and a long-standing passion for writing high-quality software. to you, tools and software is both science and art: it should read like a classic novel, and perform like a fine automobile. as a software technologist, you possess in-depth knowledge of modern software development techniques and practices. as a software generalist, you enjoy learning new things, and solving new challenges at scale.
+ 
+essential elements:
+- system architecture definition and design
+- software implementation and integration
+- automated testing
+- troubleshooting and debugging
+- reliability and performance analysis
+- teamwork
+ 
+
+you will work on architecture, design, and product definition that leads and influences decisions and outcomes related to project direction. as part of a team, you will:
+ 
+- act as a technical advisor and resource to other engineers, and across functions
+- work in and across the organization as well as with 3rd parties in product design efforts
+- work independently, but with a team mindset
+- solve problems in a technical environment
+- build relationships and partnerships that enhance your impact (i.e. be a force multiplier)
+ 
+this is a position requiring initiative and drive. the successful candidate will demonstrate the ability to collect requirements, design, architect, build, deploy, market, and support their solutions.
+job requirementsjob requirements:
+- self-motived, team player. dependable with a strong work ethic.
+- believes in automated testing, and is able to develop modular, layered software that performs well and is easy to understand.
+- some front-end experience preferred.
+- demonstrated ability to think strategically about business, product, and technical challenges.
+- solid working knowledge (i.e. proficiency) of infrastructure automation through devops scripting (e.g. shell, python, ruby, powershell).
+- configuration management using ansible, cloudformation, chef & puppet.
+- experience in software design and development.
+- has experience and/or interest in refactoring legacy systems to use more modern technology.
+- expert knowledge of one or more programming languages (python, javascript, java, php, perl, c) and development tools (git, svn, rally, jira, etc.)
+- knowledge of web services, server-side development, databases, and related technologies is a must. 
+- strong oral and written communication skills.
+- ability to work collaboratively with other engineers and have strong influencing and leadership skills. 
+- ability to handle multiple tasks concurrently with competing deadlines.
+- aptitude for troubleshooting and resolving issues even in unfamiliar environments.
+- experience with openstack development, system automation (chef/puppet) and/or cisco sdn technologies is a big plus.
+- ability to work on complex issues that require a detailed analysis of a variety of factors.
+- ability to work collaboratively within a team of systems architects in support of deadlines -- yet the ability to work independently, as well.
+- ability to develop longer-range project plans and schedules to complete complex projects or new product development.
+- experience in an environment that included revision control and project lifecycle tooling (agile preferred).
+- ability to perform well in very dynamic environment.
+
+responsibility and interaction:
+ 
+responsibility: 
+- the tasks this individual is responsible for are often unstructured, have wide implications and there are multiple outcomes. 
+- this individual will apply broad expertise or unique technical/industry knowledge in solving problems that are unique and extremely complex given time, budget and resource constraints.
+- demonstrate leadership and vision in determining and driving strategy decisions. 
+ 
+interaction: 
+- this individual must work effectively with staff to vice-president level employees within the function, across functions and with external parties. 
+- limited supervision is provided, as this individual can operate, drive results, and set priorities independently. 
+- the ideal candidate will be a proactive contributor and subject matter expert.
+- to be successful, this individual must demonstrate favorable results through leadership and influencing multiple individuals and groups.
+- often acts as mentor or facilitator.
+educationtypically requires a minimum of 12 years of related experience with a bachelor’s degree; or 8 years and a master’s degree; or a phd with 5 years experience; or equivalent experience.equal opportunity employer minorities/women/vets/disabled.
+
+
+
+
+
+
+
+
+
+job segment: 
+architecture, developer, product development, engineer, computer science, engineering, technology, research
+                    
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+netapp customer support ,
+    information technology job,
+human resources,
+featured jobs,
+engineering
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+netapp.com
+view all jobs
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

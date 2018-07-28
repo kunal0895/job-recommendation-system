@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+healthcare imaging technology careers | terarecon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+terarecon
+
+
+
+
+
+
+
+
+
+solutions
+customer
+
+technical support
+professional services
+training
+
+resources
+company
+
+about
+leadership
+careers
+press releases
+
+contact
+blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+intuition solutions
+
+clinical packages
+
+ct cardiac
+ct chest
+ct body
+ct head and neck
+mr cardiac
+mr body
+interventional radiology
+lung segmentation
+liver segmentation
+evar planning
+tavr planning
+maxillo-facial
+igentle
+body fusion
+volumetric navigation
+autobatch
+
+advanced visualization
+overlay pacs viewing
+universal viewing
+cloud
+
+interact+ solutions
+
+image sharing
+interoperability
+
+image strategy by role
+
+cio
+it
+clinician
+pacs admin
+
+customer
+
+techincal support
+professional services
+training
+
+company
+
+about
+leadership
+careers
+events
+
+resource
+contact
+blog
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+intuition solutions
+
+
+clinical packages ▼
+
+
+
+ct cardiac
+ct chest
+ct body
+ct head and neck
+mr cardiac package
+mr body package
+interventional radiology
+lung segmentation
+liver segmentation
+evar planning
+tavr planning
+maxillo-facial
+igentle
+body fusion
+volumetric navigation
+autobatch
+
+
+
+advanced visualization
+overlay pacs viewing
+universal viewing
+cloud
+
+
+interact+ solutions
+image sharing
+interoperability
+
+
+image strategy by role
+cio
+it
+clinician
+pacs admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+location:
+usa - durham(research triangle park), nc
+
+
+company order number:
+515
+
+
+# of openings:
+2
+
+
+
+description
+about the company
+terarecon is the largest independent, vendor neutral medical image viewing solution provider with a focus on advanced image processing innovation. terarecon intuition and interact+ solutions advance the accessibility, performance, clinical functionality and medical imaging workflow throughout many areas of the healthcare ecosystem. we provide world class advanced visualization 3d post-processing tools, as well as a spectrum of enterprise medical image viewing, diagnostic interpretation, image sharing, interoperability and collaboration solutions. terarecon is a privately-held company with its world headquarters in foster city, california, and major offices in tokyo, japan; frankfurt, germany; acton, ma; and research triangle park (rtp), nc.
+
+about the position
+we are seeking software engineers / senior software engineers to design and develop our medical image diagnostic review and general medical information viewer applications. the ideal candidate is highly motivated self-starter who demonstrates ownership, accountability and commitment to high quality deliverables. this position is located in durham, nc office.
+
+requirements
+
+2-5 to 5+ years of professional experience developing web client software.
+strong experience with html/html5, css/css3, javascript programming for complex enterprise applications.
+experience developing web applications using angularjs is required.
+familiarity and experience with typescript highly desired.
+c# / .net applications development experience. familiarity and experience with .net core is highly desired.
+restful web services development within the .net framework is required.
+solid understanding of object oriented design and programming concepts.
+experience working within agile / scrum based development processes.
+experience in medical imaging and diagnostic review software, pacs systems and knowledge of dicom and other related medical imaging standards and protocols is highly desired.
+knowledge of databases and sql programming, server and clustering technology desired.
+familiarity with working in a regulated environment (iso, fda, cmdcas and ce marking directive, etc.) is helpful.
+	 
+
+education
+
+bachelor’s degree or higher in computer science, computer engineering or related field
+	 
+
+salary: salary/depending on qualifications and experience.
+benefits: medical, dental, vision, life insurance, ltd, std, section 125, and 401k with company match.
+
+terarecon is an equal opportunity employer and a federal subcontractor. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or veteran status.  for more information, please refer to the “eeo is the law” poster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+solutions by type
+
+advanced visualization (intuition)
+universal viewing (intuition)
+overlay pacs  viewing (intuition)
+cloud (intuition)
+image sharing (interact+)
+interoperability (interact+)
+
+customer
+
+professional services
+training
+software maintenance
+
+company
+
+about terarecon
+leadership
+press releases
+careers
+events
+
+
+
+
+
+solutions by role
+
+clinician
+cio
+it
+pacs admin
+
+resources
+
+view all resources
+
+blog
+
+view latest post
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+terarecon headquarters4000 east 3rd avenue, suite 200 foster city, ca 94404 tel: 650.372.1100 fax: 650.372.1101 info@terarecon.com
+ 
+ 
+
+
+
+
+
+
+
+
+©2015 terarecon, inc. all rights reserved. privacy policy | blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+latest news
+
+
+
+
+breaking out of the box: terarecon goes beyond 3d
+
+ nov 27, 2015 4:20:00 am
+
+
+
+                    our roots in advanced visualization are the core of terarecon technology and the power-house behind our popularity.  with thousands of...read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+latest blog posts
+
+
+
+
+breaking out of the box: terarecon goes beyond 3d
+
+ nov 27, 2015 4:20:00 am
+
+
+
+                    our roots in advanced visualization are the core of terarecon technology and the power-house behind our popularity.  with...read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   // make the services drowdown hide / show the menu
+
+
+
+
+

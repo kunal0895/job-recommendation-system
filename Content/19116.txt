@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+web developer - it order management
+
+
+
+
+location
+
+
+st. louis, mo (hq)
+
+
+
+
+job code
+
+
+6280
+
+
+
+
+# of openings
+
+
+1
+
+
+
+
+apply now
+web developer - it order management
+world wide technology (wwt) is a global technology integrator and supply chain solutions provider. through our culture of innovation, we inspire, build and deliver business results, from idea to outcome.
+based in st. louis, wwt works closely with industry leaders such as cisco, hpe, dell emc, netapp, vmware and f5, focusing on three market segments: fortune 500 companies, service providers and the public sector.  wwt employs more than 4,000 people and operates in more than 2 million square feet of state-of-the-art warehousing, distribution and integration space strategically located throughout the world.  wwt is proud to announce that it has been named on the fortune "100 best places to work for®" list for the fifth consecutive year and was awarded #5 on glassdoor’s 2017 employees' choice awards, honoring the best places to work.
+world wide technology, inc. currently has an opportunity available for a web developer and or an integration developer on the order management, purchasing, and planning (ompp) team in st. louis, mo.  wwt specializes in providing its customers with supply chain services including planning, procurement, order management, and inventory management.   you will work in a fast-paced environment with a dynamic team consisting of other developers, analysts, and architects.  there are no skill silos here!  team members utilize a broad range of functional and technical skills and are encouraged to expand their functional knowledge and technical capabilities.
+job responsibilities:
+
+learn and understand wwt’s business processes around order capture, order management, purchasing, and planning, and other supply chain operations.
+follow agile development methodology, and participate in agile ceremonies along with the team.
+participate in system design discussions, and development plans.
+participate in the development and support of various web based supply chain applications.
+participate in the development and support of interfaces between various applications and oracle cloud erp.
+work closely with other developers and analysts to ensure development meets requirements and delivers optimal performance to our end users.
+collaborate with product owner and technical partners to scope the opportunities, identify constraints, and help mitigate risks.
+
+qualifications: 
+
+bachelor’s degree in a computer science, engineering, mis, or a technical related field.
+critical thinker with the capability to demystify complex technical requirements.
+excellent personal presence with proven ability to work with all levels of management internally and externally.
+highly motivated and dependable with exceptional communication skills.
+self-starter that relies on experience and judgment to plan and accomplish individual and team goals.
+have a true agile mindset, with understanding incremental delivery, understand user stories and agreeing with the concepts in the agile manifesto.
+hands-on experience with java development, including detailed software design, developing code with unit tests to implement the design and correcting flaws based on requirements testing.
+hands-on experience with developing applications, and interfaces between various applications, and oracle cloud erp, using technologies and frameworks  (not all are required) such as – java, html, javascript, css, xml, sql, pl/sql, oracle db, mongo db, php, oracle soa cloud services, soap and rest apis, web services, bpel.
+some knowledge or experience with supply chain is a big plus.
+some knowledge or experience working with angularjs, nodejs, grails is nice to have.
+some knowledge or experience with mulesoft, dell boomi, webmethods, or other integration platforms is nice to have.
+some knowledge or experience with rabbitmq, jms, or other messaging systems is nice to have.
+
+world wide technology, inc. offers excellent benefits and competitive compensation. visit our company web page at www.wwt.com for more information. 
+equal opportunity employer minorities/women/veterans/disabled
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,437 @@
+
+
+
+
+
+
+job description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+partners
+trimble worldwide
+
+service centers
+
+dealer locator
+
+
+
+
+
+
+
+
+transforming the way the world works
+
+
+
+
+
+
+
+
+
+
+
+industries
+
+
+
+
+agriculture
+
+
+
+construction& operations
+
+
+
+
+geospatial
+
+
+
+
+natural resources,utilities & government
+
+
+
+
+transportation &logistics
+
+
+
+
+all industries &applications
+
+
+
+
+
+products
+
+
+products by industry
+
+
+products by segment
+
+
+
+
+investors
+
+
+investor relations 
+
+
+financial releases 
+
+
+events & presentations 
+
+
+corporate governance 
+
+
+stock information
+
+
+financial information 
+
+
+contact us 
+
+
+
+
+support & training
+
+
+global support
+
+
+trimble protected
+
+
+get help 
+
+
+global training 
+
+
+support a-z
+
+
+order fulfillment 
+
+
+product registration
+
+
+
+careers
+
+
+trimble careers 
+
+
+search jobs 
+
+
+students & graduates 
+
+
+faq 
+
+
+
+
+about
+
+
+about trimble
+
+
+at a glance
+
+
+news room
+
+
+locations
+
+
+compliances 
+
+
+company history 
+
+
+events 
+
+
+leadership
+
+
+small business 
+
+
+technology
+
+
+contacts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+image processing engineer
+
+
+location:
+us - ga, norcross
+
+
+id:
+13401
+
+
+time type:
+regular
+
+
+# of openings:
+1
+
+
+
+description
+
+ 
+trimble is recruiting for an image processing engineer to fill an opportunity in norcross, ga.
+job description:
+beena vision – a trimble entity is the leading manufacturer of vision-based automatic wayside inspection systems for the railroad industry. beena vision has pioneered and developed a number of innovative products using sophisticated machine vision and non-contact measurement technologies.  
+beenavision is looking to hire a motivated engineer to fill a mid to high-level image processing engineer position.  the qualified applicant will join beena vision’s image processing team to work on product development s and cutting edge projects. the engineer must have at least 3 years of experience involving advanced image processing and computer vision techniques such as morphological techniques, image registration, segmentation, pattern matching, 3d techniques, and machine learning.
+responsibilities: the image processing engineer in this position will be responsible for:
+
+advanced image processing algorithm development
+real-time implementation of machine vision algorithms
+test and verification of developed system performance based on real site data
+research new algorithms to detect  and identify various components of interest in complex scene images
+improvement of existing algorithms to improve their performance
+add additional functionalities to the existing algorithms along with test and verification of the performance
+exhaustive testing of algorithm along with the supporting software before its field deployment
+code base maintenance for current systems in the field, deploy code in the field, code debugging to achieve error free operation
+use knowledge in design techniques, tools, and principles to write technical reports and take part in preparation of manuals for the products being developed
+image acquisition software and hardware development
+
+qualifications:
+
+master's or phd degree in electrical engineering, computer engineering, or related field
+deep knowledge of advanced image processing principles, theories and concept
+proven track record and strong background in successful application developments using advanced image processing  and machine vision algorithm techniques
+able to code in at least matlab, c/c++ languages
+familiarity with well-known machine vision and image processing libraries
+strong verbal/written communication skills, along with the ability to work well within a team environment
+exceptional attention to detail in algorithm development
+development project management skills are a plus 
+
+ 
+trimble is transforming the way the world works by delivering products and services that connect the physical and digital worlds. core technologies in positioning, modeling, connectivity and data analytics enable customers to improve productivity, quality, safety and sustainability. from purpose built products to enterprise lifecycle solutions, trimble software, hardware and services are transforming a broad range of industries such as agriculture, construction, geospatial and transportation and logistics.
+trimble is proud to be an equal opportunity and affirmative action employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, national origin, marital status, disability, sexual orientation, status as a covered veteran in accordance with applicable federal, state and local laws, or any other protected factor. eoe/m/f/v/d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+about trimble
+        
+
+
+trimble at a glance
+executive team
+history
+trimble companies
+events
+
+
+
+investors
+        
+
+
+investor relations
+financial releases
+annual reports
+
+
+
+
+support
+        
+
+
+support a-z
+get help
+trimble protected
+product registration
+terms of sale
+
+
+
+news room
+        
+
+
+news releases
+news room
+
+
+
+contact us
+        
+
+
+technical support
+public relations
+investor relations
+product training
+trimble locations
+sales
+
+
+
+
+
+
+privacy statement
+terms of use
+contacts
+© copyright 2017, trimble inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

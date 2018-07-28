@@ -1,0 +1,93 @@
+
+
+promedia interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+promedia careers
+
+
+
+
+
+
+	    software developer 
+	  
+ job id:  2201
+ location:  san diego, ca
+ category: 
+
+
+job description:  promedia is hiring engineers to be part of our team supporting a global technology development client based in san diego.
+
+this job does not allow subcontracting or corp to corp arrangements
+
+scope of assignment:
+ the ipit team is looking for passionate and versatile full stack software developers to help develop cutting edge applications to help manage our extensive patent portfolio.
+
+required skills:
+ • bachelors degree in computer science development in designing/migrating aws cloud based solutions.
+ • 5+ years of application development experience, including application architecture and design.
+ • experience delivering web - based technology and integration solutions to meet business needs.
+ • hands on experience with java / j2ee, spring, apache, aws elastic bean stalk, cloud formation, mysql, docker, jenkins, github, java 8.
+ • proven ability to handle multiple projects while meeting deadlines and documenting progress towards those deadlines.
+
+preferred qualifications:
+ • deep knowledge of soa and microservices architectures. 
+ • experience with soap web services and message-oriented middleware such as rabbitmq.
+ • deep knowledge of the primary aws services (ec2, elb, rds, route53, s3).
+ • experience with jenkins or other continuous integration tools.
+ • experience with web development frameworks such as angularjs, jquery etc. 
+ • experience with restful design principles and working experience with rest / json interfaces.
+
+education requirements:
+ • required: bachelor's, computer science.
+
+duration:
+•1 year+
+
+
+
+
+
+
+
+already a user ? apply now
+new user?
+
+
+
+
+
+
+
+
+
+© 2009-2010 promedia telecom, inc. all rights reserved.
+
+

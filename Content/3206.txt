@@ -1,0 +1,230 @@
+
+
+
+search for jobs -software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+location
+
+us-ca-san diego
+
+
+
+
+
+job id
+
+2017-47826
+
+
+# of openings remaining
+
+8
+
+
+category
+
+information technology
+
+
+residency status
+
+u.s. citizenship required
+
+
+clearance
+
+top secret/sci
+
+
+employee type
+
+regular
+
+
+time type
+
+full time
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+vencore is a proven provider of information solutions, engineering and analytics for the u.s. government. with more than 40 years of experience working in the defense, civilian and intelligence communities, vencore designs, develops and delivers high impact, mission-critical services and solutions to overcome its customers most complex problems. headquartered in chantilly, virginia, vencore employs 3,800 engineers, analysts, it specialists and other professionals who strive to be the best at everything they do. vencore is an aa/eeo employer - minorities/women/veterans/disabled
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+the candidate shall be responsible for the following:•providing system and software engineering analysis and artifacts in support of fcr-1/2/3 using the dod systems engineering process model. • assisting in defining and developing software capabilities.• assisting in implementing requirements with associated stories, point estimates, and other work items for each software sprint. • assisting in identifying and addressing bugs and other problems discovered during lsi development, integration and testing. • supporting the development and integration of software products using a common development environment as specified by the government lsi software integration team. • assisting in writing software to meet requirements and obtaining grid data, satellite data, text products, and other data types as required.• assisting in updating the design documentation for fcr changes. • assisting in maintaining and updating the software development plan (sdp) and other associated documentation. • participating in iterative software development events in support of software development cycles defined by the lsi. events include, but are not limited to, sprint and capability drop planning, review and retrospective events and well as daily scrums and frequent system demonstrations. • developing simulation/stimulation of dcgs-n inc2 fcr1 data sources to include but not limited to (record message traffic, metoc data, land, air, maritime and subsurface tracks, etc).
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+requires 5 to 8 years with bs/ba or 3 to 5 years with ms/ma or 0 to 2 years with phd. two years’ experience developing applications using javascript, css, rest, websocket, and html5five years’ experience developing java-based softwarefive years’ experience developing service oriented architecture (soa)-based software systemsfive years’ software engineering experience with intelligence exploitation systems or big data analyticsthree years’ experience developing with xml and jsonone year experience developing applications using big data databases (e.g. accumulo, hbase, mongodb, cassandra)two years’ experience developing dynamic applications that accesses a database backend.five years’ of software engineering/integration experience with intelligence systems to include exploitation of the performance and characteristics of signal intelligence gathering systems and their models for both us and us adversaries (this will contain incidental sci).three years’ experience with scenario creation and simulation systems in order to create replays of scenarios that replicate us and us adversaries various characteristics, their categories, threat, call sign, speed, altitude, threat emitters, intel feeds (to include open source intel), fmv, messaging, weather, etc.two years’ experience with software development/management tools using the atlassian suite (jira, confluence, stash) and git (understanding command line and/or github)certified cissp or security+bs or ms degreets/sci eligible
+
+
+
+
+
+options
+
+apply for this job onlineapplysharesubmit employee referralrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+create your talent network profile
+
+
+
+
+not ready to apply? connect with us for general consideration.
+
+
+
+
+
+
+
+share
+|
+
+
+
+
+
+
+
+
+vencore is an equal opportunity/affirmative action employer
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

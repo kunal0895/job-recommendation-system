@@ -1,0 +1,253 @@
+
+
+
+
+job application for data engineer at flexport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at flexport
+      
+(view all jobs)
+
+        san francisco, ca
+      
+
+
+flexport is a platform for global trade in an industry that comprises 12% of the global gdp.  we are the first licensed freight forwarder and customs brokerage built around a modern tech stack.  we help the world's fastest growing brands manage their international supply chains, providing a fully-managed service for moving products between any two places on the planet.
+reliable and scaleable data pipelines and data warehouse are integral in allowing us to fulfill our mission of fixing the user experience in global trade.  at flexport you’ll provide data for products that are at the forefront of reshaping the entire logistics & supply chain industries.  you’ll work alongside self-starters interested in solving real-world problems and streamlining the inefficiencies in the complex global trade industry.  
+you’ll have the opportunity to reshape an industry by creating the new operating system for global trade. started in 2013, with a total addressable market of $1 trillion, we've raised $204m from investors that include peter thiel’s founders fund, google ventures, first round capital, bloomberg beta, y combinator, & more.
+what you’ll do:
+
+create new data assets and data warehouse elements in collaboration with business stakeholders, data scientists and software engineers
+develop resilient pipelines from a variety of data sources
+implement data frameworks for tracking data quality, timeliness, and completeness
+build scraper framework processing hundreds of millions of records per day 
+take job scheduling framework to the next level using airflow
+be part of a close-knit data engineering team that ships new code every day
+
+what you’ll need:
+
+3+ years of using sql for data manipulation in a fast-paced work environment
+3+ years experience developing data pipelines using python or ruby
+1+ year of data warehousing development plus strong fundamentals
+experience with bash scripting and job schedulers
+passion for business-oriented data development
+
+what you’ll get:
+
+the opportunity to shape data engineering at agile startup
+meaningful equity in a startup growing their business 20% every month
+feature ownership - design, implement and own significant portions of data infrastructure
+
+our stack:
+our pipelines are built using python and sql, glued with bash. data warehouse is a combination of postgres and redshift. all of our infrastructure is based on aws. our bi data is only 15 minutes behind production servers.
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you authorized to work lawfully in the united states for flexport? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require flexport to commence ("sponsor") an immigration case in order to employ you (for example, h-1b or other employment-based immigration case)? this is sometimes called "sponsorship" for an employment-based visa status. *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

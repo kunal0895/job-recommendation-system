@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bay state computers, inc. - bay state computers - careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aboutpartnersnewscareerscontact ussolutionsenterprise architecturerequirements managementservicesenterprise lifecycleinformation assuranceit infrastructuretrainingupcoming classesarchitecture managementchange and configurationenterprise architecture mgmt.project and portfolio mgmt.quality managementrequirements definition & mgmt.security and compliancesoftware delivery automationtechnology salescontract vehiclesgsa it 70 schedulegsa mobis scheduleecs iiigsa alliant small businessseaport-etask ordersteam memberspoints of contactprince george's county (cats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web developer
+
+
+location:
+boston, ma
+
+
+job code:
+2918
+
+
+# of openings:
+1
+
+
+
+description
+bay state computers, inc. is a professional services firm and a leading provider of information technology (it) services and products to the u.s. federal government and industry. bay state brings together experienced it professionals and the latest state-of-the-art technology tools, practices, and products to support projects and task order requirements for our customers.  for more information about bay state visit our website, connect with us on linkedin, or follow us on twitter.
+we have an exciting opportunity for a web developer to join our team. the web developer provides daily support for existing web applications, and will participate in the life cycle of development (define, develop, test, install, and maintain) of current and new projects. the position requires an active role in the design and planning of upgrades to existing applications and the development of new applications. he or she will collaborate with other team members, management, and end-users on a regular basis. 
+key responsibilities: 
+
+manages development activities from the planning phase through the implementation phase. 
+performs analysis, design, development, testing, documentation, maintenance and support of complex applications and processes 
+assists in preparing effort and duration estimates associated with systemic enhancements 
+meets standards associated with specification development, coding, code review, unit and integration testing, and related documentation 
+offers strong organization skills
+
+required experience/skills:
+
+able to provide hands-on expertise in these areas: 
+
+verbal, written, and client-facing communication skills 
+visual studio 2005, 2008, 2010, 2013 (asp.net, vb.net, web services/wcf, web forms/mvc, oops concepts, and css) 
+.net framework 2.0, 3.5, 4.0 and 4.5 
+visual sourcesafe/team foundation server 
+sql server 2008 and 2012 developer level understanding 
+sql server management studio 2008, 2012 – developer level understanding 
+sql server reporting services 2008, 2012 
+silverlight 4
+javascript/jquery/ajax 
+linq, entity framework 
+application modeling 
+database concepts and data modeling 
+object-oriented programming principles as well as design patterns and best practices 
+
+
+prior experience: 
+
+multi-language coding 
+accessibility coding 
+responsive web design 
+version migration: asp to asp.net 
+visual studio mvc 
+silverlight 5 
+arcgis sdk for silverlight 4 
+xml processing 
+smtp interfaces 
+fundamental principles of network, infrastructure, and database design 
+application optimization 
+application integration 
+
+
+current microsoft web development certification 
+certified in mcsd
+candidate must be a us citizen
+
+benefits: full-time employees (permanent or contract employees who are employed for a term greater than 6 months) are eligible for benefits including time-off benefits, such as vacations and holidays, and insurance and other plan benefits.
+location: boston, ma
+ 
+bay state computers, inc. is an equal opportunity/affirmative action employer. all qualified candidates will receive consideration for this position regardless of race, color, creed, religion, national origin, age, sex, citizenship, ethnicity, veteran status, marital status, disability, or any other characteristic protected by applicable law.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© bay state, inc. all rights reserved
+
+
+homecontact usemployee emailintranet
+
+
+
+

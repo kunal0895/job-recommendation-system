@@ -1,0 +1,246 @@
+
+
+rocket software careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+homecareersabout rocket softwarehelpful hints for applicants
+
+
+
+ 
+
+
+search current openingsupdate your profilecreate a job agentupdate job agent
+  
+
+
+
+your user session will timeout in 5 minutes.  please click ok to continue with your application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					front end web developer intern (summer 2018)
+				
+
+
+						tracking code
+					
+
+						1083-509 
+					
+
+						job description
+					
+
+rocket software is looking for a passionate front-end engineer to help us build a next generation experience for our end-users that work with db2 on z/os. you will be developing the ui that will serve as the entry point to this new experience. you will be involved in a team that is designing a new experience for our fortune 500 customers and will be consistently challenged to produce a ui that is as simple as it can be yet sophisticated enough to help our end-users accomplish complex workflows.
+ 
+join our team and take on this unique opportunity to build an experience that can meaningfully impact and transform the way our end users do their job. 
+ 
+what you'll be doing?
+
+design, develop and optimize the new ui from the grounds up for our end-users
+work closely with our ux team to implement best practices in ux
+work closely with our sponsor customers to identify and improve problem areas in the ui.
+work closely with the full stack engineers on the team to refine and help design the correct apis required by the ui
+work with other engineering teams, internal customers, and external partners to identify new opportunities, address critical needs, and solve complex problems using your skills in design simple yet sophisticated uis
+become an expert at leveraging internal rocket resources and apis
+
+
+
+						required skills
+					
+
+what you'll bring?
+
+you are passionate about building software that matters.
+you believe in reimagining and redefining the world through software that is elegant and simple.
+you have an obsession about discovering and solving customer issues.
+you can work independently and drive results.
+you are open to new challenges, willing to learn, and thrive in an environment where problems are open-ended.
+you consider yourself in guru in html5, css3/scss and javascript and have experience in building front-end heavy applications.
+you have a strong background in well-known javascript frameworks (react, angular, d3, jquery etc.)
+you have a strong background in designing uis that react to data being pushed (web sockets, socket.io, etc.) as well as traditional designs.
+you have extensive experience working with restful apis and ajax.
+you have experience dealing with cross browser compatibility, industry best practices, and accessibility standards.
+you are a believer in responsive design principles.
+you love adding the wow factor to the uis that you build.
+
+ 
+bonus
+
+you have experience contributing or working with open source projects.
+
+ 
+why join us?
+ 
+the internship experience will provide an insider view of how a fast moving, innovative, and entrepreneurial company operates through an exciting and challenging work experience. our interns will operate as a team to design and build, from the ground up, brand new and innovative applications related to statistical analysis, and supervised machine learning.
+ 
+the “rocketship” is also designed to give you multiple opportunities to interact with members of rocket software’s executive team, an invaluable chance to showcase your skills and start building a network of professionals for future internships or post-graduate work.
+ 
+our program includes participation in a professional development program together with other interns with a goal to develop and deliver an executive level presentation to senior members of rocket software’s executive team at the end of the summer.
+ 
+rocket software inc. is committed to creating a diverse environment and is proud to be an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. rocket software inc. is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+ 
+rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities.  if you need special assistance or an accommodation while seeking employment, please call: 781-577-4321 or send an email to hr@rocketsoftware.com.  we will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+
+						job location
+					
+
+						austin, texas, united states
+					
+
+						position type
+					
+
+						intern
+					
+
+
+
+
+
+							apply
+						
+
+
+
+
+
+
+
+
+
+
+
+								connect
+							
+
+
+							who do you know at
+							
+rocket software
+
+ 
+
+
+
+
+
+								share
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					return to job listings
+				
+
+
+
+
+
+
+
+
+
+
+ contact us site map legal privacy policy 
+
+ rocket software develops, licenses, and supports enterprise infrastructure software and solutions.    rocket services customers in all geographies through our worldwide sales force, support team, and r&d labs.    our customers deploy our products in these strategic infrastructure domains: application development, application modernization, business intelligence, compliance and security, consumer productivity, database servers, database tools, file transfer, mainframe productivity, network management, publishing and search, soa and integration, storage management, terminal emulation,   and text mining. 
+ © 2012 rocket software, inc. all rights reserved.     rocket and the rocket software logos are registered trademarks of rocket software, inc.     other product and service names might be trademarks of rocket software or other companies. 
+
+  
+
+rocket software
+ 77 fourth avenue 
+    waltham, ma 02451-1468 
+t +1 781 577 4321 
+    w www.rocketsoftware.com 
+    e info@rocketsoftware.com
+ privacy policy | legal
+
+
+
+
+
+
+
+
+
+
+
+
+

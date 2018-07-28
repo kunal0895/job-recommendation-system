@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+machine learning engineer
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+cisco
+cisco jobs
+
+
+menu
+
+
+
+
+english
+|
+français
+sign in
+
+
+
+
+
+
+search jobs
+careers home
+students and new grads
+events
+stay in touch
+
+
+
+
+ 
+
+
+
+
+
+
+
+< back to search results
+
+
+
+
+
+
+
+machine learning engineer
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+location:
+san jose, california, us
+
+
+area of interest
+sales - services, solutions, customer success
+
+
+job type
+professional
+
+
+technology interest
+*none
+
+
+job id
+1219596
+
+
+new
+
+
+
+
+
+<b>what you'll do</b> as a machine learning engineer you will ideate, design, implement and optimize statistical models to drive business decisions for customer relationship management, marketing campaigns, and virtual sellers. you’ll gather business problems and data from various stakeholders in sales, marketing, it and operations and deliver machine-learning based solutions. the gvs&cs data and analytics team transforms the way we design our digital interactions with customers across the full customer lifecycle and you will build the core systems to drive precision and intelligence across all of our operations. <b>who you'll work with</b> as a member of this data science team, you will work with data engineers, data analysts and business stakeholders in sales, marketing, it and operations to process requirements and engineer solutions. the data science team focuses primarily on backend systems, with data and analytics, and works hand-in-hand with the broader customer and partner facing teams that design the digital customer experience. <b>who you are</b> you are a strong engineer and statistician with experience in applying machine learning on real-world data to solve business problems. you have experience with software development, big data systems, knowledge of machine learning and traditional algorithms, and can communicate the complexities of data science to non-technical audiences. above all, you are a creative and avid problem-solver prepared to use both classical and novel techniques to deliver advanced solutions.     <b>our minimum requirements: </b> b.s. in computer science, statistics, mathematics, or similar technical or quantitative field. ·       theoretical and practical understanding of machine learning techniques in high-dimensional spaces including linear models, kernels, ensembles, regularization, dimensionality reduction, data mining, and clustering. ·       fundamentals of algorithms and computational complexity, especially in scalable data-mining algorithms. ·       python tech stack in machine learning both local (numpy, scikit-learn, pandas) and distributed (pyspark ml, mllib) ·       good coding principles and style. ·       experience with problems and projects that depart from your average school or kaggle project. ·       enthusiasm for solving messy problems. ·       0 – 2 years of experience in machine learning. <b>desired skills: </b> ·       hadoop ecosystem fluency (mapreduce, hbase, kafka, etc.) ·       experience in apache spark/pyspark 1.5+ ·       ability to implement complex algorithms by hand (i.e. backpropagation, locality sensitive hashing, pagerank) on a distributed platform. ·       experience in high-dimensional natural language processing with preferably both shallow and deep learning methods. ·       proficiency in interactive visualizations (i.e. d3)     <b>why cisco</b> we connect everything: people, processes, data, and things. we innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. and we do it in style with unique personalities who aren’t afraid to change the way the world works, lives, plays and learns.      we are thought leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. we celebrate the creativity and diversity that fuels our innovation. we are dreamers and we are doers.      we are cisco.
+
+
+
+
+share
+
+
+
+
+share machine learning engineer with facebook
+share machine learning engineer with linkedin
+share machine learning engineer with twitter
+share machine learning engineer with google+
+share machine learning engineer with a friend via e-mail
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+apply
+
+
+
+
+
+share
+
+
+
+
+share machine learning engineer with facebook
+share machine learning engineer with linkedin
+share machine learning engineer with twitter
+share machine learning engineer with google+
+share machine learning engineer with a friend via e-mail
+
+
+
+
+
+
+job notifications
+sign up to receive notifications of similar jobs
+
+
+
+notify me
+
+
+
+
+
+
+
+
+
+
+
+
+accessibility for applicants with disabilities
+e-verify participation poster
+right to work poster
+agency portal
+
+cisco is an affirmative action and equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+                cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+
+
+
+
+jobs help
+|
+terms & conditions
+|
+privacy statement
+|
+cookie policy
+|
+trademarks
+
+
+follow we are cisco
+linkedin
+twitter
+facebook
+snapchat
+instagram
+glassdoor
+
+
+
+
+
+
+

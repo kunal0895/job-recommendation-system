@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers — mycroft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+services
+
+
+
+                professional services
+              
+
+
+
+                managed security services
+              
+
+
+
+
+
+solutions
+
+
+
+                by role
+              
+
+
+
+                by technology
+              
+
+
+
+                hosted iga
+              
+
+
+
+
+
+              partners
+            
+
+
+
+clients
+
+
+
+                customers
+              
+
+
+
+                case studies
+              
+
+
+
+
+
+latest & greatest
+
+
+
+                news releases
+              
+
+
+
+                events
+              
+
+
+
+                in the media
+              
+
+
+
+
+
+about us
+
+
+
+                history
+              
+
+
+
+                leadership
+              
+
+
+
+                board of directors
+              
+
+
+
+
+
+            careers
+          
+
+
+
+            contact us
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+services
+
+
+
+                professional services
+              
+
+
+
+                managed security services
+              
+
+
+
+
+
+solutions
+
+
+
+                by role
+              
+
+
+
+                by technology
+              
+
+
+
+                hosted iga
+              
+
+
+
+
+
+              partners
+            
+
+
+
+clients
+
+
+
+                customers
+              
+
+
+
+                case studies
+              
+
+
+
+
+
+latest & greatest
+
+
+
+                news releases
+              
+
+
+
+                events
+              
+
+
+
+                in the media
+              
+
+
+
+
+
+about us
+
+
+
+                history
+              
+
+
+
+                careers
+              
+
+
+
+                leadership
+              
+
+
+
+                board of directors
+              
+
+
+
+
+
+            contact us
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software developer
+
+
+location:
+st. louis, missouri
+
+
+job code:
+261
+
+
+# of openings:
+1
+
+
+
+description
+software developer
+ 
+position summary:
+provide analysis of business, engineering, and scientific problems, and the documentation and development of well-defined methods, procedures, and programs in the delivery of practical systems solutions.
+essential responsibilities:
+• develop software using java, tomcat or websphere, leveraging open source frameworks.
+• develop automated unit tests using junit
+• perform unit and integration testing
+• work with systems engineers to review detailed technical requirements
+• translate detailed technical into software design
+• support system testers to ensure system quality, functionality, and performance
+• support system in production
+education, experience, skills required:
+• bs in computer science or related major or relevant experience
+• 3+ years experience with java development
+• 3+ years experience with java application servers with one or more of the following:
+• tomcat
+• jboss
+• weblogic
+• websphere
+• familiar with team programming using eclipse.
+• experience with web development, client-server programming
+• experience in using frameworks and libraries including:  hibernate, and apache commons.
+• knowledge of dynamic client side scripting - javascript, json, dojo, ajax techniques.
+• knowledge of symmetric and asymmetric encryption, jce, and key management a plus.
+• experience with mysql, oracle, relational data concepts
+• experience with: http/https
+• experience trouble shooting web applications.
+• experience using configuration/testing with ant and junit
+• 1+ years experience with unix based platforms (for one or more of the following)
+• linux
+• solaris
+• aix
+• identity and access management experience a plus
+about us
+mycroft, inc. is widely regarded for its history of innovation in cyber security and it governance services – configuring, delivering and managing identity and access management, it security and regulatory compliance solutions. mycroft’s solutions integrate the company’s software and professional services expertise, and are available as enterprise implementations or private cloud-based managed services. mycroft’s cloud-based security offerings further draw on the company’s heritage of innovation, providing the necessary abstraction layer required for the delivery of controls-compliant, rapidly deployable cloud-based services. mycroft has service centers in new york, st louis, and detroit.
+mycroft offers competitive compensation and robust benefits including:
+•  insurance including medical, dental, vision, life, short/long term disability
+•  paid vacations & holidays
+•  flexible spending account plans
+•  competitive wages and outstanding incentives
+•  401k with matching
+•  growth & training opportunities
+mycroft is an equal opportunity/affirmative action employer. m/f/d/v.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+about us:historyleadershipboard of directorsnews & events partnersclientsresourcescareerssolutions for:security officercompliance officerit leadershipnetwork architectsolutions by technology:governance, compliance & riskidentity managementaccess managementhosted iga
+
+
+connect with us:
+
+
+
+
+back to top
+
+
+
+
+site map
+
+
+
+
+blog
+
+
+
+
+contact us
+
+
+
+
+privacy policy
+
+
+
+
+mycroft inc, 369 lexington ave, new york, ny, 10016, united statesinfo@mycroftinc.com
+© mycroft inc. 2015
+
+
+
+
+
+
+

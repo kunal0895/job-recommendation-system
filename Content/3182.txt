@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+synopsys - job details
+
+
+
+
+
+
+
+
+
+
+
+
+           ?
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job detailstweetjob 1 of 1   apply to job   save to cart   view similar jobs         business title  data science engineer, staff   requisition number  13818br    hiring location(s) usa - arizona - chandlerusa - arizona - tucsonusa - california - californiausa - california - folsomusa - california - irvineusa - california - mountain view/sunnyvaleusa - california - pasadenausa - california - san diegousa - california - san franciscousa - colorado - denverusa - colorado - longmontusa - colorado - westminsterusa - illinois - chicagousa - illinois - schaumburgusa - indiana - bloomingtonusa - massachusetts - bostonusa - massachusetts - boxboroughusa - massachusetts - marlborousa - north carolina - durhamusa - oregon - hillsborousa - texas - austinusa - texas - planousa - usausa - washington - bellevueusa - washington - seattle    job category  engineering   hire type  employee   job description and requirements  full-time r&d engineer to join the verification group to develop machine learning algorithms and software platform solutions for data management and deployment of solutions. we are looking for passionate, experienced software developers who can help define, build and deliver these solutions to provide our customers massive improvements in productivity. experience on development of complex software projects, familiarity with c/c++ coding, and a strong background in data structures and algorithms, distributed systems, and/or  developing and deploying machine learning solutions. has strong desire to learn and explore new technologies and demonstrates good analysis and problem-solving skills. prior knowledge and experience of cad tool algorithms and development are a strong plus.typically requires a minimum of 6+ years of related experience of which at least 2 years are related to machine learning and/or big-data architectures. position located in mountain view, ca.skill requirements: strong software development skills, including python and c++. strong computer science coursework, including machine learning, data sciences. experience with the following a big plus: machine learning libraries, e.g., scikit, nltk, mllib/spark, deep learning libraries, e.g., tensorflow, distributed databases, e.g., cassandra, mongodbeducation requirements:  ms/phd in computer science or computer engineering with required skills.    apply to job   save to cart   view similar jobs       
+
+      
+
+
+

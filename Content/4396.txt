@@ -1,0 +1,496 @@
+
+
+
+
+
+ebay for charity, quality engineer at ebay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+menu
+
+header logo
+
+
+
+
+our company
+
+
+overview
+
+
+who we are
+
+
+connected commerce
+
+
+our history
+
+
+our leaders
+
+
+our other businesses
+
+
+follow us
+
+
+contact us
+
+
+
+
+stories
+
+
+our news
+
+
+podcast
+
+
+press room
+
+
+
+
+global impact
+
+
+overview
+
+
+ebay foundation
+
+
+powering giving
+
+
+greener commerce
+
+
+responsible practices
+
+
+government relations
+
+
+archive
+
+
+
+
+investors
+
+
+overview
+
+
+events
+
+
+annual reports & sec filings
+
+
+financial releases
+
+
+financials & metrics
+
+
+corporate governance
+
+
+board of directors
+
+
+stock information
+
+
+information request
+
+
+contact investor relations
+
+
+receive notifications
+
+
+
+
+join our team
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+
+life at ebay
+
+
+meet our people
+
+
+our benefits
+
+
+
+
+students & recent graduates
+
+
+how we recruit
+
+
+contact careers
+
+
+job search results
+
+
+
+
+
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+			career information
+		
+
+
+
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+engineering at ebay
+
+
+students & recent graduates
+
+
+meet our people
+
+
+
+our benefits
+
+
+how we recruit
+
+
+contact careers
+
+
+
+job search results
+
+
+
+
+
+
+
+
+
+
+
+
+keyword
+
+
+
+
+locations
+
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+    this website uses cookies to enhance your experience. by continuing to browse the site, you agree to our use of cookies.x
+
+
+
+
+ebay for charity, quality engineer
+portland, oregon
+
+apply
+
+requisition number r0020926 subsidiary ebay
+looking for a company that inspires passion, courage and imagination, where you can be part of the team shaping the future of global commerce? want to shape how millions of people buy, sell, connect, and share around the world? if you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join ebay – a company you can be proud to be a part of.looking for a company that inspires passion, courage and imagination, where you can be part of the team shaping the future of global commerce? want to shape how millions of people buy, sell, connect, and give around the world? are interested in making the world a better place by helping charities raise millions of dollars to support their missions? if you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join ebay – a company you can be proud to be a part of.we are seeking a highly motivated software engineer, who can contribute in the role of quality engineering. you will be working on the ebay for charity engineering team, delivering best in class experiences to our customers, charity partners, and fundraisers. this position requires the candidate to collaborate with folks in other disciplines and partner teams, specifically product management, product development, analytics and business. the candidate is expected to be a self-starter and team player, and a strong driver for results and continuous improvement. the primary responsibility is owning quality engineering for assigned product features. the strategy would first identify key aspects from a test perspective and then answer questions like how, when and where these key aspects will be applied (automation, scripts, manual).responsibilitiesdefine overall test strategy for assigned featuresestimate testing effort, prioritize projects, plan implementations and help rollout changesdefine automation strategy and ensure testabilitywrite best in class code to automate testing for your assigned feature areasdevelop deep understanding of the product, engineering processes, tools and concepts in order to effectively narrow down defects. ability to not only find a defect but also to narrow it down to the root cause.participate in test design and test systems architecture discussions, propose and discuss solutions to system and product changes that are related to domain areadocument defects effectively and work with development team to triage and troubleshoot defectscoordinate testing across multiple teamsparticipate in product and technology initiatives and recommend improvementswork with other qe engineers, product managers, and product developers to ensure that product specifications describe innovative solutions that meet market needs with respect to functionality, performance, scalability, and reliability, and result in achievable implementation schedules and a product that meets agreed-upon quality standardsidentify process or technology challenges and deficiencies that need to be addressed and drive those changes to successful adoptionidentify project risks, dependencies and be able to provide alternatives yielding reduced riskjob requirementslooking for a customer-focused, resourceful, detail-oriented, adaptable, and flexible individual. the ideal candidate will have solid technical background and ability to provide technical leadership. your background will include successful collaboration in cross-functional teams to deliver products of excellent quality which achieve the business goals. you must be a proactive and effective communicator, both verbally and in writing.in addition, you must possess:experience developing and/or testing java and restful/soa service based applicationsexperience developing and/or testing spring batch and web service appsexperience with testing tools and test frameworks developmentfamiliarity with load and performance testing and pitfallsexperience with leading projects and delivering them on-time with an excellent quality8+ years experience in java, requirements analysis, design and testing of scalable, distributed fault-tolerant applicationsexperience with jenkins ciexperience with seleniumproficiency with source control management such as gitexperience with oracle, mongodb, hadoop and being able to read and write sql scripts is a plusstrong background in math, statistics, machine learning, information retrieval, distributed systems and scalable data processing is a plusdemonstrates an exceptional customer focus, ensures that provided solutions accurately reflect the real needs and uses of the end usersmscs/msee highly desirable, bscs or bsee or other four-year degree in a relevant field is requiredthis website uses cookies to enhance your experience. by continuing to browse the site, you agree to our use of cookiesview our privacy policyview our accessibility info
+r0020926
+
+
+save job
+remove job
+
+apply
+
+ebay inc. is an equal opportunity employer, dedicated to workforce diversity. all qualified
+	applicants will receive consideration for employment without regard to their protected veteran
+	status and will not be discriminated against on the basis of disability or long term unemployment
+	circumstances. if you are unable to submit an application because of incompatible assistive
+	technology or a disability, please contact us at talent@ebay.com. we will make
+	every effort to respond to your request for disability assistance as soon as possible.
+
+
+
+
+share this job
+
+linkedin
+facebook
+twitter
+email
+
+
+
+
+
+
+
+
+
+global impact
+
+
+
+
+
+diversity & inclusion
+
+
+
+
+
+our company
+
+
+
+
+
+meet our people
+
+
+
+
+
+explore more about this opportunity's location.
+        view map
+
+
+
+
+
+
+your saved jobs
+you have not saved any jobs.
+
+
+recently viewed jobs
+you have not viewed any jobs.
+
+
+
+sign up for job alerts
+
+receive new career opportunities as soon as they become available!
+xsubscribe
+
+emailareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationaddsoftware qe, portland, oregon, united statesremoveremoveupload resumeremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+home
+
+
+our company
+
+
+stories
+
+
+global impact
+
+
+investors
+
+
+join our team
+
+
+
+
+copyright © 1995-2017 ebay inc.
+all rights reserved.
+
+terms
+			|
+			privacy policy
+			|
+			accessibility
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,278 @@
+
+
+
+
+
+
+software engineer - intermediate in pittsburgh, pa - upmc enterprises
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+working here
+
+opportunities
+
+
+
+upmc enterprises
+
+
+curavi health
+
+
+ovation
+
+
+
+pensiamo
+
+
+prodigo solutions
+
+
+via oncology
+
+
+cavulus
+
+
+evolent health
+
+
+health catalyst
+
+
+health fidelity
+
+
+lantern
+
+
+medcpu
+
+
+rxante
+
+
+vivify health
+
+
+xealth
+
+
+
+
+upmc enterprises main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data analytics
+
+
+
+
+
+product
+
+
+
+
+
+engineering
+
+
+
+
+
+leadership & operations
+
+
+
+
+
+students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer - intermediate
+
+
+description  purpose:the primary role of this position is to work with members of management, senior software engineers, and third party partners to define and deliver prototype software that demonstrates feasibility, performance, utility, and user experience. the position will include collaborating on the definition of software development efforts, collecting requirements, developing code, creating documentation, and deploying a working system. implementation tasks could include a wide span of computer software including web service/site design to, embedded mobile applications. the role will require a broad background in computer science, the application of many different programming languages, a complete set of programming/debugging skills, ability to adapt and change, and an aptitude for continuous learning. the candidate will be able to expand their role into defining and leading new software projects which will deliver significant impact.responsibilities:
+
+application design and programming: proficient in at least one procedural programming language. codes simple to moderately complex application components based on design specifications. performs routine/simple maintenance and problem resolution on software applications. exhibits working knowledge of development tools such as source control and build practices. designs new reports and/or reporting protocols for new applications.
+apply fundamental principles of the java language or comparable web application development tools to write, compile, and execute simple web components: the concept of encapsulation and how it applies to data, function, and objects. how objects send messages to one another. create a use case from a business problem domain description. associate actors with use cases. identify classes of objects in the system. allocate behavior to objects based on the business. develop uml sequence diagram and class diagrams for a use case. use the commonly used operators in a java program. understand java's object model. create and use an interface. do basic input/output (i/o) operations needed to read files.
+candidate must be highly motivated to follow project management, systems/software processes, measurement disciplines, and process improvement (cmmi) to improve product and services quality to achieve business objectives.
+communicate project activities, statuses, accomplishments, and strategic direction with executive management both orally and in written communication.
+evaluate new hardware and software products and technologies and participate in project assessments as necessary.
+implementing packaged solutions - power user capabilities: transfer data between different devices, peripherals and applications. perform basic installation, configuration, and troubleshooting of software applications. create and edit documents using basic to intermediate functions of software applications. manage files and subdirectories. connect to the system using hardwired and wireless peripherals and devices. apply basic security measure and tools, including updating security applications.
+implementing packaged solutions - user support and training: select hardware and software components that are appropriate for business applications. transfer data between different devices, peripherals and applications. perform basic installation, configuration, and troubleshooting of software applications. create and edit documents using basic to intermediate functions of software applications. manage files and subdirectories. connect to the system using hardwired and wireless peripherals and devices.
+interface with peers throughout upmc to develop a strong working relationship between all groups within the upmc system. seek opportunity to provide assistance and wherever possible thereby increasing overall service and reducing cost through elimination of duplicate/redundant efforts.
+partner with all peers and team members in project planning and resource allocation.
+project management skills: plans and manages own work effort. documents and communicates issues associated with own work. apprises project manager of status, schedule variances, and outstanding issues. balances quality of work with deadlines and budget. suggests ways to better accomplish assigned tasks. manages workload to meet project timelines. controls project costs and communicate any project-related expenses to project manager.
+promote and participate in professional self-development to stay up to date with new technologies and development approaches within the industry.
+provide technology and operational support to members of management as necessary. this includes the development of detailed project plans for all major requests.
+systems analysis: drafts technical requirements and designs specific modules or programs within a larger system under direction of an experienced systems analyst. assists with creating prototype designs for low-risk projects. documents existing workflow/current business processes. may use case tools.
+web / e-business applications development: basic knowledge of object-oriented technology. know process for developing applications using object technology, and how it differs from traditional approaches to application development.
+working with members of management and senior software engineers on a daily basis to provide status updates, recommendations for improvements, and other inputs of a world class engineering development organization.
+qualifications  bachelors degree in computer science, computer engineering, electrical engineering, or a related field from an accredited university, or has acquired core software development skills and knowledge via practical experience prefer 3 + years of experience in complex development environments, taking abstract concepts and ideas and formulating a detailed software engineering plan to deliver. experience using, developing, and managing for linux, unix, and/or microsoft windows systems. highly proficient in programming preferred (c, c++, java, and python, and flash) proficient in network programming, sockets, rpc systems, web protocols, jquery, html5. basic knowledge with web site construction and management. basic knowledge of matlab or similar packages. demonstrated increasing responsibilities including the ability to develop significant software projects. must be able to work independently as well as in small groups to problem solve. high initiative and be self-motivated to exceed expectations. ability to work in and support a team based environment. prefer experience in a research environment or similar type of work environment.licensure, certifications, and clearances:upmc is an equal opportunity employer. minority/females/veterans/individuals with disabilities
+
+apply
+
+
+
+
+
+
+
+
+
+
+location: pittsburgh, pa, united states
+job id: 615185
+										
+
+upmc is an equal opportunity employer.
+minority / females / veterans / individuals with disabilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+upmc enterprises main
+view your application
+eoe
+contact us
+privacy policy
+terms of use
+
+
+
+
+
+upmc enterprises, bakery square suite 200, 6425 penn avenue, pittsburgh, pa 15206 | 412-864-4942
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

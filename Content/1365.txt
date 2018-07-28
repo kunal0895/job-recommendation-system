@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - software engineer, prod dev - career
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+software engineer, prod dev - career
+
+
+				apply
+			
+
+
+
+job number:
+								12190
+						
+
+position title:
+
+
+external description:
+the technical lead will be responsible for researching and evaluating new technologies and guiding the technical efforts of the team to leverage them as they apply to solving our business unit objectives. the lead will be responsible for ensuring that the best technical approach and practices are applied in all phases of the application lifecycle as it pertains to these newer technologies as well.  this person will leverage rapid prototyping techniques to try and demonstrate these new technologies to both the business and technical teams. *this is not a remote position*duties & responsibilities shall include:research & developmentunderstand emerging technologiespresent and recommend technologies to address business needs, scalability, performance, technical debt, etc.prototype newer technologies in a sandbox environmentapplication developmentperform application technical design write efficient and maintainable code  responsible for maintaining codebase quality of the project including but not limited to performing code reviews of other developer's work identify out of scope' issues and assist project managers in securing contract amendments before continuing work on such issuesbe responsible for the functional integrity and proper operation of all assigned systemscollaborate with programmers and product development team in the design of all assigned systems; maintaining equifax design and development standardskeep technical skills and knowledge of equifax technologies and service offerings current assist with determination of project time and resource requirementsoversight of application qualitylead the team to integrate test driven development and automated quality assurance testingwork within an agile team to provide technical directionperform code reviewstechnical guidance/support for team membersprovide technical training and/or mentorship to development staffact as a resource for technical questionsact as a technical representative of team to other business unitsprofessionalismthorough technical knowledge in software development methodologies, design and implementation excellent analytical and design skills at multiple product level, excellent skills in research and analysis, project planning and implementation maintain the highest level of integrity, courtesy, respect, and professionalism while interacting with, project team members, equifax employees, and business contactsrequired technical skillsbachelor's degree in business, software engineering or computer science and 6-9 years of technical experience in software design and product support intermediate to advanced level of experience in utilizing agile scrum or kanban for software developmentextensive experience with developing for the windows environment extensive experience with object oriented programming experience in data ingestion, data transformation, analytics and big data preferredadvanced use of sql and stored procedures 7+ years of experience working with c#experience of enterprise .net technologies, frameworks, libraries and tools (visual studio, c#, asp.net v4, ms sql server, entity framework, wcf)agile development experience (iterative development, continuous integration, user stories, test driven development).experience with test driven development and testing frameworks for automated quality assurance testing.experience working with and leading offshore teamsprimary location:usa-st. louis-lacklandfunction:function - it product engineeringschedule:full time
+						
+					
+						
+city:
+								st. louis
+						
+
+location_formattedlocationlong:
+								st. louis, missouri  us
+						
+
+state:
+								missouri
+						
+
+community / marketing title:
+								software engineer, prod dev - career
+						
+
+company profile:
+
+
+requisition number:
+								j00051717
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+lead java developer
+
+leeds, uk-yh
+
+senior developer - big data
+
+alpharetta, ga
+
+software engineer
+
+st. louis, mo
+
+ui developer
+
+atlanta, ga
+
+product owner,  specialist
+
+alpharetta, ga
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

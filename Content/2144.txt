@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+careers - it specialist data network design engineer | cgi.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+ 
+
+
+
+
+
+
+experience the commitment®
+
+
+ 
+
+
+careers sitesglobal careers sitevisit our careers sites by countryaustraliabelgiumbrasilcanadaceská republikadanmarkdeutschlandestoniaespañafinlandfranceindiaitalyluxembourg
+malaysiamarocnederlandnorgephilippinespolskaportugalscotlandslovenskosverigeunited kingdomunited stateswales 
+
+
+
+languageenglishfrenchgermanportuguesespanishswedishdutch
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career home
+
+search current opportunities
+activate career alerts
+my profile
+read faq
+
+
+
+global sites
+
+industries
+services
+solutions
+key topics
+
+
+
+
+
+
+languageenglishfrenchgermanportuguesespanishswedishdutch
+  
+
+
+ 
+
+
+
+  
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+career search
+
+
+
+
+search current opportunitiessearch by geographyactivate career alertsread faq
+
+
+
+my profile
+
+
+
+
+log in
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+it specialist data network design engineer
+
+
+cgi-experience the commitment
+
+
+
+
+      
+
+to display this page you need a browser with javascript support.
+
+
+
+
+find similar career opportunities
+
+
+category:
+development/engineering
+
+
+city:
+
+        sacramento, california, united states
+        
+
+
+position id:
+j0917-1686
+
+
+employment type:
+
+        full time
+        
+
+
+
+
+
+
+
+
+position description:
+the role will include network data transport project implementation and operational support.  the individual must have recent experience with designing and maintaining large facilities level multiple building, datacenter, mdf, idf, and network transport design.  they must have a deep understanding of core network infrastructure, workplace network distribution, campus level building-to building data transport, and metro wan design concepts.the candidate must be technically proficient with network infrastructure equipment including: switches, routers, firewalls, voip, hubs, bridges, gateways, etc.   they must understand wan interconnectivity, circuit technologies, routing protocols (bgp, ospf, layer 3 switching) and hardware support including cisco nexus 7k, 6500, 4500 & 3850, 3750 switches, and wireless access.  they must be highly skilled with ip networks, subnets, routing, voice pbx, voip, dns, dhcp technologies.  they must have ability to manage and implement medium to large sized projects, develop documentation, and providing as-built documentation for data transport and datacenter network layouts.they will also need to have a good understanding of wintel, open systems and storage network sub-systems.they must have excellent written and oral communication skills.the position will be required to define requirements and design data transport specifications for network technology projects. the individual will need to demonstrate a working history of collaboration with business, applications, systems, storage, dba, and cybersecurity teams for solutions development.the client is a defense contractor so familiarity disa and an existing dod security clearance is preferable.
+
+
+your future duties and responsibilities:
+the selected candidate will work across from project managers, network, applications, systems, storage, dba, and cybersecurity teams to develop and implement solutions that fit with the clients needs as well security requirements.the selected candidate will work across projects and operations, but with a primary focus on technology projects and part of a projects team that includes architectural, systems, datacenter, and connectivity design responsibilities.
+
+
+required qualifications to be successful in this role:
+minimum of 8 years experience with wan, lan, and data transport systems including:	mpls, t1, and pri circuits 	cisco voip systems and legacy pbx switches	isdn, video and teleconference systems	cisco technology switches	cisco wireless controllers and access pointsdesired knowledge, skills, abilities and certifications:	four-year degree or equivalent combination of education and experience.desired knowledge, skills, abilities and certifications:	two-year degree or technology program, or an equivalent combination of education and experience	two or more of the following certifications:	a+ certified	net+ certified	security+	microsoft mcp in a current microsoft supported os	microsoft mta	redhat rhcsa	itil v3 foundations
+
+
+what you can expect from us:
+build your career with us.it is an extraordinary time to be in business. as digital transformation continues to accelerate, cgi is at the center of this changesupporting our clients digital journeys and offering our professionals exciting career opportunities.at cgi, our success comes from the talent and commitment of our professionals. as one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. all of our professionals benefit from the value we collectively create.be part of building one of the largest independent technology and business services firms in the world.learn more about cgi at www.cgi.com.no unsolicited agency referrals please.cgi is an equal opportunity employer. qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, pregnancy, or other status protected by law. cgi will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with cgis legal duty to furnish information.
+
+
+
+have you been referred by a cgi member for this position?*
+yes
+no
+
+
+
+
+cgi members email (@cgi.com)*
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+ 	i agree to allow cgi to contact the cgi member who referred me to obtain additional information about my application and to confirm my referral. * 
+
+
+
+* this field is required.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+in the us, cgi is committed to a policy of equal employment opportunity. we recruit, employ, train, compensate, and promote without regard to race, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity and gender expression, familial status, political affiliation, genetic information, or any other legally protected status or characteristics.cgi is committed to the principles of equal employment opportunity and to compliance with us laws and regulations.  click here to access our us eeo/affirmative action policy.applicants have rights under federal employment laws:eppafmlaconsolidated eeo is the lawif you need an accommodation in order to complete the application process, click here.we make it easy to translate military experience and skills!  click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+at cgi, you will find a stimulating environment with exciting opportunities and plenty of variety to evolve your skills and lay a strong foundation of experience.our promise to you:you will be respectedyour initiatives will be encouraged - we call this "intrapreneurship"your career and professional development will be our top prioritiesyou will be remunerated based on merit and performanceyou will constantly learn, no matter how experienced you areyou will be treated equitably and without discrimination with respect to employment equitythere's always room for you to grow at cgi - that is our commitment to you.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

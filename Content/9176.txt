@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+look beyond the ordinary
+
+careers overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+location:
+draper, ut
+
+
+
+description
+
+at proofpoint, we have a passion for protecting people, data, and brands from today’s advanced threats and compliance risks. we hire the best people in the business to:
+
+build and enhance our proven security platform
+blend innovation and speed in a constantly evolving cloud architecture
+analyze new threats and offer deep insight through data-driven intel
+collaborate with customers to help solve their toughest security challenges
+
+we are singularly devoted to helping our customers protect what matters most. that’s why we’re a leader in next-generation cybersecurity—and why more than half of the fortune 100 trust us as a security partner.
+
+
+the role 
+do you have a passion for applying machine learning to hard problems in new application areas? do you keep up with the latest on gans, resnets, cnns, rnns, and deep reinforcement learning but have also mastered the classics like svm and random forest? are you looking for the opportunity to work with a great team that combines algorithm design, software engineering, and domain knowledge into products that are first of their kind? if so, we are looking for you. we need a data scientist who will work on a cross-functional team to help uncover cyber threats hidden in large amounts of data. your primary focus will be applying your skills in various areas like nlp, graph mining, computer vision, and predictive analytics to help us build products for a variety of cyber security needs.
+your day-to-day 
+
+feature engineering, building and optimizing classifiers, applying machine learning and deep learning expertise
+blending data from disparate sources, mining the resulting data lake to build models
+contributing tested code to the team’s git repo and working with engineering to implement models efficiently
+processing, cleansing and verifying integrity of data used for analysis
+conducting ad-hoc analysis and innovation around data visualization  
+
+what you bring to the team
+
+ excellent understanding of machine learning algorithms, processes, tools and platforms including:
+
+supervised methods - naïve bayes, logistic regression, svm, convnet, lstm, siamese networks, etc.
+unsupervised methods - k-means, dbscan, t-sne, spectral clustering, som, lsh, etc.
+toolkits - numpy, scipy, scikit-learn, tensorflow, pytorch, keras, genism, vowpal wabbit, etc.
+python proficiency
+
+
+great communication skills, ability to explain predictive analytics to non-technical audience
+proficiency in data exploration techniques and tools, e.g. sql, hive, etc.
+excellent statistics, linear algebra, and optimization skills
+ms in statistics, machine learning, applied physics or computer science (or technical degree with commensurate industry experience). phd preferred
+
+
+why proofpoint
+as a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the proofpoint team. we believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. as we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! we are a multi-national company with locations in 10 countries, with each location contributing to proofpoint’s amazing culture!
+#li-dnp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proofpoint is an equal opportunity employer and welcomes applications from all qualified individuals regardless of race, sex, disability, religion/belief, sexual orientation or age.
+proofpoint does not accept unsolicited resumes from external recruiters or employment agencies. in the absence of a signed recruitment services agreement, proofpoint will not consider or agree to payment of any recruiter or agency fee. in the event a recruiter or agency submits a resume or candidate without a previously signed agreement, proofpoint explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+view search results or all job openings
+
+
+new search
+
+
+
+
+
+
+
+

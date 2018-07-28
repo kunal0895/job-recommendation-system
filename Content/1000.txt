@@ -1,0 +1,380 @@
+
+
+senior data engineer (5552) jobs in portland metro area or | database engineer job recruiters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              home
+            
+
+
+about
+
+
+
+                team
+              
+
+
+
+                company
+              
+
+
+
+
+
+              staffing
+            
+
+
+consulting
+
+
+
+                engineering services
+              
+
+
+
+                business services
+              
+
+
+
+
+
+            careers
+          
+
+
+
+            blog
+          
+
+
+
+              info
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              home
+            
+
+
+about
+
+
+
+                team
+              
+
+
+
+                company
+              
+
+
+
+
+
+              staffing
+            
+
+
+consulting
+
+
+
+                engineering services
+              
+
+
+
+                business services
+              
+
+
+
+
+
+            careers
+          
+
+
+
+            blog
+          
+
+
+
+              info
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+ new search
+ sign up
+ login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+evo solutions
+http://cdn.haleymarketing.com/templates/61683/logos/evo-linkedintoday-white80x150.jpg
+http://www.evosolutions.com
+
+
+
+
+
+senior data engineer (5552)
+
+
+
+
+
+portland metro area, 
+                        or
+
+
+                
+                    
+                     | consulting
+
+
+
+post date: 12/11/2017
+2017-12-11
+job id: jn -122017-5552
+industry: database engineer
+
+
+
+
+
+
+job description 
+
+
+
+
+evo is seeking a senior data engineer for our beaverton client. this contract opportunity is scheduled to be 1-year.duties:
+build data pipelines using hadoop ecosystem components such has hive, spark & airflowautomate analytic platform solutions hosted in aws, leveraging aws managed services of emr, s3, lambda, kinesis, sns & sqsleverage your sql, programming, and scripting skills in a distributed computing environmentbuild secure and highly available software solutions for high-performance, reliability and maintainabilitywork in a collaborative environment that rewards innovation, problem solving and leadershipimplement full devops culture of build, test automation with continuous integration and deployment
+skills and requirements:
+bachelors in computer science, or related technical discipline with a business intelligence and data analytics concentrationpassion for big data and analytics and understanding of hadoop distributionsgood understanding of architecture and design principlesanalytical and problem-solving skillsexposure to new cloud technologies/tools/frameworks, particularly awsexposure to streaming technologies like kafka, aws kinesis etc.experience in programming languages like java, python, scalaexperience with sql and sql analytical functionsknowledge of no-sql databasesexperience provisioning restful api s to enable real-time data consumptionknowledge of statistical analysis and machine learning is nice to haveexcellent written and verbal communication skills
+not a fit for you, but know someone that might be? refer them! we have a great referral program where you can earn up to $375 per referral. find out more at www.evosolutions.com/refer.applicants must be fully authorized to work in the u.s. and physically be in the u.s. corp-to-corp requests will not be entertained. relocation assistance will not be available for this position.evo is an equal opportunity employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, disability, veteran status, sexual orientation, gender identity, or any other protected factor.
+
+
+
+
+
+ apply online
+
+
+
+
+
+ apply online
+
+
+not ready to apply?
+ apply later
+
+
+send an email reminder to:
+email address
+
+
+
+
+
+
+
+
+
+
+share this job:
+
+
+
+
+
+
+related jobs:
+
+
+    
+    
+        there are currently no related jobs. please sign up for job alerts.
+    
+    
+
+ loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+back to top
+evo, 6800 sw 105th avenue, suite 206, beaverton, or 97008, usa503-946-6636support@evosolutions.com
+evo     6800 sw 105th avenue, suite 206     beaverton, oregon, 97008     503.946.6636     support@evosolutions.com | privacy policy
+
+
+
+
+
+

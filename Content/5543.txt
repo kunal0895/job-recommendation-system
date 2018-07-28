@@ -1,0 +1,737 @@
+
+
+
+
+
+
+
+
+
+
+
+contributor operations research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers home
+
+about us 
+
+people & culture
+university recruiting
+total rewards
+growth & learning
+
+
+
+featured locations 
+
+europe, middle east & africa jobs
+asia & south pacific jobs
+latin america & caribbean jobs
+north america jobs
+poland jobs
+india jobs
+
+
+
+featured jobs 
+
+technology jobs
+technology sales jobs
+software development jobs
+intern jobs
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+careers home
+
+about us 
+
+people & culture
+university recruiting
+total rewards
+growth & learning
+
+
+
+featured locations 
+
+europe, middle east & africa jobs
+asia & south pacific jobs
+latin america & caribbean jobs
+north america jobs
+poland jobs
+india jobs
+
+
+
+featured jobs 
+
+technology jobs
+technology sales jobs
+software development jobs
+intern jobs
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+ create alert
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contributor operations research
+
+apply now »
+
+
+date: 
+dec 2, 2017
+                
+
+
+location: 
+southlake, tx, us, 76092
+
+
+company: 
+sabre
+
+
+req id: 15968
+job family: 5258
+ 
+sabre is the global leader in innovative technology that leads the travel industry. we are always looking for bright and driven people who have a penchant for technology and want to hone their skills. if you are interested in challenging work, being part of a global team, and solving complex problems through technology, business intelligence and analytics, and agile practices - then sabre is right for you! it is our people who develop and deliver powerful solutions that meet the current and future needs for our airline, hotel, and travel agency customers.
+job description the research sr analysts assists in developing prototypes to demonstrate new concepts for travel retailing, including developing statistical and optimization models for advanced decision making in travel. the position also consults with and provides guidance to a number of departments and senior management on advanced technical issues.
+ 
+responsibilities
+ 
+-  understand the underlying business problem
+-  work with others (and learn to) extract and manipulate needed data, summarize the data with advanced statistical techniques, and design and test optimization models
+-  conducts logical analyses of complex to highly complex management problems, management information requirements and formulates mathematical models of problems for solution by computer
+-  works with others to develop mathematical models of problem areas in one or several equations that relate constants and variables, restrictions alternatives, conflicting objectives and their numerical parameters
+-  works with developers to create a prototype to illustrate new ideas resulting from data analysis and optimization ideas
+ 
+job requirements desired experience
+ 
+we require knowledge in two to three of these areas, and some job experience is a big plus
+-  machine learning techniques, such as deep learning neural networks, random forests, boosting
+-  optimization modeling (linear programming, dynamic programming, nonlinear optimization)
+-  large-scale data analysis and statistical modeling, using r or python
+-  java, c++, javascript, cloud computing
+ 
+education
+
+ 
+at sabre, we are fortunate to have the resources of a large company paired with the culture of a startup. our company culture includes casual work environments, employee amenities, flexible work arrangements, and exceptional learning opportunities. and, you will be surrounded by intelligent team members who you will be proud to call your peers.
+ 
+reasonable accommodation
+sabre is committed to working with and providing reasonable accommodation to applicants with disabilities. applicants applying for a sabre position with a disability who require a reasonable accommodation for any part of the application or hiring process may contact sabre's employee relations department at employee.relations@sabre.com
+ 
+affirmative action
+sabre is an equal employment opportunity/affirmative action employer and is committed to providing equal employment opportunities to minorities, females, veterans, and disabled individuals. eeo is the law
+ 
+stay connected with sabre careers
+   
+
+
+
+nearest major market: dallas
+                    
+                        nearest secondary market: fort worth
+                    
+                
+
+job segment: 
+developer, java, cloud, business intelligence, technology
+                    
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+technology jobs in southlake,
+technology jobs,
+north america jobs,
+developer jobs in dallas,
+business intelligence jobs in southlake
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+careers home
+top jobs
+jobs by category
+view all jobs
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

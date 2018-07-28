@@ -1,0 +1,497 @@
+
+
+
+
+
+data scientist / applied researcher at ebay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+menu
+
+header logo
+
+
+
+
+our company
+
+
+overview
+
+
+who we are
+
+
+connected commerce
+
+
+our history
+
+
+our leaders
+
+
+our other businesses
+
+
+follow us
+
+
+contact us
+
+
+
+
+stories
+
+
+our news
+
+
+podcast
+
+
+press room
+
+
+
+
+global impact
+
+
+overview
+
+
+ebay foundation
+
+
+powering giving
+
+
+greener commerce
+
+
+responsible practices
+
+
+government relations
+
+
+archive
+
+
+
+
+investors
+
+
+overview
+
+
+events
+
+
+annual reports & sec filings
+
+
+financial releases
+
+
+financials & metrics
+
+
+corporate governance
+
+
+board of directors
+
+
+stock information
+
+
+information request
+
+
+contact investor relations
+
+
+receive notifications
+
+
+
+
+join our team
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+
+life at ebay
+
+
+meet our people
+
+
+our benefits
+
+
+
+
+students & recent graduates
+
+
+how we recruit
+
+
+contact careers
+
+
+job search results
+
+
+
+
+
+
+
+press tab to begin typing your search or press escape to close.
+
+
+
+search site
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+			career information
+		
+
+
+
+
+
+start your search
+
+
+find jobs by category
+
+
+find jobs by location
+
+
+
+engineering at ebay
+
+
+students & recent graduates
+
+
+meet our people
+
+
+
+our benefits
+
+
+how we recruit
+
+
+contact careers
+
+
+
+job search results
+
+
+
+
+
+
+
+
+
+
+
+
+keyword
+
+
+
+
+locations
+
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+    this website uses cookies to enhance your experience. by continuing to browse the site, you agree to our use of cookies.x
+
+
+
+
+data scientist / applied researcher
+san francisco, california
+
+apply
+
+requisition number r0018577 subsidiary ebay
+looking for a company that inspires passion, courage and imagination, where you can be part of the team shaping the future of global commerce? want to shape how millions of people buy, sell, connect, and share around the world? if you’re interested in joining a purpose driven community that is dedicated to creating an ambitious and inclusive workplace, join ebay – a company you can be proud to be a part of.the seller insights team at ebay strongly believes that within ebay’s vast store of transaction and behavioral data, lies the key to helping our community of 25 million sellers grow their business. we are looking for highly talented applied researchers to help unlock this value. we build algorithms for a wide range of seller-facing problems including listing quality, identification of key opportunities for sellers to improve the performance of their existing inventory, and discovery of new areas where sellers can effectively grow their business. we use state-of-the-art big data infrastructure like hadoop and spark to process petabytes of data, run machine learning algorithms in python and r, and build our production services in java and scala. come and help us apply data science to make ebay sellers across the world successful.as a member of our team, you will be tasked with delivering end-to-end solutions starting from combing petabytes of data to find key insights, evaluating and improving state-of-the-art machine learning solutions, building reliable and high performance production-quality systems, and collaborating with broader team to create compelling experiences that help our sellers.requirements:ms or phd in computer science, statistics, mathematics or equivalentwell versed in machine learning, information retrieval, applied statisticsexperience in solving problems using data science and building practical solutionshands-on industrial experience with big data processing using hadoop, pig/hive or similarfamiliarity with java, c++, scala, python or other programming languagesknowledge of rdbms and nosql products a strong plusstrong analytical skills and data-driven decision makingstrong thought leadership with quick grasp on how data and insights can be turned into valuable featuresstrong interpersonal, communication, and collaborations skills to partner with and influence othersagility to adapt to emerging challenges and execute under ambiguityebay inc. (nasdaq: ebay) is a global commerce leader including the marketplace, stubhub and classifieds platforms. collectively, we connect millions of buyers and sellers around the world, empowering people and creating opportunity through connected commerce. founded in 1995 in san jose, calif., ebay is one of the world’s largest and most vibrant marketplaces for discovering great value and unique selection.this website uses cookies to enhance your experience. by continuing to browse the site, you agree to our use of cookiesview our privacy policyview our accessibility info
+r0018577
+
+
+save job
+remove job
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+share this job
+
+linkedin
+facebook
+twitter
+email
+
+
+
+
+
+
+
+
+
+diversity & inclusion
+
+
+
+
+
+meet our people
+
+
+
+
+
+global impact
+
+
+
+
+
+our company
+
+
+
+
+
+explore more about this opportunity's location.
+        view map
+
+
+
+
+
+
+your saved jobs
+you have not saved any jobs.
+
+
+recently viewed jobs
+you have not viewed any jobs.
+
+
+
+sign up for job alerts
+
+receive new career opportunities as soon as they become available!
+xsubscribe
+
+emailareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationadddata science and analytics, san francisco, california, united statesremoveremoveupload resumeremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+home
+
+
+our company
+
+
+stories
+
+
+global impact
+
+
+investors
+
+
+join our team
+
+
+
+
+copyright © 1995-2017 ebay inc.
+all rights reserved.
+
+terms
+			|
+			privacy policy
+			|
+			accessibility
+
+
+
+ebay.com
+press room
+follow us
+contact us
+
+search website
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,144 @@
+
+
+
+
+nice incontact careers - sr. software engineer - data lake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    nice incontact careers                                            
+
+
+
+
+
+
+
+                sr. software engineer - data lake
+    
+    
+
+                            r&d / engineering            
+                    salt lake city,
+                            utah
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+sr. software engineer – data lakelocation: salt lake city, utabout the teamthe incontact data lake team is on the leading edge of cloud development.  we are using aws to build the new infrastructure software that powers the business intelligence analytics for over 6 billion customer phone calls per year.  we are looking for a full-time engineer to join the team who wants to be part of this exciting opportunity to build the future technology platform for incontact.what we’re looking for in a senior aws engineer:passion and an entrepreneurial spirit for finding simple and sustainable solutions to complex problems. ability to work within an agile-inspired methodology to own and continuously deliver cloud-native software that is responsive, scalable, testable, automated, and sustainably managed. we are looking for engineers who are pragmatic and objective in their selection and use of technology frameworks and languages (i.e. best tool for the job). as a contributing team member on our agile team, you will design, develop, and test relevant proof of concepts that could grow into production-ready products. you will be able to investigate new technologies and services to utilize in our data lake platform.  you will also be able to influence our product backlog and sprint planning, and will participate in daily scrum meetings and produce daily increments of software. about 80% of your time will be writing beautiful code designed for scale and performance, implemented with best practices and patterns, and quantifiable through tests.  you will spend the remainder of your time in design sessions; assisting other software engineers; or working with qa, system, and network engineers and architects to ensure a complete and sustainable software release that meets high quality standards.   finally, you will have the opportunity to learn new skills through training and on-the-job experience to grow your career.to land this gig you'll need:bachelor’s degree in computer science, business information systems or related field or equivalent work experience is required.6+ years experience in software developmentproficiency with object oriented programmingexpertise in the following software languages: python or javanosql database modeling and design in a public cloud environment; aws dynamodb preferredworking knowledge of cloud storage solutions; aws preferredserverless computing experience; aws lambda preferredrestful service design, documentation, and implementation experience; aws api gateway experience preferredmaximize the benefits of logging, monitoring, error tracking, and alerting; aws cloudwatch preferredmeaningful experience with messaging/distributed logs; aws kinesis and sqs preferredexperience developing and deploying applications in docker containers and scaling them in production; aws ecs and elb preferredleverage a successful balance between security, access control, and auditing capabilities in the public cloud; aws iam, aws config, and aws key management preferredworking knowledge of user stories and use casesexcellent communication skillsexcellent problem-solving skillsteam playerenthusiasm to work on the latest cloud-based servicespassion for quality software, unit testing, automation testing, integration testing, and test code coveragepassion for learningbonus experience:experience with hadoopexperience with jiraexperience working in an agile development environmentunderstanding of microservices architectureabout incontact: incontact makes it easy and affordable for organizations around the globe to create stand-out customer experiences while meeting key business metrics. incontact continuously innovates and is the only provider to offer a complete customer interaction platform in the cloud that is flexible, scalable and reliable for enterprise, small business, government and business process outsourcers. incontact is a part of nice (nasdaq: nice), the worldwide leading provider of both cloud and on-premises enterprise software solutions.
+            
+                            
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

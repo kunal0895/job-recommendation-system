@@ -1,0 +1,133 @@
+
+
+machine learning engineer | zulily
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jobs by department
+who we are
+perks & benefits
+locations
+shop zulily
+
+
+
+
+ 
+
+
+
+
+
+
+
+back to technology positions
+
+
+
+						machine learning engineer					
+
+													seattle, wa, usa											
+
+						requisition: 155110					
+
+
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+zulily is a retailer obsessed with bringing our customers something special every day. unique products from up-and-coming brands are featured alongside favorites from top brands, including clothing, home decor, accessories, toys and gifts, giving customers something new to discover each morning at an incredible price. we are fast-paced, innovative and metric-driven, with a team passionate for delighting our customers. whether you want to work with incredible product selection, develop smart marketing plans, help us in our pursuit of faster fulfillment, or do something else awesome in between, we have a place for you. with locations in seattle, reno, columbus and bethlehem, our team is excited to be changing the way people shop every day - and we are just getting started. 
+
+we have an immediate need for a machine learning engineer. as an engineer at zulily, you are chartered with building the technology that powers the second fastest growing online retailer in history.  our incredible growth means we face new challenges on a consistent basis.  in this position, you must explore new technologies and collaborate with other engineers to design and build world-class technical services.  your team deploys production code rapidly to keep pace with zulily’s changing business, you are mindful of avoiding technical debt, and you take ownership of your team's roadmap and everything you do. 
+ 
+essential job functions
+
+collaborate across business teams (stakeholders) 
+operate and provide 24/7 services to internal and external customers (mom and zuteams)
+research new technologies to support build vs. buy and rapid growth of the business (build vs. buy)
+design in a mindset of reducing technical debt
+consistently delivers work with started timelines
+ 
+
+qualifications
+
+bachelors degree in computer science or related field required. a combination of education plus equivalent work experience may be considered.exposure to software development experience building and operating high traffic web services and platformsfamiliarity with frameworks such as mllib, scikit-learn, h2o, torch, tensorflow, theano, caffeexperience with spark, hadoop, pig, mapreduce technologiespast history with amazon web services a plus
+ability to work in a fast paced, evolving, growing and dynamic environment
+excellent written and verbal communication skillsdemonstrated personal initiative and strong ownership of deliverablesability to explore new ideas and have a passion to make them happen 
+
+zulily is an equal opportunity employer
+zulily participates in e-verify. zulily will provide the social security administration (ssa) and, if necessary, the department of homeland security (dhs) with information from each new employee's i-9 to confirm work authorization.
+federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. please tell us if you require a reasonable accommodation to apply for a job. examples of reasonable accommodation include making a change to the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. you may reach us at (206) 388-0920. 
+
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+				©2017 zulily, llc
+			
+
+shop zulily
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+
+web security research analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            web security research analyst        
+
+
+
+
+
+
+
+
+
+ return to job opportunitiesjob detailslevel experiencedjob location scottsdale - scottsdale, azposition type full timeeducation level nonesalary range $50,000.00 - $0.00 salary/yeartravel percentage nonejob shift dayjob category information technologydescription about sitelock:
+sitelock is the global leader in website security, currently protecting more than 12 million websites globally. sitelock delivers 360-degree website security solutions to find, fix and prevent malware and other threats from affecting websites and their visitors. services include malware scanning and vulnerability detection, automatic malware removal, an advanced web application firewall (waf), as well as website acceleration powered by a global cdn. sitelock also provides website support services that are available 24/7/365.
+we were recently awarded the best of cool award for our great culture by bestcompaniesaz and are one of the best places to work as awarded by the arizona business journal. we are the fastest growing software company in arizona two years in a row per deloitte’s fast 500, and are looking for talented, success-driven people to join our growing team.
+ 
+we offer our employees a casual and upbeat work environment along with an extensive benefits package that includes: 
+medical, dental, and vision benefits
+15 days of pto and 7 paid holidays
+401k program
+company-paid life insurance
+short and long term disability coverage
+fun team building events and activities
+free food - catered breakfast on monday, lunch on friday and snacks
+new hire training and ongoing learning opportunities
+career growth opportunities
+ 
+position overview:
+the web security research analyst leads the effort to improve the effectiveness of smart by managing the malware signature queue to ensure new signatures are incorporated in the product in a timely manner. in addition this position will help educate our customers by publishing security related articles in the sitelock blogs and researching potential vulnerabilities in common products and plug-ins.
+ 
+position responsibilities:
+the web security research analyst will take a proactive approach to identifying security risks to our customers. responsibilities for this position will include:
+decode and determine intent of suspicious code.
+create and deploy code snippets to catch suspicious files.
+deploy signatures in a timely, coordinated manner.
+clean site infections of malicious seo spam.
+review partial signatures and create regular expressions that will safely clean malicious code.
+submit new malicious sites and code to signature queue.
+create tools to automate tasks.
+educate customers by writing timely blog posts on the latest malware and security trends.
+continuously analyze wordpress and other software, top plug-ins and themes to identify potential security risks.
+research sources of infections to identify additional signs of infection.
+stay abreast of the latest web, wordpress, and general security related developments.
+qualifications to apply, please send your application to rwilson@sitelock.com!
+position requirements
+overall understanding of programming and server-side scripting, proficiency in php.
+comfortable with the linux command line and regular expressions.
+one (1) to two (2) years experience and/or training pertaining to internet security; or equivalent combination of education and experience.
+ability to work without supervision and to make appropriate decisions.
+ability to process work with accuracy, with attention to detail.
+ability to maintain confidential information.
+ability to work well in a team environment.
+clear written and verbal communications.
+ return to job opportunities 
+
+
+
+
+first time user?
+create account
+
+
+
+returning user? please sign in!
+
+
+sign in
+
+forgot password?
+
+ 
+
+
+we are sitelock
+
+
+ 
+sitelock team members
+
+
+ 
+people, products, progress
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

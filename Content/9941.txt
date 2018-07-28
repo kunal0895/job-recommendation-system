@@ -1,0 +1,214 @@
+
+data scientist (spark) job - deepiq.co - houston, tx | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist (spark)
+
+deepiq.co
+     -
+houston, tx
+
+
+we are an exciting big data startup helping our clients do great things with their data. our big data platform build over the open source technology stack allows us to deliver world-class analytic solutions to our customers up to 80% faster than traditional approaches. the startup is led by some of the world’s leading experts in big data and advanced analytics with multiple years of startup and corporate executive leadership experience. if you are passionate about data and enjoy solving business problems with analytics/visualization, then we have the right job for you! to our clients, we are committed to excellence in our technical work and generating extraordinary value for their investment. for our employees, we are committed to providing an ideal work life balance and a great place to do high quality work, learn new skills and grow in their career. we will provide you an opportunity to leapfrog your technical career by working in a startup environment with the salary/perks and security of an enterprise job. for the current role, we are looking to hire multiple full time employees or contractors at all seniority levels to help us on a multi-year long engagement with a customer based in houston, texas. the ideal candidate should have professional experience as a data scientist but if you have very strong software development and analytical skills and a masters or higher degree in computer science degree, we will be happy to consider you for an entry-level data scientist position.job responsibilitiesuse machine learning techniques to develop predictive models for analyzing highly noisy structured, unstructured and time series datadevelop models that scale to big data leveraging technologies including spark mldevelop data cleansing and transformation algorithms leveraging sparkuse statistical methods for feature computation and selectionwork with data engineers to cleanse, integrate and model datatransfer the developed models to our software platform and help in model calibrationrequired qualificationsms or phd in computer science/statistics/ related disciplines with specialization in data mining or machine learning techniquesknowledge of both supervised and unsupervised machine learning techniquesbackground in nlp or text mining techniques is a plusbackground in deep learning is a plusproficiency in python and associated machine learning packages is a must.experience in pyspark is a nice to haveexperience in hadoop ecosystem including hive, pig and sqoop is a nice to haveexperience in at least one other programming language like javaexperience with unix/linus operating system and shell programmingexcellent communication and problem solving skillsattention to detail and passion for qualityexperience working in a team based environmentexperience working in an agile/fast paced work environmentexperience with version control (git, mercurial)job type: full-timerequired education:master'srequired experience:supervised and unsupervised machine learning algorithms: 1 yearexperience in python and related scientific computation packages like scikit-learn/numpy/pandas: 1 year
+
+30+ days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to deepiq.co.
+
+
+
+
+
+
+other jobs you may like
+
+
+campus hiring data scientist i
+
+pros. -
+					houston, tx
+26 days ago
+
+
+chief data scientist
+
+clearpoint -
+					houston, tx
+2 days ago
+
+
+lead data scientist
+
+invesco -
+					houston, tx
+12 days ago
+
+
+pricing / data scientist
+
+square one resources -
+					houston, tx
+21 days ago
+
+ easily apply
+
+
+
+data scientist
+
+burgeon it services -
+					houston, tx
+10 days ago
+
+
+
+
+
+ 
+
+
+
+
+                        deepiq.co
+
+
+                we are an exciting big data startup helping our clients do great things with their data. 
+if you are passionate about data and enjoy...
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+
+

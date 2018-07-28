@@ -1,0 +1,616 @@
+
+
+
+
+
+
+careers | ambernet technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+login
+
+
+
+
+
+
+
+
+
+cloudtruops
+services
+
+service consulting
+professional services
+
+
+about us
+
+management team
+partners
+
+
+resources
+
+cloud blog
+support
+news & events
+careers
+
+
+contact us
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+cloudtruops
+services
+
+service consulting
+professional services
+
+
+about us
+
+management team
+partners
+
+
+resources
+
+cloud blog
+support
+news & events
+careers
+
+
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				careers			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				ambernet careers			
+
+
+
+
+
+				join our team			
+
+
+
+
+employees are our most important asset. it is a pleasure to work hard and play hard at ambernet. to be successful, you need to be a hard worker, obsessively focused on quality, and love to go the extra mile. creativity, innovation, quality in deliverables, and timeliness are always rewarded. in consultation with industry experts, we have put together a unique reward & recognition program for our employees including:
+
+stock options
+health and dental insurance
+country specific retirement plans (e.g. 401(k), superannuation, etc.), and
+year-end bonuses based on individual and company performance
+
+ambernet is currently hiring experienced business analysts, solution architects, test analysts, test managers, and software developers for consulting positions in asia. most of these positions require travel within asia. to apply, please send your resume to human resources.
+the ambernet software services team consists of specialized product, industry, technology, process and software professionals who provide key value-added consulting services and solutions that solve it business problems. ambernet project managers and solution architects work together to define the customer solution with customer and systems integrator staff. the ambernet team is able to execute projects as the customer advocate (representing the customer), or as a sub-contractor to the prime contractor. cloud projects typically involve the implementation of ambernet’s product – cloudtruops. ambernet project managers and product experts provide cloud assessments of customer it environments, and develop the most expeditious plan to implement and configure cloudtruops within the customer environment.
+
+
+
+
+
+
+
+
+
+				open postions			
+
+
+
+
+
+
+
+software engineer — cloudtruops — bangalore, india (20 positions)
+ 
+
+
+sr. software engineer – cloudtruops
+as a software engineer you design, develop, configure, unit test and document software components and interfaces that become an integral part of our cloudtruops product. you stay abreast of software development best practices, architectures, and design patterns, and enjoy learning new concepts and technologies on a continual basis. you communicate ideas, concepts, techniques, and issues clearly with peers and with management. you are detail oriented and passionate about writing high quality re-usable software components and interfaces.
+essential duties and responsibilities
+
+understands requirements and use cases through team interaction (workshops, jad sessions, meetings) and interaction with customer/partner representatives.
+develops project artifacts such as design documents, unit test plan, unit test summary report, engineering test plan, engineering test summary report.
+designs, develops, debugs, and troubleshoots software code and scripts.
+tests (unit and engineering integration test) software code and scripts.
+conducts code reviews or participates in peer code reviews.
+mentors junior software engineers in software engineering best practices, design patterns, etc.
+fixes assigned software defects.
+assists technical writers in the development of system manuals, guides, and release notes.
+
+skills & abilities required
+
+a total of 4-6 years experience designing and developing complex software applications using java ee and hibernate is required. do not apply if you don’t have at least 3 years of java ee experience.
+experience with linux/unix, application servers (tomcat, jboss, weblogic, or websphere), postgres/oracle dbms, hibernate, xml/xslt/xquery, jboss-seam/weld, jbpm, rabbitmq, spring, gwt, gxt, and jbpm is highly desirable;
+knowledge and development experience with cloud and virtualization technologies is highly desirable;
+knowledge and development experience with protocols: tcp/ip, snmp, telnet, ssh, ftp, soap etc. is desirable;
+experience with agile is highly desirable;
+ability to work with a team spread across multiple geographic locations;
+proven communication skills, both written and verbal;
+uses professional concepts and works on problems where analysis of situations or data requires review of a variety of factors;
+experience with source code control and bug tracking systems;
+
+education required
+
+bachelors or masters degree in computer science, electrical engineering, or related discipline.
+
+special job condition/physical requirements
+
+general office environment.
+must be able to work 3-4 hrs each day overlapping with north america est timezone .
+
+to apply, please email your resume to hr@ambernettech.com with subject: “cloudtruops engineer”.
+ 
+sr. software test engineer – cloudtruops
+as a software test engineer you design, develop, configure, unit test and document test suites for cloudtruops. you stay abreast of software test automation best practices, and enjoy learning new concepts and technologies on a continual basis. you communicate ideas, concepts, techniques, and issues clearly with peers and with management. you are detail oriented and passionate about writing high quality re-usable software test components and interfaces.
+essential duties and responsibilities
+
+understands requirements and use cases through team interaction (workshops, jad sessions, meetings).
+develops test automation code using selenium.
+designs, develops, debugs, and troubleshoots software code and scripts.
+conducts code reviews or participates in peer code reviews.
+mentors junior software engineers in software test best practices, etc.
+fixes assigned software defects.
+performs manual testing if required.
+assists technical writers in the development of system manuals, guides, and release notes.
+
+skills & abilities required
+
+a total of 4-6 years experience designing and developing test automation using selenium or other similar tools.
+knowledge and development experience with cloud and virtualization technologies is highly desirable;
+knowledge and development experience with protocols: tcp/ip, snmp, telnet, ssh, ftp, soap etc. is desirable;
+experience with agile is highly desirable;
+ability to work with a team spread across multiple geographic locations;
+proven communication skills, both written and verbal;
+uses professional concepts and works on problems where analysis of situations or data requires review of a variety of factors;
+experience with source code control and bug tracking systems;
+
+education required
+
+bachelors or masters degree in computer science, electrical engineering, or related discipline.
+
+special job condition/physical requirements
+
+general office environment.
+must be able to work 3-4 hrs each day overlapping with north america est timezone .
+
+to apply, please email your resume to hr@ambernettech.com with subject: “cloudtruops test engineer”.
+
+
+
+
+
+
+
+software engineer — cloudtruops — dallas, tx (5 positions)
+ 
+
+
+sr. software engineer – cloudtruops
+as a software engineer you design, develop, configure, unit test and document software components and interfaces that become an integral part of our cloudtruops product. you stay abreast of software development best practices, architectures, and design patterns, and enjoy learning new concepts and technologies on a continual basis. you communicate ideas, concepts, techniques, and issues clearly with peers and with management. you are detail oriented and passionate about writing high quality re-usable software components and interfaces.
+essential duties and responsibilities
+
+understands requirements and use cases through team interaction (workshops, jad sessions, meetings) and interaction with customer/partner representatives.
+develops project artifacts such as design documents, unit test plan, unit test summary report, engineering test plan, engineering test summary report.
+designs, develops, debugs, and troubleshoots software code and scripts.
+tests (unit and engineering integration test) software code and scripts.
+conducts code reviews or participates in peer code reviews.
+mentors junior software engineers in software engineering best practices, design patterns, etc.
+fixes assigned software defects.
+assists technical writers in the development of system manuals, guides, and release notes.
+
+skills & abilities required
+
+a total of 4-6 years experience designing and developing complex software applications using java ee and hibernate is required. do not apply if you don’t have at least 3 years of java ee experience.
+experience with linux/unix, application servers (tomcat, jboss, weblogic, or websphere), postgres/oracle dbms, hibernate, xml/xslt/xquery, jboss-seam/weld, jbpm, rabbitmq, spring, gwt, gxt, and jbpm is highly desirable;
+knowledge and development experience with cloud and virtualization technologies is highly desirable;
+knowledge and development experience with protocols: tcp/ip, snmp, telnet, ssh, ftp, soap etc. is desirable;
+experience with agile is highly desirable;
+ability to work with a team spread across multiple geographic locations;
+proven communication skills, both written and verbal;
+uses professional concepts and works on problems where analysis of situations or data requires review of a variety of factors;
+experience with source code control and bug tracking systems;
+
+education required
+
+bachelors or masters degree in computer science, electrical engineering, or related discipline.
+
+special job condition/physical requirements
+
+general office environment.
+must be able to work 3-4 hrs each day overlapping with north america est timezone .
+
+to apply, please email your resume to hr@ambernettech.com with subject: “cloudtruops engineer”.
+ 
+sr. software test engineer – cloudtruops
+as a software test engineer you design, develop, configure, unit test and document test suites for cloudtruops. you stay abreast of software test automation best practices, and enjoy learning new concepts and technologies on a continual basis. you communicate ideas, concepts, techniques, and issues clearly with peers and with management. you are detail oriented and passionate about writing high quality re-usable software test components and interfaces.
+essential duties and responsibilities
+
+understands requirements and use cases through team interaction (workshops, jad sessions, meetings).
+develops test automation code using selenium.
+designs, develops, debugs, and troubleshoots software code and scripts.
+conducts code reviews or participates in peer code reviews.
+mentors junior software engineers in software test best practices, etc.
+fixes assigned software defects.
+performs manual testing if required.
+assists technical writers in the development of system manuals, guides, and release notes.
+
+skills & abilities required
+
+a total of 4-6 years experience designing and developing test automation using selenium or other similar tools.
+knowledge and development experience with cloud and virtualization technologies is highly desirable;
+knowledge and development experience with protocols: tcp/ip, snmp, telnet, ssh, ftp, soap etc. is desirable;
+experience with agile is highly desirable;
+ability to work with a team spread across multiple geographic locations;
+proven communication skills, both written and verbal;
+uses professional concepts and works on problems where analysis of situations or data requires review of a variety of factors;
+experience with source code control and bug tracking systems;
+
+education required
+
+bachelors or masters degree in computer science, electrical engineering, or related discipline.
+
+special job condition/physical requirements
+
+general office environment.
+must be able to work 3-4 hrs each day overlapping with north america est timezone .
+
+to apply, please email your resume to hr@ambernettech.com with subject: “cloudtruops test engineer”.
+
+
+
+
+
+
+
+software test engineer — cloudtruops — bangalore, india (0 positions)
+ 
+
+
+sr. software engineer – cloudtruops
+as a software engineer you design, develop, configure, unit test and document software components and interfaces that become an integral part of our cloudtruops product. you stay abreast of software development best practices, architectures, and design patterns, and enjoy learning new concepts and technologies on a continual basis. you communicate ideas, concepts, techniques, and issues clearly with peers and with management. you are detail oriented and passionate about writing high quality re-usable software components and interfaces.
+essential duties and responsibilities
+
+understands requirements and use cases through team interaction (workshops, jad sessions, meetings) and interaction with customer/partner representatives.
+develops project artifacts such as design documents, unit test plan, unit test summary report, engineering test plan, engineering test summary report.
+designs, develops, debugs, and troubleshoots software code and scripts.
+tests (unit and engineering integration test) software code and scripts.
+conducts code reviews or participates in peer code reviews.
+mentors junior software engineers in software engineering best practices, design patterns, etc.
+fixes assigned software defects.
+assists technical writers in the development of system manuals, guides, and release notes.
+
+skills & abilities required
+
+a total of 4-6 years experience designing and developing complex software applications using java ee and hibernate is required. do not apply if you don’t have at least 3 years of java ee experience.
+experience with linux/unix, application servers (tomcat, jboss, weblogic, or websphere), postgres/oracle dbms, hibernate, xml/xslt/xquery, jboss-seam/weld, jbpm, rabbitmq, spring, gwt, gxt, and jbpm is highly desirable;
+knowledge and development experience with cloud and virtualization technologies is highly desirable;
+knowledge and development experience with protocols: tcp/ip, snmp, telnet, ssh, ftp, soap etc. is desirable;
+experience with agile is highly desirable;
+ability to work with a team spread across multiple geographic locations;
+proven communication skills, both written and verbal;
+uses professional concepts and works on problems where analysis of situations or data requires review of a variety of factors;
+experience with source code control and bug tracking systems;
+
+education required
+
+bachelors or masters degree in computer science, electrical engineering, or related discipline.
+
+special job condition/physical requirements
+
+general office environment.
+must be able to work 3-4 hrs each day overlapping with north america est timezone .
+
+to apply, please email your resume to hr@ambernettech.com with subject: “cloudtruops engineer”.
+ 
+sr. software test engineer – cloudtruops
+as a software test engineer you design, develop, configure, unit test and document test suites for cloudtruops. you stay abreast of software test automation best practices, and enjoy learning new concepts and technologies on a continual basis. you communicate ideas, concepts, techniques, and issues clearly with peers and with management. you are detail oriented and passionate about writing high quality re-usable software test components and interfaces.
+essential duties and responsibilities
+
+understands requirements and use cases through team interaction (workshops, jad sessions, meetings).
+develops test automation code using selenium.
+designs, develops, debugs, and troubleshoots software code and scripts.
+conducts code reviews or participates in peer code reviews.
+mentors junior software engineers in software test best practices, etc.
+fixes assigned software defects.
+performs manual testing if required.
+assists technical writers in the development of system manuals, guides, and release notes.
+
+skills & abilities required
+
+a total of 4-6 years experience designing and developing test automation using selenium or other similar tools.
+knowledge and development experience with cloud and virtualization technologies is highly desirable;
+knowledge and development experience with protocols: tcp/ip, snmp, telnet, ssh, ftp, soap etc. is desirable;
+experience with agile is highly desirable;
+ability to work with a team spread across multiple geographic locations;
+proven communication skills, both written and verbal;
+uses professional concepts and works on problems where analysis of situations or data requires review of a variety of factors;
+experience with source code control and bug tracking systems;
+
+education required
+
+bachelors or masters degree in computer science, electrical engineering, or related discipline.
+
+special job condition/physical requirements
+
+general office environment.
+must be able to work 3-4 hrs each day overlapping with north america est timezone .
+
+to apply, please email your resume to hr@ambernettech.com with subject: “cloudtruops test engineer”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				see our products in action			
+
+
+
+
+we can help you get ahead of the competition
+
+
+
+
+
+
+
+
+request a demo
+
+
+
+
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+cloudtruops
+cloud blog
+
+
+news & events
+contact us
+
+
+careers
+login
+
+
+ 
+
+
+
+
+
+
+© 2017 ambernet technologies | all rights reserved | web design by gravitate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

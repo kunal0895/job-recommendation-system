@@ -1,0 +1,285 @@
+
+
+	ui engineer #461031 denver
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+company web site
+
+
+
+
+
+
+
+
+
+
+we aim to evangelize, enable, and ensure. this means we make our mission to preach our vision and make our value known to the marketplace. we build the best product and get it running quickly. in addition we make sure that people love using our products and become enthusiastic supporters of xactly because of the value we create for them.
+benefits and perks
+
+flexible time off (u.s.)
+paid time off (india, uk)
+comprehensive insurance coverage
+tuition reimbursement
+xactlyfit gym/fitness program reimbursement
+kitchen stocked daily with tasty snacks, fruit, and drinks
+
+
+
+
+
+
+
+
+view all jobs
+ui engineer
+
+
+
+
+
+
+
+
+×
+email this job
+
+
+
+
+
+
+your first name
+
+
+
+your last name
+
+
+
+
+your e-mail address
+
+
+
+e-mail address to share with
+
+subject
+
+message
+
+
+
+
+
+
+
+
+
+
+ send e-mail
+close
+
+
+
+
+
+
+ denver
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+employee referral
+
+
+
+
+
+tell us who you are
+
+
+first name
+last name
+e-mail address
+
+
+
+                                please complete all 3 fields.
+                            
+
+
+
+
+how do you want to share?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+xactly corporation employees click here to refer candidates
+
+
+
+
+company information
+ 
+
+job description
+
+job title: ui engineer
+function: engineering
+position type: full-time
+position level: mid-senior
+location: denver
+travel requirements: minimal travel required
+ 
+ui engineer
+named among the best workplaces in the u.s. by great place to work five years running, honored on fortune magazine’s inaugural list of the 100 best workplaces for millennials, and chosen as the “market leader in incentive compensation” by crm magazine, xactly is proud to be disrupting the incentive compensation market space. we’re building a culture of success and are looking for motivated professionals to join us!
+ 
+as one of our first engineers in our denver office, you will help us in building a strong frontend system. our development team is small, executes quickly and is full of smart engineers from well-respected companies and universities. we focus on hiring individuals who are passionate, energetic and fun to work with. you must be adventurous enough to explore into open source code, forums and other knowledge base avenues. you must strongly believe in continuous integration and deployment as well as devops culture.
+ 
+not only do we offer strong growth opportunities for top performers, but we also have a top-notch culture, benefits (check them out below) and more.  our strong c.a.r.e. values - customer focus, accountability, respect & excellence - guide our every move, allowing us to be a leader in the incentive compensation & performance management market. we set the example with excellent customer experience and deliver an award-winning saas (software-as-a-service) product!
+ 
+responsibilities:
+
+build and develop an intuitive user interface of new and existing products
+design, implement, and deploy the ui layer of our products
+work closely with ux designers, peer software engineers and architects, technical writers, qa engineers, and data center operations engineers.
+
+required skills:
+
+2-3 years of experience in hands-on web application development and architecture.
+extensive experience using open source software libraries
+strong experience in at least one mvc architecture or application of the pattern
+solid understanding of modern js frameworks—we use nodejs and reactjs (these are highly preferred)
+java experience in the application tier and familiarity with application containers
+experience with dealing json and xml documents
+hands on experience with varieties of graphing libs such as d3.js
+hands of experience in deploying services on aws or google cloud platform
+must have built end to end continuous integration and deployment infrastructure for ui services
+b.s. or m.s. in computer science or another relevant technical field
+
+preferred skills:
+
+prior experience using a modular, common and scalable ui platform
+experience using chef, puppet or any other deployment automation tools
+experience working within a distributed engineering team including offshore
+bonus points if you have contributed to an open source project
+familiarity and experience with agile (scrum) development process
+experience working within a distributed engineering team including offshore
+proven track record of identifying and championing new technologies that enhance the end-user experience, software quality, and developer productivity
+
+benefits and perks:
+
+flexible time off (fto)  (vacation, sick, volunteer = your choice!)
+corporate discounts
+generous insurance policies (pets included!)
+tuition reimbursement
+money for fitness programs
+end of month surprises, contests, bbqs, parties & reward vacations
+kitchen stocked with daily tasty snacks and drinks
+free parking & commuter benefits
+401k & employee match 
+
+about xactly corporation
+ 
+xactly is a leading provider of enterprise-class, cloud-based, incentive compensation solutions for employee and sales performance management. we address a critical business need: to incentivize employees and align their behaviors with company goals. our products allow organizations to make more strategic decisions, increase employee performance, improve margins, and mitigate risk. our core values are key to our success, and each day we’re committed to upholding them by delivering the best we can to our customers.
+ 
+xactly is proud to be an equal opportunity employer. xactly provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, pregnancy, sexual orientation, or any other characteristic protected by law.
+ 
+we do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us.
+skills & requirements
+
+qualifications
+
+
+
+
+
+
+ 
+ 
+
+
+
+powered by hirebridge
+
+
+
+
+
+
+
+
+
+
+

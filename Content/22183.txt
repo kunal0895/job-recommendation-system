@@ -1,0 +1,192 @@
+
+
+
+careers | beyondsoft |data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+data scientist
+
+
+job locations
+
+us-wa-redmond
+
+
+
+
+
+job id
+
+2017-1219
+
+
+# of openings
+
+1
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+beyondsoft is a global it consulting, solutions and services provider. founded in 1995 and headquartered in beijing, china, beyondsoft has over 30 nationwide offices, r&d bases and delivery centers, as well as facilities in united states, japan, india, canada and singapore. beyondsoft is now focusing on using emerging, disruptive technologies, like cloud, mobility, big data and analytics, to provide powerful solutions and products for clients in a wide range of industries including: high-tech, ecommerce, finance, automobile, retail, logistics, energy, manufacturing, healthcare, telecommunications, media & entertainment, and travel.the goal of the azure customer growth & analytics (cga) team is to foster a data-driven culture; to encourage and enable the entire organization to make more informed decisions through data.  in support of this mission, our data science team carries out applied research in ml/ai and designs, develops and deploys state of the art algorithms for various business scenarios. some of the more recent developments include applications of deep learning, neural networks, boosted decision trees, sparse linear models, and customer segmentation, which have been executed in partnership with teams across engineering, finance, business planning, and sales and marketing.  our team also has a strong presence in both internal and external data science and ai/ml conferences. we are looking for a passionate, talented, and innovative data scientist with a strong machine learning and deep learning background to help build industry-leading solutions. you'll collaborate with partner teams and other researchers at microsoft to build new ml solutions to solve critical and complex business problems. as part of this process, and with support from our data platform and engineering team, you will be working with huge volumes of data to solve real-world data science problems. 
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+ responsibilities:develop new predictive and prescriptive models using advanced research techniques.collaborate closely with analytics, engineering, and experimentation teams by demonstrating cross-functional resource interaction to deliver ml models.identify and investigate new technologies, prototype and test solutions for product features, and design and validate designs that deliver an exceptional user experience.combine broad and deep knowledge of relevant research domains with the ability to synthesize a wide range of requirements to make significant contributions to the feature roadmap for the applied machine learning platform.take responsibility for technical problem solving, including creatively meeting product objectives and developing best practices.own strategic thought leadership for the subject of enterprise-wide machine learning capabilities
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+ basic qualifications:ms or phd in operations research, statistics, applied mathematics, computer science, electrical engineering, or physics with strong knowledge of machine learning.3+ years of industry experience in handling high volumes of structured and unstructured data, with a proven track record of leveraging data science practices to drive significant business impact.  quantitative methods should span statistical modeling, machine learning, optimization methods, econometrics, graph theories, artificial intelligence, text mining and nlp.adapt ml and neural network algorithms and architectures to best exploit modern parallel environments (e.g. distributed clusters, multicore smp, and gpu).2+ years of experience in applying deep learning models.strong skills in at least 3 languages such as python, r, sql, java or scala.experience with open source tools like cntk, tensor flow, mxnet, caffee and opencv.excellent analytical and communication skills and ability to influence stakeholders including senior leadership. preferred qualifications:5+ years of industry experience in handling high volumes of structured and unstructured datascientific thinking and the ability to invent.  demonstrated track record of thought leadership and contributions that have advanced the field.top-tier publications (nips, pami, cvpr etc.)solid software development skills are plus.knowledge and experience working within cloud computing environments such as azure or aws.highly motivated to achieve results in a fast-paced environment.  we are an equal opportunity employer and value diversity at our company. we do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+need help finding the right job?
+
+
+
+
+we can recommend jobs specifically for you!
+
+click here to get started.
+
+
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

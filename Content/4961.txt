@@ -1,0 +1,60 @@
+
+
+
+
+knime - jobs: solution and data scientist (austin) - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+solution and data scientist (austin)
+
+solution and data scientist (austin)
+austin, texas, united states
+
+descriptionwho are we? we are looking for the right people to join our well-funded, growing open-source startup and to help us to continue to build exciting technology that makes knime users happy. knime analytics platform is popular both with its large and enthusiastic user community as well as it analysts, who regularly place us in their “leaders” category – next to some very surprised industry dinosaurs, btw. but we are most proud of the consistently high marks we get for user satisfaction. our open secret: we are transforming the data-science landscape by providing an open source (and free) platform that lets data scientists mix and match the tools and methods they want while helping enterprises responsibly integrate advanced analytics into their operations. in this way, knime helps organizations nurture new user populations that want to exploit the benefits of data science and advanced analytics while remaining strongly committed to open source. who are you?  you’ve gathered several years of experience doing practical data analysis and visualization and appreciate how important it is to be able to communicate what you’ve done, particularly to non-experts. you find data exciting, love solving complex real world problems and enjoy working with open-source software. you already have several years of experience with all of the stuff that comes before the actual data analysis (now called “data blending” but it’s still just etl…), know what distinguishes random forests from gradient boosted trees, and you don’t believe the new ai solves all of the world’s problems. you have worked on real world problems either in-house or with customer projects but most importantly, you had to deal with users that just want to get the analysis done. and obviously you also care about reusability, documentation and simply collaborative work when it comes to successful data analysis. we don’t care too much about the actual application area (data about machines ticking, people buying, playing or exercising all looks pretty similar) but if you had some exposure to the collection of technologies known as “big data” that would be a big plus. you are familiar with the tools and methods of data science and have experience with knime, r, and/or python already. you also aren’t afraid of the technical side of things: setting up and using databases, working from the command line, or calling web services directly using tools like curl. ideally you’ve got a solid grasp of statistics and/or machine learning.  we’d love it if you were a knime expert, but we think we can teach you that. what’s the job?  in this position you will join jim and jeff on the customer engagement team and will be working with our current and potential customers to deliver solutions to their real-world data-science problems. your top priority will be doing end-user support - we want to keep those users happy! this will probably consume ¼ to ⅓ of your time, what you do with the rest is going to be driven by what you’re interested in and good at. our data scientists also do things like pre-sales support, customer-driven project work, training, writing documentation, experimenting with new algorithms and methods, and building community by using knime to tell interesting stories. you’ll take what you learn from all this and feed that back to the development team so that we can keep pushing the knime software forward. we are looking for someone to join us in our office in austin, texas. though we’re happy to have applicants from farther away, we are not offering relocation benefits for this position.benefitsknime provides full medical, dental and vision benefits along with short term and long term disability. a 401k plan is in the works and will be available shortly. knime has an open vacation policy.
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+knime website
+
+powered by
+workable
+
+
+
+
+

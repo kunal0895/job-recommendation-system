@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+software engineer
+
+
+				apply
+			
+
+
+
+job number:
+								12607
+						
+
+position title:
+
+
+external description:
+ position title: software engineer - intermediate  about us: equifax's core software engineering (cse) group delivers market leading software solutions in the areas of risk decisioning, account acquisition, account management and identity management. we are passionate about making our customers extremely successful and utilize industry leading technologies and agile processes to deliver high quality products to the market. software developer: equifax cse is seeking a software engineer with strong java development skills who will help with development and maintenance efforts of one or more products within decision management product suite as well assist with any problems or technical risks throughout the project. the software developer is expected to conceptualize software solutions into user-friendly software applications and pay close attention to details.responsibilities: participate in the gathering and reviewing of business requirements and translating these into functional/technical designs.develops detailed technical analysis and design specifications based on functional requirements.use object-oriented techniques and software engineering best practices including design review, code review, unit-testing, and re-factoring.participate in the development of code for j2ee software applications.researches technical solutions to business problems.follow agile best practices and maintain/improve the work of the agile team.constantly learn about latest technologies and seek their best use in the products, if possible.qualifications:bachelor's degree in computer science, information technology or equivalent with relevant 3+ years of industry experience, work-study, and/or internship experienceor master's degree in computer science, information technology or equivalent and 1+ years of industry experience, work-study, and/or internship experienceor 3-5 years of relevant application development experiencework experience:minimum of 3-5 years of application development experience (internship and/or work-study included with bachelor's degree.)good understanding of java coding fundamentals and open source technologies.understanding of agile software development methodologies.preferred additional skillsjava, j2ee, rest, xml, sql, jdbc, jsf, angular, web serviceseclipsegit/svnmavenjunitspringhibernatetomcatcloud technologies (aws, cloud foundry, docker)the successful candidate should demonstrate innovation, constant learning, self-motivation and effective team participation.​  good communication and interpersonal skills are required.​  the candidate should demonstrate a willingness to share knowledge, possess excellent listening skills and strong analytical skills.​  the candidate must be able to work effectively under project and daily deadlines.​primary location:usa-atlanta-one-atlantic-centerfunction:function - it product engineeringschedule:full time
+						
+					
+						
+city:
+								atlanta
+						
+
+location_formattedlocationlong:
+								atlanta, georgia  us
+						
+
+state:
+								georgia
+						
+
+community / marketing title:
+								software engineer
+						
+
+company profile:
+
+
+requisition number:
+								j00053572
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+product owner - career
+
+st. louis, mo
+
+senior functional/technical lead
+
+alpharetta, ga
+
+senior software engineer
+
+mclean, va
+
+ui/ux developer
+
+st. louis, mo
+
+lead java developer
+
+leeds, uk-yh
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

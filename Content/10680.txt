@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+ zintellect  
+
+
+
+
+
+ zintellect will not be available due to network maintenance beginning friday, december 15, from 9:00 p.m. est through sunday, december 17, at noon est.  be sure to check the application deadline for opportunities you are interested in and allow time for completion.
+
+
+
+
+
+			welcome
+				 guest
+		
+
+ login 
+
+
+
+zintellect
+
+
+
+
+
+menu
+
+
+
+ applicants
+ mentors
+
+
+ opportunity catalog
+				
+
+ about zintellect
+ help
+
+
+
+
+
+
+
+opportunity details
+
+
+
+
+
+
+ 
+
+
+						opportunity 
+					
+
+
+					enviroatlas data support associate
+				
+
+
+
+organization
+
+
+						u.s. environmental protection agency (epa)
+					
+
+
+
+reference code
+
+
+					epa-ssp-0027-11r 12-5-17
+				
+
+
+
+how to apply
+
+
+
+submit application and supporting documents by clicking on apply now button.
+for more information, contact epajobs@orau.org. do not contact epa directly.
+
+
+
+
+
+academic levels
+
+
+
+postdoctoral
+post-master's
+
+
+
+
+
+description
+
+
+the epa environmental research and business support program has immediate opening for an enviroatlas data support associate with the office of research and development at the epa facility in research triangle park, nc.
+the office of research and development at the epa supports high-quality research to improve the scientific basis for decisions on national environmental issues and help epa achieve its environmental goals. research is conducted in a broad range of environmental areas by scientists in epa laboratories and at universities across the country.
+epa’s national exposure research laboratory (nerl) supports epa’s mission to protect human health and the environment by developing and applying innovations in exposure science. exposure science sets the context for understanding and solving real-world problems. a major component of nerl’s research portfolio is the enviroatlas (www.epa.gov/enviroatlas). enviroatlas provides interactive tools and resources for exploring the benefits people receive from nature or "ecosystem goods and services". ecosystem goods and services are critically important to human health and well-being, but they are often overlooked due to lack of information. using enviroatlas, many types of users can access, view, and analyze diverse information to better understand the potential impacts of various decisions.
+the selected candidate shall provide data management, data curation and data analysis support for the enviroatlas project. he/she shall provide database management, file management, data curation and extraction, quality control, as well as performing qualitative and quantitative data analysis. the candidate will be a member of a multi-disciplinary research team and shall support the development, maintenance, and analysis of enviroatlas data, tools, and web applications for both national and community scale ecosystem service indicators.
+data development and analysis responsibilities shall include:  
+
+developing meter-scale urban land cover data from aerial photography and lidar data using envi, genie pro, and/or ecognition image classification software,
+analyzing land cover maps for ecosystem services and sustainability,
+processing gis (geographic information system) data layers,
+performing quality control of geospatial data,
+creating metadata and fact sheets supporting the data products, and
+performing literature reviews.
+
+communications-related responsibilities shall include:
+
+participating as a member of a multi-disciplinary research team,
+interacting with other members of the development team as well as epa scientists,
+documenting code, methods and land cover development efforts, and
+presenting work performed at a scientific conference as required.
+
+ 
+location: this job will be located at epa’s facility in research triangle park, nc.
+salary: selected applicant will become a temporary employee of orau and will receive an hourly wage of $28.14 for hours worked.
+hours: full-time
+working conditions: this position will involve work in an administrative setting and is not expected to involve exposure to hazardous elements.
+the selected candidate shall be supervised by a mentor who will provide day-to-day direction, as well as coach, advise and counsel them, and review their work. 
+travel: occasional overnight travel may be required.
+expected start date: the position is full time and expected to begin january 2018.  the selected applicant will be a temporary employee of orau working as a contractor to epa. the initial contract period is through may 14, 2018, followed by two (2) additional 12 month option periods.
+for more information, contact epajobs@orau.org. do not contact epa directly. 
+
+
+
+
+qualifications
+
+
+eligible applicants must:
+
+be at least 18 years of age and
+have earned at least a master’s degree in the fields of geospatial science, geography, ecology, environmental science, geosciences or a related field of study from an accredited university or college within the last 24 months and
+be a citizen of the united states of america or a legal permanent resident.
+
+epa ord employees, their spouses, and children are not eligible to participate in this program.
+required knowledge, skills, work experience, and education 
+successful candidate shall:
+
+demonstrate education and/or experience in gis (geographic information systems), geospatial data compilation and analysis,
+working knowledge of remote sensing and image processing, and
+strong written, oral and electronic communication skills.
+
+desired knowledge, skills, work experience, and education
+
+experience programming in python and r or other scripting languages, and
+experience using envi, geniepro and/or ecognition software.
+
+
+
+
+
+eligibility requirements
+
+
+
+citizenship: lpr or u.s. citizen
+degree:  currently pursuing 
+					
+                            a
+
+                             master's degree
+                              or doctoral degree
+					
+                            or have received 
+					
+one of these degrees                                                    within
+24                                months.
+                        
+affirmation: i certify that i am at least 18 years of age; a recent graduate with at least a master’s degree in the fields of geospatial science, geography, ecology, environmental science, geosciences or a related field of study from an accredited university or college within the last 24 months; a citizen or a legal permanent resident of the united states of america; and not a current employee of epa ord or the spouse or child of an epa ord employee.
+
+discipline(s): 
+ physics (all)
+ earth and geosciences (all)
+ life health and medical sciences (all)
+ environmental and marine sciences (all)
+ social and behavioral sciences
+
+geography
+
+
+veteran status: 
+
+                        
+none
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ security/privacy statement
+
+                    orau will not discriminate because of race, color, age, religion, sex, sexual orientation, gender identity, national origin, mental or physical disability, protected veteran’s status, or genetic information.
+					this site is not compatible with internet explorer versions 7 and below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+warning
+
+
+
+    	your session will be terminated in  due to inactivity.  please click "continue" to restore your session.
+        
+
+
+log out
+continue
+
+
+
+
+
+×
+security/privacy statement
+
+
+
+security/privacy notice
+
+					by continuing to use this system you indicate your awareness of and consent to the following terms and conditions of use. logout immediately if you do not agree to the conditions stated in this warning.
+				
+
+security notice
+
+					this system is part of a federal information system. this system is monitored for security purposes to ensure it remains available to all users and to protect information in the system. the system employs software programs to monitor network traffic to identify unauthorized activities. by accessing this system, you are expressly consenting to these monitoring activities. unauthorized attempts to defeat or circumvent security features; to use the system for other than intended purposes; to deny service to authorized users; to access, obtain, alter, damage, or destroy information; to upload or change information; to otherwise cause system or information damage; or otherwise to interfere with the system or its operation, is prohibited. evidence of such acts may be dis-closed to law enforcement authorities and result in prosecution under the computer fraud and abuse act of 1986 and the national information infrastructure protection act of 1996, or other applicable laws.
+				
+
+privacy notice
+
+					this system is for authorized use only. use of this system constitutes consent to security monitoring and testing. all activity is logged with your host name and ip address. users (authorized or unauthorized) have no explicit or implicit expectation of privacy. any or all uses of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected, and dis-closed to authorized site and law enforcement personnel, as well as authorized officials of other agencies, both domestic and foreign. by using this system, the user consents to such interception, monitoring, recording, copying, auditing, inspection, and disclosure at the discretion of authorized site or law enforcement personnel. unauthorized or improper use of this system may result in administrative disciplinary action and civil and criminal penalties.
+				
+
+
+close
+
+
+
+
+
+
+×
+about zintellect
+
+
+
+how to use this website
+					welcome to zintellect!  this website provides listings of internships, experiential learning opportunities, academic fellowships and scholarships funded by government and private sector organizations. these programs are administered by orau and the oak ridge institute for science and education (orise). visitors to the site may view available opportunities by selecting the opportunity catalog.
+				
+
+applicants
+					applicants may view opportunities available in zintellect by selecting the opportunity catalog. zintellect has an advanced search feature that allows applicants to view only the opportunities that fit their needs and preferences. applicants may search by keyword, academic level, discipline, organization and program.
+				
+
+					in order to apply for an opportunity, applicants must complete a profile. the profile consists of questions that are common across all programs. once the profile is complete, applicants may apply to specific opportunities available in the system by answering a few questions specific to a particular program. applicants are able to customize their references, resumes, and responses based on each opportunity to which they apply.
+				
+
+                    zintellect offers some opportunities that include orau employment.  for more information about equal employment opportunity, click here.
+                    
+ equal employment opportunity is the law
+                    
+
+
+mentors
+					zintellect requires verification from an orau staff member for mentor-level application access. once a mentor has completed the registration process, an orau staff member will review the information and approve access to the system. this process usually takes place within one business day of mentor registration.
+				
+
+					from this site, mentors can search for and view details for opportunities to which they have been assigned or for opportunities open to anyone within their agency/department, review applications submitted for those opportunities, and recommend candidates.
+				
+
+					if you have questions or need additional information, please contact us via email at zintellect@orau.org.
+				
+
+
+close
+
+
+
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+
+

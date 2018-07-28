@@ -1,0 +1,279 @@
+
+
+
+			backend engineer -			opal -
+			job board
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+platform
+
+
+careers
+
+
+
+
+log in
+
+
+request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+backend engineer
+
+
+
+portland, or
+
+
+
+full time
+
+
+
+engineering
+
+
+
+mid level
+
+
+
+
+
+
+
+
+
+about opal
+at opal, we believe enterprise software should be beautiful, simple and designed for the job at hand. opal is a collaboration platform, built for brand marketing teams to produce, organize and govern creative content.
+the opal storyfirst™ framework empowers teams with a dedicated environment to visualize and deploy campaigns across all marketing channels, reducing complexity and aligning teams for better marketing results. our customers are creative, passionate people and, through a platform tailored to their specific needs, we’re helping them rediscover the best parts of their jobs.
+our team is deeply invested in creating a culture that promotes design thinking, collaboration and a passion for excellence. we are building a world class lineup of creative and strategic thinkers that work together as a team to revolutionize the modern marketing organization.
+as an engineer at opal, you will be joining a team of individuals that have been “battle tested” through real world experience in developing the backends of performant web applications and micro-services that power the opal platform.
+the position
+platform engineers at opal own 100% of our architecture "below the waterline", crafting robust web application backends, microservices, provisioning infrastructure, exposing restful apis, and scaling our systems to meet the demand of high-volume marketing organizations around the globe. platform engineers work closely with other product, engineering, and design teams at opal to build and deploy backend features and code business logic for new products and initiatives.
+the ideal candidate
+we’re looking for exceptional backend web application engineers who know that world-class applications and infrastructure come from delicately balancing the security, stability, and performance needs of our applications with the human needs of our customers, employees, and partners.
+responsibilities
+
+develop web application and services that power the opal platform in languages like ruby, elixir, and javascript
+debug, test, and support our existing ruby-on-rails, phoenix, and nodejs applications
+write and ship new {json:api} api endpoints with 100% test coverage via grape with shared api raml contracts
+architect, deploy, and monitor the opal infrastructure servers and services for uptime, performance, and stability
+participate in product workshopping to help determine new features and initiatives
+collaborate with designers, front-end developers, and mobile engineers to dream up the next big thing
+
+skills
+
+3-4+ years of relevant experience developing software applications
+2+ years of experience crafting production-grade web applications backends
+strong knowledge of web application architecture patterns and pitfalls (mvc, soa, etc)
+strong familiarity with at least one modern oop language such ruby or python
+some familiarity with at least one functional language, such as elixir or clojure
+some familiarity with ruby/elixir-based web frameworks such as rails and phoenix
+some familiarity with front-end javascript libraries and frameworks, such as emberjs, react, angularjs, etc
+ability to solve complex problems under pressure.
+ability to break down complicated issues, communicating with stakeholders and delegating to team members, as needed.
+
+benefits
+
+a full-time, salaried position
+full healthcare coverage (health, dental, vision, fsa)
+short-term disability insurance
+early-stage stock options
+company-sponsored outreach & activity programs
+a tight-knit, very supportive team — we pride ourselves on our culture
+a fun, open office with ping pong, video games and snacks for days
+exposure to some of the biggest brands on the planet
+
+
+
+
+apply for this position
+
+
+
+
+
+
+
+
+
+
+			* required fields
+		
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+
+
+last name*
+
+
+
+
+
+email address*
+
+
+
+
+
+location 
+
+
+
+
+
+phone number*
+
+
+
+
+
+resume*
+
+
+attach resume or
+					paste resume
+
+
+
+
+
+						attach resume as .pdf, .doc, or .docx (limit 2mb) or
+						paste resume
+
+
+
+ 
+
+
+
+
+						paste your resume here or
+						attach resume file
+
+
+
+ 
+
+
+
+cover letter*
+
+
+
+
+
+linkedin profile url:
+
+
+
+
+
+twitter
+
+
+
+
+
+website, blog or portfolio:
+
+
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+
+
+
+
+please provide a link to your github profile or portfolio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

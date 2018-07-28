@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+texas instruments - job details
+
+
+
+
+
+
+
+
+
+
+
+
+   ti careers               applicant login     about ti › company careers investor relations citizenship university public policy     careers our company why ticareer paths search jobs              ?
+
+homesearch  openingssearch  resultscurrent pagejob  details   
+
+job details job 1 of 1   apply to job   save to cart   view similar jobs      job id  21369br   job posting title  software engineer - experienced   job description  texas instrument’s connected mcu division is looking for an embedded sw engineer to take on the challenges involved with developing next generation security features for microcontroller devices targeted at the exploding iot market.  working with other sw engineers, hw engineers, and security experts, you will develop embedded sw to enable advanced security features across our device families.  come be a part of the team that will make a difference for iot security around the world.in this role, you will:• write high quality c code to run within an rtos environment• write unit and integration tests• write java code to perform automated testing• participate in code reviews• perform in-depth security analyses• estimate time to complete assigned tasks, and• write software design documentationbecause of the nature of our projects, you will do well if you are passionate about the quality of your code and have a strong desire to produce robust and easy to use systems. to do this you will need a deep understanding of the c language and how c code is translated to assembly. furthermore, as the world of security is constantly evolving, you will need a desire for continuous learning and professional development.our sw development process uses modern tools such as git, jira, jenkins, and more. experience with these tools, ti’s code composer studio, and ti’s line of connected mcu products is beneficial but not required. experience with safety critical and/or security critical development is also desired.this job is located at ti’s spacious and modern headquarters in dallas, tx. ti provides excellent benefits and has a long history of promoting within and providing career paths for both technical and managerial roles.  to be considered for this position, please apply to this requisition.  texas instruments will not sponsor job applicants for visas or work authorization for this position. texas instruments is an equal opportunity employer and supports a diverse, inclusive work environment. all qualified applicants will receive consideration for employment without regard to protected characteristics, including race, color, religion, sex, national origin, disability, veteran status, sexual orientation, gender identity, or age.   job opening type  experienced professional   minimum education level  bachelor's level degree    related field(s) of study computer engineeringcomputer scienceelectrical & computer engineer    minimum years of experience  2   regular / temporary  regular   full-time / part-time  full-time   country  united states   job location(s)  usa-texas-dallas metroplex   virtual / telecommute  no    apply to job   save to cart   view similar jobs    
+
+
+                           careers |         contact us |         corporate        citizenship |         investor relations |         mobile apps |         mobile site |         myti account |         ti worldwide |         website feedback            ti is a global semiconductor design and manufacturing company. innovate with 100,000+ analog ics and embedded processors, along with software, tools and the industry's largest sales/support staff.                    ©copyright 1995-2015           texas instruments incorporated. all rights reserved.           trademarks |         privacy policy |          terms of use |          terms of sale     equal opportunity employer texas instruments is an equal opportunity employer and supports a diverse, inclusive work environment. all qualified applicants will receive consideration for employment without regard to race, color, religion, creed, disability, genetic information, national origin, gender, gender identity and expression, age, sexual orientation, marital status, veteran status, or any other characteristic protected by federal, state, or local laws. the following link provides more information regarding the federal laws prohibiting discrimination in employment:          eeo is the law – notice of applicant rights under the law.  affirmative action efforts ti's affirmative action efforts — extending to women, minorities, people with disabilities, and veterans — are an important part of our commitment to equal employment opportunities. ti's affirmative action program is available upon request at the texas instruments ethics office, located at 13570 north central expressway, ms 3961, dallas, texas 75243, or by email          here, on monday through friday from 8:00 a.m. to 4:00 p.m. (central time).   applicants with disabilities if you are an individual with a disability who is unable or limited in your ability to complete the application process, including the use or access of our website, as a result of a physical or mental impairment, you may request reasonable accommodations by clicking  here to email us your request. determinations of requests for accommodations due to disability are made on a case-by-case basis.             
+
+
+

@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position: 
+                            
+                            
+                                
+                                    oracle business analyst - financials
+                            
+                        
+
+
+
+location: 
+                                
+                                    beaverton, or
+                                
+                        
+
+
+
+job id: 
+                            
+                            
+                                
+                                    1428
+                            
+                        
+
+
+
+# of openings: 
+                            
+                            
+                                
+                                0
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+oracle business analyst - financials
+beaverton, or
+ 
+at formfactor, it’s not enough just to make revolutionary products.  we also strive to be a great place to work.  we demonstrate our commitment to our employees through a variety of perks that focus on health and wellness, such as a generous pto plan, excellent insurance benefits, and our guiding values of innovation, earning trust and doing the right thing.   we also offer an employee stock purchase program and annual health fairs where employees can get flu shots and biometric screenings. personal development is encouraged through our learning and development courses and tuition contribution program. although our products are sold to semi-conductor industry leaders around the globe, they are researched, designed and manufactured in our facilities in beaverton, oregon, and livermore, san jose and carlsbad, california.  every employee of formfactor plays a role in creating and supporting these amazing products. 
+ 
+the oracle financials business analyst will work with stakeholders from various business areas, but primarily, accounting/finance and revenue to serve as a bridge between the business and the oracle team. this position will be responsible for design and development of oracle financial application stack. our financial footprint comprises of gl, ap, po, ar, fa, projects and revenue. the role will also support period close process. the successful individual will be expected to lead and coordinate product delivery from start to completion, partner with business stakeholders, software & services provider, and other application support and development to drive successful business value delivery.
+ 
+key duties and responsibilities
+
+facilitate working sessions with stakeholders to determine business requirements and review documentation.
+create business process models based on the requirements
+follow industry trends and implement best practices to improve business processes
+act as advisor to the finance department on areas of risk in setup, possible improvements, efficiency, optional methods, and best practices
+define, architect and re-engineer business processes.
+present solutions to management via whiteboard and powerpoint.
+serve as subject matter expert on oracle applications functionality, tools, templates and methods and setup the system to meet the desired business process and requirements. 
+work with business to develop testing scenarios and test scripts and leading teams in unit, integration and acceptance testing
+write simple and basic queries in sql for data research and investigation of issues/bugs.
+engage with vendor partner, where applicable, to deliver the product
+prepare and maintain training materials for business
+create and maintain strong positive relationships with colleagues across the it division and adopt/leverage from other application support teams. provide guidance to the team on functional and technical in resolving production incidents within pre-defined slas.
+create and maintain system/application documentation (requirements, processes, procedures)
+advise management on roadmap for application enhancements, identification, implementation of new, advanced functionalities and new modules. (on need basis)
+
+ 
+education, experience and skills required
+
+bachelor's degree in accounting, finance, business, computer science or related field.
+minimum of 5 years experience as an oracle business analyst
+strong finance skills, with prior accounting experience strongly preferred
+excellent inter-personal and teamwork skills
+strong problem solving, troubleshooting and analysis skills
+excellent oral and written communication skills
+demonstrated functional knowledge of oracle's e-business suite finance modules: gl, fa, po, ap, ar, om
+experience working in a multi-application environment where business processes and data flow to and from oracle
+working knowledge of sysadmin functions like user access, responsibility and request group management, monitoring concurrent program, etc.
+deep knowledge of general ledger (web adi journal entry, automatic reversals, journal import, reporting, discoverer), accounts payable module, projects module, accounts receivable module, intercompany module, costing and inventory modules, and other financial module intricacies.
+knowledge of data management fundamentals (data profiling, improvement, accuracy, completeness, data integrity, data stewardship, and data governance)
+excellent knowledge of accounting and finance best practices
+proficient with microsoft office tools
+solid understanding of gaap and sox
+deep understanding of accounting processes and transaction workflow outside of erp
+hands-on knowledge of oracle 11.5.10. solid knowledge of r12 & r13 required is a plus
+
+ 
+formfactor is committed to providing a work environment where everyone is treated with dignity and respect. we are an equal employment opportunity (eeo) employer and are committed to compliance with all federal, state, and local laws that prohibit employment discrimination on the basis of age, race, color, sex (including breastfeeding and related conditions), gender (including gender identity and gender expression), national origin, ancestry, sexual orientation, religion, physical or mental disability, marital status, registered domestic partner status, medical condition, military or veteran status, genetic characteristics or information, or any other legally protected characteristic. these protections extend to all employment and management decisions including, but not limited to, recruiting, hiring, training, promotions, pay practices, benefits, disciplinary actions and terminations, and all other terms and conditions of employment..
+
+
+
+
+
+
+
+                                apply for this position
+                            
+
+
+
+
+
+
+
+
+                    apply with indeed
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                
+                    go back to the job list
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+applicant privacy policy
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please note: in order to view the career opportunities, your browser must have javascript enabled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			 
+		
+
+
+
+
+< job list
+
+
+
+
+	search jobs
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job details
+software developer (015019)
+
+
+
+
+
+
+ 
+
+
+
+
+
+job req number:
+015019
+
+
+job title:
+software developer
+
+
+number of openings:
+1
+
+
+employment type:
+direct hire
+
+
+country:
+united states
+
+
+state/province:
+arizona
+
+
+city:
+phoenix
+
+
+salary interval:
+salaried
+
+
+
+
+
+ 
+
+
+position description
+
+
+at hensel phelps we plan, build, and manage landmark buildings around the world. from the pentagon to disney’s paradise pier, from denver’s elitch gardens to nasa’s kennedy space center, we take pride in what we do and the clients we partner with. our software development team works on mission-critical applications that range from procuring future work to keeping our employees safe on the job. hensel phelps needs your help as a full-stack web developer in planning, building, and managing those applications.why work for hensel phelps? simply, our business impacts every single person in the world, because we are responsible for the built environment: where we work, eat, live and play. like many industries, we are undergoing a rapid technology shift—in the last several years we have begun to embrace multi-dimensional modeling, augmented reality, reality capture, robotics, uavs, business intelligence and more. we need your talent to build applications featuring and integrating these and other cutting edge technologies.hensel phelps’ software development team is currently developing and planning several large software projects targeted at improving business processes and user engagement for our 2,200+ employees and thousands of partners. you would be a part of these projects and directly impact how our business competes in this exciting and competitive market.
+
+
+position requirements
+
+
+must haves:
+ability to communicate and work well within a teamunderstanding of web technologies (browsers, html, web services, databases)experience with both compiled and interpreted languagesdemonstrated desire to learn and apply new techniques/technologiesdemonstrated ability to solve programming problems in a variety of ways and languagesbachelor's degreeunderstanding of agile programming principles/practices
+	scrumtest-driven development
+experience with and knowledge of specific languages/frameworks:
+	c#/asp.net4/5mvc5javascript/angularentityframeworklinqms sql including ssrs/ssis
+front-end experience: have built/maintained a real web site using css, html, javascriptback-end experience: have built/maintained a real program/libraryexperience using development tools:
+	task runners/build controllers (e.g. grunt)distributed version control (e.g. git)integrated development environments (e.g. visual studio)nunit
+
+
+
+application instructions
+
+
+apply to job number 015019 listed on the hensel phelps careers website (www.henselphelps.com/careers).
+
+
+ 
+
+
+
+
+	apply online
+	
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+			 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,820 @@
+
+
+
+
+
+
+
+
+
+performance measurement engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+                    by continuing to use and navigate this website, you are agreeing to the use of cookies.
+                
+                
+accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+featured jobs
+customer support
+engineering careers
+finance job
+general & administration careers
+hr jobs
+    information technology job
+    legal job
+    marketing job
+netapp university/training job
+    sales job
+university recruiting jobs
+apac job
+emea job
+
+
+locations
+join talent community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+featured jobs
+customer support
+engineering careers
+finance job
+general & administration careers
+hr jobs
+    information technology job
+    legal job
+    marketing job
+netapp university/training job
+    sales job
+university recruiting jobs
+apac job
+emea job
+
+
+locations
+join talent community
+
+
+
+
+
+
+
+
+language 
+
+deutsch (deutschland)
+english (united kingdom)
+english (united states)
+français (france)
+日本語 (日本)
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+more options
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+loading...
+
+
+
+
+
+
+
+                                            title
+                                        
+
+
+all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ create alert 
+
+
+
+
+×
+
+send me alerts every  days
+                
+
+
+
+
+
+                        join with linkedin
+                    
+
+
+
+
+
+
+
+                            join now
+                        
+
+
+
+
+
+
+
+
+
+
+
+start
+
+
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+
+
+title: 
+                        
+performance measurement engineer
+                        
+
+
+
+
+
+
+
+
+
+location: 
+                        
+usa - north carolina - research triangle park
+                        
+
+
+
+
+
+
+
+
+requisition id: 
+                        
+5662
+                        
+
+
+
+
+
+
+
+
+job summary
+
+
+data is the currency of business in the digital era. netapp is the data authority, helping customers leverage and manage their data wherever it resides – in the cloud, in their data centers, or anywhere data flows. engineers at netapp help transform the way customers utilize their dynamic, diverse, and distributed information. they are allowing doctors to save lives with deep data analytics shared with medical experts around the world, helping automotive engineers improve autonomous vehicle navigation with artificial intelligence, enabling scientists to monitor and identify environmental hazards through deep image analysis, and providing companies the ability to expand their businesses in yet unimagined ways.
+by joining netapp, you can take part in transforming how data is changing the world. ontap is the #1 storage operating system in the world, managing 100’s of exabyte’s of customers information. we have more than 30000 customers today that rely on us to be the data authority. take part in the transformation that is changing how we work and play daily.
+ 
+this position is with our performance measurements team.
+
+
+
+job requirements
+
+
+preferred skills and experience:
+data-driven decision making
+knowledge and experience with machine learning 
+knowledge of cloud (microsoft azure, google cloud, aws etc.)
+big data 
+performance testing 
+test automation / scripting with python or perl
+resolve system performance issues with operating systems and networks
+client-server networking
+storage systems
+knowledge of performance measurement methods and tools
+ 
+ strong verbal and written communication skills are essential
+ 
+- work collaboratively within a team environment of other engineers to meet aggressive goals and high quality standards
+- possesses sufficient technical knowledge and experience to pick up new expertise quickly with guidance from a technical leader
+- strong aptitude for learning new technologies- a strong understanding of complex concepts related to computer architecture, data structures and programming practices-
+ ability to estimate work completion required to build an overall predictable plan 
+- follow standard engineering principles and practices
+- resourceful in applying creative ideas to solve problems 
+
+
+
+educationtypically requires a minimum of 5 years of related experience with a bachelor’s degree; or 3 years and a master’s degree; or a phd without experience; or equivalent work experience.equal opportunity employer minorities/women/vets/disabled.
+
+
+
+
+
+
+
+
+
+job segment: 
+medical, engineer, software engineer, test engineer, cloud, healthcare, engineering, technology
+                    
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+    information technology job,
+human resources,
+featured jobs japan,
+featured jobs,
+engineering
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+netapp.com
+view all jobs
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

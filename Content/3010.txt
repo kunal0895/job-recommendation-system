@@ -1,0 +1,141 @@
+
+
+	job posting search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            currently logged in as 
+            
+[sign out]
+
+
+
+
+
+
+
+
+session expiration warning
+
+
+you've been inactive for a while. for your security, we'll log you out automatically. click "stay online" to continue your session. 
+your session will expire in 120 seconds.
+
+
+stay online
+logout
+
+
+
+
+
+
+
+
+
+
+
+
+        ? help
+    
+
+
+            job posting search results
+        
+showing results on a single job code: 16-00859
+
+
+
+
+sr. research analyst - software engineering
+16-00859
+
+
+email a friend
+
+
+printer friendly
+
+
+                    job summary:
+				
+
+responsible for architecting, designing, and developing front facing web-based user interfaces to present complex real-time streaming data and for designing back-end server side solutions to interface with legacy signal processing systems. there will be a significant role in working with technical peers and junior staff in championing and implementing long term sustainable web architecture solutions. preparing technical documentation as required. be involved in proposal development along with requirements analysis, design and implementation through to test, delivery and on-sight support. both formal and informal technical leadership roles and responsibilities working with and/or leading small teams of software engineers will be required. activities will include work at swri laboratories and interact directly with customers which may include travel, training and support activities. will work closely with project managers in planning activities.
+
+                    education/experience:
+				
+requires a bs or ms degree in computer science or related field with 7 - 12 years experience. must have at least a 3.3 gpa. must be experienced in software engineering processes including analysis of software requirements, application design, coding, unit and integration testing, software/hardware integration and documentation with an emphasis on web based application development preferably with real-time streaming data presentation; must have a track record of successful technical leadership roles on web development projects with a demonstrated history of increasing responsibility over time; experience designing, developing, and delivering both server-side and client-side web applications, including experience with apache web server, tomcat or spark, glassfish,  and other web-server systems is desired; experience in restful web services, model view controller (mvc), or other web architecture implementation styles is desired; must be able to analyze web development technologies and tools, make recommendations all while considering long term implications, trade-offs and costs; requires experience with javascript, html5, xml, css and be comfortable coding in c/c++ , java, and python.; while development may include windows, linux or other operating system environments candidates should be comfortable developing and deploying complex solutions in a linux environment; good interpersonal communication skills and mentoring ability is highly desirable; knowledge of continuous integration environments, sql databases, corba middleware and cloud technologies are desirable. current dod security clearance is highly desired. a valid/clear driver's license is required.
+
+                    this position requires passing the  test.
+	            
+
+                    special considerations:
+				
+applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.  applicant must be a u.s. citizen.
+job locations: san antonio, texas
+
+
+                    military friendly: your military experience may apply to this position
+	            
+for more information about this division, visit the <a href="http://www.swri.org/4org/d16/d16home.htm" target="_blank">defense & intelligence solutions</a> home page.
+
+                    an equal employment opportunity/affirmative action employer
+                    race/color/religion/sex/sexual orientation/gender identity/national origin/disabled/veteran
+                    committed to diversity in the workplace
+                
+
+
+
+
+
+
+job title
+applied on
+job code
+
+
+
+sr. research analyst - software engineering
+
+16-00859
+
+
+
+
+
+
+
+
+
+
+
+    if you need assistance, please contact us
+
+back to top
+
+
+
+
+            to save a new automated job alert - you must be logged into your profile. click 'login' to either save this job alert by logging in, or registering a new profile. 
+        
+
+
+
+
+

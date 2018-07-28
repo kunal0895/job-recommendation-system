@@ -1,0 +1,64 @@
+
+
+
+
+molecule - jobs: software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+software engineer
+
+software engineer
+houston, texas, united states
+
+descriptionmolecule, a surge accelerator graduate, is hiring mid-to-senior-level full-stack engineers. as a member of our team, you'll help us design, build, and deliver the very best commodities-trading software on the planet.you'll get to build production software using ruby on rails, ember, go, python, docker, kubernetes, and more—because we don't shy away from using bleeding-edge tech in production. as a member of our test-driven team, you'll find yourself doing things the right way, most of the time.the problem domain is complex, and if you have experience (or interest) in finance, statistics, or calculus, this could be the gig for you. sound interesting?  here's some more about the job:responsibilities: design, develop, and test new features for molecule's next-gen trading platform help eliminate tech debt write efficient, maintainable, and reusable code write and maintain unit and feature tests, and review other team members' code and tests mentor team members learn new technologies (and help your teammates learn them too) help the company grow by contributing to open source projects, and by representing molecule well within the developer community requirementsexperience & qualifications: 4+ years of experience developing full-stack applications with ruby on rails, node, or other open-source technologies high level of proficiency with ruby, sql, and javascript experience with asynchronous processing experience with agile software development a disciplined approach to development, documentation and code structure nice to haves: bs or ms in computer science or related field experience in finance, or energy/commodities/equity trading experience with devops: kubernetes, docker, postgres, aws, and/or tdd experience with enterprise-grade software and high-security environments experience working at a tech startup currently living in houston, tx or austin, tx (although we will hire remotely, or telecommuters, as well) benefitsmolecule has an awesome benefits package—one that fits right in with the small company that we are.  benefits include: full medical, dental, and vision insurance (99% company-paid) life and ad&d (100% company-paid) no limit on paid vacation days (within reason) sick time, as-you-need-it. $1000 every 18 months towards a byod policy, and at least 2 monitors. :) an environment matching our values. 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+molecule
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+molecule website
+
+powered by
+workable
+
+
+
+
+

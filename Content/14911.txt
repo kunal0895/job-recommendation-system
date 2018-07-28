@@ -1,0 +1,141 @@
+
+
+	jr. software engineer #314213 denver, co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jr. software engineer
+denver, co
+
+
+
+
+
+apply
+view all jobs
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+company information
+
+
+job description
+
+	crownpeak is looking for full stack web development expertise to join our engineering team. we’re building highly collaborative, agile teams that are diverse and well-rounded. we advocate for continuous learning and continuous improvement as individuals and as a whole. building on engineering best practices like test automation, code review, and static analysis, we’re passionate about solving problems in a supportive, high-growth environment.
+
+	responsibilities
+
+
+		 design and develop high-quality features and interfaces
+
+		 participate in code reviews
+
+		 become familiar with company engineering systems and tools
+
+		 learn and embrace agile software engineering best practices such as pair programming, tdd/bdd, static analysis, and continuous test.
+
+		 participate in local community events such as meet ups and conferences.
+		 
+
+
+
+skills & requirements
+
+	requirements
+
+
+		 dedication to the craft of software engineering and architecture
+
+		 experience with web development and relational database technologies
+
+		 strong ability to design effective solutions to complex problems
+
+		 knowledge of agile software development approach and methodologies
+
+		 excellent debugging/analytical skills
+
+
+	technologies
+	experience in our tech stack is a plus but interest is required.
+
+
+		 angularjs and typescript
+
+		 asp.net, c#, and wcf
+
+		 java/scala, solr, hadoop, kafka and spark
+
+		 relational databases like ms sql server or mysql
+
+
+	about crownpeak
+
+	crownpeak provides web content management software-as-a-service (saas) to large global enterprises.  web content management enables digital marketers and e-business teams to create and manage web and mobile sites, target content to specific audiences and analyze visitor behavior.  organizations such as metlife, the bank of new york mellon, aflac, prudential, eli lilly and deloitte have deployed over 3,500 major web and mobile sites on the platform.
+
+	crownpeak encourages creativity and professional growth along with a competitive salary and benefits package including medical, dental, vision, life, 401(k), paid vacation, holidays, and more.
+
+
+
+
+
+apply
+view all jobs
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+entry level software engineer job in west mifflin, pa for naval nuclear laboratory | engineering/science
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+entry level software engineer
+
+west mifflin, pa
+
+
+
+
+search other jobs
+apply now
+
+
+
+
+
+
+
+
+
+
+
+search again
+
+
+job attributes
+
+req code
+19918
+location
+bettis laboratory west mifflin, pa 15122  us
+category
+engineering/science
+type
+full-time
+career level
+entry level
+education
+bachelor's degree
+division
+new design
+organization
+shipboard electrical systems
+shift type
+
+first shift
+date posted
+2017-11-21 14:36:50
+
+apply now
+
+share this on
+
+
+
+
+
+
+
+
+
+
+
+
+share this on:
+
+
+
+
+
+
+
+
+home
+about us
+who we are
+media
+suppliers
+careers
+
+
+
+
+
+new search
+previous search
+
+
+
+
+
+entry level software engineer
+west mifflin, pa
+
+
+
+
+job description
+
+
+
+bmpc is seeking a computer engineer or software engineer to join our shipboard electrical systems - software architecture development team.  the responsibilities of this position involve development of operating system software and communications and services middleware for embedded systems, and the associated development tools, spanning the entire product lifecycle .  this includes requirements development, embedded software and firmware design, documentation, qualification and testing, initial deployment, training and field support.
+this development is required by the navy to support distributed, high speed embedded controls for a range of propulsion plant applications to be developed and fielded on current and future navy platforms.  software and firmware design work will be performed within the context of a multi-disciplinary team of embedded systems designers and applications engineers.  the resulting software and firmware work products, tools and training deliverables will be developed for release to navy component and system suppliers for integration into propulsion plant systems.
+the selected engineer will be responsible for working within the multi-disciplinary team to complete the development and delivery of the products and their related development and automation tools, training the navy equipment suppliers in the use and integration of these products and tools and supporting the suppliers in their development of the application software for the integrated shipboard equipment.  these responsibilities include testing of the software and firmware products on  hardware building blocks (hwbbs) used by the navy suppliers in the integrated shipboard equipment, developing and building software applications for testing the hwbbs, testing the hwbbs configured in test platforms in a manner that replicates the expected shipboard configurations.
+
+
+job requirements
+
+associate:
+bs degree in computer engineering or software engineering from an accredited college or university required
+intermediate:
+bs degree in computer engineering or software engineering from an accredited college or university and a minimum of two years of relevant experience; or
+ms degree in computer engineering or software engineering from an accredited college or university.
+technical skills:  the applicant must be proficient in programming in c++.
+job preferred skills
+
+
+experience in embedded systems design and/or testing. 
+experience in programming in vhdl or verilog.
+
+
+
+apply now
+
+
+
+
+
+
+
+
+sitemap
+home
+about us
+who we are
+media
+suppliers
+careers
+contact us
+
+
+follow us
+
+
+
+
+
+
+
+career opportunities
+administrative (2)business support (3)contracts (7)craft workers (2)engineering/science (78)facilities (1)human resources (3)information technology (22)management (3)project management (5)publications and graphic arts (1)technicians (11) 
+
+
+
+
+				all candidates must be u.s. citizens. applicants selected will be subject to a federal background investigation and must meet eligibility requirements for access to classified matter.
+what to expect when being processed for a doe security clearance | departmental personnel security faqs
+				
+				bechtel marine propulsion corporation is an equal opportunity employer and is committed to workforce diversity.
+				click here to view the poster, eeo is the law and its supplement.
+			
+
+supporting the nation since 1946
+© 2017 naval nuclear laboratory
+
+
+
+
+
+
+
+
+

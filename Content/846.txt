@@ -1,0 +1,142 @@
+
+
+
+
+netsertive careers - data quality assurance engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                                                    netsertive careers                                            
+
+
+
+
+
+
+
+                data quality assurance engineer
+    
+    
+
+                            software engineering            
+                    morrisville,
+                            north carolina
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+who is netsertive?                                                                                              we are a technology and digital marketing intelligence company that empowers product brands & local businesses to win the fight online. we combine this advanced technology with deep knowledge of specific vertical industries, partnering closely with local businesses, multi-location retailers, and national brands to drive sales opportunities in their targeted local markets throughout north america.we don't hesitate to go left when others go right, or bob while everyone else weaves. we are the purple cows of the world. we are not for everyone and applicants seeking a job instead of an awesome career need not apply. ping pong happens to be our favorite olympic sport. even if you don’t play, you have to enjoy being a spectator!is your motto “work hard, play hard”?you are self-motivated and competitive person, but you are also a team player. you are an ambitious overachiever who thrives in a fast-paced, rapidly growing and sometimes chaotic environment. you are someone who likes to understand why things are broken, and come up with new ideas to fix them. your vocabulary does not include the words “okay” or “acceptable.” with regards to high standards, your bar is higher than the rest. you are a pack leader, not a follower. you connect with clients in a genuine way in order to manage expectations, obtain information, advance their objectives and deliver results. you thrive on the excitement, agility and pace of a start-up environment and are adept at prioritizing (and re-prioritizing) tasks and resolving unexpected events on a daily basis. you are enthusiastic and excited to work with a team of professionals to solve problems and generate results.the position:the data quality engineer is a cross-discipline software testing position with a focus on quality assurance of our company’s data assets. the successful candidate has experience with complex data systems and working knowledge of etl concepts, as well as a passion for ensuring data consistency, accuracy and integrity of moving data. this engineer will work with dbas, engineering and product management to produce high-quality data products.responsibilities: develop suitable test plans, test suites, and test scenarios.create, validate, and execute manual test cases and automated test scripts.work with scrum team, overseeing testing duties among the team, to assure quality assurance processes are being followed.recommend and assist with implementing qa process improvements.perform functional, regression, and system tests and analyze results.interpret issues, defects, error messages, logs, and generate reports.document, track, and resolve issues, defects, enhancements, and user stories.mentor and oversee work of junior qa engineers.minimum qualifications:bachelor’s degree in an it related field.minimum 2 years relevant qa software testing experience.software engineering or programing experience is a plus.knowledge of google adwords  is a plus.must have experience performing software testing on a variety of operating systems, browsers, and mobile devices.strong knowledge writing advanced sql queries.bash scripting and linux commands are a plus. experience with php, python, and java a plus.solid understanding and knowledge of qa methodologies, processes, and sdlc.solid understanding and knowledge of agile and scrum development cycles.experience using test automation tools and creating automated test scripts.experience using defect tracking or test management tools.proven and well developed analytical and problem solving skills.results oriented with a keen attention to detail.demonstrated ability to multi-task and follow through on projects to completion.experience working in a team oriented fast paced development environment.excellent organization, planning, and written and verbal communication skills.flexible and interested in a small company with lots of growth opportunity.likes to have fun!
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

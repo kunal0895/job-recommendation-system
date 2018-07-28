@@ -1,0 +1,374 @@
+
+
+
+        data engineer, etl -        marketing evolution -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for visiting our job board! please review our openings and apply to the position you're interested in.  
+
+
+
+data engineer, etl
+
+
+new york, ny                    
+
+full time                
+
+entry level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position overview
+marketing evolution provides marketing roi insights to fortune 500 companies by aggregating and analyzing vast amount of both public and proprietary data feeds.  as a data engineer, you will be responsible for building and supporting etl pipelines to make data consumable by our predictive analytics process.
+responsibilities
+
+design and implement new etl pipelines based on client business logic.
+optimize and scale existing etl pipelines.
+develop tools to support etl platform.
+perform ad-hoc queries to support client teams.
+
+technologies we use
+
+python, spark, aws, airflow, bash, docker, sql, scala, hive.
+
+skills and experience
+required:
+
+strong communication skills relating technical work to non-technical people.
+bachelor’s degree or higher in a relevant technical field, or comparable work experience.
+competence in python and sql.
+working knowledge of unix systems, such as fedora, centos, redhat, etc.
+understanding of data quality best practices.
+
+preferred:
+
+experience working with big data technologies such as hadoop, hive, pig, spark, presto, etc.
+experience working in a cloud-based infrastructure, such as amazon aws or cloudera.
+competence in at least one oop language, such as java, scala, c++, etc.
+experience working with nosql database technologies such as mongodb, cassandra, etc.
+
+metrics for success
+all employees have annual career growth goals based on their position and core skills/development areas;  you’ll receive project-based performance reviews quarterly, and career reviews bi-annually
+customer satisfaction and the ability to drive large efficiency gains are the most important measures of success
+marketing evolution cultural values
+we seek candidates who are excited to work at a company with the following cultural values:
+
+disrupt the norm: cherish the opportunity to find better ways to do things, regardless of how disruptive or initially painful it might be.
+dissent then execute: raise issues and fixes in the planning stage, but when it’s time to execute, execute diligently and without reservation.
+test and learn: when developing new processes or features, link it to a hypothesis, and evaluate that hypothesis without bias.
+nothing is impossible: imagine what’s possible and then have the discipline to execute it. one without the other is not valuable.
+defect is treasure: every mistake is an opportunity for the organization to learn and make improvements.
+share success: given how hard it is to promote change in our industry, celebrate each success along the way.
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+what's your citizenship / employment eligibility?
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+are you 18 years of age or older?*
+-- no answer --yesno 
+
+are you able to provide proof of eligibility to live and work in the united states of america?*
+-- no answer --yesno 
+
+will you now, or sometime in the future, require sponsorship for an employment visa status (for example, h-1b visa)? if so, when will you require sponsorship?*
+ 
+
+describe your interest in the role in which you are applying, as well as marketing evolution?*
+ 
+
+how were you referred to marketing evolution? were you referred by a marketing evolution employee?  if so, who? we want to thank our employees for helping us to find top talent!*
+ 
+
+what are your salary expectations?*
+ 
+
+when are you available to begin employment?*
+ 
+
+are you willing to relocate? we have locations in los angeles, ca, new york, ny, sacramento, ca., and in some instances, remotely. please note, specific roles may be location specific, please inquire when applying.*
+ 
+
+do you have a github account or another location that you can share with us to see code examples or previous work?  if so please provide.*
+ 
+
+tabs or spaces?*
+ 
+
+the following questions are entirely optional.
+
+                        to comply with government equal employment opportunity / affirmative action reporting regulations, we are requesting (but not requiring) that you enter this personal data. this information will not be used in connection with any employment decisions, and will be used solely as permitted by state and federal law. your voluntary cooperation would be appreciated. learn more.
+                    
+
+
+
+gender
+
+decline to answerfemalemale
+
+ 
+
+
+race/ethnicity
+
+decline to answerwhite (not hispanic)african american/black (not hispanic)hispanic/latinoasianpacific islanderamerican indiannative alaskannative hawaiianmulti-racial
+
+ 
+
+
+veteran/disability status
+
+decline to answerdisabled veteranspecial disabled veteranvietnam era veteran3 yr. recently separated veteran1 yr. recently separated veteranother protected veterandisabled individualnot applicable
+
+ 
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

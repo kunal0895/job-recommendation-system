@@ -1,0 +1,849 @@
+
+
+	application developer opportunity description | steadyrain - st. louis, mo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+industries
+opportunities
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+services
+...
+
+
+
+
+strategy
+...
+
+
+
+
+strategic planning
+
+
+information architecture
+
+
+web consulting
+
+
+application architecture
+
+
+online reputation management
+
+
+search & rescue website
+
+
+user interface strategy
+
+
+
+
+
+web design
+...
+
+
+
+
+web content management
+
+
+user interface design
+
+
+user experience design
+
+
+
+
+
+production
+...
+
+
+
+
+design to template
+
+
+content styling
+
+
+website maintenance
+
+
+
+
+
+web development
+...
+
+
+
+
+marketing website
+
+
+intranet development
+
+
+extranet development
+
+
+web applications
+
+
+ecommerce development
+
+
+product development partnerships
+
+
+
+
+
+training
+...
+
+
+
+
+dnn evoq content training
+
+
+orchard cms training
+
+
+
+
+
+mobile
+...
+
+
+
+
+responsive web design
+
+
+enterprise application development
+
+
+mobile application development
+
+
+tablet development
+
+
+bluetooth development
+
+
+mobile marketing
+
+
+
+
+
+digital marketing
+...
+
+
+
+
+search engine optimization (seo)
+
+
+paid search marketing
+
+
+social media marketing
+
+
+email marketing services
+
+
+retargeting
+
+
+content marketing
+
+
+
+
+
+
+
+
+solutions
+...
+
+
+
+
+spark:community
+
+
+spark:enrollment
+
+
+spark:tourism
+
+
+
+
+
+platforms
+...
+
+
+
+
+dnn evoq content
+...
+
+
+
+
+dnn consulting
+
+
+dnn skin design
+
+
+dnn development
+
+
+dnn training
+
+
+dnn licenses
+
+
+
+
+
+orchard cms
+...
+
+
+
+
+orchard consulting
+
+
+orchard design
+
+
+orchard development
+
+
+orchard training
+
+
+
+
+
+sharepoint
+...
+
+
+
+
+sharepoint branding
+
+
+
+
+
+sitefinity cms
+...
+
+
+
+
+sitefinity ecommerce development
+
+
+sitefinity responsive design
+
+
+
+
+
+umbraco cms
+...
+
+
+
+
+experienced umbraco developer
+
+
+umbraco template design
+
+
+
+
+
+wordpress
+...
+
+
+
+
+wordpress development
+
+
+wordpress design
+
+
+
+
+
+apple ios
+...
+
+
+
+
+ios app development
+
+
+
+
+
+android os
+...
+
+
+
+
+android development
+
+
+
+
+
+
+
+
+portfolio
+...
+
+
+
+
+services
+...
+
+
+
+
+strategy
+
+
+design
+
+
+mobile
+
+
+production
+
+
+digital marketing
+
+
+development
+
+
+
+
+
+platforms
+...
+
+
+
+
+dnn evoq content
+
+
+microsoft sharepoint
+
+
+orchard cms
+
+
+
+
+
+solutions
+...
+
+
+
+
+spark:enrollment
+
+
+spark:tourism
+
+
+
+
+
+industries
+...
+
+
+
+
+banking
+
+
+education
+
+
+health care
+
+
+manufacturing
+
+
+tourism
+
+
+
+
+
+
+
+
+digital clarity
+...
+
+
+
+
+blog
+
+
+articles
+
+
+infographics
+...
+
+
+
+
+local search uncovered
+
+
+mobile america
+
+
+geek pride day
+
+
+
+
+
+
+
+
+industries
+...
+
+
+
+
+banking
+
+
+education
+
+
+healthcare
+
+
+manufacturing
+
+
+startups
+
+
+tourism
+
+
+
+
+
+about us
+...
+
+
+
+
+news
+
+
+awards
+
+
+culture
+
+
+management team
+
+
+opportunities
+
+
+
+
+
+opportunities
+...
+
+
+
+
+employment
+
+
+strategic alliances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web application developer opportunity description
+
+
+web application developer 
+
+
+research & development
+full time
+
+
+
+i'm interested in this position with steadyrain!
+
+the web application developer is responsible for the creation and maintenance of various .net web application projects. the right candidate for this position will implement requirements using various technologies across the full stack, test and debug issues, and use version control software by utilizing knowledge of standard concepts, practices and procedures in application and database development. additional responsibilities include integrating front-end elements built by our front-end developers into applications.   
+key accountabilities: 
+
+integration of user-facing elements developed by      front-end developers with server side logic.
+building reusable code and libraries for future use.
+implementation of requirements and data protection.
+
+knowledge & experience candidate must have to qualify: 
+
+minimum of 3 years' experience with web development in      the following areas.
+knowledge of a web development environment including      experience in the following: 
+
+custom development in .net (with c#), asp.net
+restful webapi / ajax
+javascript / jquery
+webforms, mvc, html5, and css3
+entity framework and how to write complex linq       statements
+
+proven problem-solving abilities, detail oriented and focus on quality assurance of work
+
+set yourself apart - nice to have: 
+
+dotnetnuke
+bootstrap integration
+ms sql server, writing complex, optimized queries and stored procedures
+knockout.js or comparable data binding jquery library
+github
+
+
+
+benefits: 
+at steadyrain, our greatest asset is our people – our diverse network of experts is what makes our company the vibrant and growing enterprise it is today. similar to how we deliver comprehensive client strategies; our benefits have been designed to deliver comprehensive coverage to our employees. full-time employees are eligible for benefits on the 1st of the month following 30 days. 
+
+flexible work from home opportunities
+medical insurance
+dental insurance
+vision insurance 
+basic life/ad&d 
+voluntary life insurance available
+long-term disability 
+flexible spending account for medical and child care
+401k investment plan with a company match
+paid vacation 
+paid time off 
+
+
+steadyrain is an equal opportunity employer
+
+
+apply now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+services
+
+strategy
+web design
+production
+web development
+training
+mobile
+digital marketing
+
+
+solutions
+
+spark:community
+spark:enrollment
+spark:tourism
+
+
+platforms
+
+dnn
+orchard
+sharepoint
+sitefinity
+umbraco
+wordpress
+
+
+portfolio
+
+by service
+by platform
+by solution
+by industry
+
+
+industries
+
+banking
+education
+manufacturing
+tourism
+
+
+about
+
+news
+articles
+awards
+culture
+management team
+
+
+digital clarity
+opportunities
+contact
+
+
+
+
+about us
+industries
+opportunities
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sitemap
+privacy policy
+
+
+client login
+
+
+copyright ©1999-2017 steadyrain, inc. all rights reserved.
+
+
+
+
+716 geyer avenue, suite 400
+
+st. louis,
+					mo
+63104
+
+
+866.571.2826
+
+strategy@steadyrain.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

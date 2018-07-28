@@ -1,0 +1,318 @@
+
+
+
+position details
+
+
+
+
+
+
+
+
+
+
+    â
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+drones
+
+
+
+multirotor
+
+
+fixedwing
+
+
+
+
+
+sensors
+
+
+
+
+software
+
+
+
+precisionflight
+
+
+dji
+
+
+lancaster
+
+
+
+
+precisionviewer
+
+
+precisionmapper
+
+
+
+
+
+analytics
+
+
+
+
+tracking
+
+
+
+
+services
+
+
+
+flight servicing
+
+
+training
+
+
+
+
+consulting
+
+
+
+
+
+
+industries
+
+
+
+agriculture
+
+
+construction
+
+
+energy
+
+
+insurance
+
+
+government
+
+
+
+
+
+contact
+
+
+
+
+log in
+
+
+
+precisionmapper
+
+
+latas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a great workplace, full of good people creating global impact
+
+
+
+
+
+
+
+software developer
+raleigh, nc
+
+
+apply now
+
+
+
+
+
+
+
+  
+career level
+mid-senior career
+
+
+  
+department
+software development
+
+
+  
+employment type
+full-time
+
+
+
+
+â â are you a software developer excited about the possibility of working on a small team to build cutting edge technology?â  at precisionhawk, weâre building technologies that change the way we view and interact with the world. our developers consistently push the boundaries of whatâs possible with drone technology,â and we pride ourselves on finding new ways to process data to solve real global problems.â 
+how would you utilize your experience designing and developing software applications at precisionhawk? here are a few examples of what you can expect to do and learn:
+
+build high-quality software components for precisionhawkâs platform
+collaborate directly with project management, product, design, and engineering teams on new product features
+help to build the technical processes, select the frameworks, and establish the design patterns that will drive our application's continued growth
+assist with code reviews and provide feedback on code quality
+develop documentation and design materials, as needed
+
+you may expect to see a laundry list of requirements at this point. instead, we thought we would tell you a little bit about our tech stack and if you'd like to learn more, letâs be in touch.â 
+the technology we use includes:
+
+java, ruby on rails, javascript (es5 and es6), and python
+mobile application development including android (java) and ios (swift) development
+single-page application development with react and redux
+amazon web services
+gis applications (e.g. esri, arcgis, proj4j, postgis, grass, qgis)
+
+if you have experience with some of the technologies we use, great! if not, that's okay, too. weâre looking for talented, intellectually curious developers who canâ apply their skillset to any tech stack.â  together, weâll do things that have never been done!â  
+
+
+
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+about
+
+team
+careers
+
+
+
+media
+
+news
+video
+
+
+
+privacy policy updated
+
+
+contact
+
+
+
+
+
+espaã±ol
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© precisionhawk 2017
+
+
+the precisionhawk platform has caa us coa and sfoc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

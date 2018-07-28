@@ -1,0 +1,440 @@
+
+
+
+
+
+
+		application developer, front-end
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+application developer, front-end
+technology – dresher, pennsylvania
+
+
+apply for this job
+
+
+
+
+department
+technology
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+
+
+
+
+
+
+
+
+application developer, front-end
+we're seeking a application developer focused on front-end technologies to join our web application team in dresher, pa. our challenge is to provide applications as kbra continues to grow and expand its client base in the financial services industry. each department has a number of different needs, but there is also some overlap, so we have to make constant decisions to avoid code duplication, such as creating microservices or authoring libraries.
+ 
+about the team
+our development team believes that code is craft, writing software is a creative endeavor, and that the work we do is part of what makes our organization successful. we believe that small, empowered teams can do amazing things.  we also believe in always picking the right tool for the job instead of using something "because that's what we've always done."
+we use a number of technologies in our projects, including:
+
+php and c# 
+jquery, polymer, angular 4, and react
+rest apis and graphql
+bootstrap customized with grunt and less
+sql server and mysql
+
+about the job
+ 
+you'll be helping us build new tools for the rapidly growing departments in our organization, including internal applications, web-accessible rest apis, and front-end user experiences. you will also be responsible for updating and maintaining existing front-end projects/libraries in order to make sure they remain consistent with or front-end standards.  the teams assigned to each project are typically two or three developers who work closely with our project management team and internal users. you'll use your extensive knowledge of javascript, html, and css to improve our web-based applications. you will be responsible for helping us improve our front-end standards and help maintain documentation related to those standards.
+about you
+you're a developer who can turn requirements into reliable code that other people -- and your future self -- will find easy to read and modify. 
+you will be successful in this role if you:
+
+write client-side javascript, both with and without frameworks.
+have experience with modern javascript and typescript
+have expertise in building complex layouts with css and html.
+enjoy helping other developers grow and learn new technologies.
+have strong ux and design sensibilities, and a desire to sweat the small stuff.
+can be autonomous and self-driven.
+have excellent written and verbal communication skills.
+
+
+ about us
+kroll bond rating agency (kbra) was established in 2010 to restore trust in credit ratings by creating new standards for assessing risk and by offering accurate, clear and transparent ratings. kbra is registered with the u.s. securities and exchange commission as a nationally recognized statistical rating organization (nrsro). in addition, kbra is recognized by the national association of insurance commissioners (naic) as a credit rating provider (crp).
+kbra has over 270 professionals in our new york, ny, frederick, md, and dresher, pa offices. kbra’s affiliate, kbra europe has an office in dublin, ireland.
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+
+
+no file selected
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+
+
+who referred you for this position?
+
+
+
+
+
+
+
+
+
+will you require sponsorship to work in the us now or in the future?
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+dresher, pennsylvania
+
+
+department
+technology
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

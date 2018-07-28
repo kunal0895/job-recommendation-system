@@ -1,0 +1,215 @@
+
+
+data scientist in livermore, ca - careers at lawrence livermore national laboratory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lawrence livermore national laboratory
+
+
+
+
+
+
+
+
+careers at lawrence livermore national laboratory
+
+
+
+
+
+
+
+
+
+
+
+culture
+
+diversity & inclusion
+history
+
+
+benefits
+ students
+postdocs
+jobs
+virtual tours
+faq
+
+
+
+
+
+
+
+
+
+
+
+
+  home  /  jobs  /  data scientist 
+
+
+
+
+data scientist
+
+location: livermore, ca
+category: science & engineering
+organization: computation
+posting requirement: external w/ us citizenship
+job id: 103069
+job code: science & engineering mts 2 (ses.2) / science & engineering mts 3 (ses.3)
+date posted: november 02 2017
+
+
+
+ share this job 
+
+
+
+
+
+
+
+
+
+apply now
+apply for this job
+
+
+
+  science and technology on a mission!for more than 60 years, the lawrence livermore national laboratory (llnl) has applied science and technology to make the world a safer place.  we have multiple openings for data scientists to provide solutions for various projects.  you will work in a dynamic, multidisciplinary team of independent/entrepreneurial computer scientists and engineers who research, develop, and integrate state-of-the-art algorithms, software, hardware, and computer systems solutions to challenging research and development problems. these positions are in the computation directorate.these positions will be filled at either the ses.2 or ses.3 level depending on your qualifications.  additional job responsibilities (outlined below) will be assigned if you are selected at the higher level.essential duties- collaborate with scientists and researchers in one or more of the following areas: data intensive applications, text processing, graph analysis, machine learning, statistical learning, information visualization, low-level data management, data integration, data streaming, scientific data mining, data fusion, massive-scale knowledge fusion using semantic graphs, database technology, programming models for scalable parallel computing, application performance modeling and analysis, scalable tool development, novel architectures (e.g., fpgas, gpus and embedded systems), and hpc architecture simulation and evaluation.- work with other llnl scientists and application developers to bring research results to practical use in llnl programs.- assess the requirements for data sciences research from llnl programs and external government sponsors.- carry out development of data analysis algorithms to address program and sponsor data sciences requirements.- engage other developers frequently to share relevant knowledge, opinions, and recommendations, working to fulfill deliverables as a team.- design technical solutions independently, participate as a member of a multidisciplinary team to analyze sponsor requirements and designs, and implement software and perform analyses to address these requirements.- develop and integrate components-such as web-based user interfaces, access control mechanisms, and commercial indexing products-for creating an operational information and knowledge discovery system.- perform other duties as assigned.in addition at the ses.3 level- lead multiple parallel tasks and priorities of customers and partners to ensure complex deadlines are met.- responsible for various complex projects, use team members’ skills to complete complex projects/tasks, and solve abstract complex problems/ideas and convert them into useable algorithms/software modules.- provide solutions that require in-depth analysis of multiple factors and the creative use of established methods.qualifications- bachelor’s degree in computer science, computer engineering, or related field, or the equivalent combination of education and related experience.- comprehensive knowledge of one or more of the following: high performance computing, scientific data analysis, statistical analysis, knowledge discovery, computer security, systems programming, large-scale data management, and big data technologies.- skilled in all aspects of the software project life cycle: feasibility, requirements, design, implementation, integration, test and deployment.- experience developing software with c++, c, java, python, r, or matlab, software applications in linux, unix, windows environments, data analysis algorithms, data management approaches, relational databases, or machine learning algorithms.- demonstrated ability to effectively handle concurrent technical tasks with conflicting priorities, to approach difficult problems with enthusiasm and creativity and to change focus when necessary, and to work independently and implement research concepts in a multi-disciplinary team environment, where commitments and deadlines are important to project success.- effective interpersonal skills necessary to interact with all levels of personnel.- proficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.in addition at the ses.3 level- effective advanced analytical, problem-solving, and decision-making skills to develop creative solutions to complex problems.- significant experience with demonstrated expertise in the following technical languages, concepts, or constructs and in one or more of the following advanced areas: high performance computing, scientific data analysis, statistical analysis, knowledge discovery, computer security, systems programming, large-scale data management or big data technologies.- advanced verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information and provide advice to management.  pre-employment drug test:  external applicant(s) selected for this position will be required to pass a post-offer, pre-employment drug test.   anticipated clearance level:  this position requires a department of energy (doe) q-level clearance.if you are selected, we will initiate a federal background investigation to determine if you meet eligibility requirements for access to classified information or matter. in addition, all l or q cleared employees are subject to random drug testing. if you hold multiple citizenships (u.s. and another country), you may need to renounce your non-u.s. citizenship before a doe clearance will be processed/granted.  note:  this listing has multiple openings; these are career indefinite positions.  lab employees and external candidates may be considered for these positions.  about uslawrence livermore national laboratory (llnl), located in the san francisco bay area (east bay), is a premier applied science laboratory that is part of the national nuclear security administration (nnsa) within the department of energy (doe). llnl's mission is strengthening national security by developing and applying cutting-edge science, technology, and engineering that respond with vision, quality, integrity, and technical excellence to scientific issues of national importance. the laboratory has a current annual budget of about $1.8 billion, employing approximately 6,500 employees.llnl is an affirmative action/ equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, marital status, national origin, ancestry, sex, sexual orientation, gender identity, disability, medical condition, protected veteran status, age, citizenship, or any other characteristic protected by law.
+
+
+apply for this job
+
+
+
+
+
+talent network
+join our talent network
+
+
+joining our talent network will enhance your job search process.
+find out about future opportunities by registering your details
+            with us.
+just upload your resume and complete a few simple questions about the type of
+            position you are looking for. once your profile is complete, our recruiting
+            team will be able to match you to suitable roles.
+we look forward to staying connected with you!
+
+related jobs
+
+security and system software developer (103189)
+hpc system engineer (103192)
+network engineer (103197)
+hpc software developer (103188)
+cybersecurity engineer (103182)
+
+
+
+
+
+
+
+
+
+
+
+
+culture
+
+diversity & inclusion
+history
+
+
+benefits
+students
+postdocs
+virtual tours
+faq
+
+
+
+
+
+
+
+
+                        lawrence livermore national laboratory
+                        7000 east avenue • livermore, ca 94550
+                    
+
+                        operated by lawrence livermore national security, llc, for the
+                        department of energy's national nuclear security administration.
+                    
+
+
+
+
+
+
+
+
+llnl-web-677430  |  privacy & legal notice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

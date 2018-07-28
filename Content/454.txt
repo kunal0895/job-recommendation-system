@@ -1,0 +1,302 @@
+
+
+
+        big data engineer -        tempus -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+                                                                         tempus                                                                        
+
+
+
+
+
+
+
+
+
+big data engineer
+
+
+chicago, il                    
+
+full time                
+
+software development and data science                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+passionate about making a difference in the world of cancer genomics?
+with the advent of genomic sequencing, we can finally understand our genetic makeup. we now have more data than ever before but providers don't have the infrastructure or expertise to make sense of said data. here at tempus, we are building the infrastructure to modernize cancer treatment. by analyzing a patient’s genetic data in the context of molecular therapies, we empower physicians to make real-time data-driven decisions in clinic based on the comprehensive computational analysis of a patient’s unique pathology. we're looking for engineers who are passionate about changing the status quo and bringing cancer care into the 21st century.
+what you'll do:
+
+partner with product managers, software engineers, and data scientists to design, document, and implement relational and dimensional data models.
+implement and maintain robust etl/elt to populate an edw and data marts.
+collaborate with data scientists to operationalize data processing models.  
+inform the data platform roadmap by distilling cloud technology options into an opinionated recommendation.
+integrate source data quality measures into the edw, and work with data owners to identify actions plans to improve.
+
+qualifications:
+must have:
+
+experience implementing solutions with at least one commercial / open-source etl platform to load a multi-terabyte data warehouse.
+excellent sql skills and proficiency in query performance tuning.
+ability to articulate use cases for open-source / cloud vendor big data technologies.
+experience parsing semi-structured (json, xml, edi) and store in a tabular data model.
+experience writing data parsing/transformation in python.
+experience in agile environments and comfort with quick iterations.
+prior experience as a role with production responsibility (database / system administrator).
+demonstrated success in influencing solutions  without formal authority.
+
+great if you have:
+
+experience with enterprise workload automation / schedulers.
+healthcare domain knowledge and experience with healthcare transmission formats and data models.
+experience consuming data from nosql database systems.
+experience in configuration and management tools such as terraform, puppet, chef, ansible, salt or aws cloud formation.
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

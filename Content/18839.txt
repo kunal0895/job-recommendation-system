@@ -1,0 +1,570 @@
+
+
+authentic8 company
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+authentic8
+support
+
+
+about
+people
+jobs
+contact
+support
+blog
+
+
+
+silo
+v
+
+
+overview
+who
+what
+pricing
+get
+
+
+
+
+
+
+
+
+
+
+
+
+authentic8
+silo
+
+
+
+
+
+we'd love to hear from you
+
+
+
+phone number
+1 (877) 659 6535
+
+
+
+
+contact e-mail
+
+info@authentic8.com
+
+
+
+
+
+sales e-mail
+
+sales@authentic8.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+people
+jobs
+contact
+← silo overview
+
+try silo now
+
+
+
+
+
+
+
+
+about us
+
+                authentic8 is a company born from another.
+            
+
+
+                postini pioneered the idea that a cloud service
+                could solve the problems with email, and back in 1999 this was heresy.
+                but, we broke new ground and built a service that our customers loved and google coveted. authentic8 is a very different idea, but the parallels with postini are many. we are addressing a real problem, we have a novel approach, and we thrive on delighting customers.
+            
+                our thesis is simple. as business apps move to the cloud, the browser is more important than ever. yet it's an unmanageable resource, especially as users login from anywhere and any device. we think its a problem worth solving, but it requires a radical shift in thinking. so we came up with silo.
+            
+                as a team we are direct and pragmatic. our culture is pretty straightforward. we actively manage a no ***hole policy and we grade ourselves on two dimensions: doing things right and doing the right things.
+            
+                learn more about us in the people section, or drop us a line. we'd love to hear from you. 
+            
+
+
+
+↓
+
+
+
+
+our people
+
+                the team is a good mix of experience and youth. there are 
+                offices in mountain view and san francisco, and people are free
+                to roam between them. everyone gets together in mountain view
+                at least one day a week, and the rest of the time we use google
+                hangouts to keep in touch.
+            
+
+
+
+
+
+scott petry
+co-founder & ceo
+
+                            prior to authentic8, scott founded postini and 
+                            served in a variety of c-level roles until its
+                            acquisition by google in 2007.
+                        
+
+linkedin
+twitter
+
+
+
+
+
+
+
+
+
+
+
+ramesh rajagopal
+co-founder & head of product
+
+                            prior to starting authentic8, ramesh held technology
+                            and business roles at a number of organizations
+                            including microsoft and postini/google.
+                        
+
+linkedin
+twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+les dunston
+head of operations
+
+                            prior to joining authentic8, les held technical
+                            operations roles at a number of companies including
+                            cisco, appliedmicro, and tangome.
+                        
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+alfredo cardenas
+head of customer success
+
+                            an accomplished client services pro, with over 15
+                            years of enterprise level pre-sales, consulting, and
+                            technical support experience.
+                        
+
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+drew paik
+head of marketing
+
+                            drew has over 18 years experience managing sales and
+                            marketing teams at companies like microsoft, mcafee,
+                            postini, and google.
+                        
+
+linkedin
+twitter
+
+
+
+
+
+
+
+
+
+
+↓
+
+
+
+
+jobs
+
+                like everyone else, we're hiring... but that's where the similarity ends
+            
+
+
+                we build small, highly effective teams and solve problems using brain not brawn. we have no alignment meetings, steering committees, or other big company bs. if you're interested in being another oompa loompa to buzz around the chocolate factory, then authentic8 isn't for you.
+            
+                if you have serious chops in eng, ops, or product, want to solve hard problems and create great products, please drop us a line at recruiting@authentic8.com telling us about yourself.
+            
+ current openings
+
+
+
+1
+windows application engineer
+/ mountain view, ca
+
+×
+
+
+
+                            authentic8 is looking for a windows application software engineer to build high quality applications that hide complexity behind a beautifully simple interface. you will need to be highly skilled in development of windows desktop apps in c++, visual studio, network communications, and multi-threaded designs. experience with vpn clients, multimedia, or remote display tech is highly desired.
+                        
+
+
+duties
+requirements
+highly desired
+
+
+
+
+design and implement remote client application for the authentic8 secure servicework with senior staff on feasibility of client solutions and system requirementsresearch and rapid prototyping in support of quick decision making
+
+
+experience developing applications for communication products (e.g. vpn clients, chat clients, voip systems)5-7+ years creating software for microsoft windows platforms (mfc, visual studio)excellent c/c++ programming and debugging skillsexperience with multi-threaded application designstrong knowledge of tcp/ip and httpexperience working with client server solutions (socket programming)familiarity with ssl/tlsbs or ms in computer science or equivalent
+
+
+experience with .net and activexexperience developing dynamically delivered applications through a web portalexperience delivering a client across multiple consumer os’s (windows, os x, and linux)
+                                    experience delivering a client across multiple mobile os’s (windows mobile, iphone, android)
+startup experience
+
+
+
+
+                            please send all applications and inquiries to recruiting@authentic8.comlocal candidates only; there is no relocation available. we are also unable to sponsor immigration visas.
+                        
+
+
+
+
+2
+product operations engineer
+/ mountain view, ca
+
+×
+
+
+
+                            the product operations engineer will join an excellent team of operations professionals responsible for the security, stability, and scalability of authentic8’s production platform. the product operations engineer will be a subject-matter expert for authentic8's product, platform, systems, and network infrastructure. the product operations engineer will work directly with engineering to design and support existing and new product functionality.
+                        
+
+
+duties
+requirements
+highly desired
+
+
+
+
+acquire a deep understanding of the authentic8 platform and products.be a ninja – write tools and automation that eliminate repetitive tasks. for example, parse logs for trends on an ad-hoc basis, know how to get statistical data into some graphing engine, and produce material information when necessary. leave no footprints. diagnose complex problems. engineers are always available, but be measured on how well you can handle complex issues, problems, and scale challenges by being self-sufficient.handle capacity analysis. write or use tools to make sure we always know we have capacity. value is measured by making sure legacy or historical features are not forgotten and that new features launch on time with capacity and without surprises.write excellent documentation to enable other team members and new hires to easily learn and support the authentic8 platform. we want rock stars, but we do not want rock stars with rock star syndrome – be willing to train new rock stars. you should have an inherent aversion to be “the” rock star.keep things redundant or fault tolerant. have experience and implement multiple datacenter infrastructures including international hosting and bandwidth. world domination.know sql, know nosql. know how to diagnose performance problems from the application stack down to the db, os, kernel, and hardware. find information that shows when to work on application code, tune existing equipment, or get more hardware.have a solid understanding of networking. you should know how to capture network traffic and find problems through packet analysis. this will require understanding protocols from simple icmp to ssl/tlstake on some corporate it responsibilities. we’re a small team so everyone has to pitch in. there aren’t a lot of them but they are important.help with data center build-outs. this means soup to nuts. from rack and stack, to configuring dhcp and dns servers to the entire authentic8 stack.
+
+
+8+ years proven production experience in a saas, hosted application or other mission critical systems environment.5+ years administering linux systems in a mission critical environment. experience with production environments running newer kernels of ubuntu is a plus.5+ years of proven experience writing scripts and automation tools. python, php, bash, and / or perl. ruby and puppet are a plus.excellent network (tcp/ip) skills, ccna/ccnp a plus.experience developing automation tools against amazon ec2 is a plus.strong general technical, analytical, and problem-solving abilities.accurate and precise while multi-tasking.excellent written and oral communication skills.experience with high volume web environments handling millions of users and millions of transactions per day.
+
+
+cloud experience (aws)security certification experience (pci, etc)automation experience
+
+
+
+
+                            please send all applications and inquiries to recruiting@authentic8.comlocal candidates only; there is no relocation available. we are also unable to sponsor immigration visas.
+                        
+
+
+
+
+3
+software qa engineer
+/ mountain view, ca
+
+×
+
+
+
+                            authentic8 is looking for a high-energy software qa engineer to suppliment our qa efforts. the authentic8 solution has a diverse technology architecture. the authentic8 solution is delivered to users of all major platforms, your experience with windows, mac os x, and linux will ensure a high quality experience by our users.
+                            
+                            contract or full time will be considered for this position.
+                        
+
+
+duties
+requirements
+highly desired
+
+
+
+
+test our software platform on desktop and mobile devicesdesign product test plans and test cases for the authentic8 solution to qualify releasesconduct black box, white box and grey box testingexecute both manual and automation test plans and test casesfile bug reports and drive issues to conclusionwork with engineers in support of bug fixing
+
+
+4+ years experience in software qagenuine enjoyment of software testing, problem solving, and quality assurance workability to work independently, multitask and manage time effectivelystrong problem solving and analytical skillsexperience with qa tools and techniques, bug tracking systems, test design and executionstrong communication skills and experience collaborating with multiple groups across disciplinesexperience testing web applications and desktop applicationsexperience testing servers and/or proxies
+
+
+experience writing automation tests with python or javaexperience working with automation tools like sikuli, selenium, testng, junit, etc or similarfamiliarity with windows and mac os x security experience (ssh keyfiles/agents, ssl certificates, etc)cloud services experience (aws, ec2, s3, rackspace, etc)software cm exposure
+
+
+
+
+                            please send all applications and inquiries to recruiting@authentic8.comlocal candidates only; there is no relocation available. we are also unable to sponsor immigration visas.
+                        
+
+
+
+
+4
+web developer
+/ san francisco, ca
+
+×
+
+
+
+                            authentic8 is looking for a software engineer that can build powerful web applications that communicate complex data in a simple manner. you will need to be highly skilled in javascript, html, css. experience with yui 3 or extjs is highly desired. experience with python and django is a plus.
+                        
+
+
+duties
+requirements
+highly desired
+
+
+
+
+rapidly prototype, design, and implement new featurescreate innovative and clean user interfacesparticipate in group design and problem solving discussionsstay relevant with related technologies and suggest innovative solutions
+
+
+extensive experience building non-trivial web applications by handexperience working with and creating ajax applicationsfluent in css, html, dhtml, and related technologiesexperience working with restful web servicesfamiliarity with jsonunix/linux experiencebs or ms in computer science or equivalent
+
+
+familiarity with web transport protocols (http/s, ssl)experience testing web applications (unit tests, selenium, etc)experience with javascript frameworks (ext js, jquery, gwt, yui, etc)experience with web application frameworks (django, rails, etc)experience with relational databases (postgres, mysql, etc)startup experience
+
+
+
+
+                            please send all applications and inquiries to recruiting@authentic8.comlocal candidates only; there is no relocation available. we are also unable to sponsor immigration visas.
+                        
+
+
+
+
+5
+sales development representative
+/ indianapolis, in
+
+×
+
+
+
+                            we are seeking sales development representatives who want to build a career with a cloud startup from silicon valley. in this strategic role, you will establish contact with targeted prospects, respond to inbound inquiries, and generate interest in the web browser of the future.
+                        
+
+
+duties
+requirements
+highly desired
+
+
+
+
+develop relationships with prospective clients, educating them on authentic8's full suite of tools and services, via phone, social media, and email.effectively articulate authentic8 features and benefits to influential decision makers, follow up on marketing leads and share any news releases, videos and information with prospects.qualify opportunities by gathering requirements, identifying opportunities, and developing leads for our sales team.field inbound calls, emails, and chats, and act in a proactive responsive manner acting as an ambassador for authentic8.maintain complete and accurate records of all prospecting activity.maintain cohesive team strategy with sales representatives.
+
+
+bachelor's degree requiredmust be goal-oriented and able to exceed daily/monthly objectiveslove of technology and working closely with customers
+
+
+b2b telesales experience is a plusdemonstrated sales aptitude: assertive, persistent, good listener, self-motivatedexcellent oral and written communication and customer relations skillswell organized with highly effective time and activity management skills
+
+
+
+
+                            if you're excited by the opportunity to use your persuasive personality to engage key decision makers in the software industry and build a pipeline for our global sales team, we want to talk to you! authentic8 is an equal opportunity employer, and recent college graduates and veterans are welcome to apply!
+                        
+
+                            please send all applications and inquiries to recruiting@authentic8.comlocal candidates only; there is no relocation available. we are also unable to sponsor immigration visas.
+                        
+
+
+
+
+6
+enterprise account executive
+/ mountain view, ca
+
+×
+
+
+
+                            we are on the verge of creating and dominating a brand new saas category.  our addressable market is every company or person who uses a browser, and our job is to help them see the world the way we do.  evangelical, category creation sales is not the easiest sales job you’ll ever have, but it could be the most rewarding.  if you’re up to the challenge, we’d like to meet you!
+                        
+
+
+duties
+requirements
+highly desired
+
+
+
+
+full cycle sales of saas security products in the assigned territoryeffective collaboration with sales resources, including sales development reps and pre-sales engineerstimely and accurate management of pipeline and forecast
+
+
+5+ years b2b technology sales experience2+ years selling into enterprise accounts (mid-market experience may be considered)2+ years saas sales experiencetrack record of quota attainmentexperience selling deals with acv >$100krepeatable sales execution process involvingdiscovery and qualificationneeds assessmentvalue proposition formulationproof-of-concept managementbusiness case developmentsuccessful closing methodologywell organized with highly effective time and activity management skillsbachelor’s degree required
+
+
+sales experience in it security spaceexperience selling into the legal and financial industries
+
+
+
+
+                            please send all applications and inquiries to recruiting@authentic8.comlocal candidates only; there is no relocation available. we are also unable to sponsor immigration visas.
+                        
+
+
+
+
+
+↓
+
+
+
+
+contact us
+we'd love to hear from you, get in touch on:
+
+
+
+general phone number
+1 (877) 659 6535
+
+
+
+contact e-mail
+
+info@authentic8.com
+
+
+
+
+sales e-mail
+
+sales@authentic8.com
+
+
+
+
+
+
+
+mountain view
+201 san antonio circle, suite 245mountain view, ca 94040
+
+
+
+san francisco
+21 columbus ave, suite 221san francisco, ca 94111
+
+
+
+
+
+
+
+
+© 2017 authentic8, inc. all rights reserved.
+privacy policy
+
+
+linkedin
+twitter
+facebook
+google+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

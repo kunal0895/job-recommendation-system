@@ -1,0 +1,40 @@
+full stack web developer at petdeskemployeesfull stack web developersan diego, cafull-timeengineeringjob openingsfull stack web developer%button_apply_to_position% apply using linkedinabout us
+we’re petdesk and we work in the best industry in the world. we build technology for the care providers of the best beings in the world - our pets. we help keep them healthy, happy, and give them more time to play with their owners - us!
+
+we treat our local business customers like family. we stand up for them in the face of corporate giants. we win their loyalty by being amazing service providers - not with contracts. we are helping to preserve the high quality of care you get from your neighborhood vet, groomer, and boarder.
+
+to do this we have to be different. we have to set high expectations, we have to work harder and smarter, and we have to leave work feeling content every night because we killed it that day. being content keeps you sane during the bad times and aggressive during the good times. we will always strive to do better and grow the company but in that pursuit we will find contentment every day.
+about the role
+the overall purpose of the web developer is to make petdesk web applications an indispensable everyday business tool for pet care providers.
+summary
+petdesk has developed web applications focused on helping our customers communicate with pet parents.
+you will be responsible for developing new features to add value to existing web applications as well as building the next generation of petdesk web applications.
+this role requires a high degree of technical understanding, plus the ability to prioritize and execute as we make sure customers are ultimately successful using petdesk.
+responsibilities
+
+
+build new features into the petdesk dashboard web application built on c# and asp.net mvc, html, js, css.
+
+
+develop new ui and ux enhancements to all web applications.
+
+
+work with a team of developers to build intuitive web applications that turn everyday tasks into delightful magical experiences.
+
+
+take ownership and pride in your work and take it through the entire software development life cycle.
+
+
+take a data driven approach to developing ui/ux in web applications.
+
+
+about you
+
+3+ years experience developing c# .net mvc web applications.
+3+ years experience with javascript, css, html and modern front-end web frameworks.
+experience in analytics for web applications.
+worked on complex web applications / dashboards with custom functionality requirements beyond simple marketing websites.
+real knowledge and understanding of html5 elements and inputs, when to use them and when not to, and the latest browser brand difference in their native implementations.
+solid understand of entire software development life cycle.
+
+%button_apply_to_position%%footer_powered_by%breezy

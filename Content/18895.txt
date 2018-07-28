@@ -1,0 +1,322 @@
+﻿
+
+
+
+
+ui developer 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for more jobs
+forward this job to a friend
+
+apply by email without registering
+apply by creating/using  account
+
+
+sign in
+
+
+            language
+        
+
+
+                english
+            
+
+
+                français
+            
+
+                español
+            
+
+
+
+
+
+
+
+
+
+
+from:
+
+
+
+
+to:
+
+
+
+subject:
+
+
+
+message:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email:
+
+
+
+password:
+
+
+
+forgot your password?
+log in
+
+
+
+
+
+
+
+
+
+
+
+please enter your registered email address, and we'll email you a link to reset your password right away.
+
+your email
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+from
+
+
+
+
+subject
+
+
+
+resume
+
+
+
+
+
+browse
+
+
+
+
+
+browse
+
+
+
+
+browse
+
+
+
+
+
+
+
+message
+
+
+
+
+
+how were you referred to us? 
+
+
+
+
+
+
+
+
+
+ok
+cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				previous
+			
+
+
+ui developer 3
+
+
+
+
+
+			next
+		
+
+
+
+
+
+ref no.:
+17-01431
+
+location: 
+san francisco, california
+
+position type:contract
+
+
+
+
+duties:    
+
+you will be a develop front-end solutions on our high impact web properties such as www.our client.com
+you will develop front end components, styling, and javascript for a wcms aem solution running our client.com
+you will be collaborating with a team of other front-end developers, designers, and backend engineers to come up with cutting edge web solutions
+you will be working within a fast-paced and dynamic working environment
+
+skills:    
+
+expertise in html5, css3, object oriented js, and js frameworks for example, canjs, backbone, angular.
+expertise with node, grunt, less, scss and other related technologies.
+expertise with developing for browser compatibility
+expert understanding the dom, accessibility standards, and seo
+experience with unit testing using jasmine, phantomjs, etc.
+web application development experience with jsp, sling, servlets, xml is a plus.
+working knowledge of java web mvc frameworks such as struts, jsf, etc. is a plus.
+experience with cms technologies like our client aem is a plus.
+strong web application development skills, very strong front end but ideally experience and interest in the full stack bs or advanced degree and 5 or more years of experience with web development
+experience with jee technology stack.
+knowledge of presentation, web, business and data access layers and their interactions.
+experience working with highly trafficked, scalable web applications.
+demonstrable understanding of all phases of the software development cycle.
+excellent verbal and written communication skills.
+able to write clear design and technical specifications.
+
+education:    
+
+
+bs or advanced degree and 5 or more years of experience with web development
+
+
+
+
+
+apply by creating/using  account
+
+
+
+
+for all w2 contract positions, no c2c is allowed.  please respond only if you are applying for position yourself and can be a direct employee of intellipro group inc.  *no recruiters or c2c*
+
+
+
+
+
+
+
+
+
+
+ok
+
+
+
+
+

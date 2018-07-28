@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+covestic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+front-end ruby developer
+
+
+office region:
+1- seattle area (headquarters)
+
+
+job location:
+seattle
+
+
+id:
+4224
+
+
+#:
+2
+
+
+
+description
+covestic is looking for a front-end ruby developer to assist with developing new features and making enhancements to a high volume, high-traffic website.  the ideal candidate will have real-world rails and web front end development experience.
+responsibilities: 
+
+be a part of design and development in ruby and ror applications supporting a high volume, high-traffic website and several other web properties
+take an active role in all aspects of the development life cycle
+utilize test-driven development (tdd) and behavior-driven development (bdd) processes
+work within a continuous integration (ci) release cycle
+create and maintain project documentation, in accordance with established standards
+work in an agile environment utilizing the lean/kanban process
+work on a development team that is within a larger technology organization
+
+required skills and experience:
+
+1+ year of ruby development experience
+experience with ajax, css, javascript and other front-end web technologies
+experience applying tdd and bdd to software development
+understanding of object oriented programming (oo)
+experience with linux, apache, mysql
+
+desired skills: 
+
+experience designing and implementing interfaces using jquery, prototype, or other ajax ui libraries an asset
+experience developing for a high volume, high traffic website and/or web-based application
+
+for immediate consideration, please apply through the link provided or forward your resume directly to     polson@covestic.com    .
+
+covestic is a premier provider of it services for midsize and enterprise organizations. as a leader in helping clients to identify, implement and manage the it solutions which make their businesses stronger, we offer a comprehensive portfolio of services encompassing various facets of it service management, it operations, cloud computing, and project delivery. if you are a practiced professional with a passion for technology and teamwork, then join our team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2015 covestic inc. all rights reserved.
+| legal
+| privacy
+
+
+about covestic | solutions | industries served | careers | contact
+
+
+

@@ -1,0 +1,274 @@
+
+
+	entry level software developer #460632 us-tx-addison
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view all jobs
+
+
+company web site
+
+
+
+
+
+
+
+
+to view a complete job description, click on the job title.
+
+
+
+
+
+view all jobs
+entry level software developer
+
+
+
+
+
+
+
+
+×
+email this job
+
+
+
+
+
+
+your first name
+
+
+
+your last name
+
+
+
+
+your e-mail address
+
+
+
+e-mail address to share with
+
+subject
+
+message
+
+
+
+
+
+
+
+
+
+
+ send e-mail
+close
+
+
+
+
+
+
+ us-tx-addison
+
+
+
+apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+employee referral
+
+
+
+
+
+tell us who you are
+
+
+first name
+last name
+e-mail address
+
+
+
+                                please complete all 3 fields.
+                            
+
+
+
+
+how do you want to share?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+company information
+trintech is the leading provider of financial solutions for the record-to-report process cycle. customers use our products to gain greater stability and control over their critical record-to-report financial processes, leading to better overall business performance. over 900 organizations from the retail, manufacturing, financial, and service industries across 100 countries utilize trintech solutions, including half of the fortune 50 and the ftse 100. each is realizing the benefits of the company’s configurable and highly scalable solutions every day to: ensure the accuracy and integrity of financial data; identify and reduce transaction risk; optimize employee efficiency, improve the quality and timeliness of disclosure management and strengthen internal controls to support compliance requirements.
+
+job description
+
+
+	technology is rapidly changing the way companies do business. in addition to accuracy, they need greater mobility, simplicity and speed. these needs require access to intelligence, agile systems and integrated workflow solutions. this is what trintech delivers to companies.
+
+	if you enjoy tackling problems that are difficult to solve, working on software engineering teams to ensure the highest level of quality, are meticulous in your attention to detail, and take your commitments seriously, then we have a career-changing opportunity that is right for you in our addison office as part of a growing organization that is leading our industry.
+
+	essential duties and responsibilities
+
+
+		use & implement technology to deliver high quality solutions that delight our customers.
+
+		develop maintainable and highly scalable multi-tier saas applications with web-based, plugin-based, and mobile-based clients on the microsoft technology stack (vs 201x /.net 4.x / c# / sql server). work in agile teams following agile + safe methodologies to deliver high quality products on time with performance and localization requirements in mind.
+
+		build, test and deliver high quality, complex frameworks and systems and diagnose and resolve complex issues.
+
+		develop applications utilizing hybrid cloud technologies (saas. paas, iaas)
+
+		be part of the team that generates innovative approaches and solutions to complex issues.
+
+		receive mentoring in your career development, and use daily guidance and direction from more experienced staff to improve your skills.
+
+		use the latest development tools and follow technical standards within a development team.
+
+		understand the use of technology and how its implementation affects strategic business goals.
+
+skills & requirements
+
+
+		bachelor’s degree in computer science or related field.
+
+		0-2 years of experience in a developer role
+
+		proficient in object-oriented design and development using software development best practices.
+
+		course work or project work with web services, html5, angularjs, or xml. (portfolio required)
+
+		coursework or project work with databases, sql and stored procedure programming. (portfolio required) able to adhere to technical standards within a development team.
+
+		strong verbal, written, and presentation skills.
+
+		working knowledge of programming with web, windows .net framework, powershell, and c#.
+
+		working knowledge of one or more of the following: web apps, api apps, java script, json, rest, signalr, and mvc.
+
+		familiarity with azure services (e.g. worker roles, web jobs, table storage, blob storage, and redis cache).
+
+
+	preferred qualifications:
+
+
+		experience developing customer facing applications. (commercial external customer-facing software development experience is highly desired)
+
+		development experience with saas products with responsive design web-based clients.
+
+		understanding of cloud computing technologies, business drivers, and emerging computing trends.
+
+		experience building hosted applications in a data center environment.
+
+		knowledge utilizing and leveraging reference architectures across a team based environment a plus.
+
+		expert at designing, coding, and implementing with 24/7 stability, performance, scalability, localization requirements in mind a plus.
+
+qualifications
+
+
+
+
+
+
+ 
+ 
+
+
+
+powered by hirebridge
+
+
+
+
+
+
+
+
+
+
+

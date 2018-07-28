@@ -1,0 +1,249 @@
+
+
+
+
+job application for data engineer  at policygenius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer 
+
+        at policygenius
+      
+(view all jobs)
+
+        new york
+      
+
+
+in case this isn't obvious: you need insurance. the distaste you just felt at the word “insurance” is what drives us to upend the industry. financial protection might never be super fun, but at least it can be easy.
+policygenius is a nyc-based tech startup with a mission to help people get the financial protection they need and have them feel good about it. we are changing a massive industry by making insurance shopping faster, friendlier and more transparent for online consumers. since our launch in 2014, we’ve achieved rapid growth in a notoriously difficult industry and established ourselves as a pioneer in a now hot sector of fintech. we're at an exciting inflection point, having raised over $52 million of venture capital, and we're focused on building out our powerhouse team. think of us as a one-stop-shop for all the financial protection you’ll ever need.
+engineering
+we love to learn. and to ask questions. we’re passionate, caring and a little quirky. we hope there is something non-work related that gets you really excited, because we’d love to share in it.
+we’ll set you up with whichever tools you need to succeed (hardware, software, books, etc). and you’ll work in our sweet new office space in flatiron!
+we’re into agile and lean, with an emphasis on light process that keeps us focused and happy. we perform code reviews in github, we pair program and we keep ourselves in check with continuous integration.
+what you will do...
+
+build data expertise and own data quality for the pipelines you build
+architect, build and launch new data models that provide intuitive analytics to policygenius customers
+design, build and launch extremely efficient & reliable data pipelines to move data (both large and small amounts) to our data warehouse
+influence the tools we use by evaluating databases, message queues & data visualization platforms
+opportunities to utilize data science methodologies to expose hidden insights in our data
+
+what we expect from you:
+
+you have experience building large scale, replicated distributed systems
+you’ve worked with custom or structured (ie. airflow/informatica/talend/pentaho) etl design, implementation and maintenance tools
+you have experience with business intelligence tools (ie. tableau, qliksense)
+you have worked with some of the following data systems or their equivalents: bigquery, postgresql, redshift, kafka, elasticsearch, redis.
+passion for delivering data to contribute to products, processes and insights while fostering data driven decisions throughout the org
+
+technologies we use...
+
+google cloud platform, aws
+bigquery, airflow
+go (golang), python (pandas, numpy, et al), ruby/rails, node
+react, redux, graphql, apollo client
+kubernetes, buildkite, docker
+blt, scuba, jfk, ufo, tbd, rofl
+
+working at policygenius...
+
+competitive compensation and company-paid health, dental, vision, life, and disability insurance
+a custom-designed office between flatiron and union square
+401k plan, fsa & commuter benefits
+flexible pto and opportunities for paid training
+mentorship and coaching from leadership
+the opportunity to say you were one of the early employees in the company that’s going to shake up a big, old-fashioned industry!
+fun, diverse, open-minded coworkers!
+dog companionship!!
+some fun surprises when you join… (shhh… it’s a secret!)
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,299 @@
+
+
+
+
+
+  software engineer - back-end data engineer – 111596 – job details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+menu togglemenu hide 
+
+click here for disability assistance
+returning user
+
+in-store hourly and distribution center hourly
+corporate other
+careerdepot/thd associate
+
+
+news
+careerdepot
+
+
+
+
+ 
+
+
+ 
+
+we’re making some enhancements!
+on monday, november 14th from 5 a.m. to 1 p.m. est, we'll be updating our application process to better serve you. if you are attempting to apply to an impacted job during that time, please check back after 1 p.m. est on monday, nov. 14. the following job types are impacted:
+• in store hourly        • distribution center
+
+
+
+
+
+
+click here for disability assistance
+returning user
+news
+careerdepot
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+ search jobs
+ culture
+
+diversity
+military commitment
+
+
+ career areas
+
+retail careers
+merchandising careers
+supply chain careers
+home services careers
+contact center careers
+corporate careers
+technology careers
+civilian careers
+
+
+ campus connect
+ events
+ our brands
+returning user
+
+in-store hourly and distribution center hourly
+corporate other
+careerdepot/thd associate
+
+
+news
+careerdepot
+
+
+
+
+
+
+
+
+
+
+
+  software engineer - back-end data engineer – 111596 – job details
+111596
+
+
+job details
+
+
+
+search jobsjob typecontact centercorporate/otherin-store and distribution center hourlysoftware engineer – back-end data engineer
+job id: 111596
+store id:
+brand: the home depot
+location: atlanta, ga
+job type: corporate/other
+category: information technology
+
+apply
+
+
+
+position purpose  the software engineer is responsible for joining a product team and contributing to the software design, software development, and overall product lifecycle for a product that our users love. the engineering process is highly collaborative. software engineers are expected to pair on a daily basis as they work through user stories and support products as they evolve.   in addition, software engineers may be involved in product configuration, performance tuning and testing as well as production monitoring.   as a software engineer, you will be part of a team with more experienced engineers to help build and grow your skills while you create, support, and deploy production applications.
+  major tasks, responsibilites and key accountabilities  60% – delivery & execution:  collaborates and pairs with other product team members (ux, engineering, and product management) to create secure, reliable, scalable software solutions  works with product team to ensure user stories that are developer-ready, easy to understand, and testable  writes custom code or scripts to automate infrastructure, monitoring services, and test cases  writes custom code or scripts to do “destructive testing” to ensure adequate resiliency in production  configures commercial off the shelf solutions to align with evolving business needs  creates meaningful dashboards, logging, alerting, and responses to ensure that issues are captured and addressed proactively   20% – support & enablement:  fields questions from other product teams or support teams  monitors tools and participates in conversations to encourage collaboration across product teams  provides application support for software running in production  proactively monitors production service level objectives for products  proactively reviews the performance and capacity of all aspects of production: code, infrastructure, data, and message processing   20% learning:  participates in learning activities around modern software design and development core practices (communities of practice)  proactively views articles, tutorials, and videos to learn about new technologies and best practices being used within other technology organizations  reviews and discusses code from more senior engineers to understand best practices and design patterns  increases business acumen by learning about other parts of the business 
+ nature and scope  typically reports to the software engineer manager or sr. manager.
+  environmental job requirements  environment:   located in a comfortable indoor area. any unpleasant conditions would be infrequent and not objectionable. travel:   typically requires overnight travel less than 10% of the time.
+  additional environmental job requirements: 
+ minimum qualifications  must be eighteen years of age or older. must be legally permitted to work in the united states. 
+ additional minimum qualifications:  experience in an object oriented programming language (preferably java)  must be legally permitted to work in the united states  education required:  the knowledge, skills and abilities typically acquired through the completion of a high school diplomas and/or ged.  years of relevant work experience: 0 years  physical requirements:  most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. on rare occasions there may be a need to move or lift light articles.  additional qualifications:
+ preferred qualifications:  0-3 years of relevant work experience exposure to writing sql queries against a relational database experience with big data solutions such as bigquery exposure to rest and effective web service design experience in a modern programming language such as java exposure to destructive testing methodologies and tools such as junit 
+ knowledge, skills, abilities and competencies:
+ cultivates innovation: creating new and better ways for the organization to be successful  collaborates: building partnerships and working collaboratively with others to meet shared objectives  communicates effectively: developing and delivering multi-mode communications that convey a clear understanding of the unique needs of different audiences  drives results: consistently achieving results, even under tough circumstances  global perspective: taking a broad view when approaching issues; using a global lens  interpersonal savvy: relating openly and comfortably with diverse groups of people  manages ambiguity: operating effectively, even when things are not certain or the way forward is not clear  nimble learning: actively learning through experimentation when tackling new problems, using both successes and failures as learning fodder  self-development: actively seeking new ways to grow and be challenged using both formal and informal development channels  situational adaptability: adapting approach and demeanor in real time to match the shifting demands of different situations
+ 
+
+ 
+
+share this jobshare on facebookshare on twittershare on linkedinshare by mail
+   
+
+ 
+
+
+
+
+
+corporate info 
+about the home depot
+partnerships
+
+investor relations
+privacy & security
+contact us
+
+business customers 
+contractor services
+government customers
+homedepotlink
+hdconnect
+supplier diversity
+
+other sites 
+homedepot.com
+the home depot canada
+the home depot mexico
+the home depot moving
+the home depot foundation
+the home depot gear
+
+legal disclaimer 
+the home depot is an equal opportunity/m/f/vet/disabled employer. available positions may vary by location. bilingual candidates are encouraged to apply. © 2005-2017 homer tlc, inc. all rights reserved. know your rights. click here to view federal labor law posters.
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scroll to top
+
+
+

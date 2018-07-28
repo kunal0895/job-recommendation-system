@@ -1,0 +1,92 @@
+
+
+
+
+job board powered by bullhorn
+
+
+
+
+
+ 
+
+
+                    dec 14, 2017
+                    
+
+
+
+
+
+
+
+
+jobs
+your profile
+login
+
+
+
+
+
+
+job #21758: developers & programmers
+
+
+
+
+
+job code: #21758
+title: front end developer
+date posted: 11/29/2017
+job location: 
+            
+            
+                morrisville
+             
+                
+            
+                north carolina
+            
+            
+
+job description:
+
+resolvit
+bringing solutions that make business better
+join resolvit as a front end developer and be part of a creative, forward-thinking team. our success at deploying skilled, highly knowledgeable experts has landed us on the inc. 5000 list of america’s fastest-growing companies four times – and we’re just getting started.
+as the front end developer, you will you will build scalable software applications and technology solutions. you will work in an agile environment.
+what you’ll need to be successful:
+
+more than 2 years of front end development experience
+strong skills in jquery, javascript, bootstrap, less/sass, html, responsive web design, template/wireframe creation, js bundling and minifying, browser debugging tools, and asp.net web forms
+knowledge of javascript frameworks (knockout, angular, vue, node)
+experience in cross-browser compatible design
+
+great additional skills:
+
+experience with mobile development, web performance tools (fiddler and lighthouse,) html5, oracle or sql server, and telerik rad controls
+agile experience
+familiarity with team foundation server (tfs)
+
+benefits:
+at resolvit, you’ll be given the support you need to grow in your consulting career.  in addition to opportunities for advancement and ongoing training, we offer:
+
+medical, dental, and vision insurance
+life insurance coverage
+long-term and short-term disability coverage
+401(k) retirement plan with matching
+professional support from a dedicated business services manager
+networking opportunities with other consultants in your area
+
+we currently have more than 100 open career opportunities across the country, so be sure to mention the appropriate job code with any correspondence!
+about resolvit:
+resolvit is an international technology consulting firm with industry-leading customers in the financial services, high tech, manufacturing, retail, life sciences, and government sectors. through its partnerships, resolvit delivers highly impactful, innovative solutions across five core areas: infrastructure modernization, application development services, enterprise data management & analytics, knowledge & content management, and strategic staffing.
+ 
+
+
+
+
+
+
+

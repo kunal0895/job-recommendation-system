@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+data production &amp; analysis ii at kaiser permanente - kaiser permanente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+who we are
+
+the kp difference
+our locations
+mission & history
+innovation
+
+
+
+life & culture
+
+working here
+diversity & inclusion
+disability
+military
+in our community
+
+
+
+career areas
+
+care careers
+business careers
+it careers
+temporary contract
+physicians & dentists
+
+
+
+university
+
+university connection
+early-career opportunities
+internship opportunities
+
+
+
+our hiring process
+
+hiring process overview
+searching jobs & submitting interest 
+pre-hire assessments
+faqs
+
+
+
+
+
+
+my profile
+my favorite jobs
+employee job search
+
+
+
+
+search
+
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+information technology
+
+
+
+
+data production & analysis ii
+
+submit interest
+add to favoritesremove from favorites
+
+location: portland, or
+job number: 647318 date posted: 11/15/2017
+description: the data analyst position isdivided between production tasks in gathering and validating data, and investigatory tasks when validations reveal issues. strong organization skills required, as well as the ability to work both independently and within a team.strong query language skills (sql preferred) and proven ability to investigate data anomalies and discrepanciesthe data analyst is responsible for supporting the business community needs for data collection, analysis, and reporting from a variety of sources including mainframe files, data warehouse reports, and vendor extracts. the data analyst will collect, organize, and analyze data for easy use by internal business and analytical clients, and serve as an expert on data availability and quality. in addition this position includes providing technical support for scheduling, job setup, coordinating with programmers to analyze batch requests and developing automated schedules.essential functions: collects and organize data from mainframe files, data warehouse reports, vendor extracts, departmental spreadsheets and databases, and internet/intranet sites for easy use by internal business and analytical clients. ensure the integrity of all data for the purposes of maintaining regulatory compliance, triaging data problems directly to the vendors and clients. communicates status to management or lead. create and maintain databases as a tool for delivering data to internal clients. translate customer business requirements needs into a final product. may provide guidance to less experienced data analysts. prepares production jobs for processing, and assures quality control by verifying results of the computer run in accordance with established procedures. assures quality control by verifying results of the computer run in accordance with established procedures. troubleshoots and resolves escalated job failures and anomalies. reviews and ensures adequacy of technical operating instruction manuals, system documentation, standards and procedures. attends and participates in release, publication, solutioning and project meetings and activities.
+
+basic qualifications:experience minimum five (5) years of experience required, including mainframe, large databases or data warehouses, jcl, schedulers, data analysis and production of datasets. minimum two (2) years of experience in sas and large databases/sets or data warehouses.education bachelor's degree in health care, finance, information systems or related area, or four (4) years of experience in a directly related field. high school diploma or general education development (ged) required.license, certification, registration n/aadditional requirements: intermediate understanding of databases, data relationships, quality and integrity. intermediate with query tools such as sql and winsql. proficient with microsoft excel. intermediate use of shared server files, other in-house applications, file transfer and encryption programs. experience reporting from large databases or data warehouses and understanding of the data relationships within these. requires strong communication skills, ability to keep up with technological changes, techniques and improvements, and apply those to current environment, strong customer service focus, and good organizational and time management skills. knowledge of the internet, intranet, mainframe, and pc environments. requires an understanding of financial information systems. problem solving skills including the ability to research and initiate a dataextract and report that answers key questions not answerable using known sources. the analyst will have a good understanding of data available in the company, an understanding of the business requirements, and the creativity to develop workable solutions for a wide range of customers. proven ability to work with customers to understand business requirements and translate those needs into a final product. must be able to work in a labor/management partnership environment.preferred qualifications: experience with large corporate databases strong sql experience or equivalent
+primary location: oregon,portland,kaiser permanente building 500 ne multnomah st.
+scheduled weekly hours: 40
+shift: day
+workdays: mon, tue, wed, thu, fri
+working hours start: 8:30 am
+working hours end: 5:00 pm
+job schedule: full-time
+job type: standard
+employee status: regular
+employee group/union affiliation: salaried, non-union, exempt
+job level: individual contributor
+job category: information technology
+department: commercial risk adjustment operations
+travel: no
+kaiser permanente is an equal opportunity employer committed to a diverse and inclusive workforce. applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), age, sexual orientation, national origin, marital status, parental status, ancestry, disability, gender identity, veteran status, genetic information, other distinguishing characteristics of diversity and inclusion, or any other protected status.external hires must pass a background check/drug screen. qualified applicants with arrest and/or conviction records will be considered for employment in a manner consistent with federal and state laws, as well as applicable local ordinances, including but not limited to the san francisco and los angeles fair chance ordinances.
+click here for additional requirements >
+submit interest
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+check out this location > 
+
+
+learn about our hiring process >
+
+
+
+
+
+
+see what people are saying about working at kp
+open
+
+
+
+
+
+
+sep 8, 2017
+"love it!"
+
+
+current employee - consultant in sacramento, ca
+
+
+recommends
+positive outlook
+approves of ceo
+
+i have been working at kaiser permanente full-time (more than a year)
+pros
+mission driven, smart people, and dynamic teams!full review
+more kaiser permanente ratings & reviews (3,975)
+
+
+
+
+
+
+our events
+
+come introduce yourself to a member of the kaiser permanente team at an upcoming career or professional event. we look forward to meeting you in person.
+view events >
+
+
+
+
+recently viewed jobs
+you do not have any recently viewed jobs.
+
+
+
+
+join kaiser permanente's talent network
+please fill out the fields below and click "join now" to receive information about opportunities that relate to your selections.
+enter first nameenter last nameemail addressinterested insearch for a category and select one from the list of suggestions. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.select job category*select job location*addinformation technology, portland, oregon, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+interested in internships or early career opportunities? click here to join our university talent network. are you a veteran? click here to join our military talent network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us
+
+visit us on twitter
+visit us on linkedin
+visit us on glassdoor
+visit us on facebook
+visit us on youtube
+
+
+
+
+
+accommodation info
+terms & conditions
+privacy practices
+eeo statement
+technical information
+contact web manager
+sitemap
+
+©2017 kaiser permanente
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,565 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+countries & language
+
+
+
+
+
+english
+中文
+français
+deutsch
+português
+
+
+
+jobs @ voith
+
+
+
+
+
+
+home
+
+
+featured jobs
+
+
+locations
+
+
+not finding a job?
+
+
+login
+
+
+
+
+high school students
+students
+graduates
+professionals
+engineering jobs
+commercial jobs
+service, repair, maintenance jobs
+all jobs
+
+
+
+
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email similar jobs to me
+please enable javascript to subscribe.
+
+
+
+
+
+
+
+
+
+join with linkedin
+
+
+
+
+
+
+
+join with facebook
+
+
+
+
+
+
+
+join now
+
+
+
+
+
+email  
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data developer
+
+apply now »
+
+apply now 
+
+
+
+
+start apply with linkedin
+
+
+
+
+
+
+
+start apply with facebook
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+email  
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+date: 
+dec 10, 2017
+                
+
+
+location: 
+raleigh, north carolina, us
+
+
+company: 
+voith gmbh
+
+
+ 
+
+ 
+for 150 years, voith’s technologies have been inspiring customers, business partners and employees around the world.
+sustainable management is an important part of our history and is always reflected in our thoughts and actions.
+ 
+for the voith digital solutions, department data developer, we are looking for you as a
+ 
+
+big data developer 
+raleigh, nc 
+ 
+
+core responsibilities:
+
+responsibility for the development and implementation of data-stream components for industrial iot applications
+translate high-level design requirements into well structured, optimized code
+identification of new technological toolchain/implementation trends in big data
+foster innovation by exploring, investigating, recommending, benchmarking and implementing data-centric technologies for the platform
+align with the data science team regarding machine learning efforts in the cloud
+learn and grow with developers on various tasks
+work effectively with other local and global development teams
+
+ 
+additional responsibilities:
+
+working in a fast paced environment with focus on test driven development and ci/cd/devops
+ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists
+basic knowledge and experience in the area of machine learning in the cloud
+strong desire to learn a variety of technologies and processes with a "can do" attitude
+willingness to travel internationally
+
+ 
+professional experience & education:
+
+bsc/msc computer science, sw engineering, or related degree
+java/spring background
+hands-on working experience with the following technologies: hadoop, hbase, zookeeper, spark, rabbitmq, kafka, flume
+preferred:
+	
+web services development experience
+database experience
+cloudera or hdfs experience
+
+
+experience in agile and scrum methodologies
+
+ 
+specific  skills & knowledge (ex: language, it skills) 
+
+fluent in english is a must. german or other additional languages are beneficial
+
+
+global travel is part of the role but expected to be less than 10% of the time
+able to work in network structures and cross-functional, multi-cultural teams
+outgoing, open, transparent, and communicative
+open minded to new ideas and concepts
+self-organized, structured and organized
+affinity for it technologies
+
+ 
+why join voith? 
+qualified, motivated and loyal employees are the engine for our innovative capability and competitiveness. the willingness to think ahead and an enthusiasm for technology is what all voithians have in common. for our group division voith digital solutions we search for employees that are respectful team players and as diverse as our markets. use your chance – at voith. 
+ 
+voith gmbh is an eeo/aa/vevraa compliant federal contractor and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, or any other classification protected by federal, state, or local law.
+ 
+sounds like you? apply now and become a voithian! 
+if you are interested in this position, please send us your application using the link at the bottom of this page. for further questions please contact: 
+ 
+please apply on voith career website and below is the link to apply:
+ 
+https://jobs.voith.com
+ 
+ 
+
+
+
+nearest major market: raleigh
+                    
+                
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+start apply with linkedin
+
+
+
+
+
+
+
+start apply with facebook
+
+
+
+
+
+
+
+apply now
+
+
+
+
+
+email  
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+professionals,
+professional,
+all jobs
+
+
+
+
+
+sign in
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*  not you?
+password* 
+forgot password?
+* required field
+submit cancel
+
+
+
+account verification
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+
+
+                                        the "reset password" link will open in a new browser window. return to this page to enter your new password.
+                                    
+
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+
+
+
+submit cancel
+
+
+
+account verification
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+confirm
+
+
+
+already a member
+you are already a user of this site. please sign in.
+
+
+email*  not you?
+
+password* 
+forgot password?
+* required field
+sign in cancel
+
+
+
+start your application
+
+
+
+existing users
+
+
+email*
+
+password*
+
+forgot password?
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+
+
+
+sign in 
+
+create
+
+
+* required field
+
+
+create profile
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+careers home
+voith.com
+top job searches
+view all jobs
+socialmatchermobile
+
+
+privacy policy
+
+
+facebook
+twitter
+linkedin
+youtube
+xing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

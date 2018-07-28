@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+look beyond the ordinary
+
+careers overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer summer intern - undergrad
+
+
+location:
+draper, ut
+
+
+
+description
+company overview
+at proofpoint, we’re a team of superheroes protecting people, data, and brands from today’s advanced threats and compliance risks. we scout the best people in the business to:
+
+build and enhance our proven security platform
+blend innovation and speed in a constantly evolving cloud architecture
+analyze new threats and offer deep insight through data-driven intel
+collaborate with customers to help solve their toughest security challenges
+
+it is our sole mission to help our allies protect what matters most. that’s why we’re a leader in next-generation cybersecurity—and why more than half of the fortune 100 trust us as a security partner.
+become a superhero-in-training
+the data science team is responsible for applying machine learning and ai across proofpoint’s products. we work closely with a number of teams throughout proofpoint to assess opportunities for successful application of machine learning/artificial intelligence to significantly differentiate our product offerings and delight customers.
+as an intern, you’ll assist with the implementation of our data ingest and real time predictive analytics platform as well as partner closely with our software engineers and data scientists to implement models for predictive analytics. you’ll also work in a continuous delivery environment, helping to automate tests to ensure that the system remains stable under continuous software and data update.
+your current super-skills
+
+proficiency in python, exposure to scikit-learn and tensorflow a plus
+basic understanding of machine learning algorithms, process, tools and platforms
+understanding of distributed computing principles
+understanding of relational and nosql databases
+basic understanding of data exploration techniques
+
+your superhero profile
+you have the ability and interest in working full time (40 hours/week) in our draper, ut office. you are currently pursuing an undergraduate degree (2018 new college grads also eligible), and are successfully maintaining an above average gpa, preferably 3.0 or higher. this summer internship is scheduled to run for 15 weeks from may – august 2018.
+launch your #lifeatpfpt
+as a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the proofpoint team. we believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. our summer interns are highly valued, and we strive to ensure all interns are provided with a meaningful work experience, as well as projects that are relevant to our interns’ interests. as we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! we are a multi-national company with locations in 10 countries, with each location contributing to proofpoint’s amazing culture!
+#li-dnp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proofpoint is an equal opportunity employer and welcomes applications from all qualified individuals regardless of race, sex, disability, religion/belief, sexual orientation or age.
+proofpoint does not accept unsolicited resumes from external recruiters or employment agencies. in the absence of a signed recruitment services agreement, proofpoint will not consider or agree to payment of any recruiter or agency fee. in the event a recruiter or agency submits a resume or candidate without a previously signed agreement, proofpoint explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+view search results or all job openings
+
+
+new search
+
+
+
+
+
+
+
+

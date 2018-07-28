@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scientific software developer job in west mifflin, pa for naval nuclear laboratory | engineering/science
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+scientific software developer
+
+west mifflin, pa
+
+
+
+
+search other jobs
+apply now
+
+
+
+
+
+
+
+
+
+
+
+search again
+
+
+job attributes
+
+req code
+19512
+location
+bettis laboratory west mifflin, pa 15122  us
+category
+engineering/science
+type
+full-time
+career level
+experienced (non-manager)
+education
+bachelor's degree
+division
+technology
+organization
+reactor technology
+shift type
+
+n/a
+date posted
+2017-08-18 15:44:19
+
+apply now
+
+share this on
+
+
+
+
+
+
+
+
+
+
+
+
+share this on:
+
+
+
+
+
+
+
+
+home
+about us
+who we are
+media
+suppliers
+careers
+
+
+
+
+
+new search
+previous search
+
+
+
+
+
+scientific software developer
+west mifflin, pa
+
+
+
+
+job description
+
+senior/principal:
+
+we are hiring scientific software developers with a passion for software development, software engineering, and scientific computing. these individuals will work with teams of engineers, scientists, and system administrators to solve engineering problems on the naval reactors (nr) program's high performance computing (hpc) systems.
+primary job responsibilities focus on hpc scientific software stack management. this work includes collaborating with cross-disciplinary teams to develop, deploy, and maintain a variety of hpc scientific software consisting of both external (open-source) and internal computational libraries and engineering utilities. this individual will provide consultation for and facilitate training in various scientific computing disciplines including, but not limited to, compiler operation and optimization, automation (scripting), parallel programming, profiling, and debugging.
+this individual will split time with ~75% applied to support the development and deployment of production engineering applications and ~25% applied to research and develop new processes, methods, and algorithms in scientific computing for the nr program's supercomputers, especially targeting middleware and hardware changes. overall, this work focuses on parallel algorithms and numerical methods applied to nuclear reactor physics, fluid dynamics / thermal-hydraulics, solid mechanics / materials science, and data science in support of the design and analysis of naval nuclear propulsion plants.
+
+job requirements
+
+passionate about scientific computing. proficiency developing code with both compiled (e.g., c, c++, fortran) and interpreted (e.g., python, bash) languages. good knowledge of the linux operating system. knowledge of numerical methods and algorithms. ability to work effectively across multiple projects simultaneously. capacity to work independently as well as in interdisciplinary teams with minimal supervision. outstanding written and verbal communication skills.
+senior:
+bs degree in a computational science discipline, mathematics, computer science, and/or a related field in the physical sciences or engineering from an accredited college or university and a minimum of six years of relevant experience; or
+ms degree in a computational science discipline, mathematics, computer science, and/or a related field in the physical sciences or engineering from an accredited college or university and a minimum of four years of relevant experience; or
+phd degree in a computational science discipline, mathematics, computer science, and/or a related field in the physical sciences or engineering from an accredited college or university
+principal:
+bs degree in a computational science discipline, mathematics, computer science, and/or a related field in the physical sciences or engineering from an accredited college or university and a minimum of nine years of relevant experience; or
+ms degree in a computational science discipline, mathematics, computer science, and/or a related field in the physical sciences or engineering from an accredited college or university and a minimum of seven years of relevant experience; or
+phd degree in a computational science discipline, mathematics, computer science, and/or a related field in the physical sciences or engineering from an accredited college or university and a minimum of three years of relevant experience.
+job preferred skills
+
+proficient in developing and running parallel applications.
+proficient in developing, using, or maintaining any of the following scientific software libraries and utilities: mpi libraries (e.g., intel mpi and openmpi); mathematical libraries (e.g., trilinos, petsc, hypre, superlu, and intelmkl); parallel i/o (e.g., hdf5, lustre); statistical software (e.g., r, dakota), debuggers (e.g., totalview); and profilers (e.g., intel vtune amplifier).
+proficient with linux operating systems, version control software, source code build systems (e.g., gnu make, cmake, autotools), scripting languages, or compilers.
+experience with software quality assurance, software architectures, and software development tool chains.
+experience leading or contributing to multiple developer software projects.
+
+
+
+apply now
+
+
+
+
+
+
+
+
+sitemap
+home
+about us
+who we are
+media
+suppliers
+careers
+contact us
+
+
+follow us
+
+
+
+
+
+
+
+career opportunities
+administrative (2)business support (3)contracts (7)craft workers (2)engineering/science (78)facilities (1)human resources (3)information technology (22)management (3)project management (5)publications and graphic arts (1)technicians (11) 
+
+
+
+
+				all candidates must be u.s. citizens. applicants selected will be subject to a federal background investigation and must meet eligibility requirements for access to classified matter.
+what to expect when being processed for a doe security clearance | departmental personnel security faqs
+				
+				bechtel marine propulsion corporation is an equal opportunity employer and is committed to workforce diversity.
+				click here to view the poster, eeo is the law and its supplement.
+			
+
+supporting the nation since 1946
+© 2017 naval nuclear laboratory
+
+
+
+
+
+
+
+
+

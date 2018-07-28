@@ -1,0 +1,105 @@
+
+
+
+edf renewable energy job postings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					software engineer, performance analytics development 
+				
+
+
+
+
+								job title:
+							
+
+								
+								software engineer, performance analytics development 
+							
+
+
+
+									job type:
+								
+
+									full-time
+								
+
+
+
+								location:
+							
+
+								san diego, ca 
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+job description:
+edf renewable energy, a subsidiary of edf energies nouvelles, is a leading u.s. independent power producer boasting 30 years of experience across a broad spectrum of services. our core competencies in project development, operations and maintenance, and asset management enable us to ensure each project we touch performs at the highest level possible.  our mission is turning innovative renewable energy ideas and long-term relationships into an ethical, high value sustainable business.
+
+we are seeking a software engineer to join the performance analytics development department. in this role you will work with fellow team members to develop and maintain advanced analytical methods, tools, and solutions. this role is responsible for driving innovation through application of cutting-edge software technologies as well as maintaining an orderly and well-documented code repository. the software engineer will play a central part in designing a cohesive architecture for the group’s data and software systems.
+
+to be considered for this exciting role you must possess 5+ years of relevant experience in working with data systems and programming. we are looking for proficiency in python, javascript, d3.js or other data visualization libraries, html, css and sql server development. additional languages and database environments are a plus. we are also looking for someone with working knowledge of aws products including rds, s3, ec2 and lambda. if you have great communication and time management skills please apply!
+
+this position may be based out of either san diego, ca or portland, or.
+ 
+we are proud to be an eeo/aa employer m/f/d/v. we maintain a drug-free workplace
+and perform pre-employment substance abuse testing.
+ 
+
+
+
+
+
+
+
+
+
+
+
+

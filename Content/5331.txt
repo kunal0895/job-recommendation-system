@@ -1,0 +1,266 @@
+
+
+
+
+job application for sr. data scientist at pivotal software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+sr. data scientist
+
+        at pivotal software
+      
+
+        atlanta, ga
+      
+
+
+pivotal’s story video  
+as a recognized leader in disciplined agile and lean software development practices, pivotal combines the silicon valley state of mind, modern approach, and infrastructure with organizations’ core expertise and values. our cloud-native platform and suite of data tools drive software innovation for many of the world’s most admired brands, helping enterprises move at start-up speeds and with greater business agility. we optimize for change and teach next-generation developers to create and build new solutions, and are committed to open source and open standards.
+our methodology is about evolving, in both development and innovation, and our culture is empowering. our 2,000+ employees across offices worldwide subscribe to an ethos of kindness. we make a point to bring empathy to each and every project, and are guided by a purposeful mission—to transform how the world builds software.
+you
+you bring a deep focus and passion for a particular specialization within analytics (e.g., text or sentiment analytics, network/graph analytics, time series modeling, etc.), or a key vertical market (i.e., life sciences, digital media, energy, etc.). ultimately, you want to build your career upon developing new methodologies and tools to enable advanced modeling and statistical analysis against petabyte-scale data sets.
+us
+the customer solutions team strives to make customers' use of our products and solutions successful, so that they can more effectively transform their business. our cross-disciplinary team includes technical account leaders, data scientists, agile specialists, solutions architects, educators on pivotal technology, and business transformation specialists.
+your day
+a typical day in this role may include the following:
+
+using techniques from supervised and unsupervised machine learning, statistical analysis and predictive modeling to deliver business insights to prospects and customers based on data stored in pivotal data warehouses
+working directly with customers to educate them on “moving beyond bi” and training their internal resources to execute advanced forms of analytics on pivotal
+creating reusable implementations of statistical tests and models using the available technologies in the pivotal ecosystem
+working with the academic and business community to develop new techniques and to contribute to research in the area of advanced analytics on large databases
+generating new product requirements for the pivotal engineering group to enhance the analytics capabilities of the database
+assisting in customer engagement management, requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship management
+
+required skills / experiences
+
+advanced knowledge of statistical and machine learning methods, particularly in the areas of modeling and business analytics
+strong programming skills
+experience with statistical languages and packages, such as r, sas and/or matlab
+experience working with relational databases and/or distributed computing platforms, and their query interfaces, such as sql, mapreduce and hive.
+experience with additional programming languages, such as python, java, and c/c++.
+excellent written and verbal communications skills, with a proven ability to translate complex methodologies and analytical results to higher-level business insights and key take-aways
+ability to travel as-needed to meet with customers
+because this position will involve a lot of work with government clients, us citizenship or us permanent residence is a requirement
+
+desired skills / experiences
+
+a proven passion for generating insights from data, with a strong familiarity with the higher-level trends in data growth, open-source platforms, and public data sets.
+experience working hands-on with large-scale data sets
+familiarity with visualization software and techniques (including tableau), and business intelligence (bi) software, such as microstrategy, cognos, pentaho, etc.
+degree in an analytical or technical field (e.g. applied mathematics, statistics, physics, computer science, operations research)
+
+pivotal is an equal employment opportunity employer that will consider all qualified applicants, regardless of race, color, religion, gender, sexual orientation, marital status, gender identity or expression, national origin, genetics, age, disability status, protected veteran status, or any other characteristic protected by applicable law.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile *
+
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+how did you hear about pivotal? *
+
+
+
+please selectlinkedin job post
+stack overflow job post
+i was referred
+pivotal career site
+
+
+if you selected "other", please list source below:
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

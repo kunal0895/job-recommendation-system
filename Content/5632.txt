@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+principal associate, data science at capital one - us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+usa
+united kingdom
+canada
+
+
+
+
+
+
+
+
+menu
+        
+
+
+
+
+
+teams & roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+life at capital one
+
+overview
+benefits
+inclusion
+military
+
+
+campus careers
+
+
+
+saved jobs
+
+
+
+
+
+
+
+
+
+
+
+
+principal associate, data science
+apply now
+save
+job id r38238 updated date 11/17/2017
+location plano, texas
+plano town center (31064), united states of america, plano, texasat capital one, we’re building a leading information-based technology company. still founder-led by chairman and chief executive officer richard fairbank, capital one is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. we measure our efforts by the success our customers enjoy and the advocacy they exhibit. we are succeeding because they are succeeding.                                               guided by our shared values, we thrive in an environment where collaboration and openness are valued. we believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. we elevate each other and obsess about doing the right thing. our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. together, we are on a quest to change banking for good.principal associate, data scienceat capital one, data is at the center of everything we do. when we launched as a startup we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a fortune 200 company and a leader in the world of data-driven decision-making.department summary:here in dallas, we are supporting our financial services division by using data science to improve our mortgage, home equity, and auto loan businesses.role summary:as a data scientist at capital one, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in distributed computing technologies and operating across massive datasets to unlock the big opportunities that help everyday people save money, time and difficulty in their financial lives. on any given day you’ll be:-designing and implementing advanced models and analytics to self-disrupt and change the way we work, creating massive business and customer value in the process-collaborating with team members to build machine learning and artificial intelligence solutions from development through testing and validation-working with the latest open source tools, libraries, platforms, and languages to explore large, complex, and dynamic data sources for relationships and actionable insights-investigating the impact of new technologies on the future of digital banking and financial servicesthe ideal candidate will be:-technical: you have hands-on experience developing data science solutions, from concept to production, and selecting the right tool for the job at hand.  you understand modern cloud computing.  you have experience prototyping and implementing data science solutions in an enterprise.  you know r, scala, and/or python.-curious. you ask why, you explore, you're not afraid to blurt out your disruptive idea. you continually research and evaluate emerging technologies.-wrangler. you know how to programmatically extract data from a database and an api, bring it through a transformation or two, and model it into human-readable form.-creative. big, undefined problems and petabytes of data don't frighten you. you’re used to working with abstract data, and you love discovering new narratives in unmined territories.twenty-five years after capital one was started it’s still led by its founder. be ready to join a community of the smartest people you’ve ever met, who see the customer first, and want to use their data science skills to make a difference.basic qualifications:- bachelor’s degree plus 2 years of experience in data analytics, or master’s degree plus 1 year of experience in data analytics, or phd-at least 1 year of coding experience in open source programming languages such as r, python, or scala-at least 1 year of experience developing data science solutions leveraging statistical and one of more of the following: operations research, natural language processing, machine learning, deep learning, video/image analysis or time-series analysispreferred qualifications:-master’s degree or phd in a “stem” major (science, technology, engineering, or math)-at least 1 year of experience working with aws, azure, or similar cloud platform-at least 3 years’ experience in python, scala, or r-at least 3 years’ experience developing data science solutions leveraging one of more of the following: operations research, natural language processing, machine learning, deep learning, video/image analysis or time-series analysiscapital one will consider sponsoring a new qualified applicant for employment authorization for this position.  no agencies please.  capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. capital one promotes a drug-free workplace.  capital one will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, article 23-a of the new york correction law; san francisco, california police code article 49, sections 4901-4920; new york city’s fair chance act; philadelphia’s fair criminal records screening act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at 1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.for technical support or questions about capital one's recruiting process, please send an email to careers@capitalone.comcapital one does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.capital one financial is made up of several different entities. please note that any position posted in canada is for capital one canada, any position posted in the united kingdom is for capital one europe and any position posted in the philippines is for capital one philippines service corp. (copssc).
+apply now
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+
+
+our location
+
+
+
+
+
+job alerts
+sign up here for job alerts and other communications from capital one.
+email addressinterested inselect a job category from the list of options. select a location from the list of options. finally, click “add” to create your job alert.job category*select a job categoryanalyticsbrand/marketingbusiness bankingcafécafé ambassadorcafé coachcampus opportunitiescommercial bankingcompany builderscustomer advocatescustomer caredata engineeringdata sciencedesigndevopsengineeringfinanceinformation technologyinvestinglegalmachine learningmarket leadmclean data engineeringmclean devopsmclean engineeringmclean machine learningmclean softwareoperationspeople & workplacepersonal bankingproduct innovatorsproduct managementproject/process managementrisk management/auditsalessoftware engineeringstrategytechnology explorerstechnology operationsstate*select locationalabama, united statesarizona, united statescalabarzon, philippinescalifornia, united statescolorado, united statesconnecticut, united statesdelaware, united statesdistrict of columbia, united statesengland, united kingdomflorida, united statesgeorgia, united statesillinois, united statesindiana, united stateskansas, united stateslouisiana, united statesmaryland, united statesmassachusetts, united statesmichigan, united statesminnesota, united statesmississippi, united statesmissouri, united statesnebraska, united statesnevada, united statesnew jersey, united statesnew york, united statesnorth carolina, united statesohio, united statesoklahoma, united statesontario, canadaoregon, united statespennsylvania, united statesquebec, canadasouth carolina, united statestennessee, united statestexas, united statesutah, united statesvirginia, united stateswashington, united stateswisconsin, united statesadddata science, plano, texas, united statesremovestrategy, plano, texas, united statesremovecompany builders, plano, texas, united statesremoveproduct innovators, plano, texas, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+*required field
+
+
+
+
+similar jobs
+
+
+senior manager, project management
+plano, texas
+
+
+senior associate, loan servicing copywriter
+plano, texas
+
+
+product/technical writer
+plano, texas
+
+
+
+
+
+
+
+
+
+keywords
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+match jobs to your linkedin profile.
+
+welcome back, login
+
+
+
+
+
+
+
+
+dallas campus
+
+
+
+
+
+
+
+investing in communities
+
+
+
+
+
+
+
+more than just a bank
+
+
+
+
+
+
+
+
+
+facebook
+linkedin
+instagram
+twitter
+youtube
+glassdoor
+
+
+
+legal
+
+privacy
+security
+terms & conditions
+patriot act cert. *
+service members civil
+relief act
+
+member fdicequal housing lender
+
+
+capital one is an equal opportunity employer committed to diversity and inclusion in the workplace. capital one promotes a drug-free workplace.
+all qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, sexual orientation, gender identity, protected veteran status, disability or other protected status.
+if you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact capital one recruiting at  1-800-304-9102 or via email at recruitingaccommodation@capitalone.com. all information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+capital one is a federally registered service mark. all rights reserved. blank check® is a registered trademark of capital one services, llc. capital one does not provide, endorse, nor guarantee and is not liable for third party products, services, educational tools, or other information available through this site.
+fortune and fortune 100 best companies to work for are registered trademarks of time inc. and are used under license. from fortune magazine, march 15, 2017 ©2017 time inc. used under license. fortune and time inc. are not affiliated with, and do not endorse products or services of, capital one financial corporation.
+*plugins required [adobe®reader®]
+e-verify® is a registered trademark of the u.s. department of homeland security 
+
+
+this link opens in new tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

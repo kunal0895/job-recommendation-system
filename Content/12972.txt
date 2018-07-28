@@ -1,0 +1,201 @@
+
+big data architect job - excellerent solutions - pittsburgh, pa | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+big data architect
+
+excellerent solutions
+     -
+pittsburgh, pa
+
+
+job summaryjob summarythe big data architect leads the architecture and design of our client's data platform in alignment with our client's vision of providing a unified data solution: aggregating customer and healthcare operational data, and providing easy access to powerful insights. as such, this position will be responsible for the technical and security architecture of the software applications, as well as the supporting infrastructure. this position will help drive quality, reliable, secure applications, using industry standard best practices.responsibilities and dutiesprimary duties and responsibilitieslead a development team of big data designers, developers, data scientists, and devopsimplement a big data enterprise warehouse, bi and analytics system using hive, spark, redshift, emr (hadoop), and s3develop and maintain processes to acquire, analyze, store, cleanse, and transform large datasets using tools like spark, kafka, sqoop, hive, nifi, and minifiprovide recommendations, technical direction and leadership for the selection and incorporation of new technologies into the hadoop ecosystemparticipate in regular status meetings to track progress, resolve issues, mitigate risks and escalate concerns in a timely mannercontribute to the development, review, and maintenance of product requirements documents, technical design documents, and functional specificationshelp design innovative, customer-centric solutions based on deep knowledge of large-scale, data-driven technology and the healthcare industryhelp develop and maintain enterprise data standards, best practices, security policies and governance processes for the hadoop ecosystemeducationbachelor’s in computer information technology, computer science, management systems or related discipline required; master’s preferredexperiencefour-year degree in computer science/software engineering or related degree program, or equivalent application development, implementation and operations experience.advanced study or degrees such as master’s degree in business (mba), masters, phd., in computer science/software engineering or a related scientific degree program is preferredminimum 5+ years of experience in large systems analysis and development, addressing unique issues of architecture and data management. has the experience to work at the highest technical level of all phases of systems analysis and development activity, across the full scope of system development cycle4+ years related experience on data warehousing and business intelligence projects3+ years implementation or development experience with the hadoop ecosystemworking knowledge of the entire big data development stackexperience handling very large data sets (10’s of terabytes and up preferred)experience with secure restful web serviceshighly proficient with java/scala application developmentexpert in apache spark infrastructure and developmentexperience with sqoop, spark, hive, kafka, and hadoopexperience with automated testing for big data platformsexperience with best practices for data integration, transformation, governance and data qualityexperience with developing, designing and coding, completing programming and documentation, and performing testing for complex etl applications (spark & scala preferred)experience with agile software development process and development best practicesexperience with big data text mining and big data analytics preferredunderstanding of big data architecture along with tools being used on hadoop ecosystemability to lead tool suite selection and lead proofs of conceptsability to share ideas among a collaborative team and drive the team based on technical expertise and sharing best practices from past experiencequalifications and skillsskillsstrong understanding and experience executing several software development methodologies and life cycles. ability to understand and translate business requirements into technical specifications.ability to negotiate with and influence senior management. ability to lead and influence across departments and across levels of leaderships both internally and with customers.proven ability to organize/manage multiple priorities coupled with the flexibility to quickly adapt to ever-changing business needs.excellent written and oral communication skills. adept and presenting complex topics, influencing and executing with timely / actionable follow-through.strong analytical and problem-solving skills with the ability to convert information into practical training deliverables. uses rigorous logic and methods to solve difficult problems.job type: full-timejob location:pittsburgh, parequired education:bachelor'srequired experience:big data: 4 years
+
+30+ days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to excellerent solutions.
+
+
+
+
+
+
+other jobs you may like
+
+
+big data architect
+
+oxford solutions -
+					pittsburgh, pa
+30+ days ago
+
+
+big data architect
+
+teletracking technologies -
+					pittsburgh, pa
+30+ days ago
+
+
+data architect
+
+confluence technologies inc. -
+					pittsburgh, pa
+2 days ago
+
+
+big data architect
+
+perficient -
+					national, wv
+30+ days ago
+
+
+senior software engineer - big data
+
+intel -
+					santa clara, ca
+30+ days ago
+
+
+
+
+
+ 
+
+
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

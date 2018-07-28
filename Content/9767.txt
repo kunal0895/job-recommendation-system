@@ -1,0 +1,117 @@
+
+
+
+
+
+
+ddi career opportunities
+
+
+
+
+
+
+
+
+
+data insight analyst
+
+
+
+description
+the data insight analyst will use his/her skills, creativity, and passion to accelerate the transformation of ddi’s data configuration, analysis, and reporting processes in order to provide ddi clients with insight-provoking analytic reports.
+accountabilities
+
+acquire knowledge of ddi’s data sources and data relationships. 
+enable the transfer of current data integration, configuration, analysis, and reporting processes from manual desktop-based to automated server-based technologies (e.g., ssis, ssrs, ssms) and azure data lake.
+use sql and r to access, clean, manipulate, and link data from multiple sources, and write database reporting tables. 
+partner with other technology groups on enterprise data store design/development.  develop and utilize usql and jupyter to manipulate and explore data.  design reporting capabilities that utilize the data lake.
+collaborate on and support initiatives that promote enterprise data governance. 
+design, develop, and deliver client-facing data visualizations, dashboards, and reports with ssrs and powerbi.
+partner with ddi’s practice area to:
+	
+explore potential ways ddi’s data can be leveraged to provide client value.
+
+
+continuously expand data visualization capabilities that lead to actionable workforce insights and answer clients’ workforce management questions. 
+	
+train other associates how to use newly designed and implemented tools and processes.
+gather, document, and share back report interpretation and insight generation best practices.
+
+
+
+basic qualifications
+(these are the minimum qualifications you need to be considered for the job)
+
+bachelor’s degree and minimum of 1-3 years of experience in some combination of data management, advanced analytics, visualization, business insights, and data science.
+applied experience with sql, r, and power bi (including m and dax)
+willingness to learn usql and jupyter
+ability to show flexibility, initiative, and innovation when dealing with ambiguous and fast-paced situations.
+
+preferred qualifications
+
+graduate degree in data science, data visualization, advanced analytics, quantitative psychology, or related field
+experience with other programing languages such as python and javascript 
+experience with ssis, ssrs, and visual studio
+experience with spss or other statistics application
+experience working with human factors, psychological measurement, or related data types
+ideal candidates will demonstrate innovation, customer focus, attention to detail, and initiative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+back to search results
+
+
+new search
+
+
+
+
+
+
+

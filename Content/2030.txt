@@ -1,0 +1,60 @@
+
+
+
+
+hopper - jobs: software engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+software engineer
+
+software engineer
+cambridge, massachusetts, united states · engineering
+
+descriptionhopper is a new kind of travel company that is reinventing the way people plan travel and book flights by leveraging the power of mobile conversation and big data in the form of trillions of flight prices. today, hopper is one of the fastest growing travel apps ever, with over 17 million installs since our launch in 2015, and behind it all is a team of 70-some passionate developers, designers, data scientists, growth hackers, travel junkies — and one dog.as a software engineer you'll be part of a growing team of engineers and product designers with big ambitions: delivering a delightful and powerful product that empowers travelers. we’re always looking for driven, versatile, autonomous yet collaborative engineers to help us build great things throughout our stack, which includes:mobile apps join a team that's won apple's app store best of 2015 and google play's best apps of 2016 leverage rxjava and reactiveswift to write immutable and typesafe code collaborate directly with the product team to prototype and test experimental features backend microservices work with distributed systems and write restful scala-based microservices using finagle interface with large, distributed no-sql databases write internal web tools and dashboards as single-page javascript applications (angularjs) data processing and analysis work with apache spark (python and scala) to analyse trillions of data points work on pipelines ingesting billions of data points daily with kafka and spark streaming build novel, often very large databases to support new app features monitoring and operations work on hopper’s service monitoring and orchestration using mesos and kubernetes help manage hopper’s own datacenters using ansible all of the above? not sure what you’d work on? don’t worry! when you join, we’ll figure out the best fit which may very well be working on all of these requirementswe're looking for engineers of diverse backgrounds, from recent graduates to engineers with years of experience building distributed systems. our fundamental requirements are a drive to learn and a shared engineering philosophy: design and write beautiful code: simple, testable, efficient and maintainable learn new languages, technologies and frameworks from one project to the next collaborate with others to solve tough technical and product problems benefitscompensation will be competitive including equity in a growth-stage startup backed by top-tier vcsall your information will be kept confidential according to eeo guidelines.* hopper is unable to offer h-1b visa sponsorship for this position
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+hopper website
+
+powered by
+workable
+
+
+
+
+

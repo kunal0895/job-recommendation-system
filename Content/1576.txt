@@ -1,0 +1,35 @@
+lead data engineer  - denver | thoughtworks✖our site uses cookies
+for analytics. if you're unsure about it, take a look at our privacy policy.españolportuguêsdeutsch中文search termsubmit searchnewscontact usclientsservicesproductsinsightseventsabout uscareersmenu✖search termsubmit searchhomeclientsservicesfinancial servicesdigital platform strategygovernmentretailtravelbusiness agilityproductsinsightseventsabout uscareersoverviewinclusivityapplication processgraduatesbrowse jobsnewscontact usespañolportuguêsdeutsch中文lead data engineer apply for this job ▸
+denver, usaas a senior data engineer, here's what we'll be looking for you to bring:
+
+hands-on engineering leadership
+proven track record of innovation and expertise in data engineering
+tenure in coding, architecting and delivering complex projects
+deep understanding and application of modern data processing technology stacks. for example spark, hadoop ecosystem technologies, and others
+deep understanding of streaming data architectures and technologies for real-time and low-latency data processing
+deep understanding of nosql technologies including column family, graph, document, and key-value data storage technologies
+understanding of how to architect solutions for data science and analytics such as productionizing machine learning models and collaborating with data scientists
+understanding of agile development methods including: core values, guiding principles, and key agile practices
+understanding of the theory and application of continuous integration/delivery
+passion for software craftsmanship
+a rich breadth of industry experience and background working across different organizations, ranging in size, from start-ups to large corporations..
+strong stakeholder management and interaction experience at different levels
+
+ 
+there's no typical day or engagement for our senior data engineers. here’s what you’ll do:
+
+be the sme. develop modern data architectural approaches to meet key business objectives and provide end to end data solutions
+you might spend a few weeks with a new client on a deep technical review or a complete organizational review, helping them to understand the potential that data brings to solve their most pressing problems.
+on other projects, you might be acting as the architect, leading the design of technical solutions, or perhaps overseeing a program inception to build a new product.
+it could be much more about getting stuck into a delivery project where you're equally happy coding and tech leading the team to implement the solution.
+whatever your role, the team always look to draw on your experience when things get tough and you often handle the difficult client conversations allowing the team to continue delivering without undue pressure.
+you have great relationships with our new business team and work collaboratively to support pre-sales, meet prospective clients and ultimately influence and shape our portfolio of work.
+you recognize that building your network with a client is absolutely key to enable you to perform in your role. you'll be drawing on all of your passion for technology, hands-on experience and knowledge of latest big data and engineering best practices to help you gain the respect and credibility of those around you.
+
+  
+a few important things to know:
+
+travel is required. projects are almost exclusively on customer site, so thoughtworkers need to be flexible and up for extensive travel. most of our consultants travel every week and fly home for weekends. we do our best to take people’s personal situations into account, but we know it’s not for everyone.
+residing near one of our north america offices in chicago, dallas, new york, atlanta or san francisco is preferrable although not necessary.
+
+#li-naapply for this job ▸about thoughtworkswe are a software company and a community of passionate, purpose-led individuals. we think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the it industry and create positive social change.connect with uswechat×homeclientsservicesproductsinsightseventsabout uscareerscontact uspress & media |   privacy policy | © 2017 thoughtworks, inc. 

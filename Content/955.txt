@@ -1,0 +1,353 @@
+
+
+
+
+
+senior data engineer at nike inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+shop
+
+
+nike+
+
+
+
+
+
+
+
+
+
+
+
+
+
+corporate careers
+retail careers
+benefits
+locations
+internships
+temporary opportunities – u.s.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nike it careers
+nike corporate employees shatter limits daily at company headquarters and offices around the world.
+
+
+
+
+
+
+
+senior data engineer
+apply now
+
+become a part of the nike, inc. team
+nike, inc. does more than outfit the world's best athletes. it is a place to explore potential, obliterate boundaries and push out the edges of what can be. the company looks for people who can grow, think, dream and create. its culture thrives by embracing diversity and rewarding imagination. the brand seeks achievers, leaders and visionaries. at nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+nike technology designs, creates and implements the methods and tools needed to make the world’s largest sports brand run faster, smarter and more securely. global technology teams aggressively innovate the solutions needed to help employees navigate nike's rapidly evolving landscape. from infrastructure to security and supply chain operations, technology specialists drive growth through top-flight hardware, software and enterprise applications. simply put, without nike technology, there are no nike products. 
+description
+your role on the team:design and implement product features in collaboration with product owners, report developers, product analysts, and business partners within an agile / scrum methodologyprovide engineering on modern data processing technology stack including spark, emr, airflow, python and snowflake within awscontribute to overall architecture, framework, and design patterns to store and process high data volumessupport the culture of team empowerment and engagement through successful self-management.  own your workload and contributions to the teamproactively support product health by building solutions that are automated, scalable, and sustainable— be relentlessly focused on minimizing defects and technical debtbuild continuous integration and test-driven development environmentmentor and guide other software engineers within the team including review code and provide feedback relative to best practices and improving performance
+qualifications
+skills/qualifications
+
+bachelor's degree in computer science, information systems or other relevant subject area
+2 years' additional relevant experience in lieu of a degree
+5+ years of experience with large-scale data engineering with emphasis on data analytics and reporting
+strong experience with sql and relational database engineering (oracle, sql server, teradata)— expert-level sql abilities
+3+ years of experience developing in the hadoop ecosystem, leveraging tools such as pig, hive, sqoop, spark and others
+good understanding of file formats including json, parquet, and avro
+experience developing solutions in snowflake
+experience developing with the aws emr managed service
+experience developing with scripting languages such as shell and python
+experience with agile delivery methodologies in a fast-paced complex environment – scrum, safe, extreme programming
+strong ability to multi-task and balance multiple priorities in a fast-paced environment
+a bachelor's degree in business, information technology or related field  
+solid interpersonal and communication skills (written and verbal)
+continuous learner
+
+nike, inc. is a growth company that looks for team members to grow with it. nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. no matter the location, or the role, every nike employee shares one galvanizing mission: to bring inspiration and innovation to every athlete* in the world.
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+job id 00362067
+
+apply now
+
+
+still looking?
+find the right career here.
+
+
+search
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+go
+
+
+
+
+
+
+job recommendations
+with just 1 click and a connection with linkedin, you can receive job listings that best match your previous positions.
+match my jobs
+
+
+
+share
+
+email
+linkedin
+facebook
+tumblr
+
+
+
+
+
+
+job alerts
+first namelast nameemail addressinterested insign up for job alerts by choosing a category and/or location. start typing for suggestions and click the button to add your alerts before submitting. you must have at least 1 alert added in order to subscribe.categorylocationaddtechnology, portland, oregon, united statesremovedigital & technology, portland, oregon, united statesremoveit, portland, oregon, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+join our talent community
+didn't find what you're looking for? submit your information for future consideration.
+sign up
+
+
+
+
+
+
+internships
+get fully immersed in our culture of curiosity and innovation. start a corporate internship at nike.
+learn more
+
+
+
+
+innovation at nike
+take a behind the scenes look at how nike employees shaped product and experiences for the biggest football tournament in the world.
+learn more
+
+
+
+
+benefits
+as part of the world’s leading sports brand enjoy great benefits that fit, varied by position and location.
+learn more
+
+
+
+
+locations
+employees in six continents and 53-plus countries make up one global nike team.
+learn more
+
+
+
+
+
+
+
+
+mobile
+
+orders
+stories
+help
+
+
+
+first
+
+gift cards
+find a store
+sign up for email
+join nike+
+
+
+
+second
+
+get help
+order status
+shipping and delivery
+returns
+payment options
+contact us
+
+
+
+third
+
+news
+about nike
+careers
+investors
+converse careers
+sustainable innovation
+ca supply chains act
+
+
+
+
+social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+united states © 2017 nike, inc. all rights reserved
+
+
+guides
+
+nikeid
+running
+basketball
+nfl
+golf
+nike sprtswear
+soccer
+skateboarding
+tennis
+kids
+flyknit
+nike free
+lunarion
+dri-fit
+nike zoom
+tech pack
+football
+baseball
+nike innovation
+nike flyease
+nike grind
+
+
+terms & conditions
+privacy policy
+sitemap
+ca supply chains act
+
+
+
+nike, inc. is committed to employing a diverse workforce. qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. nike is committed to working with and providing reasonable accommodation to individuals with disabilities. if, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please call 503-671-4156 and let us know the nature of your request, your location and your contact information.
+for more information, please refer to equal employment opportunity is the law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

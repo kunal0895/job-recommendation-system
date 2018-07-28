@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+front-end engineer - digital lumens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+arrow right
+search
+play
+chevron down
+chevron left
+chevron right
+lightbulb
+thermometer
+
+signal
+facebook
+twitter
+linkedin
+vimeo
+instagram
+area
+secure
+tune
+sense
+secure
+area
+power
+
+
+
+skip to banner
+skip to main navigation
+skip to content
+skip to footer
+
+
+
+
+
+
+
+                        digital lumens                    
+
+
+menu
+
+
+
+
+
+
+
+search for:
+
+
+
+
+search
+
+
+partner login
+ 
+platform
+
+siteworx
+lightrules®
+
+
+solutions
+
+intelligent lighting control
+environmental monitoring
+power metering
+space optimization
+building security
+
+
+smart devices
+
+intelligent leds
+lighting controls
+
+
+applications
+
+warehouse
+manufacturing
+parking garage
+office
+schools and universities
+retail
+transportation
+sports facilities
+cold storage
+food processing
+
+
+resources
+
+case studies
+white papers
+webinars
+videos
+documentation
+
+
+request a demo
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+                 subpage navigation
+                 
+
+
+
+
+                         about                     
+
+careers
+partners
+contact
+
+
+
+
+
+front-end engineer
+the company
+digital lumens, with headquarters in boston’s innovation district, is driving the industrial and commercial smart building revolution by providing superior software, products, and system integration. its cloud-based intelligence platform, siteworx, brings the tangible benefits of the internet of things (iot) to commercial and industrial environments worldwide, and leverages the power of connected lighting and iot sensors to deliver business intelligence from a unique vantage point—overhead. its smart building solutions have been deployed across nearly 500 million square feet of space, and the company is distinguished by breakthrough technology, a management team of proven visionaries from the solid-state lighting and distributed networking industries, and proven results from real-world clients in 45 countries.
+the solutions
+digital lumens’ innovative technology combines connected lighting fixtures, iot sensors, and a software platform called siteworx to create next generation smart buildings. the siteworx platform powers a suite of applications, each designed to solve a specific business problem for industrial and commercial end users. each application is accompanied by advanced analytics and reporting functionalities that allow users to apply a wealth of data-based intelligence to benefit the organization’s bottom line. a sample of the applications includes:
+sense: environmental monitoring solution that tracks temperature and humidity across a building or facility to ensure operational and regulatory requirements are met;
+amp: energy management solution that monitors, measures, and controls non-lighting electrical loads for insight into operations and maximum efficiency; and
+tune: advanced lighting control and management solution for maximizing energy savings with automated measurement and verification, while ensuring and maintaining employee safety and comfort.
+digital lumens was founded in 2008 and became part of the global technology company osram in 2017.
+position overview
+we’re looking for a junior to mid-level frontend developer to build web applications on our cloud-based siteworx smart building platform.  you’ll join a small team of highly motivated engineers and have the opportunity to drive high impact features from early on.
+we value creating high-quality software through iteration, continuous integration, and automated testing.  while shipping is always important, we also strive to create an environment that encourages creativity and experimentation, in order to create industry-leading products.
+our frontend stack uses ember.js, es6+, d3 and talks to a golang, postgres backend via rest api and websockets on aws.
+primary responsibilities
+
+design and develop web applications on the siteworx platform
+participate in all aspects of the product development lifecycle from requirements to deployment
+
+position requirements
+
+work collaboratively with other engineers, product, and qa teams in a fast-paced environment
+a desire to create clean, high-quality features through code review and automated testing
+understanding of the modern javascript ecosystem, including es6, node, etc.
+have an attention to detail and a desire to build a great user experience
+be curious and self-motivated
+an advocate for efficiency and sustainability
+
+education/skills requirements
+
+bs/ms/me in computer science or equivalent
+1+ years relevant work experience building production web applications in a modern javascript framework such as ember, react, vue, angular, etc.
+experience building layouts with css/sass/less
+experience with svg or d3 is a plus, as is experience in data analysis or data visualization
+successful candidate will be required to submit examples of work that demonstrate proficiency at a level that meets the position requirements
+
+position is based in boston. local boston candidates only. this role does not offer relocation assistance.
+please send resume and contact information to careers@digitallumens.com.
+—
+is this role not for you? please let us know about others that may be interested in this opportunity – you may be eligible for the dl non-employee referral reward.
+digital lumens will not accept unsolicited resumes from placement agencies or recruiters.
+ 
+
+
+
+
+
+
+
+
+ smart building solutions through intelligence overhead
+
+companyabout
+careers
+contact
+news and ideaspress releases
+articles
+blog
+quick linksintelligent led fixtures
+lighting controls
+documentation
+ contact us
+ (617) 723-1200
+
+
+follow us on twitter
+
+
+
+follow us on facebook
+
+
+
+follow us on linkedin
+
+
+
+follow us on vimeo
+
+
+
+ 
+
+ © 2010 - 2017 digital lumens, inc. all rights reserved. privacy policy
+ 
+
+
+
+
+
+
+intelligent lighting control
+save up to 90% on lighting-related energy costs
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+
+			x            
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

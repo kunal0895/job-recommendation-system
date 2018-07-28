@@ -1,0 +1,283 @@
+
+
+
+
+
+
+junior full stack developer  job in robo at schwab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+charles schwab corporation
+
+
+
+
+who we are
+what we do
+leadership
+careers
+citizenship
+perspectives
+
+
+
+
+
+investor relations
+
+governance
+news room
+
+
+
+
+
+
+
+
+
+diversity
+financial consultants
+grads and students
+veterans
+women
+events
+
+
+
+
+
+
+
+ careers home
+> job details
+
+
+
+
+junior full stack developer - robo-advisor
+
+
+
+
+
+apply now
+       
+
+
+
+
+
+
+
+job id: 20170314-983
+job category: information technology
+relevant work experience: it-distributed and web development-less than 2yrs
+current licenses / certifications: none
+
+
+position located in: co - lone tree
+education: ba/bs
+job type: full time
+
+
+
+
+
+
+                		 description: lone tree - co, denr3, 9800 schwab way, 80124jodi lynn cohen20170314-983we believe that, when done right, investing liberates people to create their own destiny. we are driven by our purpose to champion every client’s goals with passion and integrity. we respect and appreciate the diversity of our employees, our clients, and the communities we serve. we challenge conventions strategically to create value for our clients, our firm and the world. we live and bring to life the concept of ‘own your tomorrow’ every day. we champion our employee strengths, guide their development, and invest in their long-term success. we hire optimistic, results-oriented, curious, innovative, and adaptable people with the desire to help our clients and one another succeed.
+as a company, we were established by chuck over 40 years ago to champion main street over wall street, and to help americans transform themselves from earners to owners. through advocacy and innovation, we work to make investing more affordable, accessible and understandable for all. as we enter our fifth decade, we are looking for talented, innovative and driven people who believe they can help themselves, and our clients, create a better future.
+our opportunity:
+intelligent portfolios technology is part of the schwab technology services organization and is responsible for delivering robo-advisor solutions used by schwab clients and advisors. as an associate software application engineer for intelligent portfolios technology you will contribute your technical expertise within the engineering team and for our business partners. this position will be responsible for delivering high quality solutions that meet business objectives in a flexible, collaborative and rapidly changing delivery environment. it requires highly motivated and focused developers curious to build new and innovative solutions for our clients. 
+what you’ll do:
+
+design and develop the next generation of intelligent portfolios solutions for schwab clients and advisors
+search out and evangelize new and emerging technologies including open source tools
+implement continuous integration and deployment strategies leveraging tools like jenkins with a devops philosophy
+ensure the highest quality software is developed, delivered and maintained
+work effectively as a member of self-organized agile teams
+
+what you have:
+
+coursework and/or experience in:
+
+object oriented languages such as java, c# or c++
+microsoft technologies such as .net
+software engineering principles such as software design patterns
+database principles such as sql, oracle, mongodb or hadoop
+
+knowledge and/or experience in web service design and implementation
+javascript framework knowledge and/or experience such as angularjs
+knowledge of cloud-native platforms like pivotal cloud foundry including the implementation of microservices in .net core
+understanding of the software development lifecycle
+strong interpersonal, analytical and problem solving skills
+excellent written/verbal communication skills
+curiosity to understand and leverage new tools and technologies
+strong desire to leverage technology to build products that "wow" users
+excellent team player with the ability to influence and negotiate
+self-motivated as well as creative and efficient in proposing solutions to complex, time-critical problems
+bachelor of science in computer science and/or masters in computer science
+
+ what you’ll get:
+
+everyday wellness: healthy rewards, onsite fitness classes, healthy choices, wellness champions
+financial fitness: 401k match, employee discounts, personalized advice, brokerage discounts
+work/life balance: sabbatical, new mothers returning to work program, tuition reimbursement programs, time off to volunteer
+inclusion: employee resource groups, commitment to diversity, strategic partnerships
+not just a job, but a career, with an opportunity to do the best work of your life
+
+ 
+learn more about life@schwab.charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce. it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression, national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law.    
+                		 job specifications 
+
+relocation offered?:
+no
+
+
+work schedule:
+days
+
+
+languages:
+english - spoken
+
+
+current licenses / certifications:
+none
+
+
+relevant work experience:
+it-distributed and web development-less than 2yrs
+
+
+position located in:
+co - lone tree
+
+
+education:
+ba/bs
+
+
+job type:
+full time
+
+
+  
+						 category:information technology 
+                		 activation date: wednesday, march 22, 2017   
+                		 expiration date: wednesday, november 1, 2017 
+apply here
+
+
+apply now
+       
+
+
+
+link for schema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    brokerage products: not
+                    fdic insured • no bank guarantee • may lose value
+                
+
+
+
+            charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.  it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex  (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression,  national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law.  schwab also does not discriminate against applicants or employees because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+        
+
+            at schwab, we believe that every employee, through their diverse abilities and experiences, can contribute to our growth, innovation and client loyalty. we embrace diversity and are committed to providing equal opportunity to all employees and applicants. if you have a disability, and require reasonable accommodations in the application process, call human resources at 800-725-3535. we will be happy to assist you. schwab will only share your accommodation request with those individuals who have a specific need to know. the request for an accommodation will not affect schwab’s hiring decisions. all other submissions should be performed online.
+        
+
+            the charles schwab corporation provides a full range of securities, brokerage, banking, money
+            management, and financial advisory services through its operating subsidiaries. its broker-dealer
+            subsidiary, charles schwab & co., inc. (“schwab”), 
+                member
+                sipc
+            , offers investment services and products, including schwab brokerage accounts. its banking
+            subsidiary, charles schwab bank (member fdic and an equal housing lender), provides deposit and lending
+            services and products.
+        
+
+
+
+
+
+
+
+
+ © charles schwab & co., inc. (member sipc) all rights reserved. (1115-7068)
+
+contact
+
+site map
+schwab.com
+
+
+
+
+facebook
+twitter
+youtube
+linkedin
+google plus
+
+
+
+powered by smashfly
+
+
+
+
+

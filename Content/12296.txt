@@ -1,0 +1,358 @@
+
+
+
+
+principal research scientist - cyber security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+honeywell careers
+
+
+
+
+
+chinese (simplified)
+czech (czech republic)
+dutch (the netherlands)
+english (us)
+french (canada)
+french (france)
+german (germany)
+portuguese (brazil)
+spanish (spain)
+create a profile|log in
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+yes
+no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+show details
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+
+terms of use
+
+
+
+
+
+                    refer job:
+                        
+
+
+
+
+
+
+
+
+
+ add to saved jobs
+
+
+
+
+
+
+back
+
+
+
+
+principal research scientist - cyber security
+innovate to solve the world's most important challenges
+we are seeking a principal research scientist - cyber security to define and conduct innovative research on the security of computer and embedded systems, including computers, operating systems, software applications, computer networks, communications devices, control systems, and communications networks, with an emphasis on the security of control systems. systems of particular interest include scada (supervisory control and data access), dcs (distributed control systems), access control systems, and digital video systems. cloud computing will also be an area of focus.  various building management systems that have been traditionally local to the customer are increasingly employing hybrid architectures. data is generated on the customer site and then connected to the cloud where additional software solutions add value to the data through analytics and a myriad of action oriented reporting functions. customers utilize web portal to interact with their cloud data and make decisions resulting in control changes to improve building operational performance as a result of the cloud services. security models are evolving and this role will be a key contributor to securing cloud services. you will:identify and propose solutions to research challenges in the security of electronic systems.conduct assessments of the security of proposed and existing systems including threat assessment, vulnerability assessment, and security/penetration testing.create designs employing access control, authentication, cryptography, audit, forensics, and anomaly and misuse detection to provide information integrity, confidentiality, availability, and non-repudiation.investigate the security properties of cyber-physical systems.travel up to 10%. 
+
+
+
+20
+innovation
+
+
+20
+product assurance
+
+
+20
+technology design
+
+
+20
+project management
+
+
+20
+risk management
+
+
+
+you must have: • must be a u.s. citizen due to itar restrictions• minimum of a bachelor's degree in computer science, electrical engineering or similar discipline with an emphasis on electronic system security/cyber security or in lieu of a bs degree, senior level embedded systems/reverse engineering experience we value: • master's degree in computer science, electrical engineering or similar discipline with an emphasis on electronic system security• cryptographic knowledge and experience to secure authentication and protect data / information both at rest and in transit is a plus• domain experience in vulnerability analysis of embedded systems• research and development experience in cyber security • cissp certification desired• excellent communication skills • active dod secret clearance a plusincludes:•continuous personal developmentlocation options:golden valley mn (primary hub - ideal)herndon vaphoenix az**additional honeywell location options will be considered if needed
+
+due to us export control laws, must be a us citizen, permanent resident or have protected status.
+
+exempt
+
+how honeywell is connecting the world
+additional information
+job id: req123046 category: technology r&d location: 21111 n. 19th ave (deer valley), phoenix, az 85027 usa 
+honeywell is an equal opportunity employer. qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.indcorpmaini
+
+
+
+
+
+
+
+send to a friend
+
+
+
+
+
+
+
+
+
+
+  
+                                    please wait...
+
+
+
+
+
+
+email this job ad to your friend(s) by adding their email address(es) along with your details to the field below:   *separate each recipient email address with a comma.
+
+recipient email address(es):
+                                            
+                         
+                
+
+your first name:
+ 
+                                                                                    
+                
+
+your last name:
+                                              
+                          
+                
+select which language the email should be sent in.
+
+language:
+
+chinese (simplified)
+czech (czech republic)
+dutch (the netherlands)
+english (us)
+french (canada)
+french (france)
+german (germany)
+portuguese (brazil)
+spanish (spain)
+
+
+
+
+
+send
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+						this job opening is already listed as one of your interests. you cannot add the same job opening to your list of interests more than one time.
+
+to see your list of interests, navigate to the application status tab within my profile
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account warning
+
+
+
+
+
+
+
+
+
+
+
+
+
+log in
+cancel
+ok
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+honeywell is an equal opportunity employer. qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.
+for more information on applicable equal employment regulations, refer to the  eeo is the law poster . 
+please refer to the eeo is the law supplement poster & the pay transparency policy.
+if a disability prevents you from applying for a job through our website, request assistance here. no other requests will be acknowledged.
+terms & conditions | privacy statement
+© 2017 honeywell international inc.
+
+
+
+
+
+
+
+
+

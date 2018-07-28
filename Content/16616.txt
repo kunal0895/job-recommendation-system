@@ -1,0 +1,64 @@
+
+
+
+
+tresata - jobs: data engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer
+
+data engineer
+charlotte, north carolina, united states
+
+descriptionthe data engineering team at tresata is key to the implementation, testing, and deployment of our analytics software to automate complex business problems across all our business lines - tresata health, tresata money, tresata goods.as a data engineer you work with all of our products to help collect, compute, and convert raw data (at massive volumes) into usable information. you will work closely with other teams at tresata – sales & marketing, customer support, product management and r&d.  this role also involves working with the newest tools and technologies powering this analytics wave - scala, scalding, spark, hadoop – and deploy advanced machine learning techniques and algorithms. all while working on truly big data. you will also have the opportunity to interact with clients, provide feedback on how software can be improved, work closely with the product engineering team to identify and answer product questions using appropriate statistical techniques on available data, and analyze and interpret results of product experiments.requirementsqualifications: bachelor’s degree in any of the following – math, physics, computer science, statistics, economics, quantitative sciences strong problem-solving skills attention to detail and organization/ documentation skills ability to prioritize and triage deadline-driven tasks in a high-pressure environment basic knowledge of distributed computing, parallel processing and large scale data management experience manipulating and analyzing complex, high-volume data from varying sources ability to communicate complex quantitative analysis in a clear, precise, actionable manner benefitstresata ft employees are eligible for world-class benefits. 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+tresata
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+tresata website
+
+powered by
+workable
+
+
+
+
+

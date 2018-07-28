@@ -1,0 +1,491 @@
+
+
+
+
+
+software development engineer jobs in hillsboro, or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+life at mcafee  
+
+join us
+
+
+
+
+
+
+
+
+
+
+
+
+work with mcafee.
+amazing works here and we want more of it.
+join our talent network
+
+
+
+
+
+
+
+ home
+› software development engineer  hillsboro, or
+
+
+
+
+
+
+
+software development engineer
+
+ share this job: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+
+location:
+hillsboro, or us
+other location(s):
+
+
+job id:jr0008988
+job category:product development / engineering
+
+
+job descriptionwe are currently seeking a senior devops / software build and configuration management engineer to join our team at mcafee hillsboro, oregon.our team supports the design, development and constant improvement of our continuous integration pipeline in support of our enterprise software projects. we support mission critical systems that are central to mcafee's success and have a direct impact on the abilities of our products to keep our customers secure. you will work with developers, qa teams, localization, validation, dev ops and program managers to design and implement repeatable processes and practices. to excel in this position you must be passionate about software quality and be prepared to advocate on behalf of good process and industry best practices. you are an adept problem solver and thrive in a fast paced entrepreneurial environment offering rich learning opportunities.responsibilities:design, implement, document and constantly improve the continuous integration and continuous deployment systems and supporting process. determine software build and integration needs, advise and support developers on solving build and workflow issues. evaluate process effectiveness by tracking and monitoring metrics participate in identifying and evaluating tools and solutions needed to address areas for improvement in the software development lifecycle.define standards and procedures for branching and merging, packaging, storing, versioning, validation and deployment (apply automation where possible) in order to create efficient release pipeline.collaborate with stakeholders to identify constraints and solve problems rigorously collaborate with qa to ensure high quality of released software.qualificationsqualifications :understanding of configuration management, build & release management, agile development process and application life-cycle management. source code management administration using github and subversion. ability to establish and maintain a large scale automated build and release infrastructure and supporting processes (ci & cd) with jenkins or teamcity.knowledgeable in configuration management concepts (e.g. requirements management, change management, branching, merging, bi-directional traceability etc) and a process oriented mindset. experience with tools such as docker, maven, artifactory proficient with scripting languages such as perl or python and authoring automation tools. strong unix and shell scripting skills (bash). ability to troubleshoot and diagnose issues across multiple technologies as needed adaptive to a rapidly changing environment and works creatively with minimal supervision excellent time management skills in handling multiple priorities with individual deadlines must work well in both a team environment as well as an individual contributor a service orientated mentality bsc or msc in computer science or similar field the following would be an advantage: programming experience using one or more of the following: c, c++, c#, java, groovy.windows server administration experience and scripting familiarity with virtual machine environments, vmware, aws, cloud technologies experience with tools such as puppet, chef, ansible experience of working in an agile environment through scrum, or kanban experience in a devops role itil certificationmcafee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+
+apply now
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+corporate headquarters
+2821 mission college blvd.
+santa clara, ca 95054 usa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+
+about mcafee
+newsroom
+website feedback
+contact us
+
+
+
+
+
+
+
+
+privacy
+legal notices
+legal contracts and terms
+
+copyright © 2017. mcafee llc.
+
+
+
+
+
+
+
+powered by smashfly
+
+
+
+
+back to top
+share this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share this page.
+
+
+
+
+
+
+
+http://careers.mcafee.com
+
+share us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sitemap
+region
+
+
+
+
+
+
+
+
+
+
+
+
+
+solutions
+
+
+
+                                                                            by offering
+                                                                            
+data  center & cloud defense
+dynamic endpoint threat defense
+pervasive data protection
+intelligent security operations
+
+
+
+                                                                            by technology
+                                                                            
+embedded security
+data exchange layer
+
+
+
+
+our customers
+
+
+
+
+services
+
+
+security consulting
+product consulting
+education services
+
+
+
+
+
+
+products
+
+
+advanced threat analysis
+data protection & encryption
+database security
+endpoint protection
+network security
+security management
+server security
+siem
+web security
+
+
+products a-z
+shop online
+renew products
+
+
+
+
+
+
+support
+
+
+security updates
+product downloads
+free trials
+free tools
+
+
+
+
+partners
+
+
+resellers
+managed service providers
+security innovation alliance
+global strategic alliances
+oem & embedded alliances
+partner portal  login
+find a reseller or distributor
+
+
+
+
+
+
+threat center
+
+
+mcafee labs
+advanced threat research
+threat technologies
+security awareness
+security updates
+mcafee labs data submission
+
+
+
+
+community
+
+
+blogs
+events
+webinars
+
+
+
+
+about us
+
+
+newsroom
+
+
+
+
+
+
+
+
+
+
+north america
+
+
+canada / english / french
+united states / english
+
+
+
+
+latin america
+
+
+amã©rica latina / spanish
+brasil / portuguese
+mã©xico / spanish
+
+
+
+
+
+
+asia pacific
+
+
+australia / english
+ä¸­å›½ / chinese
+hong kong / english
+india / english
+æ—¥æœ¬ / japanese
+í•œêµ­ / korean
+singapore / english
+å°ç£ / chinese
+
+
+
+
+
+
+europe, middle east, africa
+
+
+äœeskã¡ republika / czech
+danmark / danish
+suomi / finnish
+france / french
+deutschland / german
+italia / italian
+òšð°ð·ð°ò›ññ‚ð°ð½ / russian
+ø§ù„ø´ø±ù‚ ø§ù„ø£ùˆø³ø· / arabic
+nederland / dutch
+norge / norwegian
+
+
+polska / polish
+portugal / portuguese
+ð ð¾ññð¸ñ / russian
+espaã±a / spanish
+sverige / swedish
+tã¼rkiye / turkish
+ð£ðºñ€ð°ñ—ð½ð° / russian
+south africa / english
+united kingdom / english
+
+
+
+
+
+
+
+
+
+
+ready to get started?
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,268 @@
+
+
+
+
+
+digital data engineer at united parcel service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+click here to complete your application and other employment documents
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about ups
+
+
+career areas
+
+part-time seasonal & hourly
+drivers & mechanics
+professional roles
+
+
+working at ups
+
+
+united states
+change location
+
+
+
+
+
+search jobs
+
+
+search jobs
+
+location
+
+
+
+
+radius
+select a radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+keyword (optional)
+
+
+
+search jobs
+
+
+
+
+
+
+
+match ups jobs to your linkedin profile.
+
+
+
+
+
+
+
+
+
+
+future you gets noticed on a  global stage.
+get there 
+
+
+
+
+
+
+digital data engineer
+
+city atlanta, 
+state ga
+
+apply now
+
+this is an exciting opportunity to join a growing organization within ups, leveraging new technologies to help make ups's marketing efforts more data and analytics driven. the digital data platform team partners with campaign owners, channel owners, media agencies, data scientists, and it to develop new audiences and deliver them to the activation platforms that support the targeting and personalization of all channels, including ups.com, paid media, and email. in addition, the team ensures that quality performance data is captured and tools are developed to support digital performance reporting and audience insights mining.
+the digital data engineer is responsible for the continued development and optimization of the company’s customer data platform (cdp) in support of marketing business objectives. he/she leads the collection, cleaning, and transformation of data from multiple channels into the customer data platform in support of the segmentation, analytics, reporting, and activation needs of marketers and agencies. this position leads development of new data engineering and data activation processes, and oversees the delivery of high quality data to agency media buying platforms, the ups.com personalization platform, and other programmatic activation platforms. he/she interacts regularly with it on development of new etl (extract, transform, and load) jobs, maintenance, and troubleshooting. the digital data engineer also provides key input in support of the overall digital marketing data architecture.
+responsibilities and duties
+
+designs and develops extract, transform, and load (etl) processes within customer data platform in support of the segmentation, analytics, and reporting needs of the business
+develops processes to clean and transform data into the processed data store within the customer data platform and build aggregated views in the analytical data store in support of reporting and business intelligence needs of marketing stakeholders
+develops automated quality assurance processes to monitor quality of inbound data and ensure the continued accuracy of data processing within the platform
+develops and manages data processing jobs to assign customers to marketing segments in the customer data platform using demographic data, behavioral data, and intent signals and works with data scientists to incorporate machine learning outcomes into the overall customer segmentation model
+leads projects with marketing stakeholders, software vendors, media agencies, it, and data owners to specify and execute new data feeds into the customer data platform from internal repositories, digital marketing applications (web analytics, data warehouse, etc.), and advertising platforms
+
+knowledge and skills
+
+strong technical knowledge of hadoop and spark ecosystem, including hive, hbase, cassandra, sqoop, and oozie 
+strong knowledge of data modeling principles and best practices in building analytics repositories in sql and nosql environments
+strong coding skills in sql, spark, and python
+ability to diagnose and troubleshoot complex data quality issues
+ability to translate marketing stakeholder requirements into technical specifications
+experience building and managing data pipelines and repositories in cloud environments such as microsoft azure
+ups is an equal opportunity employer – race/color/religion/sex/national origin/veteran/disability/sexual orientation/gender identity
+            
+
+        
+apply now
+
+
+
+view job on the map go
+
+
+
+
+
+
+
+
+related content
+
+
+
+
+
+
+
+amelia’s ted talk | ups careers
+for our own amelia laytham, finding her roots eluded her growing up. but as an adult, she’s found a whole new world based on one of tradition.
+go
+
+
+
+
+
+
+
+
+
+why ups expanding its global services is helping companies deliver quality service
+ups senior management explains the benefits and impact of global opportunities.
+go
+
+
+
+
+
+
+
+
+
+how ups is building a diverse work environment
+ups’s diversity programs are built to empower our people and create business success.
+go
+
+
+
+
+
+
+
+
+military & veterans outreach
+you’ve served your country honorably. now take on your next challenge at ups.
+go
+
+
+
+
+
+job alerts
+keep up to speed with all the latest opportunities at ups. sign up for job alerts and never miss out on the hottest jobs.
+go
+
+first namelast nameemail addressphone numberby participating, you consent to receive recurring autodialed sms/mms marketing msgs. no purchase required. msg&data rates may apply. terms & conditions/privacy policy apply www.47404-info.comareas of interestsearch for a category, location, or category/location pair, select a term from the suggestions, and click "add".categorylocationaddmarketing and communication, atlanta, georgia, united statesremovemechanics and engineering, atlanta, georgia, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stay connected
+
+facebook
+twitter
+linkedin
+glassdoor
+instagram
+
+
+
+
+
+
+contact us
+disability accommodation request
+faq
+pay transparency policy
+status inquiries
+ups eeo
+privacy notice
+service terms and conditions
+website terms of use
+protect against fraud
+
+copyright © 1994-2017 united parcel service of america, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+

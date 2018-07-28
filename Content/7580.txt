@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+ zintellect  
+
+
+
+
+
+ zintellect will not be available due to network maintenance beginning friday, december 15, from 9:00 p.m. est through sunday, december 17, at noon est.  be sure to check the application deadline for opportunities you are interested in and allow time for completion.
+
+
+
+
+
+			welcome
+				 guest
+		
+
+ login 
+
+
+
+zintellect
+
+
+
+
+
+menu
+
+
+
+ applicants
+ mentors
+
+
+ opportunity catalog
+				
+
+ about zintellect
+ help
+
+
+
+
+
+
+
+opportunity details
+
+
+
+
+
+
+ 
+
+
+						opportunity 
+					
+
+
+					mathematical modeling data scientist
+				
+
+
+
+organization
+
+
+						u.s. environmental protection agency (epa)
+					
+
+
+
+reference code
+
+
+					epa-ord-ncct-2017-05
+				
+
+
+
+how to apply
+
+
+a complete application consists of:
+
+
+an application
+
+
+transcripts – click here for detailed information about acceptable transcripts
+
+
+a current resume/cv, including academic history, employment history, relevant experiences, and publication list
+
+
+two educational or professional references
+all documents must be in english or include an official english translation.
+
+
+if you have questions, send an email to eparpp@orau.org . please include the reference code for this opportunity in your email.
+
+
+
+
+academic levels
+
+
+
+graduate students
+
+
+
+
+
+description
+
+
+a research opportunity is currently available at the u.s. environmental protection agency’s (epa) office of research and development (ord) national center for computational toxicology (ncct). this appointment will be served at the epa main campus in research triangle park, north carolina.
+the national center for computational toxicology (ncct) and rapid exposure and dosimetry (red) project are both comprised of scientists, technologists, post docs, and student researchers with backgrounds from diverse scientific disciplines.
+the ncct is responsible for developing new computational tools and providing quantitative analysis for improving environmental risk assessments and regulatory decisions pertaining to chemical safety and sustainability (http://epa.gov/ncct/). there are tens of thousands of chemicals that are currently in commerce, with hundreds more introduced every year. many of these chemicals find their way into the environment and only a small fraction have been adequately assessed for potential risk. the ncct is working with its partners to revolutionize how we assess chemical toxicity risk to humans and the environment.
+the red project team, led by john wambaugh and kristin isaacs, works to increase the pace and effectiveness at which relevant information on chemicals with environmental exposures can be obtained. estimates of human and ecological exposures are required as critical input to risk-based prioritization and screening of chemicals. our project seeks to develop the data, tools, and evaluation approaches required to generate rapid and scientifically-defensible exposure predictions for the full universe of existing and proposed commercial chemicals.
+the participant will be involved in some of the following training activities addressing critical environmental protection needs:
+
+
+bayesian evaluation of the predictive ability of mathematical models for chemical exposure using environmental monitoring data (e.g., surface water concentrations)
+
+
+inference of loading of environmental chemicals into u.s. waterways using exposure models and water sampling data
+
+
+implementation, parameterization, and revision of mathematical models for chemical exposure
+
+
+informatics and “big data” analytics using machine learning approaches
+
+
+predicting relevant exposure pathways for individual chemicals from structure features
+
+
+assessing domain of applicability for chemical property predictors using data from high throughput property measurements and quantitative-structure activity relationships (qsars)
+
+
+parallelize and otherwise refine model calculations to best use multi-core computer resources.
+
+
+review evidence from the literature and ncct databases in order to develop hypotheses and identify data sets for evaluating and revising models.
+
+
+the participant will be mentored by john wambaugh. collaborating research contributers will include investigators from ncct (drs. woodrow setzer, antony williams, chris grulke, richard judson, ann richard, and rusty thomas) and the national exposure research laboratory (drs. kristin isaacs, jon sobus, katherine phillips, mark strynar, dan vallero, paul price, elin ulrich, peter egeghy, craig barber, and cecilia tan). the participant will have latitude in exercising independent initiative and judgment in the research commensurate with the level of training. 
+this program, administered by orau through its contract with the u.s. department of energy to manage the oak ridge institute for science and education, was established through an interagency agreement between doe and epa.
+the appointment is full time for one year and may be renewed upon recommendation of epa and contingent on the availability of funds. the participant will receive a monthly stipend. funding may be made available to reimburse the participant’s travel expenses to present the results of his/her research at scientific conferences. no funding will be made available to cover travel costs for pre-appointment visits, relocation costs, tuition and fees, or participant’s health insurance. the participant must show proof of health and medical insurance. the participant does not become an epa employee.
+the mentor for this project is john wambaugh (wambaugh.john@epa.gov). the desired start date for this appointment is december 15, 2017.
+
+
+
+
+qualifications
+
+
+applicants must be accepted to pursue a graduate degree in environmental or physical sciences at an accredited university or other degree granting institution. the applicant must be generally knowledgeable in at least one of the following fields: environmental science, environmental engineering, biomedical engineering, applied statistics, applied mathematics, and/or physics. the ideal applicant would be proficient and have a demonstrated interest in one or more of the following field: mathematical models of chemical exposure, statistical analysis including bayesian methods, environmental chemistry.
+through this project, the participant will gain education and training in the general areas of environmental chemistry, mathematical modeling, statistical analysis, computational toxicology, and exposure science. prior experience in these areas would clearly be of value. research findings will be communicated through peer-reviewed publications, national meetings of professional societies, and work-in-progress seminars. the training the participant will receive, coupled with a productive publishing record, should make it possible for them to move into any of these areas or continue down a transdisciplinary path at their discretion. the research participant will be involved in highly visible computational exposure research and engaged with researchers world-wide. s/he will be published in peer-reviewed journals and present research results at local and national meetings.
+
+
+
+
+eligibility requirements
+
+
+
+degree:  currently pursuing 
+					
+                            a
+
+                             master's degree
+                              or doctoral degree
+					
+                            or have received 
+					
+one of these degrees.                                                
+
+discipline(s): 
+ physics (all)
+ mathematics and statistics
+
+analysis
+
+
+applied mathematics
+
+
+mathematics (general)
+
+
+probability and statistics
+
+ computer sciences
+
+artificial intelligence (including robotics, computer vision, and human language processing)
+
+
+computer science (general)
+
+
+databases, information retrieval, and web search
+
+
+scientific computing and informatics
+
+ life health and medical sciences
+
+biochemistry
+
+
+bioinformatics
+
+
+biophysics
+
+
+computational biology
+
+
+environmental health
+
+
+food sciences and technology
+
+
+pharmacology
+
+
+population medicine, public health and epidemiology
+
+
+toxicology
+
+ engineering
+
+bioengineering and biomedical engineering
+
+
+chemical engineering
+
+
+civil engineering
+
+
+computer and systems engineering
+
+
+engineering (general)
+
+
+engineering physics
+
+
+engineering sciences
+
+
+environmental engineering
+
+
+systems engineering
+
+ other physical sciences
+
+chemistry (general)
+
+
+environmental chemistry
+
+ earth and geosciences
+
+earth sciences
+
+
+environmental science studies
+
+
+hydrologic sciences
+
+ environmental and marine sciences
+
+environmental sciences
+
+
+hydrology
+
+
+veteran status: 
+
+                        
+none
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ security/privacy statement
+
+                    orau will not discriminate because of race, color, age, religion, sex, sexual orientation, gender identity, national origin, mental or physical disability, protected veteran’s status, or genetic information.
+					this site is not compatible with internet explorer versions 7 and below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+warning
+
+
+
+    	your session will be terminated in  due to inactivity.  please click "continue" to restore your session.
+        
+
+
+log out
+continue
+
+
+
+
+
+×
+security/privacy statement
+
+
+
+security/privacy notice
+
+					by continuing to use this system you indicate your awareness of and consent to the following terms and conditions of use. logout immediately if you do not agree to the conditions stated in this warning.
+				
+
+security notice
+
+					this system is part of a federal information system. this system is monitored for security purposes to ensure it remains available to all users and to protect information in the system. the system employs software programs to monitor network traffic to identify unauthorized activities. by accessing this system, you are expressly consenting to these monitoring activities. unauthorized attempts to defeat or circumvent security features; to use the system for other than intended purposes; to deny service to authorized users; to access, obtain, alter, damage, or destroy information; to upload or change information; to otherwise cause system or information damage; or otherwise to interfere with the system or its operation, is prohibited. evidence of such acts may be dis-closed to law enforcement authorities and result in prosecution under the computer fraud and abuse act of 1986 and the national information infrastructure protection act of 1996, or other applicable laws.
+				
+
+privacy notice
+
+					this system is for authorized use only. use of this system constitutes consent to security monitoring and testing. all activity is logged with your host name and ip address. users (authorized or unauthorized) have no explicit or implicit expectation of privacy. any or all uses of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected, and dis-closed to authorized site and law enforcement personnel, as well as authorized officials of other agencies, both domestic and foreign. by using this system, the user consents to such interception, monitoring, recording, copying, auditing, inspection, and disclosure at the discretion of authorized site or law enforcement personnel. unauthorized or improper use of this system may result in administrative disciplinary action and civil and criminal penalties.
+				
+
+
+close
+
+
+
+
+
+
+×
+about zintellect
+
+
+
+how to use this website
+					welcome to zintellect!  this website provides listings of internships, experiential learning opportunities, academic fellowships and scholarships funded by government and private sector organizations. these programs are administered by orau and the oak ridge institute for science and education (orise). visitors to the site may view available opportunities by selecting the opportunity catalog.
+				
+
+applicants
+					applicants may view opportunities available in zintellect by selecting the opportunity catalog. zintellect has an advanced search feature that allows applicants to view only the opportunities that fit their needs and preferences. applicants may search by keyword, academic level, discipline, organization and program.
+				
+
+					in order to apply for an opportunity, applicants must complete a profile. the profile consists of questions that are common across all programs. once the profile is complete, applicants may apply to specific opportunities available in the system by answering a few questions specific to a particular program. applicants are able to customize their references, resumes, and responses based on each opportunity to which they apply.
+				
+
+                    zintellect offers some opportunities that include orau employment.  for more information about equal employment opportunity, click here.
+                    
+ equal employment opportunity is the law
+                    
+
+
+mentors
+					zintellect requires verification from an orau staff member for mentor-level application access. once a mentor has completed the registration process, an orau staff member will review the information and approve access to the system. this process usually takes place within one business day of mentor registration.
+				
+
+					from this site, mentors can search for and view details for opportunities to which they have been assigned or for opportunities open to anyone within their agency/department, review applications submitted for those opportunities, and recommend candidates.
+				
+
+					if you have questions or need additional information, please contact us via email at zintellect@orau.org.
+				
+
+
+close
+
+
+
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+
+

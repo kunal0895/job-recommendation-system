@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+look beyond the ordinary
+
+careers overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+ui developer
+
+
+location:
+sunnyvale, ca
+
+
+
+description
+
+company overview 
+
+
+at proofpoint, we have a passion for protecting people, data, and brands from today’s advanced threats and compliance risks. we hire the best people in the business to:
+
+build and enhance our proven security platform
+blend innovation and speed in a constantly evolving cloud architecture
+analyze new threats and offer deep insight through data-driven intel
+collaborate with customers to help solve their toughest security challenges
+
+we are singularly devoted to helping our customers protect what matters most. that’s why we’re a leader in next-generation cybersecurity—and why more than half of the fortune 100 trust us as a security partner.
+
+the role 
+
+proofpoint is looking for a ui developer for our next generation graphical user interfaces in the email security products business unit.  our product line includes uis for email administrators as well as applications which can reach millions of end users every day. you will play a key role on a small team developing current and new products in all areas including the development of user interface, web services, application functionality, data management framework and tools. you should thrive in a fast-paced environment. all of your efforts will have a significant impact on the future direction of our products. we prize highly-talented folks with a strong and persistent drive for innovation above all else.
+
+do you love to create beautiful ui and great user experiences?
+are you passionate about data visualization and analytics?
+do you enjoy coding with the latest technologies?
+have you built an html5-based game before?
+do you love building big, complex and scalable (millions of users) ui applications?
+
+if you answered yes to questions above, then we want to talk to you!
+your day-to-day 
+
+bootstrap and develop from scratch ui applications in the cloud
+be part of a team working on the leading email security product suite in the market
+help establish tooling and procedures for next generation front-end stack development
+be the voice behind technological direction and decisions about ui strategy
+
+what you bring to the team
+
+3+ years of experience in developing ui for high performance applications.
+expertise in building high performance web applications
+experience in reactjs, angular js, redux, javascript(es6), and node.js
+passionate about automation and repeatability
+familiarity with npm dependency package management
+familiarity with unix shell script, sql, nosql
+familiarity with agile development
+
+why proofpoint
+
+as a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the proofpoint team. we believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. as we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! we are a multi-national company with locations in 10 countries, with each location contributing to proofpoint’s amazing culture!
+#li-an1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proofpoint is an equal opportunity employer and welcomes applications from all qualified individuals regardless of race, sex, disability, religion/belief, sexual orientation or age.
+proofpoint does not accept unsolicited resumes from external recruiters or employment agencies. in the absence of a signed recruitment services agreement, proofpoint will not consider or agree to payment of any recruiter or agency fee. in the event a recruiter or agency submits a resume or candidate without a previously signed agreement, proofpoint explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+
+
+
+are you a returning applicant?
+
+
+
+
+
+
+
+
+
+
+
+
+previous applicants:
+
+
+email:
+
+
+
+
+
+password:
+
+
+
+
+
+if you do not remember your password click here.
+
+
+
+
+view search results or all job openings
+
+
+new search
+
+
+
+
+
+
+
+

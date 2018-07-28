@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unity careers - senior machine learning graphics engineer @ bellevue, wa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior machine learning graphics engineer
+bellevue, wa
+apply now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senior machine learning graphics engineer
+bellevue, wa, full-time
+
+
+do you enjoy empowering creative talent with cutting-edge graphics tools, workflows, and features? would you like to design and implement state-of-the-art content creation algorithms that can leverage the ever growing power of graphics hardware on current and future platforms? are you willing and able to engage directly with development customers to gather requirements, obtain feedback, and iterate new systems to a polished sheen? do you take pride in your ability to propose coherent solutions to complex problems involving multiple customer groups and tricky technology constraints? would you like to work on daring worlds that bring people together, sitting next to top industry talent, at a company that jealously guards work-life balance?
+imagine a tiny team of developers creating amazing aaa-quality content all by themselves! imagine an artist, freed from the tedium of repetitive tasks, unconstrained by manual processes, driven only by her creativity to fulfill her vision! that is the world we at unity want to create. and we need your help to create it. by leveraging the latest research in deep learning to power graphics technology for content creation, our new machine learning - graphics team wants to empower developers and artists to create high-quality content with ease and intuitiveness without any repetitious drudgery.
+join some of the best minds in machine learning, graphics, and video games in advancing the future of video game development, including material generation, texture creation, environment content authoring, and other game content creation projects. a public list of potential projects lives here: http://bit.ly/2zcmlsg
+if you are a team player who wants to be at the forefront of machine learning, graphics, and the video game industry, we want to talk to you!
+in this role, you will have the opportunity to:
+
+evaluate the viability of new research 
+build prototypes 
+implement algorithms only described in research papers
+have an impact on millions of users
+
+this role is located in bellevue, wa. candidates desiring remote work will not be considered at this time. 
+requirements:
+
+3+ of recent, hands-on experience in the field of video/image processing, real-time computer graphics or computer vision
+exposure to latest deep learning techniques (cnn, rnn, gan, autoencoder, rl, etc.)
+hands on experience with one or more deep learning framework (tensorflow, pytorch, keras, caffe, cntk, mxnet, etc)
+strong communication skills
+strong engineering background
+masters degree in computer science, computer engineering, or equivalent experience
+
+preferred qualifications
+
+expertise in at least one of the following: 
+
+physically-based image rendering
+texture generation
+facial animation and modeling
+high-fidelity video game rendering
+3d modeling
+
+
+experience in game and/or entertainment industry (animation, film, television, video games, etc.)
+experience developing tools and workflows
+experience working with multi-platform systems
+experience in close work with content creators (artists, animators, etc)
+experience developing rendering algorithms on modern console architectures and/or pc dx11+
+experience in academic research or industry research — for example, publishing in top-tier conferences or journals, or industry experience as a software engineer in research.
+mastery of the current gpu pipelines
+mastery of c/c++, c#, python.
+
+who we are
+we are product-driven, curious, and creative. we aggressively reinvest in development to keep unity moving and evolving - from expanding usability and power, to platform reach. with over a billion installs per month, unity touches gamers and non-gamers alike. as well as video games, our software is used in industries as diverse as medicine, visualization and shopping - democratizing game development while solving hard problems and enabling success for a huge range of developers worldwide.
+today, unity has expanded to over 15 international offices and has employees in 23 countries. every person at unity technologies has an inherent passion and driven spirit and it isn’t enough to be able to do the job- we’re looking for people that color outside the lines, are looking to be freed from the process tangle, and can dream big!
+
+headhunters and recruitment agencies may not submit resumes/cvs through this web site or directly to managers. unity does not accept unsolicited headhunter and agency resumes. unity will not pay fees to any third-party agency or company that does not have a signed agreement with unity.
+unity is an equal opportunity employer committed to providing employment opportunities without regard to race, color, sex (including gender identity, sexual orientation, and pregnancy), age, national origin, religion, veteran status, disability, genetic information, or any other protected status in accordance with applicable law.
+#li-sp1
+
+
+
+
+
+
+
+
+
+
+job details
+
+
+
+
+location
+bellevue, wa
+
+
+
+
+department
+engineering
+
+
+
+
+job type
+full-time
+
+
+
+
+apply now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+other positions in engineering
+no other positions available
+
+
+see all positions
+
+
+
+
+
+
+
+
+
+
+
+search unity
+
+
+
+
+
+
+careers
+home
+find position
+
+unity3d.com
+home
+services
+made with unity
+learn
+community
+asset store
+
+
+
+
+
+
+
+
+
+facebook
+twitter
+google+
+linkedin
+youtube
+
+
+
+
+
+
+copyright © 2017 unity technologies
+
+legal
+privacy policy
+cookies
+
+
+
+
+
+
+
+
+
+
+
+unity id
+a unity id allows you to buy and/or subscribe to unity products and services, shop in the asset store and participate in the unity community.
+log in
+create a unity id
+
+
+
+
+
+we use cookies to ensure that we give you the best experience on our website. click here for more information.
+
+
+
+

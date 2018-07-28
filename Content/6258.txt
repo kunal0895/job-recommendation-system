@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+data scientist ssd at kaiser permanente - kaiser permanente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+who we are
+
+the kp difference
+our locations
+mission & history
+innovation
+
+
+
+life & culture
+
+working here
+diversity & inclusion
+disability
+military
+in our community
+
+
+
+career areas
+
+care careers
+business careers
+it careers
+temporary contract
+physicians & dentists
+
+
+
+university
+
+university connection
+early-career opportunities
+internship opportunities
+
+
+
+our hiring process
+
+hiring process overview
+searching jobs & submitting interest 
+pre-hire assessments
+faqs
+
+
+
+
+
+
+my profile
+my favorite jobs
+employee job search
+
+
+
+
+search
+
+
+keyword search
+
+
+
+city, state, or zip
+
+
+
+search radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+information technology
+
+
+
+
+data scientist ssd
+
+submit interest
+add to favoritesremove from favorites
+
+location: san diego, ca
+job number: 628019 date posted: 09/13/2017
+description: the data scientist of systems solutions deployment (ssd) will provide technical direction, including both strategic and tacticalplanning, execution and support of big data strategies for the scpmg medical informatics group.the position entails designing andimplementing infrastructure for complex, large- scale data to enable analytics on big data.essential responsibilities: design and implement infrastructure for complex, large-scale data sets used for modeling, data mining, andvisualization. identify the most appropriate analytical technique(s) to solve business problems, considering the entireinitiative ecosystem (data availability, size, velocity and volumes; predictive vs. explanatory requirements;deployment and visualization requirements). deliver insights and values from heterogeneous data to investigate complex problems in the health caredomain for multiple use cases. use machine learning, statistical and programming skills to enable analytics on big data. utilize big data in health care domain to drive informed decision-making and presenting findings to bothtechnical and non-technical audiences. provide technical direction and mentor junior members of the team in big data space. embrace a fast paced, collaborative environment dedicated to building atop cutting edge technology.
+
+basic qualifications: experience minimum five (5) years of experience in architecting and building scalable distributed systems, working in a fast-pacedmultidisciplinary environment, advocating innovative uses for data, including methodologies, techniques, and tools, working withsoftware development life cycle development (sdlc) and leading from conceptualization to production stage large-scaleapplications.education master's degree (ms) in computer science (or related fields e.g., statistics); or ph.d. with equivalent experience.license, certification, registrationn/aadditional requirements: prior experience with using data mining methodologies such as regression, cart (classification and regression trees), neuralnetworks, association rules, cluster analysis, and text mining. extensive experience with big data technologies like apache pig, spark, hbase, kafka, apache hadoop (core). extensive experience with machine learning tools: scikit-learn, r, apache spark mllib, apache mahout etc. hands-on experience administering (setting up from ground up and managing hadoop ecosystem on on-premise clusters) hadoop ecosystem, specifically cloudera hadoop distribution is highly desired. however, equivalent of the cloudera experience can be considered. extensive experience with enterprise-grade cloud computing platforms such as aws and azure. strong linux/unix background and advanced scripting knowledge e.g. python and shell scripting. strong programming background: java, scala good understanding of big data concepts and tools, minimum 5 years of experience in practicing big data. well organized and highly productive with strong communication skills (collaborative, verbal, written, and presentation)preferred educationdoctorate degree in computer science.
+primary location: california,san diego,el camino real administration
+scheduled weekly hours: 40
+shift: day
+workdays: mon, tue, wed, thu, fri
+working hours start: 8:00 am
+working hours end: 4:00 pm
+job schedule: full-time
+job type: standard
+employee status: regular
+employee group/union affiliation: salaried, non-union, exempt
+job level: individual contributor
+job category: information technology
+department: system solution and deployment - med informatics
+travel: yes, 10 % of the time
+kaiser permanente is an equal opportunity employer committed to a diverse and inclusive workforce. applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), age, sexual orientation, national origin, marital status, parental status, ancestry, disability, gender identity, veteran status, genetic information, other distinguishing characteristics of diversity and inclusion, or any other protected status.external hires must pass a background check/drug screen. qualified applicants with arrest and/or conviction records will be considered for employment in a manner consistent with federal and state laws, as well as applicable local ordinances, including but not limited to the san francisco and los angeles fair chance ordinances.
+click here for additional requirements >
+submit interest
+
+
+
+
+
+share this job
+
+facebook
+twitter
+linkedin
+email
+
+
+
+
+
+check out this location > 
+
+
+learn about our hiring process >
+
+
+
+
+
+
+see what people are saying about working at kp
+open
+
+
+
+
+
+
+sep 8, 2017
+"love it!"
+
+
+current employee - consultant in sacramento, ca
+
+
+recommends
+positive outlook
+approves of ceo
+
+i have been working at kaiser permanente full-time (more than a year)
+pros
+mission driven, smart people, and dynamic teams!full review
+more kaiser permanente ratings & reviews (3,975)
+
+
+
+
+
+
+our events
+
+come introduce yourself to a member of the kaiser permanente team at an upcoming career or professional event. we look forward to meeting you in person.
+view events >
+
+
+
+
+recently viewed jobs
+you do not have any recently viewed jobs.
+
+
+
+
+join kaiser permanente's talent network
+please fill out the fields below and click "join now" to receive information about opportunities that relate to your selections.
+enter first nameenter last nameemail addressinterested insearch for a category and select one from the list of suggestions. search for a location and select one from the list of suggestions. finally, click “add” to create your job alert.select job category*select job location*addinformation technology, san diego, california, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+interested in internships or early career opportunities? click here to join our university talent network. are you a veteran? click here to join our military talent network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us
+
+visit us on twitter
+visit us on linkedin
+visit us on glassdoor
+visit us on facebook
+visit us on youtube
+
+
+
+
+
+accommodation info
+terms & conditions
+privacy practices
+eeo statement
+technical information
+contact web manager
+sitemap
+
+©2017 kaiser permanente
+
+back to top
+
+
+
+
+
+
+
+
+
+
+
+
+

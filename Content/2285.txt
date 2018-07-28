@@ -1,0 +1,285 @@
+
+
+
+
+
+
+computer vision and machine learning engineer - atlanta, ga - airbus aerial jobs
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+jobs
+
+
+
+
+computer vision and machine learning engineer - atlanta, ga
+
+toggle navigation
+
+
+
+
+
+
+
+
+computer vision and machine learning engineer 
+
+jobslogin 
+
+
+
+
+
+
+
+
+
+
+
+ atlanta, ga, usa full time 
+
+
+
+email me similar jobs email me this job
+
+
+
+ 
+airbus is a global leader in aeronautics, space and related services.  in 2015, airbus generated revenues of 64.5 billion and employed a workforce of around 136,600. 
+airbus is a shareholder of the missile systems provider mbda, a major partner in the eurofighter consortium and owns a 50% stake in atr, the turboprop aircraft maker, and airbus safran launchers, the ariane launcher manufacturer. 
+airbus is a leading global manufacturer of commercial aircraft comprising highly successful families of aircraft ranging from 100 to over 600 seats.  in defense and space, airbus is a european leader providing tanker, combat, transport and mission aircraft as well as space systems, equipment and services.  in helicopters, airbus is the world's no. 1 civil and parapublic helicopter manufacturer offering the world's widest range of civil and military helicopters.
+what is aerial?
+aerial brings together drone technology, high-altitude unmanned aircraft, satellite imaging infrastructure and analytical software into one common service offering for the commercial market. our products give customers the ability to manage assets, support their customers and deliver new services in a new cost effective way leveraging aerial data. aerial is a new startup division of airbus, the global aerospace leader. we are building a state of the art and new-to-the-world capability, which will bring value to customers around the world. with applications ranging from disaster response, utility line inspections, insurance risk modeling to agriculture, the global aerial intelligence services market is expected to rapidly grow to $12.6 billion by 2025 and we are leading the charge.
+why work for aerial?
+as an autonomous unit within airbus, we're also a part of one of the world's premier suppliers of aircraft, satellites, and defense hardware. we offer the best of both worlds: the speed, environment, and culture of a startup with the support and financial backing of a global aerospace pioneer. we have the freedom to move quickly, try new things, learn fast, and get products into market efficiently. we have a great team, casual dress code, plenty of snacks, drinks and coffee. lots of employee engagement activities including happy hours, luncheons, other fun team building activities and incredible contemporary offices at ponce city market in the heart of atlanta. aerial also offers competitive compensation with the healthcare and pto benefits of larger companies. in addition we offer 401k and pension plans making it easier to save for the long term.
+it is the perfect combination of building innovative technology and products in an agile environment, with excellent support behind you.
+ 
+position summary: 
+this position will work with airbus aerial software engineering and other innovation teams within airbus to design computer vision algorithms for object detection, change detection using deep learning, and cloud processing for aerial imagery.  further, the candidate must be able to package and communicate highly technical concepts to both technical and non-technical audiences. the candidate must also be capable of communicating new business ideas and concepts to a variety of stakeholders through whitepapers, presentations, and proposal responses.
+ primary responsibilities:
+
+design and implement highly scalable computer vision algorithms using deep neural networks to extract rich information from drone, manned aircraft, and satellite aerial imagery. 
+rapidly iterate algorithms until accuracy requirements are met at scale.
+significant, demonstrable algorithm prototyping experience in a higher-level programming language such as c/c++, python, go or java. 
+significant, demonstrable experience with one or more scientific analysis and prototyping environments such as scipy/numpy stack, r, or matlab.
+support build deployment, management and monitoring systems in production on the cloud infrastructure related to the deep learning apis.
+
+additional responsibilities:
+
+other duties as assigned.
+
+ qualified experience / skills / training: 
+ education:
+
+m.s., ph.d., or commensurate experience in computer science or a related field (mathematics, statistics, physics or electrical and/or computer engineering) with a strong focus on deep learning. 
+
+ experience:
+
+minimum of 2-3 year's experience in image processing, computer vision and/or machine learning; industry experience is a plus.
+proficient in architecting, training and analyzing cnns for object detection, change detection and image segmentation
+proficient with automated analysis of satellite or aerial images a plus.
+proficient in image processing, image analysis, and/or computer vision.
+fluent in python, c++, matlab, java, go or any proficient ai language of choice.
+1+ years of machine learning using deep neural networks and associated libraries (keras + tensorflow, and other deep learning frameworks.
+experience with cloud computing (google cloud platform (gcp), azure or similar).
+experience working in previous startups is preferred.
+solid software engineering skills
+
+communication skills (spoken, written, influencing, proficiency in other languages):
+
+strong command of english, written and verbal.
+knowledge of other european languages (german, french, spanish, etc.) would be advantageous.
+
+travel required: 
+
+20% domestic and international
+
+citizenship:
+
+us citizenship required
+
+nature of contacts:
+ involved communication on a regular basis with internal and external parties.
+ 
+as a leader in our field, airbus in america provides relocation assistance for qualified positions and a comprehensive compensation and benefits package. 
+airbus in america provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetics, pregnancy, marital status, veteran status or other legally protected status.  in addition to federal law requirements, airbus in america complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.  this policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, demotion, termination, layoff, recall, transfer, leaves of absence, compensation, benefits and training.  
+airbus in america expressly prohibits any form of workplace harassment based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetics, pregnancy, marital status, veteran status or other legally protected status.  improper interference with the ability of airbus' employees to perform their job duties may result in discipline up to and including discharge. 
+as a matter of policy, airbus does not sponsor visas for us positions unless specified.  only applicants with current work authorization will be considered.  
+airbus does not offer tenured or guaranteed employment.  either the company or the employee can terminate the employment relationship at any time, with or without cause, with or without notice.  
+ 
+ 
+
+airbus aerial
+https://airbusaerial.applicantpro.com
+
+
+
+
+
+
+apply now
+
+
+
+you have javascript disabled on your browser. you will not be able to apply for this position without enabling javascript. if you need assistance with enabling javascript, please click here for assistance.
+
+
+
+
+
+ 
+
+* fields are required
+
+
+
+
+what is your full name?
+
+
+
+
+first name
+
+
+
+last name
+
+
+
+
+
+how can we contact you?
+
+
+email
+
+
+
+
+
+phone number
+
+
+
+number type
+
+home
+cell
+work
+
+
+
+
+
+
+what is your preferred method of communication?
+
+
+email
+text message
+
+
+
+
+
+
+apply for this position
+apply for this position
+by clicking the button above, i agree to applicantpro's applicant information use policy. 
+
+
+
+
+
+
+sign up for job alerts!
+
+
+
+
+
+
+
+
+share this page
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+hiring software maintained by applicantpro - © 2017
+
+
+
+refresh
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+go
+common questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

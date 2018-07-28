@@ -1,0 +1,126 @@
+
+
+
+
+wayfair careers - data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    wayfair careers                                            
+
+
+
+
+
+
+
+                data engineer
+    
+    
+
+                            analytics - business intelligence/data science            
+                    boston,
+                            massachusetts
+                
+                        
+
+
+        apply
+    
+
+
+
+ideal candidate:  a technical-minded analyst with a quantitative background who has a strong desire to help enable business decisions with data. you appreciate the power of a data-driven environment, predictive analytics, and the challenges of working with large datasets!introduction to the team:  business intelligence (analytics) team is an exciting blend of business, big data, and technology. at wayfair, the business intelligence team empowers people in every part of the company to make better decisions with data. working on the business intelligence team is a premier opportunity to further develop your career in business and big data analytics.a platform developer works to improve the core datasets and processing architecture of the wayfair bi platform, partnering with every other team in business intelligence – such as marketing, operations, or web analytics - to help them achieve their goals. whether building complex data pipelines in spark, optimizing olap cubes, or developing internal analytic tools you will be working with cutting edge technology and multi-terabyte datasets. core skills include python, sql, powershell, git and shell scripting.at their core, business intelligence platform developers at wayfair are strong in technical abilities with the business acumen to understand where they can deliver the greatest value. they think critically to tackle complex challenges, thrive in a fast-paced environment and are seeking a high-growth opportunity where they will have an immediate impact on day one. responsibilities: consulting with bi stakeholders to guide the development of analytics infrastructuredesigning and building a modern data infrastructure in sql, python, and other technologies to process terabytes of dataworking with several large and complex sql, hadoop, and vertica databasesbuilding distributed etl systems across a range of platforms and technologiesworking to optimize and scale reporting technologies such as tableau and olap cubesqualifications:ba/bs with strong academic record, ideally in economics, a quantitative social science, mathematics, statistics, computer science, physics etc.0-3 years of experience in a quantitative roleexperience with sql and either python or rexcellent interpersonal and team building skillspositive, people-oriented, and energetic attitudeanalytical, creative, and innovative approach to solving problemsabout wayfair:wayfair inc. offers an extensive selection of home furnishings and décor across all styles and price points. the wayfair family of brands includes: wayfair.com, an online destination for all things homejoss & main, where beautiful furniture and finds meet irresistible savingsallmodern, a go-to online source for modern designdwellstudio, a design house for fashion-forward modern furnishingsbirch lane, a collection of classic furnishings and timeless home décorwayfair generated $2.25 billion in annual sales in 2015 and $786.9 million in net revenues for second quarter 2016. wayfair employed 5,398 people as of june 30, 2016 and is headquartered in boston, massachusetts with operations throughout north america and europe. the company has previously been named one of america’s most promising companies by forbes magazine and selected by the boston business journal and glassdoor.com as a top company to work for and top company for well balanced life.
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+

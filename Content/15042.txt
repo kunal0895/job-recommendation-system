@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+career center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new search
+                       
+                    
+
+
+login page
+                       
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+position description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+software engineer
+
+
+
+
+requisition number
+
+
+1452
+
+
+
+
+targeted start date
+
+
+12/11/17
+
+
+
+
+location
+
+
+denver, co
+
+
+
+
+apply now
+ software engineer
+ 
+pureintegration is looking for a software engineer to assist with design, engineering, integration, test planning, and test execution of multiple backend systems that are part of the end-to-end dynamic ad insertion (dai) system. the dai system manages and inserts advertising content into ip and legacy video content streams. the platform has high visibility as it is integral to all video delivery platforms.
+the ideal candidate would have extensive experience working with video engineering teams to validate system releases. this end-to-end test role requires a strong understanding of web services and message-based architectures.
+ 
+responsibilities:
+
+work with engineering team to help design, integrate, develop, and test end-to-end messaging based systems.
+troubleshoot issues with the current system and new releases of the system.
+experience developing web services and message based systems. 
+must be able to track web service transactions across several levels of services to validate test scenarios.
+integration testing and production troubleshooting of the dynamic ad insertion platform.
+integration testing of backend message-based service architecture.
+identify and log defects in jira for tracking and resolution.
+work with engineering team to reproduce and troubleshoot production issues.
+communicate with engineering and operations teams to resolve issues.
+establish test harness/framework to improve testing efficiency through automation.
+have an understanding of engineering-minded approaches to integration testing.
+
+location: denver, co
+requirements:
+
+bachelor’s degree in computer science or related field.
+4+ years of system integration experience.
+4+ years of python, java, and/or c++ programming experience.
+2+ software development experience.
+2+ years of scripting in xml/json.
+2+ systems development experience.
+2+ years of webservices experience (rest).
+2+ years of experience with message-based platform testing and debugging.
+must have experience with linux environments.
+
+ 
+preferred skills:
+
+video engineering experience - integration of video technologies.
+dynamic ad insertion test experience.
+cable and video industry experience; specifically, with dynamic ad insertion.
+
+
+are you self-motivated, collaborative, and client-focused? are you looking for a challenging and rewarding career? then pureintegration would love to hear from you! your career journey starts here!
+pureintegration, a systems integration company headquartered in the dc area, serves clients in the fastest growing industries – communications, media, and entertainment. our industry-focused offerings and collaborative client approach has resulted in a 97% client satisfaction rating. as a leading service organization, we recognize our most valuable assets are our people, both as individuals and how they come together as a whole. as such, we encourage our team members to become fearless in exploring ideas and opportunities to act on them.
+ 
+pureintegration is an equal opportunity employer (eoe), qualified applicants are considered for employment without regard to age, race, color, religion, sex, national origin, sexual orientation, disability, or veteran status.
+ 
+
+back
+email
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

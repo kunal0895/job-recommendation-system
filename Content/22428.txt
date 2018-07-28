@@ -1,0 +1,248 @@
+
+
+
+
+job application for prediction and behavior modeling research scientist at nutonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+prediction and behavior modeling research scientist
+
+        at nutonomy
+      
+(view all jobs)
+
+        boston, ma
+      
+
+
+nutonomy aims to be the first company in the world to launch an autonomous taxi system, and we are building up an awesome team to make this goal a reality. we are developing the first-of-its-kind complete solution for providing point-to-point mobility via large fleets of autonomous vehicles. this includes software for autonomous vehicles, smartphone-based ride hailing, fleet management, and teleoperation. the company's software has been tested extensively on public roads in the u.s. and singapore. we offer a unique opportunity to work closely with experts from a wide array of backgrounds, to create ground-breaking technology with potential for huge impact. as a member of a fast-growing start-up, you will be able to make a large contribution to the final product. for more information about nutonomy, visit: www.nutonomy.com
+ 
+we are looking to add a highly talented intent prediction and behavior modeling research scientist to help refine how nutonomy’s autonomous vehicle (road-going car!) interacts with the world. as a research scientist, you will build object behavior models that improve the fidelity of nutonomy’s simulated and real interactions with other cars, pedestrians, and more. you will work closely with engineers who build our simulations and vehicle planning software, as well as teams operating our fleet of autonomous vehicles in the real world. your applied mathematics, data analytics, and machine learning experience will inform your pragmatic approach to making a more intelligent autonomous vehicle. does this sound like you?
+ 
+more specific things you’ll work on:
+
+dive into data to understand behaviors of external world actors such as cars, bikes, and pedestrians; leverage machine learning methods where appropriate
+develop movement and interaction models that improve the richness and authenticity of simulated environments and inform the safe and efficient operation of autonomous cars in the real world
+support the use of formal methods to define, implement, and validate production code that controls how our autonomous vehicle interacts with objects and actors in the world
+
+ 
+education and experience we want from you:
+
+bs in computer science, applied mathematics, or related field
+m.s. or ph.d in computer science or similar field, ideally focused on intent modeling for behavior prediction or 3+ years practical experience in data science, modeling, statistics, and analysis of large data sets
+
+ 
+skills you’ll likely already have:
+
+fluency in in a modern programming language such as c++
+experience working with complex multi-object simulations
+comfort with scripting and automation languages such as python
+
+ 
+bonus points (but not required):
+
+in-depth understanding of common machine learning and deep learning algorithms (e.g., for classification, regression and clustering)
+experience in a regulated, safety critical environment
+
+
+professional work experience supporting development of autonomous vehicle prototypes or similar autonomous robotics applications
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+are you legally authorized to work in the united states?
+    
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

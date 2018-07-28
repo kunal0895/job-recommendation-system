@@ -1,0 +1,147 @@
+
+
+
+
+equifax - job - data visualization / delivery engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .search all jobs at equifax search
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+data visualization / delivery engineer
+
+
+				apply
+			
+
+
+
+job number:
+								11504
+						
+
+position title:
+
+
+external description:
+data and analytics is a high-energy, fast-growing organization within equifax charged with building and supporting best-in-industry data assets and analytical solutions. we deliver solutions and insights to enable success for our customers, drive growth for our business, and create value for our shareholders. at workforce solutions, data driven decision making is at the heart of remaining nimble while still choosing the best path forward. the data visualization / delivery engineer will help to conceptualize and create solutions that provide insights into our unique data assets for both internal and external stakeholders. this individual will develop a deep understanding of the analytical need and leverage knowledge of all equifax data assets, big data technologies, keying and linking concepts to analyze equifax workforce solutions data to create insights. they will interact with all levels of our business professionals including data stewards, analysts, statisticians, it, and sales. responsibilities include gathering & refining requirements, interfacing with relevant business partners across the enterprise, and developing/delivering data marts and insights modules. the ability to work in a matrix environment to deliver complete solutions is required.this individual will need to possess a breadth of technical skills across data management, data visualization, and web development domains . technical responsibilities include the identification, evaluation, linking/matching, and transformation of disparate data assets into insights ( data wrangling ) and the visualization & communication of these insights across various distribution methods. platforms & technologies include python, sql, impala, tableau, spotfire, and javascript (d3.js). this individual must have a solid educational foundation and ability to balance delivery of near-term results that are aligned with execution of the long-term vision and roadmap.  they must be detail-oriented and a fast learner in order to work with all equifax's major data assets and a rapidly changing technology environment.high-level responsibilities: collaborate with data & analytics, product development and technology leads to ensure the seamless transition of concepts and prototypes into production solutions. define use cases for analytical solutionscreate data visualization utilizing spotfire  develop overall customer experience with javascript work with off shore resources to develop aspects of the solutionliaise with technology to drive delivery of data assets / insights in production products participate in the development of strategies, standards and best practices in the areas of data visualization, data access and data integration within equifax's new big data analytical platforms.stay current with rapidly developing big data technologies landscape and share knowledge internally and with customers.requirements:minimum of a bachelor's degree in computer science, statistics, economics, or equivalent quantitative field with heavy emphasis on programming required 5+ years of work experience in building, loading, transforming and analyzing data within and across database platforms is required .  5+ years of work experience with data visualization tools and knowledge of data visualization concepts.  proficiency in one or more of the following tools: tableau, spotfire, tibco .proficiency in one or more of the following technologies: sql, python experience in web development utilizing javascript/html/css .  proficiency in one or more of the following technologies: html5, css3, d3.js and other javascript visualization libraries preferred skills: big data experience with hadoop technologies such as impala, spark and mapreduce is a plusknowledge of equifax workforce solutions' differentiated data assets and technology delivery platforms or equivalent industry experience is a plusability to work within the confines of data governance measures.primary location:usa-st. louis-lacklandfunction:function - data and analyticsschedule:full time
+						
+					
+						
+city:
+								st. louis
+						
+
+location_formattedlocationlong:
+								st. louis, missouri  us
+						
+
+state:
+								missouri
+						
+
+community / marketing title:
+								data visualization / delivery engineer
+						
+
+company profile:
+
+
+requisition number:
+								j00046436
+						
+
+eeo employer verbiage:
+								<p>equifax is an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p>
+						
+
+
+
+
+
+				apply
+			
+
+
+not ready to apply?
+save for later
+
+
+share this job
+
+
+
+
+
+other jobs at equifax
+
+
+senior business analyst - data governance & stewardship (fraud data)
+
+atlanta, ga
+
+senior data wrangler and solutions architect gcs dna indirect team
+
+alpharetta, ga
+
+credit risk associate consultant
+
+london, uk-gl
+
+analytics lead
+
+sydney, au-nsw
+
+strategy consultant
+
+london, uk-gl
+
+
+
+search
+
+
+
+
+
+
+
+® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.privacy policy® 2017 equifax, inc. all rights reservedequifax and the equifax marks used herein are trademarks of equifax inc. other product and company names mentioned herein are the property of their respective owners.
+privacy policy
+
+
+

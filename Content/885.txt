@@ -1,0 +1,699 @@
+
+
+
+
+
+data scientist - business process modeling, optimization, and automation at conduent
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      what we do what we dowhat we dowhat we dowhat we doindustriesautomotive, aerospace and defensebanking and capital marketscommunications and mediahealthcarehigh techindustrials and energyinsurancepublic sectorpublic transportation and mobilityretail and consumertravel and hospitalityservicescompliance servicescustomer experiencedigital paymentsdigital processingfinance and accountinghealthcare solutionshuman resource serviceslearning serviceslegal solutionsprocurement servicespublic sectorworkers compensationwhy conduentinsights insightsinsightsinsightsinsightsservice insightscompliance servicescustomer experiencedigital paymentsdigital processingfinance and accountinghealthcare solutionshuman resource serviceslearning serviceslegal solutionsprocurement servicespublic sectorworkers compensationindustry insightsautomotive, aerospace and defensebanking and capital marketscommunications and mediahealthcarehigh techindustrials and energyinsurancepublic sectorpublic transportation and mobilityretail and consumertravel and hospitalityblogsconduent blogconduent ediscovery and compliancehr insightsinsights for government agenciesinnovation innovationinnovationinnovationinnovationconduent labs u.s.conduent labs indiaabout aboutaboutaboutleadershipexecutive councilboard of directorscorporate leadershipcorporatecorporate governanceenvironment, health and safetysupplier relationsresearch and innovationinnovationconduent labs u.s.conduent labs indianewsinvestorscareerscontact
+skip navigation
+
+
+
+
+
+
+search
+
+
+keyword
+
+
+
+category
+select
+accounting
+administrative / clerical support
+administrative support
+attorneys
+audit & compliance
+benefits
+buck consulting-actuarial
+buck consulting-nonactuarial
+business & market segment development
+business operations
+business performance & improvement
+business process improvement
+client services
+client solution development
+communications (int., ext., pr)
+compensation
+credit & collections
+customer care
+customer care - inactive
+customer support & administration
+design & development engineering
+direct sales
+electrical & electronics engineering
+external project management
+facilities & maintenance
+financial planning & analysis
+general management
+government relations
+group or unit gm
+human resources
+im architecture
+im business analysis
+im engineering
+im security
+im service delivery
+im support
+information management
+inside sales (telesales)
+investor relations
+mail room & print services
+marketing
+materials handling production support
+organization learning & development
+payroll
+pricing, bid or contract management
+product & systems design engineering
+professional services
+project management
+purchase ordering
+purchasing
+quality assurance
+r&d, computer science & engineering
+real estate services
+sales management
+sales support
+security
+service delivery client network services
+service delivery healthcare
+service delivery management
+service delivery operations
+service delivery payment services
+service delivery site coordination
+service delivery transaction processing
+software engineering
+staffing & resourcing
+strategic & large account management
+technical helpdesk
+training
+treasury
+workforce administration
+
+
+
+country
+select
+brazil
+canada
+colombia
+czechia
+dominican republic
+france
+germany
+guatemala
+india
+jamaica
+malaysia
+mexico
+netherlands
+philippines
+poland
+puerto rico
+romania
+turkey
+united kingdom
+united states
+
+
+
+state
+select
+alaska
+arizona
+auvergne-rhône-alpes
+bogota d.c.
+calabarzon
+california
+central visayas
+chihuahua
+colorado
+connecticut
+delaware
+departamento de guatemala
+england
+florida
+georgia
+guaynabo municipio
+hamburg
+hauts-de-france
+hawaii
+hesse
+idaho
+île-de-france
+illinois
+indiana
+iowa
+istanbul
+judeţul iaşi
+kansas
+karnataka
+kentucky
+kerala
+kingston
+kuala lumpur
+limburg
+lodz
+louisiana
+lower saxony
+maryland
+massachusetts
+mecklenburg-vorpommern
+michigan
+minnesota
+mississippi
+missouri
+montana
+moravskoslezský kraj
+nacional
+national capital region
+new hampshire
+new jersey
+new mexico
+new york
+north brabant
+north carolina
+north dakota
+north holland
+north rhine-westphalia
+nuevo león
+ohio
+oklahoma
+ontario
+oregon
+pennsylvania
+provincia de santiago
+provincie flevoland
+provincie overijssel
+provincie utrecht
+rhode island
+saint catherine
+saint james
+são paulo
+saxony-anhalt
+schleswig-holstein
+scotland
+selangor
+sonora
+south carolina
+south holland
+tamil nadu
+tennessee
+texas
+ústecký kraj
+utah
+uttar pradesh
+virginia
+washington
+washington, d.c.
+wisconsin
+wyoming
+
+
+
+city
+select
+albany
+albuquerque
+allen park
+almere stad
+amarillo
+amersfoort
+anchorage
+anderson
+arkansas city
+arlington
+atlanta
+austin
+bakersfield
+baltimore
+basking ridge
+baton rouge
+bengaluru
+berkeley
+berwyn
+bethesda
+bloomington
+boca raton
+bogotá
+boise
+boston
+bristol
+buffalo
+camarillo
+carol stream
+carrollton
+cary
+cebu city
+charlotte
+chattanooga
+chennai
+cherry hill
+chesapeake
+cheyenne
+chicago
+ciudad juárez
+cologne
+colorado springs
+columbia
+columbia
+columbus
+concord
+crown point
+dallas
+dearborn
+detroit
+east hartford
+easton
+edinburgh
+el paso
+elkridge
+endicott
+enschede
+erlanger
+everett
+falls church
+fargo
+federal way
+fishers
+florence
+florham park
+fort myers
+fort wayne
+fresno
+frostburg
+gardena
+germantown
+glen burnie
+göttingen
+greenwood village
+guatemala city
+guilherand-granges
+halle
+hamburg
+hamilton
+harrisburg
+helena
+henderson
+hermosillo
+hilversum
+honolulu
+houston
+iași
+indianapolis
+irvine
+istanbul
+jackson
+jacksonville
+jefferson city
+kassel
+kiel
+kingston
+knoxville
+kochi
+kuala lumpur
+lacey
+lakeland
+lansing
+lexington
+łódź
+london
+los angeles
+lübeck
+lynnfield
+maastricht
+madison
+magdeburg
+manchester
+manila
+maumee
+memphis
+miami
+middletown
+milwaukee
+minneapolis
+mississauga
+montego bay
+monterrey
+monticello
+naperville
+nashville
+new castle
+new orleans
+new york
+newark
+noida
+norcross
+north charleston
+north haven
+north wales
+ocoee
+orlando
+ostrava
+overland park
+palmdale
+paranaque city
+paris
+pasadena
+philadelphia
+phoenix
+pittsburgh
+plano
+pomona
+poole
+portland
+portland
+portmore
+providence
+quincy
+raleigh
+rancho cordova
+redmond
+richmond
+richmond
+ridgeland
+rochester
+rosemont
+rotterdam
+roubaix
+sacramento
+san antonio
+san francisco
+san jose
+sandy
+santo domingo
+são paulo
+schwerin
+scott air force base
+seattle
+secaucus
+somerset
+st louis
+stockbridge
+stroudsburg
+subang jaya
+tallahassee
+tarrytown
+tempe
+terre haute
+tigard
+tilburg
+toledo
+toronto
+troy
+tucson
+urbandale
+ústí nad labem
+valence
+waite park
+warren
+washington
+webster
+west lafayette
+west sacramento
+west windsor
+wismar
+yukon
+zwolle
+
+
+
+search
+reset
+
+
+
+
+
+
+
+
+
+
+
+data scientist - business process modeling, optimization, and automation - raleigh, north carolina
+
+
+apply
+
+
+
+
+
+overview
+success profile
+rewards
+responsibilities
+location
+
+
+
+
+overview
+
+as a member of the corporate team, you’ll focus on enhancing the relationship with our clients as we provide outstanding business solution services. within departments like accounting & finance, human resources, and engineering, conduent is actively staffing all teams with roles like recovery analyst, client services specialist, and senior management consultant. at conduent, we give our employees the opportunity to further develop their career skills with the intention of growing them into leaders within the organization.
+
+full time
+experienced
+professional development opportunities
+
+
+back to job navigation (overview)
+
+
+success profile
+what will make you successful at conduent? check out the traits we’re looking for and see if you have the right mix.
+
+
+adaptable  9
+detail-oriented 9
+multi-tasker 8
+strategic 10
+expressive presenter 6
+conceptual 4
+
+traits are on a scale of 1 to 10
+addtional traits
+
+insightful
+organized
+consistent
+efficient
+focused
+logical
+responsible
+versatile
+
+
+back to job navigation (success)
+
+
+
+rewards
+
+
+
+healthcare
+comprehensive coverage with flexible options, including fsa and hsa.
+
+
+
+balance
+maintaining a work/life balance is the key to success.
+
+
+
+collaboration
+department learning opportunities and company-wide digital knowledge share.
+
+
+
+compensation
+competitive salaries.
+
+
+
+family support
+additional resources to support employees with families.
+
+
+
+professional development
+conduent offers programs to help advance the careers of our employees.
+
+
+back to job navigation (rewards)
+
+
+
+responsibilities
+
+requisition id: 17023803primary location:united states-north carolina-raleighcategory:r&d, computer science & engineeringdescriptionconduent is the world's largest provider of diversified business process services with leading capabilities in transaction processing, automation, analytics and constituent experience. we work with both government and commercial customers in assisting them to deliver quality services to the people they serve.we manage interactions with patients and the insured for a significant portion of the u.s. healthcare industry. we are the customer interface for large segments of the technology industry and the operational and processing partner of choice for public transportation systems around the world.  whether it's digital payments, claims processing, benefit administration, automated tolling, customer care or distributed learning - conduent manages and modernizes these interactions to create value for both our clients and their constituents. learn more at www.conduent.com.position description: data scientist - business process modeling, optimization, and automationwe’re seeking experienced researchers interested in multidisciplinary business process modeling and optimization work. this area of research develops methods, algorithms and tools to support the design, orchestration, management and analysis of business processes and service operations. we work on real world processes and take pride in developing tools and technologies to drive data-driven process improvements. this includes redesigning processes and the infrastructure that supports the execution of these processes. individuals in this area will work in a team environment and be responsible for creating new state of the art business process modeling and optimization services and solutions for transportation, healthcare, financial and other industrial applications. we work closely with our engineering and operations departments to understand the current systems, develop and prototype technologies, and help deliver real world end-to-end solutions. our team consists of researchers and engineers with expertise in disciplines of computer science, operations research, ethnography, analytics, system modeling and simulation. skill sets requirement for this opening include operations research, management science and analytics applied to modeling and optimizing business processes.primary responsibilities include:research and analysis of bpm systems and process modeling for system behavior, modeling prediction, diagnostics and optimization. the individuals filling this position play a key role in the conceptualization, analysis, design, and optimization of business processes through analysis, simulations and pilot studies.communicating with research and business teams in order to develop partnerships through cross-functional collaboration. in addition to internal collaborations, the researchers would also collaborate with academic and research institutions across the country with projects at ms and phd level.journal and conference publications are also expected.qualifications:phd or post-doc in the fields of operations research, industrial engineering, computational and mathematical sciences with focus on modeling and optimization of business processes, workflow management and automationcandidates with bs/ms degree with equivalent work experience may also applyexperience working with clients to understand their problems, formulate project deliverables, and execute in partnershipdesired interdisciplinary skills also include big data analytics, modeling and simulation, systems design and experience with real world examplesstrong analytical, written, and verbal communication skillsexperience and knowledge in services domains such as business process outsourcing systems, transportation systems, healthcare systems and financial services is valuedindustry experience will be a plusconduent is an equal opportunity employer and considers applicants for all positions without regard to race, color, creed, religion, ancestry, national origin, age, gender identity, gender expression, sex/gender, marital status, sexual orientation, physical or mental disability, medical condition, use of a guide dog or service animal, military/veteran status, citizenship status, basis of genetic information, or any other group protected by law. people with disabilities who need a reasonable accommodation to apply for or compete for employment with conduent may request such accommodation(s) by clicking on the following link, completing the accommodation request form, and submitting the request by using the "submit" button at the bottom of the form. for those using google chrome or mozilla firefox please download the form first: click here to access or download the form.travel:nojob type:graduate joborganization:conduent corporate
+
+                
+apply
+
+
+
+
+
+
+share
+
+facebook
+linkedin
+twitter
+email
+
+
+
+conduent employees - enter your email to refer a friend
+
+want to share this job with a friend? please enter your email address below, and then use the icons to let people know about this great opportunity!
+
+
+email
+
+
+submit
+
+
+
+
+
+
+
+work in raleigh
+view map
+
+back to job navigation (location)
+
+
+
+
+
+
+the conduent difference
+we’re the world’s largest business process services company — and we’re modernizing the constituent experience.
+learn more
+
+
+
+
+
+industries
+we improve moments in millions of lives in a variety of industry sectors.
+learn more
+
+
+
+
+
+innovations
+we celebrate new ideas and turn them into unique customer value.
+learn more
+
+
+
+
+
+related jobs
+
+
+customer care associate i
+manila, national capital region philippines
+
+
+healthcare transaction processor iii - alququerque, nm
+albuquerque, new mexico united states
+
+
+benefits, associate ii
+cary, north carolina united states
+
+
+
+
+job matching
+let us search jobs for you based on the skills and experience listed in your linkedin profile.
+
+
+
+
+
+
+
+sign up for job alerts
+join our talent network and get conduent news and job alerts delivered to your inbox.
+
+
+emailinterested insearch for a category, location, or category/location pair, select a term from the suggestions, and click "add."categorylocationaddr&d, computer science & engineering, raleigh, north carolina, united statesremoveremove
+
+confirm email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about conduent
+sitemap
+
+
+
+
+
+
+follow
+
+facebook
+twitter
+linkedin
+youtube
+instagram
+xing
+
+
+
+
+
+ newsinvestorscareersprivacylegalprivacy choices© 2017 conduent business services, llc. all rights reserved. conduent and conduent agile star are trademarks of conduent business services, llc in the united states and/or other countries.
+
+
+
+
+
+
+
+
+

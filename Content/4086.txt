@@ -1,0 +1,747 @@
+
+
+
+
+
+
+		marketing data scientist
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+job openings
+
+
+marketing data scientist
+marketing  – chicago, illinois
+
+
+apply for this job
+
+
+
+
+department
+marketing 
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+
+
+
+
+
+
+
+
+company description
+headquartered in the uk and australia, thinkmarkets is an industry leading brokerage with a global presence, with headquarters in london and melbourne, as well as hubs in the asia-pacific, the middle east and north africa, europe, and the americas. 
+
+the firm is authorized and regulated by the fca, and fully registered with asic. thinkmarkets specializes in foreign exchange (fx), metals and global cfd trading, as well as spread betting. 
+
+dedicated to delivering high-quality execution and service to an ever growing range of traders, thinkmarkets has been named “best broker australia” by the world finance awards, “best new contributor” by fxstreet and “best forex broker in asia” at the china forex expo.
+
+the firm recently acquired trade interceptor, the world’s most searched-for trading analysis app. the deal marks a major step forward in thinkmarkets’ mission to be the only truly mobile retail broker – a crucial commitment given the rapid growth of the mobile trading market. 
+as well as providing 24/5 customer support, thinkmarkets also provide a full suite of tutorial seminars, webinars, and videos as part of their cornerstone thinkmarkets university.
+
+
+the role:
+thinkmarkets are looking for an experienced marketing data scientist to apply statistical and machine learning models to drive investment decisions for the thinkmarkets’ marketing budget. you will be responsible for forming quantitative models and developing actionable analytical solutions that will inform decisions across all our digital acquisition strategies. the right person for this role will have a passion for leveraging large-scale data analysis, predictive modeling, machine learning, experimentation, and marketing technology to power decisions across our marketing investment. 
+
+
+role specific responsibilities:
+• build production grade models on large-scale datasets to optimize marketing performance by utilizing advanced statistical modelling, machine learning, or data mining techniques on bid optimization for paid media , display and programmatic trading . 
+• utilize advanced statistical modeling techniques to measure customer churn and engagement.
+• leverage models to address key growth challenges such as cross-channel spend allocation and response modelling.
+• develop processes for repeatable tasks, such as data extraction, reporting and standard statistical validations.
+• conduct hands-on analysis of customer and campaign data using analytical and statistical tools such as sql , minitab and tableau  to uncover insights and provide program recommendations.
+• work with cross-functional teams to implement and deploy models and enhance analytical solutions by providing data-driven recommendations.
+• collaborate with marketing leadership, design, product and engineering teams.
+• participate in project planning/prioritization meetings, stakeholder meeting, data prioritization meeting, etc.
+• create detailed documentation outlining design and technical specifications of each solution.
+requirements:
+• 3-5 years of experience in the marketing analytics arena
+• 2 + years of experience in applying machine learning algorithms to big data sets
+• master's degree or higher in statistics, business analytics, mathematics, economics or other quantitative discipline
+• graduate degree (m.s., phd) preferred in statistics, computer science, mathematics, economics, physics or another technical field. 
+• strong experience in using cross-channel data in building advertising bid optimization algorithms 
+• previous experience in finance/trading industry preferred. 
+• exceptional data/ analytical skills and demonstrable attention to detail
+• experience building logistic and linear regression solutions as well as knowledge of machine learning and other alternative methodologies preferred
+• strong experience with sas, sql, or python required
+• experience with hadoop, hive, spark is a plus
+• great communication skills, organized, able to multitask and be a team player
+• experience with marketing loyalty programs, email, direct mail, and digital marketing a plus
+• ability to translate business objectives into an analytical agenda
+• must possess high degree of aptitude in communicating both verbally and written complex analysis results to senior & executive leadership
+
+
+
+
+
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply for this position
+
+
+
+
+*required
+
+
+
+first name
+
+
+
+
+
+last name
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+address
+
+
+
+
+
+
+
+city
+
+
+
+
+
+state
+
+akalarazcacoctdcdeflfmgaguhiiaidilinkskylamamdmemhmimnmompmsmtncndnenhnjnmnvnyohokorpaprpwriscsdtntxutvavivtwawiwvwy
+
+
+
+postal / zip
+
+
+
+
+
+
+
+country
+
+
+
+afghanistan
+albania
+algeria
+american samoa
+andorra
+angola
+anguilla
+antarctica
+antigua and barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+åland islands
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bonaire, sint eustatius and saba
+bosnia and herzegovina
+botswana
+bouvet island
+brazil
+british indian ocean territory
+brunei darussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+chad
+chile
+china
+christmas island
+cocos (keeling islands)
+colombia
+comoros
+congo
+congo, the democratic republic of the
+cook islands
+costa rica
+cote d'ivoire (ivory coast)
+croatia (hrvatska)
+cuba
+curaçao
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+falkland islands (malvinas)
+faroe islands
+fiji
+finland
+france
+france, metropolitan
+french guiana
+french polynesia
+french southern territories
+french west indies
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guernsey
+guinea
+guinea-bissau
+guyana
+haiti
+heard and mcdonald islands
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+isle of man
+israel
+italy
+jamaica
+japan
+jersey
+jordan
+kazakhstan
+kenya
+kiribati
+korea (north)
+korea (south)
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macao
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+northern mariana islands
+norway
+oman
+pakistan
+palau
+palestinian territory, occupied
+panama
+papua new guinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+qatar
+reunion
+romania
+russian federation
+rwanda
+saint barthélemy
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+sint maarten (dutch part)
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south georgia and the south sandwich islands
+south sudan
+spain
+sri lanka
+st. helena
+st. pierre and miquelon
+sudan
+suriname
+svalbard
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+turks and caicos islands
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+us minor outlying islands
+uzbekistan
+vanuatu
+vatican city state
+venezuela
+viet nam
+virgin islands (british)
+virgin islands, u.s.
+wallis and futuna islands
+western sahara
+yemen
+yugoslavia
+zaire
+zambia
+zimbabwe
+
+
+
+
+
+
+
+
+resume
+
+
+
+
+
+no file selected
+
+
+
+
+
+date available
+
+
+
+
+
+
+
+desired pay
+
+
+
+
+
+
+
+
+
+website, blog, or portfolio
+
+
+
+
+
+
+
+
+
+
+
+				linkedin profile url
+
+
+
+
+
+
+
+
+
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+thank you
+your application was submitted successfully.
+
+
+
+
+
+
+
+
+apply for this job
+
+
+
+link to this job
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+location
+chicago, illinois
+
+
+department
+marketing 
+
+
+employment type
+full-time
+
+
+minimum experience
+experienced
+
+
+		powered by
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+privacy policy
+
+
+			powered by
+			
+
+
+
+
+
+
+
+
+
+
+

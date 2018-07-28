@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+smud careers - job details
+
+
+
+
+
+
+
+
+
+
+
+
+ smud | career search       return to smud.org career search              ?
+
+    å▬▬▬▬▬▬▬▬å▬▬▬▬▬▬▬▬å▬▬▬▬▬▬▬▬›    careers homesearch  openingssearch  resultscurrent pagejob  details  
+
+job details job 1 of 1   apply to job(s)   send to a friend   save to cart       posting/working title  it enterprise compute platform engineer (entry)   position type  regular - full time   no. of openings  1   base salary annual low  $69,571   base salary annual high  $89,432   eligibility list  yes    selection process initial reviewhiring interview    purpose  join a highly collaborative team of professionals who support smud’s workforce by providing it infrastructure services.  this team works closely with other infrastructure teams, engineering teams, business units, and outside business partners to design, implement and maintain a dynamic compute infrastructure.  we have a job opening for an entry level role to support the compute infrastructure, which includes the server hardware, virtualization hypervisor and operating system platforms. smud values their employees by strongly promoting work-life balance by creating a rich and innovative culture, promoting a diverse workforce, and accommodating flexible work schedules.    major duties & responsibilities  understand fundamental compute concepts in areas of virtualization, operating system platforms and converged infrastructure and have a willingness to become an expert in these areas. design, plan, configure, install, and manage compute platform solutions for applications and systems.contribute to developing planning methodologies for performance, capacity and security. act as the liaison between vendors, technical support hot-lines, project teams and business partners to resolve complex system problems as needed. understanding of the systems development lifecycle, including use of formal requirement documentation and procedures, formal testing methodologies, implementation strategies, and monitoring techniques.must be committed to incorporating security into all decisions and daily job responsibilities. this includes maintaining the security and integrity of critical data by ensuring compliance to it security procedures and standards, and implementing proper controls.contribute to developing planning methodologies for performance, capacity and security. this position may require after hours on-call support and escalation.　    minimum qualifications  education:ba/bs degree from an accredited college or university majoring in computer science, mis, computer engineering or related field or equivalent experience. graduating seniors are acceptable.experience:this position is entry level and we are looking for:entry level experience in large-scale enterprise compute environments. entry level experience and/or understanding of operating system technologies such as microsoft windows server and/or ibm aix and/or redhat enterprise linux operating systems. entry level experience and/or understanding of virtualization hypervisor technologies such as ibm powervm and/or vmware esx hypervisor. entry level experience and/or understanding in troubleshooting complex compute platform issues that span across multiple disciplines. experience with and understanding appropriate methods, tools and applications.   desirable qualifications  1+ years of full-time professional experience in design, implementation and/or support of infrastructure solutions in a medium to large enterprise environment. scripting proficiency (c, bash, python, ruby, powershell). familiarity of compliance requirements for cip. automation experience (deployment, configuration management).    additional posting info for candidate  smud title: enterprise technology infrastructure specialist (e)   removal date  26-dec-2017   apply to job(s)   send to a friend   save to cart     
+
+
+       ©      sacramento municipal utility district   |   privacy policy   |   terms and conditions careers   |   do business with smud   |   contact us   |   news & media    
+
+
+

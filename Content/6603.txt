@@ -1,0 +1,217 @@
+
+big data developer job - deepiq.co - houston, tx | indeed.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to job description, searchclose
+
+
+
+
+
+
+
+
+
+find jobscompany reviewsfind salariesfind resumesemployers / post job
+
+
+
+
+
+
+
+upload your resume
+
+
+sign in
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+what
+where
+
+
+
+
+
+advanced job search
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+job title, keywords or company
+
+
+city, state, or zip
+
+
+
+
+
+
+
+
+
+
+
+
+big data developer
+
+deepiq.co
+     -
+houston, tx
+
+
+we are an exciting big data startup helping our clients do great things with their data. we are led by some of the world's leading experts in big data and advanced analytics with multiple years of startup and corporate executive leadership experience. we have collaborations with some of the world's leading research universities doing foundational work in machine learning. if you are passionate about data and enjoy solving business problems with analytics/visualization, then we have the right job for you! to our clients, we are committed to excellence in our technical work and generating extraordinary value for their investment. for our employees, we are committed to providing an ideal work life balance and a great place to do high quality work, learn new skills and grow in their career. we will provide you an opportunity to leapfrog your technical career by working in a startup environment with the salary/perks and security of an enterprise job. for the current role, we are looking to hire multiple full time employees to work on our platform development.job responsibilitiesdevelop software using hadoop technologies like hbase, spark, storm, nifi and kafka.analyze requirements/user stories to appropriately support design activities.designs and build integration components and interfaces in collaboration with architects and infrastructure engineers as necessary.perform all technical aspects of software development (i write, i test, i support) and automationfunction as an active member of an agile team through consistent/development practices (tools, common components, and documentation).perform unit, component, integration testing of software components including the design, implementation, evaluation, and execution of unit and assembly test scripts.conduct code reviews and tests of automated build scripts.debug software components, identifies, fix and verify remediation of code defects (own work and the work of others).work with product owners to prioritize features for ongoing sprints and manage a list of technical requirements based on industry trends, new technologies, known defects, and issues.skills required2 or more years experience with various tools and frameworks that enable capabilities within the big data ecosystem (hadoop, kafka, nifi, hive, yarn, hbase, nosql)4 or more years of software development experience in a professional environmenthands-on expertise with application design, software development and automated testing.solid hands-on experience with java/j2ee, , xml, xpath, web services, rest servicessolid experience with hibernate/orm technologies.development ide: jboss studio, intellij, eclipse, sublime, bracket.experience using spring frameworkbachelor’s degree in computer science, computer science engineering, or related field required; advanced degree preferred.job type: full-timerequired education:bachelor'srequired experience:software development: 3 years
+
+30+ days ago   -  save job
+
+
+
+
+
+
+
+
+
+» apply now
+
+            please review all application instructions before applying to deepiq.co.
+
+
+
+
+
+
+other jobs you may like
+
+
+hadoop big data developer with azure
+
+objectwin technology inc -
+					houston, tx
+1 day ago
+
+ easily apply
+
+
+
+big data developer
+
+noble energy, inc. -
+					houston, tx
+30+ days ago
+
+
+mendix developer
+
+memorial mri and diagnostic llc -
+					houston, tx
+30+ days ago
+
+ easily apply
+
+
+
+big data/hadoop developer
+
+axius technologies -
+					houston, tx
+5 days ago
+
+ easily apply
+
+
+
+mes developer
+
+gray matter systems -
+					houston, tx
+2 days ago
+
+
+
+
+
+ 
+
+
+
+
+                        deepiq.co
+
+
+                we are an exciting big data startup helping our clients do great things with their data. 
+if you are passionate about data and enjoy...
+
+
+
+let employers find youthousands of employers search for candidates on indeedupload your resume
+
+
+
+
+
+
+
+
+
+
+about - help center
+
+
+©2017 indeed - cookies, privacy and terms
+
+
+
+let employers find you  upload your resume
+
+
+
+
+
+
+
+
+
+

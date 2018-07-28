@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+
+
+ zintellect  
+
+
+
+
+
+ zintellect will not be available due to network maintenance beginning friday, december 15, from 9:00 p.m. est through sunday, december 17, at noon est.  be sure to check the application deadline for opportunities you are interested in and allow time for completion.
+
+
+
+
+
+			welcome
+				 guest
+		
+
+ login 
+
+
+
+zintellect
+
+
+
+
+
+menu
+
+
+
+ applicants
+ mentors
+
+
+ opportunity catalog
+				
+
+ about zintellect
+ help
+
+
+
+
+
+
+
+opportunity details
+
+
+
+
+
+
+ 
+
+
+						opportunity 
+					
+
+
+					data analysis and curation support at epa
+				
+
+
+
+organization
+
+
+						u.s. environmental protection agency (epa)
+					
+
+
+
+reference code
+
+
+					epa-ssp-0012-24r 9-13-17
+				
+
+
+
+how to apply
+
+
+
+submit application and supporting documents by clicking on apply now button.
+for more information, contact epajobs@orau.org. do not contact epa directly.
+
+
+
+
+
+academic levels
+
+
+
+postdoctoral
+post-master's
+
+
+
+
+
+description
+
+
+the epa environmental research and business support program has an immediate opening for a data analysis and curation support position with the office of research and development at the epa’s research triangle facility in raleigh-durham, nc.
+the office of research and development at the epa supports high-quality research to improve the scientific basis for decisions on national environmental issues and help epa achieve its environmental goals. research is conducted in a broad range of environmental areas by scientists in epa laboratories and at universities across the country.
+the national center for computational toxicology (ncct) is responsible for developing computational tools and solutions for improving environmental risk assessments and regulatory decisions pertaining to chemical safety and sustainability. the ncct toxicity forecaster database (toxcast’s invitrodb) and toxicity reference database (toxrefdb) research projects aim to store and analyze high-throughput screening bioactivity data and legacy in vivo toxicology data, respectively.  these projects intersect as data in toxrefdb is often a critical source of reference data for validation of assay data collected and stored in invitrodb.  supporting these interrelated efforts involves various curation, database development, and data analysis tasks.
+the selected candidate shall provide data management, data curation, and data analysis support to the toxcast and toxrefdb projects. this is a combination of r-programming, limited mysql database management, file management, data curation and study data extraction, quality control, as well as performing qualitative and quantitative data analysis. he/she will work with other members of ncct’s team to maintain these databases, quality control-entered data, and perform downstream analysis. he/she will be a member of a multi-disciplinary research team and will be trained to support the development, maintenance, and analysis of toxrefdb and toxcast’s invitrodb.
+database curation and analysis tasks shall include:
+
+performing quality control of animal study data entered by third party, primary animal study data extraction, and loading of data already in a computable format;
+running automated data quality tests;
+curating databases;
+developing analysis tools for exploring and visualizing toxcast and toxrefdb data;
+developing scripts to provide reports on the data and data quality;
+developing analysis methods for performing dose response modeling; and
+developing models that explore the relationship between in vivo, in vitro, and in silico datasets.
+
+communications-related responsibilities shall include:
+
+participating as a member of a multi-disciplinary research team;
+interacting with other members of the development team as well as epa scientists;
+documenting code and database development efforts; and
+organizing work files for sharing and transfer among team members.
+
+the selected candidate may be asked to present work performed as a poster at a scientific conference.
+location: this job will be located epa’s research triangle facility in raleigh-durham, nc.
+salary: selected applicant will become temporary employee of orau and will receive an hourly wage of $28.14 for hours worked.
+hours: full time.
+travel: occasional overnight travel may be required.
+expected start date: the position is full time and expected to begin december/january 2017/2018. the initial project is through may 14, 2018, followed by up to two (2) 12-month optional periods.
+working conditions:  
+the selected applicant shall be supervised by a mentor who will provide day-to-day direction, as well as coach, advise, counsel and review his/her work.  this position will involve work in an administrative setting and is not expected to involve exposure to hazardous elements.
+for more information, contact epajobs@orau.org. do not contact epa directly.
+
+
+
+
+qualifications
+
+
+eligible applicants must:
+
+be at least 18 years of age and
+have earned at least a master’s degree in biology, toxicology, chemistry, bioinformatics, statistics, computational biology, math, physics, information science, or a related field of study from an accredited university or college within the last 24 months and
+be a citizen of the united states of america or a legal permanent resident.
+
+epa ord employees, their spouses, and children are not eligible to participate in this program.
+required knowledge, skills, work experience, and education 
+the applicant shall possess:
+
+experience with chemistry, biology, and toxicology;
+proficiency with microsoft office applications (i.e., excel, access, powerpoint, word, outlook);
+experience with descriptive statistics to provide data reports as well as reports on curation progress; and
+experience with r-language programming (or other scripting language, e.g. python, sql).
+
+desired knowledge, skills, work experience, and education
+it is desirable for the candidate to possess:
+
+experience with mysql database and mysql workbench;
+knowledge of bioinformatics, including genes, gene annotation, and annotation of in vitro assay data; and
+knowledge of the principles, theories and practices of biology, neurobiology, reproductive biology, and developmental biology to collect, curate, and manage in vivo toxicological data.
+
+
+
+
+
+eligibility requirements
+
+
+
+citizenship: lpr or u.s. citizen
+degree:  currently pursuing 
+					
+                            a
+
+                             master's degree
+                              or doctoral degree
+					
+                            or have received 
+					
+one of these degrees                                                    within
+24                                months.
+                        
+affirmation: i certify that i am at least 18 years of age; have earned at least a master’s degree in biology, toxicology, chemistry, bioinformatics, statistics, computational biology, math, physics, information science, or a related field of study from an accredited university or college within the last 24 months; a citizen or a legal permanent resident of the united states of america; and not a current employee of epa ord or the spouse or child of an epa ord employee.
+
+discipline(s): 
+ physics (all)
+ earth and geosciences (all)
+ engineering (all)
+ life health and medical sciences (all)
+ mathematics and statistics (all)
+ other physical sciences (all)
+ computer sciences (all)
+ environmental and marine sciences (all)
+
+veteran status: 
+
+                        
+none
+
+
+
+
+					orau is an equal opportunity employer (eoe aa m/f/vet/disability); visit the orau website for required employment notices.
+				
+
+
+
+
+ 
+
+
+
+
+
+
+ security/privacy statement
+
+                    orau will not discriminate because of race, color, age, religion, sex, sexual orientation, gender identity, national origin, mental or physical disability, protected veteran’s status, or genetic information.
+					this site is not compatible with internet explorer versions 7 and below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+warning
+
+
+
+    	your session will be terminated in  due to inactivity.  please click "continue" to restore your session.
+        
+
+
+log out
+continue
+
+
+
+
+
+×
+security/privacy statement
+
+
+
+security/privacy notice
+
+					by continuing to use this system you indicate your awareness of and consent to the following terms and conditions of use. logout immediately if you do not agree to the conditions stated in this warning.
+				
+
+security notice
+
+					this system is part of a federal information system. this system is monitored for security purposes to ensure it remains available to all users and to protect information in the system. the system employs software programs to monitor network traffic to identify unauthorized activities. by accessing this system, you are expressly consenting to these monitoring activities. unauthorized attempts to defeat or circumvent security features; to use the system for other than intended purposes; to deny service to authorized users; to access, obtain, alter, damage, or destroy information; to upload or change information; to otherwise cause system or information damage; or otherwise to interfere with the system or its operation, is prohibited. evidence of such acts may be dis-closed to law enforcement authorities and result in prosecution under the computer fraud and abuse act of 1986 and the national information infrastructure protection act of 1996, or other applicable laws.
+				
+
+privacy notice
+
+					this system is for authorized use only. use of this system constitutes consent to security monitoring and testing. all activity is logged with your host name and ip address. users (authorized or unauthorized) have no explicit or implicit expectation of privacy. any or all uses of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected, and dis-closed to authorized site and law enforcement personnel, as well as authorized officials of other agencies, both domestic and foreign. by using this system, the user consents to such interception, monitoring, recording, copying, auditing, inspection, and disclosure at the discretion of authorized site or law enforcement personnel. unauthorized or improper use of this system may result in administrative disciplinary action and civil and criminal penalties.
+				
+
+
+close
+
+
+
+
+
+
+×
+about zintellect
+
+
+
+how to use this website
+					welcome to zintellect!  this website provides listings of internships, experiential learning opportunities, academic fellowships and scholarships funded by government and private sector organizations. these programs are administered by orau and the oak ridge institute for science and education (orise). visitors to the site may view available opportunities by selecting the opportunity catalog.
+				
+
+applicants
+					applicants may view opportunities available in zintellect by selecting the opportunity catalog. zintellect has an advanced search feature that allows applicants to view only the opportunities that fit their needs and preferences. applicants may search by keyword, academic level, discipline, organization and program.
+				
+
+					in order to apply for an opportunity, applicants must complete a profile. the profile consists of questions that are common across all programs. once the profile is complete, applicants may apply to specific opportunities available in the system by answering a few questions specific to a particular program. applicants are able to customize their references, resumes, and responses based on each opportunity to which they apply.
+				
+
+                    zintellect offers some opportunities that include orau employment.  for more information about equal employment opportunity, click here.
+                    
+ equal employment opportunity is the law
+                    
+
+
+mentors
+					zintellect requires verification from an orau staff member for mentor-level application access. once a mentor has completed the registration process, an orau staff member will review the information and approve access to the system. this process usually takes place within one business day of mentor registration.
+				
+
+					from this site, mentors can search for and view details for opportunities to which they have been assigned or for opportunities open to anyone within their agency/department, review applications submitted for those opportunities, and recommend candidates.
+				
+
+					if you have questions or need additional information, please contact us via email at zintellect@orau.org.
+				
+
+
+close
+
+
+
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+ we have detected that your browser currently has javascript disabled. javascript must be enabled in order to use this site.
+
+
+

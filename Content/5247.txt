@@ -1,0 +1,126 @@
+
+
+
+
+wayfair careers - data scientist phd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    wayfair careers                                            
+
+
+
+
+
+
+
+                data scientist phd
+    
+    
+
+                            analytics - business intelligence/data science            
+                    boston,
+                            massachusetts
+                
+                        
+
+
+        apply
+    
+
+
+
+introduction to the team:the data science group is made up of team members with diverse skill sets across math and engineering, dedicated to solving some of the most analytically challenging problems here at wayfair. the work we do encompasses:data mining - uncover deep insight hidden in our vast repository of raw data, and provide tactical guidance on how act on findingsalgorithm design - develop quantitative models, leveraging machine learning and advanced data analysis techniquesalgorithm platform engineering - architect and build technical platforms for our algorithmic engines to run at scaleinfluencing business decisions - relentlessly leverage our work and encourage adoption across our business partners, to drive real business valueas part of this role, you will be a creative thinker in how to solve problems, utilizing quantitative/technical skills along with business understanding to devise solutions. you’ll work within wayfair’s big data technology infrastructure in order to dive deep into our data sets and develop innovative new capabilities.the data science department covers three main topic areas. you will work in one of the following:data science personalization builds sophisticated platforms designed to personalize customer experience to millions of unique shoppers across site and email. this includes working on different types of recommendations engines, as well as algorithms that machine-learn complex shopping behavior. the goal is to be intelligent and automated in making the experience more relevant for every user.data science marketing builds the framework and algorithms that help guide wayfair’s $250m+ annual marketing investment. the work touches all marketing channels (tv, catalog and digital) and aims to improve our ability to measure marketing impact, improve our customer targeting and optimize our investments across millions of marketing campaigns.data science operations builds data-driven solutions to support wayfair operations teams, including merchandising operations, b2b, supplier performance, and customer service. the big goals are to enhance wayfair’s behind-the-scenes operational capabilities through rigorous use of algorithms and analysis.responsibilities:partner closely with business leads in marketing, product, or operations to plan out valuable data science projectswork in complex data systems and wrangle data from multiple sources including sales, customer, and clickstream databasesconduct analysis and build models to uncover key learnings from data, leading to appropriate strategy recommendationsserve as an algorithm and engineering lead to build advanced quantitative solutions into our overall technical platformwork alongside business stakeholders to apply our findings and developments and continually improve the wayfair customer experiencequalifications:2+ years of experience in a quantitative or technical work environment or advanced degree (phd) in quantitative field (e.g. mathematics, economics, computer science, physics, neuroscience, operations research etc.)intuitive sense of how quantitative and technical work aligns closely with business priorities and business valueability to effectively work with business leads: strong communication skills, ability to synthesize conclusions for non-experts and desire to influence business decisionshigh comfort level with programming, e.g. languages such as sql, python, r, scala, java, c++, c#, php, etcknowledge of quantitative methods – statistics, machine learning, general data analysisintense intellectual curiosity – strong desire to always be learninganalytical, creative, and innovative approach to solving open-ended problemshighly collaborative, team-player attitudeabout wayfairwayfair inc. offers an extensive selection of home furnishings and décor across all styles and price points. the wayfair family of sites includes:wayfair, an online destination for all things homejoss & main, where beautiful furniture and finds meet irresistible savingsallmodern, unbelievable prices on everything moderndwellstudio, unexpected modern design for everyday lifebirch lane, a collection of classic furnishings and timeless home décorwayfair generated $3.6 billion in net revenue for the twelve months ended march 31, 2017. headquartered in boston, massachusetts with operations throughout north america and europe, the company employs more than 5,700 people.wayfair does not accept unsolicited candidate referrals or resumes / cvs from third-party vendors, including recruitment agencies. wayfair will not be responsible or liable for any fees or costs associated with such unsolicited submissions. 
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+
+

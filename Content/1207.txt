@@ -1,0 +1,704 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+featured jobs
+
+administrative/support jobs
+customer service/call center jobs
+executive jobs
+finance/accounting jobs
+human resources/legal jobs
+information technology jobs
+real estate field services jobs
+marketing/communications jobs
+real estate operations/management jobs
+sales/account management jobs
+
+
+
+locations
+
+
+not finding a job?
+
+join our talent community
+view all jobs
+
+
+
+
+
+
+
+
+
+search our open positions
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+
+
+
+
+
+ email similar jobs to me 
+
+
+
+
+
+ join with linkedin
+
+
+
+
+
+
+
+
+
+ join with facebook
+
+
+
+
+
+
+
+
+
+ join now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+big data engineer
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+date: 
+nov 24, 2017
+                
+
+
+location: 
+emeryville, ca, us
+
+
+company: 
+realogy services group llc
+
+
+
+ 
+ 
+requisition 45009
+
+about zaplabs llc
+zaplabs (www.zaplabs.com) is the innovation and technology hub for global real estate leader realogy holdings corp. (nyse: rlgy), and the driving force behind inventive technology for brokers and agents affiliated with realogy’s world renowned real estate brands. zaplabs delivers its highly effective consumer, sales associate and broker solutions in support of realogy’s leading franchise brands and is positioned to expand the scope of its technology development efforts to encompass realogy’s other business segments, including residential brokerage, relocation and settlement services. zaplabs is headquartered in emeryville, california.
+ 
+job title: big data engineer 
+
+at zaplabs, we work to build and improve a platform that helps real estate professionals work effectively, and helps delight home buyers and sellers with an excellent experience. we do that by combining great technology with great people – and we’re looking for a big data engineer to join our team.
+ 
+what we’re looking for:
+you’re a talented, creative, and motivated engineer who loves developing powerful, stable, and intuitive apps – and you’re excited to lead a team of individuals with that same passion. you’ve accumulated years of experience, and you’re excited about taking your mastery of sql, java, and scala to a new level. you enjoy challenging projects involving large data pipelines and are cool under pressure. you’re no stranger to fast-paced environments and agile development methodologies – in fact, you embrace them. with your strong analytical skills, your unwavering commitment to quality, your excellent technical skills, and your collaborative work ethic, you’ll do great things here at zaplabs.
+ 
+what you’ll do:
+as a big data engineer, you’ll be responsible for designing and building high performance, scalable solutions for large volume data ingestion, clean-up, and processing that meet the needs of millions of agents, brokers, home buyers, and sellers. you’ll design, develop, and test robust, scalable microservices, spark streaming applications, and restful web services. you’ll work with a variety of teams and individuals, including product engineers, to understand the mls and other real estate related data pipeline needs and come up with innovative solutions. you’ll be a self-organized member of a team of talented engineers and collaborate with product managers and designers to help implement and execute new products and features.
+ 
+skills, accomplishments, & interests you should have:
+
+bs in computer science, engineering, or related technical discipline or equivalent combination of training and experience
+4+ years core java experience: building business logic layers and back-end systems for high-volume data pipeline backend applications
+current experience using scala development
+current experience developing microservices
+current experience using java development, sql database systems, and apache products (tomcat, spark, hadoop, cassandra)
+current experience developing restful web services
+current experience high-speed messaging frameworks and streaming (kafka, akka, reactive)
+current experience developing and deploying applications to public cloud (aws)
+experience with devops tools (github, jira) and methodologies (agile, scrum, kanban, test driven development)
+ability to work quickly with an eye towards writing clean code that is efficient and reusable
+
+ 
+
+ability to build prototypes for new features that will delight our users and are consistent with business goals
+ability to iterate quickly in an agile development process
+ability to learn new technologies and evaluate multiple technologies to solve a problem
+ability to refactor early and often to continuously improve code quality
+excellent analytical/troubleshooting skills
+excellent written and verbal communication skills in english
+strong work ethic and entrepreneurial spirit
+
+ 
+nice to haves:
+
+experience working on smack stack
+
+ 
+we’re always looking for folks to join our culture of passionate hobbyists! we tend to nerd out on everything from extensive lotr and star wars knowledge to competitive baking to our company soccer team, the lab rats.
+ 
+eoe aa m/f/vet/disability
+ 
+
+
+
+nearest major market: san francisco
+                    
+                        nearest secondary market: oakland
+                    
+                
+
+job segment: 
+database, engineer, real estate, computer science, java, technology, engineering, sales
+                    
+
+
+
+
+apply now »
+
+apply now 
+
+
+
+
+
+ start apply with linkedin
+
+
+
+
+
+
+
+
+
+ start apply with facebook
+
+
+
+
+
+
+
+
+
+ apply now
+
+
+
+
+
+
+
+
+email
+
+start
+
+
+
+
+
+
+
+please wait...
+
+
+
+
+
+
+
+
+
+find similar jobs: 
+
+zaplabs jobs,
+information technology jobs
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+email*
+ not you?
+password*
+
+forgot password?
+submit  cancel
+
+* required field
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+1. reset your password:
+
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+
+click here to reset your password
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+
+
+
+
+confirm
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+email*
+ not you?
+
+password* 
+forgot password?
+sign in  cancel
+
+* required field
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+email*
+
+password*
+
+forgot password?
+
+sign in 
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+realogy.com
+top job searches
+view all jobs
+privacy policy
+
+
+
+realogy holdings corp. is an equal opportunity employer and is committed to diversity in its hiring and business practices. all qualified candidates are encouraged to apply.
+eoe aa m/f/vet/disability
+realogy endeavors to make our careers site accessible to any and all users. if you would like to contact us regarding the accessibility of our website or need assistance completing the application process due to a disability, please email realogyrecruiter@realogy.com. please note that realogy will respond only to requests for accommodations due to a disability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

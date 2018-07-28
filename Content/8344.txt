@@ -1,0 +1,287 @@
+
+
+
+
+
+
+business analyst  job in market data management  at schwab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+charles schwab corporation
+
+
+
+
+who we are
+what we do
+leadership
+careers
+citizenship
+perspectives
+
+
+
+
+
+investor relations
+
+governance
+news room
+
+
+
+
+
+
+
+
+
+diversity
+financial consultants
+grads and students
+veterans
+women
+events
+
+
+
+
+
+
+
+ careers home
+> job details
+
+
+
+
+business analyst - market data management
+
+
+
+
+
+apply now
+       
+
+
+
+
+
+
+
+job id: 20171106-5688
+job category: brokerage operations & trading
+relevant work experience: project management-2-5 yrs, brokerage operations-less than 2yrs, financial services-less than 2 yrs
+current licenses / certifications: none
+
+
+position located in: tx - austin
+education: hs/ged
+job type: full time
+
+
+
+
+
+
+                		 description: austin - tx, aus1, 2309 gracy farms lane, 78758tammie raven20171106-5688we believe that, when done right, investing liberates people to create their own destiny. we are driven by our purpose to champion every client’s goals with passion and integrity. we respect and appreciate the diversity of our employees, our clients, and the communities we serve. we challenge conventions strategically to create value for our clients, our firm and the world. we live and bring to life the concept of ‘own your tomorrow’ every day. we champion our employee strengths, guide their development, and invest in their long-term success. we hire optimistic, results-oriented, curious, innovative, and adaptable people with the desire to help our clients and one another succeed.
+as a company, we were established by chuck over 40 years ago to champion main street over wall street, and to help americans transform themselves from earners to owners. through advocacy and innovation, we work to make investing more affordable, accessible and understandable for all. as we enter our fifth decade, we are looking for talented, innovative and driven people who believe they can help themselves, and our clients, create a better future.
+our opportunity:
+the market data management (mdm) team provides business leadership of the market data platform. this platform manages market data feeds from exchanges and vendors serving up billions of quotes accessed by schwab systems and clients. the mdm team plays a strategic role in interfacing with exchanges and vendors to optimize business value and adhere to data usage reporting standards. this team partners with stakeholders around the firm to meet business needs for market data including prioritizing enhancements, supporting strategic initiatives, performing business analysis, and documenting requirements. the team, in coordination with technology partners, drives the platform roadmap to modernize capabilities, manage costs, and align with business strategy. platform roadmap includes modernize quote data usage reporting capabilities, high integration with schwab customer and trading systems, enable the identification of cost save opportunities, improve exchange reporting compliance, and rationalize hardware footprint.  the mdm team also drives the data governance framework to apply policies and standards to manage changes to market data usage around the firm and to govern exchange reporting standards. 
+what you’ll do:
+the market data management business analyst will play a critical role between business and technology. the business analyst will engage with business stakeholders in order to define business requirements for requested enhancements, and ensure the expected outcomes are delivered. they will also work in an agile team and collaborate with technology partners to deliver clearly defined requirements.  this position includes active engagement with various teams around the firm including: product management, market data technology, qa, and vendor management.
+
+collaborate with business and technology stakeholders to define detailed business requirements
+the business analyst role in the agile team will be to build user stories, attend ceremonies
+vet and filter user requests before proceeding to business requirements writing
+perform  vendor feed change impact analysis, and communication with business & technology
+define and document api specifications for product owners, clients, and development partners
+analyze production issues in coordination with business and technology
+coordinate with vendor contract manager regarding issues affecting market data products, technology, roadmap, etc.
+translate regulatory requirements into actionable deliverables for product and technology teams in coordination with legal and compliance
+participate in market data governance program including data modeling, tiering, and governance
+help drive and define business test cases in qa process
+
+what you have:
+
+strong problem solving skills including ability to research and resolve business issues arising in various operating environments
+strategic mindset to help drive product management decisions, governance, and long term vision
+excellent communications skills, written and oral
+2 or more years of experience as a business analyst
+market data/securities data experience preferred (thomson reuters, bloomberg, etc.)
+knowledge of major exchanges, market data providers, feed handlers
+agile experience
+sql querying experience a plus
+ba/bs degree preferred
+
+you demonstrate these behaviors:
+
+(influencing) structures situations (e.g., the setting, persons present, the sequence of events) to create the desired impact and to maximize the chances of a favorable outcome.
+(accountability) willingly accepts ownership for the leadership and effectiveness of the organization; looks for ways to make a difference
+(relationships) tries to build relationships with people whose assistance, cooperation and support may be needed
+(confidence) is willing to speak up to the right person or group at the right time when he/she disagrees with a decision or strategy.
+
+what you’ll get:
+
+comprehensive compensation and benefits package
+financial health: 401k match, employee stock purchase plan, employee discounts, personalized advice, brokerage discounts
+work/life balance: sabbatical, paid parental leave, new mothers returning to work program, tuition reimbursement programs, time off to volunteer, employee matching gifts program
+everyday wellness: health and lifestyle wellness rewards, onsite fitness classes, healthy food choices, wellness champions
+inclusion: employee resource groups, commitment to diversity, strategic partnerships
+not just a job, but a career, with an opportunity to do the best work of your life
+
+learn more about life@schwab.charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce. it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression, national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law. schwab also does not discriminate against applicants or employees because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. at schwab, we believe that every employee, through their diverse abilities and experiences, can contribute to our growth, innovation and client loyalty. we embrace diversity and are committed to providing equal opportunity to all employees and applicants. if you have a disability, and require reasonable accommodations in the application process, call human resources at 800-725-3535. we will be happy to assist you. schwab will only share your accommodation request with those individuals who have a specific need to know. the request for an accommodation will not affect schwab's hiring decisions. all other submissions should be performed online.    
+                		 job specifications 
+
+relocation offered?:
+no
+
+
+work schedule:
+days
+
+
+languages:
+english - spoken
+
+
+current licenses / certifications:
+none
+
+
+relevant work experience:
+project management-2-5 yrs, brokerage operations-less than 2yrs, financial services-less than 2 yrs
+
+
+position located in:
+tx - austin
+
+
+education:
+hs/ged
+
+
+job type:
+full time
+
+
+  
+						 category:brokerage operations & trading 
+                		 activation date: thursday, november 30, 2017   
+                		 expiration date: saturday, december 30, 2017 
+apply here
+
+
+apply now
+       
+
+
+
+link for schema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    brokerage products: not
+                    fdic insured • no bank guarantee • may lose value
+                
+
+
+
+            charles schwab & co., inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.  it is schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex  (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression,  national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law.  schwab also does not discriminate against applicants or employees because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+        
+
+            at schwab, we believe that every employee, through their diverse abilities and experiences, can contribute to our growth, innovation and client loyalty. we embrace diversity and are committed to providing equal opportunity to all employees and applicants. if you have a disability, and require reasonable accommodations in the application process, call human resources at 800-725-3535. we will be happy to assist you. schwab will only share your accommodation request with those individuals who have a specific need to know. the request for an accommodation will not affect schwab’s hiring decisions. all other submissions should be performed online.
+        
+
+            the charles schwab corporation provides a full range of securities, brokerage, banking, money
+            management, and financial advisory services through its operating subsidiaries. its broker-dealer
+            subsidiary, charles schwab & co., inc. (“schwab”), 
+                member
+                sipc
+            , offers investment services and products, including schwab brokerage accounts. its banking
+            subsidiary, charles schwab bank (member fdic and an equal housing lender), provides deposit and lending
+            services and products.
+        
+
+
+
+
+
+
+
+
+ © charles schwab & co., inc. (member sipc) all rights reserved. (1115-7068)
+
+contact
+
+site map
+schwab.com
+
+
+
+
+facebook
+twitter
+youtube
+linkedin
+google plus
+
+
+
+powered by smashfly
+
+
+
+
+

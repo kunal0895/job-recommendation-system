@@ -1,0 +1,450 @@
+
+
+
+
+job application for data scientist - weather specialist at uptake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data scientist - weather specialist
+
+        at uptake
+      
+(view all jobs)
+
+        600 w chicago ave, chicago, il 60654 ste 620
+      
+
+
+what we do
+uptake is a chicago-based predictive analytics saas platform provider that empowers major industry leaders to optimize performance, reduce asset failures and enhance safety. at uptake, we combine our strengths—machine learning, analytics, data visualization and software development—with the expertise of our industrial partners. the result is enormous savings in development time and resources for uptake’s partners and a proven industrial grade software platform that delivers value to partners and their end customers.what you'll doas a weather specialist on the data science team, you’ll collaborate across teams to build uptake’s suite of cutting-edge weather tools. the tools you create will help to generate weather analytics to be used by our partners across multiple industries. the ideal candidate has a background in statistical analysis and meteorology. responsibilities
+
+
+collaborate within multidisciplinary teams to build uptake’s suite of cutting-edge weather tools
+generate weather analytics research to tackle industry problems
+write codes/scripts to build and visualize atmospheric datasets
+build and test remote-sensing retrievals
+implement machine learning algorithms
+
+with slightly less frequency, the individual may
+
+work with software developers and implementation engineers to specify operational implementation of databases, retrievals, and algorithms.
+perform web scraping
+write technical reports
+participate in job-related training events
+
+
+qualifications
+
+required:
+
+experience with signal processing and geospatial analysis using weather satellites and/or radar meteorology
+knowledge of python and shell scripting
+experience working with large meteorological datasets
+ability to frame problems, learn quickly, and execute independently
+solid communication skills
+comfortable working in an entrepreneurial environment
+graduate degree in meteorology, atmospheric science or related field
+
+
+preferred:
+
+experience contributing to open source software
+familiarity with any or all of the following techniques:
+
+optical flow
+lasso and ridge regularization
+ensemble methods
+time series analysis
+bayesian inference
+gaussian process
+demonstrated project experience as shown on github or a personal website
+
+
+
+
+
+why work here
+we build and deliver, then explore to build more. curiosity and flexibility enable everything we do, and we get stronger as we make each new industry smarter. as a team, we bring our diverse backgrounds, beliefs and experiences to solve problems no one has yet to solve, at a speed no one has yet to experience. we support and challenge one another to bring out a new best in each of us, and we might have a little fun along the way.
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+will you now or in the future require sponsorship for an employment visa (e.g. h1b visa status)? *
+
+
+
+--
+yes
+no
+
+
+how did you hear about uptake?
+    
+
+
+
+
+
+1871
+blue1647
+built in chicago
+bunker labs
+campus event
+chicagoinno
+chicago innovation awards
+chipma
+data fellows
+girl develop it
+ita
+technori
+techstars
+the starter league
+uptake-hosted event
+uxs chicago
+other
+
+
+if you heard about us some other way, please share how!
+    
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at uptake are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

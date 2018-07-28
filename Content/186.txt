@@ -1,0 +1,64 @@
+
+
+
+
+via - jobs: data engineer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+data engineer
+
+data engineer
+new york, united states
+
+descriptionas a data engineer, you’ll help design and implement our mission-critical data warehousing solution that seamlessly enables mass-scale, highly complex and data intensive operational service alongside cutting-edge algorithmic and analytics research for our full scale, multi location ride-sharing service.responsibilities: defining and implementing effective data scaling infrastructure solutions based on best-in-class standard tools driving speed, simplicity and robustness in production deployments. implementing data-rich system components at the core of system scaling. designing the etl procedures to transform the concepts you design into reality. you: have a strong background in databases and data warehouses experience with python  experience with r a plus familiarity with cloud-based deployment (aws or other platforms) fast learner: you can quickly master concepts, disciplines and methods team worker: you understand the goals of the team and work towards them pragmatic: you hear about a difficult problem and are able to transform it into a simple one (or more) that you can easily solve concise: you get stuff done, in a simple, elegant way. 2 years of experience as a data/software engineer (excluding internships) 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+
+via
+does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+
+via website
+
+powered by
+workable
+
+
+
+
+

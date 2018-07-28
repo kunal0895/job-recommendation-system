@@ -1,0 +1,27 @@
+full stack web developer at spectiv vrfull stack web developerhouston, txfull-timejob openingsfull stack web developer%button_apply_to_position% apply using linkedinwelcome to spectiv vr,
+we are a collective of young and entrepreneurial millennials setting out to build a dedicated virtual reality streaming platform out of houston, texas. we are looking to bring on driven developers to help us build out a robust web platform. our company culture encourages entrepreneurial input, teamwork, late-night gaming, and ping pong tournaments. most importantly, we are looking for proactive individuals who thrive in an unstructured and high-pressure startup environment.
+ 
+job description:
+this job will require you to use an array of different tools/technologies that will require continual learning. we value people who have experience working with a team or thrive in a team environment. in this position you will need to be well versed in front-end technologies (react/redux) as well as back-end technologies (node.js/express.js).
+ 
+required skills/experience:
+
+proficient in javascript
+html
+css
+react/redux
+node.js/express.js
+experience with any relational database (mysql/postgres/sql server/etc)
+github / git
+
+ 
+bonus skills/experience:
+
+es6/es2015
+mongodb
+sass/scss
+scrum/agile development
+knowledge of blockchain and cryptocurrency
+slack
+
+%button_apply_to_position%%footer_powered_by%breezy

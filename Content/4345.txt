@@ -1,0 +1,777 @@
+
+
+
+
+
+
+
+
+
+data engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about us 
+
+why xpo?
+international jobs
+
+
+
+search all jobs 
+
+transportation
+supply chain
+corporate
+drivers
+information technology
+operations
+sales
+dock workers and material handlers
+university
+warehouse jobs
+all jobs
+
+
+create profile
+application status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+about us 
+
+why xpo?
+international jobs
+
+
+
+search all jobs 
+
+transportation
+supply chain
+corporate
+drivers
+information technology
+operations
+sales
+dock workers and material handlers
+university
+warehouse jobs
+all jobs
+
+
+create profile
+application status
+
+
+
+
+
+
+
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search by keyword
+
+
+
+
+search by location
+
+
+
+
+
+                                 
+                            
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+ create alert
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now »
+
+
+
+
+
+
+
+
+data engineer
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+requisition id: 
+                        
+27577
+                        
+
+
+
+
+
+
+
+
+business unit: 
+                        
+corporate
+                        
+
+
+
+
+
+
+
+
+location: 
+                        
+portland, or, us, 97209
+                        
+
+
+
+
+
+
+
+
+logistics done differently.
+you are a data enthusiast who loves the challenge of looking at data differently, maximizing the informational benefits. as the systems engineer analyst bi at xpo logistics, you’ll have the opportunity to work in data solutions and advanced analytics, as well as evolve new capabilities to increase operational efficiencies of the logistics business. we will give you the team, resources, and freedom to build a career you love.
+pay benefits and more.
+we are eager to attract the best, so we offer competitive compensation and a generous benefits package, including full health insurance (medical, dental and vision), 401(k), life insurance, disability, and the opportunity to participate in a company incentive plan.
+what you’ll do on a typical day:
+
+maintain a system-wide architectural view of the data solutions
+work with customers and business teams to identify relevant customer-user cases, customer needs, and business opportunities that enhance the products we support
+develop product requirement documents to communicate data product features and decisions clearly to all stakeholders; communicate business needs in clear technical terms to the technical resources, and the technical details in simple business terms to the leadership and non-technical people
+identify, evaluate, and integrate the data sources and ideal solutions that would best fulfill business requirements
+collaborate closely with the engineering team to align system design decisions to drive technical product goals
+provide solutions and guidance to the team members on technical and business issues facing them
+partner with enterprise data science team to prioritize product development priorities
+
+what you need to succeed at xpo:
+at a minimum, you’ll need:
+
+bachelor’s degree in cs, mis, or equivalent; successfully completed recognized data science/advanced data analytical courses
+professional experience in business intelligence/data warehouse development preferably in a medium to large data warehouse environment
+experience in delivering solutions in at least two areas: data modeling, data integration, data analysis, sql, r/python, and machine learning
+experience building logical data models and physical data models, and normalizing techniques with 3nf
+experience in mpp databases like netezza or teradata
+demonstrated success in guiding data science projects to generate business insights and recommendations
+understanding of core principles of data warehousing, data science, and machine learning
+excellent verbal and written communication skills
+
+it’d be great if you also have:
+
+master’s degree or phd in data science, statistics, computer science, or related field; or equivalent work experience
+10 years of professional experience in business intelligence/data warehouse development preferably in a medium to large data warehouse environment
+experience in transportation/logistics industry
+knowledge in cloud solutions; preferably in amazon suite of products
+
+be part of something big.
+xpo provides cutting-edge supply chain solutions to the world's most successful companies, including disney, pepsi, l'oréal, toyota and many others. we’re the fastest-growing transportation company on the fortune 500 list, and we’re just getting started.
+we are proud to be an equal opportunity/affirmative action employer. qualified applicants will receive consideration for employment without regard to race, sex, disability, veteran, or other protected status.
+the above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. they are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. all employees may be required to perform duties outside of their normal responsibilities from time-to-time, as needed. 
+
+
+
+
+
+
+
+
+
+
+
+nearest major market: portland oregon
+                    
+                
+
+
+
+
+apply now »
+
+
+
+
+
+
+find similar jobs: 
+
+university - entry-level,
+it campaign,
+information technology,
+corporate
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+xpo.com
+top jobs
+jobs by category
+view all jobs
+privacy policy
+accommodation
+terms of use
+technical support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2017 xpo logistics, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

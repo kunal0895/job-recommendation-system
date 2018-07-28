@@ -1,0 +1,1041 @@
+
+
+
+
+
+usajobs - job announcement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+an official website of the united states government
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+profile
+documents
+username & password
+sign out
+
+
+
+
+
+                                    help
+                                
+
+
+
+
+                                    search
+                                
+
+
+
+
+
+ 
+
+
+
+                                    keywords
+                                
+
+
+
+
+
+                                    location
+                                
+
+
+
+
+                                    search
+                                
+
+
+ 
+
+create an account to get started — build your profile, create or upload resumes and apply for jobs.
+                    
+
+
+
+
+
+
+
+
+
+                prev
+            
+
+
+                back to results
+            
+
+                next 
+
+
+
+
+
+
+
+                    data engineer 
+                
+department of defense
+
+                    national geospatial-intelligence agency
+                
+
+
+
+
+
+
+
+
+
+
+
+                    overview
+                
+
+
+
+                    locations
+                
+
+
+
+                    duties
+                
+
+
+
+                    requirements
+                
+
+
+
+                    required documents
+                
+
+
+
+                    benefits
+                
+
+
+
+                    how to apply
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ help
+                                
+overview
+
+
+
+
+                    open & closing dates
+                
+
+
+
+10/23/2017 to 12/30/2017
+
+
+
+
+
+                    salary
+                
+
+
+$60,613 to $123,234 per year
+
+
+
+
+
+                    pay scale & grade
+                
+
+
+                ia 03
+            
+
+
+
+
+                    work schedule
+                
+
+
+                full-time - full time
+            
+
+
+
+
+                    appointment type
+                
+
+
+                permanent - this is a permanent position.
+            
+
+
+
+
+
+ help
+                                
+locations
+2 vacancies in the following locations:
+
+
+
+
+
+
+
+
+
+
+                                                            saint louis, mo 
+                                                        
+
+                                                            1 vacancy
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            springfield, va 
+                                                        
+
+                                                            1 vacancy
+                                                        
+
+
+
+
+
+
+
+
+                                                    relocation expenses reimbursed
+                                                
+
+
+                                                yes
+permanent change in station: pcs expenses are authorized.                                            
+
+
+
+
+
+
+
+ help
+                                
+this job is open to
+
+
+
+
+
+
+
+
+
+
+                                                        the public
+                                                    
+
+                                                        u.s. citizens, nationals or those who owe allegiance to the u.s., and excepted service employees.
+                                                    
+
+
+
+
+
+
+
+
+
+
+ print
+                                    
+
+
+ share
+    
+
+
+
+ email
+
+
+
+
+ facebook
+
+
+
+
+ google+
+
+
+
+
+ linkedin
+
+
+
+
+ twitter
+
+
+
+
+ shorten link
+
+
+
+ 
+                                            save
+                                        
+
+
+
+announcement number
+
+                                            20180083
+                                        
+
+
+control number
+
+                                            480935200
+                                        
+
+
+
+
+
+
+
+
+
+
+                                        duties
+                                    
+
+
+ help
+                                        
+duties
+summary
+
+job description: data engineers develop, construct, test, and maintain architectures such as databases and large-scale data processing systems. they clean, prepare, and optimize data for consumption through the design and construction of massive reservoirs for big data. they solve problems associated with database access and integration and unstructured data sets to provide clean, usable data for customers and it counterparts. these engineers serve as integrators between data architects, data scientists, and other data consumers. they apply knowledge of scripting tools, programming languages, standards, and software packages to build the data pipelines that enable faster, better, data-informed decision-making within the agency.
+
+                                                    learn more about this agency
+                                                
+
+responsibilities
+
+
+nga seeks data engineers who understands data, how to view it, manipulate it, influence it and analyze it to support missions such as national intelligence, national security, military operations, military planning, and disaster relief and preparedness for a diverse audience including the department of defense, the intelligence community, and senior us and foreign government officials up to and including the united states congress and the president of the united states. the data engineer will be part of a multi-disciplinary team constructed to use design and computational thinking to find scalable solutions to the agency's most challenging and highest priority problems sets. 
+
+band 03: data engineers develop, construct, test, and maintain architectures such as databases and large-scale data processing systems. they clean, prepare, and optimize data for consumption through the design and construction of massive reservoirs for big data. they solve moderately complex problems associated with database access and integration and unstructured data sets to provide clean, usable data for customers and it counterparts. these engineers serve as integrators between data architects, data scientists, and other data consumers. they apply broad knowledge of scripting tools, programming languages, standards, and software packages to build the data pipelines that enable faster, better, data-informed decision-making within the agency. 
+* utilize a variety of languages and tools (e.g., scripting languages) to build data pipelines to pull together information from different source systems
+* collaborate with data architects, modelers, and it team members on project goals; ensure systems meet agency requirements and industry practices
+* design, construct, install, test, and maintain highly scalable data management systems
+* develop data set processes for data discovery, modeling, mining, and production
+
+band 04: data engineers lead efforts to develop, construct, test, and maintain architectures such as databases and large-scale data processing systems. they clean, prepare, and optimize data for consumption through the design and construction of massive reservoirs for big data. they solve complex problems associated with database access and integration and unstructured data sets to provide clean, usable data for customers and it counterparts. these engineers serve as integrators between data architects, data scientists, and other data consumers. they apply comprehensive knowledge of scripting tools, programming languages, standards, and software packages to research emerging technologies, and define and build the data pipelines that enable faster, better, data-informed decision-making within the agency 
+* integrate data management technologies and software engineering tools into data management systems 
+* design, build, and test algorithms, prototypes, predictive models, and proof of concepts
+
+band 05: data engineers oversee and guide the development, construction, testing, and maintenance of architectures such as databases and large-scale data processing systems. they clean, prepare, and optimize data for consumption through the design and construction of massive reservoirs for big data. they oversee and direct solutions to various levels of problems associated with database access integration and unstructured data sets to provide clean, usable data for customers and it counterparts. these engineers serve as an advisor for the relationship between data architects, data engineers, and data scientists. they apply expert knowledge of scripting tools, programming languages, standards, and software packages to research emerging technologies and facilitate innovation in the construction of data pipelines that enable faster, better, data-informed decision-making within the agency.
+* maintain robust internal network and facilitate collaboration with data architects, modelers, and it team members on project goals 
+* identify and recommend ways to improve data reliability, efficiency, and quality in existing data management systems; advise regarding feasibility of integrating emerging data management systems 
+* serve as advisor regarding data management technologies, software engineering tools, and facilitate the innovation of systems and tools
+
+
+
+
+
+                                                            supervisory status
+                                                        
+
+
+                                                        no
+                                                    
+
+
+
+
+
+who may apply
+this job is open to…
+external applicants only 
+
+
+questions? this job is open to 1 group.
+
+
+
+
+
+
+
+job family (series)
+
+
+                                                    2210 information technology management
+                                                
+
+
+similar jobs
+
+
+
+                                                                data engineer
+                                                            
+
+
+
+
+
+
+
+                                        requirements
+                                    
+
+
+ help
+                                        
+requirements
+ conditions of employment
+
+us citizenship is required.
+designated or random drug testing required.
+security investigation
+
+
+special info:- u.s. citizenship required
+- security clearance (top secret/sensitive compartmented information)
+- polygraph test required
+- position subject to drug testing
+- two year probationary period
+- direct deposit requiredspecial requirements:you must be able to obtain and retain a top secret security clearance with access to sensitive compartmented information. in addition, you are subject to a counterintelligence polygraph examination in order to maintain access to top secret information. all employees are subject to a periodic examination on a random basis in order to determine continued eligibility. refusal to take the examination may result in denial of access to top secret information, sap, and/or unescorted access to scifs.
+
+employees with sci access and who are under nga cognizance are required to submit a security financial disclosure report, sf-714, on an annual basis in order to determine continued eligibility. failure to comply may negatively impact continued access to top secret information, information systems, sap, and/or unescorted access to scifs. 
+
+ qualifications
+
+1) education: computer science, applied mathematics, management information systems, engineering, physical sciences, or any other technology related field;
+2) experience: software coding: c++ java, and/or statistics & modeling: r, python, and/or query languages: sql, nosql, and/or scripting: javascript, python, cloud services design, algorithm development, data visualization, big data /data modeling, machine vision & deep learning, optimization.
+
+
+
+education
+
+
+
+
+additional information
+
+
+
+read more
+
+
+ how you will be evaluated
+
+you will be evaluated for this job based on how well you meet the qualifications above.
+
+applicants are not required to submit a cover letter. the entire cover letter cannot exceed the specified limits provided in the cover letter field (3,000 characters). pages exceeding this limit will not be considered. the cover letter is recommended but is not required for employment consideration with the national geospatial-intelligence agency.applicant evaluation process: applicants will be evaluated for this job opportunity in three stages: 
+
+1) all applicants will be evaluated using the mandatory qualification criteria, 
+2) qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, 
+3) best-qualified applicants may then be further evaluated through an interview process. 
+
+applicants are encouraged to carefully review the assignment description, additional information provided by the selecting official, and the qualification requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. this description should include examples that detail the level and complexity of the performed work. applicants are encouraged to provide any education information referenced in the announcement. if education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the secretary, us department of education will be accepted.  
+
+as a condition of employment at nga, persons being considered for employment must meet nga fitness for employment standards.
+
+in accordance with section 9902(h) of title 5, united states code, annuitants reemployed in the department of defense shall receive full annuity and salary upon appointment. they shall not be eligible for retirement contributions, participation in the thrift savings plan, or a supplemental or redetermined annuity for the reemployment period. discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(a) of title 5, united states code) appointed to the department of defense may elect to be subject to retirement provisions of the new appointment as appropriate. (see dod instruction 1400.25, volume 300, at http://www.dtic.mil/whs/directives.)
+
+all candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation.
+
+nga provides reasonable accommodations to applicants with disabilities. applications will only be accepted online. if you need a reasonable accommodation for any part of the application and hiring process, please notify us at recruitment@nga.mil. the decision on granting reasonable accommodation will be on a case-by-case basis.
+
+read more
+
+background checks and security clearance
+
+
+security clearance
+
+
+                                                                    top secret/sci
+                                                                
+
+
+
+
+
+
+
+
+
+                                        required documents
+                                    
+
+
+ help
+                                        
+required documents
+
+
+                                                none
+                                            
+
+
+                                                        if you are relying on your education to meet qualification requirements:
+                                                    
+
+                                                        education must be accredited by an accrediting institution recognized by the u.s. department of education in order for it to be credited towards qualifications. therefore, provide only the attendance and/or degrees from
+                                                        schools accredited by accrediting institutions recognized by the u.s. department of education.
+                                                    
+
+                                                        failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+                                                    
+
+
+
+
+
+
+                                        benefits
+                                    
+
+
+ help
+                                        
+benefits
+
+
+                                                     a career with the u.s. government provides employees with a comprehensive benefits package. as a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding.
+                                                
+
+
+
+                                                            benefits for federal employees
+                                                        
+
+
+
+                                                            healthcare insurance
+                                                        
+
+
+
+                                                            pay and leave
+                                                        
+
+
+
+
+review our benefits
+
+
+eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. contact the hiring agency for more information on the specific benefits offered.
+
+
+
+
+
+
+                                        how to apply
+                                    
+
+
+ help
+                                        
+how to apply
+
+application submission involves applying using nga's on-line application process. application instructions can be found by visiting: http://www.intelligencecareers.gov/nga
+
+all announcements close at 11:59pm edt on the closing date listed. be sure to complete and submit your application by that time in order to be considered. 
+
+only electronic submissions will be accepted.
+
+read more
+
+agency contact information
+
+
+                                                recruitment
+                                            
+
+
+phone
+
+ 571-557-1999
+
+email
+
+
+                                                            recruitment@nga.mil
+                                                        
+
+
+
+address
+
+
+                                                        national geospatial-intelligence agency
+                                                        mailstop: s44-hdr
+7500 geoint drive 
+                                                        springfield,
+                                                        va                                                         
+                                                        us                                                       
+                                                    
+
+
+
+                                                    learn more about this agency
+                                                
+
+next steps
+
+
+after visiting https://www.nga.mil/careers and applying via nga's on-line application process, applicants can follow their status via that same nga on-line application functionality. several other topics relating to what is involved in the hiring process and how long it takes can be found by visiting http://www.intelligencecareers.gov/nga and choosing frequently asked questions.
+read more
+
+
+
+
+                                        fair & transparent
+                                    
+
+fair & transparent
+
+                                            the federal hiring process is setup to be fair and transparent. please read the following guidance.
+                                        
+ equal employment opportunity policy
+
+
+                                                the united states government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
+                                            
+
+
+
+                                                        equal employment opportunity (eeo) for federal employees & job applicants
+                                                    
+
+
+read more
+ reasonable accommodation policy
+
+
+                                                federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. determinations on requests for reasonable accommodation will be made on a case-by-case basis.
+                                            
+
+                                                a reasonable accommodation is any change to a job, the work environment, or the way things are usually done that enables an individual with a disability to apply for a job, perform job duties or receive equal access to job benefits.
+                                            
+
+                                                under the rehabilitation act of 1973, federal agencies must provide reasonable accommodations when:
+
+                                                
+an applicant with a disability needs an accommodation to have an equal opportunity to apply for a job.
+an employee with a disability needs an accommodation to perform the essential job duties or to gain access to the workplace.
+an employee with a disability needs an accommodation to receive equal access to benefits, such as details, training, and office-sponsored events.
+
+
+
+                                                you can request a reasonable accommodation at any time during the application or hiring process or while on the job. requests are considered on a case-by-case basis.
+                                            
+
+                                                learn more about disability employment and reasonable accommodations or how to contact an agency.
+
+read more
+ legal and regulatory guidance
+
+
+financial suitability
+
+
+
+                                                    social security number request
+                                                
+
+
+
+                                                    privacy act
+                                                
+
+
+
+                                                    signature and false statements
+                                                
+
+
+
+                                                    selective service
+                                                
+
+
+
+                                                    new employee probationary period
+                                                
+
+
+
+
+
+
+
+                            this job originated on www.usajobs.gov. for the full announcement and to apply,
+                            visit www.usajobs.gov/getjob/viewdetails/480935200.
+                            only resumes submitted according to the instructions on the job announcement listed at www.usajobs.gov will be considered.
+                        
+
+
+
+
+
+
+
+
+
+
+                view map
+            
+
+
+                    please wait while map is being generated.
+                
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+                beginning of a dialog window for the agency announcing this job. it begins with a heading 2 called "learn more about field operating offices of the office of the secretary of the army". escape will cancel and close the window.
+            
+
+
+                    learn more about
+                
+
+                    national geospatial-intelligence agency
+                
+
+
+
+
+
+
+agency contact information
+
+
+                            recruitment
+                        
+
+
+phone
+
+ 571-557-1999
+
+email
+
+
+                                        recruitment@nga.mil
+                                    
+
+
+
+address
+
+
+                                    national geospatial-intelligence agency
+                                    mailstop: s44-hdr
+7500 geoint drive 
+                                    springfield 
+                                    va 
+                                    us
+
+
+
+
+                            learn more about this agency
+                        
+
+
+
+
+visit our careers page
+
+                        learn more about what it's like to work at national geospatial-intelligence agency, what the agency does, and about the types of careers this agency offers.
+                    
+
+https://www.nga.mil/about/pages/default.aspx/
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+                beginning of a dialog window for your session has expired. escape will cancel and close the window.
+            
+
+your session is about to expire!
+
+
+
+
+your usajobs session will expire due to inactivity in three minutes.  
+                        any unsaved data will be lost if you allow the session to expire.  
+                        click the button below to continue your session.
+
+
+
+
+logoff
+stay logged in
+
+
+
+close
+
+
+
+
+
+
+
+return to top
+
+
+
+
+
+
+                        job applications
+                    
+
+ all
+
+
+ advancing
+
+
+ paused
+
+
+ stopped
+
+
+
+account
+
+home
+
+
+profile
+
+
+documents
+
+
+saved jobs
+
+
+saved searches
+
+
+username & password
+
+
+
+help
+
+help center
+
+
+about usajobs
+
+
+contact us
+
+
+faqs
+
+
+get started
+
+
+how to…
+
+
+
+                            working in government
+                        
+
+
+
+
+
+
+
+
+
+
+                    usajobs is a united states office of personnel management website.
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeo policy statement
+reasonable accommodation policy statement
+veterans information
+legal and regulatory guidance
+
+
+
+
+
+
+budget and performance
+foia
+inspector general
+no fear act data
+privacy policy
+usa.gov
+
+
+
+
+
+
+
+
+
+
+
+
+

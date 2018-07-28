@@ -1,0 +1,143 @@
+
+
+
+
+proteus digital health, inc. careers - data scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                                                    proteus digital health, inc. careers                                            
+
+
+
+
+
+
+
+                data scientist
+    
+    
+
+                            data science / data engineering            
+                    redwood city,
+                            california
+                
+                        
+
+
+
+        apply
+    
+
+
+description
+
+finding a good job is very good.finding a good job in a dynamic, growing company is great.finding a great job in a world-changing organization is a once-in-a-lifetime opportunity.welcome to proteus digital health, where we’re pioneering a new category of products, services and data systems based on ingestible computing. our core technology – the digital health feedback system – provides an unprecedented view into an individual’s personal health choices and physiologic response. this care-altering feedback system enables patients to better manage their health, allows more effective collaboration with caregivers and clinicians, all while enabling new information-based business models.what amazon did with books, and apple did with music, proteus is poised to do with digital medicine. come join our unique collection of innovative scientists, engineers, market makers, designers, doctors, developers, clinicians, and other digital health industry pioneers, and help us dramatically improve the lives of tens of millions across the globe. learn more about what we do (video): https://proteus.app.box.com/buildersandinnovatorsthe data science team works to define, design, develop and test algorithms in the health/wellness space. you will work with multiple data sources, including proteus' proprietary ingestible and wearable sensors and electronic medical records (emr) data. our current projects include:using emr data to aid in patient selection for our proteus discover products.analyze treatment data to optimize clinical patient outcomes.improve the signal processing algorithms of our device and sensor data.prototype new data product features.investigate the entire production and clinical product pipeline to pinpoint bottlenecks of growth.visualize results to drive business decisions.  required:ph.d., ms + 2 years work experience, or b.s. + 4 years work experience in a relevant stem field (for example physics, eecs, computational biology, math).hands on experience of machine learning and data mining: classification, clustering, time-series analysis, and recommender systems; must be comfortable working with real data.strong experience developing data-driven platform technologies, including: data modeling, data collection and aggregation, and analytics.significant statistical knowledge, such as probability theory, multivariate analysis, and sampling.production level programming skills in python and pyspark.experience with data base managing systems, such as hadoop, hive, sql, non-sql.experience in agile software development and using repositories like git.a technical leader who can wrangle and analyze data to generate insights, make proactive recommendations and socialize them to both internal and external stake holders.entrepreneurial nature with an appreciation for business opportunities and a strong passion for solving difficult problems.excellent written and verbal communication skills.passion for technology and the medical device/digital medicine space.ability to work and enjoy a fast-paced startup type environment.highly organized with great attention to details. bonus:experience in health care or wearable devices.experience using aws (e.g. kinesis, redshift, s3).previous experience using bi tools like tableau.experience with natural language processing, nlp.   
+
+
+
+
+        apply
+    
+
+        apply later    
+
+
+            ← back to current openings        
+
+
+
+
+share
+
+
+
+
+
+linkedin
+
+
+
+
+facebook
+
+
+
+
+twitter
+
+
+
+
+email
+
+
+
+
+
+
+similar jobs
+
+
+
+
+
+                                    {{ job.title }}
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+powered by jobvite
+
+
+
+
+
+
+
+
+

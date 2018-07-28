@@ -1,0 +1,223 @@
+
+
+
+
+job application for data engineer at reonomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at reonomy
+      
+(view all jobs)
+
+        flatiron, nyc (hq)
+      
+
+
+about reonomy
+reonomy, a technology company headquartered in new york city, is revolutionizing the commercial real estate world. reonomy creates intuitive products designed to help cre professionals achieve success by easily finding the information they need. by combining comprehensive and validated data with powerful analytics, our customers make faster, more informed decisions. our investors include bain capital ventures, softbank capital, and primary venture partners.
+you will:
+ 
+
+build and maintain our data pipelines using scala, spark (via emr), and aws data pipelines.
+build algorithms to match, dedupe, and normalize 100s of millions of commercial properties, companies, and people.
+help drive optimization, testing, and tooling to improve data quality.
+work with other teams to debug and fix data issues.
+
+what we're looking for:
+
+3+ years experience, comfortable working independently
+experience with scala, spark, and sql
+bonus: familiarity with aws, elasticsearch, git/github, postgresql, and python
+
+benefits:
+
+competitive salary
+company stock options
+medical, vision and dental health coverage
+office perks: catered lunches 3x/week, unlimited snacks, team happy hours, citi bike membership, fitness discounts
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile *
+
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

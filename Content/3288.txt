@@ -1,0 +1,306 @@
+
+
+
+        software engineer-infrastructure -        bossanova robotics -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova, we create service robots for the global retail industry. our robots' mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we are passionate about solving big problems and bringing solutions to our customers. we are growing fast and have many exciting open positions. if you are up to the challenge, we want to hear from you.  
+
+
+
+software engineer-infrastructure
+
+
+pittsburgh, pa                    
+
+full time                
+
+software engineering                    
+
+experienced                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at bossa nova we create service robots for the global retail industry. our robots’ mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. we drive autonomously through aisles, navigating safely among customers and store associates. if we were a self- driving car we’d be operating at level 5 autonomy.
+oh, we should add, it’s real, happening today, you can meet our robots in some of the world’s biggest retailers.
+position: software engineer- infrastructure
+location: pittsburgh
+responsibilities:
+
+develop systems to manage and monitor a large, distributed fleet of autonomous robots
+design and build continuous integration systems, both traditional (purely software) and physical
+troubleshoot a wide-variety of issues which might occur on robot systems, anywhere from robot to cloud
+collaborate with various teams to harden and maintain robot security
+
+qualifications:
+
+experience with source control (git, svn, cvs, etc.)
+experience with configuration management tools (preferably ansible)
+experience with automated build tools (e.g., jenkins)
+experience with virtualization and containerization (docker)
+experience with scripting languages (preferably python and bash)
+experience with cloud services (azure, aws, etc.)
+good debugging and troubleshooting skills
+strong communication skills
+ability to work in a rapidly evolving environment
+minimum degree: bs in related field (cs, ee, etc.)
+us work authorization
+
+nice to have:
+
+background in networking and related protocols and technologies (tcp/ip, ssh, vpn, dns, ldap, iperf, tcpdump, wireshark and other debugging tools)
+experience with java, c++, c
+experience with ros
+experience with sql, nginx, kubernetes, docker swarm, etl tools
+availability for travel
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+
+
+
+
+
+
+apply with
+
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

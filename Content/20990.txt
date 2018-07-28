@@ -1,0 +1,271 @@
+
+
+
+software design engineer sr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+home
+search jobs
+create account
+log in
+help
+
+
+
+
+
+
+
+
+software design engineer sr
+
+bookmark this posting |
+    print preview |
+        apply for this job
+
+
+
+announcement
+
+
+
+details
+
+
+
+open date
+09/20/2017
+
+
+requisition number
+prn15336b
+
+
+job title
+software design engineer sr
+
+
+working title
+software design engineer sr
+
+
+job grade
+g
+
+
+flsa code
+computer employee
+
+
+patient sensitive job code?
+no
+
+
+standard hours per week
+40
+
+
+full time or part time?
+full time
+
+
+shift
+day
+
+
+work schedule summary
+m-f; 8-5
+
+
+vp area
+u of u health - academics
+
+
+department
+00952 - division of epidemiology
+
+
+location
+campus
+
+
+city
+salt lake city, ut
+
+
+type of recruitment
+external posting
+
+
+pay rate range
+60700 to 101649
+
+
+close date<br /><br /><strong>note:</strong> may close at anytime.
+
+
+
+open until filled<br /><br /><strong>note:</strong> may close at anytime.
+yes
+
+
+job summary
+the division of epidemiology within the department of internal medicine at the university of utah seeks a highly motivated software developer with a strong java back-end component design and building experience, including sql and etl skills.  designs, modifies, develops, writes and implements software programming applications for all in-house cutting-edge research tools. participates in the testing process.
+
+
+responsibilities
+-	java back-end component design and building (java 8, spring, groovy)
+-	building and consuming web services. (rest-based)
+-	developing backed services and front end uis (html, css, bootstrap, angular)
+-	be familiar with or willing to learn bpmn 2.0 xml notation and generation (activiti editor).
+-	familiarize with existing java web service and java-wrapped etl codebase. 
+a.	modify existing etl code to implement new dcp-specific features
+b.	develop stored procedures and/or views to transform generated data into a format that is consumable for the study team (for example, understand the variables stored within a particular workflow in order to extract them into a view or a table which the study statisticians can extract from)
+c.	design new workflows so that back-end actions triggered from the workflow via a web service can be handled correctly (occasionally, may need to edit or generate workflows in case someone is away for example)
+-	building back-end services to consume variables passed from the application. 
+-	packing and deployment of applications to tomcat 
+designs, develops, and implements software packages for websites.
+
+
+minimum qualifications
+requires a bachelor’s degree in a related area or equivalency and 4-6 years of experience in the field or in a related area.
+applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description.
+
+
+preferences
+-	strong java, sql and etl skills
+-	demonstrated experience with ability to debug and modify existing java-wrapped sql prepared statements, and convert them into sql stored procedures as applicable.
+-	demonstrated experience working remotely with teams across the globe.
+-	strong organizational and interpersonal skills, demonstrated ability to work in a collaborative team-based environment.
+
+
+type
+benefited staff
+
+
+special instructions summary
+
+
+
+additional information
+
+the university of utah is an affirmative action/equal opportunity employer and is committed to diversity in its workforce.  in compliance with applicable federal and state laws, university of utah policy of equal employment opportunity prohibits discrimination on the basis of race or ethnicity, religion, color, national origin, sex, age, sexual orientation, gender identity/expression, veteran’s status, status as a qualified person with a disability, or genetic information.  individuals from historically underrepresented groups, such as minorities, women, qualified persons with disabilities, and protected veterans are strongly encouraged to apply. veterans’ preference is extended to qualified applicants, upon request and consistent with university policy and utah state law.
+to inquire about this posting, email: employment@utah.edu or call 801-581-2300.  reasonable accommodations in the application process will be provided to qualified individuals with disabilities. to request an accommodation or for further information about university aa/eo policies, please contact the office of equal opportunity and affirmative action, 201 s. presidents cr., rm 135, (801) 581-8365 (v/tdd), email: oeo@umail.utah.edu. 
+
+the university is a participating employer with utah retirement systems (“urs”). to be eligible for retirement contributions, you must be hired into a benefit-eligible position. certain new hires are automatically assigned to the urs retirement plan and other employees with prior urs service, may elect to enroll in the urs within 30 days of hire. regardless of whether they are hired into a benefit-eligible position or not, individuals who previously retired and are receiving monthly retirement benefits from urs must notify the benefits department upon hire. please contact utah retirement systems at (801)366-7770 or (800)695-4877 or the university’s benefits department at (801)581-7447 for information.
+
+this position may require the successful completion of a criminal background check and/or drug screen.
+
+
+
+
+
+
+posting specific questions
+
+required fields are indicated with an asterisk (*).
+
+ * 
+  do you have a related bachelor's degree or equivalency? (2 years related work experience may be substituted for 1 year of education)
+    
+yes
+no
+
+
+
+
+applicant documents
+
+required documents
+
+resume
+
+optional documents
+
+cover letter
+appropriate discharge document (such as a dd-214 – member copy 4) – veteran only – call 801.581.2169
+addendum to the university of utah - veteran only - call 801.581.2169 after submission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

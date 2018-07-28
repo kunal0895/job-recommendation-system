@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ applied machine learning engineer ii
+
+
+
+
+
+
+
+
+
+digital thieves are getting more sophisticated and harder to detect and stop and our customers are looking up to us to protect their accounts, subscriptions, data, and services from compromise - whether in their own data centers, microsoft’s cloud environments, or other environments. proactive measures, including infrastructure security improvements, privileged identity management and multi-factor authentication, are only part of the solution.  &nbsp  as an engineer in our team in c+e security division you are uniquely positioned to apply machine learning techniques to detect unseen patterns of malicious and suspicious behavior. you will develop detection algorithms that will be applicable across multiple services and data sources, enabling us to build detections at scale, and keeping up with constantly changing threat landscape. your detections will create a multiplier effect on security analyst’s investigations, resulting in reducing their burden and increasing their effectiveness. feedback from first-party and third-party customers is incorporated into our detections to continuously improve their efficacy. we are leveraging a unique combination of security research and machine learning to develop the leading edge of enterprise security intelligence. come be part of this exciting new generation of security analytics!  &nbsp job responsibilities include:• &nbsp&nbsp&nbsp&nbsp develop high-performance machine learning systems for detecting abnormality, intrusion, masquerading, etc.• &nbsp&nbsp&nbsp&nbsp deliver end to end solutions to analyze data that originates from users, services, or other automated systems.• &nbsp&nbsp&nbsp&nbsp develop infrastructure as required to enable new experiences in cloud security intelligence by deriving meaning from vast array of data about users and their activity.• &nbsp&nbsp&nbsp&nbsp actively engage other teams across the company to identify security scenarios where machine learning/applied statistics can be used, and lead the development of solutions to these problems.• &nbsp&nbsp&nbsp&nbsp act as an expert in machine learning/statistics to serve the growing needs of c+e security.• &nbsp&nbsp&nbsp&nbsp provide technical leadership to other developers basic qualifications:• &nbsp&nbsp&nbsp&nbsp 2+ years of education or professional experience in applying machine learning and data mining techniques to real problems with copious amounts of data.• &nbsp&nbsp&nbsp&nbsp 2+ years of experience developing production quality code in a professional software engineering role.preferred qualifications:• &nbsp&nbsp&nbsp&nbsp strong algorithmic background and experience applying knowledge to solve real problems.• &nbsp&nbsp&nbsp&nbsp experience with very large-scale data processing/analysis (a.k.a. big data).• &nbsp&nbsp&nbsp&nbsp strong c++ and/or c# skills (c# preferred) and understanding of software design patterns.• &nbsp&nbsp&nbsp&nbsp experience developing high-performance service-oriented solutions.• &nbsp&nbsp&nbsp&nbsp ability to work independently to actively identify and drive solutions for evolving business problems.• &nbsp&nbsp&nbsp&nbsp a graduate degree in computer science is highly desired. candidates with a graduate degree in related fields (e.g. statistics, mathematics, physics) with applied practical experience and programming background are also desirable.ability to meet microsoft, customer and/or government security screening requirements are required for this role. these requirements include, but are not limited to the following specialized security screenings:  &nbsp microsoft cloud background check: this position will be required to pass the microsoft cloud background check upon hire/transfer and every two years thereafter.  &nbsp microsoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. if you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+322910
+1073619
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, redmond (wa)
+
+
+
+
+
+
+job families
+
+
+
+
+
+development (engineering)
+
+
+
+
+
+
+teams
+
+
+
+
+
+cloud and enterprise
+
+
+
+
+
+
+
+
+
+
+empower your future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,821 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+bioinformatics scientist ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why chop?
+diversity & inclusion
+partnerships
+residents & fellows
+for chop employees
+
+
+
+menu 
+
+why chop?
+diversity & inclusion
+partnerships
+residents & fellows
+for chop employees
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 mi
+5 mi
+10 mi
+30 mi
+50 mi
+
+
+
+
+
+
+
+
+
+search by postal code
+search by location
+
+
+
+
+
+
+
+
+
+
+
+view profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 mi
+5 mi
+10 mi
+30 mi
+50 mi
+
+
+
+
+
+
+
+
+
+search by postal code
+search by location
+
+
+
+
+
+
+
+
+
+share this job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+ create alert
+
+
+
+
+
+
+×
+
+
+send me alerts every  days
+        alert frequency in every certain days
+
+
+
+
+
+
+
+
+
+
+
+bioinformatics scientist ii
+
+date: 
+nov 21, 2017
+                
+
+
+location: 
+philadelphia, pa, us, 19104
+
+
+company: 
+chop
+
+
+apply now »
+
+
+
+job description
+req id: 5361
+shift: days
+employment status: af - active - regular - full time 
+job summary the bioinformatics scientist ii will apply knowledge of bioinformatics algorithms and analysis platforms to consult with investigators on their projects and to serve as a collaborative investigator in academic output including assistance in experimental design and writing, including creation of scientifically rigorous visualizations, communications, and presentations of results. the scientist will be working with a diverse, highly skilled, team-oriented  laboratory and clinical oncology team in the maris lab at chop.  the candidate will process sequencing data both in local clusters as well as through cloud services. candidates must be able to show proficiency in development of analysis systems, such as pipelines and automation for analysis of high-throughput data. candidates will have an excellent understanding of the strengths and limitations of commonly used data generating platforms as they apply to experimental endpoints and will readily be able to set expectations and defend results through frequent and direct communication with collaborators.
+job responsibilities pre-analysis (20%): contribute to the development of application portfolio by developing knowledge of internally developed systems, open-source programs, and commercial applications. provide efficient data management support.
+
+use standard pipelines for data processing and manipulation in advance of performing analysis in a manner that best enables the analysis plan
+contribute to the development of additional pipeline functionality and changes by providing knowledge of both collaboration-specific requirements and bioinformatics discipline advances
+advocate for specific collaboration requirements for continual advancement of  shared pipeline and code resources
+provide collaboration-specific transparency for data processing and pre-analysis, including sample- and cohort-level status
+
+coding (20%): code and generally support code and applications on behalf of collaborative project and/or team.
+
+within the context of the collaboration or project, develop and apply best practices to code development:
+	
+establish requirements with the project team
+review existing applications and code sources (both commercial and open source) and selection of best strategy for development or adoption
+advocate for chosen strategy to project team by showing value of approach
+
+
+develop best practices for project-based code development, qc, and execution consist with the expectations of specific collaborations
+regularly seek peer-to-peer code reviews by participating in informal and formal critical code reviews
+
+data analysis (20%): analyze data of high complexity by applying sound statistical and commonly accepted bioinformatics methods to -omics data primarily under the direction of the collaborative project team
+
+develop robust analysis plans independently with regular peer-to-peer review in both informal and formal settings
+incorporate more advanced applications and methods into analysis
+develop at least one “specialty” analytical or biomedical area that serves the collaborative team
+
+collaboration (20%): establish role within collaborative project team as primary bioinformatics resource
+
+contribute to and influence project-level management by serving as bioinformatics point
+define and promote boundaries of support by assessing all stakeholders, including bioinformatics management, collaborator expectations, and funding levels and mechanisms
+regularly discuss satisfaction and expectations with collaborators; continually advocate for clear understanding of role
+develop new collaborations with high degree of supervision
+
+academic output (20%): develop presentations, grant sections, and manuscript sections with subsequent review by peers and mentors.
+
+regularly contribute to bioinformatics-focused manuscripts and publications
+regularly contribute to podium presentations and posters
+contribute to bioinformatics sections of grant and award proposals
+
+job responsibilities (continued)  job responsibilities (continued)  required licenses, certifications, registrations none required education and experience •         ms or ph.d. in a biological, computational or related discipline.
+•         at least three to five (3-5) years experience in applied bioinformatics, genomics and computational work.
+•         working experience with next generation sequencing data using common tools, including bwa, novoalign, star, gatk, freebayes, samtools, picard, snpeff, bedtools, tabix, and other tools and resources, e.g. sequence retrieval, alignment and clustering techniques, expression profiling and protein related analysis, using major databases and data standards in the field.
+•         working knowledge and deep understanding of algorithms, data structures, and scientific programming, including workflow management packages
+•         proficiency with the minimum programming languages of python, perl, and r.
+•         pipeline development, analysis, and troubleshooting experience with multi-omics data including whole genome and exome, rna-seq, targeted sequencing, chip-seq, atac-seq, snp and methylation arrays
+•         proficiency in unix/linux operating systems.
+•         ability to work efficiently on multiple projects.
+•         strong working knowledge of statistics including but not limited to hypothesis testing tools, power analysis, and the ability to aid researchers in experimental design
+•         ability to communicate scientific and informatics concepts to a wide range of audiences.
+•         ability to work independently with minimal guidance while consistently exercising good judgment.
+•         ability to work in a academic team environment
+•         excellent interpersonal skills to interact with both research and technical staff.
+•         familiarity with repositories of genomic data sets and analysis tools, such as ucsc genome browser, bioconductor, encode, and ncbi databases.
+ 
+ 
+preferred education, experience & cert/lic •         experience in high performance computing and cluster environments and cloud computing is highly desirable.
+•         knowledge and biological understanding of common library preparation technologies, including those from cgi, illumina, and lifetechnologies
+•         ability to independently research different analysis tools and parameters within each to come up with the most appropriate tool and workflow for answering relevant biological questions (e.g.: testing multiple algorithms for sensitivity and specificity)
+•         prior experience in oncology is very desirable but not required.
+•         strong working knowledge or training in advanced biomedical research.
+•         knowledge of technologies commonly used in biological labs, such as pcr, cloning, electrophoresis gels, and cell culture.
+•         familiarity with broadly used machine learning algorithms
+additional technical requirements 
+accountability and attention to timelines.
+excellent organization and communication skills with an emphasis on strong presentation skills.
+ability to work in a team environment.
+
+ 
+all chop employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.
+children's hospital of philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. in an effort to achieve this goal, employment at children's hospital of philadelphia, other than for positions with regularly scheduled hours in new jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+children's hospital of philadelphia is an equal opportunity employer. we do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+vevraa federal contractor/seeking priority referrals for protected veterans.  please contact our hiring official with any referrals or questions.
+chop careers contact 
+talent acquisition
+2716 south street, 6th floor
+philadelphia, pa 19146 
+phone: 866-820-9288 
+email:talentacquisition@email.chop.edu
+ 
+ 
+
+
+
+nearest major market: philadelphia
+                    
+                
+
+job segment: 
+oncology, medical, patient care, cloud, healthcare, research, technology
+                    
+
+
+
+
+apply now »
+
+
+
+
+find similar jobs: 
+
+unix jobs in philadelphia,
+oncology jobs in philadelphia,
+medical lab jobs in philadelphia,
+data management jobs in philadelphia,
+data analyst jobs in philadelphia
+
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+sign in
+
+
+we noticed that you are already a member of our talent community. please enter your password to continue.
+
+
+
+email*
+ not you?
+
+
+password*
+
+
+
+forgot password?
+
+
+submit  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+we noticed you have accounts in our “talent community" and “application" systems. we take security seriously and need to verify your identity to synchronize your accounts.
+
+
+account email:
+
+
+
+
+
+please follow these steps to synchronize your accounts.
+
+
+1. reset your password:
+
+the "reset password" link will open in a new browser window. return to this page to enter your new password.
+
+click here to reset your password
+
+
+
+
+2. enter your new password here:
+
+
+
+
+
+
+
+submit  cancel
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+account verification
+
+
+your accounts have been successfully synchronized. use your new password when accessing our systems.
+
+
+
+confirm
+
+
+
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+already a member
+
+
+you are already a user of this site. please sign in.
+
+
+
+email* 
+ not you?
+
+
+
+password*
+
+
+
+forgot password?
+
+
+sign in  cancel
+
+
+* required field
+
+
+
+
+
+
+×
+start your application
+
+
+
+
+existing users
+
+
+
+email*
+
+
+
+password*
+
+
+
+forgot password?
+
+
+
+sign in 
+
+* required field
+
+
+
+
+new users
+create a new account now!
+
+start your application
+receive email updates
+join our talent community
+
+create
+
+
+
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+×
+create profile
+
+
+
+
+
+                    working...
+
+next »
+
+
+
+
+
+
+
+
+
+
+
+
+                34th st and civic center blvd
+                philadelphia, pa 19104
+   
+                   
+                
+
+
+
+top job searches
+view all jobs
+
+tobacco statement
+
+
+
+
+×
+tobacco statement
+x
+
+
+the children’s hospital of philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees.  in an effort to achieve this goal, employment at the children’s hospital of philadelphia, other than for positions with regularly scheduled hours in new jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+
+
+
+
+
+
+equal opportunity employer
+
+
+
+
+×
+equal opportunity employer
+x
+
+
+the children's hospital of philadelphia is an equal opportunity employer. we do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+
+
+
+
+
+
+
+© the children’s hospital of philadelphia
+terms of use
+privacy policy
+ethics & compliance
+chop.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

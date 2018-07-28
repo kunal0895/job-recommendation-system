@@ -1,0 +1,146 @@
+
+
+
+
+
+
+php developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            php developer        
+
+
+
+
+
+
+
+
+
+
+
+
+
+ return to job opportunitiesjob detailslevel experiencedjob location matthews - matthews, ncposition type full timeeducation level bachelors degreesalary range undisclosedtravel percentage nonejob shift dayjob category information technologydescription at conbraco industries, we have the best flow control device and total piping system portfolio in the industry. our goal is to make it an easier and better buying experience by being the only organization that offers a complete line of flow control devices and piping systems solutions. we feature a full range of connections, including push, press, thread, groove, sweat, and crimp to fit your commercial, industrial, and backflow prevention needs. at conbraco, we recognize the importance of providing our employees with a good work environment and an excellent benefits package.
+we are looking for a php developer responsible for managing back-end services and the interchange of data between the server and the users. you will be a part of a full-stack creative team that is responsible for all aspects of the ongoing application development from the initial specification, through to developing, testing and launching. your primary focus will be the development of all server-side logic, definition and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end. you will also be responsible for integrating the front-end elements built by your co-workers into the application. therefore, a basic understanding of front-end technologies is necessary as well.
+ 
+responsibilities
+design, estimate, and code new features based on best practices and coding standards
+integrate user-facing elements developed by front-end developers
+perform code reviews of your team members' work
+solve complex performance problems and architectural challenges
+troubleshoot, test and maintain the core applications and databases to ensure strong optimization and functionality
+contribute in all phases of the development lifecycle
+qualifications strong knowledge of php web frameworks such as laravel, codeigniter
+understanding the fully synchronous behavior of php
+understanding of mvc design patterns
+basic understanding of front-end technologies, such as javascript, html5, css3, ajax
+knowledge of object oriented php programming
+understanding accessibility and security compliance
+strong knowledge of the common php or web server exploits and their solutions
+understanding fundamental design principles behind a scalable application
+user authentication and authorization between multiple systems, servers, and environments
+creating database schemas that represent and support business processes
+familiarity with sql/nosql databases and their declarative query languages
+proficient understanding of code versioning tools, such as git
+good knowledge of relational databases, version control tools and of developing web services
+experience in common third-party apis (google, facebook, ebay, etc)
+passion for best design and coding practices and a desire to develop new bold ideas
+bs/ms degree in computer science, engineering or a related subject
+ return to job opportunities 
+
+
+
+
+first time user?
+create account
+
+
+
+returning user? please sign in!
+
+
+sign in
+
+forgot password?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

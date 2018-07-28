@@ -1,0 +1,229 @@
+
+
+
+
+job application for backend engineer at bonsai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend engineer
+
+        at bonsai
+      
+(view all jobs)
+
+        seattle
+      
+
+
+software engineer, backend
+ 
+bonsai is looking for a talented and passionate backend software engineer to join our backend services team to help build, run, and scale our ai platform. bonsai’s backend team owns the systems that tie our software together into a cloud platform: our http api, microservice and machine learning job orchestration services, cluster provisioning and monitoring, system capacity, and data storage systems. as a backend engineer at bonsai, you’d contribute to all of those pieces.
+ 
+responsibilities
+ 
+
+design, build, improve and maintain scalable, highly available microservices in python
+find system performance bottlenecks and fix them
+build and improve infrastructure automation
+provision and manage bonsai brain cloud deployments
+monitor, diagnose and fix production issues
+improve engineering standards, tools and processes
+
+ 
+skills and experience
+
+at least 2 years of industry experience as a backend software engineer or similar
+familiarity with docker or other containerization technologies
+proficiency with a general purpose language like python or c++
+experience working with linux and cloud platforms (aws, azure, etc)
+a passion for high quality code
+
+this position is based out of bonsai’s satellite office in seattle, washington.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+
+              location (city)
+            
+
+
+
+resume/cv
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,280 @@
+
+
+
+    software engineer at label insight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+label insight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+chicago, illinois, united states
+full-time
+
+
+
+
+
+we are looking for a mid-senior level software engineer to join our label insight xfn team. with your creds, including but not limited to those listed below, you'll be a key member of the engineering team, helping us to improve and scale our existing architecture and systems.  this position will report directly to the director of engineering.
+your creds:
+
+experience developing multi-tier web applications.
+experience in object-oriented development with java and familiarity with frameworks and tools including spring.
+experience building and integrating with rest apis.
+understanding of data formats (json, json-ld, csv, xml, etc).
+experience with nosql systems including dynamodb, cassandra, and/or elasticsearch.
+experience with rdbms systems including mysql and/or postgresql.
+experience with aws services including sqs, swf, and lambda is preferred.
+understanding of event-driven, real-time design.
+willing to support continuous delivery through tools such as elastic beanstalk, circleci, terraform, and ansible.
+familiar with the agile methodology.
+3 to 4 years work experience 
+good communications skills and a desire to mentor other engineers.
+
+experience preferred in at least one of the following areas:
+
+streaming technologies such as kafka or kinesis.
+machine learning or natural language processing (nlp) technologies.
+creating efficient algorithms and mathematical solutions to build performant features.
+experience with etl data flow frameworks such as apache nifi, spring xd, mule or similar integration frameworks.
+strong experience with data modeling.
+
+who we are:
+label insight is high-growth technology company founded with the mission of helping cpg companies and retailers to help their consumers understand what’s in the products they use and consume. our world class saas data platform is transforming the way brands and retailers interact with and share product data in order to bring product transparency to the consumer.
+our team is unique because it’s comprised not only of tech engineers and data scientists, but food science, nutrition experts and product formulation specialists, that enable the enriched attribution capability of our tools. we’ve also attracted top senior executive talent with decades of leadership experience to help manage our rapid growth and scale.
+our values:
+as a team, we share a common set of values: we are innovative problem solvers. we believe in transparency, both in our product and in our work. we have curious minds and aren’t afraid to challenge the status quo. we value scientific inquiry. we aren’t afraid to take risks, and fail fast to learn fast and improve fast. we embrace uniqueness. we are lifelong learners and we value intellectual honesty.
+perks of the job:
+
+unlimited paid vacation
+flexible work hours
+kitchen stocked with snacks, drinks, a kegerator and more!
+casual, dog-friendly, open-layout workspace
+company subsidized health insurance, and 401(k) and commuter benefits
+competitive salary and stock options
+catered team lunches every other week
+mentorship opportunities
+regular team events and happy hours
+maternity/paternity leave
+
+check out more about label insight, our culture, and our employees here.
+
+
+
+
+
+apply for this opening
+
+
+
+
+
+                                        apply with linkedin
+                                    
+
+
+
+
+
+
+                                    apply with indeed
+                                
+
+
+apply for this opening at 
+                        http://labelinsight.recruiterbox.com/jobs/fk0mu51?apply=true
+
+
+
+ other openings at label insight
+                                
+see all the jobs at label insight here: 
+                                    http://labelinsight.recruiterbox.com/jobs
+                                
+
+
+
+
+
+
+                        fetching your linkedin profile ...
+                    
+
+
+
+application form
+
+
+
+
+                        apply with linkedin
+                    
+
+
+
+
+
+                        apply with indeed
+                    
+
+
+
+
+
+
+                        first name
+                         *
+                    
+
+
+
+
+                        last name
+                        
+                    
+
+
+
+
+                        email
+                         *
+                    
+
+
+
+
+                        phone
+                         *
+                    
+
+
+
+
+                        resume
+                         *
+                    
+
+
+
+
+                        cover letter
+                        
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thanks for your time
+
+
+
+
+
+apply for this opening
+
+
+
+                    apply with linkedin
+                
+
+
+
+                    apply with indeed
+                
+
+share this opening with friends
+
+
+
+
+
+
+
+
+ other openings at label insight
+                    
+see all the jobs at label insight here: 
+                        http://labelinsight.recruiterbox.com/jobs
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+recruiterbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

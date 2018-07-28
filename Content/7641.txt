@@ -1,0 +1,305 @@
+
+
+
+        data coordinator -        blueocean market intelligence -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+great intelligence requires knowledgeable and experienced people who are familiar with our client's industry and the challenges they face every day. it takes attention to detail, a commitment to uncovering insights that inspire action and a relentless focus on doing things right the first time.truly, blueocean market intelligence's greatest strength lies within our people. our depth of knowledge, ingenuity and the way we work as one seamless, integrated, goal-oriented team allows us to inspire creativity in those with whom we interact.so, whether you are just beginning your career in analytics, market research or digital, or bringing a wealth of expertise, you will discover that we offer an exciting blend of cultures, experiences and professional rewards.if you meet our position requirements and can see yourself at blueocean market intelligence, we invite you to apply. 
+
+
+
+data coordinator
+
+
+portland, or                    
+
+full time                
+
+data analytics, digital analytics                    
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+responsibilities:
+
+facilitate the collection, management, extraction and organization of marketing data from multiple source systems, in order to enable the reporting, analysis and insights functions in the region.
+create and manage data extraction, transformation and delivery processes which enable campaign analysts and other stakeholders to perform their analysis.
+partner and coordinate with marketing and analytics teams and other organizations within client to connect online and offline data, in order to enable consistent regional and global reporting and analysis programs.
+proactively sharing data collection best practices across the regional marketing teams in predefined reporting templates and formats.
+drive data governance across data sources, work with agencies on an intake model.
+coordination of work with the agencies, sharing and adjusting the data collection templates.
+ensuring proper codes and pixels are put together to allow data collection for the kpi reporting.
+responsible for providing technical stewardship in the bigdata space, with hands-on design, coding and visualizing capabilities. should be instrumental in evangelizing next generation infrastructure and database techniques.
+should bring strong technology leadership to drive high quality work in the areas of data analytics, data visualization with big data, distributed and cloud computing.
+ability to work with stakeholders independently and able to coordinate with team members spread across different geo locations.
+willingness to continuously learn, upgrade skills and train others.
+ability to create and manage data extraction, transformation and delivery processes as per client requirements.
+prior experience to create, manage and connect large datasets.
+
+skills & experience required:
+
+4+ years of experience in managing data processes.
+weightage will be given to candidates who have prior experience working with large multi-national clients.
+tool knowledge:
+
+
+etl- talend, pentaho, ssis
+database – sqlnosql , postgresql , aws (redshift), oracle, mongodb, hbase
+hadoop ecosystem ( cloudera) –mapr, hdfs, pig, hive, spark, flume, sqoop, r, solr
+automated reporting systems (origami etc.)
+data – jason , xml, flat files, soap, rest
+data access management
+expertise in ms excel and powerpoint 
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

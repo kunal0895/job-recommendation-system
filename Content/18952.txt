@@ -1,0 +1,236 @@
+
+
+
+
+job application for gradle enterprise — front-end engineer at gradle inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+gradle enterprise — front-end engineer
+
+        at gradle inc.
+      
+(view all jobs)
+
+        worldwide
+      
+
+
+we are looking for a passionate and experienced front-end engineer to join our growing gradle enterprise team.
+about gradle enterprise
+gradle enterprise is a saas platform that derives insights from our customers' gradle build metadata and presents them in a thoughtfully crafted, fast and feature-rich ui. our ui stack is a component-based react application written in esnext, uses sass for styling, and is all bundled by webpack. the quality of the application is ensured through thousands of jest unit tests and hundreds of automated browser functional tests. the ui build is tightly integrated into an overall highly-optimized gradle build, making the development workflow very effective. 
+our front-end engineers are experts in web technologies, passionate about using the best available tools, and enjoy staying apprised of the rapidly-evolving front-end ecosystem. they always strive for the highest quality while keeping pragmatic solutions in mind. above all, we are committed to our mission of build happiness by delivering a delightful, polished user experience that helps make other engineers happier and more productive.
+about gradle
+our product is lovingly crafted by exceptionally committed and skilled developers, product designers, and marketing experts. everyone at gradle cares deeply about our company, our products, our customers, and the build automation domain in general. our team is globally distributed but interacts daily through various communication channels. we value interpersonal relationships and meet in-person several times a year to connect as a group.
+working at gradle right now means participating in the formative development of a product that will become a pillar of the gradle company and community as a whole. delivering on this promise demands finding the right balance between perfection and speed, and quality and quantity. our team embraces these challenges and thrives on the prospect of delivering a product that can tangibly improve the work-lives and productivity of our customers.
+ensuring a diverse and inclusive workplace where we learn from each other is essential to our values. we welcome people of different backgrounds, experiences, abilities and perspectives.
+about you
+our ideal candidate has demonstrated ability in designing and implementing scalable, testable, and extensible react-based architectures. while not a designer, they do exhibit a honed intuition for visual and user experience design. they thrive on challenging ui problems, understand the nuances of performance optimization, possess and can capably articulate strong opinions, and feel comfortable collaborating with a distributed team.
+if you feel your experience, technical skills, and personality would be a good fit, and you align with our mission to make engineers happier and more productive, get in touch with us today. please fill out the job application form below and ensure you include your current cv and a cover letter describing your motivation to join gradle.
+we would love to hear from you.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+what timezone are you located in?
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

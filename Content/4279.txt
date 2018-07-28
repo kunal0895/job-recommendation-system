@@ -1,0 +1,209 @@
+
+
+
+careers center - machine learning/ computer vision scientist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+machine learning/ computer vision scientist
+
+
+job locations
+
+us-nc-durham
+
+
+
+
+
+requisition id
+
+2017-5230
+
+
+company name
+
+teledyne scientific & imaging
+
+
+shift
+
+1st shift - day
+
+
+citizenship/visa requirement
+
+us citizen/perm resident/ other us person
+
+
+internal code (for careerbuilder)
+
+#cb#
+
+
+
+
+
+
+
+
+
+company overview
+
+
+
+
+
+
+teledyne scientific company is seeking an engineer or computer scientist to support advanced research and development projects that require algorithm and software development for machine learning, deep learning, and computer vision. this position is at our research laboratory in research triangle park, durham, north carolina. teledyne scientific company (tsc) has a legacy of over 50 years of advanced research and technology development. our customer base consists of darpa, onr, afrl, arl, and other government and proprietary customers. tsc’s information sciences (is) division in north carolina is a state-of-the-art research and development research facility, dedicated to r&d in the areas of deep learning, machine learning, persistent surveillance, autonomous systems computer vision, and computational neuroscience. teledyne is an equal opportunity/affirmative action employer.  all qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, gender, sexual orientation, gender identity, gender expression, transgender, pregnancy, marital status, national origin, ancestry, citizenship status, age, disability, protected veteran status, genetics or any other characteristic protected by applicable federal, state, or local law.      if you need assistance or an accommodation while seeking employment, please email  teledynerecruitment@teledyne.com or call (805)373-4545.  determinations on requests for reasonable accommodation will be made on a case-by-case basis.  please note that only those inquiries concerning a request for reasonable accommodation will receive a response.   
+
+
+
+
+
+
+
+
+position summary and responsibilities
+
+
+
+
+
+
+primary responsibilities: define, develop, and deliver novel solutions to a broad range of problems that include applications in pattern recognition, target detection and tracking, machine learning and decision systems, robotic systems, for the government and commercial industry. specific duties include:•in collaboration with other colleagues, develop and implement advanced algorithms on pc, gpu and embedded systems (~95%) •assist with customer interaction to demonstrate and deliver research results through written reports, briefings and participation in program reviews (~5%) •a small amount of travel (less than 5% time) is anticipated.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+skills/experience: •a track record of research and development experience in one or more of the following domains is required: image/video analysis, signal processing, detection theory, 3d computer vision, machine learning, classification algorithms, and deep neural networks.•strong foundation in numerical techniques (fft, monte carlo, finite elements, linear algebra, pdes, odes, statistics, etc.) are required•strong experience in algorithms/software development with c/c++ is required•familiarity with matlab is required •experience with other modern programming languages such as python, octave, java, lua, etc. is a plus•familiarity with software development practices (revision control/complier tricks/debugger, etc.), under windows/linux/unix is desired•knowledge of computer architectures (gpu/fpga/distributed computing), unix/linux and algorithm optimization is a plus•excellent interpersonal and communication (presentation & writing) skills •ability to work weekends and evenings when needed for workload.education: •phd in computer science, electrical engineering, or a related field (candidates who are nearing completion of the phd degree will also be considered). in lieu of a ph.d degree, an ms in above fields with 5+ work experience of directly related research experience will be considered. •candidates with multi-disciplinary training (e.g., computer science + neuroscience, computer science + mathematics, etc.) are highly desired.security clearance:•candidates are required to be u.s. citizens
+
+
+
+
+
+
+
+
+requisition post information* : posted date
+
+
+
+
+
+
+10/2/2017
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+
+application faqssoftware powered by icimswww.icims.com
+
+
+
+
+
+
+
+
+

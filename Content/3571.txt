@@ -1,0 +1,262 @@
+
+
+
+
+job application for machine learning engineer at pager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+machine learning engineer
+
+        at pager
+      
+(view all jobs)
+
+        new york city
+      
+
+
+opportunity
+pager is looking to hire a machine learning engineer to build and deploy machine learning models into the company's core services. you’ll be working in a fast-paced collaborative environment and contribute to our team's mission: turn the complex world of healthcare into a simple and beautiful experience using machine learning.
+responsibilities
+
+define, prototype, develop, deploy, and maintain machine learning models: from natural language understanding to predictive clustering.
+participate as a member of an interdisciplinary team that includes engineers, data scientists, product team members and clinicians to identify and plan new features and solve problems
+ensure high quality of code
+mentor your peers and stay up to date in your knowledge
+
+you'll be a good fit if
+
+you know data science:
+
+have a strong hands-on knowledge of machine learning algorithms, both deep and shallow
+are comfortable using machine learning stacks and can make good decisions about which to use to solve a particular problem
+hands-on experience with machine learning tools and libraries including (not limited to) numpy, scipy, scikit-learn, spacy
+are familiar with data cleaning, sanitization and adequate handling of sensitive information
+
+
+you know computer science and engineering:
+
+have a strong cs background to choose the right algorithms, systems approaches and patterns to solve problems: you won't reinvent the wheel
+have a proven track record designing and implementing data driven products
+write production quality code and tests
+build apis that expose ml models
+
+
+you can hit the ground running:
+
+m.sc. or ph.d. in computer science, engineering, statistics, computational linguistics, or other quantitative field, or equivalent professional experience
+2+ years of experience in a production data science environment
+experience working with aws and docker
+
+
+you have a sense of ownership:
+
+take responsibility for your projects and pride in your work
+
+
+you come up with novel solutions to a diverse set of problems:
+
+ask hard questions and challenge assumptions to ensure that we’re solving the right problems
+have flexibility to work on the team’s most pressing problems
+
+
+
+nice to haves
+
+experience dealing with health system partners data (e.g. ehrs, hies, adt feeds, claims/pre-auth feeds, …)
+experience with storage models coming from the sql (postgresql, mysql) and nosql (mongodb, elasticsearch, redis, graph based storage)
+rabbitmq and nodejs experience
+understanding and exposure to some ml topics: pattern detection; entity recognition; semantic role labeling; and clustering and classification models, neural networks
+experience using docker containers and configuration management systems
+experience in tensorflow, keras
+
+
+about pager 
+pager is re-inventing the traditional patient experience.  a leader in the healthcare industry with its innovative tech solutions to help patients access care, pager is a multi-faceted care navigation platform. patients can access a wide range of services from connecting with providers directly through the app and getting answers to general health care questions (from the comfort of their home) to scheduling in-home visits. pager has partnered with top-tier health plans, health systems and provider networks across the u.s.
+founded by an experienced team of serial entrepreneurs from successful startups (uber, teladoc, gilt, one medical group, buzzfeed), we are passionate about improving access to high quality and personal health care.
+from long days of perfecting a great product to long nights of happy hours and group dinners, we are looking for someone smart, energetic, and fun to join our tight-knit and growing team.
+a passion for health care is not necessary to apply; however, a passion for improving the lives of people and living a better life through technology is a must.
+at pager, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

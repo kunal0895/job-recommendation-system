@@ -1,0 +1,489 @@
+
+
+
+
+job application for data engineer at khan academy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer
+
+        at khan academy
+      
+
+        mountain view, ca / remote friendly (us + canada)
+      
+
+
+khan academy is looking for passionate software developers to help change education – join us on our mission to provide a free, world-class education for anyone, anywhere.
+we’re fun, quirky people that come from a variety of backgrounds. our team includes people from google, apple, facebook, mozilla, microsoft, pixar, fog creek, and tiny startups. khan academy attracts talent from some of the top organizations in the bay area; our team includes individuals who attended private universities and community colleges, as well as folks who didn't graduate from college. together, we’re a small but strong team, deeply invested in your future.
+our data engineering team will be growing in the latter half of 2017. if you're looking for a faster timeline, please consider our immediate openings for software engineer or marketing analyst (data scientist). 
+what you’ll build:
+as part of the broader software engineering team, you’ll have the opportunity to work on backend projects as well as user-facing product features alongside frontend and mobile developers. you’ll build functionality that unlocks users’ access to their learning histories and accelerates their learning. you will empower the team with data we need to understand our users’ needs. you will design infrastructure and run a/b tests to experiment with different presentations and pedagogies, enabling a richer learning experience for learners of all ages. our team has the unique flexibility to work across the stack to bring new functionality directly to the learners who need it.
+examples of things we’ve worked on include:
+
+building a machine learning pipeline to drive individualized content recommendations
+leveraging model predictions to speed up the progression for a student in a grade-level “mission”
+building leaderboards for competition between hundreds of thousands of students in learnstorm 2016
+integrating with the college board to provide personalized sat practice based on psat scores
+
+our tools:
+
+our team uses a diverse set of tools, including jupyter notebooks running python, r studio, google bigquery / cloud dataflow, tableau, and even excel. on the frontend we use javascript and react.
+you do not have to have experience in any one technology but you should be aware of industry trends and be excited to evaluate and learn new technologies.
+we value simple and reliable solutions over customizability and buzzword compliance - a good solution now is better than an expensive custom, perfect solution in a year.
+
+you need:
+
+excitement about helping khan academy bring a free, world-class education to the world.
+experience writing code. students, teachers and internal decision makers need trustworthy data, and that means building stable, reliable and scalable systems that can regularly process terabytes of historical data with minimal errors.
+expertise in statistical modeling, machine learning, and/or numerical analysis, so you can spot biases or bad probabilistic inference and look for patterns in the data.
+cross-team communication skills. you’ll need to understand the product implications of data transformations or a/b test conversions and be able to convey uncertainties and caveats with the data
+empathy for learners around the world. you love learning and are excited about helping others learn to love learning. you’re motivated to learn new things and share what you learn with the world.
+
+we offer the following benefits:
+we may be a non-profit, but we reward our team well!
+
+the opportunity to improve real lives, solve hard problems, and change the world.
+competitive salaries and annual bonuses.
+ample paid time off as needed. we’ll support you in maintaining a healthy life-work balance.
+delicious catered lunch every day, plus tons of snacks and beverages.
+an inclusive, excited, and friendly team that trusts you and gives you the freedom to be brilliant.
+a great location – we’re only 0.5 miles from the caltrain and downtown mountain view. we also pay for remote employees to fly out a few times a year, and our san francisco dwellers are encouraged to work from home a few days a week to save the commute time.
+awesome team events and weekly board game nights.
+oh, and we offer all those other typical benefits as well: 401(k) + 4% matching & comprehensive insurance including medical, dental, vision, and life.
+
+how to apply:
+
+attach your resume below
+address the following prompt in the space provided below: at khan academy, we believe that reaching all learners requires an engineering team that is diverse in every respect, and we are looking for individuals who will help us fulfill our mission by adding to the diversity of our team's experiences, perspectives, and mindsets. with that in mind, tell us briefly how your experiences and perspectives— whether personal, professional, academic, or otherwise— could contribute to the diversity of our team.
+
+optional:
+
+links to projects (we really like these, but they are not a requirement). we especially like living, breathing projects, demos, or commentaries on your work. please don’t just send code – show or tell us why you wrote it, what it’s for, what you like about it, how it helps someone, etc. no project is too small if it’s something you care about. if you're feeling especially creative feel free to include a link to a project that you've built on our programming platform. 
+if you’d like to provide a more traditional cover letter addressing your interest in ka (in addition to the diversity-based response), please feel free to attach that below.
+
+to learn more about our work:
+
+data science team blog
+sal’s ted talk
+ka engineering team blog
+lead engineering manager ben kamens's blog
+our team
+what our learners have to say about khan academy
+
+as an organization and as individuals, we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, gender identity, national origin, sexual orientation, age, citizenship, marital status, pregnancy, medical conditions, genetic information, disability, or veteran status. we strongly encourage all candidates to complete the eeoc questions below so that we can continue to monitor our processes and ensure we are creating an environment that allows candidates to feel comfortable and display their best selves across many lines of difference.  
+finally, if you feel under-qualified, remember that we’ve all been there too. here are some great posts on building up the courage and skills to apply for your dream job, from awesome people who have worked at ka:
+
+courage
+skills
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skype id *
+
+
+
+
+
+
+are you available to work full-time from our office in mountain view, california? *
+
+
+
+--
+yes
+no
+
+
+will you now, or in the future, require sponsorship to work in the u.s.? *
+
+
+
+--
+yes
+no
+
+
+if you answered 'yes' above, please provide additional details. 
+    
+
+
+
+
+
+
+personal website / blog
+    
+
+
+
+
+
+links to projects
+    
+
+
+
+
+
+have you used khan academy before? *
+
+
+
+--
+yes
+no
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+at khan academy, we believe that reaching all learners requires an engineering team that is diverse in every respect, and we are looking for individuals who will help us fulfill our mission by adding to the diversity of our team's experiences, perspectives, and mindsets. with that in mind, tell us briefly how your experiences and perspectives— whether personal, professional, academic, or otherwise— could contribute to the diversity of our team. *
+
+please keep in mind that responses that do not address the prompt will not be moved forward. 
+
+
+
+
+
+
+would you also like to be considered for a role at duck duck moose, a wholly owned subsidiary of khan academy? *
+
+
+
+--
+yes
+no
+
+
+is there anything else you'd like us to know about you?
+    
+
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at khan academy are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

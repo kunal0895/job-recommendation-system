@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+database engineer - mongodb - external careers
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+
+about
+benefits
+departments
+locations
+view all jobs
+sign in
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+database engineer - mongodb
+
+
+                    seattle
+                
+
+
+
+
+
+
+
+
+
+apply now
+
+
+facebook
+linkedin
+twitter
+google plus
+send to a friend
+
+
+
+
+
+
+
+
+ref#: r0007253
+
+our mission.
+as the world’s number 1 job site, our mission is to help people get jobs. we need talented, passionate people working together to make this happen. we are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+
+
+
+
+
+the team.
+we are builders, we are integrators. tech services creates and optimizes solutions for a rapidly growing business on a global scale. we work with distributed infrastructure, petabytes of data, and billions of transactions with no limitations on your creativity. you don’t have to wait for some architect or manager to tell you what you can work on - you decide the priorities. with tech hubs in seattle, san francisco, austin, tokyo and hyderabad, we are improving people's lives all around the world, one job at a time.
+
+
+your job.
+indeed's data architecture team is looking for top talent to help scale and improve the indeed's database infrastructure and applications that depend on it. this database engineer will bring solid skills in mongodb, educating the team on using these open source technologies while incorporating them into the infrastructure. our geographically distributed servers support over 100 million unique visitors per month. your top priority is ensuring that they remain stable, reliable, and recoverable as the database platform and applications evolve. 
+if you are passionate about technology, love to learn, enjoy working with open source tools, and are interested in becoming a mongodb expert and "go to" person on the team, this is a great opportunity to grow your skills and contribute to a top-tier website.
+responsibilities configure and monitor numerous mongodb instances and replica setsautomate routine tasks with your own scripts and open-source toolssolve production problems and participate in a 24x7 on-call rotationimprove database backups and test recoverability regularlystudy the database needs of our applications and optimize them using mongodbmaintain database performance and capacity planningwrite documentation and collaborate with technical peers online
+
+
+about you.
+bachelor's degree in computer science, engineering, or a similar field coding skill with at least one of python, php, perl, ruby or java solid knowledge of mongodb and other nosql database concepts minimum of 2+ years linux proficiency (as a power user and administrator) experience with modern 24x7 web production environments is a plus experience with database replication and scaling issues is a big plus willingness to work flexible / odd hours (as needed) successful experience working in a team environment 
+indeed provides a variety of benefits that help us focus on our mission of helping people get jobs. view our bounty of perks: http://indeedhi.re/indeedbenefits
+
+
+
+apply now
+
+
+
+< back to search results
+
+
+
+
+
+
+indeed is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment.
+all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+
+
+
+
+
+                                facebook
+                            
+
+
+                                twitter
+                            
+
+
+                                youtube
+                            
+
+
+                                instagram
+                            
+
+
+
+
+©2017 indeed. all rights reserved.  *comscore, total visits march 2017
+
+
+
+
+
+
+
+
+

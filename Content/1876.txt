@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+career portals
+
+
+
+
+
+
+
+
+
+job search
+
+en (us)
+
+fr (ca)
+
+
+login / register
+
+
+
+
+we are now hiring
+req #1892
+software engineer, junior 
+
+operations
+salary
+ft
+friday, december 1, 2017
+
+
+
+
+
+
+ 
+
+kapsch trafficcom is a global leader in the its (intelligent transportation systems) industry, focused on connected vehicles, highway traffic management, electronic tolling, and smart city solutions. 
+
+ 
+
+ 
+
+ 
+
+learn what keeps kapsch “always one step ahead” in people and technology by visiting our website https://www.kapsch.net/us/ktc
+
+ 
+ 
+
+kapsch trafficcom is seeking a junior software engineer for our facility in austin, tx. 
+
+ 
+
+  
+
+ 
+
+the software engineer will work on multithreaded real-time c++ solutions to process transaction framing for toll systems.  the systems are highly available and responsible for millions of micro-transactions per day, and represent the most accurate tolling system in the world.  in this role the software engineer will be responsible for working within the entire sdlc from requirements interpretation, design, documentation, coding, review, testing, release, and maintenance.  you will work alongside seasoned real-time engineers. the system is built on top of linux with the real-time patch, standardized c++ using boost/stl, and a solid architectural design/approach.  responsibilities include maintenance/research/fixes for existing systems as well as development of new deployments, as well as participation in new deployment installation and field efforts.  
+
+ 
+
+  
+
+ 
+
+responsibilities include: 
+
+ 
+
+  
+
+ 
+
+ 
+
+24/7 uptime of all systems post field installation 
+
+ 
+
+design, develop, test, and maintain software in conformance to project requirements 
+
+ 
+
+design, development, and maintenance of custom tools 
+
+ 
+
+building, cloning, deploying linux file systems 
+
+ 
+
+gather problem descriptions, log files, configuration data, and analyze them in order to determine root cause of problems and find solutions 
+
+ 
+
+participate in rotating on-call schedule to provide 24/7 support to clients 
+
+ 
+
+partner with the hardware support team to resolve revenue impacting issues 
+
+ 
+
+support operational department and production systems as needed 
+
+ 
+
+maintaining servers and build environments with vmware 
+
+ 
+
+additional responsibilities as assigned by software operations manager 
+
+ 
+
+ 
+
+  
+
+ 
+
+qualifications include: 
+
+ 
+
+  
+
+ 
+
+ 
+
+ba/bs in computer science or related field (equivalent combination of education and experience will also be considered) 
+
+ 
+
+0-2 years of experience in maintenance/support operations role – on call experience preferred 
+
+ 
+
+desired experience with deployments and application management in a linux environment 
+
+ 
+
+ability to multi-task between several critical customer situations at the same time 
+
+ 
+
+skilled in analyzing project requirements and designing solutions accordingly 
+
+ 
+
+ability to work independently and in a team 
+
+ 
+
+excellent verbal and written communication skills 
+
+ 
+
+ 
+
+  
+
+ 
+
+ability to travel domestically, up to 10%
+
+ 
+ 
+
+the kapsch portfolio of advanced traffic management (atm) services includes over 40 systems that integrate atms, scada (supervisory control and data acquisition), and automation for collecting real-time traffic and facilities-related data from highways, managed lanes, bridges, and tunnels. this information is delivered to a traffic management center where it is processed for actionable use by road operators, government authorities, and road users.
+	
+
+	our tolling solutions span all-electronic toll collection in free-flow traffic, automated payment at conventional toll plazas, and city tolling. our solutions comprise radio communication via micro waves, vehicle tracking via gnss (global navigation satellite systems), alpr (automatic license plate recognition) video tolling, and vehicle classification via video and laser sensors lvdc (laser vehicle detection and classification). our systems can manage operations for areas ranging from individual roads to entire regions, and can be modified for distance-based or time-based charging.   
+
+ 
+
+our combined intelligent mobility solutions are used to aid traffic management personnel in making critical decisions during emergency response situations, as well as for providing real-time traffic information to road users from the highway to the city. 
+
+ 
+
+kapsch trafficcom is a leading global provider of intelligent transportation systems (its) and offers  solutions  across  our  customers’  entire  value  chain  –  from  single  products  and components, to fully integrated turnkey systems and solutions in the applications of electronic toll collection, commercial vehicle operations, and highway traffic management. the company is headquartered in vienna, austria with north american headquarters in mclean, virginia and offices throughout the united states (virginia, georgia, new york, new jersey, texas, california), canada (mississauga) and mexico (mexico city).
+	
+
+
+	 kapsch trafficcom is an equal opportunity employer.  all qualified applicants will receive consideration for employment without regard to age, race, creed, color, national origin, ancestry, marital status or sexual orientation, gender identity or expression, disability, nationality or sex. 
+
+ 
+
+kapsch trafficcom is a drug-free workplace. 
+
+ 
+
+
+
+operations
+salary
+austin, tx, usa
+
+
+
+
+
+
+
+
+
+ 
+
+apply now
+see all jobs
+
+
+
+
+
+
+privacy policy © 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

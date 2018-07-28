@@ -1,0 +1,285 @@
+
+
+
+
+job application for devops engineer at corios 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+devops engineer
+
+        at corios 
+      
+(view all jobs)
+
+        portland, or
+      
+
+
+$65,000-$70,000 doe
+about the devops engineer position
+at corios the devops engineer is responsible for the implementation and administration of big data analytics and machine learning platforms and environments in private and public cloud environments.
+activities include, but are not limited to, the following:
+
+provision virtual hardware, storage, networking, and services in the cloud and/or on-premise
+install and configure big data analytics and machine learning solutions, with a focus on automated deployment
+administer, monitor, and scale infrastructure, operating systems, and software
+performance tuning for compute and data stores
+authentication and authorization administration
+ensure proper backup and security processes are in place
+communication of complex concepts in simple language
+natural ability to incrementally troubleshoot technical problems
+an intrinsic desire to learn and grow
+
+required skills, knowledge, experience
+qualified candidates should possess the following skills and knowledge:
+
+public cloud:  aws
+operating systems:  linux (rhel and variants)
+programming:  bash shell scripting, python, ansible 
+data stores:  amazon s3, hadoop (amazon emr, cloudera, hortonworks, and/or mapr), aws rds and/or redshift
+
+preferred skills, knowledge, experience
+the following skills and knowledge are preferred:
+
+public cloud:  microsoft azure
+operating systems:  windows
+programming:  sql, sas, java
+databases:  sql server, oracle
+
+qualifications
+
+2-3+ years’ experience in a relevant position. 
+
+
+bachelor's degree in computer science, information technology, or information systems; or an associate’s degree and 4-5 years’ experience in a relevant position
+this position is based at company headquarters in portland, oregon.  management's strong preference is for candidates already located in our metropolitan area
+this position is for full time employment
+must be willing to travel up to 50%, since some on-premise work is in production and may require being on-site with systems administrators
+experience working in a regulated industry (financial services, healthcare, etc.) is a plus
+
+
+to qualify, applicants must be legally authorized to work in the united states, and should not require, now or in the future, sponsorship for employment visa status.
+corios is a drug-free employer. candidates are required to pass a drug screen and background screen including a criminal history and reference check.
+
+about corios llc
+at corios, we tell the story numbers can't; we believe business decisions are influenced not only by the measurement of behavior, but by synthesizing data-driven insights along with our past experience in order to deliver the most relevant interpretation and client recommendations possible. 
+our clients are leading financial services, retail, manufacturing, and energy companies in north america and around the world. corios helps our clients make important decisions about customer acquisition, lifecycle marketing, pricing, debt recovery, capacity planning, and financial crime detection and prevention. to meet those objectives, we leverage deep expertise in predictive analytics, statistics, econometrics, forecasting, experimental design and mathematical optimization.
+corios looks not only for the right skills, but also for a cultural fit. we seek team members who will contribute to the unique culture that makes corios such a great place to work. we look for the total candidate: technical skills, culture fit, relationship skills, problem solvers, and good communicators. candidates must be ready to make an impact.
+corios is proud to be an equal opportunity employer.  all qualified applicants will receive consideration for employment without regard to race, color, ancestry, religion, sex, national origin, sexual orientation, disability status, gender identity, or veteran status.  the level of this position will be determined based on the applicant's education, skills and experience.  if you have a disability or special need that requires accommodation, please let us know.
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+
+
+
+
+(optional)
+
+almost there! review your information then click 'submit application' to apply.
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+how did you hear about this job?
+    
+
+
+
+
+
+are you legally able to work in the united states? *
+
+
+
+--
+yes
+no
+
+
+do you live in the portland, or geographical area? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

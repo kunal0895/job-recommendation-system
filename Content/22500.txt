@@ -1,0 +1,352 @@
+
+
+
+
+
+principal data scientist  in  boston, ma at ge | imagination at work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+careers 
+
+
+ back
+working at ge 
+culture 
+students 
+my application 
+search jobs 
+
+
+
+
+
+
+
+
+  
+
+
+ge businesses
+
+ge additive
+
+ge aviation
+
+ge capital
+
+ge digital
+
+ge energy connections
+
+ge healthcare
+
+ge lighting
+
+ge oil & gas
+
+ge power
+ge renewable energy
+ge transportation
+current powered by ge
+
+
+investors
+careers
+
+students
+life at ge
+
+working at ge
+
+culture
+
+diversity
+
+my application
+
+
+news
+
+ge newsroom
+
+ge reports
+
+
+
+search
+globe
+side menu
+ge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge careers
+
+
+
+   search jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge careers
+
+
+
+
+
+
+
+linkedin
+facebook
+twitter
+email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply now
+       
+
+
+
+
+principal data scientist
+
+
+ge corporate
+experienced
+posted 11/8/2017 4:51:09 pm
+2943605
+
+
+
+
+job function: digital technology
+business segment:  corporate business innovations
+
+
+
+location(s):  united states; massachusetts; boston
+
+
+
+about us: avitas systems is a wholly owned subsidiary of ge, the world’s digital industrial company.  at ge and avitas we are transforming industry with software-defined machines and solutions that are connected, responsive and predictive. through our people, leadership development, services, technology and scale, avitas delivers better outcomes for global customers by speaking the language of industrial inspection.avitas offers a great work environment, professional development, challenging careers, and competitive compensation. avitas is an equal opportunity employer. employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.ge offers a great work environment, professional development, challenging careers, and competitive compensation.  ge is an equal opportunity employer.  employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law. role summary: the principal data scientist will be a key member of the data analytics and machine learning team that will be responsible for curating and analyzing large sets of business and operations data of ge’s customers across several industry verticals. this role will be responsible for analyzing the data and creating descriptive and predictive feature models, by applying physics and data science modeling techniques. essential responsibilities: the principal data scientist will very closely work with subject matter experts and business analysts to rapidly understand the domain and iteratively refine the analyses and models to create high-fidelity automated analytics solutions. responsibilities include but are not limited to: work closely with subject matter experts to gain deep understanding of various business and operations related data sets participate in data science workouts to shape data science opportunities and identify opportunities to use data science to create customer value investigate and apply data analytics and machine learning techniques to create data summaries, identify cause-effect analysis across disparate data sources, and create high-fidelity prediction models for various business kpis. provide expertise in physics based modeling towards high fidelity predictive capability work with the engineering team to incorporate your analyses and solutions, including working with the visualization team to create intuitive ui and rich ux stories.  qualifications/requirements: qualifications/requirements: ph.d. with specific focus on machine learning and advanced data analytics minimum 10 years of industry work experience. experience with analytics development for industrial applications in a commercial/industrial setting experience in physics based predictive modelinga top coder in python, c/c++ and other languages proven experience in using well-established supervised and unsupervised machine learning methods for large industry-strength data analysis problems. full awareness of industry best practices for data quality assessment and transformations, feature engineering, and model fit evaluations. experience in prior experience with frameworks and language such as apache spark, apache storm, scala, r, sas, python, and matlab. desired characteristics: system engineering and api based integration experience for large production systems knowledge of business intelligence tools such as qlikview, sisense, looker, pentaho, microstrategy, or tableau locations:   united states; massachusetts; boston
+ge offers a great work environment, professional development, challenging careers, and competitive compensation.  ge is an equal opportunity employer.  employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+ge will only employ those who are legally authorized to work in the united states for this opening.  any offer of employment is conditional upon the successful completion​ of a background investigation and drug screen.
+
+
+
+
+
+
+apply now
+       
+
+
+
+link for schema
+
+ 
+
+
+ge careers technical assistance
+
+having technical issues with ge.com/careers or your application? we're here to help.
+get in touch
+
+
+
+connect with us
+
+stay up to date on ge and possible opportunities that open in areas that interest you.
+
+sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact us
+investor contacts
+site map 
+privacy
+terms
+cookies
+integrity at ge
+
+
+
+
+
+
+accessibility
+candidate privacy notice
+pay transparency 
+fraud alert
+ca transparency in supply chain
+
+
+
+
+
+
+
+ge is an equal opportunity employer. employment decisions are made without regard to race, color,
+	                        religion, national or ethnic origin, sex, sexual orientation, gender identity or expression,
+	                        age, disability, protected veteran status or other characteristics protected by law. 
+learn more
+
+linkedin
+facebook
+twitter
+instagram
+youtube
+
+powered by smashfly
+
+
+
+
+
+
+© general electric
+
+
+
+
+
+
+
+
+
+
+check application status
+
+
+we are in the process of transitioning to an improved job application system and in the interim we are operating with two systems. have your job id ready (from the email you received when you applied) to log in and check your application status.
+                    
+
+                    click the appropriate button. if you don't know your job id, you can still check your status: use both buttons.
+job id begins with '1'
+job id begins with '2' or '3'
+you can only check your application status if you applied via this website. for all other applications, ge will contact you if there is interest in pursuing your candidacy. click here for help.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,179 @@
+
+
+
+blue origin  | working at blue origin |software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enable cookies to continue
+please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job.
+
+
+
+
+
+
+
+welcome page
+
+
+
+
+
+
+
+returning candidate?
+
+log back in!
+
+
+
+
+
+
+
+
+
+
+
+
+software engineer
+
+
+job locations
+
+us-wa-kent
+
+
+
+
+
+category
+
+software engineering
+
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+
+
+as part of a small, passionate and accomplished team of experts, you will provide the data necessary to design, build and launch rockets faster, cheaper and with continually higher quality. we accomplish this by building state-of-the art software, and analyzing data to uncover patterns for quick decision making.we design systems that track millions of physical parts and complex manufacturing activities in remote locations.  we build systems that process massive amounts of data and engineering tools that enable rapid design and iteration. we are seeking team members of all backgrounds who are passionate about space and who have a strong desire to serve on a team that is the backbone of the company.as a software engineer you’ll work on rewarding problems and interesting technologies. you’ll perform full-stack development activities, from gathering requirements to architecting systems to writing code and supporting users during operation. your colleagues come from the top technology companies and will continually challenge you to develop faster, more scalable and higher quality software.you’ll be uniquely positioned to help the company scale and increase your personal growth as we embark on ever more challenging engineering and business opportunities, supported by a highly technical leadership team. with top-notch development hardware, you drop into a high-performing team to immediately start contributing. we value people who are passionate about learning new things, beginning on the first day. this position will directly impact the history of space exploration and will require your dedicated commitment and detailed attention towards safe and repeatable spaceflight.as a software engineer, you can expect to build software in the following areas:highly complex databases utilizing mysql, mongodb, neo4j, cassandra and influxdb3d visualizations in javascript, java and c++frontend development in javascript and css using frameworks such as angularjs, node.js, jquery and bootstrapsystems that integrate with physical hardware using c++highly scalable systems built on top of java and amazon web services  
+
+
+
+
+
+
+
+
+responsibilities
+
+
+
+
+
+
+design, code, test and deploy new features and systemsselect appropriate libraries and open source technologies to integrate and use within projectsdesign user interfaces and iterate based on user feedbacksupport existing users during all phases of operation, up to and including the day of launchintegrate custom software with off-the-shelf systems using rest apis, queues, and monitoringthink outside the box. challenge why things are done a certain way and figure out ways to things better.
+
+
+
+
+
+
+
+
+qualifications
+
+
+
+
+
+
+minimum of a b.s. degree in computer science, computer engineering, physics, or other major requiring engineering core coursesstrong experience in java and the surrounding ecosystemexperience with modern full-stack web development, from back-end to front-endexperience designing both relational and non-relational databasesa demonstrated ability to develop complex end-to-end softwarethe ability to quickly absorb information in an unfamiliar domain and translate it into softwarea self-driven nature with the ability to seek out requirements and propose solutions with minimal directionmust be a u.s. citizen or permanent resident (current green card holder)
+
+
+
+
+
+options
+
+apply for this job onlineapplyshareemail this job to a friendrefer
+
+
+sorry the share function is not working properly at this moment. please refresh the page and try again later.
+
+share on your newsfeed
+
+
+
+
+  blue origin offers a phenomenal work environment and awesome culture with competitive salaries, benefits, 401k, and relocation.
+  
+blue origin is an equal opportunity/affirmative action employer. we will review all qualified applicants for consideration of employment without regard to age, race, color, sex, sexual orientation, gender identity, national origin, pregnancy, religion, or disabilities. blue origin prohibits any form of workplace harassment.
+
+application faqs
+
+
+
+
+
+
+
+
+

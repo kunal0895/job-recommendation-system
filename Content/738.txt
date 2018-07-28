@@ -1,0 +1,158 @@
+ 
+
+
+
+
+
+
+
+
+
+big data engineer #0167 job at ninthdecimal in mountain view, ca, powered by jobscore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your browser cookies must be enabled in order to apply for this job. please contact support@jobscore.com if you need further instruction on how to do that.
+
+
+
+
+
+
+
+
+
+the big data engineer job is no longer open.
+see other other open jobs at ninthdecimal here >>
+
+
+
+
+big data engineer
+engineering | mountain view, ca | full time
+
+
+
+
+
+
+job description
+
+
+position title: big data engineer
+worksite: 625 ellis street 3rd floor mountain view, ca 94043
+position duties:
+as a member of the core data services team, participate in development and optimization of data pipelines. stay on top of evolving technology (streaming, etc.) to suggest, prototype and implement improvements to the data architecture.  assure data quality and consistency of produced data shapes. perform analysis of large data sets to derive fact-based decisions of high-value business problems for the various business units, such as business analysts, product managers, data scientists, and marketing and ad operations teams.  produce actionable insights and data-driven recommendations for business and monetization strategies.  apply business analytics through ad-hoc reporting and custom scripting to drive optimization of various ad campaigns.  create visualization to illustrate data trends.  lead a/b testing processes, creating and evaluating user segments and performance metrics and developing data-based recommendations.  prepare data sets for targeting, reporting and data science research.  contribute to the design, tuning, performance and maintenance of raw and normalized data so that data can be leveraged by stakeholders in a timely fashion by the appropriated reporting tools.
+requirements:           
+employer will accept a bachelor’s degree in information technology, computer engineering or a closely-related field of concentration plus 3 years’ in job offered or software developer - java - related occupation. education or experience must include 3 years’ experience in the following: 1) hands-on experience in building scalable data pipelines using java/python; 2) performance tuning of processes in hadoop based ecosystem; 3) scala, python, sql, java and c++; 4) streaming and queuing technologies including kafka and aws kinesis; 5) experience with big data and highly loaded architectures; 6) software engineering practices including unit testing and code reviews and agile process. may telecommute from home occasionally.
+where to apply: 
+attn: director, human resources
+150 post st, suite 500
+san francisco, ca 94108
+                                    
+
+
+
+
+
+return to ninthdecimal
+
+
+
+
+
+
+
+
+
+
+position closed
+
+
+see other open jobs ››
+
+
+
+
+not the right job?
+
+join our talent network
+
+
+
+
+return to ninthdecimal
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+applicant tracking
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,233 @@
+
+
+
+
+job application for backend engineer, web (php/lemp) at beeswax
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+backend engineer, web (php/lemp)
+
+        at beeswax
+      
+(view all jobs)
+
+        new york, ny
+      
+
+
+beeswax, named one of business insider’s “hottest pre-ipo ad tech startups of 2016,” is looking for a backend engineer to build and maintain the rest apis that our customers rely on. our goal is to offer the most extensible set of rest apis to serve the world of advertising technology. you can read more about our rest apis at www.beeswax.com/docs.
+our rest api is built on the lemp stack (php, mysql, nginx) and interacts with other services built in python, java, c++ and other technologies throughout our stack.
+the beeswax engineering team is a top-notch group with backgrounds from amazon, oracle, google and other premier technical teams. because advertising is extremely high scale (millions of transactions per second), the opportunity to learn about web-scale systems and hard scaling problems is a great advantage of our engineering culture and work.
+this position reports to the cto, a long-time senior engineer from google, who was instrumental in the expansion and scaling of gmail, among other milestones.   
+
+
+responsibilities include:
+
+lead the development of our web services backend
+create new features, improve the ones we have, keep our customers happy, and enable our customers to build the most advanced advertising system on top of our rest apis. and do all that with robust, pragmatic code.
+use the latest open-source projects and next-gen architectures to produce large-scale web applications.
+collaborate with a small, talented team of designers and engineers
+architectural and systems design
+
+
+
+
+requirements:
+
+
+b.s. in computer science
+at least three years of post-collegiate professional experience.
+strong familiarity with backend rest apis and relational databases, knowledge of php and sql is a strong plus
+a desire to be deeply involved in product definition. our engineers are expected to contribute to the direction of their projects.
+experience beyond the basic lemp stack architecture
+working knowledge of javascript, html and css
+smarts, willingness to learn and teach
+
+
+
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are you authorized to work lawfully in the united states for beeswax? *
+
+
+
+--
+yes
+no
+
+
+will you now or in the future require beeswax to sponsor an immigration case in order to employ you? *
+
+
+
+--
+yes
+no
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+time warner, inc. - job details
+
+
+
+
+
+
+
+
+
+
+
+
+  time warner careers                    company  about us management operating divisions corporate governance corporate responsibility tw investments global media group strategy    investor relations   newsroom  press releases press contacts media & identity materials    blog   careers  working with us areas of operation search for jobs     facebook link twitter link youtube link instagram link              company   investor relations   newsroom   careers   blog           working with us  why time warner benefits career development diversity going green our stories stay connected    areas of operation  our divisions job spotlight industries interests internships locations    search for jobs   login to access your profile or create a new account.            ?
+
+careers home  pagejob seeker     toolssearch  openingssearch  resultscurrent pagejob  details   
+
+job detailstweetjob 1 of 1   submit to job   send to friend   save to cart          posting job title  hbo senior data engineer   time warner  division  hbo    industry cable/broadcast television networksfilm production and distributiontelevision program production and distribution    area of interest  technology/information technology   location  united states - new york - new york   requisition #  160135br   position type  full time   posting job description  overall summarythe business technology services (bts) team within the media technology & information services (mtis) group at hbo is responsible for the build and support of vital technology solutions supporting the scheduling, acquisition, processing, and distribution of hbo content.  the team is a fundamental part of hbo’s innovation and successful technology team in new york city, santa monica and seattle. the team partners with various business units to enable the services required to deliver hbo’s premium content to domestic and global platforms as well as third party partners by bringing together platform, software, data and business intelligence services.  the team is looking to add a senior data engineer to be part of a team dedicated to breaking the norm and pushing the limits of continuous improvement and innovation. the individual will be involved in detailed technical design, development and implementation of applications using amazon aws platform. working within an agile environment, the senior data engineer will provide input into architectural design decisions, develop code to meet business needs and ensure the applications we build are meeting high standards of quality and supportability. the individual will have the opportunity to develop his/her technical knowledge and skills while evolving the overall technical maturity of the team.   this position will be based in new york city. who you are:you want to be part of high profile projects and are motivated by delivering world-class solutions on an aggressive schedule.someone who is not intimidated by challenges; thrives even under pressure; is passionate about their craft; and hyper focused on delivering exceptional results.you care about agile software processes, data-driven development, reliability, and responsible experimentation.you have experience with modern, production level java/python/scala/javascript.you have experience with developing and maintaining production data pipelines.you’re biased for action, and believe in iterating quickly to solve hard problems.you love to learn new technologies and mentor team members to raise the bar on your team.  what you'll do:partner with architects and business leaders to design and build robust services using streaming and batch data. key contributor in building identity services that will enable hbo to share profiles across the organization in support of marketing and analytics.work independently and part of teams that will ingest data from a variety of source types including viewership, behavioral, attribution, content metadata etc. structure and munge ingested data in support of various use cases including analytics, marketing execution and cross divisional data sharing. technical requirements: a minimum of 6 years of experience in the aws cloud environment – ec2, s3, redshift, emr, etc.1-2 years of experience with real time data processing using kafka or aws kinesis preferred.3-5 years of experience with at least 1 of the following languages: scala, python, java preferred. 4-6 years of development experience on hadoop distributed ecosystem (e.g. spark/storm/hbase etc.), working with various database methodologies such relational, columnar and nosql preferred. highly proficient with ansi sql. additional requirements & competencies:running teams using agile and scrum methodologiesexperience with data modelingyou have a bs/ms/phd in computer science or related field experience preferredyou’ve worked with amazon web services (aws) technologies   about us  it's hbosm america's most successful premium television company, home box office delivers two 24-hour pay television services—hbo®and cinemax®. hbo continues to take advantage of the latest technological innovations with advancements that include the availability of hbo programming online though hbo gosm and max gosm, as well as hbo on demand® and cinemax on demand® in hd.  just as hbo is a company noted for its commitment to excellence in the products and services it delivers to consumers, it makes the extra effort to create a work environment in which fairness, equity, trust, and individual responsibility are valued.  hbo is committed to retaining and recruiting skilled and motivated employees, placing a priority on qualified team players who contribute to the diversity of their workforce.  hbo offers competitive benefits to include medical, dental, vision, a matched 401(k) plan, flexible spending, a commuter benefit program and tuition reimbursement.hbo is an equal employment opportunity employer. hbo does not discriminate against any applicant or employee based on race, color, religion, national origin, gender, age, sexual orientation, gender identity or expression, marital status, mental or physical disability, and genetic information, or any other basis protected by applicable law. hbo also prohibits harassment of applicants or employees based on any of these protected categories.    submit to job   send to friend   save to cart        
+
+
+         disclamer help international privacy policies       legal and privacy caution concerning forward-looking statements sitemap contact us shop  © time warner 2014. all rights reserved.      
+
+
+

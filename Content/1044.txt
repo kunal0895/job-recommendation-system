@@ -1,0 +1,423 @@
+
+
+
+
+job application for data engineer  at riskiq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          apply now
+        
+data engineer 
+
+        at riskiq
+      
+(view all jobs)
+
+        san francisco (relocation available)
+      
+
+
+riskiq is the leader in digital threat management, providing the most comprehensive discovery, intelligence, and mitigation of threats associated with an organization’s digital presence. with more than 80 percent of attacks originating outside the firewall, riskiq allows enterprises to gain unified insight and control over web, social, and mobile exposures. trusted by thousands of security analysts, riskiq’s platform combines advanced internet data reconnaissance and analytics to expedite investigations, understand digital attack surfaces, assess risk, and take action to protect business, brand, and customers. based in san francisco, the company is backed by summit partners, battery ventures, georgian partners, and massmutual ventures
+our data science team is at the core of advancing our technologies that will compose our next generation of internet and mobile security products. a successful candidate will be a highly motivated team member with a passion for solving the challenging problems our business faces. as a hadoop engineer, you will design, build, and scale our hadoop ecosystem, which empowers our data science team to deliver game-changing intelligence from both existing and new/novel data sources. relocation is available for the right candidate. 
+your responsibilities will include
+
+participate in architecting and building scalable applications using elements of hadoop ecosystem.
+determining feasibility and rapidly developing proof of concept code based on ideas that are produced from the data science team.
+partnering with our engineering team to implement successful products into the riskiq platform.
+work with our devops team to scale our data infrastructure.
+creating new ways to extract interesting insights from existing research analysis.
+analyzing, designing, developing, and testing of your projects to meet deadlines and exacting standards.
+
+requirements
+
+bs or higher in applied math, statistics, computer science, physics, or related field
+senior developer with 6 years overall experience in java technologies and big data.
+proven ability to build large, reliable, scalable infrastructure
+4+ years of advanced, hands-on experience with the hadoop eco-system:
+
+mapreduce
+hive
+mapr
+hdfs
+hbase
+spark
+
+strong sql experience to analyze, transform, and integrate high volume, complex data sources.
+extensive knowledge of data infrastructure at both the physical and the logical level
+excellent communication skills with the ability to identify and communicate data driven insights and technical approach through conversation, documentation, and presentation.
+proficiency with the following:
+
+job orchestration systems (e.g. oozie, luigi, airflow)
+advanced file formats (e.g. parquet, avro, orc) 
+stream processing systems (e.g. spark, storm, flink)
+search engines (e.g. elasticsearch, solr, lucene)
+
+desired experience with some of the following technologies: 
+
+kafka
+cassandra
+redis
+machine learning experience
+amazon web services or other cloud-based providers/solutions
+
+
+why work at riskiq?
+
+fascinating work - welcome to the dark underbelly of the internet. we detect, expose, and investigate malware, exploit kits, botnets, affiliate fraud, advertising fraud, and illicit mobile apps, and much more. it is the golden age of internet crime, and we are at the forefront of defensive efforts to stem the tide.  internet security is a global growth industry, and the knowledge you acquire here will be a marketable skill for decades to come.
+we’re a company on the forefront of a burgeoning industry - we've recently celebrated several new milestones headlined by 80% year-over-year growth revenue growth, the closing of $30.5 million in series c funding, and recognition by forrester in its forrester wave™: digital risk monitoring, q3 2016 report, which named riskiq a leader.
+top leadership - our ceo is a renown cybersecurity veteran known for his expertise. our leadership group is poised and experienced with a track record in technology and cyber security.
+unbounded opportunity - we are small, but we’re growing. at riskiq, you’ll be provided with as much responsibility as you can handle—new career development opportunities constantly arise given our rate of growth want to design a new data center from the ground up? architect a big data backend to increase our storage and analysis capabilities? these challenges are yours for the taking if you prove you're capable.
+flexibility - you’ll have a large workload, but also the freedom to accomplish it on your own terms. riskiq has unlimited pto and flexible hours.
+
+ 
+
+
+
+
+
+
+
+apply for this job
+
+* required
+        
+
+
+
+
+
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+phone *
+
+
+
+
+              location (city)
+                *
+
+
+
+
+resume/cv *
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cover letter
+
+
+    drop files here
+  
+
+  
+    
+
+
+
+
+
+attach
+dropbox
+google drive
+paste
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin profile
+    
+
+
+
+
+
+website
+    
+
+
+
+
+
+how did you hear about this job? *
+
+
+
+
+
+
+
+
+u.s. equal opportunity employment information (completion is voluntary)
+
+
+  individuals seeking employment at riskiq are considered without regards
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, or sexual orientation. you are
+  being given the opportunity to provide the following information in order to help us
+  comply with federal and state equal employment opportunity/affirmative action record
+  keeping, reporting, and other legal requirements.
+
+
+  completion of the form is entirely voluntary. whatever your decision,
+  it will not be considered in the hiring process or thereafter. any information that you
+  do provide will be recorded and maintained in a confidential file.
+
+
+gender
+please selectmale
+female
+decline to self identify
+
+
+are you hispanic/latino?
+please selectyes
+no
+decline to self identify
+
+
+please identify your race
+please selectamerican indian or alaskan native
+asian
+black or african american
+hispanic or latino
+white
+native hawaiian or other pacific islander
+two or more races
+decline to self identify
+
+
+      race & ethnicity definitions
+
+
+  if you believe you belong to any of the categories of protected veterans listed below,
+  please indicate by making the appropriate selection.  as a government contractor
+  subject to vietnam era veterans readjustment assistance act (vevraa), we request this
+  information in order to measure the effectiveness of the outreach and positive
+  recruitment efforts we undertake pursuant to vevraa. classification of protected
+  categories is as follows:
+
+
+  a "disabled veteran" is one of the following: a veteran of the u.s. military, ground,
+  naval or air service who is entitled to compensation (or who but for the receipt of
+  military retired pay would be entitled to compensation) under laws administered by the
+  secretary of veterans affairs; or a person who was discharged or released from active
+  duty because of a service-connected disability.
+
+
+  a "recently separated veteran" means any veteran during the three-year period beginning
+  on the date of such veteran's discharge or release from active duty in the u.s.
+  military, ground, naval, or air service.
+
+
+  an "active duty wartime or campaign badge veteran" means a veteran who served on active
+  duty in the u.s. military, ground, naval or air service during a war, or in a campaign
+  or expedition for which a campaign badge has been authorized under the laws
+  administered by the department of defense.
+
+
+  an "armed forces service medal veteran" means a veteran who, while serving on active
+  duty in the u.s. military, ground, naval or air service, participated in a united
+  states military operation for which an armed forces service medal was awarded pursuant
+  to executive order 12985.
+
+
+veteran status
+please selecti am not a protected veteran
+i identify as one or more of the classifications of a protected veteran
+i don't wish to answer
+
+
+
+form cc-305
+omb control number 1250-0005
+expires 1/31/2020
+
+voluntary self-identification of disability
+why are you being asked to complete this form?
+
+  because we do business with the government, we must reach out to, hire, and provide
+  equal opportunity to qualified people with disabilities1.  to help us
+  measure how well we are doing, we are asking you to tell us if you have a disability or
+  if you ever had a disability.  completing this form is voluntary, but we hope that you
+  will choose to fill it out.  if you are applying for a job, any answer you give will be
+  kept private and will not be used against you in any way.
+
+
+  if you already work for us, your answer will not be used against you in any way.
+  because a person may become disabled at any time, we are required to ask all of our
+  employees to update their information every five years.  you may voluntarily
+  self-identify as having a disability on this form without fear of any punishment
+  because you did not identify as having a disability earlier.
+
+how do i know if i have a disability?
+
+  you are considered to have a disability if you have a physical or mental impairment or
+  medical condition that substantially limits a major life activity, or if you have a
+  history or record of such an impairment or medical condition.
+
+disabilities include, but are not limited to:
+
+blindness
+deafness
+cancer
+diabetes
+epilepsy
+autism
+cerebral palsy
+hiv/aids
+schizophrenia
+muscular dystrophy
+bipolar disorder
+major depression
+multiple sclerosis (ms)
+missing limbs or partially missing limbs
+post-traumatic stress disorder (ptsd)
+obsessive compulsive disorder
+impairments requiring the use of a wheelchair
+intellectual disability (previously called mental retardation)
+
+
+disability status
+please selectyes, i have a disability (or previously had a disability)
+no, i don't have a disability
+i don't wish to answer
+
+reasonable accommodation notice
+
+  federal law requires employers to provide reasonable accommodation to qualified
+  individuals with disabilities. please tell us if you require a reasonable accommodation
+  to apply for a job or to perform your job.  examples of reasonable accommodation
+  include making a change to the application process or work procedures, providing
+  documents in an alternate format, using a sign language interpreter, or using
+  specialized equipment.
+
+
+1section 503 of the rehabilitation act of 1973, as amended.  for more
+  information about this form or the equal employment obligations of federal contractors,
+  visit the u.s. department of labor's office of federal contract compliance programs
+  (ofccp) website at www.dol.gov/ofccp.
+
+
+  public burden statement:  according to the paperwork reduction act of 1995 no persons
+  are required to respond to a collection of information unless such collection displays
+  a valid omb control number. this survey should take about 5 minutes to complete.
+
+
+
+
+
+
+
+
+ 
+
+
+
+share this job:    
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by 
+
+ 
+      read our privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

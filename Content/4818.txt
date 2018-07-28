@@ -1,0 +1,60 @@
+
+
+
+
+simple booth - jobs: backend developer - apply online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all jobs
+→
+backend developer
+
+backend developer
+littleton, colorado, united states
+
+descriptionsimple booth is a photo technology startup that connects people and brands through social photo experiences with fun, easy-to-use products. customers create, capture and relive events with our unique hardware and software platform. we’re looking for a motivated backend developer to jump in and help us develop new features like social engagement, imaging and image filters.do you want to be part of a fun team that creates awesome technologies? if so, keep reading!position description:as our newest backend developer, you will work with our small yet scrappy dev team of six people to lay the foundation of code for our next phase of growth. as a developer at a startup, you will be tasked with developing a wide variety of exciting new features while also maintaining and transitioning our existing lamp stack to java-based microservices. you'll deploy new code every day in a modern, continuous integration environment.the simple booth platform already hosts millions of photos and adds hundreds of thousands more each week. you will have the opportunity to learn from our systems architect how to implement new web-scale technologies like cassandra and elasticsearch that can deliver the speed and bandwidth that a rapidly growing platform requires.you will get to explore every inch of simple booth as you work directly with the ceo to integrate and automate business and accounting systems, write queries for management reports, expand our backend suite of admin tools to support sales and customer service and more. this job position is a great opportunity for a self-motivated, communicative hacker with a desire to build powerful features that delight end-users.requirementsrequired skills:  php and/or java sql   required personality traits:  communicative and excited to work with a team passionate about progress and high quality workmanship ready to learn everything, all the things!  ideal candidate will also have experience with one or more of the following:  html, javascript and css preprocessors symfony framework and doctrine orm database design and query optimization developing restful apis core design patterns, solid principles and methodologies to write maintainable code machine learning (there are free online courses for this) benefits work with talented and motivated people on the cutting edge of photo technology make a difference at a growing company as we build the next big thing opportunity to work remotely 2-3 days per week competitive salary and stock options medical and dental benefits 
+
+apply for this job
+
+
+
+
+
+
+
+
+
+
+
+simple booth website
+
+powered by
+workable
+
+
+
+
+

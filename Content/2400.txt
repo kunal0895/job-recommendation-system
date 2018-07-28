@@ -1,0 +1,220 @@
+
+
+
+
+
+database engineer at dxc-technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+menu
+
+home
+military
+
+
+
+
+
+
+thrive on change
+we are technology independent. our partnerships with the world’s leading technology providers give us the agility to deliver the best, most proven solutions to de-risk technology investments.
+
+
+
+
+
+search jobs
+
+search jobs
+
+
+
+keyword
+
+
+
+location
+
+
+
+
+radius
+radius
+5 miles
+15 miles
+25 miles
+35 miles
+50 miles
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+database engineer
+apply now
+requisition id 1635527
+posting date 12/02/2017
+category services
+location plano, texas | united states
+schedule full-time
+relocation assistance idaho
+employee status day job
+
+dxc technology (nyse: dxc) is the world’s leading independent, end-to-end it services company’s technology independence, global talent and extensive partner alliance combine to deliver powerful next-generation it services and solutions. dxc technology is recognized among company, helping clients harness the power of innovation to thrive on change. created by the merger of csc and the enterprise services business of hewlett packard enterprise, dxc technology serves nearly 6,000 private and public sector clients across 70 countries. the best corporate citizens globally. for more information, visit www.dxc.technologydxc technology has an immediate need in our us public sector group for a db2 database engineer in plano, tx.the database engineer will be responsible for understanding the requirements and detailed data ecosystem of the components and applications associated with the program, and using this knowledge to prepare and champion specific recommendations, guidelines, practices, and design models which will ultimately form the basis for the program data architecture.as a database engineer you will be responsible for leading a team of experience it professionals in modernizing the county of orange property tax system. the database engineer will also act as an in-house expert to mentor and assist technical staff in mastering techniques and best practices associated with: database design and optimization and related to the county of orange property tax system. the property tax system is the county’s major source of revenue via tax proceeds. last year, county property owners paid approximately $5.8 billion in taxes, which are used to fund a variety of services and products to its citizens. as the database engineer you will have extensive knowledge of/experience with data integration, data quality, multi-dimensional design and database processes and methodology. extensive experience with db2 standards. you will be functioning as a key member of the application transformation team, applying project management fundamentals to transform the property tax system. you will be required to develop database solutions from db2 into ms sql server to include designing proposed system; defining database physical structure and functional capabilities, security, back-up, and recovery specifications.
+
+requirements and education:
+
+5 years hands-on experience managing one or more of the following database systems: ibm db2, oracle or microsoft sql server 2008 or higher, involving implementation of database schemas, indexes, and query optimization.
+3 years hands-on experience implementing database stored procedures.
+
+oracle 11g or 12c ocp dba certification is a plus.
+
+ms sql server certification 70-432 is a plus.
+experience with data modeling in relational databases. 
+
+grid control/oem experience required.
+
+db2 experience is required.  ms sql experience preferred.
+database design, data maintenance, database security, database management, requirements analysis, teamwork, technical zeal, project management, presenting technical information, training, operating systems
+extensive expertise in providing enterprise database or application assessments with a strategic focus
+extensive hands-on experience in managing, tuning and troubleshooting db2 z/os with commanding knowledge on architecture and methodologies.
+experience with mentoring team members on best practices. 
+proficient with the microsoft office products including ms project, word, visio, excel and powerpoint.
+proven expertise in delivering enterprise solutions and successful product delivery.
+
+take a high-level architecture and produce detailed database build specifications for new projects including:
+
+
+define all specifications for database environments 
+
+design specifications for database storage
+
+design specifications for database clustering
+
+define specifications for database security and audit solutions
+
+define specifications for database backup and recovery
+
+produce database build documentation for standards adherence
+
+use best practices, work plans, checklists and defined processes.
+
+proactively support database build teams on multiple projects
+
+assist with database sizing and tuning when required.
+
+work with application architects to gather database requirements
+
+participate in project technical reviews. 
+
+lead work product reviews.
+
+develop and maintain database support documentation.
+
+assist with complex database incidents and problems, providing solutions in a timely manner.  
+
+engage smes or vendors to provide assistance to resolve more complex incidents as required.
+
+assist with tuning and resolving database performance problems.
+ 
+ 
+
+
+
+eeo tagline: dxc technology is eeo f/m/protected veteran/ individual with disabilities
+apply now
+
+
+
+
+
+
+job recommendations
+use your linkedin profile to find the right dxc match for you.
+
+
+job match
+
+
+
+
+
+job alerts
+join our talent community to stay in-the-loop on our latest opportunities and events.
+first namelast nameemail addressinterested into sign up for job alerts: enter a category, location, or category/location pair below and click "add." once all desired alerts are added, click "sign-up."categorylocationaddservices, plano, texas, united statesremoveservices, boise, idaho, united statesremoveremove
+
+confirm email
+
+
+
+
+sign-up
+
+
+
+
+
+
+
+
+interested in learning more? join our talent community and stay informed about dxc career news and events.
+join our network
+
+
+follow dxc careers
+
+facebook
+twitter
+instagram
+linkedin
+
+
+
+
+
+dxc technology is an equal opportunity/affirmative action employer. all qualified candidates will receive consideration for employment without regard to disability, protected veteran status, race, color, religious creed, national origin, citizenship, marital status, sex, sexual orientation/gender identity, age (40 or over), or genetic information. dxc's commitment to diversity and inclusive selection practices includes ensuring qualified long-term unemployed job seekers receive equal consideration for employment. eeo is the law poster.
+if you are an individual with a disability, a disabled veteran, or a wounded warrior and you are unable or limited in your ability to access or use this site as a result of your disability, you may request a reasonable accommodation by contacting us via email. please note: dxc will respond only to requests for accommodations due to a disability.
+we participate in e-verify. participation poster (en), participation poster (es), poster (en), poster (es) [pdf files]
+sitemap
+
+
+
+
+
+
+
+
+

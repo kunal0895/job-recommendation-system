@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data engineer - sql / big data / java - chicago, il | denodo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+about us our companynewsroomin the mediapress releasesnewslettersawardsdenodo officescareers overviewvacanciesservices overviewprofessional serviceseducationsupportcommunitypartners overviewpartner programfind a partnerpartner portal login 
+
+
+
+
+
+
+
+ 
+
+
+ englishdeutschespañol 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data virtualization overviewdv in the enterprisehow it worksbenefitsceo and business leaderscdo and enterprise architecturedata architects and developerswhy denodo?denodo platform overviewdenodo platform for awsdenodo platform for azuredenodo expresswhy denodo platformsolutions overviewhorizontal solutionsagile bibig datadata governancedata serviceslogical data lakeslogical data warehousemaster data managementweb automationvertical solutionsfinancial servicesgovernment, defense intel and non-profitshealth insurance and healthcare providersinformation and cloud servicesinsurance companiesoil and gas companiespharma, life sciences and medical devicesretail and manufacturingtelecommunications and mediacustomerseventsresources overviewbrochurescase studiesdatasheetsdemose-bookspodcastssolutions briefswebinar serieswebinarswhitepapersdenodo expressblog
+
+contact us 
+
+ 
+
+
+
+
+
+
+
+
+you are herehome / company / careers / vacancies / data engineer - sql / big data / java 
+
+
+
+
+
+
+data engineer - sql / big data / java 
+
+
+
+
+
+
+
+
+apply here 
+
+
+job description
+the opportunityyour consulting projects will include integrating data in a virtual manner for operational and/or informational purposes - integration of 100+ data sources for a customer service multichannel it infrastructure; implementation of logical data warehouses and virtual datamarts to enable modern business intelligence solutions, integration layers for hadoop-based data lakes, and support for agile operational reporting on a diverse big data infrastructure are just a few flavours of your future projects.be part of an elite team in a rapidly growing international software product company. your career with us will combine cutting edge technology, exposure to worldwide clients across all industries (financial services, automotive, insurance, pharma, etc.), exciting growth path for technical, product and customer-facing roles, direct mentorship, and access to senior management as part of a global team. your mission is to help our clients and prospects in the region to realize their full potential through accelerated adoption and productive use of denodo's data virtualization capability in many solutions.duties & responsibilitiesas a data engineer virtualization (f/m) you will successfully employ a combination of high technical expertise, client communication and coordination skills between clients and internal denodo teams to achieve your mission.conception, implementation, and execution of customer-specific integration projects based on the denodo platform.education, coaching and support during the introduction as well as ongoing projects of the denodo platform to achieve high level of client satisfaction.diagnose and resolve clients inquiries related to operating denodo software products in their environment.participate in problem escalation and call prevention projects to help clients and other technical specialists increase their efficiency when using denodo products.contribute to knowledge management activities and promote best practices for project execution.implement product demos and pilots to showcase data virtualization in enterprise scenarios, cloud deployments and big data projects.provide timely, prioritized and complete customer-based feedback to product management, sales, support and/or development regarding client’s business cases, requirements and issues.
+location
+chicago, il
+function
+engineering
+
+qualifications
+desired skills & experienceexperience range: 2-5 years (fresh graduates must be top-ranked and exceptionally qualified)university degree relating to information systems or computer science (bachelor, master, diploma)understanding of data integration flavorssolid understanding of sql and good grasp of relational and analytical database management theory and practice.good knowledge of software development and architectural patterns.technical skills include java development, jdbc, xml, web service related apis, experience with version control systems (e.g. svn, git).basic experience in big data, nosql, and inmemory environments is welcome.experience in windows & linux (and unix) operating systems in server environments.personal and relationship qualities: professional curiosity and the ability to enable yourself in new technologies and tasks. active listener. curiosity and continuous learning. creativity. team worker.communications: good written/verbal communication skills in english (other international languages a plus) are essential for interaction with clients, making presentations, attending meetings and writing technical documentation.willingness to travel. 
+
+
+
+ employment practices
+we are committed to equal employment opportunity. we respect, value and welcome diversity in our workforce.
+we do not accept resumes from headhunters or suppliers that have not signed a formal fee agreement. therefore, any resume received from an unapproved supplier will be considered unsolicited, and we will not be obligated to pay a referral fee.  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+denodo platform for data virtualization
+
+
+ 
+
+
+
+
+
+
+
+vizient cuts costs and improves member services using denodo data virtualization
+
+
+ 
+
+
+
+
+
+
+
+information management solution from affecto and denodo
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+     
+
+email *
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+data virtualization
+customers
+events
+denodo express
+
+
+denodo offices
+terms of use
+privacy & cookies policy
+© 2017 denodo technologies  palo alto, ca, usa(+1) 650 566 8833info@denodo.com 
+
+
+
+
+
+
+
+
+
+   
+
+
+

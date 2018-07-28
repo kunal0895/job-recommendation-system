@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sr. yield enhancement engineer – data integration job in gresham, or for microchip technology inc. | technical
+
+
+
+
+
+
+
+
+
+
+
+
+			join us for our engineering career fair! learn more
+
+
+microchip is seeking experienced engineers in all disciplines including applications, software, design, validation, verification, product, test, and marketing. meet with hiring managers representing all aspects of microchip's business.
+
+date: thursday, september 7, 2017
+time: 5:30-7:30 pm
+location:
+				microchip technology inc.
+				building c4 (microchip cafetorium)
+				2355 w. chandler blvd. chandler, az 85224
+			
+
+
+
+
+
+
+
+
+
+sr. yield enhancement engineer – data integration
+
+gresham, or
+
+
+
+
+search other jobs
+apply now
+
+
+
+
+
+
+
+
+
+
+
+search again
+
+
+job attributes
+
+job id
+5496
+req id
+g167-17
+category
+technical
+job type
+full-time
+job education
+bachelor's degree
+job level
+experienced (non-manager)
+job hires needed
+1
+job location
+gresham, or
+
+apply now
+
+share this on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+about us
+working here
+career areas
+share this on:
+
+
+
+
+
+new search
+previous search
+
+
+
+
+
+sr. yield enhancement engineer – data integration
+                          gresham, or                      
+
+
+
+job description
+job purpose: 
+this position will report to the gresham yield site manager.  the candidate will sustain existing wafer inspection data systems, manufacturing support applications, and develop new data integration applications to include wafer measurements, lot process history, and wafer probe results.  
+essential competencies:
+must be able to maintain a "big picture" perspective. 
+demonstrated experience in automated wafer inspection systems and data analysis for front-end manufacturing
+have a strong knowledge of kla-tencor “klarity” defect database
+demonstrated experience with sql databases
+ability to create web based applications to integrate various wafer measurement and probe data to solve quality issues.
+have strong time management and project management skills.
+have strong analytical and problem-solving skills and be self-driven.
+have strong verbal and written communication skills.
+can work independently and in a team to develop innovative solutions.
+collaborate with information systems developers; provide project updates, and write functional and technical documents.
+work with both a technical and non-technical user community.
+be willing to support applications in production in a 24x7 during system-down situations.
+follow the microchip information systems policies and procedures on development, project management, and change control.
+
+job requirements
+candidate must have one of the following bs degrees:  computer science, electrical engineering, electronic engineering, physics or equivalent.
+skills required:
+5+ years of experience working with kla-tencor klarity defect database
+5+ years of experience using c/c++, c#/vb.net, and pl/sql.
+5+ years of experience with scripting languages such as perl
+desired platform experience should be unix/linux and microsoft windows. 
+knowledge of relational databases and their tools (oracle preferred).
+experience using visual studio 2010 – 2015.
+critical physical requirements:
+able to lift, push, pull 25 lbs; carry 25 lbs; sit 50%; stand 60%; walk 30%; must be able to perform activities that include stooping, reaching, handling, thinking, hearing, talking, seeing, work alone, work around others. 
+submit your profile online at careers.microchip.com
+ 
+equal opportunity employer
+						microchip is an equal opportunity/affirmative action employer of disabled / veterans / minorities / women. we provide equal employment and affirmative action opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other basis protected under applicable federal, state or local laws.
+						for more information on applicable equal employment regulations, please refer to the eeo is the law poster and the eeo is the law poster supplement. please also refer to the pay transparency policy statement.
+applicants with disabilities
+						if you need accommodation for any part of the employment process because of a medical condition or disability, please send us an email here with "applicant accommodation request" in the subject line of the email.  alternatively, you may call us at 480-730-7330 to let us know the nature of your request.
+						                      
+
+apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+		microchip is an equal opportunity / affirmative action employer | applicants with disabilities
+
+
+			microchip is an equal opportunity/affirmative action employer of disabled/veterans/minorities/women. we provide equal employment and affirmative action opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other basis protected under applicable federal, state or local laws.
+			for more information on applicable equal employment regulations, please refer to the eeo is the law poster and the eeo is the law poster supplement. please also refer to the pay transparency policy statement.
+		
+
+			if you need accommodation for any part of the employment process because of a medical condition or disability, please send us an email here with “applicant accommodation request” in the subject line of the email.  alternatively, you may call us at 480-730-7330 to let us know the nature of your request.
+		
+
+
+
+
+
+site map
+home
+about us
+working here
+career areas
+job search
+visit microchip.com
+
+
+follow us
+
+
+
+
+
+
+
+
+
+career opportunities
+ accounting (7 jobs)
+administrative and support services (13 jobs)
+advertising/marketing/public relations (9 jobs)
+computers, hardware (32 jobs)
+computers, software (24 jobs)
+customer service (6 jobs)
+customer service and call center (1 job)
+electronics (34 jobs)
+engineering (249 jobs)
+finance (7 jobs)
+ human resources/recruiting (4 jobs)
+information technology (12 jobs)
+installation, maintenance, and repair (5 jobs)
+legal (2 jobs)
+manufacturing and production (16 jobs)
+other (1 job)
+sales (40 jobs)
+supply chain/logistics (7 jobs)
+support services (9 jobs)
+technical (65 jobs)
+ 
+
+			© copyright 2017 microchip technology inc. all rights reserved.
+microchip is an equal opportunity employer.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,338 @@
+
+
+
+        software test engineer -        liquid web -         job board
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+view our website
+
+
+
+view all jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+liquid web career opportunitieswidely recognized among the hosting industry for exceptional 24/7/365 on-site support as well as innovative products and services, liquid web has been the subject of kudos from a number of high profile publications, such as gigaom and zdnet, as well as being recognized by inc magazine as one of the united states’ fastest growing companies for over half a decade.  this growth has allowed us the ability to bolster our reputation for great service by rewarding our employees as well as allowing us to add great new team members to the fold.we currently employ over 300 on-site staff who work together to provide our clients with the best experience possible. we call this heroic support®. and it’s not only a marketing slogan, it’s the way we do business.  we realize that to extend our customers an optimal hosting environment, we need to start by offering the technicians that will be serving them a great work environment. that is why we go above and beyond to offer a comprehensive benefit package that includes health, dental, short and long-term disability coverage, and paid time off. we also have flexible scheduling, casual dress, free friday lunches, and free soda! not to mention our company-sponsored trips to theme parks, music festivals, sporting events, movies and much more.we are looking for talented individuals to help us expand every day.  check out our open positions and see if there is anything available that’s right for you! 
+
+
+
+software test engineer
+
+
+san antonio, tx                    
+
+full time                
+
+development                    
+
+mid level                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the software test engineer will be responsible for designing, implementing, and executing test automation that can be reused for acceptance and regression testing, as well as validating web applications, web components, and restful api’s. we need you to help us find the bugs and squash them before they affect our users. we care a lot about automation of quality assurance. more importantly, we care a lot about quality. we want to find people who have a passion for building products that don’t break and who take pride in the quality of their code, the work it takes to make great software, and the value delivered to the end-user.
+knowledge, skills and abilities:
+
+strong hands on experience utilizing modern test automation frameworks for browser-based and api testing.
+strong hands on experience parallelizing test automation to improve iteration cycles.
+strong hands on experience with multiple forms of test automation such as functional (ui/api), visual, regression, security, performance, etc.
+able to translate software requirements (stories) into test scripts and automated software tests.
+able to read and interpret ui designs in the form of wireframes, comps, and web flows.
+experience working in a fast-paced, agile development environment.
+hands on experience testing in and supporting a continuous integration and continuous deployment (ci/cd) model for saas delivery. experience with travis ci is preferred.
+experience manipulating data via sql for test setup.
+experience with modern, single screen ui development frameworks.
+experience designing and building test automation projects from the ground up.
+comfortable in multiple languages. some of our favorites are: python, go, ruby, perl.
+
+ 
+location:
+our engineering teams are distributed between our ann arbor, mi and san antonio, tx locations. successful candidates can live/work in one of these locations.
+ 
+about us…
+in this age of technology, we give you more than just the best and widest choice of hosting products. we give you the most helpful humans in hosting. we believe the more you need technology to fuel your business, the more you need expert, caring people to be there for you.
+liquid web is the market leader in managed hosting services to smbs and web professionals. we are all the managed hosting you will ever need. whether you need the simple elasticity of our paas offering, tried-and-true dedicated servers, the fastest vps in the industry or managed wordpress, we’ve designed our product portfolio to allow you to choose the hosting product that will best serve your project. you can count on reliability and have the flexibility to run what you like, how you like it. there are no limits here.   
+ 
+join our team and enjoy the following benefits:
+
+a collaborative team culture
+relaxed environment
+flexible work-life-balance
+access to ongoing training and employee assistance programs
+
+
+read more
+
+
+
+apply for position
+
+
+
+
+
+
+
+
+            apply for this position        
+required*
+
+
+
+apply with linkedin
+
+
+
+
+
+
+
+apply with indeed
+
+
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+email address*
+
+
+
+address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phone*
+
+
+
+resume*
+
+attach resume
+                    or
+                    paste resume
+
+
+
+                        attach resume as .pdf, .doc, or .docx (limit 2mb) or
+                        paste resume
+
+
+ 
+
+
+
+
+                            paste your resume here or
+                            attach resume file
+
+
+
+
+
+
+
+
+
+cover letter*
+
+
+
+who referred you to this position?
+
+
+
+what's your citizenship / employment eligibility?*
+no answeri am a u.s. citizen/permanent residentnon-citizen allowed to work for any employernon-citizen allowed to work for current employernon-citizen seeking work authorizationi am a canadian citizen/permanent residentother 
+
+linkedin profile url:
+
+
+
+twitter
+
+
+
+website, blog or portfolio:
+
+
+
+desired salary*
+
+
+
+earliest start date?
+
+
+
+have you ever been convicted of a felony?*
+no answernoyes 
+
+if “yes”, you have been convicted of a felony, please explain the circumstances around the conviction:
+
+
+
+in 150 characters or fewer, tell us what makes you unique. try to be creative and say something that will catch our eye!*
+
+150
+
+
+
+submit application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×close
+forward this position
+
+
+
+
+
+recipient email address (one)
+
+
+
+your name
+
+
+
+your email address
+
+
+
+enter a message (optional)
+the message cannot contain links
+
+
+
+
+human check*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

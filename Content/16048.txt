@@ -1,0 +1,158 @@
+
+
+
+
+
+
+software engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            software engineer        
+
+
+
+
+
+
+
+
+
+
+
+ return to job opportunitiesjob detailslevel experiencedjob location az - phoenix, azposition type full timeeducation level bachelor's degree or equivalent exp we are looking for mythical polyglot full-stack software engineers to join our team in phoenix.
+ 
+at webpt, we hire the most talented people for our teams, and then give them the freedom to do their jobs. here, we work hard—but we have lots of fun doing it. so, if you like a cool, collaborative, challenging, agile—did we already mention agile?—work environment, you’ll fit right in.
+ 
+who we are...
+with a 30% market share, webpt is the leading software platform for outpatient rehab therapy providers. we’re entirely web-based and operate under a saas model. we’re looking for motivated, collaborative, top-tier talent—people who exhibit professionalism and embrace our core values. as delivery teams, we provide value to our customers from inception to testing, from coding to deployment, from release to monitoring and support.
+ 
+what you will do...
+you will join one of our many teams to support our current php architectures while amplifying our productivity and while delivering and integrating aws-based, four-tier microservice architecture using react.js, java spring, php apigility, node.js, sql, and nosql technologies. we’re essentially rebuilding our plane while it’s in the air. (look, mom, no parachute!) you will continuously sharpen your tdd and bdd skills using selenium, behat, jbehave, cucumber, and unit-testing frameworks.
+ 
+you will participate in your team’s prioritizing, adapting, and exemplifying delivery team culture, including bug fixes, and rotated, on-call production support. you will work with our platform/devops team to continuously improve service delivery.
+ 
+who you are…
+you are comfortable having a foot in php and in polyglot microservice architecture. you aspire to the twelve-factor app inside and out and strive for continuous delivery. you continuously stretch your skill set by learning new tools, technologies, frameworks, and processes. you are not afraid to challenge assumptions and find ways to improve productivity.
+ 
+you are flexible and collaborative, and you want to work for a company that is amping up its growth curve by expanding from the smb space to the enterprise market. education and experience
+preferred recent experience:
+at least three years of professional application development experience using php and java or other open source language
+experience with full-stack web application development— experience using javascript, css, or mobile front-end technologies
+spring boot
+react.js
+restful apis
+aws
+experience working with agile teams
+git
+software testing
+uml/design patterns
+ 
+nice-to-haves:
+tdd
+node.js
+nosql
+knowledge of hipaa
+development of an emr or healthcare platform
+ 
+additional aspects of the job
+working conditions
+webpt will make reasonable accommodations to enable individuals with disabilities to perform the essential functions. while performing the duties of this job, the employee will not be exposed to weather conditions, and the noise level is usually moderate.
+ 
+physical requirements
+webpt will make reasonable accommodations to enable individuals with disabilities to perform the essential functions. while performing the duties of this job, the employee may occasionally need to stand; walk; sit; use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; climb stairs; balance; stoop, kneel, crouch or crawl; talk or hear; or taste or smell. the employee must occasionally lift and/or move up to 25 pounds. this job requires specific vision abilities, including close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus. return to job opportunities 
+
+
+
+
+first time user?
+create account
+
+
+
+returning user? please sign in!
+
+
+sign in
+
+forgot password?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

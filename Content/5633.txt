@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft careers: my job details
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                this site uses cookies for analytics, personalized content and ads. by continuing to browse this site, you agree to this use.
+            learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ microsoft careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account central
+
+apply history
+
+help center
+
+job alerts
+
+job watch list
+
+recommended jobs
+
+resumes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome!
+
+
+
+
+
+
+
+
+
+if you have an existing microsoft careers account, sign in below. if you are new to the site, create a microsoft careers account by clicking on one of the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+microsoft
+
+
+linkedin
+
+
+google
+
+
+facebook
+
+
+
+
+cancel
+
+
+
+
+
+
+
+
+
+
+working at microsoft 
+
+
+benefits and perks
+
+
+businesses and teams
+
+
+mission and culture
+
+
+office locations
+
+
+
+
+students and graduates 
+
+
+apply
+
+
+events and webinars
+
+
+find your recruiter
+
+
+international opportunities
+
+
+programs
+
+
+
+
+find a job 
+
+
+students and graduates
+
+
+industry professionals
+
+
+
+
+things to do 
+
+
+create a careers account
+
+
+explore recommended jobs
+
+
+locate events and webinars
+
+
+find your recruiter
+
+
+review interview tips
+
+
+
+
+
+working at linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ support engineer
+
+
+
+
+
+
+
+
+
+when was the last time you got in on the ground floor of a new technology - no, strike that, a new field? we’re expanding the team chartered with creating and delivering a new support experience for customers working in big data analytics. with the release of hdinsight (microsoft implementation of apache hadoop) and many other azure services, we need people who love helping customers solve tough problems; people who can develop processes and systems that ensure success for our customers and our team; and those who can thrive in ambiguity (who knows what types of challenges and problems we’ll encounter). sound fun? challenging? tough? if that appeals to you *and* you work well in a team, then we want to hear from you!responsibilities include:- provide in-depth technical support for customers via telephone, written correspondence, or electronic service.- provide advanced troubleshooting to analyze problems and develop solutions to meet customer needs.- determine the best approach for resolving complex technical issues that will yield the desired turn-around time and optimal customer solution while minimizing the impact to the customer.- engage and collaborate with other microsoft groups, including escalation teams and the r&d team, and 3rd party support partner (open source), in gaining resolution to critical, complex issues.- provide exceptional customer service in politically charged environments.- represent microsoft professionally in customer and partner onsite visits, where travel may be required with little advance notice.- create advanced online technical content including knowledge base articles, training documents, blogs, etc., as needed to help enhance our css front of funnel strategy and drive one-to-many customer and partner impact.- maintain strong working knowledge of all related products, technologies and upcoming releases. take proactive ownership in identifying and recommending product improvements in key product areas based on key data points.- participate in planned team-wide shift rotations to cover business needs, including 24x7 “on-call” responsibilities and weekend work.- present technical content to various audiences including customers, partners, and internal stakeholders.- provide consulting services to partners and customers to increase product market share.benefits of working at microsoft:microsoft values different life experiences and viewpoints. we seek out people from diverse backgrounds and encourage them to take risks and approach challenges unconventionally. we will invest in your health and financial future, and encourage you to pursue your interests and passions away from the office. our products and technologies help you balance life away from the office and enable you to manage your schedule efficiently. your career:we take your career seriously at microsoft and will ensure that we provide regular reviews throughout the year to offer continuous feedback and support to inspire you, develop your skills and ensure your personal satisfaction and growth. the microsoft performance philosophy recognizes higher performance with bigger rewards through a formal annual performance review. required qualifications:• 2 years’ engineering experience with big data and/or analytics products and services • 2 years’ experience in customer, technical, or end-user support or consulting• programming & debugging experience: java, python, r, scala, rest concepts, c/c++, javascript• experience with windows and linux. • knowledge and experience with the open source ecosystem.• commonly used technologies (c#, debugging guis, html5, javascript, azure roles and architecture, service deployment, windows blob storage)• adaptability, flexibility and the ability to do the right thing under pressure and tight deadlines.• great interpersonal and communication skills-both oral and written-and success in partnering with groups inside and outside of microsoft.• initiative. self-motivated and independent thinker that routinely translates circumstances and understanding into actions that move the business forward in a measurable manner.• ability to distill, prioritize and act on feedback from a variety of sources.• conviction and courage to drive decisions and defend positions as appropriate.• ba/bs degree, mba ideal.preferred qualifications:• experience in rdms such as microsoft sql server and microsoft bi technologies including sql server analysis services, power bi, sql server reporting service is a plus.• experience with hadoop, nosql , etl, streaming, machine learning or other big data/analytics technology preferred.microsoft is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.cssreq
+
+
+
+
+
+
+
+
+
+job #
+
+
+
+
+
+
+326796
+1079552
+
+
+
+
+
+
+
+locations
+
+
+
+
+
+united states, las colinas (tx)
+
+
+
+
+
+
+job families
+
+
+
+
+
+customer service & support
+
+
+
+
+
+
+teams
+
+
+
+
+
+cloud and enterprise
+
+
+
+
+
+
+
+
+
+
+empower your future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apply
+when you complete this final step in the application process, your resume will be sent to staffing and you will get an email confirmation of submission. you may be contacted directly be a recuiter if there is a match. 
+
+
+select resume
+the resume you have selected will be used for the below job openings.
+
+
+
+
+edit this resume
+
+create new resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+the resume noted above will be used for applying to the position(s) listed in the table. please make sure that these are the openings you are interested in.
+are you ready to proceed with submitting your resume for the above position(s)?
+
+
+
+
+
+affirmative action information
+
+
+microsoft is committed to a diverse work environment and this commitment is demonstrated, in part, through its affirmative action program. to assist us in meeting this commitment, we encourage you to complete the below information for our records. this information is solicited from all individuals applying for u.s. - based positions with microsoft, as required by u.s. law. completion of this section is strictly voluntary. declining to provide this information will not result in any adverse treatment of your application for employment. the ethnicity/race categories listed below are defined by the u.s. equal employment opportunity commission.
+
+
+
+
+
+gender
+
+malefemaledecline to state
+
+
+
+race/ethnicity
+view definitions
+close definitions
+
+
+
+
+
+
+
+
+
+what prompted you to apply to microsoft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        to confirm that you are a person and not an automated program, please enter all the characters you see in the image. you can avoid this by signing in.
+        
+
+
+				
+            notes:your computer must be able to play audio in wav format. the audio file is intentionally distorted to prevent automated programs from reading it. if the file plays in another program, remember the numbers, return to this page, and then type them in the field.
+        
+			
+
+
+
+
+
+
+
+
+
+play audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            update contact information?
+
+some of the contact information you just provided is different from what we have in your existing microsoft careers account. do you want us to update your account with the latest information?
+
+
+
+
+
+
+
+
+
+
+
+            great! updates to your account have been saved.
+
+
+
+
+
+
+
+
+
+you need a resume to apply
+
+
+to apply for this job, you must to submit a resume. 
+
+
+if you already have a saved resume,
+sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the selected job(s) were added to your job watch list
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback
+
+
+
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+get started
+
+
+explore recommended jobs
+
+
+search jobs
+
+
+manage job alerts
+
+
+manage resumes
+
+
+
+
+life at microsoft
+
+
+diversity
+
+
+jobsblog
+
+
+news center
+
+
+stories
+
+
+the fire hose
+
+
+women at microsoft
+
+
+
+
+tips and tools
+
+
+apply history
+
+
+frequently asked questions
+
+
+help center
+
+
+interview tips
+
+
+job watch list
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+legal
+privacy
+contact us
+©2017 microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
